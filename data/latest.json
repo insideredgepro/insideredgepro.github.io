@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-03T22:28:20Z",
-  "trade_count": 5083,
+  "last_updated": "2026-03-03T23:26:04Z",
+  "trade_count": 5087,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -81329,6 +81329,70 @@
       "delta_own": "+77%",
       "value": "2021586",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-03",
+      "filing_time": "18:15",
+      "trade_date": "2025-12-23",
+      "ticker": "PRHI",
+      "company": "Presurance Holdings, Inc.",
+      "insider_name": "Clarkston Companies, Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "1.88",
+      "qty": "9066960",
+      "owned": "9066960",
+      "delta_own": "New",
+      "value": "17065360",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-03",
+      "filing_time": "17:35",
+      "trade_date": "2026-02-27",
+      "ticker": "AUPH",
+      "company": "Aurinia Pharmaceuticals Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "14.10",
+      "qty": "900000",
+      "owned": "12229500",
+      "delta_own": "+8%",
+      "value": "12688806",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-03",
+      "filing_time": "17:32",
+      "trade_date": "2026-02-27",
+      "ticker": "SABR",
+      "company": "Sabre Corp",
+      "insider_name": "Constellation Software Inc",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "1.16",
+      "qty": "10634702",
+      "owned": "50157523",
+      "delta_own": "+27%",
+      "value": "12341572",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-03",
+      "filing_time": "17:28",
+      "trade_date": "2026-03-02",
+      "ticker": "AGL",
+      "company": "Agilon Health, Inc.",
+      "insider_name": "Shaker Benjamin",
+      "title": "Chief Markets Officer",
+      "trade_type": "P - Purchase",
+      "price": "0.60",
+      "qty": "500000",
+      "owned": "1367674",
+      "delta_own": "+58%",
+      "value": "301050",
+      "cluster_buy": false
     }
   ]
 }
