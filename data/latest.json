@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-04T21:56:09Z",
-  "trade_count": 5116,
+  "last_updated": "2026-03-04T22:30:11Z",
+  "trade_count": 5119,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -81857,6 +81857,54 @@
       "delta_own": "0%",
       "value": "79394",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-04",
+      "filing_time": "17:18",
+      "trade_date": "2026-03-03",
+      "ticker": "CARG",
+      "company": "Cargurus, Inc.",
+      "insider_name": "Kaufer Stephen",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "32.50",
+      "qty": "30766",
+      "owned": "323939",
+      "delta_own": "+10%",
+      "value": "1000034",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-04",
+      "filing_time": "17:09",
+      "trade_date": "2026-03-04",
+      "ticker": "GPK",
+      "company": "Graphic Packaging Holding Co",
+      "insider_name": "Rietbroek Robbert",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "11.32",
+      "qty": "44278",
+      "owned": "44278",
+      "delta_own": "New",
+      "value": "501099",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-04",
+      "filing_time": "16:57",
+      "trade_date": "2026-03-03",
+      "ticker": "HBAN",
+      "company": "Huntington Bancshares Inc /Md/",
+      "insider_name": "Rollins James D III",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "17.65",
+      "qty": "4915",
+      "owned": "4915",
+      "delta_own": "New",
+      "value": "86750",
+      "cluster_buy": true
     }
   ]
 }
