@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-04T12:54:50Z",
-  "trade_count": 5100,
+  "last_updated": "2026-03-04T13:58:01Z",
+  "trade_count": 5101,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -80944,7 +80944,7 @@
       "owned": "1463226",
       "delta_own": "+4%",
       "value": "345000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-03",
@@ -81600,6 +81600,22 @@
       "owned": "95795",
       "delta_own": "+3%",
       "value": "122936",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-04",
+      "filing_time": "08:56",
+      "trade_date": "2026-03-02",
+      "ticker": "EOSE",
+      "company": "Eos Energy Enterprises, Inc.",
+      "insider_name": "Dimitrief Alexander",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "6.04",
+      "qty": "15000",
+      "owned": "245221",
+      "delta_own": "+7%",
+      "value": "90600",
       "cluster_buy": true
     }
   ]
