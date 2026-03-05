@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-05T10:38:07Z",
-  "trade_count": 5131,
+  "last_updated": "2026-03-05T11:32:55Z",
+  "trade_count": 5133,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -82097,6 +82097,38 @@
       "delta_own": "+661%",
       "value": "107250",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-05",
+      "filing_time": "06:30",
+      "trade_date": "2026-03-03",
+      "ticker": "ABTC",
+      "company": "American Bitcoin Corp.",
+      "insider_name": "Mateen Justin",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.03",
+      "qty": "1800000",
+      "owned": "2524975",
+      "delta_own": "+248%",
+      "value": "1854000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-05",
+      "filing_time": "06:30",
+      "trade_date": "2026-03-03",
+      "ticker": "ABTC",
+      "company": "American Bitcoin Corp.",
+      "insider_name": "Busch Richard",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.01",
+      "qty": "330000",
+      "owned": "1330975",
+      "delta_own": "+33%",
+      "value": "333900",
+      "cluster_buy": true
     }
   ]
 }
