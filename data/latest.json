@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-05T12:58:30Z",
-  "trade_count": 5133,
+  "last_updated": "2026-03-05T14:03:53Z",
+  "trade_count": 5137,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -82128,6 +82128,70 @@
       "owned": "1330975",
       "delta_own": "+33%",
       "value": "333900",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-05",
+      "filing_time": "08:59",
+      "trade_date": "2026-03-03",
+      "ticker": "SSP",
+      "company": "E.W. Scripps Co",
+      "insider_name": "Barmonde Charles L.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "3.91",
+      "qty": "40000",
+      "owned": "1325735",
+      "delta_own": "+3%",
+      "value": "156324",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-05",
+      "filing_time": "08:48",
+      "trade_date": "2026-03-04",
+      "ticker": "EOSE",
+      "company": "Eos Energy Enterprises, Inc.",
+      "insider_name": "Mastrangelo Joe",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "6.58",
+      "qty": "23900",
+      "owned": "1487126",
+      "delta_own": "+2%",
+      "value": "157262",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-05",
+      "filing_time": "08:45",
+      "trade_date": "2026-03-03",
+      "ticker": "SSP",
+      "company": "E.W. Scripps Co",
+      "insider_name": "Symson Adam",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.69",
+      "qty": "26910",
+      "owned": "1164457",
+      "delta_own": "+2%",
+      "value": "99185",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-05",
+      "filing_time": "08:29",
+      "trade_date": "2026-03-03",
+      "ticker": "LEE",
+      "company": "Lee Enterprises, Inc",
+      "insider_name": "Quint Digital Ltd",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "9.13",
+      "qty": "10000",
+      "owned": "3244800",
+      "delta_own": "0%",
+      "value": "91275",
       "cluster_buy": true
     }
   ]
