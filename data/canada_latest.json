@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T05:16:19Z",
-  "trade_count": 60,
+  "last_updated": "2026-03-06T05:41:49Z",
+  "trade_count": 59,
   "currency": "CAD",
   "trades": [
     {
@@ -658,22 +658,6 @@
       "currency": "CAD",
       "exchange": "TSX",
       "cluster_buy": true
-    },
-    {
-      "filing_date": "2026-02-09",
-      "trade_date": "2026-02-06",
-      "ticker": "PBIT",
-      "company": "POSaBIT Systems Corporation",
-      "insider_name": "Jaffe, Bruce Alan",
-      "title": "",
-      "price": "0.041US",
-      "qty": "25000",
-      "owned": "",
-      "delta_own": "",
-      "value": "25000",
-      "currency": "CAD",
-      "exchange": "TSX",
-      "cluster_buy": false
     },
     {
       "filing_date": "2026-02-24",
