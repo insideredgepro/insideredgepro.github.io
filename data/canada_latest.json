@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T05:41:49Z",
-  "trade_count": 59,
+  "last_updated": "2026-03-06T11:35:48Z",
+  "trade_count": 60,
   "currency": "CAD",
   "trades": [
     {
@@ -607,6 +607,22 @@
       "owned": "",
       "delta_own": "",
       "value": "30892480",
+      "currency": "CAD",
+      "exchange": "TSX",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-05",
+      "trade_date": "2026-03-05",
+      "ticker": "PSIL",
+      "company": "Pacifica Silver Corp.",
+      "insider_name": "Anthony, Todd Olson",
+      "title": "",
+      "price": "1.37",
+      "qty": "20000",
+      "owned": "",
+      "delta_own": "",
+      "value": "27400",
       "currency": "CAD",
       "exchange": "TSX",
       "cluster_buy": false

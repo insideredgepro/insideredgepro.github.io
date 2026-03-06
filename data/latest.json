@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T05:40:36Z",
-  "trade_count": 5158,
+  "last_updated": "2026-03-06T11:34:18Z",
+  "trade_count": 5159,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -82528,6 +82528,22 @@
       "owned": "3526992",
       "delta_own": "+2%",
       "value": "86588",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-06",
+      "filing_time": "06:02",
+      "trade_date": "2026-03-02",
+      "ticker": "CLRO",
+      "company": "Clearone Inc",
+      "insider_name": "First Finance Ltd.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "4.00",
+      "qty": "437500",
+      "owned": "1641162",
+      "delta_own": "+36%",
+      "value": "1750000",
       "cluster_buy": false
     }
   ]
