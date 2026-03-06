@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T16:50:04Z",
-  "trade_count": 5160,
+  "last_updated": "2026-03-06T17:39:09Z",
+  "trade_count": 5161,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -944,7 +944,7 @@
       "owned": "32146",
       "delta_own": "+46%",
       "value": "338436",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-02-23",
@@ -82561,6 +82561,22 @@
       "delta_own": "+469%",
       "value": "869520",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-06",
+      "filing_time": "12:34",
+      "trade_date": "2026-03-05",
+      "ticker": "FFIN",
+      "company": "First Financial Bankshares Inc",
+      "insider_name": "Trotter Johnny",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "30.02",
+      "qty": "4000",
+      "owned": "1023444",
+      "delta_own": "0%",
+      "value": "120080",
+      "cluster_buy": true
     }
   ]
 }
