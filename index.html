@@ -595,6 +595,19 @@
       opacity: .3;
     }
 
+    #market-closed-banner {
+      display: none;
+      margin: 0 0 16px 0;
+      padding: 10px 16px;
+      background: rgba(240,168,0,.1);
+      border: 1px solid rgba(240,168,0,.25);
+      border-radius: 8px;
+      color: var(--gold);
+      font-size: 13px;
+      font-weight: 500;
+      text-align: center;
+    }
+
     #no-results p {
       font-size: 15px;
       font-weight: 500;
@@ -1084,6 +1097,8 @@
     <p>No trades match your filters.</p>
   </div>
 
+  <div id="market-closed-banner"></div>
+
   <div class="table-scroll">
     <table id="trades-table">
       <thead>
@@ -1161,7 +1176,8 @@
   const refreshDotEl   = document.getElementById('refresh-dot');
   const errorBannerEl  = document.getElementById('error-banner');
   const tableBodyEl    = document.getElementById('table-body');
-  const noResultsEl    = document.getElementById('no-results');
+  const noResultsEl      = document.getElementById('no-results');
+  const marketBannerEl   = document.getElementById('market-closed-banner');
   const searchInputEl  = document.getElementById('search-input');
   const titleFilterEl  = document.getElementById('title-filter');
   const btnReset         = document.getElementById('btn-reset');
@@ -1323,16 +1339,44 @@
     statTotalValue.textContent = formatCurrency(totalValue);
     statTickers.textContent    = uniqueTickers.toLocaleString();
 
+    marketBannerEl.style.display = 'none';
+
     if (filtered.length === 0) {
+      // If 1D is empty (weekend/holiday), auto-show last active day
+      if (dateRange === '1' && allTrades.length > 0) {
+        const lastDate = allTrades.reduce((max, t) => t.filing_date > max ? t.filing_date : max, '');
+        const lastDayTrades = allTrades.filter(t => t.filing_date === lastDate);
+        if (lastDayTrades.length > 0) {
+          const d = new Date(lastDate + 'T00:00:00');
+          const label = d.toLocaleDateString('en-US', { weekday: 'long', month: 'short', day: 'numeric', year: 'numeric' });
+          marketBannerEl.textContent = '🌙  Markets closed — showing last active session (' + label + ')';
+          marketBannerEl.style.display = 'block';
+          noResultsEl.style.display = 'none';
+          // Re-render with last active day trades
+          const totalValue2   = lastDayTrades.reduce((s, t) => s + parseNumber(t.value), 0);
+          const clusterCount2 = lastDayTrades.filter(t => t.cluster_buy).length;
+          const uniqueTickers2 = new Set(lastDayTrades.map(t => t.ticker)).size;
+          statVisible.textContent    = lastDayTrades.length.toLocaleString();
+          statClusters.textContent   = clusterCount2.toLocaleString();
+          statTotalValue.textContent = formatCurrency(totalValue2);
+          statTickers.textContent    = uniqueTickers2.toLocaleString();
+          renderRows(lastDayTrades);
+          return;
+        }
+      }
       tableBodyEl.innerHTML = '';
       noResultsEl.style.display = 'block';
       return;
     }
     noResultsEl.style.display = 'none';
 
+    renderRows(filtered);
+  }
+
+  function renderRows(trades) {
     // Group by ticker
     const groupMap = new Map();
-    filtered.forEach(t => {
+    trades.forEach(t => {
       if (!groupMap.has(t.ticker)) groupMap.set(t.ticker, []);
       groupMap.get(t.ticker).push(t);
     });
