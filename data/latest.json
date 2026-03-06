@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T17:39:09Z",
-  "trade_count": 5161,
+  "last_updated": "2026-03-06T18:53:59Z",
+  "trade_count": 5163,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -82577,6 +82577,38 @@
       "delta_own": "0%",
       "value": "120080",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-06",
+      "filing_time": "13:34",
+      "trade_date": "2026-03-04",
+      "ticker": "LEE",
+      "company": "Lee Enterprises, Inc",
+      "insider_name": "Hoffmann David Henry",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "9.21",
+      "qty": "38000",
+      "owned": "11727349",
+      "delta_own": "0%",
+      "value": "349980",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-06",
+      "filing_time": "13:13",
+      "trade_date": "2026-03-06",
+      "ticker": "HR",
+      "company": "Healthcare Realty Trust Inc",
+      "insider_name": "Bohjalian Thomas N",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "18.09",
+      "qty": "10000",
+      "owned": "85520",
+      "delta_own": "+13%",
+      "value": "180900",
+      "cluster_buy": false
     }
   ]
 }

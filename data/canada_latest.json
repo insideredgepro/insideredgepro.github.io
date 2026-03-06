@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T17:41:00Z",
-  "trade_count": 65,
+  "last_updated": "2026-03-06T18:55:56Z",
+  "trade_count": 67,
   "currency": "CAD",
   "trades": [
     {
@@ -436,65 +436,65 @@
       "cluster_buy": true
     },
     {
-      "filing_date": "2026-03-05",
+      "filing_date": "2026-03-06",
       "trade_date": "2026-03-02",
       "ticker": "FTS",
       "company": "Fortis Inc.",
       "insider_name": "Reid, James",
       "title": "",
       "price": "78.04",
-      "qty": "1170",
+      "qty": "1179",
       "owned": "",
       "delta_own": "",
-      "value": "91306",
+      "value": "92009",
       "currency": "CAD",
       "exchange": "TSX",
       "cluster_buy": true
     },
     {
-      "filing_date": "2026-03-05",
+      "filing_date": "2026-03-06",
       "trade_date": "2026-03-02",
       "ticker": "FTS",
       "company": "Fortis Inc.",
       "insider_name": "Woodbury, Kevin",
       "title": "",
       "price": "78.04",
-      "qty": "570",
+      "qty": "555",
       "owned": "",
       "delta_own": "",
-      "value": "44482",
+      "value": "43312",
       "currency": "CAD",
       "exchange": "TSX",
       "cluster_buy": true
     },
     {
-      "filing_date": "2026-03-05",
+      "filing_date": "2026-03-06",
       "trade_date": "2026-03-02",
       "ticker": "FTS",
       "company": "Fortis Inc.",
       "insider_name": "Smith, Gary Joseph",
       "title": "",
       "price": "78.04",
-      "qty": "1234",
+      "qty": "1251",
       "owned": "",
       "delta_own": "",
-      "value": "96301",
+      "value": "97628",
       "currency": "CAD",
       "exchange": "TSX",
       "cluster_buy": true
     },
     {
-      "filing_date": "2026-03-05",
+      "filing_date": "2026-03-06",
       "trade_date": "2026-03-02",
       "ticker": "FTS",
       "company": "Fortis Inc.",
       "insider_name": "Martin, Kealey Darlene",
       "title": "",
       "price": "78.04",
-      "qty": "337",
+      "qty": "343",
       "owned": "",
       "delta_own": "",
-      "value": "26299",
+      "value": "26767",
       "currency": "CAD",
       "exchange": "TSX",
       "cluster_buy": true
@@ -559,6 +559,22 @@
       "owned": "",
       "delta_own": "",
       "value": "32000",
+      "currency": "CAD",
+      "exchange": "TSX",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-06",
+      "trade_date": "2026-03-05",
+      "ticker": "HBM",
+      "company": "Hudbay Minerals Inc.",
+      "insider_name": "Lauzon, Andr\u00e9 Taylor",
+      "title": "",
+      "price": "31.43",
+      "qty": "1600",
+      "owned": "",
+      "delta_own": "",
+      "value": "50288",
       "currency": "CAD",
       "exchange": "TSX",
       "cluster_buy": false
@@ -788,6 +804,22 @@
       "cluster_buy": false
     },
     {
+      "filing_date": "2026-03-06",
+      "trade_date": "2025-12-31",
+      "ticker": "SIA",
+      "company": "Sienna Senior Living Inc.",
+      "insider_name": "Johnston, Brian",
+      "title": "",
+      "price": "17.17",
+      "qty": "3236",
+      "owned": "",
+      "delta_own": "",
+      "value": "55562",
+      "currency": "CAD",
+      "exchange": "TSX",
+      "cluster_buy": false
+    },
+    {
       "filing_date": "2026-03-05",
       "trade_date": "2026-03-05",
       "ticker": "SIG",
@@ -980,6 +1012,22 @@
       "cluster_buy": false
     },
     {
+      "filing_date": "2026-03-06",
+      "trade_date": "2026-03-06",
+      "ticker": "WCP",
+      "company": "Whitecap Resources Inc.",
+      "insider_name": "Zdunich, Jeffery Byron",
+      "title": "",
+      "price": "14.00",
+      "qty": "7250",
+      "owned": "",
+      "delta_own": "",
+      "value": "101500",
+      "currency": "CAD",
+      "exchange": "TSX",
+      "cluster_buy": true
+    },
+    {
       "filing_date": "2026-03-05",
       "trade_date": "2026-03-05",
       "ticker": "WCP",
@@ -993,7 +1041,7 @@
       "value": "34300",
       "currency": "CAD",
       "exchange": "TSX",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-02-06",
@@ -1009,23 +1057,7 @@
       "value": "120759",
       "currency": "CAD",
       "exchange": "TSX",
-      "cluster_buy": true
-    },
-    {
-      "filing_date": "2026-02-06",
-      "trade_date": "2025-12-31",
-      "ticker": "WCP",
-      "company": "Whitecap Resources Inc.",
-      "insider_name": "Mombourquette, David Michael",
-      "title": "",
-      "price": "9.87",
-      "qty": "14121",
-      "owned": "",
-      "delta_own": "",
-      "value": "139374",
-      "currency": "CAD",
-      "exchange": "TSX",
-      "cluster_buy": true
+      "cluster_buy": false
     },
     {
       "filing_date": "2026-03-04",
