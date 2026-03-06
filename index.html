@@ -313,45 +313,6 @@
       color: #fff;
     }
 
-    /* ================================================================== */
-    /* MARKET TOGGLE                                                        */
-    /* ================================================================== */
-    .market-toggle {
-      display: inline-flex;
-      align-items: center;
-      background: var(--surface2);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: 3px;
-      gap: 2px;
-    }
-
-    .market-toggle-btn {
-      display: inline-flex;
-      align-items: center;
-      gap: 5px;
-      padding: 5px 12px;
-      border-radius: 6px;
-      border: none;
-      background: transparent;
-      color: var(--text2);
-      font-size: 12px;
-      font-weight: 600;
-      cursor: pointer;
-      transition: background .15s, color .15s;
-      white-space: nowrap;
-    }
-
-    .market-toggle-btn.active {
-      background: var(--surface3);
-      color: var(--text);
-    }
-
-    .market-toggle-btn:hover:not(.active) {
-      color: var(--text);
-    }
-
-
 
     /* ================================================================== */
     /* DIVIDER LINE                                                         */
@@ -1206,7 +1167,7 @@
   </div>
 
   <div class="footer-legal">
-    &copy; 2025 InsiderEdge. All rights reserved.<br/>
+    &copy; 2026 InsiderEdge. All rights reserved.<br/>
     <span style="color:var(--muted)">For informational purposes only. Not financial advice.<br/>
     Insider trading data sourced from public SEC filings.</span>
   </div>
@@ -1341,7 +1302,7 @@
       if (title !== 'all' && classifyTitle(t.title) !== title) return false;
       if (cutoff && (t.filing_date || '') < cutoff) return false;
       if (search) {
-        const hay = ((t.ticker || '') + ' ' + (t.company || '')).toLowerCase();
+        const hay = ((t.ticker || '') + ' ' + (t.company || '') + ' ' + (t.insider_name || '')).toLowerCase();
         if (!hay.includes(search)) return false;
       }
       return true;
@@ -1395,18 +1356,9 @@
   /* ------------------------------------------------------------------ */
   function renderTable() {
     const filtered = applyFilters(allTrades);
-
-    const totalValue    = filtered.reduce((s, t) => s + parseNumber(t.value), 0);
-    const clusterCount  = filtered.filter(t => t.cluster_buy).length;
-    const uniqueTickers = new Set(filtered.map(t => t.ticker)).size;
-
-    statVisible.textContent    = filtered.length.toLocaleString();
-    tradeCountEl.textContent   = filtered.length.toLocaleString() + ' trades';
-    statClusters.textContent   = clusterCount.toLocaleString();
-    statTotalValue.textContent = formatCurrency(totalValue);
-    statTickers.textContent    = uniqueTickers.toLocaleString();
-
     marketBannerEl.style.display = 'none';
+
+    let displayTrades = filtered;
 
     if (filtered.length === 0) {
       // If 1D is empty (weekend/holiday), auto-show last active day
@@ -1419,26 +1371,32 @@
           marketBannerEl.textContent = '🌙  Markets closed — showing last active session (' + label + ')';
           marketBannerEl.style.display = 'block';
           noResultsEl.style.display = 'none';
-          // Re-render with last active day trades
-          const totalValue2   = lastDayTrades.reduce((s, t) => s + parseNumber(t.value), 0);
-          const clusterCount2 = lastDayTrades.filter(t => t.cluster_buy).length;
-          const uniqueTickers2 = new Set(lastDayTrades.map(t => t.ticker)).size;
-          statVisible.textContent    = lastDayTrades.length.toLocaleString();
-          tradeCountEl.textContent   = lastDayTrades.length.toLocaleString() + ' trades';
-          statClusters.textContent   = clusterCount2.toLocaleString();
-          statTotalValue.textContent = formatCurrency(totalValue2);
-          statTickers.textContent    = uniqueTickers2.toLocaleString();
-          renderRows(lastDayTrades);
-          return;
+          displayTrades = lastDayTrades;
         }
       }
-      tableBodyEl.innerHTML = '';
-      noResultsEl.style.display = 'block';
-      return;
+      if (displayTrades === filtered) {
+        tableBodyEl.innerHTML = '';
+        noResultsEl.style.display = 'block';
+        tradeCountEl.textContent = '0 trades';
+        statVisible.textContent = '0'; statClusters.textContent = '0';
+        statTotalValue.textContent = '—'; statTickers.textContent = '0';
+        return;
+      }
+    } else {
+      noResultsEl.style.display = 'none';
     }
-    noResultsEl.style.display = 'none';
 
-    renderRows(filtered);
+    const totalValue    = displayTrades.reduce((s, t) => s + parseNumber(t.value), 0);
+    const clusterCount  = displayTrades.filter(t => t.cluster_buy).length;
+    const uniqueTickers = new Set(displayTrades.map(t => t.ticker)).size;
+
+    statVisible.textContent    = displayTrades.length.toLocaleString();
+    tradeCountEl.textContent   = displayTrades.length.toLocaleString() + ' trades';
+    statClusters.textContent   = clusterCount.toLocaleString();
+    statTotalValue.textContent = formatCurrency(totalValue);
+    statTickers.textContent    = uniqueTickers.toLocaleString();
+
+    renderRows(displayTrades);
   }
 
   function renderRows(trades) {
@@ -1567,7 +1525,8 @@
   /* ------------------------------------------------------------------ */
   /* Filter events                                                         */
   /* ------------------------------------------------------------------ */
-  searchInputEl.addEventListener('input', () => renderTable());
+  function debounce(fn, ms) { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); }; }
+  searchInputEl.addEventListener('input', debounce(() => renderTable(), 250));
   titleFilterEl.addEventListener('change', () => renderTable());
   dateRangeGroupEl.querySelectorAll('.btn-range').forEach(btn => {
     btn.addEventListener('click', () => {
