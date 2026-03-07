@@ -352,23 +352,66 @@ footer {
 /* ================================================================== */
 /* RESPONSIVE                                                           */
 /* ================================================================== */
+
+/* --- Tablet (≤900px) --- */
 @media (max-width: 900px) {
   .topbar { display: none; }
-  header { padding: 0 16px; }
+
+  header { padding: 0 16px; gap: 10px; }
   .header-center .live-pill { display: none; }
   #last-updated { display: none !important; }
   .brand-tagline { display: none; }
+
+  /* Compact market nav */
+  .market-nav-btn { padding: 5px 10px; font-size: 11px; }
+
+  /* Hide PRO button, shrink Discord */
+  .btn-pro { display: none; }
+  .btn-discord { font-size: 11px; padding: 6px 12px; }
+
   .stats { grid-template-columns: repeat(2, 1fr); }
-  .filters-wrap { padding: 12px 16px; }
+
+  .filters-wrap { padding: 10px 16px; gap: 8px; }
   #search-input { width: 160px; }
-  footer { padding: 20px 16px; }
-}
-@media (max-width: 768px) {
+
+  /* Smooth horizontal scroll on touch */
+  .table-scroll { -webkit-overflow-scrolling: touch; overscroll-behavior-x: contain; }
+
+  footer { padding: 20px 16px; flex-direction: column; gap: 16px; }
   .footer-legal { text-align: left; }
 }
-@media (max-width: 560px) {
-  .stats { grid-template-columns: repeat(2, 1fr); }
-  .stat-value { font-size: 22px; }
+
+/* --- Mobile (≤600px) --- */
+@media (max-width: 600px) {
   header { height: 56px; }
   .filters-wrap { top: 56px; }
+  .nav-label { display: none; }
+
+  /* Stack filters vertically */
+  .filters-wrap { flex-direction: column; align-items: stretch; padding: 10px 12px; gap: 8px; }
+  .filter-group { flex-wrap: wrap; gap: 6px; }
+  .search-wrap { width: 100%; }
+  #search-input { width: 100%; }
+  .btn-reset { margin-left: 0; width: 100%; text-align: center; }
+
+  /* Compact stat cards */
+  .stat-card { padding: 14px 12px; }
+  .stat-value { font-size: 22px; }
+  .stat-label { font-size: 9px; }
+
+  /* Compact market nav — hide flag labels, keep icons */
+  .market-nav-btn { padding: 5px 8px; gap: 3px; font-size: 10px; }
+
+  /* Hide Discord text label, keep icon */
+  .btn-discord span { display: none; }
+  .btn-discord { padding: 7px 10px; }
+}
+
+/* --- Small phones (≤400px) --- */
+@media (max-width: 400px) {
+  .brand-name { font-size: 15px; }
+  .stat-value { font-size: 20px; }
+  header { padding: 0 10px; }
+  .market-nav { gap: 1px; }
+  .market-nav-btn { padding: 4px 6px; font-size: 10px; }
 }
