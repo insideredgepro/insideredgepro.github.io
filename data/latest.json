@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-09T13:13:58Z",
-  "trade_count": 5189,
+  "last_updated": "2026-03-09T15:08:40Z",
+  "trade_count": 5193,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -83024,6 +83024,70 @@
       "owned": "6398211",
       "delta_own": "+1%",
       "value": "91200",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-09",
+      "filing_time": "09:39",
+      "trade_date": "2026-03-06",
+      "ticker": "PFBX",
+      "company": "Peoples Financial Corp /Ms/",
+      "insider_name": "Stilwell Joseph",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "21.00",
+      "qty": "2657",
+      "owned": "738135",
+      "delta_own": "0%",
+      "value": "55797",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-09",
+      "filing_time": "09:32",
+      "trade_date": "2026-03-06",
+      "ticker": "BWFG",
+      "company": "Bankwell Financial Group, Inc.",
+      "insider_name": "Seidman Lawrence B",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "45.77",
+      "qty": "1271",
+      "owned": "805919",
+      "delta_own": "0%",
+      "value": "58180",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-09",
+      "filing_time": "09:19",
+      "trade_date": "2026-03-06",
+      "ticker": "GPRE",
+      "company": "Green Plains Inc.",
+      "insider_name": "Sweeney Patrick Francis",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "15.87",
+      "qty": "6383",
+      "owned": "42719",
+      "delta_own": "+18%",
+      "value": "101298",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-09",
+      "filing_time": "09:14",
+      "trade_date": "2026-03-05",
+      "ticker": "ADMA",
+      "company": "Adma Biologics, Inc.",
+      "insider_name": "Elms Steve",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "15.53",
+      "qty": "14000",
+      "owned": "2143750",
+      "delta_own": "+1%",
+      "value": "217420",
       "cluster_buy": false
     }
   ]
