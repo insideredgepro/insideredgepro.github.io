@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-09T16:03:49Z",
-  "trade_count": 5193,
+  "last_updated": "2026-03-09T17:50:08Z",
+  "trade_count": 5194,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -83088,6 +83088,22 @@
       "owned": "2143750",
       "delta_own": "+1%",
       "value": "217420",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-09",
+      "filing_time": "13:31",
+      "trade_date": "2026-03-06",
+      "ticker": "AMRZ",
+      "company": "Amrize Ltd",
+      "insider_name": "Jenisch Jan Philipp",
+      "title": "COB, CEO",
+      "trade_type": "P - Purchase",
+      "price": "58.05",
+      "qty": "60000",
+      "owned": "2208582",
+      "delta_own": "+3%",
+      "value": "3483000",
       "cluster_buy": false
     }
   ]
