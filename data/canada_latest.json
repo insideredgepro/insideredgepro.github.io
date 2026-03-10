@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-08T17:25:00Z",
-  "trade_count": 2489,
+  "last_updated": "2026-03-10T00:49:08Z",
+  "trade_count": 2496,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -34757,7 +34757,7 @@
       "price": "104.1725",
       "value": "312517",
       "currency": "CAD",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4664781",
@@ -37338,6 +37338,111 @@
       "value": "101500",
       "currency": "CAD",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4676536",
+      "trade_date": "2026-03-09",
+      "filing_date": "2026-03-09",
+      "company": "Baytex Energy Corp.",
+      "ticker": "BTE",
+      "insider_name": "Lundberg, Chad",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "18500",
+      "price": "5.4200",
+      "value": "100270",
+      "currency": "CAD",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4675691",
+      "trade_date": "2026-03-09",
+      "filing_date": "2026-03-09",
+      "company": "Baytex Energy Corp.",
+      "ticker": "BTE",
+      "insider_name": "Maclean, James Robert",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "15000",
+      "price": "5.4500",
+      "value": "81750",
+      "currency": "CAD",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4675704",
+      "trade_date": "2026-03-09",
+      "filing_date": "2026-03-09",
+      "company": "Killam Apartment Real Estate Investment Trust",
+      "ticker": "",
+      "insider_name": "Walt, Manfred",
+      "title": "Director",
+      "security": "Trust Units",
+      "qty": "8000",
+      "price": "16.2125",
+      "value": "129699",
+      "currency": "CAD",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4676647",
+      "trade_date": "2026-03-09",
+      "filing_date": "2026-03-09",
+      "company": "Lumine Group Inc.",
+      "ticker": "LMN",
+      "insider_name": "Sharpley, David",
+      "title": "Senior Officer",
+      "security": "Subordinate Voting Shares",
+      "qty": "8000",
+      "price": "26.8160",
+      "value": "214528",
+      "currency": "CAD",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4676070",
+      "trade_date": "2026-03-09",
+      "filing_date": "2026-03-09",
+      "company": "ONEX CORPORATION",
+      "ticker": "ONEX",
+      "insider_name": "Popatia, Tawfiq",
+      "title": "Senior Officer",
+      "security": "Subordinate Voting Shares",
+      "qty": "6106",
+      "price": "99.7100",
+      "value": "608829",
+      "currency": "CAD",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4676651",
+      "trade_date": "2026-03-09",
+      "filing_date": "2026-03-09",
+      "company": "STLLR Gold Inc.",
+      "ticker": "STLR",
+      "insider_name": "Salehi, Keyvan",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "35000",
+      "price": "1.8500",
+      "value": "64750",
+      "currency": "CAD",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4675742",
+      "trade_date": "2026-03-09",
+      "filing_date": "2026-03-09",
+      "company": "Vermilion Energy Inc.",
+      "ticker": "VET",
+      "insider_name": "Stadnyk, Myron Maurice",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "3000",
+      "price": "15.6345",
+      "value": "46903",
+      "currency": "CAD",
+      "cluster_buy": false
     }
   ]
 }
