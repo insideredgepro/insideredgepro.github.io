@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T18:57:07Z",
-  "trade_count": 5237,
+  "last_updated": "2026-03-10T19:42:01Z",
+  "trade_count": 5238,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -83792,6 +83792,22 @@
       "owned": "229585",
       "delta_own": "+3%",
       "value": "231593",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "15:39",
+      "trade_date": "2026-03-10",
+      "ticker": "MLAB",
+      "company": "Mesa Laboratories Inc /Co/",
+      "insider_name": "Tripeny R Tony",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "76.00",
+      "qty": "1315",
+      "owned": "5398",
+      "delta_own": "+32%",
+      "value": "99940",
       "cluster_buy": false
     }
   ]
