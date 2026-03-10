@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-10",
-  "entry_count": 472,
+  "entry_count": 473,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -9829,6 +9829,26 @@
       },
       "latest_price": 29.47,
       "return_pct": 0.58,
+      "last_snapshot": "2026-03-10"
+    },
+    {
+      "id": "US|EOSE|2026-03-09|Urban David",
+      "market": "US",
+      "ticker": "EOSE",
+      "yf_symbol": "EOSE",
+      "company": "Eos Energy Enterprises, Inc.",
+      "insider_name": "Urban David",
+      "title": "Dir",
+      "trade_date": "2026-03-09",
+      "trade_price": 6.16,
+      "value": 100100.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-10": 6.17
+      },
+      "latest_price": 6.17,
+      "return_pct": 0.16,
       "last_snapshot": "2026-03-10"
     }
   ]

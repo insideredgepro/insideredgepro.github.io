@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T11:36:43Z",
-  "trade_count": 5230,
+  "last_updated": "2026-03-10T13:11:54Z",
+  "trade_count": 5231,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -83680,6 +83680,22 @@
       "owned": "63419",
       "delta_own": "+3%",
       "value": "58600",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "08:52",
+      "trade_date": "2026-03-09",
+      "ticker": "EOSE",
+      "company": "Eos Energy Enterprises, Inc.",
+      "insider_name": "Urban David",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "6.16",
+      "qty": "16250",
+      "owned": "62471",
+      "delta_own": "+35%",
+      "value": "100100",
       "cluster_buy": true
     }
   ]
