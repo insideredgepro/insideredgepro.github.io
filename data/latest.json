@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T17:50:35Z",
-  "trade_count": 5235,
+  "last_updated": "2026-03-10T18:57:07Z",
+  "trade_count": 5237,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -83760,6 +83760,38 @@
       "owned": "35858",
       "delta_own": "+8%",
       "value": "50004",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "14:22",
+      "trade_date": "2026-03-06",
+      "ticker": "EML",
+      "company": "Eastern Co",
+      "insider_name": "Mitarotonda James A",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "18.43",
+      "qty": "7409",
+      "owned": "685136",
+      "delta_own": "+1%",
+      "value": "136554",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-10",
+      "filing_time": "14:16",
+      "trade_date": "2026-03-09",
+      "ticker": "ROCK",
+      "company": "Gibraltar Industries, Inc.",
+      "insider_name": "Bosway William T",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "38.60",
+      "qty": "6000",
+      "owned": "229585",
+      "delta_own": "+3%",
+      "value": "231593",
       "cluster_buy": false
     }
   ]
