@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-11T20:38:51Z",
-  "trade_count": 5285,
+  "last_updated": "2026-03-11T21:38:15Z",
+  "trade_count": 5291,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -81984,7 +81984,7 @@
       "owned": "7794",
       "delta_own": "+156%",
       "value": "98325",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-04",
@@ -83200,7 +83200,7 @@
       "owned": "3701366",
       "delta_own": "+6%",
       "value": "128780",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-09",
@@ -84561,6 +84561,102 @@
       "delta_own": ">999%",
       "value": "297345",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "17:22",
+      "trade_date": "2026-03-09",
+      "ticker": "SPRU",
+      "company": "Spruce Power Holding Corp",
+      "insider_name": "Steel Partners Holdings L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "4.00",
+      "qty": "24073",
+      "owned": "3241599",
+      "delta_own": "+1%",
+      "value": "96307",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "17:16",
+      "trade_date": "2026-03-10",
+      "ticker": "NCDL",
+      "company": "Nuveen Churchill Direct Lending Corp.",
+      "insider_name": "Ritchie James Joseph",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "13.71",
+      "qty": "17857",
+      "owned": "82159",
+      "delta_own": "+28%",
+      "value": "244819",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "17:10",
+      "trade_date": "2026-03-10",
+      "ticker": "AVTR",
+      "company": "Avantor, Inc.",
+      "insider_name": "Mehra Sanjeev K",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "8.01",
+      "qty": "125000",
+      "owned": "483106",
+      "delta_own": "+35%",
+      "value": "1001250",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "17:05",
+      "trade_date": "2026-03-10",
+      "ticker": "MCB",
+      "company": "Metropolitan Bank Holding Corp.",
+      "insider_name": "Dougherty Daniel F",
+      "title": "EVP, CFO",
+      "trade_type": "P - Purchase",
+      "price": "79.95",
+      "qty": "1000",
+      "owned": "32767",
+      "delta_own": "+3%",
+      "value": "79950",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "16:55",
+      "trade_date": "2026-03-09",
+      "ticker": "VITL",
+      "company": "Vital Farms, Inc.",
+      "insider_name": "Khoury Karl",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "18.45",
+      "qty": "5000",
+      "owned": "119789",
+      "delta_own": "+4%",
+      "value": "92250",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "16:30",
+      "trade_date": "2026-03-09",
+      "ticker": "ADV",
+      "company": "Advantage Solutions Inc.",
+      "insider_name": "Kilts James M",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.65",
+      "qty": "141867",
+      "owned": "1515347",
+      "delta_own": "+10%",
+      "value": "92922",
+      "cluster_buy": true
     }
   ]
 }

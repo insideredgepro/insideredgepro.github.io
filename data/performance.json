@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-11",
-  "entry_count": 524,
+  "entry_count": 530,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -11370,6 +11370,126 @@
       },
       "latest_price": 5.0,
       "return_pct": -0.99,
+      "last_snapshot": "2026-03-11"
+    },
+    {
+      "id": "US|SPRU|2026-03-09|Steel Partners Holdings L.P.",
+      "market": "US",
+      "ticker": "SPRU",
+      "yf_symbol": "SPRU",
+      "company": "Spruce Power Holding Corp",
+      "insider_name": "Steel Partners Holdings L.P.",
+      "title": "10%",
+      "trade_date": "2026-03-09",
+      "trade_price": 4.0,
+      "value": 96307.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-11": 4.15
+      },
+      "latest_price": 4.15,
+      "return_pct": 3.75,
+      "last_snapshot": "2026-03-11"
+    },
+    {
+      "id": "US|NCDL|2026-03-10|Ritchie James Joseph",
+      "market": "US",
+      "ticker": "NCDL",
+      "yf_symbol": "NCDL",
+      "company": "Nuveen Churchill Direct Lending Corp.",
+      "insider_name": "Ritchie James Joseph",
+      "title": "Dir",
+      "trade_date": "2026-03-10",
+      "trade_price": 13.71,
+      "value": 244819.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-11": 13.31
+      },
+      "latest_price": 13.31,
+      "return_pct": -2.92,
+      "last_snapshot": "2026-03-11"
+    },
+    {
+      "id": "US|AVTR|2026-03-10|Mehra Sanjeev K",
+      "market": "US",
+      "ticker": "AVTR",
+      "yf_symbol": "AVTR",
+      "company": "Avantor, Inc.",
+      "insider_name": "Mehra Sanjeev K",
+      "title": "Dir",
+      "trade_date": "2026-03-10",
+      "trade_price": 8.01,
+      "value": 1001250.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-11": 8.29
+      },
+      "latest_price": 8.29,
+      "return_pct": 3.5,
+      "last_snapshot": "2026-03-11"
+    },
+    {
+      "id": "US|MCB|2026-03-10|Dougherty Daniel F",
+      "market": "US",
+      "ticker": "MCB",
+      "yf_symbol": "MCB",
+      "company": "Metropolitan Bank Holding Corp.",
+      "insider_name": "Dougherty Daniel F",
+      "title": "EVP, CFO",
+      "trade_date": "2026-03-10",
+      "trade_price": 79.95,
+      "value": 79950.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-11": 79.16
+      },
+      "latest_price": 79.16,
+      "return_pct": -0.99,
+      "last_snapshot": "2026-03-11"
+    },
+    {
+      "id": "US|VITL|2026-03-09|Khoury Karl",
+      "market": "US",
+      "ticker": "VITL",
+      "yf_symbol": "VITL",
+      "company": "Vital Farms, Inc.",
+      "insider_name": "Khoury Karl",
+      "title": "Dir",
+      "trade_date": "2026-03-09",
+      "trade_price": 18.45,
+      "value": 92250.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-11": 17.62
+      },
+      "latest_price": 17.62,
+      "return_pct": -4.5,
+      "last_snapshot": "2026-03-11"
+    },
+    {
+      "id": "US|ADV|2026-03-09|Kilts James M",
+      "market": "US",
+      "ticker": "ADV",
+      "yf_symbol": "ADV",
+      "company": "Advantage Solutions Inc.",
+      "insider_name": "Kilts James M",
+      "title": "Dir",
+      "trade_date": "2026-03-09",
+      "trade_price": 0.65,
+      "value": 92922.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-11": 0.75
+      },
+      "latest_price": 0.75,
+      "return_pct": 15.38,
       "last_snapshot": "2026-03-11"
     }
   ]
