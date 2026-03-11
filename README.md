@@ -1,4 +1,4 @@
-# InsiderEdge — SEC Insider Trading Tracker | Congressional Trades & Insider Buying Alerts
+# InsiderEdgePro — SEC Insider Trading Tracker | Congressional Trades & Insider Buying Alerts
 
 **Live dashboard:** https://insideredgepro.github.io
 
@@ -8,7 +8,7 @@ Real-time tracker for SEC Form 4 insider purchases, **congressional stock trades
 
 ## What Is InsiderEdge?
 
-InsiderEdge is a **free insider trading tracker** that monitors SEC Form 4 open-market purchases, **congressional stock trades (STOCK Act disclosures)**, and Canadian SEDI filings in real time. It detects **cluster buys** — when multiple insiders at the same company buy simultaneously — one of the strongest bullish signals in quantitative finance. Discord alerts cover US insider buys, Canadian insider buys, and politician trades.
+InsiderEdgePro is a **free insider trading tracker** that monitors SEC Form 4 open-market purchases, **congressional stock trades (STOCK Act disclosures)**, and Canadian SEDI filings in real time. It detects **cluster buys** — when multiple insiders at the same company buy simultaneously — one of the strongest bullish signals in quantitative finance. Discord alerts cover US insider buys, Canadian insider buys, and politician trades.
 
 ---
 
@@ -29,7 +29,7 @@ InsiderEdge is a **free insider trading tracker** that monitors SEC Form 4 open-
 ## SEO & Discovery Keywords
 
 ### Primary Keywords
-`SEC Form 4 tracker` · `insider trading tracker` · `insider buying tracker` · `insider purchases dashboard` · `SEC insider trading` · `Form 4 filings real-time` · `insider trading dashboard` · `insider buying signals` · `smart money tracker` · `follow smart money stocks`
+`InsiderEdgePro` · `insideredgepro.github.io` · `SEC Form 4 tracker` · `insider trading tracker` · `insider buying tracker` · `insider purchases dashboard` · `SEC insider trading` · `Form 4 filings real-time` · `insider trading dashboard` · `insider buying signals` · `smart money tracker` · `follow smart money stocks`
 
 ### Long-Tail Keywords
 `real-time SEC Form 4 insider purchases` · `track CEO buying stock today` · `insider cluster buy signal` · `which stocks are insiders buying` · `SEC Form 4 open market purchase` · `free insider trading tracker` · `insider buying alert stocks` · `multiple insiders buying same stock` · `director buying stock signal` · `CFO buying own company stock`
@@ -87,7 +87,7 @@ Academic research consistently shows that **open-market insider purchases** — 
 
 **Cluster buys amplify the signal.** When a CEO, CFO, and two Directors all purchase in the same week, the probability of a meaningful move increases significantly.
 
-InsiderEdge makes this data accessible to every investor — not just hedge funds.
+InsiderEdgePro makes this data accessible to every investor — not just hedge funds.
 
 ---
 
