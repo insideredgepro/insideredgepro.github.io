@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-11T15:54:13Z",
-  "trade_count": 5273,
+  "last_updated": "2026-03-11T16:58:31Z",
+  "trade_count": 5275,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -84320,7 +84320,7 @@
       "owned": "334743",
       "delta_own": "+4%",
       "value": "65125",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-11",
@@ -84368,6 +84368,38 @@
       "owned": "22036",
       "delta_own": "+2%",
       "value": "75624",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "11:50",
+      "trade_date": "2026-03-10",
+      "ticker": "GRNT",
+      "company": "Granite Ridge Resources, Inc.",
+      "insider_name": "Miller Matthew Reade",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "5.10",
+      "qty": "10000",
+      "owned": "1328181",
+      "delta_own": "+1%",
+      "value": "51000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-11",
+      "filing_time": "11:46",
+      "trade_date": "2026-03-09",
+      "ticker": "FRAF",
+      "company": "Franklin Financial Services Corp /Pa/",
+      "insider_name": "Snook Gregory I",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "48.18",
+      "qty": "2200",
+      "owned": "9288",
+      "delta_own": "+31%",
+      "value": "105996",
       "cluster_buy": false
     }
   ]
