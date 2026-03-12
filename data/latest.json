@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-12T19:00:21Z",
-  "trade_count": 5316,
+  "last_updated": "2026-03-12T19:48:35Z",
+  "trade_count": 5318,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -85057,6 +85057,38 @@
       "delta_own": "+4%",
       "value": "56900",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-12",
+      "filing_time": "15:20",
+      "trade_date": "2026-03-12",
+      "ticker": "LKFN",
+      "company": "Lakeland Financial Corp",
+      "insider_name": "Welch M Scott",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "56.23",
+      "qty": "10000",
+      "owned": "212006",
+      "delta_own": "+5%",
+      "value": "562314",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-12",
+      "filing_time": "15:19",
+      "trade_date": "2026-03-11",
+      "ticker": "COFS",
+      "company": "Choiceone Financial Services Inc",
+      "insider_name": "Burrough Eric E",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "27.50",
+      "qty": "5000",
+      "owned": "180397",
+      "delta_own": "+3%",
+      "value": "137500",
+      "cluster_buy": false
     }
   ]
 }
