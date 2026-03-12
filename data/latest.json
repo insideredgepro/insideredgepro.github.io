@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-12T11:35:05Z",
-  "trade_count": 5311,
+  "last_updated": "2026-03-12T13:11:23Z",
+  "trade_count": 5313,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -84977,6 +84977,38 @@
       "delta_own": "+11%",
       "value": "50564148",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-12",
+      "filing_time": "09:01",
+      "trade_date": "2026-03-10",
+      "ticker": "CVSA",
+      "company": "Covista Inc.",
+      "insider_name": "Malafronte Michael W",
+      "title": "Lead Independent Director",
+      "trade_type": "P - Purchase",
+      "price": "100.88",
+      "qty": "36036",
+      "owned": "138600",
+      "delta_own": "+35%",
+      "value": "3635414",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-12",
+      "filing_time": "08:55",
+      "trade_date": "2026-03-11",
+      "ticker": "BWFG",
+      "company": "Bankwell Financial Group, Inc.",
+      "insider_name": "Seidman Lawrence B",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "46.65",
+      "qty": "10000",
+      "owned": "825955",
+      "delta_own": "+1%",
+      "value": "466462",
+      "cluster_buy": false
     }
   ]
 }

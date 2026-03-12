@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-12",
-  "entry_count": 519,
+  "entry_count": 521,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -11720,6 +11720,46 @@
       },
       "latest_price": 18.57,
       "return_pct": 4.5,
+      "last_snapshot": "2026-03-12"
+    },
+    {
+      "id": "US|CVSA|2026-03-10|Malafronte Michael W",
+      "market": "US",
+      "ticker": "CVSA",
+      "yf_symbol": "CVSA",
+      "company": "Covista Inc.",
+      "insider_name": "Malafronte Michael W",
+      "title": "Lead Independent Director",
+      "trade_date": "2026-03-10",
+      "trade_price": 100.88,
+      "value": 3635414.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-12": 101.1
+      },
+      "latest_price": 101.1,
+      "return_pct": 0.22,
+      "last_snapshot": "2026-03-12"
+    },
+    {
+      "id": "US|BWFG|2026-03-11|Seidman Lawrence B",
+      "market": "US",
+      "ticker": "BWFG",
+      "yf_symbol": "BWFG",
+      "company": "Bankwell Financial Group, Inc.",
+      "insider_name": "Seidman Lawrence B",
+      "title": "Dir",
+      "trade_date": "2026-03-11",
+      "trade_price": 46.65,
+      "value": 466462.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-12": 46.72
+      },
+      "latest_price": 46.72,
+      "return_pct": 0.15,
       "last_snapshot": "2026-03-12"
     }
   ]
