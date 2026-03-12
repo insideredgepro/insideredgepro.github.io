@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-12T14:54:45Z",
-  "trade_count": 5313,
+  "last_updated": "2026-03-12T16:03:41Z",
+  "trade_count": 5314,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -83792,7 +83792,7 @@
       "owned": "229585",
       "delta_own": "+3%",
       "value": "231593",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-10",
@@ -85009,6 +85009,22 @@
       "delta_own": "+1%",
       "value": "466462",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-12",
+      "filing_time": "11:25",
+      "trade_date": "2026-03-10",
+      "ticker": "ROCK",
+      "company": "Gibraltar Industries, Inc.",
+      "insider_name": "Metcalf James S",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "40.35",
+      "qty": "12444",
+      "owned": "15500",
+      "delta_own": "+407%",
+      "value": "502165",
+      "cluster_buy": true
     }
   ]
 }
