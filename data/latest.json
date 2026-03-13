@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-13T17:39:09Z",
-  "trade_count": 5413,
+  "last_updated": "2026-03-13T18:50:40Z",
+  "trade_count": 5416,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -86608,6 +86608,54 @@
       "owned": "2082964",
       "delta_own": "+2%",
       "value": "935345",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-13",
+      "filing_time": "14:15",
+      "trade_date": "2026-03-11",
+      "ticker": "ALTG",
+      "company": "Alta Equipment Group Inc.",
+      "insider_name": "Mill Road Capital Iii, L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "6.36",
+      "qty": "18040",
+      "owned": "4311248",
+      "delta_own": "0%",
+      "value": "114761",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-13",
+      "filing_time": "14:02",
+      "trade_date": "2026-03-11",
+      "ticker": "LEE",
+      "company": "Lee Enterprises, Inc",
+      "insider_name": "Hoffmann David Henry",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "9.36",
+      "qty": "83400",
+      "owned": "11885349",
+      "delta_own": "+1%",
+      "value": "780624",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-13",
+      "filing_time": "13:53",
+      "trade_date": "2026-03-12",
+      "ticker": "TFSL",
+      "company": "Tfs Financial Corp",
+      "insider_name": "Asher Anthony J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "13.37",
+      "qty": "5000",
+      "owned": "49314",
+      "delta_own": "+11%",
+      "value": "66850",
       "cluster_buy": false
     }
   ]

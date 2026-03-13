@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-13",
-  "entry_count": 586,
+  "entry_count": 589,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -4459,10 +4459,10 @@
         "2026-03-10": 7.85,
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
-        "2026-03-13": 8.2
+        "2026-03-13": 8.24
       },
-      "latest_price": 8.2,
-      "return_pct": 17.14,
+      "latest_price": 8.24,
+      "return_pct": 17.71,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -4483,10 +4483,10 @@
         "2026-03-10": 7.85,
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
-        "2026-03-13": 8.2
+        "2026-03-13": 8.24
       },
-      "latest_price": 8.2,
-      "return_pct": 17.14,
+      "latest_price": 8.24,
+      "return_pct": 17.71,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -4507,10 +4507,10 @@
         "2026-03-10": 7.85,
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
-        "2026-03-13": 8.2
+        "2026-03-13": 8.24
       },
-      "latest_price": 8.2,
-      "return_pct": 17.14,
+      "latest_price": 8.24,
+      "return_pct": 17.71,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -4627,10 +4627,10 @@
         "2026-03-10": 0.4249,
         "2026-03-11": 0.435,
         "2026-03-12": 0.434,
-        "2026-03-13": 0.434
+        "2026-03-13": 0.435
       },
-      "latest_price": 0.434,
-      "return_pct": 27.65,
+      "latest_price": 0.435,
+      "return_pct": 27.94,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -11478,10 +11478,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-12": 8.0,
-        "2026-03-13": 8.2
+        "2026-03-13": 8.24
       },
-      "latest_price": 8.2,
-      "return_pct": 3.67,
+      "latest_price": 8.24,
+      "return_pct": 4.17,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -13434,10 +13434,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-13": 0.684
+        "2026-03-13": 0.7203
       },
-      "latest_price": 0.684,
-      "return_pct": 185.0,
+      "latest_price": 0.7203,
+      "return_pct": 200.13,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -13538,6 +13538,66 @@
       },
       "latest_price": 18.19,
       "return_pct": -2.78,
+      "last_snapshot": "2026-03-13"
+    },
+    {
+      "id": "US|ALTG|2026-03-11|Mill Road Capital Iii, L.P.",
+      "market": "US",
+      "ticker": "ALTG",
+      "yf_symbol": "ALTG",
+      "company": "Alta Equipment Group Inc.",
+      "insider_name": "Mill Road Capital Iii, L.P.",
+      "title": "10%",
+      "trade_date": "2026-03-11",
+      "trade_price": 6.36,
+      "value": 114761.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-13": 6.07
+      },
+      "latest_price": 6.07,
+      "return_pct": -4.56,
+      "last_snapshot": "2026-03-13"
+    },
+    {
+      "id": "US|LEE|2026-03-11|Hoffmann David Henry",
+      "market": "US",
+      "ticker": "LEE",
+      "yf_symbol": "LEE",
+      "company": "Lee Enterprises, Inc",
+      "insider_name": "Hoffmann David Henry",
+      "title": "Dir, 10%",
+      "trade_date": "2026-03-11",
+      "trade_price": 9.36,
+      "value": 780624.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-13": 8.92
+      },
+      "latest_price": 8.92,
+      "return_pct": -4.7,
+      "last_snapshot": "2026-03-13"
+    },
+    {
+      "id": "US|TFSL|2026-03-12|Asher Anthony J",
+      "market": "US",
+      "ticker": "TFSL",
+      "yf_symbol": "TFSL",
+      "company": "Tfs Financial Corp",
+      "insider_name": "Asher Anthony J",
+      "title": "Dir",
+      "trade_date": "2026-03-12",
+      "trade_price": 13.37,
+      "value": 66850.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-13": 13.46
+      },
+      "latest_price": 13.46,
+      "return_pct": 0.67,
       "last_snapshot": "2026-03-13"
     }
   ]
