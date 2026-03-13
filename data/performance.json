@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-13",
-  "entry_count": 582,
+  "entry_count": 585,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -3667,10 +3667,10 @@
         "2026-03-10": 0.275,
         "2026-03-11": 0.29,
         "2026-03-12": 0.2955,
-        "2026-03-13": 0.282
+        "2026-03-13": 0.2949
       },
-      "latest_price": 0.282,
-      "return_pct": 41.0,
+      "latest_price": 0.2949,
+      "return_pct": 47.45,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -3691,10 +3691,10 @@
         "2026-03-10": 0.275,
         "2026-03-11": 0.29,
         "2026-03-12": 0.2955,
-        "2026-03-13": 0.282
+        "2026-03-13": 0.2949
       },
-      "latest_price": 0.282,
-      "return_pct": 41.0,
+      "latest_price": 0.2949,
+      "return_pct": 47.45,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -3715,10 +3715,10 @@
         "2026-03-10": 0.275,
         "2026-03-11": 0.29,
         "2026-03-12": 0.2955,
-        "2026-03-13": 0.282
+        "2026-03-13": 0.2949
       },
-      "latest_price": 0.282,
-      "return_pct": 41.0,
+      "latest_price": 0.2949,
+      "return_pct": 47.45,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -3739,10 +3739,10 @@
         "2026-03-10": 0.275,
         "2026-03-11": 0.29,
         "2026-03-12": 0.2955,
-        "2026-03-13": 0.282
+        "2026-03-13": 0.2949
       },
-      "latest_price": 0.282,
-      "return_pct": 41.0,
+      "latest_price": 0.2949,
+      "return_pct": 47.45,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -4459,10 +4459,10 @@
         "2026-03-10": 7.85,
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
-        "2026-03-13": 8.16
+        "2026-03-13": 8.11
       },
-      "latest_price": 8.16,
-      "return_pct": 16.57,
+      "latest_price": 8.11,
+      "return_pct": 15.86,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -4483,10 +4483,10 @@
         "2026-03-10": 7.85,
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
-        "2026-03-13": 8.16
+        "2026-03-13": 8.11
       },
-      "latest_price": 8.16,
-      "return_pct": 16.57,
+      "latest_price": 8.11,
+      "return_pct": 15.86,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -4507,10 +4507,10 @@
         "2026-03-10": 7.85,
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
-        "2026-03-13": 8.16
+        "2026-03-13": 8.11
       },
-      "latest_price": 8.16,
-      "return_pct": 16.57,
+      "latest_price": 8.11,
+      "return_pct": 15.86,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -4627,10 +4627,10 @@
         "2026-03-10": 0.4249,
         "2026-03-11": 0.435,
         "2026-03-12": 0.434,
-        "2026-03-13": 0.42
+        "2026-03-13": 0.434
       },
-      "latest_price": 0.42,
-      "return_pct": 23.53,
+      "latest_price": 0.434,
+      "return_pct": 27.65,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -11478,10 +11478,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-12": 8.0,
-        "2026-03-13": 8.16
+        "2026-03-13": 8.11
       },
-      "latest_price": 8.16,
-      "return_pct": 3.16,
+      "latest_price": 8.11,
+      "return_pct": 2.53,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -13434,10 +13434,10 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-13": 0.6951
+        "2026-03-13": 0.69
       },
-      "latest_price": 0.6951,
-      "return_pct": 189.63,
+      "latest_price": 0.69,
+      "return_pct": 187.5,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -13458,6 +13458,66 @@
       },
       "latest_price": 28.23,
       "return_pct": -4.31,
+      "last_snapshot": "2026-03-13"
+    },
+    {
+      "id": "US|FFIN|2026-03-12|Haney Geoff",
+      "market": "US",
+      "ticker": "FFIN",
+      "yf_symbol": "FFIN",
+      "company": "First Financial Bankshares Inc",
+      "insider_name": "Haney Geoff",
+      "title": "Dir",
+      "trade_date": "2026-03-12",
+      "trade_price": 29.18,
+      "value": 43770.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-13": 29.61
+      },
+      "latest_price": 29.61,
+      "return_pct": 1.47,
+      "last_snapshot": "2026-03-13"
+    },
+    {
+      "id": "US|MPB|2026-03-12|De Soto Matthew G",
+      "market": "US",
+      "ticker": "MPB",
+      "yf_symbol": "MPB",
+      "company": "Mid Penn Bancorp Inc",
+      "insider_name": "De Soto Matthew G",
+      "title": "Dir",
+      "trade_date": "2026-03-12",
+      "trade_price": 30.86,
+      "value": 79931.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-13": 31.21
+      },
+      "latest_price": 31.21,
+      "return_pct": 1.13,
+      "last_snapshot": "2026-03-13"
+    },
+    {
+      "id": "US|FFIN|2026-03-12|Trotter Johnny",
+      "market": "US",
+      "ticker": "FFIN",
+      "yf_symbol": "FFIN",
+      "company": "First Financial Bankshares Inc",
+      "insider_name": "Trotter Johnny",
+      "title": "Dir",
+      "trade_date": "2026-03-12",
+      "trade_price": 29.26,
+      "value": 29260.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-13": 29.61
+      },
+      "latest_price": 29.61,
+      "return_pct": 1.2,
       "last_snapshot": "2026-03-13"
     }
   ]

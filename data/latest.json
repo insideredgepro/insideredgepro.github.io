@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-13T15:49:03Z",
-  "trade_count": 5409,
+  "last_updated": "2026-03-13T16:47:38Z",
+  "trade_count": 5412,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -86545,6 +86545,54 @@
       "delta_own": "New",
       "value": "976708",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-13",
+      "filing_time": "12:11",
+      "trade_date": "2026-03-12",
+      "ticker": "FFIN",
+      "company": "First Financial Bankshares Inc",
+      "insider_name": "Haney Geoff",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "29.18",
+      "qty": "1500",
+      "owned": "33646",
+      "delta_own": "+5%",
+      "value": "43770",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-13",
+      "filing_time": "12:08",
+      "trade_date": "2026-03-12",
+      "ticker": "MPB",
+      "company": "Mid Penn Bancorp Inc",
+      "insider_name": "De Soto Matthew G",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "30.86",
+      "qty": "2590",
+      "owned": "121237",
+      "delta_own": "+2%",
+      "value": "79931",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-13",
+      "filing_time": "12:05",
+      "trade_date": "2026-03-12",
+      "ticker": "FFIN",
+      "company": "First Financial Bankshares Inc",
+      "insider_name": "Trotter Johnny",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "29.26",
+      "qty": "1000",
+      "owned": "1024444",
+      "delta_own": "0%",
+      "value": "29260",
+      "cluster_buy": true
     }
   ]
 }
