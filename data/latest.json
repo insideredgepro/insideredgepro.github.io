@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-13T13:09:19Z",
-  "trade_count": 5407,
+  "last_updated": "2026-03-13T14:47:59Z",
+  "trade_count": 5408,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -86512,6 +86512,22 @@
       "owned": "460889576",
       "delta_own": "+28%",
       "value": "24035774",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-13",
+      "filing_time": "09:15",
+      "trade_date": "2026-03-11",
+      "ticker": "OFLX",
+      "company": "Omega Flex, Inc.",
+      "insider_name": "Rivest Dean W.",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "29.50",
+      "qty": "1000",
+      "owned": "3487",
+      "delta_own": "+40%",
+      "value": "29500",
       "cluster_buy": false
     }
   ]

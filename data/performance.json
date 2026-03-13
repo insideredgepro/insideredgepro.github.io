@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-13",
-  "entry_count": 581,
+  "entry_count": 582,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -4459,10 +4459,10 @@
         "2026-03-10": 7.85,
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
-        "2026-03-13": 8.0
+        "2026-03-13": 8.05
       },
-      "latest_price": 8.0,
-      "return_pct": 14.29,
+      "latest_price": 8.05,
+      "return_pct": 15.0,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -4483,10 +4483,10 @@
         "2026-03-10": 7.85,
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
-        "2026-03-13": 8.0
+        "2026-03-13": 8.05
       },
-      "latest_price": 8.0,
-      "return_pct": 14.29,
+      "latest_price": 8.05,
+      "return_pct": 15.0,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -4507,10 +4507,10 @@
         "2026-03-10": 7.85,
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
-        "2026-03-13": 8.0
+        "2026-03-13": 8.05
       },
-      "latest_price": 8.0,
-      "return_pct": 14.29,
+      "latest_price": 8.05,
+      "return_pct": 15.0,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -11478,10 +11478,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-12": 8.0,
-        "2026-03-13": 8.0
+        "2026-03-13": 8.05
       },
-      "latest_price": 8.0,
-      "return_pct": 1.14,
+      "latest_price": 8.05,
+      "return_pct": 1.77,
       "last_snapshot": "2026-03-13"
     },
     {
@@ -13434,10 +13434,30 @@
       "cluster_buy": false,
       "currency": "USD",
       "snapshots": {
-        "2026-03-13": 0.75
+        "2026-03-13": 0.695
       },
-      "latest_price": 0.75,
-      "return_pct": 212.5,
+      "latest_price": 0.695,
+      "return_pct": 189.58,
+      "last_snapshot": "2026-03-13"
+    },
+    {
+      "id": "US|OFLX|2026-03-11|Rivest Dean W.",
+      "market": "US",
+      "ticker": "OFLX",
+      "yf_symbol": "OFLX",
+      "company": "Omega Flex, Inc.",
+      "insider_name": "Rivest Dean W.",
+      "title": "CEO",
+      "trade_date": "2026-03-11",
+      "trade_price": 29.5,
+      "value": 29500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-13": 28.23
+      },
+      "latest_price": 28.23,
+      "return_pct": -4.31,
       "last_snapshot": "2026-03-13"
     }
   ]
