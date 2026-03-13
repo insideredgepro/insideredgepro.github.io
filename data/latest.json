@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-13T11:35:18Z",
-  "trade_count": 5404,
+  "last_updated": "2026-03-13T13:09:19Z",
+  "trade_count": 5407,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -86464,6 +86464,54 @@
       "owned": "856537",
       "delta_own": "+2%",
       "value": "2727673",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-13",
+      "filing_time": "09:01",
+      "trade_date": "2026-03-12",
+      "ticker": "BWFG",
+      "company": "Bankwell Financial Group, Inc.",
+      "insider_name": "Seidman Lawrence B",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "46.88",
+      "qty": "10000",
+      "owned": "835955",
+      "delta_own": "+1%",
+      "value": "468753",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-13",
+      "filing_time": "08:29",
+      "trade_date": "2026-03-11",
+      "ticker": "TIPT",
+      "company": "Tiptree Inc.",
+      "insider_name": "McKinney Scott T.",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "16.10",
+      "qty": "3832",
+      "owned": "103939",
+      "delta_own": "+4%",
+      "value": "61683",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-13",
+      "filing_time": "07:26",
+      "trade_date": "2026-03-10",
+      "ticker": "REEMF",
+      "company": "Rare Element Resources Ltd",
+      "insider_name": "Blue James N",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.24",
+      "qty": "100149060",
+      "owned": "460889576",
+      "delta_own": "+28%",
+      "value": "24035774",
       "cluster_buy": false
     }
   ]

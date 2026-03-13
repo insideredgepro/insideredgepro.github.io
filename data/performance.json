@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-13",
-  "entry_count": 578,
+  "entry_count": 581,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -13378,6 +13378,66 @@
       },
       "latest_price": 189.48,
       "return_pct": 4.2,
+      "last_snapshot": "2026-03-13"
+    },
+    {
+      "id": "US|BWFG|2026-03-12|Seidman Lawrence B",
+      "market": "US",
+      "ticker": "BWFG",
+      "yf_symbol": "BWFG",
+      "company": "Bankwell Financial Group, Inc.",
+      "insider_name": "Seidman Lawrence B",
+      "title": "Dir",
+      "trade_date": "2026-03-12",
+      "trade_price": 46.88,
+      "value": 468753.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-13": 46.93
+      },
+      "latest_price": 46.93,
+      "return_pct": 0.11,
+      "last_snapshot": "2026-03-13"
+    },
+    {
+      "id": "US|TIPT|2026-03-11|McKinney Scott T.",
+      "market": "US",
+      "ticker": "TIPT",
+      "yf_symbol": "TIPT",
+      "company": "Tiptree Inc.",
+      "insider_name": "McKinney Scott T.",
+      "title": "CFO",
+      "trade_date": "2026-03-11",
+      "trade_price": 16.1,
+      "value": 61683.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-13": 16.06
+      },
+      "latest_price": 16.06,
+      "return_pct": -0.25,
+      "last_snapshot": "2026-03-13"
+    },
+    {
+      "id": "US|REEMF|2026-03-10|Blue James N",
+      "market": "US",
+      "ticker": "REEMF",
+      "yf_symbol": "REEMF",
+      "company": "Rare Element Resources Ltd",
+      "insider_name": "Blue James N",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-03-10",
+      "trade_price": 0.24,
+      "value": 24035774.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-13": 0.75
+      },
+      "latest_price": 0.75,
+      "return_pct": 212.5,
       "last_snapshot": "2026-03-13"
     }
   ]
