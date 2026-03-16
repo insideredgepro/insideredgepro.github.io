@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-15T22:00:30Z",
-  "trade_count": 2551,
+  "last_updated": "2026-03-16T16:00:56Z",
+  "trade_count": 2553,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -37231,7 +37231,7 @@
       "value": "15299",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4676469",
@@ -38368,6 +38368,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4681484",
+      "trade_date": "2026-03-16",
+      "filing_date": "2026-03-16",
+      "company": "SITKA GOLD CORP.",
+      "ticker": "SIG",
+      "insider_name": "Archambeault, Louis",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "25000",
+      "price": "0.9400",
+      "value": "23500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4681380",
+      "trade_date": "2026-03-16",
+      "filing_date": "2026-03-16",
+      "company": "Stantec Inc.",
+      "ticker": "STN",
+      "insider_name": "Bock, Clayton",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "1250",
+      "price": "88.9200",
+      "value": "111150",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
