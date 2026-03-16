@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-16T17:06:46Z",
-  "trade_count": 5452,
+  "last_updated": "2026-03-16T19:09:29Z",
+  "trade_count": 5454,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -87233,6 +87233,38 @@
       "delta_own": "+1%",
       "value": "377251",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "13:59",
+      "trade_date": "2026-03-13",
+      "ticker": "AMRZ",
+      "company": "Amrize Ltd",
+      "insider_name": "Gross Mario",
+      "title": "Chief Supply Chain Officer",
+      "trade_type": "P - Purchase",
+      "price": "55.29",
+      "qty": "3200",
+      "owned": "30947",
+      "delta_own": "+12%",
+      "value": "176936",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "13:53",
+      "trade_date": "2026-03-13",
+      "ticker": "AMRZ",
+      "company": "Amrize Ltd",
+      "insider_name": "Brouwer Roald",
+      "title": "CTO",
+      "trade_type": "P - Purchase",
+      "price": "54.88",
+      "qty": "2000",
+      "owned": "18257",
+      "delta_own": "+12%",
+      "value": "109760",
+      "cluster_buy": true
     }
   ]
 }
