@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-16",
-  "entry_count": 582,
+  "entry_count": 589,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -13774,6 +13774,146 @@
       },
       "latest_price": 54.2,
       "return_pct": -1.11,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|HHH|2026-03-13|Valane Joseph",
+      "market": "US",
+      "ticker": "HHH",
+      "yf_symbol": "HHH",
+      "company": "Howard Hughes Holdings Inc.",
+      "insider_name": "Valane Joseph",
+      "title": "GC, Secretary",
+      "trade_date": "2026-03-13",
+      "trade_price": 64.45,
+      "value": 81207.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 63.89
+      },
+      "latest_price": 63.89,
+      "return_pct": -0.87,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|BLDR|2026-03-13|Levy Paul S",
+      "market": "US",
+      "ticker": "BLDR",
+      "yf_symbol": "BLDR",
+      "company": "Builders Firstsource, Inc.",
+      "insider_name": "Levy Paul S",
+      "title": "Dir",
+      "trade_date": "2026-03-13",
+      "trade_price": 87.73,
+      "value": 4386500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 88.09
+      },
+      "latest_price": 88.09,
+      "return_pct": 0.41,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|TGLS|2026-03-12|Energy Holding Corp",
+      "market": "US",
+      "ticker": "TGLS",
+      "yf_symbol": "TGLS",
+      "company": "Tecnoglass Inc.",
+      "insider_name": "Energy Holding Corp",
+      "title": "10%",
+      "trade_date": "2026-03-12",
+      "trade_price": 45.2,
+      "value": 9727810.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 45.71
+      },
+      "latest_price": 45.71,
+      "return_pct": 1.13,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|VRTS|2026-03-12|Morris W Howard",
+      "market": "US",
+      "ticker": "VRTS",
+      "yf_symbol": "VRTS",
+      "company": "Virtus Investment Partners, Inc.",
+      "insider_name": "Morris W Howard",
+      "title": "Dir",
+      "trade_date": "2026-03-12",
+      "trade_price": 129.47,
+      "value": 524363.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 126.11
+      },
+      "latest_price": 126.11,
+      "return_pct": -2.6,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|OBIO|2026-03-13|Hochman David P",
+      "market": "US",
+      "ticker": "OBIO",
+      "yf_symbol": "OBIO",
+      "company": "Orchestra Biomed Holdings, Inc.",
+      "insider_name": "Hochman David P",
+      "title": "See Remarks",
+      "trade_date": "2026-03-13",
+      "trade_price": 4.29,
+      "value": 42900.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 4.2
+      },
+      "latest_price": 4.2,
+      "return_pct": -2.1,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|VNO|2026-03-12|Tisch Daniel R",
+      "market": "US",
+      "ticker": "VNO",
+      "yf_symbol": "VNO",
+      "company": "Vornado Realty Trust",
+      "insider_name": "Tisch Daniel R",
+      "title": "Dir",
+      "trade_date": "2026-03-12",
+      "trade_price": 25.55,
+      "value": 766500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 25.95
+      },
+      "latest_price": 25.95,
+      "return_pct": 1.57,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|CASY|2026-03-13|Spanos Mike",
+      "market": "US",
+      "ticker": "CASY",
+      "yf_symbol": "CASY",
+      "company": "Caseys General Stores Inc",
+      "insider_name": "Spanos Mike",
+      "title": "Dir",
+      "trade_date": "2026-03-13",
+      "trade_price": 665.43,
+      "value": 199629.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 660.87
+      },
+      "latest_price": 660.87,
+      "return_pct": -0.69,
       "last_snapshot": "2026-03-16"
     }
   ]
