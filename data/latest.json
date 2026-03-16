@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-16T22:39:09Z",
-  "trade_count": 5482,
+  "last_updated": "2026-03-16T23:35:41Z",
+  "trade_count": 5487,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -81520,7 +81520,7 @@
       "owned": "17943",
       "delta_own": "+13%",
       "value": "55315",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-03",
@@ -85840,7 +85840,7 @@
       "owned": "9000",
       "delta_own": "+16%",
       "value": "30114",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-09",
@@ -87713,6 +87713,86 @@
       "delta_own": "0%",
       "value": "58029",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "19:05",
+      "trade_date": "2026-03-12",
+      "ticker": "SRZN",
+      "company": "Surrozen, Inc./De",
+      "insider_name": "Tcg Crossover Gp Ii, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "24.91",
+      "qty": "48997",
+      "owned": "675610",
+      "delta_own": "+8%",
+      "value": "1220362",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "18:48",
+      "trade_date": "2026-03-13",
+      "ticker": "BBSI",
+      "company": "Barrett Business Services Inc",
+      "insider_name": "Kramer Gary",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "26.89",
+      "qty": "8370",
+      "owned": "328801",
+      "delta_own": "+3%",
+      "value": "225068",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "18:43",
+      "trade_date": "2026-03-16",
+      "ticker": "AIRS",
+      "company": "Airsculpt Technologies, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.43",
+      "qty": "105848",
+      "owned": "6592059",
+      "delta_own": "+2%",
+      "value": "257211",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "18:41",
+      "trade_date": "2026-03-12",
+      "ticker": "HBAN",
+      "company": "Huntington Bancshares Inc /Md/",
+      "insider_name": "Steinour Stephen D",
+      "title": "Pres, CEO, COB",
+      "trade_type": "P - Purchase",
+      "price": "15.49",
+      "qty": "32277",
+      "owned": "9040813",
+      "delta_own": "0%",
+      "value": "499971",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "18:40",
+      "trade_date": "2026-03-10",
+      "ticker": "VSNT",
+      "company": "Versant Media Group, Inc.",
+      "insider_name": "Potter Leonard",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "37.81",
+      "qty": "13500",
+      "owned": "15878",
+      "delta_own": "+568%",
+      "value": "510475",
+      "cluster_buy": true
     }
   ]
 }
