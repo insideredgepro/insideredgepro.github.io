@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-16T15:05:29Z",
-  "trade_count": 5451,
+  "last_updated": "2026-03-16T17:06:46Z",
+  "trade_count": 5452,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -87217,6 +87217,22 @@
       "delta_own": "0%",
       "value": "41370",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "12:01",
+      "trade_date": "2026-03-12",
+      "ticker": "ALTG",
+      "company": "Alta Equipment Group Inc.",
+      "insider_name": "Mill Road Capital Iii, L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "6.09",
+      "qty": "61960",
+      "owned": "4373208",
+      "delta_own": "+1%",
+      "value": "377251",
+      "cluster_buy": false
     }
   ]
 }
