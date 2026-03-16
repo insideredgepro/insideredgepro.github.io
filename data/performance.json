@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-16",
-  "entry_count": 567,
+  "entry_count": 582,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -146,10 +146,10 @@
         "2026-03-11": 0.1366,
         "2026-03-12": 0.1299,
         "2026-03-13": 0.14,
-        "2026-03-16": 0.1469
+        "2026-03-16": 0.16
       },
-      "latest_price": 0.1469,
-      "return_pct": 83.62,
+      "latest_price": 0.16,
+      "return_pct": 100.0,
       "last_snapshot": "2026-03-16"
     },
     {
@@ -2196,10 +2196,10 @@
         "2026-03-11": 58.0,
         "2026-03-12": 58.0,
         "2026-03-13": 58.0,
-        "2026-03-16": 57.6
+        "2026-03-16": 57.98
       },
-      "latest_price": 57.6,
-      "return_pct": 1.14,
+      "latest_price": 57.98,
+      "return_pct": 1.81,
       "last_snapshot": "2026-03-16"
     },
     {
@@ -3196,10 +3196,10 @@
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
         "2026-03-13": 8.18,
-        "2026-03-16": 8.4
+        "2026-03-16": 8.45
       },
-      "latest_price": 8.4,
-      "return_pct": 20.0,
+      "latest_price": 8.45,
+      "return_pct": 20.71,
       "last_snapshot": "2026-03-16"
     },
     {
@@ -3221,10 +3221,10 @@
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
         "2026-03-13": 8.18,
-        "2026-03-16": 8.4
+        "2026-03-16": 8.45
       },
-      "latest_price": 8.4,
-      "return_pct": 20.0,
+      "latest_price": 8.45,
+      "return_pct": 20.71,
       "last_snapshot": "2026-03-16"
     },
     {
@@ -3246,10 +3246,10 @@
         "2026-03-11": 7.95,
         "2026-03-12": 8.0,
         "2026-03-13": 8.18,
-        "2026-03-16": 8.4
+        "2026-03-16": 8.45
       },
-      "latest_price": 8.4,
-      "return_pct": 20.0,
+      "latest_price": 8.45,
+      "return_pct": 20.71,
       "last_snapshot": "2026-03-16"
     },
     {
@@ -3371,10 +3371,10 @@
         "2026-03-11": 0.435,
         "2026-03-12": 0.434,
         "2026-03-13": 0.4395,
-        "2026-03-16": 0.44
+        "2026-03-16": 0.45
       },
-      "latest_price": 0.44,
-      "return_pct": 29.41,
+      "latest_price": 0.45,
+      "return_pct": 32.35,
       "last_snapshot": "2026-03-16"
     },
     {
@@ -10514,10 +10514,10 @@
       "snapshots": {
         "2026-03-12": 8.0,
         "2026-03-13": 8.18,
-        "2026-03-16": 8.4
+        "2026-03-16": 8.45
       },
-      "latest_price": 8.4,
-      "return_pct": 6.19,
+      "latest_price": 8.45,
+      "return_pct": 6.83,
       "last_snapshot": "2026-03-16"
     },
     {
@@ -12542,10 +12542,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-13": 0.68,
-        "2026-03-16": 0.715
+        "2026-03-16": 0.7301
       },
-      "latest_price": 0.715,
-      "return_pct": 197.92,
+      "latest_price": 0.7301,
+      "return_pct": 204.21,
       "last_snapshot": "2026-03-16"
     },
     {
@@ -13474,6 +13474,306 @@
       },
       "latest_price": 55.55,
       "return_pct": 1.22,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|ISTR|2026-03-12|Jordan Robert Chris",
+      "market": "US",
+      "ticker": "ISTR",
+      "yf_symbol": "ISTR",
+      "company": "Investar Holding Corp",
+      "insider_name": "Jordan Robert Chris",
+      "title": "Dir",
+      "trade_date": "2026-03-12",
+      "trade_price": 26.85,
+      "value": 41618.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 26.6
+      },
+      "latest_price": 26.6,
+      "return_pct": -0.93,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|LINE|2026-03-12|Marchetti Kevin Patrick",
+      "market": "US",
+      "ticker": "LINE",
+      "yf_symbol": "LINE",
+      "company": "Lineage, Inc.",
+      "insider_name": "Marchetti Kevin Patrick",
+      "title": "CO-Exec COB, 10%",
+      "trade_date": "2026-03-12",
+      "trade_price": 37.5,
+      "value": 498699.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 36.43
+      },
+      "latest_price": 36.43,
+      "return_pct": -2.85,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|IFF|2026-03-12|Fribourg Paul J",
+      "market": "US",
+      "ticker": "IFF",
+      "yf_symbol": "IFF",
+      "company": "International Flavors & Fragrances Inc",
+      "insider_name": "Fribourg Paul J",
+      "title": "Dir",
+      "trade_date": "2026-03-12",
+      "trade_price": 70.12,
+      "value": 10971329.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 69.61
+      },
+      "latest_price": 69.61,
+      "return_pct": -0.73,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|IFF|2026-03-12|Fyrwald J Erik",
+      "market": "US",
+      "ticker": "IFF",
+      "yf_symbol": "IFF",
+      "company": "International Flavors & Fragrances Inc",
+      "insider_name": "Fyrwald J Erik",
+      "title": "CEO",
+      "trade_date": "2026-03-12",
+      "trade_price": 69.79,
+      "value": 995204.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 69.61
+      },
+      "latest_price": 69.61,
+      "return_pct": -0.26,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|DCH|2026-03-13|Walker David B.",
+      "market": "US",
+      "ticker": "DCH",
+      "yf_symbol": "DCH",
+      "company": "Dauch Corp",
+      "insider_name": "Walker David B.",
+      "title": "Dir",
+      "trade_date": "2026-03-13",
+      "trade_price": 5.2,
+      "value": 182000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 5.18
+      },
+      "latest_price": 5.18,
+      "return_pct": -0.38,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|MX|2026-03-12|Nathan Gilbert E",
+      "market": "US",
+      "ticker": "MX",
+      "yf_symbol": "MX",
+      "company": "Magnachip Semiconductor Corp",
+      "insider_name": "Nathan Gilbert E",
+      "title": "Dir",
+      "trade_date": "2026-03-12",
+      "trade_price": 2.76,
+      "value": 104924.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 2.82
+      },
+      "latest_price": 2.82,
+      "return_pct": 2.17,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|ULBI|2026-03-12|Whitmore Bradford T",
+      "market": "US",
+      "ticker": "ULBI",
+      "yf_symbol": "ULBI",
+      "company": "Ultralife Corp",
+      "insider_name": "Whitmore Bradford T",
+      "title": "Dir, 10%",
+      "trade_date": "2026-03-12",
+      "trade_price": 6.38,
+      "value": 1196909.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 6.55
+      },
+      "latest_price": 6.55,
+      "return_pct": 2.66,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|ZBRA|2026-03-12|Dhanasekaran Satish",
+      "market": "US",
+      "ticker": "ZBRA",
+      "yf_symbol": "ZBRA",
+      "company": "Zebra Technologies Corp",
+      "insider_name": "Dhanasekaran Satish",
+      "title": "Dir",
+      "trade_date": "2026-03-12",
+      "trade_price": 205.4,
+      "value": 41080.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 202.72
+      },
+      "latest_price": 202.72,
+      "return_pct": -1.3,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|ABSI|2026-03-12|Busch Andreas",
+      "market": "US",
+      "ticker": "ABSI",
+      "yf_symbol": "ABSI",
+      "company": "Absci Corp",
+      "insider_name": "Busch Andreas",
+      "title": "Chief Innovation Officer",
+      "trade_date": "2026-03-12",
+      "trade_price": 2.29,
+      "value": 229000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 2.39
+      },
+      "latest_price": 2.39,
+      "return_pct": 4.37,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|WEST|2026-03-13|Ford Joe T",
+      "market": "US",
+      "ticker": "WEST",
+      "yf_symbol": "WEST",
+      "company": "Westrock Coffee Co",
+      "insider_name": "Ford Joe T",
+      "title": "Dir",
+      "trade_date": "2026-03-13",
+      "trade_price": 3.92,
+      "value": 176400.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 4.26
+      },
+      "latest_price": 4.26,
+      "return_pct": 8.67,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|FFIN|2026-03-13|Edwards Murray Hamilton",
+      "market": "US",
+      "ticker": "FFIN",
+      "yf_symbol": "FFIN",
+      "company": "First Financial Bankshares Inc",
+      "insider_name": "Edwards Murray Hamilton",
+      "title": "Dir",
+      "trade_date": "2026-03-13",
+      "trade_price": 29.32,
+      "value": 29320.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 29.56
+      },
+      "latest_price": 29.56,
+      "return_pct": 0.82,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|CSW|2026-03-13|Ash Darron K",
+      "market": "US",
+      "ticker": "CSW",
+      "yf_symbol": "CSW",
+      "company": "Csw Industrials, Inc.",
+      "insider_name": "Ash Darron K",
+      "title": "Dir",
+      "trade_date": "2026-03-13",
+      "trade_price": 256.62,
+      "value": 76986.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 256.54
+      },
+      "latest_price": 256.54,
+      "return_pct": -0.03,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|RPC|2026-02-19|Charles K. Huebner Trust",
+      "market": "US",
+      "ticker": "RPC",
+      "yf_symbol": "RPC",
+      "company": "Ridgepost Capital, Inc.",
+      "insider_name": "Charles K. Huebner Trust",
+      "title": "See Remarks",
+      "trade_date": "2026-02-19",
+      "trade_price": 8.15,
+      "value": 264975.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 7.2
+      },
+      "latest_price": 7.2,
+      "return_pct": -11.66,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|KGS|2026-03-13|Darden Alexander Newsom",
+      "market": "US",
+      "ticker": "KGS",
+      "yf_symbol": "KGS",
+      "company": "Kodiak Gas Services, Inc.",
+      "insider_name": "Darden Alexander Newsom",
+      "title": "Dir",
+      "trade_date": "2026-03-13",
+      "trade_price": 54.75,
+      "value": 273750.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 54.2
+      },
+      "latest_price": 54.2,
+      "return_pct": -1.0,
+      "last_snapshot": "2026-03-16"
+    },
+    {
+      "id": "US|KGS|2026-03-13|Hogan Randall J",
+      "market": "US",
+      "ticker": "KGS",
+      "yf_symbol": "KGS",
+      "company": "Kodiak Gas Services, Inc.",
+      "insider_name": "Hogan Randall J",
+      "title": "Dir",
+      "trade_date": "2026-03-13",
+      "trade_price": 54.81,
+      "value": 328860.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-16": 54.2
+      },
+      "latest_price": 54.2,
+      "return_pct": -1.11,
       "last_snapshot": "2026-03-16"
     }
   ]
