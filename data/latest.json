@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-16T21:45:01Z",
-  "trade_count": 5476,
+  "last_updated": "2026-03-16T22:39:09Z",
+  "trade_count": 5482,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -85200,7 +85200,7 @@
       "owned": "111754",
       "delta_own": "+168%",
       "value": "50960",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-12",
@@ -86624,7 +86624,7 @@
       "owned": "4311248",
       "delta_own": "0%",
       "value": "114761",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-13",
@@ -87232,7 +87232,7 @@
       "owned": "4373208",
       "delta_own": "+1%",
       "value": "377251",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-16",
@@ -87616,6 +87616,102 @@
       "owned": "4499",
       "delta_own": "+7%",
       "value": "199629",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "18:11",
+      "trade_date": "2026-03-03",
+      "ticker": "ALTG",
+      "company": "Alta Equipment Group Inc.",
+      "insider_name": "Nair Sidhartha",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "6.81",
+      "qty": "4000",
+      "owned": "37806",
+      "delta_own": "+12%",
+      "value": "27250",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "18:08",
+      "trade_date": "2026-03-13",
+      "ticker": "MYO",
+      "company": "Myomo, Inc.",
+      "insider_name": "Kirk Thomas F",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.71",
+      "qty": "72000",
+      "owned": "553857",
+      "delta_own": "+15%",
+      "value": "51113",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "17:54",
+      "trade_date": "2026-03-12",
+      "ticker": "SPRU",
+      "company": "Spruce Power Holding Corp",
+      "insider_name": "Steel Partners Holdings L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "4.22",
+      "qty": "18107",
+      "owned": "3259706",
+      "delta_own": "+1%",
+      "value": "76334",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "17:50",
+      "trade_date": "2026-03-16",
+      "ticker": "MTN",
+      "company": "Vail Resorts Inc",
+      "insider_name": "Korch Angela A",
+      "title": "EVP, CFO",
+      "trade_type": "P - Purchase",
+      "price": "131.85",
+      "qty": "190",
+      "owned": "5539",
+      "delta_own": "+4%",
+      "value": "25052",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "17:49",
+      "trade_date": "2026-03-16",
+      "ticker": "MTN",
+      "company": "Vail Resorts Inc",
+      "insider_name": "Katz Robert A",
+      "title": "CEO, Chairperson of the Board",
+      "trade_type": "P - Purchase",
+      "price": "131.81",
+      "qty": "37500",
+      "owned": "285312",
+      "delta_own": "+15%",
+      "value": "4942875",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-16",
+      "filing_time": "17:49",
+      "trade_date": "2026-03-13",
+      "ticker": "STRA",
+      "company": "Strategic Education, Inc.",
+      "insider_name": "Silberman Robert S",
+      "title": "COB",
+      "trade_type": "P - Purchase",
+      "price": "80.82",
+      "qty": "718",
+      "owned": "319870",
+      "delta_own": "0%",
+      "value": "58029",
       "cluster_buy": false
     }
   ]
