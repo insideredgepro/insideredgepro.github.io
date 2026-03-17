@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-17",
-  "entry_count": 633,
+  "entry_count": 638,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -15384,6 +15384,106 @@
       },
       "latest_price": 11.82,
       "return_pct": -0.59,
+      "last_snapshot": "2026-03-17"
+    },
+    {
+      "id": "US|HBIO|2026-03-16|Duke John D",
+      "market": "US",
+      "ticker": "HBIO",
+      "yf_symbol": "HBIO",
+      "company": "Harvard Bioscience Inc",
+      "insider_name": "Duke John D",
+      "title": "CEO",
+      "trade_date": "2026-03-16",
+      "trade_price": 5.01,
+      "value": 25050.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-17": 5.01
+      },
+      "latest_price": 5.01,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-03-17"
+    },
+    {
+      "id": "US|GO|2026-03-16|Ragatz Erik D.",
+      "market": "US",
+      "ticker": "GO",
+      "yf_symbol": "GO",
+      "company": "Grocery Outlet Holding Corp.",
+      "insider_name": "Ragatz Erik D.",
+      "title": "Dir",
+      "trade_date": "2026-03-16",
+      "trade_price": 6.06,
+      "value": 702618.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-17": 6.05
+      },
+      "latest_price": 6.05,
+      "return_pct": -0.17,
+      "last_snapshot": "2026-03-17"
+    },
+    {
+      "id": "US|WEST|2026-03-17|Ford Joe T",
+      "market": "US",
+      "ticker": "WEST",
+      "yf_symbol": "WEST",
+      "company": "Westrock Coffee Co",
+      "insider_name": "Ford Joe T",
+      "title": "Dir",
+      "trade_date": "2026-03-17",
+      "trade_price": 4.6,
+      "value": 253000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-17": 4.52
+      },
+      "latest_price": 4.52,
+      "return_pct": -1.74,
+      "last_snapshot": "2026-03-17"
+    },
+    {
+      "id": "US|SI|2026-03-13|Points Jeffrey S.",
+      "market": "US",
+      "ticker": "SI",
+      "yf_symbol": "SI",
+      "company": "Shoulder Innovations, Inc.",
+      "insider_name": "Points Jeffrey S.",
+      "title": "CFO",
+      "trade_date": "2026-03-13",
+      "trade_price": 15.0,
+      "value": 30000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-17": 15.28
+      },
+      "latest_price": 15.28,
+      "return_pct": 1.87,
+      "last_snapshot": "2026-03-17"
+    },
+    {
+      "id": "US|CBSH|2026-03-13|Dunn Timothy S",
+      "market": "US",
+      "ticker": "CBSH",
+      "yf_symbol": "CBSH",
+      "company": "Commerce Bancshares Inc /Mo/",
+      "insider_name": "Dunn Timothy S",
+      "title": "Dir",
+      "trade_date": "2026-03-13",
+      "trade_price": 47.71,
+      "value": 119275.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-17": 47.95
+      },
+      "latest_price": 47.95,
+      "return_pct": 0.5,
       "last_snapshot": "2026-03-17"
     }
   ]

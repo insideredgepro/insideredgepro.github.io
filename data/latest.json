@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17T21:42:43Z",
-  "trade_count": 5521,
+  "last_updated": "2026-03-17T22:38:30Z",
+  "trade_count": 5526,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -88304,7 +88304,7 @@
       "owned": "278866",
       "delta_own": "+1%",
       "value": "33392",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-17",
@@ -88336,6 +88336,86 @@
       "owned": "9987882",
       "delta_own": "+2%",
       "value": "2583903",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-17",
+      "filing_time": "17:56",
+      "trade_date": "2026-03-16",
+      "ticker": "HBIO",
+      "company": "Harvard Bioscience Inc",
+      "insider_name": "Duke John D",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "5.01",
+      "qty": "5000",
+      "owned": "105000",
+      "delta_own": "+5%",
+      "value": "25050",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-17",
+      "filing_time": "17:54",
+      "trade_date": "2026-03-16",
+      "ticker": "GO",
+      "company": "Grocery Outlet Holding Corp.",
+      "insider_name": "Ragatz Erik D.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "6.06",
+      "qty": "116003",
+      "owned": "1092969",
+      "delta_own": "+12%",
+      "value": "702618",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-17",
+      "filing_time": "17:44",
+      "trade_date": "2026-03-17",
+      "ticker": "WEST",
+      "company": "Westrock Coffee Co",
+      "insider_name": "Ford Joe T",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.60",
+      "qty": "55000",
+      "owned": "4400192",
+      "delta_own": "+1%",
+      "value": "253000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-17",
+      "filing_time": "17:42",
+      "trade_date": "2026-03-13",
+      "ticker": "SI",
+      "company": "Shoulder Innovations, Inc.",
+      "insider_name": "Points Jeffrey S.",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "15.00",
+      "qty": "2000",
+      "owned": "70835",
+      "delta_own": "+3%",
+      "value": "30000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-17",
+      "filing_time": "17:42",
+      "trade_date": "2026-03-13",
+      "ticker": "CBSH",
+      "company": "Commerce Bancshares Inc /Mo/",
+      "insider_name": "Dunn Timothy S",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "47.71",
+      "qty": "2500",
+      "owned": "5403",
+      "delta_own": "+86%",
+      "value": "119275",
       "cluster_buy": false
     }
   ]
