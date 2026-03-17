@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17T16:00:19Z",
-  "trade_count": 2565,
+  "last_updated": "2026-03-17T19:00:17Z",
+  "trade_count": 2566,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -38589,6 +38589,22 @@
       "qty": "3000",
       "price": "23.2900",
       "value": "69870",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4682609",
+      "trade_date": "2026-03-17",
+      "filing_date": "2026-03-17",
+      "company": "Surge Battery Metals Inc.",
+      "ticker": "NILI",
+      "insider_name": "Harris, Graham",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "250000",
+      "price": "0.5800",
+      "value": "145000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
