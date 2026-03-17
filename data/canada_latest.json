@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-16T22:00:22Z",
-  "trade_count": 2563,
+  "last_updated": "2026-03-17T03:21:23Z",
+  "trade_count": 2565,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -38557,6 +38557,38 @@
       "qty": "20000",
       "price": "0.7890",
       "value": "15780",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4682161",
+      "trade_date": "2026-03-16",
+      "filing_date": "2026-03-16",
+      "company": "Baytex Energy Corp.",
+      "ticker": "BTE",
+      "insider_name": "Lundberg, Chad",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "18300",
+      "price": "5.4900",
+      "value": "100467",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4682269",
+      "trade_date": "2026-03-16",
+      "filing_date": "2026-03-16",
+      "company": "Transcontinental Inc",
+      "ticker": "TCL-A",
+      "insider_name": "Boulanger, Serge",
+      "title": "Director",
+      "security": "Subordinate Voting Shares Cat\u00e9gorie A",
+      "qty": "3000",
+      "price": "23.2900",
+      "value": "69870",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
