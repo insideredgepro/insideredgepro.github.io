@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-17",
-  "entry_count": 611,
+  "entry_count": 613,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -152,10 +152,10 @@
         "2026-03-12": 0.1299,
         "2026-03-13": 0.14,
         "2026-03-16": 0.16,
-        "2026-03-17": 0.16
+        "2026-03-17": 0.1245
       },
-      "latest_price": 0.16,
-      "return_pct": 100.0,
+      "latest_price": 0.1245,
+      "return_pct": 55.62,
       "last_snapshot": "2026-03-17"
     },
     {
@@ -2284,10 +2284,10 @@
         "2026-03-12": 58.0,
         "2026-03-13": 58.0,
         "2026-03-16": 57.98,
-        "2026-03-17": 57.99
+        "2026-03-17": 58.5
       },
-      "latest_price": 57.99,
-      "return_pct": 1.83,
+      "latest_price": 58.5,
+      "return_pct": 2.72,
       "last_snapshot": "2026-03-17"
     },
     {
@@ -3298,10 +3298,10 @@
         "2026-03-12": 8.0,
         "2026-03-13": 8.18,
         "2026-03-16": 8.45,
-        "2026-03-17": 8.48
+        "2026-03-17": 8.7
       },
-      "latest_price": 8.48,
-      "return_pct": 21.14,
+      "latest_price": 8.7,
+      "return_pct": 24.29,
       "last_snapshot": "2026-03-17"
     },
     {
@@ -3324,10 +3324,10 @@
         "2026-03-12": 8.0,
         "2026-03-13": 8.18,
         "2026-03-16": 8.45,
-        "2026-03-17": 8.48
+        "2026-03-17": 8.7
       },
-      "latest_price": 8.48,
-      "return_pct": 21.14,
+      "latest_price": 8.7,
+      "return_pct": 24.29,
       "last_snapshot": "2026-03-17"
     },
     {
@@ -3350,10 +3350,10 @@
         "2026-03-12": 8.0,
         "2026-03-13": 8.18,
         "2026-03-16": 8.45,
-        "2026-03-17": 8.48
+        "2026-03-17": 8.7
       },
-      "latest_price": 8.48,
-      "return_pct": 21.14,
+      "latest_price": 8.7,
+      "return_pct": 24.29,
       "last_snapshot": "2026-03-17"
     },
     {
@@ -10915,10 +10915,10 @@
         "2026-03-12": 8.0,
         "2026-03-13": 8.18,
         "2026-03-16": 8.45,
-        "2026-03-17": 8.48
+        "2026-03-17": 8.7
       },
-      "latest_price": 8.48,
-      "return_pct": 7.21,
+      "latest_price": 8.7,
+      "return_pct": 9.99,
       "last_snapshot": "2026-03-17"
     },
     {
@@ -13036,10 +13036,10 @@
       "snapshots": {
         "2026-03-13": 0.68,
         "2026-03-16": 0.7301,
-        "2026-03-17": 0.7499
+        "2026-03-17": 0.693
       },
-      "latest_price": 0.7499,
-      "return_pct": 212.46,
+      "latest_price": 0.693,
+      "return_pct": 188.75,
       "last_snapshot": "2026-03-17"
     },
     {
@@ -14802,10 +14802,10 @@
       "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
-        "2026-03-17": 8.48
+        "2026-03-17": 8.7
       },
-      "latest_price": 8.48,
-      "return_pct": 2.91,
+      "latest_price": 8.7,
+      "return_pct": 5.58,
       "last_snapshot": "2026-03-17"
     },
     {
@@ -14944,6 +14944,46 @@
       },
       "latest_price": 39.49,
       "return_pct": 30.8,
+      "last_snapshot": "2026-03-17"
+    },
+    {
+      "id": "US|EML|2026-03-16|Mitarotonda James A",
+      "market": "US",
+      "ticker": "EML",
+      "yf_symbol": "EML",
+      "company": "Eastern Co",
+      "insider_name": "Mitarotonda James A",
+      "title": "Dir, 10%",
+      "trade_date": "2026-03-16",
+      "trade_price": 20.93,
+      "value": 35937.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-17": 20.53
+      },
+      "latest_price": 20.53,
+      "return_pct": -1.91,
+      "last_snapshot": "2026-03-17"
+    },
+    {
+      "id": "US|EML|2026-03-16|Everets John",
+      "market": "US",
+      "ticker": "EML",
+      "yf_symbol": "EML",
+      "company": "Eastern Co",
+      "insider_name": "Everets John",
+      "title": "Dir",
+      "trade_date": "2026-03-16",
+      "trade_price": 20.93,
+      "value": 28025.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-17": 20.53
+      },
+      "latest_price": 20.53,
+      "return_pct": -1.91,
       "last_snapshot": "2026-03-17"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17T17:07:27Z",
-  "trade_count": 5499,
+  "last_updated": "2026-03-17T19:09:01Z",
+  "trade_count": 5501,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -83776,7 +83776,7 @@
       "owned": "685136",
       "delta_own": "+1%",
       "value": "136554",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-10",
@@ -87984,6 +87984,38 @@
       "owned": "9859",
       "delta_own": "+12%",
       "value": "31243",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-17",
+      "filing_time": "14:24",
+      "trade_date": "2026-03-16",
+      "ticker": "EML",
+      "company": "Eastern Co",
+      "insider_name": "Mitarotonda James A",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "20.93",
+      "qty": "1717",
+      "owned": "686853",
+      "delta_own": "0%",
+      "value": "35937",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-17",
+      "filing_time": "14:16",
+      "trade_date": "2026-03-16",
+      "ticker": "EML",
+      "company": "Eastern Co",
+      "insider_name": "Everets John",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "20.93",
+      "qty": "1339",
+      "owned": "141194",
+      "delta_own": "+1%",
+      "value": "28025",
       "cluster_buy": true
     }
   ]
