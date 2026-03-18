@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-18T20:42:45Z",
-  "trade_count": 5550,
+  "last_updated": "2026-03-18T21:39:55Z",
+  "trade_count": 5553,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -88800,6 +88800,54 @@
       "owned": "13987003",
       "delta_own": "+19%",
       "value": "2134309",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-18",
+      "filing_time": "17:10",
+      "trade_date": "2026-03-17",
+      "ticker": "GCBC",
+      "company": "Greene County Bancorp Inc",
+      "insider_name": "Hada Tejraj S",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "21.96",
+      "qty": "6000",
+      "owned": "35427",
+      "delta_own": "+20%",
+      "value": "131780",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-18",
+      "filing_time": "17:03",
+      "trade_date": "2026-03-18",
+      "ticker": "TNXP",
+      "company": "Tonix Pharmaceuticals Holding Corp.",
+      "insider_name": "Lederman Seth",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "14.89",
+      "qty": "15000",
+      "owned": "19007",
+      "delta_own": "+374%",
+      "value": "223350",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-18",
+      "filing_time": "17:01",
+      "trade_date": "2026-03-16",
+      "ticker": "VEEE",
+      "company": "Twin Vee Powercats, Co.",
+      "insider_name": "Swets Larry G Jr",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.37",
+      "qty": "100000",
+      "owned": "250000",
+      "delta_own": "+67%",
+      "value": "37000",
       "cluster_buy": false
     }
   ]

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-18",
-  "entry_count": 662,
+  "entry_count": 665,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -16601,6 +16601,66 @@
       },
       "latest_price": 0.7471,
       "return_pct": -20.52,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|GCBC|2026-03-17|Hada Tejraj S",
+      "market": "US",
+      "ticker": "GCBC",
+      "yf_symbol": "GCBC",
+      "company": "Greene County Bancorp Inc",
+      "insider_name": "Hada Tejraj S",
+      "title": "Dir",
+      "trade_date": "2026-03-17",
+      "trade_price": 21.96,
+      "value": 131780.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 21.73
+      },
+      "latest_price": 21.73,
+      "return_pct": -1.05,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|TNXP|2026-03-18|Lederman Seth",
+      "market": "US",
+      "ticker": "TNXP",
+      "yf_symbol": "TNXP",
+      "company": "Tonix Pharmaceuticals Holding Corp.",
+      "insider_name": "Lederman Seth",
+      "title": "CEO",
+      "trade_date": "2026-03-18",
+      "trade_price": 14.89,
+      "value": 223350.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 14.96
+      },
+      "latest_price": 14.96,
+      "return_pct": 0.47,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|VEEE|2026-03-16|Swets Larry G Jr",
+      "market": "US",
+      "ticker": "VEEE",
+      "yf_symbol": "VEEE",
+      "company": "Twin Vee Powercats, Co.",
+      "insider_name": "Swets Larry G Jr",
+      "title": "Dir",
+      "trade_date": "2026-03-16",
+      "trade_price": 0.37,
+      "value": 37000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 0.3268
+      },
+      "latest_price": 0.3268,
+      "return_pct": -11.68,
       "last_snapshot": "2026-03-18"
     }
   ]
