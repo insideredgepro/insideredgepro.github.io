@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-18T16:00:19Z",
-  "trade_count": 2636,
+  "last_updated": "2026-03-18T19:00:19Z",
+  "trade_count": 2637,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -38095,7 +38095,7 @@
       "value": "137500",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4679230",
@@ -38607,7 +38607,7 @@
       "value": "145000",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4682962",
@@ -39728,6 +39728,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4683480",
+      "trade_date": "2026-03-18",
+      "filing_date": "2026-03-18",
+      "company": "Surge Battery Metals Inc.",
+      "ticker": "NILI",
+      "insider_name": "REIMER, GREG",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "52000",
+      "price": "0.5600",
+      "value": "29120",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
