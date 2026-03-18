@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-18",
-  "entry_count": 645,
+  "entry_count": 651,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -3425,10 +3425,10 @@
         "2026-03-13": 8.18,
         "2026-03-16": 8.45,
         "2026-03-17": 8.45,
-        "2026-03-18": 8.48
+        "2026-03-18": 8.35
       },
-      "latest_price": 8.48,
-      "return_pct": 21.14,
+      "latest_price": 8.35,
+      "return_pct": 19.29,
       "last_snapshot": "2026-03-18"
     },
     {
@@ -3452,10 +3452,10 @@
         "2026-03-13": 8.18,
         "2026-03-16": 8.45,
         "2026-03-17": 8.45,
-        "2026-03-18": 8.48
+        "2026-03-18": 8.35
       },
-      "latest_price": 8.48,
-      "return_pct": 21.14,
+      "latest_price": 8.35,
+      "return_pct": 19.29,
       "last_snapshot": "2026-03-18"
     },
     {
@@ -3479,10 +3479,10 @@
         "2026-03-13": 8.18,
         "2026-03-16": 8.45,
         "2026-03-17": 8.45,
-        "2026-03-18": 8.48
+        "2026-03-18": 8.35
       },
-      "latest_price": 8.48,
-      "return_pct": 21.14,
+      "latest_price": 8.35,
+      "return_pct": 19.29,
       "last_snapshot": "2026-03-18"
     },
     {
@@ -3614,10 +3614,10 @@
         "2026-03-13": 0.4395,
         "2026-03-16": 0.45,
         "2026-03-17": 0.452,
-        "2026-03-18": 0.443
+        "2026-03-18": 0.445
       },
-      "latest_price": 0.443,
-      "return_pct": 30.29,
+      "latest_price": 0.445,
+      "return_pct": 30.88,
       "last_snapshot": "2026-03-18"
     },
     {
@@ -11341,10 +11341,10 @@
         "2026-03-13": 8.18,
         "2026-03-16": 8.45,
         "2026-03-17": 8.45,
-        "2026-03-18": 8.48
+        "2026-03-18": 8.35
       },
-      "latest_price": 8.48,
-      "return_pct": 7.21,
+      "latest_price": 8.35,
+      "return_pct": 5.56,
       "last_snapshot": "2026-03-18"
     },
     {
@@ -13555,10 +13555,10 @@
         "2026-03-13": 0.68,
         "2026-03-16": 0.7301,
         "2026-03-17": 0.73,
-        "2026-03-18": 0.7
+        "2026-03-18": 0.67
       },
-      "latest_price": 0.7,
-      "return_pct": 191.67,
+      "latest_price": 0.67,
+      "return_pct": 179.17,
       "last_snapshot": "2026-03-18"
     },
     {
@@ -15404,10 +15404,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-17": 8.45,
-        "2026-03-18": 8.48
+        "2026-03-18": 8.35
       },
-      "latest_price": 8.48,
-      "return_pct": 2.91,
+      "latest_price": 8.35,
+      "return_pct": 1.33,
       "last_snapshot": "2026-03-18"
     },
     {
@@ -16261,6 +16261,126 @@
       },
       "latest_price": 12.69,
       "return_pct": -2.23,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|AIRS|2026-03-17|Chernett Jorey",
+      "market": "US",
+      "ticker": "AIRS",
+      "yf_symbol": "AIRS",
+      "company": "Airsculpt Technologies, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_date": "2026-03-17",
+      "trade_price": 2.56,
+      "value": 212480.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 2.69
+      },
+      "latest_price": 2.69,
+      "return_pct": 5.08,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|STIM|2026-03-17|Chernett Jorey",
+      "market": "US",
+      "ticker": "STIM",
+      "yf_symbol": "STIM",
+      "company": "Neuronetics, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_date": "2026-03-17",
+      "trade_price": 1.16,
+      "value": 615960.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 1.225
+      },
+      "latest_price": 1.225,
+      "return_pct": 5.6,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|RHLD|2026-03-17|Schoen Kurt",
+      "market": "US",
+      "ticker": "RHLD",
+      "yf_symbol": "RHLD",
+      "company": "Resolute Holdings Management, Inc.",
+      "insider_name": "Schoen Kurt",
+      "title": "CFO",
+      "trade_date": "2026-03-17",
+      "trade_price": 141.51,
+      "value": 70755.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 145.64
+      },
+      "latest_price": 145.64,
+      "return_pct": 2.92,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|RHLD|2026-03-17|Cote John D.",
+      "market": "US",
+      "ticker": "RHLD",
+      "yf_symbol": "RHLD",
+      "company": "Resolute Holdings Management, Inc.",
+      "insider_name": "Cote John D.",
+      "title": "Dir",
+      "trade_date": "2026-03-17",
+      "trade_price": 142.29,
+      "value": 78545.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 145.64
+      },
+      "latest_price": 145.64,
+      "return_pct": 2.35,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|GPGI|2026-03-17|Schoen Kurt",
+      "market": "US",
+      "ticker": "GPGI",
+      "yf_symbol": "GPGI",
+      "company": "Gpgi, Inc.",
+      "insider_name": "Schoen Kurt",
+      "title": "See remarks",
+      "trade_date": "2026-03-17",
+      "trade_price": 17.0,
+      "value": 51000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 17.28
+      },
+      "latest_price": 17.28,
+      "return_pct": 1.65,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|GPGI|2026-03-17|Cote John D.",
+      "market": "US",
+      "ticker": "GPGI",
+      "yf_symbol": "GPGI",
+      "company": "Gpgi, Inc.",
+      "insider_name": "Cote John D.",
+      "title": "Dir",
+      "trade_date": "2026-03-17",
+      "trade_price": 17.1,
+      "value": 99180.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 17.28
+      },
+      "latest_price": 17.28,
+      "return_pct": 1.05,
       "last_snapshot": "2026-03-18"
     }
   ]
