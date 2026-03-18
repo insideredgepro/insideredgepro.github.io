@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-18T17:07:00Z",
-  "trade_count": 5541,
+  "last_updated": "2026-03-18T19:07:37Z",
+  "trade_count": 5543,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -88352,7 +88352,7 @@
       "owned": "105000",
       "delta_own": "+5%",
       "value": "25050",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-17",
@@ -88656,6 +88656,38 @@
       "owned": "1550",
       "delta_own": ">999%",
       "value": "52917",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-18",
+      "filing_time": "14:13",
+      "trade_date": "2026-03-17",
+      "ticker": "HBIO",
+      "company": "Harvard Bioscience Inc",
+      "insider_name": "Denelsky Stephen J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.87",
+      "qty": "10000",
+      "owned": "21000",
+      "delta_own": "+91%",
+      "value": "48700",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-18",
+      "filing_time": "13:58",
+      "trade_date": "2026-03-18",
+      "ticker": "BW",
+      "company": "Babcock & Wilcox Enterprises, Inc.",
+      "insider_name": "Young Kenneth M",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "15.15",
+      "qty": "7000",
+      "owned": "1929279",
+      "delta_own": "0%",
+      "value": "106015",
       "cluster_buy": false
     }
   ]
