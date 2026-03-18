@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-18",
-  "entry_count": 651,
+  "entry_count": 653,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -3425,10 +3425,10 @@
         "2026-03-13": 8.18,
         "2026-03-16": 8.45,
         "2026-03-17": 8.45,
-        "2026-03-18": 8.35
+        "2026-03-18": 8.41
       },
-      "latest_price": 8.35,
-      "return_pct": 19.29,
+      "latest_price": 8.41,
+      "return_pct": 20.14,
       "last_snapshot": "2026-03-18"
     },
     {
@@ -3452,10 +3452,10 @@
         "2026-03-13": 8.18,
         "2026-03-16": 8.45,
         "2026-03-17": 8.45,
-        "2026-03-18": 8.35
+        "2026-03-18": 8.41
       },
-      "latest_price": 8.35,
-      "return_pct": 19.29,
+      "latest_price": 8.41,
+      "return_pct": 20.14,
       "last_snapshot": "2026-03-18"
     },
     {
@@ -3479,10 +3479,10 @@
         "2026-03-13": 8.18,
         "2026-03-16": 8.45,
         "2026-03-17": 8.45,
-        "2026-03-18": 8.35
+        "2026-03-18": 8.41
       },
-      "latest_price": 8.35,
-      "return_pct": 19.29,
+      "latest_price": 8.41,
+      "return_pct": 20.14,
       "last_snapshot": "2026-03-18"
     },
     {
@@ -11341,10 +11341,10 @@
         "2026-03-13": 8.18,
         "2026-03-16": 8.45,
         "2026-03-17": 8.45,
-        "2026-03-18": 8.35
+        "2026-03-18": 8.41
       },
-      "latest_price": 8.35,
-      "return_pct": 5.56,
+      "latest_price": 8.41,
+      "return_pct": 6.32,
       "last_snapshot": "2026-03-18"
     },
     {
@@ -13555,10 +13555,10 @@
         "2026-03-13": 0.68,
         "2026-03-16": 0.7301,
         "2026-03-17": 0.73,
-        "2026-03-18": 0.67
+        "2026-03-18": 0.6799
       },
-      "latest_price": 0.67,
-      "return_pct": 179.17,
+      "latest_price": 0.6799,
+      "return_pct": 183.29,
       "last_snapshot": "2026-03-18"
     },
     {
@@ -15404,10 +15404,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-17": 8.45,
-        "2026-03-18": 8.35
+        "2026-03-18": 8.41
       },
-      "latest_price": 8.35,
-      "return_pct": 1.33,
+      "latest_price": 8.41,
+      "return_pct": 2.06,
       "last_snapshot": "2026-03-18"
     },
     {
@@ -16381,6 +16381,46 @@
       },
       "latest_price": 17.28,
       "return_pct": 1.05,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|CULP|2026-03-16|Culp Robert George IV",
+      "market": "US",
+      "ticker": "CULP",
+      "yf_symbol": "CULP",
+      "company": "Culp Inc",
+      "insider_name": "Culp Robert George IV",
+      "title": "Pres, CEO",
+      "trade_date": "2026-03-16",
+      "trade_price": 3.16,
+      "value": 27659.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 3.02
+      },
+      "latest_price": 3.02,
+      "return_pct": -4.43,
+      "last_snapshot": "2026-03-18"
+    },
+    {
+      "id": "US|FSUN|2026-03-16|Murphy Peter E",
+      "market": "US",
+      "ticker": "FSUN",
+      "yf_symbol": "FSUN",
+      "company": "Firstsun Capital Bancorp",
+      "insider_name": "Murphy Peter E",
+      "title": "Dir",
+      "trade_date": "2026-03-16",
+      "trade_price": 35.28,
+      "value": 52917.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-18": 35.08
+      },
+      "latest_price": 35.08,
+      "return_pct": -0.57,
       "last_snapshot": "2026-03-18"
     }
   ]

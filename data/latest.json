@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-18T15:08:26Z",
-  "trade_count": 5539,
+  "last_updated": "2026-03-18T17:07:00Z",
+  "trade_count": 5541,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -88625,6 +88625,38 @@
       "delta_own": "0%",
       "value": "99180",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-18",
+      "filing_time": "11:22",
+      "trade_date": "2026-03-16",
+      "ticker": "CULP",
+      "company": "Culp Inc",
+      "insider_name": "Culp Robert George IV",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.16",
+      "qty": "8739",
+      "owned": "419387",
+      "delta_own": "+2%",
+      "value": "27659",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-18",
+      "filing_time": "11:16",
+      "trade_date": "2026-03-16",
+      "ticker": "FSUN",
+      "company": "Firstsun Capital Bancorp",
+      "insider_name": "Murphy Peter E",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "35.28",
+      "qty": "1500",
+      "owned": "1550",
+      "delta_own": ">999%",
+      "value": "52917",
+      "cluster_buy": false
     }
   ]
 }
