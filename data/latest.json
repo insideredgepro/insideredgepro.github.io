@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-19T15:59:07Z",
-  "trade_count": 5555,
+  "last_updated": "2026-03-19T17:08:25Z",
+  "trade_count": 5556,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -88880,6 +88880,22 @@
       "owned": "585731",
       "delta_own": "+1%",
       "value": "50025",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-19",
+      "filing_time": "12:45",
+      "trade_date": "2026-03-16",
+      "ticker": "SBSW",
+      "company": "Sibanye Stillwater Ltd",
+      "insider_name": "Maphai Thabane Vincent",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "13.34",
+      "qty": "12000",
+      "owned": "244813",
+      "delta_own": "+5%",
+      "value": "160080",
       "cluster_buy": false
     }
   ]
