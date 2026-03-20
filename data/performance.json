@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-20",
-  "entry_count": 650,
+  "entry_count": 652,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -2577,10 +2577,10 @@
         "2026-03-17": 8.45,
         "2026-03-18": 8.4,
         "2026-03-19": 8.05,
-        "2026-03-20": 8.05
+        "2026-03-20": 8.15
       },
-      "latest_price": 8.05,
-      "return_pct": 15.0,
+      "latest_price": 8.15,
+      "return_pct": 16.43,
       "last_snapshot": "2026-03-20"
     },
     {
@@ -2606,10 +2606,10 @@
         "2026-03-17": 8.45,
         "2026-03-18": 8.4,
         "2026-03-19": 8.05,
-        "2026-03-20": 8.05
+        "2026-03-20": 8.15
       },
-      "latest_price": 8.05,
-      "return_pct": 15.0,
+      "latest_price": 8.15,
+      "return_pct": 16.43,
       "last_snapshot": "2026-03-20"
     },
     {
@@ -2635,10 +2635,10 @@
         "2026-03-17": 8.45,
         "2026-03-18": 8.4,
         "2026-03-19": 8.05,
-        "2026-03-20": 8.05
+        "2026-03-20": 8.15
       },
-      "latest_price": 8.05,
-      "return_pct": 15.0,
+      "latest_price": 8.15,
+      "return_pct": 16.43,
       "last_snapshot": "2026-03-20"
     },
     {
@@ -11091,10 +11091,10 @@
         "2026-03-17": 8.45,
         "2026-03-18": 8.4,
         "2026-03-19": 8.05,
-        "2026-03-20": 8.05
+        "2026-03-20": 8.15
       },
-      "latest_price": 8.05,
-      "return_pct": 1.77,
+      "latest_price": 8.15,
+      "return_pct": 3.03,
       "last_snapshot": "2026-03-20"
     },
     {
@@ -13491,10 +13491,10 @@
         "2026-03-17": 0.73,
         "2026-03-18": 0.65,
         "2026-03-19": 0.705,
-        "2026-03-20": 0.705
+        "2026-03-20": 0.715
       },
-      "latest_price": 0.705,
-      "return_pct": 193.75,
+      "latest_price": 0.715,
+      "return_pct": 197.92,
       "last_snapshot": "2026-03-20"
     },
     {
@@ -15506,10 +15506,10 @@
         "2026-03-17": 8.45,
         "2026-03-18": 8.4,
         "2026-03-19": 8.05,
-        "2026-03-20": 8.05
+        "2026-03-20": 8.15
       },
-      "latest_price": 8.05,
-      "return_pct": -2.31,
+      "latest_price": 8.15,
+      "return_pct": -1.09,
       "last_snapshot": "2026-03-20"
     },
     {
@@ -16963,10 +16963,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-19": 19.7,
-        "2026-03-20": 19.7
+        "2026-03-20": 19.68
       },
-      "latest_price": 19.7,
-      "return_pct": 0.15,
+      "latest_price": 19.68,
+      "return_pct": 0.05,
       "last_snapshot": "2026-03-20"
     },
     {
@@ -17173,10 +17173,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-19": 8.05,
-        "2026-03-20": 8.05
+        "2026-03-20": 8.15
       },
-      "latest_price": 8.05,
-      "return_pct": -6.4,
+      "latest_price": 8.15,
+      "return_pct": -5.23,
       "last_snapshot": "2026-03-20"
     },
     {
@@ -17363,6 +17363,46 @@
       },
       "latest_price": 1.515,
       "return_pct": 13.06,
+      "last_snapshot": "2026-03-20"
+    },
+    {
+      "id": "US|NFBK|2026-03-19|Fasanella David",
+      "market": "US",
+      "ticker": "NFBK",
+      "yf_symbol": "NFBK",
+      "company": "Northfield Bancorp, Inc.",
+      "insider_name": "Fasanella David",
+      "title": "EVP",
+      "trade_date": "2026-03-19",
+      "trade_price": 13.07,
+      "value": 98025.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-20": 13.32
+      },
+      "latest_price": 13.32,
+      "return_pct": 1.91,
+      "last_snapshot": "2026-03-20"
+    },
+    {
+      "id": "US|AIRS|2026-03-19|Chernett Jorey",
+      "market": "US",
+      "ticker": "AIRS",
+      "yf_symbol": "AIRS",
+      "company": "Airsculpt Technologies, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_date": "2026-03-19",
+      "trade_price": 2.64,
+      "value": 205133.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-20": 2.72
+      },
+      "latest_price": 2.72,
+      "return_pct": 3.03,
       "last_snapshot": "2026-03-20"
     }
   ]

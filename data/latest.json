@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20T13:09:48Z",
-  "trade_count": 5576,
+  "last_updated": "2026-03-20T14:48:52Z",
+  "trade_count": 5579,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -88864,7 +88864,7 @@
       "owned": "54354",
       "delta_own": "+23%",
       "value": "131900",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-19",
@@ -89216,6 +89216,54 @@
       "owned": "8573804",
       "delta_own": "+14%",
       "value": "1418490",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-20",
+      "filing_time": "10:29",
+      "trade_date": "2026-03-19",
+      "ticker": "NFBK",
+      "company": "Northfield Bancorp, Inc.",
+      "insider_name": "Fasanella David",
+      "title": "EVP",
+      "trade_type": "P - Purchase",
+      "price": "13.07",
+      "qty": "7500",
+      "owned": "73398",
+      "delta_own": "+11%",
+      "value": "98025",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-20",
+      "filing_time": "10:04",
+      "trade_date": "2026-03-06",
+      "ticker": "NBBK",
+      "company": "Nb Bancorp, Inc.",
+      "insider_name": "Campanelli Joseph P",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "20.77",
+      "qty": "5000",
+      "owned": "497435",
+      "delta_own": "+1%",
+      "value": "103870",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-20",
+      "filing_time": "09:33",
+      "trade_date": "2026-03-19",
+      "ticker": "AIRS",
+      "company": "Airsculpt Technologies, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.64",
+      "qty": "77702",
+      "owned": "6753761",
+      "delta_own": "+1%",
+      "value": "205133",
       "cluster_buy": false
     }
   ]
