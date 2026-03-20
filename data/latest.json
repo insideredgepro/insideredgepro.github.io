@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20T19:40:44Z",
-  "trade_count": 5583,
+  "last_updated": "2026-03-20T20:38:38Z",
+  "trade_count": 5586,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -89329,6 +89329,54 @@
       "delta_own": "+8%",
       "value": "1730765",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-20",
+      "filing_time": "16:30",
+      "trade_date": "2026-03-18",
+      "ticker": "WD",
+      "company": "Walker & Dunlop, Inc.",
+      "insider_name": "Schmaltz Dana L",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "45.78",
+      "qty": "1000",
+      "owned": "84325",
+      "delta_own": "+1%",
+      "value": "45780",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-20",
+      "filing_time": "16:17",
+      "trade_date": "2026-03-19",
+      "ticker": "ALDX",
+      "company": "Aldeyra Therapeutics, Inc.",
+      "insider_name": "Douglas Richard",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.40",
+      "qty": "70000",
+      "owned": "195000",
+      "delta_own": "+56%",
+      "value": "98000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-20",
+      "filing_time": "16:00",
+      "trade_date": "2026-03-18",
+      "ticker": "BHM",
+      "company": "Bluerock Homes Trust, Inc.",
+      "insider_name": "Kamfar Ramin",
+      "title": "COB, CEO",
+      "trade_type": "P - Purchase",
+      "price": "10.94",
+      "qty": "25798",
+      "owned": "53517",
+      "delta_own": "+93%",
+      "value": "282113",
+      "cluster_buy": false
     }
   ]
 }
