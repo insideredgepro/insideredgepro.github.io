@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20T14:48:52Z",
-  "trade_count": 5579,
+  "last_updated": "2026-03-20T15:49:06Z",
+  "trade_count": 5581,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -89264,6 +89264,38 @@
       "owned": "6753761",
       "delta_own": "+1%",
       "value": "205133",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-20",
+      "filing_time": "11:38",
+      "trade_date": "2026-03-18",
+      "ticker": "EML",
+      "company": "Eastern Co",
+      "insider_name": "Mitarotonda James A",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "20.11",
+      "qty": "2000",
+      "owned": "688853",
+      "delta_own": "0%",
+      "value": "40217",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-20",
+      "filing_time": "11:03",
+      "trade_date": "2026-03-16",
+      "ticker": "SRBK",
+      "company": "Sr Bancorp, Inc.",
+      "insider_name": "Faqueri Harris M",
+      "title": "SVP, CFO",
+      "trade_type": "P - Purchase",
+      "price": "16.40",
+      "qty": "3000",
+      "owned": "31078",
+      "delta_own": "+11%",
+      "value": "49200",
       "cluster_buy": false
     }
   ]
