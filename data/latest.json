@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20T21:35:28Z",
-  "trade_count": 5588,
+  "last_updated": "2026-03-20T22:33:55Z",
+  "trade_count": 5590,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -89408,6 +89408,38 @@
       "owned": "2529918",
       "delta_own": "0%",
       "value": "26214",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-20",
+      "filing_time": "18:02",
+      "trade_date": "2026-03-19",
+      "ticker": "GO",
+      "company": "Grocery Outlet Holding Corp.",
+      "insider_name": "Potter Jason J. N.",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "5.90",
+      "qty": "286097",
+      "owned": "574366",
+      "delta_own": "+99%",
+      "value": "1687972",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-20",
+      "filing_time": "17:47",
+      "trade_date": "2025-08-21",
+      "ticker": "MLP",
+      "company": "Maui Land & Pineapple Co Inc",
+      "insider_name": "Case Stephen M",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "16.34",
+      "qty": "5000",
+      "owned": "11998872",
+      "delta_own": "0%",
+      "value": "81675",
       "cluster_buy": false
     }
   ]

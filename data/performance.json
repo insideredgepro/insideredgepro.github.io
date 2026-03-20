@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-20",
-  "entry_count": 661,
+  "entry_count": 662,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -17583,6 +17583,26 @@
       },
       "latest_price": 5.84,
       "return_pct": 1.92,
+      "last_snapshot": "2026-03-20"
+    },
+    {
+      "id": "US|GO|2026-03-19|Potter Jason J. N.",
+      "market": "US",
+      "ticker": "GO",
+      "yf_symbol": "GO",
+      "company": "Grocery Outlet Holding Corp.",
+      "insider_name": "Potter Jason J. N.",
+      "title": "Pres, CEO",
+      "trade_date": "2026-03-19",
+      "trade_price": 5.9,
+      "value": 1687972.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-20": 5.83
+      },
+      "latest_price": 5.83,
+      "return_pct": -1.19,
       "last_snapshot": "2026-03-20"
     }
   ]
