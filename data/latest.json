@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20T11:35:42Z",
-  "trade_count": 5575,
+  "last_updated": "2026-03-20T13:09:48Z",
+  "trade_count": 5576,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -89201,6 +89201,22 @@
       "delta_own": "+8%",
       "value": "486382",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-20",
+      "filing_time": "08:51",
+      "trade_date": "2026-03-18",
+      "ticker": "STIM",
+      "company": "Neuronetics, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "1.34",
+      "qty": "1057400",
+      "owned": "8573804",
+      "delta_own": "+14%",
+      "value": "1418490",
+      "cluster_buy": false
     }
   ]
 }
