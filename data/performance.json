@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-23",
-  "entry_count": 631,
+  "entry_count": 638,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -17114,6 +17114,146 @@
       },
       "latest_price": 2.15,
       "return_pct": -3.15,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|MKTW|2026-03-19|Stansberry Frank Porter",
+      "market": "US",
+      "ticker": "MKTW",
+      "yf_symbol": "MKTW",
+      "company": "Marketwise, Inc.",
+      "insider_name": "Stansberry Frank Porter",
+      "title": "Dir, 10%",
+      "trade_date": "2026-03-19",
+      "trade_price": 14.67,
+      "value": 592286.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 15.45
+      },
+      "latest_price": 15.45,
+      "return_pct": 5.32,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|SPRU|2026-03-19|Steel Partners Holdings L.P.",
+      "market": "US",
+      "ticker": "SPRU",
+      "yf_symbol": "SPRU",
+      "company": "Spruce Power Holding Corp",
+      "insider_name": "Steel Partners Holdings L.P.",
+      "title": "10%",
+      "trade_date": "2026-03-19",
+      "trade_price": 4.19,
+      "value": 252974.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 4.42
+      },
+      "latest_price": 4.42,
+      "return_pct": 5.49,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|NMM|2026-03-19|Frangou Angeliki",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-03-19",
+      "trade_price": 66.17,
+      "value": 249539.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 64.62
+      },
+      "latest_price": 64.62,
+      "return_pct": -2.34,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|FMBM|2026-03-19|Eberly Paul E.",
+      "market": "US",
+      "ticker": "FMBM",
+      "yf_symbol": "FMBM",
+      "company": "F&M Bank Corp",
+      "insider_name": "Eberly Paul E.",
+      "title": "EVP, Chief Lending Officer",
+      "trade_date": "2026-03-19",
+      "trade_price": 30.59,
+      "value": 50504.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 30.59
+      },
+      "latest_price": 30.59,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|FMBM|2026-03-19|Wilkerson Aubrey M.",
+      "market": "US",
+      "ticker": "FMBM",
+      "yf_symbol": "FMBM",
+      "company": "F&M Bank Corp",
+      "insider_name": "Wilkerson Aubrey M.",
+      "title": "CEO",
+      "trade_date": "2026-03-19",
+      "trade_price": 30.59,
+      "value": 128264.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 30.59
+      },
+      "latest_price": 30.59,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|NFJ|2026-03-19|Saba Capital Management, L.P.",
+      "market": "US",
+      "ticker": "NFJ",
+      "yf_symbol": "NFJ",
+      "company": "Virtus Dividend, Interest & Premium Strategy Fund",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10%",
+      "trade_date": "2026-03-19",
+      "trade_price": 12.41,
+      "value": 349838.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 12.35
+      },
+      "latest_price": 12.35,
+      "return_pct": -0.48,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|FMBM|2026-03-19|Driest Charles C.",
+      "market": "US",
+      "ticker": "FMBM",
+      "yf_symbol": "FMBM",
+      "company": "F&M Bank Corp",
+      "insider_name": "Driest Charles C.",
+      "title": "EVP, Chief Experience Officer",
+      "trade_date": "2026-03-19",
+      "trade_price": 30.59,
+      "value": 46619.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 30.59
+      },
+      "latest_price": 30.59,
+      "return_pct": 0.0,
       "last_snapshot": "2026-03-23"
     }
   ]
