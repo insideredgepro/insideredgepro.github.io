@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-23T16:01:00Z",
-  "trade_count": 2696,
+  "last_updated": "2026-03-23T19:00:25Z",
+  "trade_count": 2697,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -40688,6 +40688,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4686661",
+      "trade_date": "2026-03-23",
+      "filing_date": "2026-03-23",
+      "company": "NFI Group Inc.",
+      "ticker": "NFI",
+      "insider_name": "Dewsnup, Brian Keith",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "3700",
+      "price": "18.3900",
+      "value": "68043",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
