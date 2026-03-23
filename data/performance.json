@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-23",
-  "entry_count": 618,
+  "entry_count": 619,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -1106,10 +1106,10 @@
         "2026-03-18": 8.4,
         "2026-03-19": 8.05,
         "2026-03-20": 8.03,
-        "2026-03-23": 8.29
+        "2026-03-23": 8.39
       },
-      "latest_price": 8.29,
-      "return_pct": 18.43,
+      "latest_price": 8.39,
+      "return_pct": 19.86,
       "last_snapshot": "2026-03-23"
     },
     {
@@ -1136,10 +1136,10 @@
         "2026-03-18": 8.4,
         "2026-03-19": 8.05,
         "2026-03-20": 8.03,
-        "2026-03-23": 8.29
+        "2026-03-23": 8.39
       },
-      "latest_price": 8.29,
-      "return_pct": 18.43,
+      "latest_price": 8.39,
+      "return_pct": 19.86,
       "last_snapshot": "2026-03-23"
     },
     {
@@ -1166,10 +1166,10 @@
         "2026-03-18": 8.4,
         "2026-03-19": 8.05,
         "2026-03-20": 8.03,
-        "2026-03-23": 8.29
+        "2026-03-23": 8.39
       },
-      "latest_price": 8.29,
-      "return_pct": 18.43,
+      "latest_price": 8.39,
+      "return_pct": 19.86,
       "last_snapshot": "2026-03-23"
     },
     {
@@ -9919,10 +9919,10 @@
         "2026-03-18": 8.4,
         "2026-03-19": 8.05,
         "2026-03-20": 8.03,
-        "2026-03-23": 8.29
+        "2026-03-23": 8.39
       },
-      "latest_price": 8.29,
-      "return_pct": 4.8,
+      "latest_price": 8.39,
+      "return_pct": 6.07,
       "last_snapshot": "2026-03-23"
     },
     {
@@ -12412,10 +12412,10 @@
         "2026-03-18": 0.65,
         "2026-03-19": 0.705,
         "2026-03-20": 0.71,
-        "2026-03-23": 0.86
+        "2026-03-23": 0.85
       },
-      "latest_price": 0.86,
-      "return_pct": 258.33,
+      "latest_price": 0.85,
+      "return_pct": 254.17,
       "last_snapshot": "2026-03-23"
     },
     {
@@ -14485,10 +14485,10 @@
         "2026-03-18": 8.4,
         "2026-03-19": 8.05,
         "2026-03-20": 8.03,
-        "2026-03-23": 8.29
+        "2026-03-23": 8.39
       },
-      "latest_price": 8.29,
-      "return_pct": 0.61,
+      "latest_price": 8.39,
+      "return_pct": 1.82,
       "last_snapshot": "2026-03-23"
     },
     {
@@ -15982,10 +15982,10 @@
       "snapshots": {
         "2026-03-19": 19.7,
         "2026-03-20": 19.7,
-        "2026-03-23": 19.6
+        "2026-03-23": 19.65
       },
-      "latest_price": 19.6,
-      "return_pct": -0.36,
+      "latest_price": 19.65,
+      "return_pct": -0.1,
       "last_snapshot": "2026-03-23"
     },
     {
@@ -16202,10 +16202,10 @@
       "snapshots": {
         "2026-03-19": 8.05,
         "2026-03-20": 8.03,
-        "2026-03-23": 8.29
+        "2026-03-23": 8.39
       },
-      "latest_price": 8.29,
-      "return_pct": -3.6,
+      "latest_price": 8.39,
+      "return_pct": -2.44,
       "last_snapshot": "2026-03-23"
     },
     {
@@ -16854,6 +16854,26 @@
       },
       "latest_price": 3.99,
       "return_pct": -14.74,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|TTAM|2026-03-19|Wilt Lawrence Hugh Jr.",
+      "market": "US",
+      "ticker": "TTAM",
+      "yf_symbol": "TTAM",
+      "company": "Titan America Sa",
+      "insider_name": "Wilt Lawrence Hugh Jr.",
+      "title": "CFO",
+      "trade_date": "2026-03-19",
+      "trade_price": 14.93,
+      "value": 298600.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 14.2
+      },
+      "latest_price": 14.2,
+      "return_pct": -4.89,
       "last_snapshot": "2026-03-23"
     }
   ]

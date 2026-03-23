@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-23T17:44:47Z",
-  "trade_count": 5600,
+  "last_updated": "2026-03-23T18:42:38Z",
+  "trade_count": 5601,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -89600,6 +89600,22 @@
       "owned": "96294",
       "delta_own": "+29%",
       "value": "102628",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-23",
+      "filing_time": "14:01",
+      "trade_date": "2026-03-19",
+      "ticker": "TTAM",
+      "company": "Titan America Sa",
+      "insider_name": "Wilt Lawrence Hugh Jr.",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "14.93",
+      "qty": "20000",
+      "owned": "20000",
+      "delta_own": "New",
+      "value": "298600",
       "cluster_buy": false
     }
   ]
