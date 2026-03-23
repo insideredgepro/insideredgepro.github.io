@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-23T15:53:44Z",
-  "trade_count": 5599,
+  "last_updated": "2026-03-23T16:49:02Z",
+  "trade_count": 5600,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -89584,6 +89584,22 @@
       "owned": "15015273",
       "delta_own": "0%",
       "value": "49630",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-23",
+      "filing_time": "12:13",
+      "trade_date": "2026-03-16",
+      "ticker": "FOSL",
+      "company": "Fossil Group, Inc.",
+      "insider_name": "Schoppert Wendy Lee",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.68",
+      "qty": "21929",
+      "owned": "96294",
+      "delta_own": "+29%",
+      "value": "102628",
       "cluster_buy": false
     }
   ]
