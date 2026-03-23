@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-23T22:23:26Z",
-  "trade_count": 5620,
+  "last_updated": "2026-03-23T23:24:25Z",
+  "trade_count": 5623,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -89921,6 +89921,54 @@
       "delta_own": "+18%",
       "value": "46619",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-23",
+      "filing_time": "19:23",
+      "trade_date": "2026-03-20",
+      "ticker": "OSUR",
+      "company": "Orasure Technologies Inc",
+      "insider_name": "Eglinton Manner Carrie",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.93",
+      "qty": "32300",
+      "owned": "2190874",
+      "delta_own": "+1%",
+      "value": "94597",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-23",
+      "filing_time": "19:00",
+      "trade_date": "2026-03-19",
+      "ticker": "UUU",
+      "company": "Universal Safety Products, Inc.",
+      "insider_name": "Ault Milton C III",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "6.15",
+      "qty": "24000",
+      "owned": "683439",
+      "delta_own": "+4%",
+      "value": "147640",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-23",
+      "filing_time": "18:25",
+      "trade_date": "2026-03-19",
+      "ticker": "AHCO",
+      "company": "Adapthealth Corp.",
+      "insider_name": "Cashin Richard M Jr",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "9.91",
+      "qty": "447827",
+      "owned": "16312698",
+      "delta_own": "+3%",
+      "value": "4438928",
+      "cluster_buy": false
     }
   ]
 }

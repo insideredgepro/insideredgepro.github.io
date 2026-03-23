@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-23",
-  "entry_count": 638,
+  "entry_count": 641,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -17253,6 +17253,66 @@
         "2026-03-23": 30.59
       },
       "latest_price": 30.59,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|OSUR|2026-03-20|Eglinton Manner Carrie",
+      "market": "US",
+      "ticker": "OSUR",
+      "yf_symbol": "OSUR",
+      "company": "Orasure Technologies Inc",
+      "insider_name": "Eglinton Manner Carrie",
+      "title": "Pres, CEO",
+      "trade_date": "2026-03-20",
+      "trade_price": 2.93,
+      "value": 94597.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 2.95
+      },
+      "latest_price": 2.95,
+      "return_pct": 0.68,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|UUU|2026-03-19|Ault Milton C III",
+      "market": "US",
+      "ticker": "UUU",
+      "yf_symbol": "UUU",
+      "company": "Universal Safety Products, Inc.",
+      "insider_name": "Ault Milton C III",
+      "title": "Dir, 10%",
+      "trade_date": "2026-03-19",
+      "trade_price": 6.15,
+      "value": 147640.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 5.94
+      },
+      "latest_price": 5.94,
+      "return_pct": -3.41,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|AHCO|2026-03-19|Cashin Richard M Jr",
+      "market": "US",
+      "ticker": "AHCO",
+      "yf_symbol": "AHCO",
+      "company": "Adapthealth Corp.",
+      "insider_name": "Cashin Richard M Jr",
+      "title": "10%",
+      "trade_date": "2026-03-19",
+      "trade_price": 9.91,
+      "value": 4438928.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 9.91
+      },
+      "latest_price": 9.91,
       "return_pct": 0.0,
       "last_snapshot": "2026-03-23"
     }
