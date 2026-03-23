@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-23T11:38:17Z",
-  "trade_count": 5593,
+  "last_updated": "2026-03-23T12:44:47Z",
+  "trade_count": 5594,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -89488,6 +89488,22 @@
       "owned": "35974",
       "delta_own": "+223%",
       "value": "50132",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-23",
+      "filing_time": "07:43",
+      "trade_date": "2026-03-19",
+      "ticker": "ESOA",
+      "company": "Energy Services of America Corp",
+      "insider_name": "Reynolds Douglas V",
+      "title": "Pres, 10%",
+      "trade_type": "P - Purchase",
+      "price": "13.21",
+      "qty": "6309",
+      "owned": "1925593",
+      "delta_own": "0%",
+      "value": "83327",
       "cluster_buy": false
     }
   ]

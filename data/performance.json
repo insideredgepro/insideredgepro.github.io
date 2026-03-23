@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-23",
-  "entry_count": 611,
+  "entry_count": 612,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -16714,6 +16714,26 @@
       },
       "latest_price": 2.09,
       "return_pct": 3.47,
+      "last_snapshot": "2026-03-23"
+    },
+    {
+      "id": "US|ESOA|2026-03-19|Reynolds Douglas V",
+      "market": "US",
+      "ticker": "ESOA",
+      "yf_symbol": "ESOA",
+      "company": "Energy Services of America Corp",
+      "insider_name": "Reynolds Douglas V",
+      "title": "Pres, 10%",
+      "trade_date": "2026-03-19",
+      "trade_price": 13.21,
+      "value": 83327.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-23": 13.32
+      },
+      "latest_price": 13.32,
+      "return_pct": 0.83,
       "last_snapshot": "2026-03-23"
     }
   ]
