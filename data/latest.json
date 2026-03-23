@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20T23:33:36Z",
-  "trade_count": 5591,
+  "last_updated": "2026-03-23T04:05:06Z",
+  "trade_count": 5592,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -89456,6 +89456,22 @@
       "owned": "280052",
       "delta_own": "+1%",
       "value": "25042",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-20",
+      "filing_time": "20:28",
+      "trade_date": "2026-03-12",
+      "ticker": "AMR",
+      "company": "Alpha Metallurgical Resources, Inc.",
+      "insider_name": "Courtis Kenneth S.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "191.07",
+      "qty": "8000",
+      "owned": "874537",
+      "delta_own": "+1%",
+      "value": "1528550",
       "cluster_buy": false
     }
   ]
