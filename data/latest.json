@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-23T14:09:42Z",
-  "trade_count": 5598,
+  "last_updated": "2026-03-23T15:53:44Z",
+  "trade_count": 5599,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -89568,6 +89568,22 @@
       "owned": "4012567",
       "delta_own": "+1%",
       "value": "89688",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-23",
+      "filing_time": "10:38",
+      "trade_date": "2026-03-20",
+      "ticker": "KLTR",
+      "company": "Kaltura Inc",
+      "insider_name": "Yekutiel Ron",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.14",
+      "qty": "43550",
+      "owned": "15015273",
+      "delta_own": "0%",
+      "value": "49630",
       "cluster_buy": false
     }
   ]
