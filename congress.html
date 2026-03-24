@@ -136,9 +136,9 @@
 
     /* Mobile card overrides */
     @media (max-width: 600px) {
-      td.td-amount      { display: block; position: absolute; top: 10px; right: 12px; padding: 0; }
-      td:has(.badge-tx) { display: block; position: absolute; bottom: 8px; right: 12px; padding: 0; }
-      td.td-filed       { display: none; }
+      td.td-amount { display: block; position: absolute; top: 10px; right: 12px; padding: 0; }
+      td.td-type   { display: block; position: absolute; bottom: 8px; right: 12px; padding: 0; }
+      td.td-filed  { display: none; }
     }
   </style>
 </head>
@@ -610,7 +610,7 @@
     ${t.sector ? `<div style="font-size:10px;color:var(--muted);margin-top:2px">${escHtml(t.sector)}</div>` : ''}
   </td>
   <td class="td-ticker">${ticker && ticker !== 'N/A' ? escHtml(ticker) : '<span style="color:var(--muted)">—</span>'}</td>
-  <td><span class="badge-tx ${txClass(txType)}">${escHtml(txType || '—')}</span></td>
+  <td class="td-type"><span class="badge-tx ${txClass(txType)}">${escHtml(txType || '—')}</span></td>
   <td class="td-amount">${escHtml(amount)}</td>
   <td class="td-filed">${escHtml(filedDays)}</td>
 </tr>`;
