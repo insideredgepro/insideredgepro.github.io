@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-24T17:58:02Z",
-  "trade_count": 5629,
+  "last_updated": "2026-03-24T19:02:31Z",
+  "trade_count": 5631,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -90065,6 +90065,38 @@
       "delta_own": "+9%",
       "value": "48920",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-24",
+      "filing_time": "15:00",
+      "trade_date": "2026-03-20",
+      "ticker": "BHM",
+      "company": "Bluerock Homes Trust, Inc.",
+      "insider_name": "Kamfar Ramin",
+      "title": "COB, CEO",
+      "trade_type": "P - Purchase",
+      "price": "10.97",
+      "qty": "5707",
+      "owned": "59224",
+      "delta_own": "+11%",
+      "value": "62606",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-24",
+      "filing_time": "14:00",
+      "trade_date": "2026-03-06",
+      "ticker": "FLYX",
+      "company": "Flyexclusive Inc.",
+      "insider_name": "Hopper Peter B.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.44",
+      "qty": "125000",
+      "owned": "125000",
+      "delta_own": "New",
+      "value": "305033",
+      "cluster_buy": false
     }
   ]
 }
