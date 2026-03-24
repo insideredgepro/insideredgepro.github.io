@@ -136,8 +136,9 @@
 
     /* Mobile card overrides */
     @media (max-width: 600px) {
-      td.td-amount { display: block; position: absolute; top: 10px; right: 12px; padding: 0; }
-      td.td-filed  { display: none; }
+      td.td-amount      { display: block; position: absolute; top: 10px; right: 12px; padding: 0; }
+      td:has(.badge-tx) { display: block; position: absolute; bottom: 8px; right: 12px; padding: 0; }
+      td.td-filed       { display: none; }
     }
   </style>
 </head>
