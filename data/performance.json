@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-24",
-  "entry_count": 655,
+  "entry_count": 663,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -18234,6 +18234,166 @@
       },
       "latest_price": 12.5,
       "return_pct": -0.16,
+      "last_snapshot": "2026-03-24"
+    },
+    {
+      "id": "US|JAN|2026-03-23|Sandstrom Katherine M",
+      "market": "US",
+      "ticker": "JAN",
+      "yf_symbol": "JAN",
+      "company": "Janus Living, Inc.",
+      "insider_name": "Sandstrom Katherine M",
+      "title": "Dir",
+      "trade_date": "2026-03-23",
+      "trade_price": 20.0,
+      "value": 270000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-24": 23.75
+      },
+      "latest_price": 23.75,
+      "return_pct": 18.75,
+      "last_snapshot": "2026-03-24"
+    },
+    {
+      "id": "US|JAN|2026-03-23|Herman Charles J Jr",
+      "market": "US",
+      "ticker": "JAN",
+      "yf_symbol": "JAN",
+      "company": "Janus Living, Inc.",
+      "insider_name": "Herman Charles J Jr",
+      "title": "Dir",
+      "trade_date": "2026-03-23",
+      "trade_price": 20.0,
+      "value": 110000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-24": 23.75
+      },
+      "latest_price": 23.75,
+      "return_pct": 18.75,
+      "last_snapshot": "2026-03-24"
+    },
+    {
+      "id": "US|JAN|2026-03-23|Arabia John V",
+      "market": "US",
+      "ticker": "JAN",
+      "yf_symbol": "JAN",
+      "company": "Janus Living, Inc.",
+      "insider_name": "Arabia John V",
+      "title": "Dir",
+      "trade_date": "2026-03-23",
+      "trade_price": 20.0,
+      "value": 1200000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-24": 23.75
+      },
+      "latest_price": 23.75,
+      "return_pct": 18.75,
+      "last_snapshot": "2026-03-24"
+    },
+    {
+      "id": "US|JAN|2026-03-23|Brinker Scott M",
+      "market": "US",
+      "ticker": "JAN",
+      "yf_symbol": "JAN",
+      "company": "Janus Living, Inc.",
+      "insider_name": "Brinker Scott M",
+      "title": "Pres, CEO",
+      "trade_date": "2026-03-23",
+      "trade_price": 20.0,
+      "value": 2000000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-24": 23.75
+      },
+      "latest_price": 23.75,
+      "return_pct": 18.75,
+      "last_snapshot": "2026-03-24"
+    },
+    {
+      "id": "US|NXRT|2026-03-20|McGraner Matt",
+      "market": "US",
+      "ticker": "NXRT",
+      "yf_symbol": "NXRT",
+      "company": "Nexpoint Residential Trust, Inc.",
+      "insider_name": "McGraner Matt",
+      "title": "See Remarks",
+      "trade_date": "2026-03-20",
+      "trade_price": 24.37,
+      "value": 48740.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-24": 25.15
+      },
+      "latest_price": 25.15,
+      "return_pct": 3.2,
+      "last_snapshot": "2026-03-24"
+    },
+    {
+      "id": "US|JAN|2026-03-23|Miller Jeffrey H",
+      "market": "US",
+      "ticker": "JAN",
+      "yf_symbol": "JAN",
+      "company": "Janus Living, Inc.",
+      "insider_name": "Miller Jeffrey H",
+      "title": "COO",
+      "trade_date": "2026-03-23",
+      "trade_price": 20.0,
+      "value": 150000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-24": 23.75
+      },
+      "latest_price": 23.75,
+      "return_pct": 18.75,
+      "last_snapshot": "2026-03-24"
+    },
+    {
+      "id": "US|NXRT|2026-03-19|Richards Paul",
+      "market": "US",
+      "ticker": "NXRT",
+      "yf_symbol": "NXRT",
+      "company": "Nexpoint Residential Trust, Inc.",
+      "insider_name": "Richards Paul",
+      "title": "See Remarks",
+      "trade_date": "2026-03-19",
+      "trade_price": 24.73,
+      "value": 42037.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-24": 25.15
+      },
+      "latest_price": 25.15,
+      "return_pct": 1.7,
+      "last_snapshot": "2026-03-24"
+    },
+    {
+      "id": "US|KELYA|2026-03-24|Layden Christopher D.",
+      "market": "US",
+      "ticker": "KELYA",
+      "yf_symbol": "KELYA",
+      "company": "Kelly Services Inc",
+      "insider_name": "Layden Christopher D.",
+      "title": "Pres,, CEO",
+      "trade_date": "2026-03-24",
+      "trade_price": 8.8,
+      "value": 88913.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-24": 8.73
+      },
+      "latest_price": 8.73,
+      "return_pct": -0.8,
       "last_snapshot": "2026-03-24"
     }
   ]
