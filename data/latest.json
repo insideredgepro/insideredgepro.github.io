@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-23T23:24:25Z",
-  "trade_count": 5623,
+  "last_updated": "2026-03-24T01:15:29Z",
+  "trade_count": 5625,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -89969,6 +89969,38 @@
       "delta_own": "+3%",
       "value": "4438928",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-23",
+      "filing_time": "19:51",
+      "trade_date": "2026-03-23",
+      "ticker": "BETR",
+      "company": "Better Home & Finance Holding Co",
+      "insider_name": "Framework Ventures IV L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "29.60",
+      "qty": "40000",
+      "owned": "1320912",
+      "delta_own": "+3%",
+      "value": "1184000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-23",
+      "filing_time": "19:23",
+      "trade_date": "2026-03-20",
+      "ticker": "OSUR",
+      "company": "Orasure Technologies Inc",
+      "insider_name": "McGrath Kenneth J",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "2.93",
+      "qty": "32300",
+      "owned": "589562",
+      "delta_own": "+6%",
+      "value": "94600",
+      "cluster_buy": true
     }
   ]
 }
