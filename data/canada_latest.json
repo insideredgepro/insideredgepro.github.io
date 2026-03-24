@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-24T19:00:23Z",
-  "trade_count": 2700,
+  "last_updated": "2026-03-24T23:38:27Z",
+  "trade_count": 2704,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -39727,7 +39727,7 @@
       "value": "347500",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4683480",
@@ -40749,6 +40749,70 @@
       "qty": "50100",
       "price": "2.0000",
       "value": "100200",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4687852",
+      "trade_date": "2026-03-24",
+      "filing_date": "2026-03-24",
+      "company": "Avante Corp.",
+      "ticker": "XX",
+      "insider_name": "Pollack, Jonathan",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "44900",
+      "price": "1.4182",
+      "value": "63677",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4687647",
+      "trade_date": "2026-03-24",
+      "filing_date": "2026-03-24",
+      "company": "Clinch Resources Ltd.",
+      "ticker": "CLCH",
+      "insider_name": "Nix, Jon Eric",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "2.3000",
+      "value": "46000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4687635",
+      "trade_date": "2026-03-24",
+      "filing_date": "2026-03-24",
+      "company": "Dorel Industries Inc.",
+      "ticker": "DII-B",
+      "insider_name": "Segel, Jeffrey",
+      "title": "Director & Senior Officer",
+      "security": "Subordinate Voting Shares Class B",
+      "qty": "9600",
+      "price": "1.7000",
+      "value": "16320",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4687638",
+      "trade_date": "2026-03-24",
+      "filing_date": "2026-03-24",
+      "company": "Dorel Industries Inc.",
+      "ticker": "DII-B",
+      "insider_name": "Segel, Jeffrey",
+      "title": "Director & Senior Officer",
+      "security": "Subordinate Voting Shares Class B",
+      "qty": "8700",
+      "price": "1.7300",
+      "value": "15051",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
