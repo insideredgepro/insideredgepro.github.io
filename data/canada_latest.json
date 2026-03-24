@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-23T19:00:25Z",
-  "trade_count": 2697,
+  "last_updated": "2026-03-24T01:00:29Z",
+  "trade_count": 2698,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -40701,6 +40701,22 @@
       "qty": "3700",
       "price": "18.3900",
       "value": "68043",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4686990",
+      "trade_date": "2026-03-23",
+      "filing_date": "2026-03-23",
+      "company": "Neo Performance Materials Inc.",
+      "ticker": "NEO",
+      "insider_name": "Suleman, Rahim",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "4866",
+      "price": "20.5500",
+      "value": "99996",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
