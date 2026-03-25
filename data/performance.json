@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-25",
-  "entry_count": 643,
+  "entry_count": 645,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -700,10 +700,10 @@
         "2026-03-20": 0.443,
         "2026-03-23": 0.4499,
         "2026-03-24": 0.445,
-        "2026-03-25": 0.445
+        "2026-03-25": 0.4495
       },
-      "latest_price": 0.445,
-      "return_pct": 30.88,
+      "latest_price": 0.4495,
+      "return_pct": 32.21,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -12566,10 +12566,10 @@
         "2026-03-20": 0.71,
         "2026-03-23": 0.8301,
         "2026-03-24": 0.87,
-        "2026-03-25": 0.88
+        "2026-03-25": 0.91
       },
-      "latest_price": 0.88,
-      "return_pct": 266.67,
+      "latest_price": 0.91,
+      "return_pct": 279.17,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -17618,10 +17618,10 @@
       "snapshots": {
         "2026-03-23": 0.8301,
         "2026-03-24": 0.87,
-        "2026-03-25": 0.88
+        "2026-03-25": 0.91
       },
-      "latest_price": 0.88,
-      "return_pct": 266.67,
+      "latest_price": 0.91,
+      "return_pct": 279.17,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -18391,6 +18391,46 @@
       },
       "latest_price": 1.17,
       "return_pct": -5.65,
+      "last_snapshot": "2026-03-25"
+    },
+    {
+      "id": "US|SBSW|2026-03-24|Menell Richard Peter",
+      "market": "US",
+      "ticker": "SBSW",
+      "yf_symbol": "SBSW",
+      "company": "Sibanye Stillwater Ltd",
+      "insider_name": "Menell Richard Peter",
+      "title": "Dir",
+      "trade_date": "2026-03-24",
+      "trade_price": 11.43,
+      "value": 28575.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-25": 11.47
+      },
+      "latest_price": 11.47,
+      "return_pct": 0.35,
+      "last_snapshot": "2026-03-25"
+    },
+    {
+      "id": "US|TOI|2026-03-24|Chernett Jorey",
+      "market": "US",
+      "ticker": "TOI",
+      "yf_symbol": "TOI",
+      "company": "Oncology Institute, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_date": "2026-03-24",
+      "trade_price": 3.11,
+      "value": 388750.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-25": 3.13
+      },
+      "latest_price": 3.13,
+      "return_pct": 0.64,
       "last_snapshot": "2026-03-25"
     }
   ]
