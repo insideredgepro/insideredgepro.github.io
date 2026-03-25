@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T14:14:18Z",
-  "trade_count": 5649,
+  "last_updated": "2026-03-25T16:01:20Z",
+  "trade_count": 5650,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -90384,6 +90384,22 @@
       "owned": "10401929",
       "delta_own": "+1%",
       "value": "388750",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-25",
+      "filing_time": "11:18",
+      "trade_date": "2026-03-03",
+      "ticker": "FATN",
+      "company": "Fatpipe Inc/Ut",
+      "insider_name": "Bhaskar Ragula",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.45",
+      "qty": "20000",
+      "owned": "2305766",
+      "delta_own": "+1%",
+      "value": "29000",
       "cluster_buy": false
     }
   ]

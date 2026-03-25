@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-25",
-  "entry_count": 645,
+  "entry_count": 646,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -700,10 +700,10 @@
         "2026-03-20": 0.443,
         "2026-03-23": 0.4499,
         "2026-03-24": 0.445,
-        "2026-03-25": 0.4495
+        "2026-03-25": 0.41
       },
-      "latest_price": 0.4495,
-      "return_pct": 32.21,
+      "latest_price": 0.41,
+      "return_pct": 20.59,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -6340,10 +6340,10 @@
         "2026-03-20": 21.01,
         "2026-03-23": 21.01,
         "2026-03-24": 21.5,
-        "2026-03-25": 21.01
+        "2026-03-25": 21.49
       },
-      "latest_price": 21.01,
-      "return_pct": 0.05,
+      "latest_price": 21.49,
+      "return_pct": 2.33,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -12566,10 +12566,10 @@
         "2026-03-20": 0.71,
         "2026-03-23": 0.8301,
         "2026-03-24": 0.87,
-        "2026-03-25": 0.91
+        "2026-03-25": 0.9
       },
-      "latest_price": 0.91,
-      "return_pct": 279.17,
+      "latest_price": 0.9,
+      "return_pct": 275.0,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -17530,10 +17530,10 @@
       "snapshots": {
         "2026-03-23": 30.59,
         "2026-03-24": 30.6,
-        "2026-03-25": 30.6
+        "2026-03-25": 30.3
       },
-      "latest_price": 30.6,
-      "return_pct": 0.03,
+      "latest_price": 30.3,
+      "return_pct": -0.95,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -17552,10 +17552,10 @@
       "snapshots": {
         "2026-03-23": 30.59,
         "2026-03-24": 30.6,
-        "2026-03-25": 30.6
+        "2026-03-25": 30.3
       },
-      "latest_price": 30.6,
-      "return_pct": 0.03,
+      "latest_price": 30.3,
+      "return_pct": -0.95,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -17596,10 +17596,10 @@
       "snapshots": {
         "2026-03-23": 30.59,
         "2026-03-24": 30.6,
-        "2026-03-25": 30.6
+        "2026-03-25": 30.3
       },
-      "latest_price": 30.6,
-      "return_pct": 0.03,
+      "latest_price": 30.3,
+      "return_pct": -0.95,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -17618,10 +17618,10 @@
       "snapshots": {
         "2026-03-23": 0.8301,
         "2026-03-24": 0.87,
-        "2026-03-25": 0.91
+        "2026-03-25": 0.9
       },
-      "latest_price": 0.91,
-      "return_pct": 279.17,
+      "latest_price": 0.9,
+      "return_pct": 275.0,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -17750,10 +17750,10 @@
       "snapshots": {
         "2026-03-23": 30.59,
         "2026-03-24": 30.6,
-        "2026-03-25": 30.6
+        "2026-03-25": 30.3
       },
-      "latest_price": 30.6,
-      "return_pct": 0.03,
+      "latest_price": 30.3,
+      "return_pct": -0.95,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -17772,10 +17772,10 @@
       "snapshots": {
         "2026-03-23": 30.59,
         "2026-03-24": 30.6,
-        "2026-03-25": 30.6
+        "2026-03-25": 30.3
       },
-      "latest_price": 30.6,
-      "return_pct": 0.03,
+      "latest_price": 30.3,
+      "return_pct": -0.95,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -17816,10 +17816,10 @@
       "snapshots": {
         "2026-03-23": 30.59,
         "2026-03-24": 30.6,
-        "2026-03-25": 30.6
+        "2026-03-25": 30.3
       },
-      "latest_price": 30.6,
-      "return_pct": 0.03,
+      "latest_price": 30.3,
+      "return_pct": -0.95,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -18431,6 +18431,26 @@
       },
       "latest_price": 3.13,
       "return_pct": 0.64,
+      "last_snapshot": "2026-03-25"
+    },
+    {
+      "id": "US|FATN|2026-03-03|Bhaskar Ragula",
+      "market": "US",
+      "ticker": "FATN",
+      "yf_symbol": "FATN",
+      "company": "Fatpipe Inc/Ut",
+      "insider_name": "Bhaskar Ragula",
+      "title": "Dir, 10%",
+      "trade_date": "2026-03-03",
+      "trade_price": 1.45,
+      "value": 29000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-25": 1.88
+      },
+      "latest_price": 1.88,
+      "return_pct": 29.66,
       "last_snapshot": "2026-03-25"
     }
   ]
