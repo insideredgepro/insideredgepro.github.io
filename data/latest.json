@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T16:01:20Z",
-  "trade_count": 5650,
+  "last_updated": "2026-03-25T17:51:20Z",
+  "trade_count": 5653,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -90400,6 +90400,54 @@
       "owned": "2305766",
       "delta_own": "+1%",
       "value": "29000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-25",
+      "filing_time": "13:43",
+      "trade_date": "2026-03-23",
+      "ticker": "AIRS",
+      "company": "Airsculpt Technologies, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.91",
+      "qty": "50000",
+      "owned": "6843761",
+      "delta_own": "+1%",
+      "value": "145500",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-25",
+      "filing_time": "12:40",
+      "trade_date": "2026-03-23",
+      "ticker": "SBSW",
+      "company": "Sibanye Stillwater Ltd",
+      "insider_name": "Keyter Charl",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "2.70",
+      "qty": "35000",
+      "owned": "2010300",
+      "delta_own": "+2%",
+      "value": "94500",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-25",
+      "filing_time": "12:01",
+      "trade_date": "2026-03-19",
+      "ticker": "AERO",
+      "company": "Grupo Aeromexico, S.A.B. De C.V.",
+      "insider_name": "Tricio Haro Eduardo",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.32",
+      "qty": "1000000",
+      "owned": "15666980",
+      "delta_own": "+7%",
+      "value": "1320000",
       "cluster_buy": false
     }
   ]
