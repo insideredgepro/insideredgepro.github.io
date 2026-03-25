@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T17:00:22Z",
-  "trade_count": 2717,
+  "last_updated": "2026-03-25T19:00:23Z",
+  "trade_count": 2720,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -41023,7 +41023,55 @@
       "value": "110965",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4688119",
+      "trade_date": "2026-03-25",
+      "filing_date": "2026-03-25",
+      "company": "NanoXplore Inc.",
+      "ticker": "GRA",
+      "insider_name": "Marinaccio, Rocco",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "53000",
+      "price": "1.9100",
+      "value": "101230",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4688207",
+      "trade_date": "2026-03-25",
+      "filing_date": "2026-03-25",
+      "company": "Transcontinental Inc",
+      "ticker": "TCL-A",
+      "insider_name": "Boulanger, Serge",
+      "title": "Director",
+      "security": "Subordinate Voting Shares Cat\u00e9gorie A",
+      "qty": "15000",
+      "price": "5.0700",
+      "value": "76050",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4688210",
+      "trade_date": "2026-03-25",
+      "filing_date": "2026-03-25",
+      "company": "Transcontinental Inc",
+      "ticker": "TCL-A",
+      "insider_name": "Boulanger, Serge",
+      "title": "Director",
+      "security": "Subordinate Voting Shares Cat\u00e9gorie A",
+      "qty": "12000",
+      "price": "5.0700",
+      "value": "60840",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
