@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T21:00:24Z",
-  "trade_count": 2723,
+  "last_updated": "2026-03-25T23:00:23Z",
+  "trade_count": 2726,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -41120,6 +41120,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4688473",
+      "trade_date": "2026-03-25",
+      "filing_date": "2026-03-25",
+      "company": "Avante Corp.",
+      "ticker": "XX",
+      "insider_name": "Klopot, Robert",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "40000",
+      "price": "1.5000",
+      "value": "60000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4688478",
+      "trade_date": "2026-03-25",
+      "filing_date": "2026-03-25",
+      "company": "Avante Corp.",
+      "ticker": "XX",
+      "insider_name": "Pollack, Jonathan",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "1.5000",
+      "value": "75000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4688479",
+      "trade_date": "2026-03-25",
+      "filing_date": "2026-03-25",
+      "company": "Avante Corp.",
+      "ticker": "XX",
+      "insider_name": "Pollack, Jonathan",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "14400",
+      "price": "1.5347",
+      "value": "22099",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
