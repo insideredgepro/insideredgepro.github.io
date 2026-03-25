@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-25",
-  "entry_count": 649,
+  "entry_count": 654,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -12566,10 +12566,10 @@
         "2026-03-20": 0.71,
         "2026-03-23": 0.8301,
         "2026-03-24": 0.87,
-        "2026-03-25": 0.89
+        "2026-03-25": 0.885
       },
-      "latest_price": 0.89,
-      "return_pct": 270.83,
+      "latest_price": 0.885,
+      "return_pct": 268.75,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -17530,10 +17530,10 @@
       "snapshots": {
         "2026-03-23": 30.59,
         "2026-03-24": 30.6,
-        "2026-03-25": 30.3
+        "2026-03-25": 30.6
       },
-      "latest_price": 30.3,
-      "return_pct": -0.95,
+      "latest_price": 30.6,
+      "return_pct": 0.03,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -17552,10 +17552,10 @@
       "snapshots": {
         "2026-03-23": 30.59,
         "2026-03-24": 30.6,
-        "2026-03-25": 30.3
+        "2026-03-25": 30.6
       },
-      "latest_price": 30.3,
-      "return_pct": -0.95,
+      "latest_price": 30.6,
+      "return_pct": 0.03,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -17596,10 +17596,10 @@
       "snapshots": {
         "2026-03-23": 30.59,
         "2026-03-24": 30.6,
-        "2026-03-25": 30.3
+        "2026-03-25": 30.6
       },
-      "latest_price": 30.3,
-      "return_pct": -0.95,
+      "latest_price": 30.6,
+      "return_pct": 0.03,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -17618,10 +17618,10 @@
       "snapshots": {
         "2026-03-23": 0.8301,
         "2026-03-24": 0.87,
-        "2026-03-25": 0.89
+        "2026-03-25": 0.885
       },
-      "latest_price": 0.89,
-      "return_pct": 270.83,
+      "latest_price": 0.885,
+      "return_pct": 268.75,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -17750,10 +17750,10 @@
       "snapshots": {
         "2026-03-23": 30.59,
         "2026-03-24": 30.6,
-        "2026-03-25": 30.3
+        "2026-03-25": 30.6
       },
-      "latest_price": 30.3,
-      "return_pct": -0.95,
+      "latest_price": 30.6,
+      "return_pct": 0.03,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -17772,10 +17772,10 @@
       "snapshots": {
         "2026-03-23": 30.59,
         "2026-03-24": 30.6,
-        "2026-03-25": 30.3
+        "2026-03-25": 30.6
       },
-      "latest_price": 30.3,
-      "return_pct": -0.95,
+      "latest_price": 30.6,
+      "return_pct": 0.03,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -17816,10 +17816,10 @@
       "snapshots": {
         "2026-03-23": 30.59,
         "2026-03-24": 30.6,
-        "2026-03-25": 30.3
+        "2026-03-25": 30.6
       },
-      "latest_price": 30.3,
-      "return_pct": -0.95,
+      "latest_price": 30.6,
+      "return_pct": 0.03,
       "last_snapshot": "2026-03-25"
     },
     {
@@ -18511,6 +18511,106 @@
       },
       "latest_price": 13.14,
       "return_pct": 895.45,
+      "last_snapshot": "2026-03-25"
+    },
+    {
+      "id": "US|NEXT|2026-03-23|Beall Pamela K.M.",
+      "market": "US",
+      "ticker": "NEXT",
+      "yf_symbol": "NEXT",
+      "company": "Nextdecade Corp",
+      "insider_name": "Beall Pamela K.M.",
+      "title": "Dir",
+      "trade_date": "2026-03-23",
+      "trade_price": 7.07,
+      "value": 505505.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-25": 7.23
+      },
+      "latest_price": 7.23,
+      "return_pct": 2.26,
+      "last_snapshot": "2026-03-25"
+    },
+    {
+      "id": "US|GO|2026-03-23|Potter Jason J. N.",
+      "market": "US",
+      "ticker": "GO",
+      "yf_symbol": "GO",
+      "company": "Grocery Outlet Holding Corp.",
+      "insider_name": "Potter Jason J. N.",
+      "title": "Pres, CEO",
+      "trade_date": "2026-03-23",
+      "trade_price": 6.36,
+      "value": 717174.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-25": 6.53
+      },
+      "latest_price": 6.53,
+      "return_pct": 2.67,
+      "last_snapshot": "2026-03-25"
+    },
+    {
+      "id": "US|TISI|2026-03-23|Stenger Edward J.",
+      "market": "US",
+      "ticker": "TISI",
+      "yf_symbol": "TISI",
+      "company": "Team Inc",
+      "insider_name": "Stenger Edward J.",
+      "title": "Dir",
+      "trade_date": "2026-03-23",
+      "trade_price": 16.0,
+      "value": 79991.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-25": 15.52
+      },
+      "latest_price": 15.52,
+      "return_pct": -3.0,
+      "last_snapshot": "2026-03-25"
+    },
+    {
+      "id": "US|GSM|2026-03-23|Villar-Mir De Fuentes Silvia",
+      "market": "US",
+      "ticker": "GSM",
+      "yf_symbol": "GSM",
+      "company": "Ferroglobe Plc",
+      "insider_name": "Villar-Mir De Fuentes Silvia",
+      "title": "Dir",
+      "trade_date": "2026-03-23",
+      "trade_price": 3.86,
+      "value": 100324.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-25": 4.1
+      },
+      "latest_price": 4.1,
+      "return_pct": 6.22,
+      "last_snapshot": "2026-03-25"
+    },
+    {
+      "id": "US|GSM|2026-03-23|Lopez Madrid Javier",
+      "market": "US",
+      "ticker": "GSM",
+      "yf_symbol": "GSM",
+      "company": "Ferroglobe Plc",
+      "insider_name": "Lopez Madrid Javier",
+      "title": "Exec COB",
+      "trade_date": "2026-03-23",
+      "trade_price": 3.86,
+      "value": 100324.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-25": 4.1
+      },
+      "latest_price": 4.1,
+      "return_pct": 6.22,
       "last_snapshot": "2026-03-25"
     }
   ]

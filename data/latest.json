@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T19:40:51Z",
-  "trade_count": 5653,
+  "last_updated": "2026-03-25T20:30:48Z",
+  "trade_count": 5658,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -90449,6 +90449,86 @@
       "delta_own": "+7%",
       "value": "1320000",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-25",
+      "filing_time": "16:24",
+      "trade_date": "2026-03-23",
+      "ticker": "NEXT",
+      "company": "Nextdecade Corp",
+      "insider_name": "Beall Pamela K.M.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "7.07",
+      "qty": "71500",
+      "owned": "108507",
+      "delta_own": "+193%",
+      "value": "505505",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-25",
+      "filing_time": "16:15",
+      "trade_date": "2026-03-23",
+      "ticker": "GO",
+      "company": "Grocery Outlet Holding Corp.",
+      "insider_name": "Potter Jason J. N.",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "6.36",
+      "qty": "112808",
+      "owned": "687174",
+      "delta_own": "+20%",
+      "value": "717174",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-25",
+      "filing_time": "16:02",
+      "trade_date": "2026-03-23",
+      "ticker": "TISI",
+      "company": "Team Inc",
+      "insider_name": "Stenger Edward J.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "16.00",
+      "qty": "5000",
+      "owned": "14890",
+      "delta_own": "+51%",
+      "value": "79991",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-25",
+      "filing_time": "16:01",
+      "trade_date": "2026-03-23",
+      "ticker": "GSM",
+      "company": "Ferroglobe Plc",
+      "insider_name": "Villar-Mir De Fuentes Silvia",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.86",
+      "qty": "26000",
+      "owned": "273716",
+      "delta_own": "+10%",
+      "value": "100324",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-25",
+      "filing_time": "16:01",
+      "trade_date": "2026-03-23",
+      "ticker": "GSM",
+      "company": "Ferroglobe Plc",
+      "insider_name": "Lopez Madrid Javier",
+      "title": "Exec COB",
+      "trade_type": "P - Purchase",
+      "price": "3.86",
+      "qty": "26000",
+      "owned": "299690",
+      "delta_own": "+9%",
+      "value": "100324",
+      "cluster_buy": true
     }
   ]
 }
