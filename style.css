@@ -106,6 +106,7 @@ header {
 
 .header-center { display: flex; align-items: center; gap: 20px; flex: 1; justify-content: center; }
 .header-right  { display: flex; align-items: center; gap: 12px; flex-shrink: 0; }
+.mobile-bar    { display: none; }
 
 .live-pill {
   display: flex; align-items: center; gap: 6px;
@@ -413,6 +414,22 @@ footer {
   /* Hide Discord text label, keep icon */
   .btn-discord span { display: none; }
   .btn-discord { padding: 7px 10px; }
+
+  /* Hide header-right, show mobile action bar instead */
+  .header-right { display: none; }
+  .mobile-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 14px;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border2);
+  }
+  .mobile-bar .btn-discord span { display: inline; }
+  .mobile-bar .btn-discord { padding: 7px 16px; }
+
+  /* Hide data-note caption on mobile */
+  .data-note { display: none; }
 
   /* ---- Card layout for table ---- */
   .table-scroll { overflow-x: hidden; }
