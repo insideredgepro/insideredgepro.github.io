@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-26",
-  "entry_count": 658,
+  "entry_count": 659,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -19144,6 +19144,26 @@
       },
       "latest_price": 5.92,
       "return_pct": -2.15,
+      "last_snapshot": "2026-03-26"
+    },
+    {
+      "id": "US|CTRN|2026-03-25|Heath David A",
+      "market": "US",
+      "ticker": "CTRN",
+      "yf_symbol": "CTRN",
+      "company": "Citi Trends Inc",
+      "insider_name": "Heath David A",
+      "title": "Dir",
+      "trade_date": "2026-03-25",
+      "trade_price": 44.5,
+      "value": 44500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-26": 43.53
+      },
+      "latest_price": 43.53,
+      "return_pct": -2.18,
       "last_snapshot": "2026-03-26"
     }
   ]

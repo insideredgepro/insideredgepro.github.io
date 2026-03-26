@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T21:23:52Z",
-  "trade_count": 5679,
+  "last_updated": "2026-03-26T22:19:44Z",
+  "trade_count": 5680,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -90864,6 +90864,22 @@
       "owned": "698439",
       "delta_own": "+2%",
       "value": "90800",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-26",
+      "filing_time": "18:02",
+      "trade_date": "2026-03-25",
+      "ticker": "CTRN",
+      "company": "Citi Trends Inc",
+      "insider_name": "Heath David A",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "44.50",
+      "qty": "1000",
+      "owned": "8788",
+      "delta_own": "+13%",
+      "value": "44500",
       "cluster_buy": false
     }
   ]
