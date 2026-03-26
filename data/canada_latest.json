@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T01:00:23Z",
-  "trade_count": 2726,
+  "last_updated": "2026-03-26T03:00:23Z",
+  "trade_count": 2728,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -41165,6 +41165,38 @@
       "qty": "14400",
       "price": "1.5347",
       "value": "22099",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4688577",
+      "trade_date": "2026-03-25",
+      "filing_date": "2026-03-25",
+      "company": "Lavras Gold Corp.",
+      "ticker": "LGC",
+      "insider_name": "Raykov, Rostislav Christov",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "1.8000",
+      "value": "18000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4688579",
+      "trade_date": "2026-03-25",
+      "filing_date": "2026-03-25",
+      "company": "Lavras Gold Corp.",
+      "ticker": "LGC",
+      "insider_name": "Raykov, Rostislav Christov",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "1.8500",
+      "value": "37000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
