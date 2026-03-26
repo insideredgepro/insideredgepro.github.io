@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-26",
-  "entry_count": 654,
+  "entry_count": 656,
   "entries": [
     {
       "id": "US|IPWR|2026-02-25|Somo David M",
@@ -194,10 +194,10 @@
         "2026-03-23": 8.26,
         "2026-03-24": 8.15,
         "2026-03-25": 8.2,
-        "2026-03-26": 8.07
+        "2026-03-26": 8.05
       },
-      "latest_price": 8.07,
-      "return_pct": 15.29,
+      "latest_price": 8.05,
+      "return_pct": 15.0,
       "last_snapshot": "2026-03-26"
     },
     {
@@ -227,10 +227,10 @@
         "2026-03-23": 8.26,
         "2026-03-24": 8.15,
         "2026-03-25": 8.2,
-        "2026-03-26": 8.07
+        "2026-03-26": 8.05
       },
-      "latest_price": 8.07,
-      "return_pct": 15.29,
+      "latest_price": 8.05,
+      "return_pct": 15.0,
       "last_snapshot": "2026-03-26"
     },
     {
@@ -260,10 +260,10 @@
         "2026-03-23": 8.26,
         "2026-03-24": 8.15,
         "2026-03-25": 8.2,
-        "2026-03-26": 8.07
+        "2026-03-26": 8.05
       },
-      "latest_price": 8.07,
-      "return_pct": 15.29,
+      "latest_price": 8.05,
+      "return_pct": 15.0,
       "last_snapshot": "2026-03-26"
     },
     {
@@ -9674,10 +9674,10 @@
         "2026-03-23": 8.26,
         "2026-03-24": 8.15,
         "2026-03-25": 8.2,
-        "2026-03-26": 8.07
+        "2026-03-26": 8.05
       },
-      "latest_price": 8.07,
-      "return_pct": 2.02,
+      "latest_price": 8.05,
+      "return_pct": 1.77,
       "last_snapshot": "2026-03-26"
     },
     {
@@ -14765,10 +14765,10 @@
         "2026-03-23": 8.26,
         "2026-03-24": 8.15,
         "2026-03-25": 8.2,
-        "2026-03-26": 8.07
+        "2026-03-26": 8.05
       },
-      "latest_price": 8.07,
-      "return_pct": -2.06,
+      "latest_price": 8.05,
+      "return_pct": -2.31,
       "last_snapshot": "2026-03-26"
     },
     {
@@ -16701,10 +16701,10 @@
         "2026-03-23": 8.26,
         "2026-03-24": 8.15,
         "2026-03-25": 8.2,
-        "2026-03-26": 8.07
+        "2026-03-26": 8.05
       },
-      "latest_price": 8.07,
-      "return_pct": -6.16,
+      "latest_price": 8.05,
+      "return_pct": -6.4,
       "last_snapshot": "2026-03-26"
     },
     {
@@ -19064,6 +19064,46 @@
       },
       "latest_price": 12.74,
       "return_pct": 1.19,
+      "last_snapshot": "2026-03-26"
+    },
+    {
+      "id": "US|XZO|2026-03-25|Patel Paresh",
+      "market": "US",
+      "ticker": "XZO",
+      "yf_symbol": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Patel Paresh",
+      "title": "CEO",
+      "trade_date": "2026-03-25",
+      "trade_price": 14.81,
+      "value": 29620.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-26": 14.54
+      },
+      "latest_price": 14.54,
+      "return_pct": -1.82,
+      "last_snapshot": "2026-03-26"
+    },
+    {
+      "id": "US|ACCS|2026-03-25|Balbirnie Brian R",
+      "market": "US",
+      "ticker": "ACCS",
+      "yf_symbol": "ACCS",
+      "company": "Access Newswire Inc.",
+      "insider_name": "Balbirnie Brian R",
+      "title": "Dir, CEO, 10%",
+      "trade_date": "2026-03-25",
+      "trade_price": 7.54,
+      "value": 25606.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-26": 7.96
+      },
+      "latest_price": 7.96,
+      "return_pct": 5.57,
       "last_snapshot": "2026-03-26"
     }
   ]
