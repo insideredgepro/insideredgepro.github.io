@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T17:43:08Z",
-  "trade_count": 5685,
+  "last_updated": "2026-03-27T18:44:44Z",
+  "trade_count": 5687,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -90961,6 +90961,38 @@
       "delta_own": "New",
       "value": "1008058",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-27",
+      "filing_time": "14:34",
+      "trade_date": "2026-03-25",
+      "ticker": "IAUX",
+      "company": "I-80 Gold Corp.",
+      "insider_name": "Young Richard Scott",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.40",
+      "qty": "1000000",
+      "owned": "5337000",
+      "delta_own": "+23%",
+      "value": "1400000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-27",
+      "filing_time": "14:25",
+      "trade_date": "2026-03-26",
+      "ticker": "FMNB",
+      "company": "Farmers National Banc Corp /Oh/",
+      "insider_name": "Varischetti Nicholas D",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "12.97",
+      "qty": "73000",
+      "owned": "228529",
+      "delta_own": "+47%",
+      "value": "946810",
+      "cluster_buy": false
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-27",
-  "entry_count": 651,
+  "entry_count": 653,
   "entries": [
     {
       "id": "US|LOGC|2026-02-26|Bobbili Raja",
@@ -12395,10 +12395,10 @@
         "2026-03-24": 0.87,
         "2026-03-25": 0.885,
         "2026-03-26": 0.85,
-        "2026-03-27": 0.851
+        "2026-03-27": 0.87
       },
-      "latest_price": 0.851,
-      "return_pct": 254.58,
+      "latest_price": 0.87,
+      "return_pct": 262.5,
       "last_snapshot": "2026-03-27"
     },
     {
@@ -17841,10 +17841,10 @@
         "2026-03-24": 0.87,
         "2026-03-25": 0.885,
         "2026-03-26": 0.85,
-        "2026-03-27": 0.851
+        "2026-03-27": 0.87
       },
-      "latest_price": 0.851,
-      "return_pct": 254.58,
+      "latest_price": 0.87,
+      "return_pct": 262.5,
       "last_snapshot": "2026-03-27"
     },
     {
@@ -19480,6 +19480,46 @@
       },
       "latest_price": 11.31,
       "return_pct": -1.82,
+      "last_snapshot": "2026-03-27"
+    },
+    {
+      "id": "US|IAUX|2026-03-25|Young Richard Scott",
+      "market": "US",
+      "ticker": "IAUX",
+      "yf_symbol": "IAUX",
+      "company": "I-80 Gold Corp.",
+      "insider_name": "Young Richard Scott",
+      "title": "Pres, CEO",
+      "trade_date": "2026-03-25",
+      "trade_price": 1.4,
+      "value": 1400000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-27": 1.33
+      },
+      "latest_price": 1.33,
+      "return_pct": -5.0,
+      "last_snapshot": "2026-03-27"
+    },
+    {
+      "id": "US|FMNB|2026-03-26|Varischetti Nicholas D",
+      "market": "US",
+      "ticker": "FMNB",
+      "yf_symbol": "FMNB",
+      "company": "Farmers National Banc Corp /Oh/",
+      "insider_name": "Varischetti Nicholas D",
+      "title": "Dir",
+      "trade_date": "2026-03-26",
+      "trade_price": 12.97,
+      "value": 946810.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-27": 13.01
+      },
+      "latest_price": 13.01,
+      "return_pct": 0.31,
       "last_snapshot": "2026-03-27"
     }
   ]
