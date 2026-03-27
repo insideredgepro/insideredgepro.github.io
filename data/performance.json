@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-27",
-  "entry_count": 657,
+  "entry_count": 658,
   "entries": [
     {
       "id": "US|LOGC|2026-02-26|Bobbili Raja",
@@ -19600,6 +19600,26 @@
       },
       "latest_price": 1.26,
       "return_pct": -93.58,
+      "last_snapshot": "2026-03-27"
+    },
+    {
+      "id": "US|CDNL|2026-03-26|Zelman Ivy",
+      "market": "US",
+      "ticker": "CDNL",
+      "yf_symbol": "CDNL",
+      "company": "Cardinal Infrastructure Group Inc.",
+      "insider_name": "Zelman Ivy",
+      "title": "Dir",
+      "trade_date": "2026-03-26",
+      "trade_price": 36.33,
+      "value": 251440.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-27": 36.1
+      },
+      "latest_price": 36.1,
+      "return_pct": -0.63,
       "last_snapshot": "2026-03-27"
     }
   ]

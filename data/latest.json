@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T20:29:09Z",
-  "trade_count": 5692,
+  "last_updated": "2026-03-27T21:27:28Z",
+  "trade_count": 5693,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -91072,6 +91072,22 @@
       "owned": "5400",
       "delta_own": "+38%",
       "value": "29250",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-27",
+      "filing_time": "17:00",
+      "trade_date": "2026-03-26",
+      "ticker": "CDNL",
+      "company": "Cardinal Infrastructure Group Inc.",
+      "insider_name": "Zelman Ivy",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "36.33",
+      "qty": "6921",
+      "owned": "15326",
+      "delta_own": "+82%",
+      "value": "251440",
       "cluster_buy": false
     }
   ]
