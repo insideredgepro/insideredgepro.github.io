@@ -122,16 +122,67 @@
     tr:has(.td-return.positive):hover { background: rgba(16,217,138,.14) !important; }
     tr:has(.td-return.negative):hover { background: rgba(239,68,68,.14) !important; }
 
+    /* Mobile price display — hidden on desktop, shown inside insider cell on mobile */
+    .mobile-prices { display: none; }
+
     @media (max-width: 600px) {
-      /* Show return % pinned top-right, hide value (less useful on mobile) */
+      /* Two-column grid card: left = info stack, right = return % */
+      tbody tr:not(.skeleton-row) {
+        display: grid !important;
+        position: relative;
+        grid-template-columns: 1fr auto;
+        grid-template-areas:
+          "ticker   return"
+          "company  return"
+          "insider  ."
+          "date     .";
+        column-gap: 12px;
+        row-gap: 2px;
+        align-items: center;
+        min-height: unset;
+      }
+
+      td.td-ticker  { grid-area: ticker;  padding-right: 0; align-self: end; }
+      td.td-company { grid-area: company; max-width: 100%; margin-bottom: 0; align-self: start; }
+      td.td-insider { grid-area: insider; max-width: 100%; }
+      td:has(.group-insiders) { display: block; grid-area: insider; padding: 0; margin-top: 0; }
+      td.td-date    { grid-area: date; }
+
       td:has(.td-return), td:has(.badge-pending) {
         display: block;
-        position: absolute;
-        top: 10px;
-        right: 12px;
+        grid-area: return;
+        position: static;
+        text-align: right;
+        align-self: center;
         padding: 0;
       }
+
+      /* Hide desktop-only cells */
+      td.td-rank  { display: none; }
+      td.td-price { display: none; }
       td.td-value { display: none; }
+
+      /* Child rows: ticker & company already shown in parent — override grid */
+      tbody tr.child-row {
+        grid-template-areas:
+          "insider  return"
+          "date     .";
+        margin-top: 2px !important;
+        margin-bottom: 2px !important;
+        padding-top: 7px !important;
+        padding-bottom: 7px !important;
+      }
+      tbody tr.child-row td.td-ticker  { display: none; }
+      tbody tr.child-row td.td-company { display: none; }
+
+      /* Price display embedded in insider cell */
+      .mobile-prices {
+        display: block;
+        font-family: var(--font-mono);
+        font-size: 11px;
+        color: var(--muted2);
+        margin-top: 2px;
+      }
     }
   </style>
 </head>
@@ -215,6 +266,7 @@
 
 <!-- Mobile-only action bar -->
 <div class="mobile-bar">
+  <span id="trade-count-mobile" style="font-size:11px;font-weight:600;font-family:var(--font-mono);background:var(--gold-bg);border:1px solid rgba(240,168,0,.25);border-radius:20px;padding:4px 12px;color:var(--gold);letter-spacing:.04em">— trades</span>
   <a href="https://discord.gg/k6Q5rtEPe" target="_blank" rel="noopener noreferrer" class="btn-discord">
     <svg width="16" height="16" viewBox="0 0 127.14 96.36" fill="currentColor" aria-hidden="true">
       <path d="M107.7,8.07A105.15,105.15,0,0,0,81.47,0a72.06,72.06,0,0,0-3.36,6.83A97.68,97.68,0,0,0,49,6.83,72.37,72.37,0,0,0,45.64,0,105.89,105.89,0,0,0,19.39,8.09C2.79,32.65-1.71,56.6.54,80.21h0A105.73,105.73,0,0,0,32.71,96.36,77.7,77.7,0,0,0,39.6,85.25a68.42,68.42,0,0,1-10.85-5.18c.91-.66,1.8-1.34,2.66-2a75.57,75.57,0,0,0,64.32,0c.87.71,1.76,1.39,2.66,2a68.68,68.68,0,0,1-10.87,5.19,77,77,0,0,0,6.89,11.1A105.25,105.25,0,0,0,126.6,80.22h0C129.24,52.84,122.09,29.11,107.7,8.07ZM42.45,65.69C36.18,65.69,31,60,31,53s5-12.74,11.43-12.74S54,46,53.89,53,48.84,65.69,42.45,65.69Zm42.24,0C78.41,65.69,73.25,60,73.25,53s5-12.74,11.44-12.74S96.23,46,96.12,53,91.08,65.69,84.69,65.69Z"/>
@@ -509,7 +561,7 @@
 
     if (sorted.length === 0) {
       tableBodyEl.innerHTML = '';
-      noResultsEl.style.display = 'block';
+      noResultsEl.style.display = 'flex';
       return;
     }
     noResultsEl.style.display = 'none';
@@ -559,7 +611,7 @@
           <td class="td-rank">${i + 1}</td>
           <td class="td-ticker"><span class="expand-arrow">${arrow}</span>${escHtml(g.ticker)}</td>
           <td class="td-company" title="${escHtml(g.company)}">${escHtml(g.company)}</td>
-          <td><span class="group-insiders">${g.entries.length} insiders</span></td>
+          <td><span class="group-insiders">${g.entries.length} insiders</span>${g.latestPrice !== null ? `<span class="mobile-prices">Current: ${formatPrice(g.latestPrice, g.currency)}</span>` : ''}</td>
           <td class="td-date">—</td>
           <td class="td-price">—</td>
           <td class="td-price">${curHTML}</td>
@@ -574,9 +626,9 @@
                          : `<span class="td-return ${er > 0 ? 'positive' : 'negative'}">${er > 0 ? '▲' : '▼'} ${formatReturn(er)}</span>`;
             rows.push(`<tr class="child-row">
               <td class="td-rank"></td>
-              <td class="td-ticker">&nbsp;&nbsp;${escHtml(e.ticker)}</td>
+              <td class="td-ticker">${escHtml(e.ticker)}</td>
               <td class="td-company">${escHtml(e.company)}</td>
-              <td class="td-insider" title="${escHtml(e.insider_name)}">${escHtml(e.insider_name || '—')}</td>
+              <td class="td-insider" title="${escHtml(e.insider_name)}">${escHtml(e.insider_name || '—')}${e.trade_price !== null && e.latest_price !== null ? `<span class="mobile-prices">${formatPrice(e.trade_price, e.currency)} → ${formatPrice(e.latest_price, e.currency)}</span>` : ''}</td>
               <td class="td-date">${escHtml(e.trade_date || '—')}</td>
               <td class="td-price">${formatPrice(e.trade_price, e.currency)}</td>
               <td class="td-price">${e.latest_price !== null ? formatPrice(e.latest_price, e.currency) : '<span class="badge-pending">Pending</span>'}</td>
@@ -591,7 +643,7 @@
           <td class="td-rank">${i + 1}</td>
           <td class="td-ticker">${escHtml(e.ticker)}</td>
           <td class="td-company" title="${escHtml(e.company)}">${escHtml(e.company)}</td>
-          <td class="td-insider" title="${escHtml(e.insider_name)}">${escHtml(e.insider_name || '—')}</td>
+          <td class="td-insider" title="${escHtml(e.insider_name)}">${escHtml(e.insider_name || '—')}${e.trade_price !== null && e.latest_price !== null ? `<span class="mobile-prices">${formatPrice(e.trade_price, e.currency)} → ${formatPrice(e.latest_price, e.currency)}</span>` : ''}</td>
           <td class="td-date">${escHtml(e.trade_date || '—')}</td>
           <td class="td-price">${formatPrice(e.trade_price, e.currency)}</td>
           <td class="td-price">${e.latest_price !== null ? formatPrice(e.latest_price, e.currency) : '<span class="badge-pending">Pending</span>'}</td>
@@ -681,8 +733,8 @@
   /* ------------------------------------------------------------------ */
   /* Data fetch                                                            */
   /* ------------------------------------------------------------------ */
-  function showError(msg) { errorBannerEl.textContent = msg; errorBannerEl.style.display = 'block'; }
-  function hideError() { errorBannerEl.style.display = 'none'; }
+  function showError(msg) { errorBannerEl.innerHTML = `<div class="error-banner">${escHtml(msg)}</div>`; }
+  function hideError() { errorBannerEl.innerHTML = ''; }
 
   async function fetchData() {
     try {
@@ -691,6 +743,8 @@
       const json = await resp.json();
       allEntries = json.entries || [];
       lastUpdatedEl.textContent = formatTimestamp(json.last_updated);
+      const mobileCount = document.getElementById('trade-count-mobile');
+      if (mobileCount) mobileCount.textContent = allEntries.length + ' trades';
       hideError();
       renderTable();
     } catch (err) {
