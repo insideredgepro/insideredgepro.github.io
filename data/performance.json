@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-30",
-  "entry_count": 608,
+  "entry_count": 612,
   "entries": [
     {
       "id": "US|SOFI|2026-03-02|Noto Anthony",
@@ -19606,6 +19606,86 @@
       },
       "latest_price": 326.74,
       "return_pct": 487.34,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|LENZ|2026-03-27|George Jeffrey P.",
+      "market": "US",
+      "ticker": "LENZ",
+      "yf_symbol": "LENZ",
+      "company": "Lenz Therapeutics, Inc.",
+      "insider_name": "George Jeffrey P.",
+      "title": "Dir",
+      "trade_date": "2026-03-27",
+      "trade_price": 8.92,
+      "value": 49890.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 8.4
+      },
+      "latest_price": 8.4,
+      "return_pct": -5.83,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|LENZ|2026-03-27|Schimmelpennink Evert B.",
+      "market": "US",
+      "ticker": "LENZ",
+      "yf_symbol": "LENZ",
+      "company": "Lenz Therapeutics, Inc.",
+      "insider_name": "Schimmelpennink Evert B.",
+      "title": "Pres, CEO, Secretary",
+      "trade_date": "2026-03-27",
+      "trade_price": 8.95,
+      "value": 251411.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 8.4
+      },
+      "latest_price": 8.4,
+      "return_pct": -6.15,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|LENZ|2026-03-27|Chevallard Daniel R.",
+      "market": "US",
+      "ticker": "LENZ",
+      "yf_symbol": "LENZ",
+      "company": "Lenz Therapeutics, Inc.",
+      "insider_name": "Chevallard Daniel R.",
+      "title": "CFO",
+      "trade_date": "2026-03-27",
+      "trade_price": 8.57,
+      "value": 64275.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 8.4
+      },
+      "latest_price": 8.4,
+      "return_pct": -1.98,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|IPX|2026-03-27|Arima Anastasios",
+      "market": "US",
+      "ticker": "IPX",
+      "yf_symbol": "IPX",
+      "company": "Iperionx Ltd",
+      "insider_name": "Arima Anastasios",
+      "title": "CEO",
+      "trade_date": "2026-03-27",
+      "trade_price": 3.74,
+      "value": 1793110.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 23.15
+      },
+      "latest_price": 23.15,
+      "return_pct": 518.98,
       "last_snapshot": "2026-03-30"
     }
   ]

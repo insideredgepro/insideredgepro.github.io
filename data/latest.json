@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T11:50:08Z",
-  "trade_count": 5704,
+  "last_updated": "2026-03-30T12:57:30Z",
+  "trade_count": 5709,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -91265,6 +91265,86 @@
       "delta_own": "+8%",
       "value": "111260",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-30",
+      "filing_time": "08:47",
+      "trade_date": "2026-03-27",
+      "ticker": "LENZ",
+      "company": "Lenz Therapeutics, Inc.",
+      "insider_name": "George Jeffrey P.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "8.92",
+      "qty": "5592",
+      "owned": "5592",
+      "delta_own": "New",
+      "value": "49890",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-30",
+      "filing_time": "08:46",
+      "trade_date": "2026-03-27",
+      "ticker": "LENZ",
+      "company": "Lenz Therapeutics, Inc.",
+      "insider_name": "Schimmelpennink Evert B.",
+      "title": "Pres, CEO, Secretary",
+      "trade_type": "P - Purchase",
+      "price": "8.95",
+      "qty": "28089",
+      "owned": "77289",
+      "delta_own": "+57%",
+      "value": "251411",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-30",
+      "filing_time": "08:46",
+      "trade_date": "2026-03-27",
+      "ticker": "LENZ",
+      "company": "Lenz Therapeutics, Inc.",
+      "insider_name": "Chevallard Daniel R.",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "8.57",
+      "qty": "7500",
+      "owned": "12886",
+      "delta_own": "+139%",
+      "value": "64275",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-30",
+      "filing_time": "08:38",
+      "trade_date": "2026-03-27",
+      "ticker": "IPX",
+      "company": "Iperionx Ltd",
+      "insider_name": "Arima Anastasios",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.74",
+      "qty": "479800",
+      "owned": "12958158",
+      "delta_own": "+4%",
+      "value": "1793110",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-30",
+      "filing_time": "08:36",
+      "trade_date": "2026-03-26",
+      "ticker": "FMNB",
+      "company": "Farmers National Banc Corp /Oh/",
+      "insider_name": "Varischetti Nicholas D",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "12.90",
+      "qty": "2000",
+      "owned": "230529",
+      "delta_own": "+1%",
+      "value": "25800",
+      "cluster_buy": false
     }
   ]
 }
