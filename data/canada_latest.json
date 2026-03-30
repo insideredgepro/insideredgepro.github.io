@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T13:01:01Z",
-  "trade_count": 2752,
+  "last_updated": "2026-03-30T15:00:55Z",
+  "trade_count": 2753,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -41584,6 +41584,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4690922",
+      "trade_date": "2026-03-30",
+      "filing_date": "2026-03-30",
+      "company": "Metalla Royalty and Streaming Ltd.",
+      "ticker": "",
+      "insider_name": "Heath, Brett",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "6.1900",
+      "value": "61900",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
