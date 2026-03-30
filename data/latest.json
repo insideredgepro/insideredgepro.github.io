@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T10:08:17Z",
-  "trade_count": 5703,
+  "last_updated": "2026-03-30T11:50:08Z",
+  "trade_count": 5704,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -90016,7 +90016,7 @@
       "owned": "9213",
       "delta_own": "+12%",
       "value": "55930",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-24",
@@ -91248,6 +91248,22 @@
       "owned": "1471550",
       "delta_own": "+4%",
       "value": "339915",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-30",
+      "filing_time": "06:33",
+      "trade_date": "2026-03-29",
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider_name": "Lin Shyue-Shyh",
+      "title": "VP",
+      "trade_type": "P - Purchase",
+      "price": "55.63",
+      "qty": "2000",
+      "owned": "27322",
+      "delta_own": "+8%",
+      "value": "111260",
       "cluster_buy": true
     }
   ]

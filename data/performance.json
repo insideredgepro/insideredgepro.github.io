@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-30",
-  "entry_count": 607,
+  "entry_count": 608,
   "entries": [
     {
       "id": "US|SOFI|2026-03-02|Noto Anthony",
@@ -19586,6 +19586,26 @@
       },
       "latest_price": 6.68,
       "return_pct": -1.76,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|TSM|2026-03-29|Lin Shyue-Shyh",
+      "market": "US",
+      "ticker": "TSM",
+      "yf_symbol": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider_name": "Lin Shyue-Shyh",
+      "title": "VP",
+      "trade_date": "2026-03-29",
+      "trade_price": 55.63,
+      "value": 111260.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 326.74
+      },
+      "latest_price": 326.74,
+      "return_pct": 487.34,
       "last_snapshot": "2026-03-30"
     }
   ]
