@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T21:00:21Z",
-  "trade_count": 2762,
+  "last_updated": "2026-03-30T23:00:22Z",
+  "trade_count": 2764,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -41741,6 +41741,38 @@
       "qty": "4000",
       "price": "26.7100",
       "value": "106840",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4691605",
+      "trade_date": "2026-03-30",
+      "filing_date": "2026-03-30",
+      "company": "Everyday People Financial Corp. (formerly Justify Capital Corp.)",
+      "ticker": "",
+      "insider_name": "Guebert, David Dean",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "34500",
+      "price": "0.4650",
+      "value": "16042",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4691675",
+      "trade_date": "2026-03-30",
+      "filing_date": "2026-03-30",
+      "company": "P2 Gold Inc.",
+      "ticker": "PGLD",
+      "insider_name": "Ovsenek, Joseph J.",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "89300",
+      "price": "0.6189",
+      "value": "55267",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
