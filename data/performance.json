@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-30",
-  "entry_count": 622,
+  "entry_count": 626,
   "entries": [
     {
       "id": "US|SOFI|2026-03-02|Noto Anthony",
@@ -19886,6 +19886,86 @@
       },
       "latest_price": 8.32,
       "return_pct": -5.35,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|KMTS|2026-03-26|Cohen Raymond W",
+      "market": "US",
+      "ticker": "KMTS",
+      "yf_symbol": "KMTS",
+      "company": "Kestra Medical Technologies, Ltd.",
+      "insider_name": "Cohen Raymond W",
+      "title": "Dir",
+      "trade_date": "2026-03-26",
+      "trade_price": 19.98,
+      "value": 199800.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 19.46
+      },
+      "latest_price": 19.46,
+      "return_pct": -2.6,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|HPP|2026-03-30|Ferguson T Ritson",
+      "market": "US",
+      "ticker": "HPP",
+      "yf_symbol": "HPP",
+      "company": "Hudson Pacific Properties, Inc.",
+      "insider_name": "Ferguson T Ritson",
+      "title": "Dir",
+      "trade_date": "2026-03-30",
+      "trade_price": 5.97,
+      "value": 95520.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 5.6
+      },
+      "latest_price": 5.6,
+      "return_pct": -6.2,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|SPRU|2026-03-26|Steel Partners Holdings L.P.",
+      "market": "US",
+      "ticker": "SPRU",
+      "yf_symbol": "SPRU",
+      "company": "Spruce Power Holding Corp",
+      "insider_name": "Steel Partners Holdings L.P.",
+      "title": "10%",
+      "trade_date": "2026-03-26",
+      "trade_price": 3.99,
+      "value": 115039.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 3.98
+      },
+      "latest_price": 3.98,
+      "return_pct": -0.25,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|CNXC|2026-03-26|Caldwell Christopher A",
+      "market": "US",
+      "ticker": "CNXC",
+      "yf_symbol": "CNXC",
+      "company": "Concentrix Corp",
+      "insider_name": "Caldwell Christopher A",
+      "title": "Pres, CEO",
+      "trade_date": "2026-03-26",
+      "trade_price": 26.97,
+      "value": 26970.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 26.42
+      },
+      "latest_price": 26.42,
+      "return_pct": -2.04,
       "last_snapshot": "2026-03-30"
     }
   ]

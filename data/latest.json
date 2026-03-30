@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T21:34:43Z",
-  "trade_count": 5720,
+  "last_updated": "2026-03-30T22:26:20Z",
+  "trade_count": 5724,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -91520,6 +91520,70 @@
       "owned": "10000",
       "delta_own": "+100%",
       "value": "43950",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-30",
+      "filing_time": "18:06",
+      "trade_date": "2026-03-26",
+      "ticker": "KMTS",
+      "company": "Kestra Medical Technologies, Ltd.",
+      "insider_name": "Cohen Raymond W",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "19.98",
+      "qty": "10000",
+      "owned": "50903",
+      "delta_own": "+24%",
+      "value": "199800",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-30",
+      "filing_time": "18:00",
+      "trade_date": "2026-03-30",
+      "ticker": "HPP",
+      "company": "Hudson Pacific Properties, Inc.",
+      "insider_name": "Ferguson T Ritson",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "5.97",
+      "qty": "16000",
+      "owned": "18997",
+      "delta_own": "+534%",
+      "value": "95520",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-30",
+      "filing_time": "17:58",
+      "trade_date": "2026-03-26",
+      "ticker": "SPRU",
+      "company": "Spruce Power Holding Corp",
+      "insider_name": "Steel Partners Holdings L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "3.99",
+      "qty": "28803",
+      "owned": "3348930",
+      "delta_own": "+1%",
+      "value": "115039",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-30",
+      "filing_time": "17:57",
+      "trade_date": "2026-03-26",
+      "ticker": "CNXC",
+      "company": "Concentrix Corp",
+      "insider_name": "Caldwell Christopher A",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "26.97",
+      "qty": "1000",
+      "owned": "357382",
+      "delta_own": "0%",
+      "value": "26970",
       "cluster_buy": false
     }
   ]
