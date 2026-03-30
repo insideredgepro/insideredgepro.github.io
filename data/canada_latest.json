@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T19:00:20Z",
-  "trade_count": 2761,
+  "last_updated": "2026-03-30T21:00:21Z",
+  "trade_count": 2762,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -41725,6 +41725,22 @@
       "qty": "7000",
       "price": "7.1100",
       "value": "49770",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4691513",
+      "trade_date": "2026-03-30",
+      "filing_date": "2026-03-30",
+      "company": "Hudbay Minerals Inc.",
+      "ticker": "HBM",
+      "insider_name": "Kukielski, Peter Gerald Jan",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "4000",
+      "price": "26.7100",
+      "value": "106840",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
