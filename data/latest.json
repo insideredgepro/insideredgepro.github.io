@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T09:56:46Z",
-  "trade_count": 5732,
+  "last_updated": "2026-03-31T10:49:37Z",
+  "trade_count": 5735,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -91712,6 +91712,54 @@
       "owned": "15864871",
       "delta_own": "+15%",
       "value": "19912148",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-31",
+      "filing_time": "06:42",
+      "trade_date": "2026-03-30",
+      "ticker": "NAVN",
+      "company": "Navan, Inc.",
+      "insider_name": "Williams Anre D",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "12.00",
+      "qty": "100000",
+      "owned": "215024",
+      "delta_own": "+87%",
+      "value": "1200000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-31",
+      "filing_time": "06:08",
+      "trade_date": "2026-03-30",
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider_name": "Lin Shyue-Shyh",
+      "title": "VP",
+      "trade_type": "P - Purchase",
+      "price": "54.72",
+      "qty": "3000",
+      "owned": "30322",
+      "delta_own": "+11%",
+      "value": "164160",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-31",
+      "filing_time": "06:06",
+      "trade_date": "2026-03-22",
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider_name": "Yeap Choh Fei",
+      "title": "SVP",
+      "trade_type": "P - Purchase",
+      "price": "55.78",
+      "qty": "1000",
+      "owned": "230157",
+      "delta_own": "0%",
+      "value": "55780",
       "cluster_buy": true
     }
   ]

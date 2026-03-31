@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-31",
-  "entry_count": 632,
+  "entry_count": 635,
   "entries": [
     {
       "id": "US|SOFI|2026-03-02|Noto Anthony",
@@ -20699,6 +20699,66 @@
       },
       "latest_price": 11.29,
       "return_pct": 16.03,
+      "last_snapshot": "2026-03-31"
+    },
+    {
+      "id": "US|NAVN|2026-03-30|Williams Anre D",
+      "market": "US",
+      "ticker": "NAVN",
+      "yf_symbol": "NAVN",
+      "company": "Navan, Inc.",
+      "insider_name": "Williams Anre D",
+      "title": "Dir",
+      "trade_date": "2026-03-30",
+      "trade_price": 12.0,
+      "value": 1200000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-31": 11.99
+      },
+      "latest_price": 11.99,
+      "return_pct": -0.08,
+      "last_snapshot": "2026-03-31"
+    },
+    {
+      "id": "US|TSM|2026-03-30|Lin Shyue-Shyh",
+      "market": "US",
+      "ticker": "TSM",
+      "yf_symbol": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider_name": "Lin Shyue-Shyh",
+      "title": "VP",
+      "trade_date": "2026-03-30",
+      "trade_price": 54.72,
+      "value": 164160.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-31": 316.5
+      },
+      "latest_price": 316.5,
+      "return_pct": 478.4,
+      "last_snapshot": "2026-03-31"
+    },
+    {
+      "id": "US|TSM|2026-03-22|Yeap Choh Fei",
+      "market": "US",
+      "ticker": "TSM",
+      "yf_symbol": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider_name": "Yeap Choh Fei",
+      "title": "SVP",
+      "trade_date": "2026-03-22",
+      "trade_price": 55.78,
+      "value": 55780.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-31": 316.5
+      },
+      "latest_price": 316.5,
+      "return_pct": 467.41,
       "last_snapshot": "2026-03-31"
     }
   ]
