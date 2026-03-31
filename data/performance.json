@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-31",
-  "entry_count": 636,
+  "entry_count": 637,
   "entries": [
     {
       "id": "US|SOFI|2026-03-02|Noto Anthony",
@@ -20779,6 +20779,26 @@
       },
       "latest_price": 19.3,
       "return_pct": -1.88,
+      "last_snapshot": "2026-03-31"
+    },
+    {
+      "id": "US|SBSW|2026-03-30|Carter Charles Edward",
+      "market": "US",
+      "ticker": "SBSW",
+      "yf_symbol": "SBSW",
+      "company": "Sibanye Stillwater Ltd",
+      "insider_name": "Carter Charles Edward",
+      "title": "Chief Regional Officer: Amer.",
+      "trade_date": "2026-03-30",
+      "trade_price": 11.4,
+      "value": 114000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-31": 11.14
+      },
+      "latest_price": 11.14,
+      "return_pct": -2.28,
       "last_snapshot": "2026-03-31"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T11:41:53Z",
-  "trade_count": 5736,
+  "last_updated": "2026-03-31T12:56:07Z",
+  "trade_count": 5738,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -91776,6 +91776,38 @@
       "owned": "690704",
       "delta_own": "+4%",
       "value": "500602",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-31",
+      "filing_time": "08:24",
+      "trade_date": "2026-03-30",
+      "ticker": "SBSW",
+      "company": "Sibanye Stillwater Ltd",
+      "insider_name": "Carter Charles Edward",
+      "title": "Chief Regional Officer: Amer.",
+      "trade_type": "P - Purchase",
+      "price": "11.40",
+      "qty": "10000",
+      "owned": "180000",
+      "delta_own": "+6%",
+      "value": "114000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-31",
+      "filing_time": "07:58",
+      "trade_date": "2023-03-31",
+      "ticker": "QFIN",
+      "company": "Qfin Holdings, Inc.",
+      "insider_name": "Chen Xiaohuan",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "12.79",
+      "qty": "250000",
+      "owned": "205000",
+      "delta_own": "-556%",
+      "value": "3197900",
       "cluster_buy": false
     }
   ]
