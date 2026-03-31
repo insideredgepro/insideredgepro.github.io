@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-31",
-  "entry_count": 637,
+  "entry_count": 638,
   "entries": [
     {
       "id": "US|SOFI|2026-03-02|Noto Anthony",
@@ -8372,10 +8372,10 @@
         "2026-03-28": 8.06,
         "2026-03-29": 8.06,
         "2026-03-30": 7.82,
-        "2026-03-31": 7.97
+        "2026-03-31": 7.99
       },
-      "latest_price": 7.97,
-      "return_pct": 0.76,
+      "latest_price": 7.99,
+      "return_pct": 1.01,
       "last_snapshot": "2026-03-31"
     },
     {
@@ -11609,10 +11609,10 @@
         "2026-03-28": 0.84,
         "2026-03-29": 0.84,
         "2026-03-30": 0.82,
-        "2026-03-31": 0.8249
+        "2026-03-31": 0.78
       },
-      "latest_price": 0.8249,
-      "return_pct": 243.71,
+      "latest_price": 0.78,
+      "return_pct": 225.0,
       "last_snapshot": "2026-03-31"
     },
     {
@@ -14338,10 +14338,10 @@
         "2026-03-28": 8.06,
         "2026-03-29": 8.06,
         "2026-03-30": 7.82,
-        "2026-03-31": 7.97
+        "2026-03-31": 7.99
       },
-      "latest_price": 7.97,
-      "return_pct": -3.28,
+      "latest_price": 7.99,
+      "return_pct": -3.03,
       "last_snapshot": "2026-03-31"
     },
     {
@@ -16639,10 +16639,10 @@
         "2026-03-28": 8.06,
         "2026-03-29": 8.06,
         "2026-03-30": 7.82,
-        "2026-03-31": 7.97
+        "2026-03-31": 7.99
       },
-      "latest_price": 7.97,
-      "return_pct": -7.33,
+      "latest_price": 7.99,
+      "return_pct": -7.09,
       "last_snapshot": "2026-03-31"
     },
     {
@@ -17843,10 +17843,10 @@
         "2026-03-28": 0.84,
         "2026-03-29": 0.84,
         "2026-03-30": 0.82,
-        "2026-03-31": 0.8249
+        "2026-03-31": 0.78
       },
-      "latest_price": 0.8249,
-      "return_pct": 243.71,
+      "latest_price": 0.78,
+      "return_pct": 225.0,
       "last_snapshot": "2026-03-31"
     },
     {
@@ -20590,10 +20590,10 @@
       "currency": "USD",
       "snapshots": {
         "2026-03-30": 0.3074,
-        "2026-03-31": 0.308
+        "2026-03-31": 0.3211
       },
-      "latest_price": 0.308,
-      "return_pct": 670.0,
+      "latest_price": 0.3211,
+      "return_pct": 702.75,
       "last_snapshot": "2026-03-31"
     },
     {
@@ -20799,6 +20799,26 @@
       },
       "latest_price": 11.14,
       "return_pct": -2.28,
+      "last_snapshot": "2026-03-31"
+    },
+    {
+      "id": "US|CIA|2026-03-30|Stenberg Jon",
+      "market": "US",
+      "ticker": "CIA",
+      "yf_symbol": "CIA",
+      "company": "Citizens, Inc.",
+      "insider_name": "Stenberg Jon",
+      "title": "Pres, CEO",
+      "trade_date": "2026-03-30",
+      "trade_price": 4.7,
+      "value": 235000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-31": 4.82
+      },
+      "latest_price": 4.82,
+      "return_pct": 2.55,
       "last_snapshot": "2026-03-31"
     }
   ]
