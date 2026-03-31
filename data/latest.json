@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T21:30:48Z",
-  "trade_count": 5748,
+  "last_updated": "2026-03-31T22:26:40Z",
+  "trade_count": 5749,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -91968,6 +91968,22 @@
       "owned": "511462",
       "delta_own": "+2%",
       "value": "28500",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-31",
+      "filing_time": "18:10",
+      "trade_date": "2026-03-27",
+      "ticker": "AI",
+      "company": "C3.Ai, Inc.",
+      "insider_name": "Snabe Jim H.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "7.73",
+      "qty": "10000",
+      "owned": "423000",
+      "delta_own": "+2%",
+      "value": "77300",
       "cluster_buy": false
     }
   ]

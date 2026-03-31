@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-31",
-  "entry_count": 647,
+  "entry_count": 648,
   "entries": [
     {
       "id": "US|SOFI|2026-03-02|Noto Anthony",
@@ -20999,6 +20999,26 @@
       },
       "latest_price": 2.85,
       "return_pct": 0.0,
+      "last_snapshot": "2026-03-31"
+    },
+    {
+      "id": "US|AI|2026-03-27|Snabe Jim H.",
+      "market": "US",
+      "ticker": "AI",
+      "yf_symbol": "AI",
+      "company": "C3.Ai, Inc.",
+      "insider_name": "Snabe Jim H.",
+      "title": "Dir",
+      "trade_date": "2026-03-27",
+      "trade_price": 7.73,
+      "value": 77300.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-31": 7.79
+      },
+      "latest_price": 7.79,
+      "return_pct": 0.78,
       "last_snapshot": "2026-03-31"
     }
   ]
