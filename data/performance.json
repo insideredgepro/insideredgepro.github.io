@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-31",
-  "entry_count": 635,
+  "entry_count": 636,
   "entries": [
     {
       "id": "US|SOFI|2026-03-02|Noto Anthony",
@@ -20759,6 +20759,26 @@
       },
       "latest_price": 316.5,
       "return_pct": 467.41,
+      "last_snapshot": "2026-03-31"
+    },
+    {
+      "id": "US|IMNM|2026-03-27|Siegall Clay B",
+      "market": "US",
+      "ticker": "IMNM",
+      "yf_symbol": "IMNM",
+      "company": "Immunome Inc.",
+      "insider_name": "Siegall Clay B",
+      "title": "Pres, CEO",
+      "trade_date": "2026-03-27",
+      "trade_price": 19.67,
+      "value": 500602.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-31": 19.3
+      },
+      "latest_price": 19.3,
+      "return_pct": -1.88,
       "last_snapshot": "2026-03-31"
     }
   ]
