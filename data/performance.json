@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-30",
-  "entry_count": 627,
+  "entry_count": 633,
   "entries": [
     {
       "id": "US|SOFI|2026-03-02|Noto Anthony",
@@ -19986,6 +19986,126 @@
       },
       "latest_price": 7.07,
       "return_pct": 0.14,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|VERO|2026-03-26|Madryn Asset Management, LP",
+      "market": "US",
+      "ticker": "VERO",
+      "yf_symbol": "VERO",
+      "company": "Venus Concept Inc.",
+      "insider_name": "Madryn Asset Management, LP",
+      "title": "10%",
+      "trade_date": "2026-03-26",
+      "trade_price": 0.04,
+      "value": 1500000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 0.3074
+      },
+      "latest_price": 0.3074,
+      "return_pct": 668.5,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|WVE|2026-03-26|Ra Capital Management, L.P.",
+      "market": "US",
+      "ticker": "WVE",
+      "yf_symbol": "WVE",
+      "company": "Wave Life Sciences Ltd.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-03-26",
+      "trade_price": 6.23,
+      "value": 54624378.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 6.365
+      },
+      "latest_price": 6.365,
+      "return_pct": 2.17,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|DTCX|2026-03-26|Evans Allan Thomas",
+      "market": "US",
+      "ticker": "DTCX",
+      "yf_symbol": "DTCX",
+      "company": "Datacentrex, Inc.",
+      "insider_name": "Evans Allan Thomas",
+      "title": "Dir",
+      "trade_date": "2026-03-26",
+      "trade_price": 2.0,
+      "value": 100000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 2.11
+      },
+      "latest_price": 2.11,
+      "return_pct": 5.5,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|AHCO|2026-03-19|Oep VII Gp, L.L.C.",
+      "market": "US",
+      "ticker": "AHCO",
+      "yf_symbol": "AHCO",
+      "company": "Adapthealth Corp.",
+      "insider_name": "Oep VII Gp, L.L.C.",
+      "title": "10%",
+      "trade_date": "2026-03-19",
+      "trade_price": 9.91,
+      "value": 4438928.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 11.2
+      },
+      "latest_price": 11.2,
+      "return_pct": 13.02,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|STIM|2026-03-30|Chernett Jorey",
+      "market": "US",
+      "ticker": "STIM",
+      "yf_symbol": "STIM",
+      "company": "Neuronetics, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_date": "2026-03-30",
+      "trade_price": 1.25,
+      "value": 481803.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 1.29
+      },
+      "latest_price": 1.29,
+      "return_pct": 3.2,
+      "last_snapshot": "2026-03-30"
+    },
+    {
+      "id": "US|AHCO|2026-03-10|Oep VII Gp, L.L.C.",
+      "market": "US",
+      "ticker": "AHCO",
+      "yf_symbol": "AHCO",
+      "company": "Adapthealth Corp.",
+      "insider_name": "Oep VII Gp, L.L.C.",
+      "title": "10%",
+      "trade_date": "2026-03-10",
+      "trade_price": 9.73,
+      "value": 19912148.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-30": 11.2
+      },
+      "latest_price": 11.2,
+      "return_pct": 15.11,
       "last_snapshot": "2026-03-30"
     }
   ]
