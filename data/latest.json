@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T12:58:34Z",
-  "trade_count": 5756,
+  "last_updated": "2026-04-01T14:28:38Z",
+  "trade_count": 5758,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -92096,6 +92096,38 @@
       "owned": "21246",
       "delta_own": "+240%",
       "value": "30600",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-01",
+      "filing_time": "09:44",
+      "trade_date": "2026-03-16",
+      "ticker": "HBIO",
+      "company": "Harvard Bioscience Inc",
+      "insider_name": "Frost Mark T",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "5.00",
+      "qty": "5000",
+      "owned": "17500",
+      "delta_own": "+40%",
+      "value": "25000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-01",
+      "filing_time": "09:31",
+      "trade_date": "2026-03-31",
+      "ticker": "TNXP",
+      "company": "Tonix Pharmaceuticals Holding Corp.",
+      "insider_name": "Lederman Seth",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "12.62",
+      "qty": "5000",
+      "owned": "24007",
+      "delta_own": "+26%",
+      "value": "63100",
       "cluster_buy": false
     }
   ]
