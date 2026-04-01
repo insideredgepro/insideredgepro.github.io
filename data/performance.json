@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-01",
-  "entry_count": 623,
+  "entry_count": 629,
   "entries": [
     {
       "id": "US|CABO|2026-03-03|Koetje Todd M",
@@ -10507,8 +10507,8 @@
         "2026-03-31": 0.766,
         "2026-04-01": 0.731
       },
-      "latest_price": 0.741,
-      "return_pct": 208.75,
+      "latest_price": 0.728,
+      "return_pct": 203.33,
       "last_snapshot": "2026-04-01"
     },
     {
@@ -16789,8 +16789,8 @@
         "2026-03-31": 30.48,
         "2026-04-01": 30.25
       },
-      "latest_price": 30.25,
-      "return_pct": -1.11,
+      "latest_price": 30.5,
+      "return_pct": -0.29,
       "last_snapshot": "2026-04-01"
     },
     {
@@ -16818,8 +16818,8 @@
         "2026-03-31": 30.48,
         "2026-04-01": 30.25
       },
-      "latest_price": 30.25,
-      "return_pct": -1.11,
+      "latest_price": 30.5,
+      "return_pct": -0.29,
       "last_snapshot": "2026-04-01"
     },
     {
@@ -16876,8 +16876,8 @@
         "2026-03-31": 30.48,
         "2026-04-01": 30.25
       },
-      "latest_price": 30.25,
-      "return_pct": -1.11,
+      "latest_price": 30.5,
+      "return_pct": -0.29,
       "last_snapshot": "2026-04-01"
     },
     {
@@ -16905,8 +16905,8 @@
         "2026-03-31": 0.766,
         "2026-04-01": 0.731
       },
-      "latest_price": 0.741,
-      "return_pct": 208.75,
+      "latest_price": 0.728,
+      "return_pct": 203.33,
       "last_snapshot": "2026-04-01"
     },
     {
@@ -17079,8 +17079,8 @@
         "2026-03-31": 30.48,
         "2026-04-01": 30.25
       },
-      "latest_price": 30.25,
-      "return_pct": -1.11,
+      "latest_price": 30.5,
+      "return_pct": -0.29,
       "last_snapshot": "2026-04-01"
     },
     {
@@ -17108,8 +17108,8 @@
         "2026-03-31": 30.48,
         "2026-04-01": 30.25
       },
-      "latest_price": 30.25,
-      "return_pct": -1.11,
+      "latest_price": 30.5,
+      "return_pct": -0.29,
       "last_snapshot": "2026-04-01"
     },
     {
@@ -17166,8 +17166,8 @@
         "2026-03-31": 30.48,
         "2026-04-01": 30.25
       },
-      "latest_price": 30.25,
-      "return_pct": -1.11,
+      "latest_price": 30.5,
+      "return_pct": -0.29,
       "last_snapshot": "2026-04-01"
     },
     {
@@ -20469,6 +20469,126 @@
       },
       "latest_price": 35.21,
       "return_pct": 0.69,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|SPG|2026-03-31|Rodkin Gary M",
+      "market": "US",
+      "ticker": "SPG",
+      "yf_symbol": "SPG",
+      "company": "Simon Property Group Inc.",
+      "insider_name": "Rodkin Gary M",
+      "title": "Dir",
+      "trade_date": "2026-03-31",
+      "trade_price": 183.8,
+      "value": 42642.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 186.53
+      },
+      "latest_price": 186.53,
+      "return_pct": 1.49,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|SPG|2026-03-31|Leibowitz Reuben S",
+      "market": "US",
+      "ticker": "SPG",
+      "yf_symbol": "SPG",
+      "company": "Simon Property Group Inc.",
+      "insider_name": "Leibowitz Reuben S",
+      "title": "Dir",
+      "trade_date": "2026-03-31",
+      "trade_price": 183.8,
+      "value": 90246.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 186.53
+      },
+      "latest_price": 186.53,
+      "return_pct": 1.49,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|SPG|2026-03-31|Glasscock Larry C",
+      "market": "US",
+      "ticker": "SPG",
+      "yf_symbol": "SPG",
+      "company": "Simon Property Group Inc.",
+      "insider_name": "Glasscock Larry C",
+      "title": "Dir",
+      "trade_date": "2026-03-31",
+      "trade_price": 183.8,
+      "value": 68557.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 186.53
+      },
+      "latest_price": 186.53,
+      "return_pct": 1.49,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|SPG|2026-03-31|Aeppel Glyn",
+      "market": "US",
+      "ticker": "SPG",
+      "yf_symbol": "SPG",
+      "company": "Simon Property Group Inc.",
+      "insider_name": "Aeppel Glyn",
+      "title": "Dir",
+      "trade_date": "2026-03-31",
+      "trade_price": 183.8,
+      "value": 40620.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 186.53
+      },
+      "latest_price": 186.53,
+      "return_pct": 1.49,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|PGC|2026-03-30|Kennedy Douglas L",
+      "market": "US",
+      "ticker": "PGC",
+      "yf_symbol": "PGC",
+      "company": "Peapack Gladstone Financial Corp",
+      "insider_name": "Kennedy Douglas L",
+      "title": "Pres, CEO",
+      "trade_date": "2026-03-30",
+      "trade_price": 35.21,
+      "value": 397732.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 35.21
+      },
+      "latest_price": 35.21,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|PGC|2026-03-31|Cavallaro Frank A.",
+      "market": "US",
+      "ticker": "PGC",
+      "yf_symbol": "PGC",
+      "company": "Peapack Gladstone Financial Corp",
+      "insider_name": "Cavallaro Frank A.",
+      "title": "SEVP, CFO",
+      "trade_date": "2026-03-31",
+      "trade_price": 34.95,
+      "value": 101000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 35.21
+      },
+      "latest_price": 35.21,
+      "return_pct": 0.74,
       "last_snapshot": "2026-04-01"
     }
   ]
