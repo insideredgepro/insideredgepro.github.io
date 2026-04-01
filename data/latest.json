@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T23:26:59Z",
-  "trade_count": 5749,
+  "last_updated": "2026-04-01T01:47:51Z",
+  "trade_count": 5753,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -90976,7 +90976,7 @@
       "owned": "5337000",
       "delta_own": "+23%",
       "value": "1400000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-27",
@@ -91952,7 +91952,7 @@
       "owned": "422968",
       "delta_own": "+22%",
       "value": "1500000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-31",
@@ -91984,6 +91984,70 @@
       "owned": "423000",
       "delta_own": "+2%",
       "value": "77300",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-31",
+      "filing_time": "21:28",
+      "trade_date": "2026-03-27",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "65.65",
+      "qty": "3826",
+      "owned": "5675376",
+      "delta_own": "0%",
+      "value": "251158",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-03-31",
+      "filing_time": "20:14",
+      "trade_date": "2026-03-30",
+      "ticker": "ZBIO",
+      "company": "Zenas Biopharma, Inc.",
+      "insider_name": "Moulder Leon O Jr",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "18.91",
+      "qty": "54000",
+      "owned": "2186122",
+      "delta_own": "+3%",
+      "value": "1021140",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-31",
+      "filing_time": "19:52",
+      "trade_date": "2026-03-30",
+      "ticker": "IAUX",
+      "company": "I-80 Gold Corp.",
+      "insider_name": "Seaman John William",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.42",
+      "qty": "32000",
+      "owned": "387897",
+      "delta_own": "+9%",
+      "value": "45440",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-03-31",
+      "filing_time": "19:38",
+      "trade_date": "2026-03-27",
+      "ticker": "PAGS",
+      "company": "Pagseguro Digital Ltd.",
+      "insider_name": "Frias Luis",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "9.97",
+      "qty": "498500",
+      "owned": "127713867",
+      "delta_own": "0%",
+      "value": "4967553",
       "cluster_buy": false
     }
   ]

@@ -5684,7 +5684,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-27,09:34,2026-03-26,TOI,"Oncology Institute, Inc.",Chernett Jorey,10%,P - Purchase,3.15,50000,10451929,0%,157500,False
 2026-03-27,09:33,2026-03-25,STIM,"Neuronetics, Inc.",Chernett Jorey,10%,P - Purchase,1.41,150000,8893276,+2%,211000,False
 2026-03-27,09:33,2026-03-26,PICS,Pics N.V.,Chedid Simoes Eduardo,CEO,P - Purchase,11.52,87505,87505,New,1008058,True
-2026-03-27,14:34,2026-03-25,IAUX,I-80 Gold Corp.,Young Richard Scott,"Pres, CEO",P - Purchase,1.40,1000000,5337000,+23%,1400000,False
+2026-03-27,14:34,2026-03-25,IAUX,I-80 Gold Corp.,Young Richard Scott,"Pres, CEO",P - Purchase,1.40,1000000,5337000,+23%,1400000,True
 2026-03-27,14:25,2026-03-26,FMNB,Farmers National Banc Corp /Oh/,Varischetti Nicholas D,Dir,P - Purchase,12.97,73000,228529,+47%,946810,False
 2026-03-27,16:24,2026-03-27,TGEN,Tecogen Inc.,Hirsch Susan B,Dir,P - Purchase,2.54,10000,260416,+4%,25400,False
 2026-03-27,16:21,2026-03-02,AXR,Amrep Corp.,Dahl James H,10%,P - Purchase,25.69,3200,470398,+1%,82220,False
@@ -5745,6 +5745,10 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-31,16:08,2026-03-27,SATL,Satellogic Inc.,Dunn Rick,CFO,P - Purchase,5.51,35745,228028,+19%,197089,False
 2026-03-31,16:05,2026-03-27,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,5.06,11850,2561850,0%,60019,False
 2026-03-31,17:20,2026-03-27,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,10.24,68467,697851,+11%,701102,False
-2026-03-31,17:00,2026-03-31,ZBIO,"Zenas Biopharma, Inc.",Lu Hongbo,Dir,P - Purchase,20.00,75000,422968,+22%,1500000,False
+2026-03-31,17:00,2026-03-31,ZBIO,"Zenas Biopharma, Inc.",Lu Hongbo,Dir,P - Purchase,20.00,75000,422968,+22%,1500000,True
 2026-03-31,16:59,2026-03-30,RZLT,"Rezolute, Inc.",Evans Daron,CFO,P - Purchase,2.85,10000,511462,+2%,28500,False
 2026-03-31,18:10,2026-03-27,AI,"C3.Ai, Inc.",Snabe Jim H.,Dir,P - Purchase,7.73,10000,423000,+2%,77300,False
+2026-03-31,21:28,2026-03-27,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,65.65,3826,5675376,0%,251158,False
+2026-03-31,20:14,2026-03-30,ZBIO,"Zenas Biopharma, Inc.",Moulder Leon O Jr,CEO,P - Purchase,18.91,54000,2186122,+3%,1021140,True
+2026-03-31,19:52,2026-03-30,IAUX,I-80 Gold Corp.,Seaman John William,Dir,P - Purchase,1.42,32000,387897,+9%,45440,True
+2026-03-31,19:38,2026-03-27,PAGS,Pagseguro Digital Ltd.,Frias Luis,Dir,P - Purchase,9.97,498500,127713867,0%,4967553,False

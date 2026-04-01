@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-03-31",
-  "entry_count": 648,
+  "entry_count": 652,
   "entries": [
     {
       "id": "US|SOFI|2026-03-02|Noto Anthony",
@@ -21019,6 +21019,86 @@
       },
       "latest_price": 7.79,
       "return_pct": 0.78,
+      "last_snapshot": "2026-03-31"
+    },
+    {
+      "id": "US|NMM|2026-03-27|Frangou Angeliki",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-03-27",
+      "trade_price": 65.65,
+      "value": 251158.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-31": 64.32
+      },
+      "latest_price": 64.32,
+      "return_pct": -2.03,
+      "last_snapshot": "2026-03-31"
+    },
+    {
+      "id": "US|ZBIO|2026-03-30|Moulder Leon O Jr",
+      "market": "US",
+      "ticker": "ZBIO",
+      "yf_symbol": "ZBIO",
+      "company": "Zenas Biopharma, Inc.",
+      "insider_name": "Moulder Leon O Jr",
+      "title": "CEO",
+      "trade_date": "2026-03-30",
+      "trade_price": 18.91,
+      "value": 1021140.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-31": 18.225
+      },
+      "latest_price": 18.225,
+      "return_pct": -3.62,
+      "last_snapshot": "2026-03-31"
+    },
+    {
+      "id": "US|IAUX|2026-03-30|Seaman John William",
+      "market": "US",
+      "ticker": "IAUX",
+      "yf_symbol": "IAUX",
+      "company": "I-80 Gold Corp.",
+      "insider_name": "Seaman John William",
+      "title": "Dir",
+      "trade_date": "2026-03-30",
+      "trade_price": 1.42,
+      "value": 45440.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-31": 1.41
+      },
+      "latest_price": 1.41,
+      "return_pct": -0.7,
+      "last_snapshot": "2026-03-31"
+    },
+    {
+      "id": "US|PAGS|2026-03-27|Frias Luis",
+      "market": "US",
+      "ticker": "PAGS",
+      "yf_symbol": "PAGS",
+      "company": "Pagseguro Digital Ltd.",
+      "insider_name": "Frias Luis",
+      "title": "Dir",
+      "trade_date": "2026-03-27",
+      "trade_price": 9.97,
+      "value": 4967553.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-03-31": 9.71
+      },
+      "latest_price": 9.71,
+      "return_pct": -2.61,
       "last_snapshot": "2026-03-31"
     }
   ]
