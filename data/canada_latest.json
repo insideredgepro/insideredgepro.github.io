@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T21:00:20Z",
-  "trade_count": 2786,
+  "last_updated": "2026-04-01T23:00:27Z",
+  "trade_count": 2788,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42128,6 +42128,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4694534",
+      "trade_date": "2026-04-01",
+      "filing_date": "2026-04-01",
+      "company": "Fennec Pharmaceuticals Inc.",
+      "ticker": "FRX",
+      "insider_name": "Raykov, Rostislav Christov",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "15598",
+      "price": "2.4500",
+      "value": "38215",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4694704",
+      "trade_date": "2026-04-01",
+      "filing_date": "2026-04-01",
+      "company": "Total Energy Services Inc.",
+      "ticker": "TOT",
+      "insider_name": "Kirstine, Jessica A.",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "800",
+      "price": "22.1000",
+      "value": "17680",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
