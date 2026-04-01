@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T19:00:21Z",
-  "trade_count": 2785,
+  "last_updated": "2026-04-01T21:00:20Z",
+  "trade_count": 2786,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42109,6 +42109,22 @@
       "qty": "1000",
       "price": "63.2155",
       "value": "63215",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4694290",
+      "trade_date": "2026-04-01",
+      "filing_date": "2026-04-01",
+      "company": "Paramount Resources Ltd.",
+      "ticker": "POU",
+      "insider_name": "Sousa, Rodrigo",
+      "title": "Senior Officer",
+      "security": "Common Shares Class A",
+      "qty": "10000",
+      "price": "27.7500",
+      "value": "277500",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
