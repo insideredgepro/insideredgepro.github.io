@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T14:28:38Z",
-  "trade_count": 5758,
+  "last_updated": "2026-04-01T16:02:32Z",
+  "trade_count": 5761,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -92128,6 +92128,54 @@
       "owned": "24007",
       "delta_own": "+26%",
       "value": "63100",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-01",
+      "filing_time": "11:48",
+      "trade_date": "2026-03-31",
+      "ticker": "OTH",
+      "company": "Off the Hook Ys Inc.",
+      "insider_name": "John Brian",
+      "title": "CEO, Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "2.06",
+      "qty": "53350",
+      "owned": "1253350",
+      "delta_own": "+4%",
+      "value": "109848",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-01",
+      "filing_time": "11:29",
+      "trade_date": "2026-03-31",
+      "ticker": "NRGV",
+      "company": "Energy Vault Holdings, Inc.",
+      "insider_name": "Piconi Robert",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "3.21",
+      "qty": "12500",
+      "owned": "16921594",
+      "delta_own": "0%",
+      "value": "40120",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-01",
+      "filing_time": "11:12",
+      "trade_date": "2026-03-30",
+      "ticker": "NFJ",
+      "company": "Virtus Dividend, Interest & Premium Strategy Fund",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "12.39",
+      "qty": "30502",
+      "owned": "10213194",
+      "delta_own": "0%",
+      "value": "377920",
       "cluster_buy": false
     }
   ]
