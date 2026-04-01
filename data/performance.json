@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-01",
-  "entry_count": 615,
+  "entry_count": 616,
   "entries": [
     {
       "id": "US|CABO|2026-03-03|Koetje Todd M",
@@ -20309,6 +20309,26 @@
       },
       "latest_price": 1.21,
       "return_pct": 12000.0,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|NSRX|2026-03-31|Teleman Dan Benjamin",
+      "market": "US",
+      "ticker": "NSRX",
+      "yf_symbol": "NSRX",
+      "company": "Nasus Pharma Ltd",
+      "insider_name": "Teleman Dan Benjamin",
+      "title": "CEO",
+      "trade_date": "2026-03-31",
+      "trade_price": 2.04,
+      "value": 30600.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 2.22
+      },
+      "latest_price": 2.22,
+      "return_pct": 8.82,
       "last_snapshot": "2026-04-01"
     }
   ]

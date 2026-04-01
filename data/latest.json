@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T11:03:24Z",
-  "trade_count": 5755,
+  "last_updated": "2026-04-01T12:58:34Z",
+  "trade_count": 5756,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -92080,6 +92080,22 @@
       "owned": "17862032",
       "delta_own": "+78%",
       "value": "113976",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-01",
+      "filing_time": "07:31",
+      "trade_date": "2026-03-31",
+      "ticker": "NSRX",
+      "company": "Nasus Pharma Ltd",
+      "insider_name": "Teleman Dan Benjamin",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.04",
+      "qty": "15000",
+      "owned": "21246",
+      "delta_own": "+240%",
+      "value": "30600",
       "cluster_buy": false
     }
   ]
