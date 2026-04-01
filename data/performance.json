@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-01",
-  "entry_count": 629,
+  "entry_count": 647,
   "entries": [
     {
       "id": "US|CABO|2026-03-03|Koetje Todd M",
@@ -7177,8 +7177,8 @@
         "2026-03-31": 8.0,
         "2026-04-01": 8.1
       },
-      "latest_price": 8.1,
-      "return_pct": 2.4,
+      "latest_price": 8.19,
+      "return_pct": 3.54,
       "last_snapshot": "2026-04-01"
     },
     {
@@ -10507,8 +10507,8 @@
         "2026-03-31": 0.766,
         "2026-04-01": 0.731
       },
-      "latest_price": 0.728,
-      "return_pct": 203.33,
+      "latest_price": 0.725,
+      "return_pct": 202.08,
       "last_snapshot": "2026-04-01"
     },
     {
@@ -13318,8 +13318,8 @@
         "2026-03-31": 8.0,
         "2026-04-01": 8.1
       },
-      "latest_price": 8.1,
-      "return_pct": -1.7,
+      "latest_price": 8.19,
+      "return_pct": -0.61,
       "last_snapshot": "2026-04-01"
     },
     {
@@ -15659,8 +15659,8 @@
         "2026-03-31": 8.0,
         "2026-04-01": 8.1
       },
-      "latest_price": 8.1,
-      "return_pct": -5.81,
+      "latest_price": 8.19,
+      "return_pct": -4.77,
       "last_snapshot": "2026-04-01"
     },
     {
@@ -16905,8 +16905,8 @@
         "2026-03-31": 0.766,
         "2026-04-01": 0.731
       },
-      "latest_price": 0.728,
-      "return_pct": 203.33,
+      "latest_price": 0.725,
+      "return_pct": 202.08,
       "last_snapshot": "2026-04-01"
     },
     {
@@ -19737,8 +19737,8 @@
         "2026-03-31": 0.3303,
         "2026-04-01": 0.3072
       },
-      "latest_price": 0.3072,
-      "return_pct": 668.0,
+      "latest_price": 0.4,
+      "return_pct": 900.0,
       "last_snapshot": "2026-04-01"
     },
     {
@@ -20589,6 +20589,366 @@
       },
       "latest_price": 35.21,
       "return_pct": 0.74,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|ZBIO|2026-03-31|Fairmount Funds Management LLC",
+      "market": "US",
+      "ticker": "ZBIO",
+      "yf_symbol": "ZBIO",
+      "company": "Zenas Biopharma, Inc.",
+      "insider_name": "Fairmount Funds Management LLC",
+      "title": "Dir",
+      "trade_date": "2026-03-31",
+      "trade_price": 20.0,
+      "value": 3000000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 19.55
+      },
+      "latest_price": 19.55,
+      "return_pct": -2.25,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|CNTB|2026-03-31|Huang James",
+      "market": "US",
+      "ticker": "CNTB",
+      "yf_symbol": "CNTB",
+      "company": "Connect Biopharma Holdings Ltd",
+      "insider_name": "Huang James",
+      "title": "Dir",
+      "trade_date": "2026-03-31",
+      "trade_price": 3.45,
+      "value": 4002000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 2.62
+      },
+      "latest_price": 2.62,
+      "return_pct": -24.06,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|DYN|2026-03-30|Posner Brian S",
+      "market": "US",
+      "ticker": "DYN",
+      "yf_symbol": "DYN",
+      "company": "Dyne Therapeutics, Inc.",
+      "insider_name": "Posner Brian S",
+      "title": "Dir",
+      "trade_date": "2026-03-30",
+      "trade_price": 17.08,
+      "value": 34160.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 18.13
+      },
+      "latest_price": 18.13,
+      "return_pct": 6.15,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|TISI|2026-03-20|Horton Anthony R",
+      "market": "US",
+      "ticker": "TISI",
+      "yf_symbol": "TISI",
+      "company": "Team Inc",
+      "insider_name": "Horton Anthony R",
+      "title": "Dir",
+      "trade_date": "2026-03-20",
+      "trade_price": 14.84,
+      "value": 192970.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 15.94
+      },
+      "latest_price": 15.94,
+      "return_pct": 7.41,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|XZO|2026-03-31|Patel Paresh",
+      "market": "US",
+      "ticker": "XZO",
+      "yf_symbol": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Patel Paresh",
+      "title": "CEO",
+      "trade_date": "2026-03-31",
+      "trade_price": 14.44,
+      "value": 28880.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 14.67
+      },
+      "latest_price": 14.67,
+      "return_pct": 1.59,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|LODE|2026-03-30|Drozdoff Leo M",
+      "market": "US",
+      "ticker": "LODE",
+      "yf_symbol": "LODE",
+      "company": "Comstock Inc.",
+      "insider_name": "Drozdoff Leo M",
+      "title": "Dir",
+      "trade_date": "2026-03-30",
+      "trade_price": 3.0,
+      "value": 84000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 3.05
+      },
+      "latest_price": 3.05,
+      "return_pct": 1.67,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|GLBS|2026-03-31|Feidakis Georgios",
+      "market": "US",
+      "ticker": "GLBS",
+      "yf_symbol": "GLBS",
+      "company": "Globus Maritime Ltd",
+      "insider_name": "Feidakis Georgios",
+      "title": "Dir",
+      "trade_date": "2026-03-31",
+      "trade_price": 2.14,
+      "value": 801835.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 2.31
+      },
+      "latest_price": 2.31,
+      "return_pct": 7.94,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|POCI|2026-03-30|Coll Wayne M",
+      "market": "US",
+      "ticker": "POCI",
+      "yf_symbol": "POCI",
+      "company": "Precision Optics Corporation, Inc.",
+      "insider_name": "Coll Wayne M",
+      "title": "CFO",
+      "trade_date": "2026-03-30",
+      "trade_price": 3.6,
+      "value": 74999.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 4.39
+      },
+      "latest_price": 4.39,
+      "return_pct": 21.94,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|POCI|2026-03-30|Traut Joseph",
+      "market": "US",
+      "ticker": "POCI",
+      "yf_symbol": "POCI",
+      "company": "Precision Optics Corporation, Inc.",
+      "insider_name": "Traut Joseph",
+      "title": "COO",
+      "trade_date": "2026-03-30",
+      "trade_price": 3.6,
+      "value": 149998.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 4.39
+      },
+      "latest_price": 4.39,
+      "return_pct": 21.94,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|VTS|2026-03-31|O Leary Dan",
+      "market": "US",
+      "ticker": "VTS",
+      "yf_symbol": "VTS",
+      "company": "Vitesse Energy, Inc.",
+      "insider_name": "O Leary Dan",
+      "title": "Dir",
+      "trade_date": "2026-03-31",
+      "trade_price": 18.56,
+      "value": 185600.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 18.16
+      },
+      "latest_price": 18.16,
+      "return_pct": -2.16,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|RPC|2026-03-31|Stewart Robert B Jr",
+      "market": "US",
+      "ticker": "RPC",
+      "yf_symbol": "RPC",
+      "company": "Ridgepost Capital, Inc.",
+      "insider_name": "Stewart Robert B Jr",
+      "title": "Dir",
+      "trade_date": "2026-03-31",
+      "trade_price": 7.27,
+      "value": 50890.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 7.26
+      },
+      "latest_price": 7.26,
+      "return_pct": -0.14,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|VTS|2026-03-30|Henderson James P",
+      "market": "US",
+      "ticker": "VTS",
+      "yf_symbol": "VTS",
+      "company": "Vitesse Energy, Inc.",
+      "insider_name": "Henderson James P",
+      "title": "CFO",
+      "trade_date": "2026-03-30",
+      "trade_price": 18.69,
+      "value": 186900.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 18.16
+      },
+      "latest_price": 18.16,
+      "return_pct": -2.84,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|PVLA|2026-03-30|Jenkins George M",
+      "market": "US",
+      "ticker": "PVLA",
+      "yf_symbol": "PVLA",
+      "company": "Palvella Therapeutics, Inc.",
+      "insider_name": "Jenkins George M",
+      "title": "Dir",
+      "trade_date": "2026-03-30",
+      "trade_price": 112.3,
+      "value": 49974.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 124.65
+      },
+      "latest_price": 124.65,
+      "return_pct": 11.0,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|ALT|2026-04-01|Weaver Gregory L",
+      "market": "US",
+      "ticker": "ALT",
+      "yf_symbol": "ALT",
+      "company": "Altimmune, Inc.",
+      "insider_name": "Weaver Gregory L",
+      "title": "CFO",
+      "trade_date": "2026-04-01",
+      "trade_price": 3.15,
+      "value": 31499.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 3.08
+      },
+      "latest_price": 3.08,
+      "return_pct": -2.22,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|ALT|2026-04-01|Durso Jerome Benedict",
+      "market": "US",
+      "ticker": "ALT",
+      "yf_symbol": "ALT",
+      "company": "Altimmune, Inc.",
+      "insider_name": "Durso Jerome Benedict",
+      "title": "Pres, CEO",
+      "trade_date": "2026-04-01",
+      "trade_price": 3.14,
+      "value": 47100.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 3.08
+      },
+      "latest_price": 3.08,
+      "return_pct": -1.91,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|SPG|2026-03-31|Stewart Marta R",
+      "market": "US",
+      "ticker": "SPG",
+      "yf_symbol": "SPG",
+      "company": "Simon Property Group Inc.",
+      "insider_name": "Stewart Marta R",
+      "title": "Dir",
+      "trade_date": "2026-03-31",
+      "trade_price": 183.8,
+      "value": 36025.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 186.53
+      },
+      "latest_price": 186.53,
+      "return_pct": 1.49,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|SPG|2026-03-31|Smith Daniel C.",
+      "market": "US",
+      "ticker": "SPG",
+      "yf_symbol": "SPG",
+      "company": "Simon Property Group Inc.",
+      "insider_name": "Smith Daniel C.",
+      "title": "Dir",
+      "trade_date": "2026-03-31",
+      "trade_price": 183.8,
+      "value": 65249.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 186.53
+      },
+      "latest_price": 186.53,
+      "return_pct": 1.49,
+      "last_snapshot": "2026-04-01"
+    },
+    {
+      "id": "US|SPG|2026-03-31|Selig Stefan M",
+      "market": "US",
+      "ticker": "SPG",
+      "yf_symbol": "SPG",
+      "company": "Simon Property Group Inc.",
+      "insider_name": "Selig Stefan M",
+      "title": "Dir",
+      "trade_date": "2026-03-31",
+      "trade_price": 183.8,
+      "value": 37863.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 186.53
+      },
+      "latest_price": 186.53,
+      "return_pct": 1.49,
       "last_snapshot": "2026-04-01"
     }
   ]

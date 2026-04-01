@@ -5654,13 +5654,13 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-25,12:01,2026-03-19,AERO,"Grupo Aeromexico, S.A.B. De C.V.",Tricio Haro Eduardo,Dir,P - Purchase,1.32,1000000,15666980,+7%,1320000,False
 2026-03-25,16:24,2026-03-23,NEXT,Nextdecade Corp,Beall Pamela K.M.,Dir,P - Purchase,7.07,71500,108507,+193%,505505,False
 2026-03-25,16:15,2026-03-23,GO,Grocery Outlet Holding Corp.,Potter Jason J. N.,"Pres, CEO",P - Purchase,6.36,112808,687174,+20%,717174,True
-2026-03-25,16:02,2026-03-23,TISI,Team Inc,Stenger Edward J.,Dir,P - Purchase,16.00,5000,14890,+51%,79991,False
+2026-03-25,16:02,2026-03-23,TISI,Team Inc,Stenger Edward J.,Dir,P - Purchase,16.00,5000,14890,+51%,79991,True
 2026-03-25,16:01,2026-03-23,GSM,Ferroglobe Plc,Villar-Mir De Fuentes Silvia,Dir,P - Purchase,3.86,26000,273716,+10%,100324,True
 2026-03-25,16:01,2026-03-23,GSM,Ferroglobe Plc,Lopez Madrid Javier,Exec COB,P - Purchase,3.86,26000,299690,+9%,100324,True
 2026-03-25,17:29,2026-03-23,FRPH,"Frp Holdings, Inc.",Baker John D II,"Dir, 10%",P - Purchase,20.90,478468,3335861,+17%,9999981,False
 2026-03-25,16:30,2026-03-19,GLBS,Globus Maritime Ltd,Feidakis Georgios,Dir,P - Purchase,1.77,80032,5955827,+1%,141300,False
 2026-03-25,17:48,2026-03-25,BETR,Better Home & Finance Holding Co,Garg Vishal,"CEO, 10%",P - Purchase,29.90,2217,54877,+4%,66298,True
-2026-03-25,17:36,2026-03-23,RPC,"Ridgepost Capital, Inc.",McCoy David M.,See Remarks,P - Purchase,7.37,70000,270068,+35%,515900,False
+2026-03-25,17:36,2026-03-23,RPC,"Ridgepost Capital, Inc.",McCoy David M.,See Remarks,P - Purchase,7.37,70000,270068,+35%,515900,True
 2026-03-25,17:32,2026-03-24,TPST,"Tempest Therapeutics, Inc.",Angel Matthew,"CEO, Pres, 10%",P - Purchase,2.16,231482,5068552,+5%,500001,False
 2026-03-25,19:01,2026-03-19,HQ,Horizon Quantum Holdings Ltd.,Lambert Danielle,Dir,P - Purchase,11.82,84602,84602,New,999996,False
 2026-03-25,18:33,2026-03-23,MGM,Mgm Resorts International,Iac Inc.,10%,P - Purchase,37.22,1000000,66822350,+2%,37223500,False
@@ -5668,7 +5668,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-25,19:57,2026-03-13,TLPH,"Talphera, Inc.",Angotti Vincent J.,CEO,P - Purchase,0.59,213310,800705,+36%,125000,False
 2026-03-26,08:29,2026-03-24,BORR,Borr Drilling Ltd,Currie Jeffrey,Dir,P - Purchase,5.31,250000,354423,+239%,1327500,True
 2026-03-26,08:24,2026-03-24,BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,5.20,500000,25704808,+2%,2597900,True
-2026-03-26,10:36,2026-03-23,RPC,"Ridgepost Capital, Inc.",McCoy David M.,See Remarks,P - Purchase,7.37,70000,270068,+35%,515900,False
+2026-03-26,10:36,2026-03-23,RPC,"Ridgepost Capital, Inc.",McCoy David M.,See Remarks,P - Purchase,7.37,70000,270068,+35%,515900,True
 2026-03-26,10:24,2026-03-24,ALG,Alamo Group Inc,Grooms Nina C,Dir,P - Purchase,171.61,233,3077,+8%,39985,False
 2026-03-26,13:29,2026-03-26,BBSI,Barrett Business Services Inc,Finn Mark Steven,Dir,P - Purchase,29.40,1000,19943,+5%,29397,True
 2026-03-26,13:00,2026-03-25,PICS,Pics N.V.,Augusto Cazotto Andre,"IR, Strategy, M, A Officer",P - Purchase,11.55,6500,6500,New,75075,True
@@ -5769,3 +5769,21 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-01,15:19,2026-03-30,PGC,Peapack Gladstone Financial Corp,Kennedy Douglas L,"Pres, CEO",P - Purchase,35.21,11296,314178,+4%,397732,True
 2026-04-01,15:13,2025-08-22,FDSB,"Fifth District Bancorp, Inc.",Smith Shane Michael,Chief Credit Officer,P - Purchase,13.45,2701,19131,+16%,36338,False
 2026-04-01,14:51,2026-03-31,PGC,Peapack Gladstone Financial Corp,Cavallaro Frank A.,"SEVP, CFO",P - Purchase,34.95,2890,14714,+24%,101000,True
+2026-04-01,16:30,2026-03-31,ZBIO,"Zenas Biopharma, Inc.",Fairmount Funds Management LLC,Dir,P - Purchase,20.00,150000,2359025,+7%,3000000,True
+2026-04-01,16:30,2026-03-31,CNTB,Connect Biopharma Holdings Ltd,Huang James,Dir,P - Purchase,3.45,1160000,13160000,+10%,4002000,False
+2026-04-01,16:27,2026-03-30,DYN,"Dyne Therapeutics, Inc.",Posner Brian S,Dir,P - Purchase,17.08,2000,15500,+15%,34160,False
+2026-04-01,16:23,2026-03-20,TISI,Team Inc,Horton Anthony R,Dir,P - Purchase,14.84,13000,22082,+143%,192970,True
+2026-04-01,16:16,2026-03-31,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,14.44,2000,1594013,0%,28880,True
+2026-04-01,16:15,2026-03-30,LODE,Comstock Inc.,Drozdoff Leo M,Dir,P - Purchase,3.00,28000,178481,+19%,84000,False
+2026-04-01,16:15,2026-03-31,GLBS,Globus Maritime Ltd,Feidakis Georgios,Dir,P - Purchase,2.14,375145,6357467,+6%,801835,False
+2026-04-01,16:15,2026-03-30,POCI,"Precision Optics Corporation, Inc.",Coll Wayne M,CFO,P - Purchase,3.60,20833,35239,+145%,74999,True
+2026-04-01,16:15,2026-03-30,POCI,"Precision Optics Corporation, Inc.",Traut Joseph,COO,P - Purchase,3.60,41666,41666,New,149998,True
+2026-04-01,16:11,2026-03-31,VTS,"Vitesse Energy, Inc.",O Leary Dan,Dir,P - Purchase,18.56,10000,33789,+42%,185600,True
+2026-04-01,16:08,2026-03-31,RPC,"Ridgepost Capital, Inc.",Stewart Robert B Jr,Dir,P - Purchase,7.27,7000,156525,+5%,50890,True
+2026-04-01,16:05,2026-03-30,VTS,"Vitesse Energy, Inc.",Henderson James P,CFO,P - Purchase,18.69,10000,176204,+6%,186900,True
+2026-04-01,16:05,2026-03-30,PVLA,"Palvella Therapeutics, Inc.",Jenkins George M,Dir,P - Purchase,112.30,445,201132,0%,49974,False
+2026-04-01,16:05,2026-04-01,ALT,"Altimmune, Inc.",Weaver Gregory L,CFO,P - Purchase,3.15,10000,38078,+36%,31499,True
+2026-04-01,16:05,2026-04-01,ALT,"Altimmune, Inc.",Durso Jerome Benedict,"Pres, CEO",P - Purchase,3.14,15000,47500,+46%,47100,True
+2026-04-01,15:58,2026-03-31,SPG,Simon Property Group Inc.,Stewart Marta R,Dir,P - Purchase,183.80,196,16696,+1%,36025,True
+2026-04-01,15:56,2026-03-31,SPG,Simon Property Group Inc.,Smith Daniel C.,Dir,P - Purchase,183.80,355,33035,+1%,65249,True
+2026-04-01,15:54,2026-03-31,SPG,Simon Property Group Inc.,Selig Stefan M,Dir,P - Purchase,183.80,206,32483,+1%,37863,True
