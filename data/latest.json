@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T17:43:08Z",
-  "trade_count": 5762,
+  "last_updated": "2026-04-01T18:48:39Z",
+  "trade_count": 5763,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -92193,6 +92193,22 @@
       "delta_own": "+5%",
       "value": "34527",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-01",
+      "filing_time": "14:42",
+      "trade_date": "2026-03-30",
+      "ticker": "PGC",
+      "company": "Peapack Gladstone Financial Corp",
+      "insider_name": "Campion Patrick",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "34.97",
+      "qty": "1430",
+      "owned": "3105",
+      "delta_own": "+85%",
+      "value": "49993",
+      "cluster_buy": false
     }
   ]
 }
