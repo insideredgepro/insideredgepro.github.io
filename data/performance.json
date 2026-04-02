@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-01",
-  "entry_count": 650,
+  "entry_count": 651,
   "entries": [
     {
       "id": "US|CABO|2026-03-03|Koetje Todd M",
@@ -21008,6 +21008,26 @@
       "latest_price": null,
       "return_pct": null,
       "last_snapshot": null
+    },
+    {
+      "id": "US|UUU|2026-03-30|Ault Milton C III",
+      "market": "US",
+      "ticker": "UUU",
+      "yf_symbol": "UUU",
+      "company": "Universal Safety Products, Inc.",
+      "insider_name": "Ault Milton C III",
+      "title": "Dir, 10%",
+      "trade_date": "2026-03-30",
+      "trade_price": 5.77,
+      "value": 72808.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-01": 5.5
+      },
+      "latest_price": 5.5,
+      "return_pct": -4.68,
+      "last_snapshot": "2026-04-01"
     }
   ]
 }

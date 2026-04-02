@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T23:29:41Z",
-  "trade_count": 5791,
+  "last_updated": "2026-04-02T01:24:09Z",
+  "trade_count": 5792,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -92656,6 +92656,22 @@
       "owned": "4666069",
       "delta_own": "+7%",
       "value": "3040000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-01",
+      "filing_time": "19:38",
+      "trade_date": "2026-03-30",
+      "ticker": "UUU",
+      "company": "Universal Safety Products, Inc.",
+      "insider_name": "Ault Milton C III",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "5.77",
+      "qty": "12608",
+      "owned": "713452",
+      "delta_own": "+2%",
+      "value": "72808",
       "cluster_buy": false
     }
   ]
