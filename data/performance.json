@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-02",
-  "entry_count": 633,
+  "entry_count": 634,
   "entries": [
     {
       "id": "US|MORN|2026-03-04|Holt Michael",
@@ -20681,6 +20681,26 @@
       },
       "latest_price": 9.25,
       "return_pct": 357.92,
+      "last_snapshot": "2026-04-02"
+    },
+    {
+      "id": "US|CRT|2026-03-31|Oliver Eric L",
+      "market": "US",
+      "ticker": "CRT",
+      "yf_symbol": "CRT",
+      "company": "Cross Timbers Royalty Trust",
+      "insider_name": "Oliver Eric L",
+      "title": "10%",
+      "trade_date": "2026-03-31",
+      "trade_price": 10.5,
+      "value": 135377.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-02": 10.59
+      },
+      "latest_price": 10.59,
+      "return_pct": 0.86,
       "last_snapshot": "2026-04-02"
     }
   ]
