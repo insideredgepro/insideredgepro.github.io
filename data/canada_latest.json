@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T23:00:27Z",
-  "trade_count": 2788,
+  "last_updated": "2026-04-02T01:00:21Z",
+  "trade_count": 2791,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42160,6 +42160,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4694795",
+      "trade_date": "2026-04-01",
+      "filing_date": "2026-04-01",
+      "company": "B2Gold Corp.",
+      "ticker": "BTO",
+      "insider_name": "Lytle, William",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "34184",
+      "price": "6.4200",
+      "value": "219461",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4694800",
+      "trade_date": "2026-04-01",
+      "filing_date": "2026-04-01",
+      "company": "Peyto Exploration and Development Corp.",
+      "ticker": "",
+      "insider_name": "Lachance, Jean-Paul Henri",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "2100",
+      "price": "26.2500",
+      "value": "55125",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4694776",
+      "trade_date": "2026-04-01",
+      "filing_date": "2026-04-01",
+      "company": "Standard Lithium Ltd.",
+      "ticker": "SLI",
+      "insider_name": "Robinson, James Andrew Charles",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "4.8400",
+      "value": "48400",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
