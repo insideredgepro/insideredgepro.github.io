@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-02T21:00:17Z",
-  "trade_count": 2795,
+  "last_updated": "2026-04-02T23:00:18Z",
+  "trade_count": 2797,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42269,6 +42269,38 @@
       "qty": "35000",
       "price": "1.4400",
       "value": "50400",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4697331",
+      "trade_date": "2026-04-02",
+      "filing_date": "2026-04-02",
+      "company": "RFA Financial Inc.",
+      "ticker": "RFA",
+      "insider_name": "Manji, Samir Aziz",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "3000",
+      "price": "24.8767",
+      "value": "74630",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4697332",
+      "trade_date": "2026-04-02",
+      "filing_date": "2026-04-02",
+      "company": "RFA Financial Inc.",
+      "ticker": "RFA",
+      "insider_name": "Manji, Samir Aziz",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "2500",
+      "price": "25.4384",
+      "value": "63596",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
