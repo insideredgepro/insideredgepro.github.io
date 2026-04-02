@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-02",
-  "entry_count": 623,
+  "entry_count": 629,
   "entries": [
     {
       "id": "US|MORN|2026-03-04|Holt Michael",
@@ -6167,8 +6167,8 @@
         "2026-04-01": 8.1,
         "2026-04-02": 8.2
       },
-      "latest_price": 8.11,
-      "return_pct": 2.53,
+      "latest_price": 8.14,
+      "return_pct": 2.91,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -9590,8 +9590,8 @@
         "2026-04-01": 0.731,
         "2026-04-02": 0.73
       },
-      "latest_price": 0.75,
-      "return_pct": 212.5,
+      "latest_price": 0.73,
+      "return_pct": 204.17,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -12448,8 +12448,8 @@
         "2026-04-01": 8.1,
         "2026-04-02": 8.2
       },
-      "latest_price": 8.11,
-      "return_pct": -1.58,
+      "latest_price": 8.14,
+      "return_pct": -1.21,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -14828,8 +14828,8 @@
         "2026-04-01": 8.1,
         "2026-04-02": 8.2
       },
-      "latest_price": 8.11,
-      "return_pct": -5.7,
+      "latest_price": 8.14,
+      "return_pct": -5.35,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -16116,8 +16116,8 @@
         "2026-04-01": 0.731,
         "2026-04-02": 0.73
       },
-      "latest_price": 0.75,
-      "return_pct": 212.5,
+      "latest_price": 0.73,
+      "return_pct": 204.17,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -17397,8 +17397,8 @@
         "2026-04-01": 15.94,
         "2026-04-02": 15.94
       },
-      "latest_price": 15.8,
-      "return_pct": -1.25,
+      "latest_price": 16.2049,
+      "return_pct": 1.28,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -19029,8 +19029,8 @@
         "2026-04-01": 0.3072,
         "2026-04-02": 0.301
       },
-      "latest_price": 0.301,
-      "return_pct": 652.5,
+      "latest_price": 0.3045,
+      "return_pct": 661.25,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -20004,8 +20004,8 @@
         "2026-04-01": 15.94,
         "2026-04-02": 15.94
       },
-      "latest_price": 15.8,
-      "return_pct": 6.47,
+      "latest_price": 16.2049,
+      "return_pct": 9.2,
       "last_snapshot": "2026-04-02"
     },
     {
@@ -20481,6 +20481,126 @@
       },
       "latest_price": 1.18,
       "return_pct": -1.67,
+      "last_snapshot": "2026-04-02"
+    },
+    {
+      "id": "US|PRHI|2026-04-01|Roney Brian J",
+      "market": "US",
+      "ticker": "PRHI",
+      "yf_symbol": "PRHI",
+      "company": "Presurance Holdings, Inc.",
+      "insider_name": "Roney Brian J",
+      "title": "CEO",
+      "trade_date": "2026-04-01",
+      "trade_price": 0.72,
+      "value": 71810.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-02": 0.7306
+      },
+      "latest_price": 0.7306,
+      "return_pct": 1.47,
+      "last_snapshot": "2026-04-02"
+    },
+    {
+      "id": "US|XZO|2026-04-01|Patel Paresh",
+      "market": "US",
+      "ticker": "XZO",
+      "yf_symbol": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Patel Paresh",
+      "title": "CEO",
+      "trade_date": "2026-04-01",
+      "trade_price": 14.94,
+      "value": 29880.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-02": 14.33
+      },
+      "latest_price": 14.33,
+      "return_pct": -4.08,
+      "last_snapshot": "2026-04-02"
+    },
+    {
+      "id": "US|SVRE|2026-03-23|Visionwave Holdings, Inc.",
+      "market": "US",
+      "ticker": "SVRE",
+      "yf_symbol": "SVRE",
+      "company": "Saverone 2014 Ltd.",
+      "insider_name": "Visionwave Holdings, Inc.",
+      "title": "Dir",
+      "trade_date": "2026-03-23",
+      "trade_price": 3.0,
+      "value": 1085400000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-02": 3.14
+      },
+      "latest_price": 3.14,
+      "return_pct": 4.67,
+      "last_snapshot": "2026-04-02"
+    },
+    {
+      "id": "US|FGBI|2026-03-31|Smith Edgar R. III",
+      "market": "US",
+      "ticker": "FGBI",
+      "yf_symbol": "FGBI",
+      "company": "First Guaranty Bancshares, Inc.",
+      "insider_name": "Smith Edgar R. III",
+      "title": "Dir, 10%",
+      "trade_date": "2026-03-31",
+      "trade_price": 7.77,
+      "value": 1072905.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-02": 8.81
+      },
+      "latest_price": 8.81,
+      "return_pct": 13.38,
+      "last_snapshot": "2026-04-02"
+    },
+    {
+      "id": "US|FGBI|2026-03-31|Reynolds Marshall T",
+      "market": "US",
+      "ticker": "FGBI",
+      "yf_symbol": "FGBI",
+      "company": "First Guaranty Bancshares, Inc.",
+      "insider_name": "Reynolds Marshall T",
+      "title": "Dir, 10%",
+      "trade_date": "2026-03-31",
+      "trade_price": 7.77,
+      "value": 250008.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-02": 8.81
+      },
+      "latest_price": 8.81,
+      "return_pct": 13.38,
+      "last_snapshot": "2026-04-02"
+    },
+    {
+      "id": "US|FGBI|2026-03-31|McAnally Bruce",
+      "market": "US",
+      "ticker": "FGBI",
+      "yf_symbol": "FGBI",
+      "company": "First Guaranty Bancshares, Inc.",
+      "insider_name": "McAnally Bruce",
+      "title": "Dir",
+      "trade_date": "2026-03-31",
+      "trade_price": 7.77,
+      "value": 250008.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-02": 8.81
+      },
+      "latest_price": 8.81,
+      "return_pct": 13.38,
       "last_snapshot": "2026-04-02"
     }
   ]
