@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-02",
-  "entry_count": 629,
+  "entry_count": 633,
   "entries": [
     {
       "id": "US|MORN|2026-03-04|Holt Michael",
@@ -20601,6 +20601,86 @@
       },
       "latest_price": 8.81,
       "return_pct": 13.38,
+      "last_snapshot": "2026-04-02"
+    },
+    {
+      "id": "US|WCC|2026-03-31|Castillo Daniel J",
+      "market": "US",
+      "ticker": "WCC",
+      "yf_symbol": "WCC",
+      "company": "Wesco International Inc",
+      "insider_name": "Castillo Daniel J",
+      "title": "EVP, GM, EES",
+      "trade_date": "2026-03-31",
+      "trade_price": 266.06,
+      "value": 372484.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-02": 282.46
+      },
+      "latest_price": 282.46,
+      "return_pct": 6.16,
+      "last_snapshot": "2026-04-02"
+    },
+    {
+      "id": "US|AXR|2026-03-31|Dahl James H",
+      "market": "US",
+      "ticker": "AXR",
+      "yf_symbol": "AXR",
+      "company": "Amrep Corp.",
+      "insider_name": "Dahl James H",
+      "title": "10%",
+      "trade_date": "2026-03-31",
+      "trade_price": 27.92,
+      "value": 57521.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-02": 28.05
+      },
+      "latest_price": 28.05,
+      "return_pct": 0.47,
+      "last_snapshot": "2026-04-02"
+    },
+    {
+      "id": "US|SPRU|2026-03-31|Steel Partners Holdings L.P.",
+      "market": "US",
+      "ticker": "SPRU",
+      "yf_symbol": "SPRU",
+      "company": "Spruce Power Holding Corp",
+      "insider_name": "Steel Partners Holdings L.P.",
+      "title": "10%",
+      "trade_date": "2026-03-31",
+      "trade_price": 4.03,
+      "value": 50914.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-02": 4.11
+      },
+      "latest_price": 4.11,
+      "return_pct": 1.99,
+      "last_snapshot": "2026-04-02"
+    },
+    {
+      "id": "US|LPCN|2026-04-02|Patel Mahesh V.",
+      "market": "US",
+      "ticker": "LPCN",
+      "yf_symbol": "LPCN",
+      "company": "Lipocine Inc.",
+      "insider_name": "Patel Mahesh V.",
+      "title": "CEO",
+      "trade_date": "2026-04-02",
+      "trade_price": 2.02,
+      "value": 50500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-02": 9.25
+      },
+      "latest_price": 9.25,
+      "return_pct": 357.92,
       "last_snapshot": "2026-04-02"
     }
   ]
