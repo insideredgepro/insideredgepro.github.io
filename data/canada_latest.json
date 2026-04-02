@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-02T01:00:21Z",
-  "trade_count": 2791,
+  "last_updated": "2026-04-02T03:00:27Z",
+  "trade_count": 2792,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42205,6 +42205,22 @@
       "qty": "10000",
       "price": "4.8400",
       "value": "48400",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4694869",
+      "trade_date": "2026-04-01",
+      "filing_date": "2026-04-01",
+      "company": "Naughty Ventures Corp.",
+      "ticker": "BAD.CN",
+      "insider_name": "Naughty, Blair Lawrence",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "205000",
+      "price": "0.1500",
+      "value": "30750",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
