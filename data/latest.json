@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-03T20:26:56Z",
-  "trade_count": 5818,
+  "last_updated": "2026-04-03T21:25:24Z",
+  "trade_count": 5820,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93089,6 +93089,38 @@
       "delta_own": "0%",
       "value": "27580",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-03",
+      "filing_time": "17:19",
+      "trade_date": "2026-04-01",
+      "ticker": "MFJ",
+      "company": "Virtus Dividend, Interest & Premium Strategy Fund",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "12.65",
+      "qty": "3509",
+      "owned": "10216703",
+      "delta_own": "0%",
+      "value": "44389",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-03",
+      "filing_time": "17:06",
+      "trade_date": "2026-04-02",
+      "ticker": "ANVS",
+      "company": "Annovis Bio, Inc.",
+      "insider_name": "Hoffman Michael B",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.10",
+      "qty": "713800",
+      "owned": "3511896",
+      "delta_own": "+26%",
+      "value": "1498980",
+      "cluster_buy": false
     }
   ]
 }
