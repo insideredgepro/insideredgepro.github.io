@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-03T17:26:50Z",
-  "trade_count": 5814,
+  "last_updated": "2026-04-03T18:35:53Z",
+  "trade_count": 5817,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93024,6 +93024,54 @@
       "owned": "34551",
       "delta_own": "+10%",
       "value": "494591",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-03",
+      "filing_time": "14:14",
+      "trade_date": "2026-04-01",
+      "ticker": "RPAY",
+      "company": "Repay Holdings Corp",
+      "insider_name": "Forager Fund, L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.54",
+      "qty": "950000",
+      "owned": "10192937",
+      "delta_own": "+10%",
+      "value": "2408384",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-03",
+      "filing_time": "13:49",
+      "trade_date": "2026-04-01",
+      "ticker": "VALE",
+      "company": "Vale S.A.",
+      "insider_name": "Arap Sobrinho Sami",
+      "title": "EVP Legal Officer",
+      "trade_type": "P - Purchase",
+      "price": "16.11",
+      "qty": "12990",
+      "owned": "25980",
+      "delta_own": "+100%",
+      "value": "209290",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-03",
+      "filing_time": "13:39",
+      "trade_date": "2026-04-01",
+      "ticker": "VALE",
+      "company": "Vale S.A.",
+      "insider_name": "Tallia Parenti Grazielle",
+      "title": "Officer, Sustainability",
+      "trade_type": "P - Purchase",
+      "price": "16.11",
+      "qty": "10464",
+      "owned": "20938",
+      "delta_own": "+100%",
+      "value": "168592",
       "cluster_buy": true
     }
   ]
