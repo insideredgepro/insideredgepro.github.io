@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-03",
-  "entry_count": 612,
+  "entry_count": 613,
   "entries": [
     {
       "id": "US|IHRT|2026-03-05|Pittman Robert W",
@@ -20420,6 +20420,26 @@
       },
       "latest_price": 2,
       "return_pct": 60.0,
+      "last_snapshot": "2026-04-03"
+    },
+    {
+      "id": "US|VVOS|2026-03-31|Skaff Michael C",
+      "market": "US",
+      "ticker": "VVOS",
+      "yf_symbol": "VVOS",
+      "company": "Vivos Therapeutics, Inc.",
+      "insider_name": "Skaff Michael C",
+      "title": "10%",
+      "trade_date": "2026-03-31",
+      "trade_price": 1.34,
+      "value": 1813858.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-03": 1.32
+      },
+      "latest_price": 1.32,
+      "return_pct": -1.49,
       "last_snapshot": "2026-04-03"
     }
   ]
