@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-06",
-  "entry_count": 531,
+  "entry_count": 535,
   "entries": [
     {
       "id": "US|HOG|2026-03-09|Flees Lori Ann",
@@ -5440,8 +5440,8 @@
         "2026-04-05": 0.77,
         "2026-04-06": 0.77
       },
-      "latest_price": 0.779,
-      "return_pct": 224.58,
+      "latest_price": 0.7699,
+      "return_pct": 220.79,
       "last_snapshot": "2026-04-06"
     },
     {
@@ -5840,8 +5840,8 @@
         "2026-04-05": 11.3,
         "2026-04-06": 11.3
       },
-      "latest_price": 11.33,
-      "return_pct": -24.47,
+      "latest_price": 11.3878,
+      "return_pct": -24.08,
       "last_snapshot": "2026-04-06"
     },
     {
@@ -12742,8 +12742,8 @@
         "2026-04-05": 0.77,
         "2026-04-06": 0.77
       },
-      "latest_price": 0.779,
-      "return_pct": 224.58,
+      "latest_price": 0.7699,
+      "return_pct": 220.79,
       "last_snapshot": "2026-04-06"
     },
     {
@@ -18443,6 +18443,86 @@
       },
       "latest_price": 18.82,
       "return_pct": -5.9,
+      "last_snapshot": "2026-04-06"
+    },
+    {
+      "id": "US|VSCO|2026-04-02|Sheehan Anne",
+      "market": "US",
+      "ticker": "VSCO",
+      "yf_symbol": "VSCO",
+      "company": "Victoria'S Secret & Co.",
+      "insider_name": "Sheehan Anne",
+      "title": "Dir",
+      "trade_date": "2026-04-02",
+      "trade_price": 45.86,
+      "value": 222054.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-06": 46
+      },
+      "latest_price": 46,
+      "return_pct": 0.31,
+      "last_snapshot": "2026-04-06"
+    },
+    {
+      "id": "US|VSCO|2026-04-02|James Donna",
+      "market": "US",
+      "ticker": "VSCO",
+      "yf_symbol": "VSCO",
+      "company": "Victoria'S Secret & Co.",
+      "insider_name": "James Donna",
+      "title": "Dir",
+      "trade_date": "2026-04-02",
+      "trade_price": 46.23,
+      "value": 100550.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-06": 46
+      },
+      "latest_price": 46,
+      "return_pct": -0.5,
+      "last_snapshot": "2026-04-06"
+    },
+    {
+      "id": "US|SCVL|2026-04-02|Jackson W Kerry",
+      "market": "US",
+      "ticker": "SCVL",
+      "yf_symbol": "SCVL",
+      "company": "Shoe Carnival Inc",
+      "insider_name": "Jackson W Kerry",
+      "title": "EVP - CFO",
+      "trade_date": "2026-04-02",
+      "trade_price": 16.13,
+      "value": 500030.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-06": 16
+      },
+      "latest_price": 16,
+      "return_pct": -0.81,
+      "last_snapshot": "2026-04-06"
+    },
+    {
+      "id": "US|ALT|2026-04-06|Gill John",
+      "market": "US",
+      "ticker": "ALT",
+      "yf_symbol": "ALT",
+      "company": "Altimmune, Inc.",
+      "insider_name": "Gill John",
+      "title": "Dir",
+      "trade_date": "2026-04-06",
+      "trade_price": 3.41,
+      "value": 31350.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-06": 3.34
+      },
+      "latest_price": 3.34,
+      "return_pct": -2.05,
       "last_snapshot": "2026-04-06"
     }
   ]

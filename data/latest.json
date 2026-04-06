@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T19:45:48Z",
-  "trade_count": 5830,
+  "last_updated": "2026-04-06T20:31:04Z",
+  "trade_count": 5834,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93280,6 +93280,70 @@
       "owned": "147338",
       "delta_own": "+51%",
       "value": "1000000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-06",
+      "filing_time": "16:09",
+      "trade_date": "2026-04-02",
+      "ticker": "VSCO",
+      "company": "Victoria'S Secret & Co.",
+      "insider_name": "Sheehan Anne",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "45.86",
+      "qty": "4842",
+      "owned": "34261",
+      "delta_own": "+16%",
+      "value": "222054",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-06",
+      "filing_time": "16:09",
+      "trade_date": "2026-04-02",
+      "ticker": "VSCO",
+      "company": "Victoria'S Secret & Co.",
+      "insider_name": "James Donna",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "46.23",
+      "qty": "2175",
+      "owned": "63097",
+      "delta_own": "+4%",
+      "value": "100550",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-06",
+      "filing_time": "16:06",
+      "trade_date": "2026-04-02",
+      "ticker": "SCVL",
+      "company": "Shoe Carnival Inc",
+      "insider_name": "Jackson W Kerry",
+      "title": "EVP - CFO",
+      "trade_type": "P - Purchase",
+      "price": "16.13",
+      "qty": "31000",
+      "owned": "215529",
+      "delta_own": "+17%",
+      "value": "500030",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-06",
+      "filing_time": "16:05",
+      "trade_date": "2026-04-06",
+      "ticker": "ALT",
+      "company": "Altimmune, Inc.",
+      "insider_name": "Gill John",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.41",
+      "qty": "9200",
+      "owned": "21700",
+      "delta_own": "+74%",
+      "value": "31350",
       "cluster_buy": true
     }
   ]
