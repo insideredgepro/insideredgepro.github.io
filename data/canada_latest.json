@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T17:01:21Z",
-  "trade_count": 2797,
+  "last_updated": "2026-04-06T19:01:13Z",
+  "trade_count": 2798,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42301,6 +42301,22 @@
       "qty": "2500",
       "price": "25.4384",
       "value": "63596",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4698757",
+      "trade_date": "2026-04-06",
+      "filing_date": "2026-04-06",
+      "company": "NexMetals Mining Corp",
+      "ticker": "NEXM",
+      "insider_name": "Whiteford, Sean Michael",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "9018",
+      "price": "2.4600",
+      "value": "22184",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
