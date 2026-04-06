@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-06",
-  "entry_count": 527,
+  "entry_count": 528,
   "entries": [
     {
       "id": "US|HOG|2026-03-09|Flees Lori Ann",
@@ -5440,8 +5440,8 @@
         "2026-04-05": 0.77,
         "2026-04-06": 0.77
       },
-      "latest_price": 0.73,
-      "return_pct": 204.17,
+      "latest_price": 0.779,
+      "return_pct": 224.58,
       "last_snapshot": "2026-04-06"
     },
     {
@@ -12742,8 +12742,8 @@
         "2026-04-05": 0.77,
         "2026-04-06": 0.77
       },
-      "latest_price": 0.73,
-      "return_pct": 204.17,
+      "latest_price": 0.779,
+      "return_pct": 224.58,
       "last_snapshot": "2026-04-06"
     },
     {
@@ -18363,6 +18363,26 @@
       },
       "latest_price": 8.67,
       "return_pct": -0.12,
+      "last_snapshot": "2026-04-06"
+    },
+    {
+      "id": "US|HMH|2026-04-02|Bergsvik Eirik",
+      "market": "US",
+      "ticker": "HMH",
+      "yf_symbol": "HMH",
+      "company": "Hmh Holding Inc",
+      "insider_name": "Bergsvik Eirik",
+      "title": "CEO",
+      "trade_date": "2026-04-02",
+      "trade_price": 20.0,
+      "value": 200000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-06": 18.82
+      },
+      "latest_price": 18.82,
+      "return_pct": -5.9,
       "last_snapshot": "2026-04-06"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T17:38:14Z",
-  "trade_count": 5826,
+  "last_updated": "2026-04-06T18:44:29Z",
+  "trade_count": 5827,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93216,6 +93216,22 @@
       "owned": "0",
       "delta_own": "-100%",
       "value": "29156",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-06",
+      "filing_time": "14:37",
+      "trade_date": "2026-04-02",
+      "ticker": "HMH",
+      "company": "Hmh Holding Inc",
+      "insider_name": "Bergsvik Eirik",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "20.00",
+      "qty": "10000",
+      "owned": "121858",
+      "delta_own": "+9%",
+      "value": "200000",
       "cluster_buy": false
     }
   ]
