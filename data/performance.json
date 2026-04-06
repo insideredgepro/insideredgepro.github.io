@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-06",
-  "entry_count": 537,
+  "entry_count": 539,
   "entries": [
     {
       "id": "US|HOG|2026-03-09|Flees Lori Ann",
@@ -18563,6 +18563,46 @@
       },
       "latest_price": 8.59,
       "return_pct": -0.23,
+      "last_snapshot": "2026-04-06"
+    },
+    {
+      "id": "US|LPCN|2026-04-06|Higuchi John W.",
+      "market": "US",
+      "ticker": "LPCN",
+      "yf_symbol": "LPCN",
+      "company": "Lipocine Inc.",
+      "insider_name": "Higuchi John W.",
+      "title": "Dir",
+      "trade_date": "2026-04-06",
+      "trade_price": 2.05,
+      "value": 252150.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-06": 2.05
+      },
+      "latest_price": 2.05,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-04-06"
+    },
+    {
+      "id": "US|LPCN|2026-04-06|Patel Mahesh V.",
+      "market": "US",
+      "ticker": "LPCN",
+      "yf_symbol": "LPCN",
+      "company": "Lipocine Inc.",
+      "insider_name": "Patel Mahesh V.",
+      "title": "CEO",
+      "trade_date": "2026-04-06",
+      "trade_price": 2.03,
+      "value": 50750.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-06": 2.05
+      },
+      "latest_price": 2.05,
+      "return_pct": 0.99,
       "last_snapshot": "2026-04-06"
     }
   ]

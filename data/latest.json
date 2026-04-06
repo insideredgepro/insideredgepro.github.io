@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T22:27:23Z",
-  "trade_count": 5837,
+  "last_updated": "2026-04-06T23:27:46Z",
+  "trade_count": 5839,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -92944,7 +92944,7 @@
       "owned": "135679",
       "delta_own": "+23%",
       "value": "50500",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-02",
@@ -93393,6 +93393,38 @@
       "delta_own": "+253%",
       "value": "258238",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-06",
+      "filing_time": "19:01",
+      "trade_date": "2026-04-06",
+      "ticker": "LPCN",
+      "company": "Lipocine Inc.",
+      "insider_name": "Higuchi John W.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.05",
+      "qty": "123000",
+      "owned": "163797",
+      "delta_own": "+301%",
+      "value": "252150",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-06",
+      "filing_time": "18:33",
+      "trade_date": "2026-04-06",
+      "ticker": "LPCN",
+      "company": "Lipocine Inc.",
+      "insider_name": "Patel Mahesh V.",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.03",
+      "qty": "25000",
+      "owned": "160679",
+      "delta_own": "+18%",
+      "value": "50750",
+      "cluster_buy": true
     }
   ]
 }
