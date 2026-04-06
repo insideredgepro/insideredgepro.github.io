@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-06",
-  "entry_count": 535,
+  "entry_count": 537,
   "entries": [
     {
       "id": "US|HOG|2026-03-09|Flees Lori Ann",
@@ -18523,6 +18523,46 @@
       },
       "latest_price": 3.34,
       "return_pct": -2.05,
+      "last_snapshot": "2026-04-06"
+    },
+    {
+      "id": "US|BETR|2026-04-02|Talwar Harit",
+      "market": "US",
+      "ticker": "BETR",
+      "yf_symbol": "BETR",
+      "company": "Better Home & Finance Holding Co",
+      "insider_name": "Talwar Harit",
+      "title": "Dir",
+      "trade_date": "2026-04-02",
+      "trade_price": 35.24,
+      "value": 176218.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-06": 37.61
+      },
+      "latest_price": 37.61,
+      "return_pct": 6.73,
+      "last_snapshot": "2026-04-06"
+    },
+    {
+      "id": "US|CODI|2026-04-06|Keller Stephen",
+      "market": "US",
+      "ticker": "CODI",
+      "yf_symbol": "CODI",
+      "company": "Compass Diversified Holdings",
+      "insider_name": "Keller Stephen",
+      "title": "See Remark (a)",
+      "trade_date": "2026-04-06",
+      "trade_price": 8.61,
+      "value": 258238.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-06": 8.59
+      },
+      "latest_price": 8.59,
+      "return_pct": -0.23,
       "last_snapshot": "2026-04-06"
     }
   ]

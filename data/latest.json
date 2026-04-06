@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T20:31:04Z",
-  "trade_count": 5834,
+  "last_updated": "2026-04-06T21:31:08Z",
+  "trade_count": 5837,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93345,6 +93345,54 @@
       "delta_own": "+74%",
       "value": "31350",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-06",
+      "filing_time": "17:20",
+      "trade_date": "2026-04-02",
+      "ticker": "BETR",
+      "company": "Better Home & Finance Holding Co",
+      "insider_name": "Talwar Harit",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "35.24",
+      "qty": "5000",
+      "owned": "30698",
+      "delta_own": "+19%",
+      "value": "176218",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-06",
+      "filing_time": "17:14",
+      "trade_date": "2026-04-02",
+      "ticker": "VSCO",
+      "company": "Victoria'S Secret & Co.",
+      "insider_name": "Sheehan Anne",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "45.86",
+      "qty": "633",
+      "owned": "30052",
+      "delta_own": "+2%",
+      "value": "29029",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-06",
+      "filing_time": "17:09",
+      "trade_date": "2026-04-06",
+      "ticker": "CODI",
+      "company": "Compass Diversified Holdings",
+      "insider_name": "Keller Stephen",
+      "title": "See Remark (a)",
+      "trade_type": "P - Purchase",
+      "price": "8.61",
+      "qty": "30000",
+      "owned": "41840",
+      "delta_own": "+253%",
+      "value": "258238",
+      "cluster_buy": false
     }
   ]
 }
