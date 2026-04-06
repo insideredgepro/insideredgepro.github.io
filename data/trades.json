@@ -1790,7 +1790,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817681+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366826+00:00"
   },
   {
     "id": "10000064809",
@@ -1811,7 +1811,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817780+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366975+00:00"
   },
   {
     "id": "10000064810",
@@ -1832,7 +1832,175 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817785+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366982+00:00"
+  },
+  {
+    "id": "10000064815",
+    "politician_name": "John Fetterman",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "Micron Technology Inc",
+    "ticker": "MU:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-30",
+    "trade_published": "2026-04-03",
+    "filed_after_days": "4",
+    "price": "$321.80",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-04-06T06:21:32.366892+00:00"
+  },
+  {
+    "id": "10000064816",
+    "politician_name": "John Fetterman",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "Microsoft Corp",
+    "ticker": "MSFT:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-30",
+    "trade_published": "2026-04-03",
+    "filed_after_days": "4",
+    "price": "$358.96",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-04-06T06:21:32.366898+00:00"
+  },
+  {
+    "id": "10000064817",
+    "politician_name": "John Fetterman",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "Erie Indemnity Co",
+    "ticker": "ERIE:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-30",
+    "trade_published": "2026-04-03",
+    "filed_after_days": "4",
+    "price": "$247.99",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-04-06T06:21:32.366903+00:00"
+  },
+  {
+    "id": "10000064818",
+    "politician_name": "John Fetterman",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "Alphabet Inc",
+    "ticker": "GOOGL:US",
+    "sector": "communication-services",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-30",
+    "trade_published": "2026-04-03",
+    "filed_after_days": "4",
+    "price": "$273.14",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-04-06T06:21:32.366908+00:00"
+  },
+  {
+    "id": "10000064819",
+    "politician_name": "John Fetterman",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "Amazon.com Inc",
+    "ticker": "AMZN:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-30",
+    "trade_published": "2026-04-03",
+    "filed_after_days": "4",
+    "price": "$200.95",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-04-06T06:21:32.366914+00:00"
+  },
+  {
+    "id": "10000064811",
+    "politician_name": "John Fetterman",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "AT&T Inc",
+    "ticker": "T:US",
+    "sector": "communication-services",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-27",
+    "trade_published": "2026-04-03",
+    "filed_after_days": "7",
+    "price": "$29.10",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-04-06T06:21:32.366856+00:00"
+  },
+  {
+    "id": "10000064812",
+    "politician_name": "John Fetterman",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "Microsoft Corp",
+    "ticker": "MSFT:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-27",
+    "trade_published": "2026-04-03",
+    "filed_after_days": "7",
+    "price": "$356.77",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-04-06T06:21:32.366862+00:00"
+  },
+  {
+    "id": "10000064813",
+    "politician_name": "John Fetterman",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "Erie Indemnity Co",
+    "ticker": "ERIE:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-27",
+    "trade_published": "2026-04-03",
+    "filed_after_days": "7",
+    "price": "$240.87",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-04-06T06:21:32.366878+00:00"
   },
   {
     "id": "10000064822",
@@ -1853,7 +2021,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817687+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366837+00:00"
   },
   {
     "id": "10000064823",
@@ -1874,7 +2042,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817693+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366844+00:00"
   },
   {
     "id": "20003796433",
@@ -1895,7 +2063,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-04-06T04:45:14.817708+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366919+00:00"
   },
   {
     "id": "20003796434",
@@ -1916,7 +2084,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-04-06T04:45:14.817714+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366924+00:00"
   },
   {
     "id": "20003795785",
@@ -1937,7 +2105,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Description: Sold 75 shares at $72.22 for a total of $5,416.50.",
-    "scraped_at": "2026-04-06T04:45:14.817877+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367072+00:00"
   },
   {
     "id": "20003795776",
@@ -1958,7 +2126,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817939+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367135+00:00"
   },
   {
     "id": "20003795781",
@@ -1979,7 +2147,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817963+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367163+00:00"
   },
   {
     "id": "20003795780",
@@ -2000,7 +2168,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817957+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367158+00:00"
   },
   {
     "id": "20003795779",
@@ -2021,7 +2189,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817953+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367149+00:00"
   },
   {
     "id": "10000064807",
@@ -2042,7 +2210,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5.5% Matures: 2050-01-01",
-    "scraped_at": "2026-04-06T04:45:14.817863+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367058+00:00"
   },
   {
     "id": "20003795778",
@@ -2063,7 +2231,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817948+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367144+00:00"
   },
   {
     "id": "20003796414",
@@ -2084,7 +2252,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "SUBHOLDING OF: Putnam Investments DESCRIPTION: The full transaction included the following sales: T-37.426 shares sold $27.645/share BRK/B-3 shares sold $493.42/share SPY-8.318 shares sold 8670.024/share DIA-8.426 shares sold $470.985/share SPYD-57.383 shares sold @ $46.04/share AMZN-25 sharts sold @$209-40/share AAPL-20.313 shares sold @ 8253-45/share QQQ-4.105 shares sold $601.68/share PYPL-9.021 shares sold $47-735/share",
-    "scraped_at": "2026-04-06T04:45:14.817790+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366987+00:00"
   },
   {
     "id": "20003796415",
@@ -2105,7 +2273,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "SURHOLDING OF: Putnam Investiments DESCRIPTION: The full transaction included the following sales: T-37-426 shares sold $27.645/share BRK/B-3shares sold @ $493.42/share SPY-8,318 shares sold $670.024/share DIA-8.426 shares sold @ $470.985/share SPYD-57.383 shares sold @ $46.04/share AMZN-25 shares sold @ $209.40/share AAPL-20.313 shares sold 8253-45/share QQQ-4.105 shares sold @ $601.68/share PYPL-9.021 shares sold @ $47.735/share",
-    "scraped_at": "2026-04-06T04:45:14.817795+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366991+00:00"
   },
   {
     "id": "20003796416",
@@ -2126,7 +2294,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "SURHOLDING Or: Putnam Investments DESCRIPTION: The full transaction included the following sales: T-37-426 shares sold @ $27.645/share BRK/B-3 shares sold @ $493.42/share SPY-8.318 shares sold $670.024/share DIA-8.426 shares sold @ $470.985/share SPYD-57-383 shares sold 846.04/share AMZN-25 shares sold $209.40/share AAPL-20.313 shares sold $253-45/share QQQ-4.105 shares sold @ $601.68/share PYPL-9.021 shares sold $47-735/share",
-    "scraped_at": "2026-04-06T04:45:14.817799+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366998+00:00"
   },
   {
     "id": "20003796417",
@@ -2147,7 +2315,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "SUBHOLDING OF: Putnam Investments DESCRIPTION: The full transaction included the following sales: T-37.426 shares sold $27.645/share BRK/B-3 shares sold $493-42/share SPY-8,318 shares sold $670.024/share DIA-8.426 shares sold $470.985/share SPYD-57.383 shares sold @ 846.04/share AMZN-25 shares sold @ $209.40/share AAPL-20.313 shares sold @ $253-45/shate QQQ-4-105 shares sold 8601.68/share PYPL-9.021 shares sold $47.735/share",
-    "scraped_at": "2026-04-06T04:45:14.817805+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367002+00:00"
   },
   {
     "id": "20003796418",
@@ -2168,7 +2336,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "SUBHOLDENG OF: Putnam Investments LOCATION: US DESCRIPTION: The full transaction included the following salex T-37.426 shares sold $27.645/share BRK/B-3shares swald @ $493-42/share SPY-8,318 shares sold 8670.024/share DIA-8.426 shares sold @ $470.985/share SPYD-57.383 shares sold $46.04/shure AMZN-25 shares sold @ $209.40/share AAPL-20.313 shares sold @ 8253.45/share QQQ-4.105 shares sold 0 8601.68/share PYPL-9.021 shares sold $47.735/share",
-    "scraped_at": "2026-04-06T04:45:14.817809+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367006+00:00"
   },
   {
     "id": "20003796419",
@@ -2189,7 +2357,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "SUBBOLDING Os: Putnam\u00c4\u00b1 Investments LOCATION: UN DESCRIPTION: The full transaction included the following sales: T-37.4a6 shares sold $27.645/share BRK/B-3 shares sold 8493-42/share SPY-8.318 shares sold $670.004/share DIA-8.426 shares sold @ $470.985/share SPYD-57.383 shares sold 846.04/share AMZN-25 shares sold @ $200.40/share AAPL-20,313 shares sold 8253.45/share QQQ-4.105 shares sold $601.68/share PYPL-9.021 shares sold $47.735/share",
-    "scraped_at": "2026-04-06T04:45:14.817814+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367011+00:00"
   },
   {
     "id": "20003796420",
@@ -2210,7 +2378,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "SUBHOLDENG OF: Putnam Investments DESCRIPTION: The full transaction included the following sales: T-37.426 shares sold $27.645/share BRK/B-3 shares sold $493-42/share SPY-8.318 shares sold $670.024/share DIA-8.426 shares sold @ $470.985/share SPYD-57-383 shares sold @ 846.04/share AMZN-25 shares sold 5209.40/share AAPL-20.313 shares sold @ $253-45/share QQQ-4-105 shares sold @ $60168/share PYPI.-9.021 shares sold @ $47.735/share",
-    "scraped_at": "2026-04-06T04:45:14.817818+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367016+00:00"
   },
   {
     "id": "20003796421",
@@ -2231,7 +2399,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "SURHOLDING OF: Putnam Investments DESCRIPTION: The full transaction included the following sales: T-37.426 shares sold $27.645/share BRK/B-3 shares sold $493.42/share SPY-8.318 shares sold $670.024/share DIA-8.426 shares sold @ $470,985/share SPYD-57-383 shares sold @ $46.04/share AMZN-25 shares sold @ $209.40/share AAPL-20.313 shares sold @ $253-45/share QQQ-4.105 shares mild @ $601.68/share PYPL-9.021 shares sold $47.735/sharm",
-    "scraped_at": "2026-04-06T04:45:14.817822+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367021+00:00"
   },
   {
     "id": "20003796422",
@@ -2252,7 +2420,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "SURHOLDING OF: Putnam Investments DESCRIPTION: The full transaction included the following sales: T-37.426 shares sold $27.645/share BRK/B-3 shares sold @ $493.42/share SPY-8.318 shares suld $670.024/share DIA-8.426 shares sold @ $470.985/share SPYD-57-383 shares sold $46.64/share AMZN-25 shares sold $209.40/share AAPL-20.313 shares sold 8253-45/share QQQ-4.105 shares sold @ $601.68/share PYPL-9.021 shares sold $47.735/share",
-    "scraped_at": "2026-04-06T04:45:14.817829+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367026+00:00"
   },
   {
     "id": "20003796429",
@@ -2273,7 +2441,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Investment Fund 1 Description: Window Manufacturer, Bayport, WI",
-    "scraped_at": "2026-04-06T04:45:14.817759+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366957+00:00"
   },
   {
     "id": "20003796432",
@@ -2294,7 +2462,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Investment Fund 1 Description: Data Centers, Redmond, WA",
-    "scraped_at": "2026-04-06T04:45:14.817773+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366970+00:00"
   },
   {
     "id": "20003796405",
@@ -2315,7 +2483,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 2012 Trust Description: Capital call of $4,339.39",
-    "scraped_at": "2026-04-06T04:45:14.817847+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367044+00:00"
   },
   {
     "id": "20003796408",
@@ -2336,7 +2504,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 2012 Trust Description: Capital call of $6,381.59",
-    "scraped_at": "2026-04-06T04:45:14.817859+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367054+00:00"
   },
   {
     "id": "20003795784",
@@ -2357,7 +2525,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817977+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367177+00:00"
   },
   {
     "id": "10000064820",
@@ -2378,7 +2546,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817650+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366803+00:00"
   },
   {
     "id": "20003795777",
@@ -2399,7 +2567,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817943+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367139+00:00"
   },
   {
     "id": "20003795782",
@@ -2420,7 +2588,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817969+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367167+00:00"
   },
   {
     "id": "20003795783",
@@ -2441,7 +2609,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817973+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367173+00:00"
   },
   {
     "id": "20003795758",
@@ -2462,7 +2630,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-04-06T04:45:14.818027+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367227+00:00"
   },
   {
     "id": "20003795761",
@@ -2483,7 +2651,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-04-06T04:45:14.818042+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367242+00:00"
   },
   {
     "id": "20003795762",
@@ -2504,7 +2672,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-04-06T04:45:14.818046+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367246+00:00"
   },
   {
     "id": "20003795763",
@@ -2525,7 +2693,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-04-06T04:45:14.818050+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367250+00:00"
   },
   {
     "id": "20003795766",
@@ -2546,7 +2714,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-04-06T04:45:14.818065+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367265+00:00"
   },
   {
     "id": "20003795767",
@@ -2567,7 +2735,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-04-06T04:45:14.818072+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367271+00:00"
   },
   {
     "id": "20003795729",
@@ -2630,7 +2798,28 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817699+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366850+00:00"
+  },
+  {
+    "id": "10000064814",
+    "politician_name": "John Fetterman",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "Concentrix Corp",
+    "ticker": "CNXC:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-11",
+    "trade_published": "2026-04-03",
+    "filed_after_days": "23",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-04-06T06:21:32.366885+00:00"
   },
   {
     "id": "20003795759",
@@ -2651,7 +2840,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-04-06T04:45:14.818032+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367231+00:00"
   },
   {
     "id": "20003795760",
@@ -2672,7 +2861,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-04-06T04:45:14.818036+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367237+00:00"
   },
   {
     "id": "20003795764",
@@ -2693,7 +2882,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-04-06T04:45:14.818055+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367254+00:00"
   },
   {
     "id": "20003795765",
@@ -2714,7 +2903,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-04-06T04:45:14.818059+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367259+00:00"
   },
   {
     "id": "20003795768",
@@ -2735,7 +2924,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-04-06T04:45:14.818076+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367275+00:00"
   },
   {
     "id": "10000064795",
@@ -2756,7 +2945,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
-    "scraped_at": "2026-04-06T04:45:14.817881+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367078+00:00"
   },
   {
     "id": "20003795744",
@@ -2861,7 +3050,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Self",
     "comment": "Rate/Coupon: 5.25% Matures: 2054-09-01",
-    "scraped_at": "2026-04-06T04:45:14.817867+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367062+00:00"
   },
   {
     "id": "10000064796",
@@ -2882,7 +3071,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
-    "scraped_at": "2026-04-06T04:45:14.817886+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367082+00:00"
   },
   {
     "id": "10000064729",
@@ -3008,7 +3197,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-04-06T04:45:14.817834+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367032+00:00"
   },
   {
     "id": "20003796412",
@@ -3029,7 +3218,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (6)",
-    "scraped_at": "2026-04-06T04:45:14.817839+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367036+00:00"
   },
   {
     "id": "20003796413",
@@ -3050,7 +3239,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-04-06T04:45:14.817843+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367040+00:00"
   },
   {
     "id": "20003796407",
@@ -3071,7 +3260,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 2012 Trust Description: Recallable Distribution of $6,366.21",
-    "scraped_at": "2026-04-06T04:45:14.817851+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367050+00:00"
   },
   {
     "id": "10000064797",
@@ -3092,7 +3281,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2027-12-01",
-    "scraped_at": "2026-04-06T04:45:14.817890+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367086+00:00"
   },
   {
     "id": "20003795753",
@@ -3176,7 +3365,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2030-12-01",
-    "scraped_at": "2026-04-06T04:45:14.817894+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367089+00:00"
   },
   {
     "id": "10000064799",
@@ -3197,7 +3386,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 4% Matures: 2032-05-15",
-    "scraped_at": "2026-04-06T04:45:14.817898+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367095+00:00"
   },
   {
     "id": "20003795714",
@@ -3239,7 +3428,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2035-04-01",
-    "scraped_at": "2026-04-06T04:45:14.817902+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367100+00:00"
   },
   {
     "id": "10000064801",
@@ -3260,7 +3449,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "GS Managed Structured Note Strategy S&amp;P 500 Linked Note",
-    "scraped_at": "2026-04-06T04:45:14.817907+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367104+00:00"
   },
   {
     "id": "10000064802",
@@ -3281,7 +3470,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "GS Managed Structured Note Strategy S&amp;P 500 Linked Note",
-    "scraped_at": "2026-04-06T04:45:14.817911+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367108+00:00"
   },
   {
     "id": "10000064803",
@@ -3302,7 +3491,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
-    "scraped_at": "2026-04-06T04:45:14.817915+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367112+00:00"
   },
   {
     "id": "20003795786",
@@ -3323,7 +3512,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Not Disclosed",
     "comment": "US Treasury Bills, due 8/20/2026 [GS] Subholding Of: Stephens Advantage Account",
-    "scraped_at": "2026-04-06T04:45:14.817871+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367066+00:00"
   },
   {
     "id": "10000064804",
@@ -3344,7 +3533,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "GS Managed Structured Note Strategy S&amp;P 500 Linked Note",
-    "scraped_at": "2026-04-06T04:45:14.817920+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367116+00:00"
   },
   {
     "id": "10000064805",
@@ -3365,7 +3554,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "GS Managed Structured Note Strategy S&amp;P 500 Linked Note",
-    "scraped_at": "2026-04-06T04:45:14.817925+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367121+00:00"
   },
   {
     "id": "20003795775",
@@ -3386,7 +3575,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.818108+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367309+00:00"
   },
   {
     "id": "10000064728",
@@ -3491,7 +3680,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2033-02-01",
-    "scraped_at": "2026-04-06T04:45:14.817929+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367127+00:00"
   },
   {
     "id": "20003795769",
@@ -3512,7 +3701,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.818081+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367280+00:00"
   },
   {
     "id": "20003795770",
@@ -3533,7 +3722,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.818085+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367284+00:00"
   },
   {
     "id": "20003795771",
@@ -3554,7 +3743,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.818089+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367290+00:00"
   },
   {
     "id": "20003795772",
@@ -3575,7 +3764,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.818095+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367294+00:00"
   },
   {
     "id": "20003795773",
@@ -3596,7 +3785,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.818099+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367299+00:00"
   },
   {
     "id": "20003795774",
@@ -3617,7 +3806,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.818104+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367305+00:00"
   },
   {
     "id": "20003795743",
@@ -4079,7 +4268,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817981+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367183+00:00"
   },
   {
     "id": "10000064786",
@@ -4100,7 +4289,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817987+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367187+00:00"
   },
   {
     "id": "10000064787",
@@ -4121,7 +4310,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817991+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367192+00:00"
   },
   {
     "id": "10000064788",
@@ -4142,7 +4331,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.817996+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367196+00:00"
   },
   {
     "id": "10000064789",
@@ -4163,7 +4352,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.818000+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367200+00:00"
   },
   {
     "id": "10000064790",
@@ -4184,7 +4373,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.818004+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367206+00:00"
   },
   {
     "id": "10000064791",
@@ -4205,7 +4394,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.818012+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367212+00:00"
   },
   {
     "id": "10000064792",
@@ -4226,7 +4415,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.818019+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367216+00:00"
   },
   {
     "id": "10000064793",
@@ -4247,7 +4436,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-06T04:45:14.818023+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367223+00:00"
   },
   {
     "id": "20003795746",
@@ -4940,7 +5129,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Pfizer Inc 717081FE8 Rate/Coupon: 4.500% Matures: 2032-11-15",
-    "scraped_at": "2026-04-06T04:45:14.817934+00:00"
+    "scraped_at": "2026-04-06T06:21:32.367130+00:00"
   },
   {
     "id": "20003795748",
@@ -5087,7 +5276,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Investment Fund 1 Description: Window Manufacturer, Bayport, WI",
-    "scraped_at": "2026-04-06T04:45:14.817755+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366953+00:00"
   },
   {
     "id": "20003796430",
@@ -5108,7 +5297,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Investment Fund 1 Description: Sports Software, London, UK",
-    "scraped_at": "2026-04-06T04:45:14.817763+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366960+00:00"
   },
   {
     "id": "20003796431",
@@ -5129,7 +5318,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Investment Fund 1 Description: AI Hardware Engineer, San Francisco, CA",
-    "scraped_at": "2026-04-06T04:45:14.817767+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366966+00:00"
   },
   {
     "id": "20003796427",
@@ -5150,7 +5339,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Investment Fund 1 Description: Window Manufacturer, Bayport, WI",
-    "scraped_at": "2026-04-06T04:45:14.817751+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366949+00:00"
   },
   {
     "id": "20003796426",
@@ -5171,7 +5360,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Investment Fund 1 Description: Window Manufacturer, Bayport, WI",
-    "scraped_at": "2026-04-06T04:45:14.817747+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366945+00:00"
   },
   {
     "id": "20003796425",
@@ -5192,7 +5381,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Investment Fund 1 Description: Window Manufacturer, Bayport, WI",
-    "scraped_at": "2026-04-06T04:45:14.817741+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366941+00:00"
   },
   {
     "id": "20003796424",
@@ -5213,7 +5402,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Investment Fund 1 Description: Window Manufacturer, Bayport, WI",
-    "scraped_at": "2026-04-06T04:45:14.817736+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366935+00:00"
   },
   {
     "id": "20003796423",
@@ -5234,7 +5423,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Investment Fund 1 Description: Window Manufacturer, Bayport, WI",
-    "scraped_at": "2026-04-06T04:45:14.817729+00:00"
+    "scraped_at": "2026-04-06T06:21:32.366929+00:00"
   },
   {
     "politician_name": "Chuck Fleischmann",
