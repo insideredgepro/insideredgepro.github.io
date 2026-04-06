@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-06",
-  "entry_count": 528,
+  "entry_count": 531,
   "entries": [
     {
       "id": "US|HOG|2026-03-09|Flees Lori Ann",
@@ -2916,8 +2916,8 @@
         "2026-04-05": 8.14,
         "2026-04-06": 8.14
       },
-      "latest_price": 8.15,
-      "return_pct": 3.03,
+      "latest_price": 8.1,
+      "return_pct": 2.4,
       "last_snapshot": "2026-04-06"
     },
     {
@@ -5840,8 +5840,8 @@
         "2026-04-05": 11.3,
         "2026-04-06": 11.3
       },
-      "latest_price": 11.2726,
-      "return_pct": -24.85,
+      "latest_price": 11.33,
+      "return_pct": -24.47,
       "last_snapshot": "2026-04-06"
     },
     {
@@ -8622,8 +8622,8 @@
         "2026-04-05": 8.14,
         "2026-04-06": 8.14
       },
-      "latest_price": 8.15,
-      "return_pct": -1.09,
+      "latest_price": 8.1,
+      "return_pct": -1.7,
       "last_snapshot": "2026-04-06"
     },
     {
@@ -11286,8 +11286,8 @@
         "2026-04-05": 8.14,
         "2026-04-06": 8.14
       },
-      "latest_price": 8.15,
-      "return_pct": -5.23,
+      "latest_price": 8.1,
+      "return_pct": -5.81,
       "last_snapshot": "2026-04-06"
     },
     {
@@ -18377,6 +18377,66 @@
       "trade_price": 20.0,
       "value": 200000.0,
       "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-06": 18.82
+      },
+      "latest_price": 18.82,
+      "return_pct": -5.9,
+      "last_snapshot": "2026-04-06"
+    },
+    {
+      "id": "US|HMH|2026-04-02|Dyrseth Roy A.",
+      "market": "US",
+      "ticker": "HMH",
+      "yf_symbol": "HMH",
+      "company": "Hmh Holding Inc",
+      "insider_name": "Dyrseth Roy A.",
+      "title": "Chief Commercial Officer",
+      "trade_date": "2026-04-02",
+      "trade_price": 20.0,
+      "value": 160000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-06": 18.82
+      },
+      "latest_price": 18.82,
+      "return_pct": -5.9,
+      "last_snapshot": "2026-04-06"
+    },
+    {
+      "id": "US|HMH|2026-04-02|Loeffler Lance",
+      "market": "US",
+      "ticker": "HMH",
+      "yf_symbol": "HMH",
+      "company": "Hmh Holding Inc",
+      "insider_name": "Loeffler Lance",
+      "title": "Dir",
+      "trade_date": "2026-04-02",
+      "trade_price": 20.0,
+      "value": 100000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-06": 18.82
+      },
+      "latest_price": 18.82,
+      "return_pct": -5.9,
+      "last_snapshot": "2026-04-06"
+    },
+    {
+      "id": "US|HMH|2026-04-02|McGee Thomas W.",
+      "market": "US",
+      "ticker": "HMH",
+      "yf_symbol": "HMH",
+      "company": "Hmh Holding Inc",
+      "insider_name": "McGee Thomas W.",
+      "title": "CFO",
+      "trade_date": "2026-04-02",
+      "trade_price": 20.0,
+      "value": 1000000.0,
+      "cluster_buy": true,
       "currency": "USD",
       "snapshots": {
         "2026-04-06": 18.82

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T18:44:29Z",
-  "trade_count": 5827,
+  "last_updated": "2026-04-06T19:45:48Z",
+  "trade_count": 5830,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93232,7 +93232,55 @@
       "owned": "121858",
       "delta_own": "+9%",
       "value": "200000",
-      "cluster_buy": false
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-06",
+      "filing_time": "14:50",
+      "trade_date": "2026-04-02",
+      "ticker": "HMH",
+      "company": "Hmh Holding Inc",
+      "insider_name": "Dyrseth Roy A.",
+      "title": "Chief Commercial Officer",
+      "trade_type": "P - Purchase",
+      "price": "20.00",
+      "qty": "8000",
+      "owned": "68276",
+      "delta_own": "+13%",
+      "value": "160000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-06",
+      "filing_time": "14:45",
+      "trade_date": "2026-04-02",
+      "ticker": "HMH",
+      "company": "Hmh Holding Inc",
+      "insider_name": "Loeffler Lance",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "20.00",
+      "qty": "5000",
+      "owned": "13486",
+      "delta_own": "+59%",
+      "value": "100000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-06",
+      "filing_time": "14:44",
+      "trade_date": "2026-04-02",
+      "ticker": "HMH",
+      "company": "Hmh Holding Inc",
+      "insider_name": "McGee Thomas W.",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "20.00",
+      "qty": "50000",
+      "owned": "147338",
+      "delta_own": "+51%",
+      "value": "1000000",
+      "cluster_buy": true
     }
   ]
 }
