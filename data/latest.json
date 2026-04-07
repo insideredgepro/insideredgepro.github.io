@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-07T08:06:45Z",
-  "trade_count": 5842,
+  "last_updated": "2026-04-07T11:03:12Z",
+  "trade_count": 5843,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93472,6 +93472,22 @@
       "owned": "7537140",
       "delta_own": "0%",
       "value": "153398",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-07",
+      "filing_time": "06:19",
+      "trade_date": "2026-03-30",
+      "ticker": "HUIZ",
+      "company": "Huize Holding Ltd",
+      "insider_name": "Ma Cunjun",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.01",
+      "qty": "7842032",
+      "owned": "7942232",
+      "delta_own": ">999%",
+      "value": "113976",
       "cluster_buy": false
     }
   ]
