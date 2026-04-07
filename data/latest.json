@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-07T20:37:46Z",
-  "trade_count": 5847,
+  "last_updated": "2026-04-07T21:35:59Z",
+  "trade_count": 5850,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93553,6 +93553,54 @@
       "delta_own": "0%",
       "value": "28520",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-07",
+      "filing_time": "17:30",
+      "trade_date": "2026-04-01",
+      "ticker": "CTGO",
+      "company": "Contango Silver & Gold Inc.",
+      "insider_name": "Nauman Clynton R.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "18.56",
+      "qty": "10000",
+      "owned": "24550",
+      "delta_own": "+69%",
+      "value": "185600",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-07",
+      "filing_time": "17:22",
+      "trade_date": "2026-04-06",
+      "ticker": "LW",
+      "company": "Lamb Weston Holdings, Inc.",
+      "insider_name": "Bensen Peter J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "39.45",
+      "qty": "5000",
+      "owned": "37697",
+      "delta_own": "+15%",
+      "value": "197225",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-07",
+      "filing_time": "16:57",
+      "trade_date": "2026-04-07",
+      "ticker": "FUL",
+      "company": "Fuller H B Co",
+      "insider_name": "Mastin Celeste Beeks",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "57.08",
+      "qty": "5170",
+      "owned": "41543",
+      "delta_own": "+14%",
+      "value": "295104",
+      "cluster_buy": false
     }
   ]
 }

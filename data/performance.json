@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-07",
-  "entry_count": 546,
+  "entry_count": 549,
   "entries": [
     {
       "id": "US|HOG|2026-03-09|Flees Lori Ann",
@@ -19282,6 +19282,66 @@
       },
       "latest_price": 14.3,
       "return_pct": 0.28,
+      "last_snapshot": "2026-04-07"
+    },
+    {
+      "id": "US|CTGO|2026-04-01|Nauman Clynton R.",
+      "market": "US",
+      "ticker": "CTGO",
+      "yf_symbol": "CTGO",
+      "company": "Contango Silver & Gold Inc.",
+      "insider_name": "Nauman Clynton R.",
+      "title": "Dir",
+      "trade_date": "2026-04-01",
+      "trade_price": 18.56,
+      "value": 185600.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-07": 19.36
+      },
+      "latest_price": 19.36,
+      "return_pct": 4.31,
+      "last_snapshot": "2026-04-07"
+    },
+    {
+      "id": "US|LW|2026-04-06|Bensen Peter J",
+      "market": "US",
+      "ticker": "LW",
+      "yf_symbol": "LW",
+      "company": "Lamb Weston Holdings, Inc.",
+      "insider_name": "Bensen Peter J",
+      "title": "Dir",
+      "trade_date": "2026-04-06",
+      "trade_price": 39.45,
+      "value": 197225.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-07": 40.17
+      },
+      "latest_price": 40.17,
+      "return_pct": 1.83,
+      "last_snapshot": "2026-04-07"
+    },
+    {
+      "id": "US|FUL|2026-04-07|Mastin Celeste Beeks",
+      "market": "US",
+      "ticker": "FUL",
+      "yf_symbol": "FUL",
+      "company": "Fuller H B Co",
+      "insider_name": "Mastin Celeste Beeks",
+      "title": "Pres, CEO",
+      "trade_date": "2026-04-07",
+      "trade_price": 57.08,
+      "value": 295104.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-07": 57.96
+      },
+      "latest_price": 57.96,
+      "return_pct": 1.54,
       "last_snapshot": "2026-04-07"
     }
   ]
