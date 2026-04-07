@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-07",
-  "entry_count": 549,
+  "entry_count": 550,
   "entries": [
     {
       "id": "US|HOG|2026-03-09|Flees Lori Ann",
@@ -19342,6 +19342,26 @@
       },
       "latest_price": 57.96,
       "return_pct": 1.54,
+      "last_snapshot": "2026-04-07"
+    },
+    {
+      "id": "US|LPCN|2026-04-07|Higuchi John W.",
+      "market": "US",
+      "ticker": "LPCN",
+      "yf_symbol": "LPCN",
+      "company": "Lipocine Inc.",
+      "insider_name": "Higuchi John W.",
+      "title": "Dir",
+      "trade_date": "2026-04-07",
+      "trade_price": 2.03,
+      "value": 81200.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-07": 1.94
+      },
+      "latest_price": 1.94,
+      "return_pct": -4.43,
       "last_snapshot": "2026-04-07"
     }
   ]

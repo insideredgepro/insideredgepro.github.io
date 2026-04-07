@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-07T21:35:59Z",
-  "trade_count": 5850,
+  "last_updated": "2026-04-07T22:31:15Z",
+  "trade_count": 5851,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93601,6 +93601,22 @@
       "delta_own": "+14%",
       "value": "295104",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-07",
+      "filing_time": "18:27",
+      "trade_date": "2026-04-07",
+      "ticker": "LPCN",
+      "company": "Lipocine Inc.",
+      "insider_name": "Higuchi John W.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.03",
+      "qty": "40000",
+      "owned": "203797",
+      "delta_own": "+24%",
+      "value": "81200",
+      "cluster_buy": true
     }
   ]
 }
