@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-07T21:00:22Z",
-  "trade_count": 2800,
+  "last_updated": "2026-04-07T23:00:21Z",
+  "trade_count": 2801,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42349,6 +42349,22 @@
       "qty": "800",
       "price": "19.3300",
       "value": "15463",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4700338",
+      "trade_date": "2026-04-07",
+      "filing_date": "2026-04-07",
+      "company": "Tidewater Midstream and Infrastructure Ltd.",
+      "ticker": "TWM",
+      "insider_name": "Toor, Nauman (Nick)",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "4500",
+      "price": "9.5000",
+      "value": "42750",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
