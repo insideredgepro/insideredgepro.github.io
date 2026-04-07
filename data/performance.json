@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-07",
-  "entry_count": 544,
+  "entry_count": 546,
   "entries": [
     {
       "id": "US|HOG|2026-03-09|Flees Lori Ann",
@@ -2985,8 +2985,8 @@
         "2026-04-06": 8.14,
         "2026-04-07": 8.13
       },
-      "latest_price": 8.15,
-      "return_pct": 3.03,
+      "latest_price": 8.11,
+      "return_pct": 2.53,
       "last_snapshot": "2026-04-07"
     },
     {
@@ -5571,8 +5571,8 @@
         "2026-04-06": 0.77,
         "2026-04-07": 0.77
       },
-      "latest_price": 0.7301,
-      "return_pct": 204.21,
+      "latest_price": 0.749,
+      "return_pct": 212.08,
       "last_snapshot": "2026-04-07"
     },
     {
@@ -8834,8 +8834,8 @@
         "2026-04-06": 8.14,
         "2026-04-07": 8.13
       },
-      "latest_price": 8.15,
-      "return_pct": -1.09,
+      "latest_price": 8.11,
+      "return_pct": -1.58,
       "last_snapshot": "2026-04-07"
     },
     {
@@ -11569,8 +11569,8 @@
         "2026-04-06": 8.14,
         "2026-04-07": 8.13
       },
-      "latest_price": 8.15,
-      "return_pct": -5.23,
+      "latest_price": 8.11,
+      "return_pct": -5.7,
       "last_snapshot": "2026-04-07"
     },
     {
@@ -13067,8 +13067,8 @@
         "2026-04-06": 0.77,
         "2026-04-07": 0.77
       },
-      "latest_price": 0.7301,
-      "return_pct": 204.21,
+      "latest_price": 0.749,
+      "return_pct": 212.08,
       "last_snapshot": "2026-04-07"
     },
     {
@@ -19242,6 +19242,46 @@
       },
       "latest_price": 3.395,
       "return_pct": -3.0,
+      "last_snapshot": "2026-04-07"
+    },
+    {
+      "id": "US|OSCR|2026-04-06|Bertolini Mark T",
+      "market": "US",
+      "ticker": "OSCR",
+      "yf_symbol": "OSCR",
+      "company": "Oscar Health, Inc.",
+      "insider_name": "Bertolini Mark T",
+      "title": "CEO",
+      "trade_date": "2026-04-06",
+      "trade_price": 11.92,
+      "value": 11920000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-07": 12.76
+      },
+      "latest_price": 12.76,
+      "return_pct": 7.05,
+      "last_snapshot": "2026-04-07"
+    },
+    {
+      "id": "US|XZO|2026-04-06|Patel Paresh",
+      "market": "US",
+      "ticker": "XZO",
+      "yf_symbol": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Patel Paresh",
+      "title": "CEO",
+      "trade_date": "2026-04-06",
+      "trade_price": 14.26,
+      "value": 28520.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-07": 14.3
+      },
+      "latest_price": 14.3,
+      "return_pct": 0.28,
       "last_snapshot": "2026-04-07"
     }
   ]
