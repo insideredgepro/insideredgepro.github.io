@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T23:27:46Z",
-  "trade_count": 5839,
+  "last_updated": "2026-04-07T01:28:03Z",
+  "trade_count": 5842,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93425,6 +93425,54 @@
       "delta_own": "+18%",
       "value": "50750",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-06",
+      "filing_time": "21:11",
+      "trade_date": "2026-04-06",
+      "ticker": "CMTV",
+      "company": "Community Bancorp /Vt",
+      "insider_name": "Caldwell Christopher L.",
+      "title": "Pres, CEO, Dir of Company, Ban",
+      "trade_type": "P - Purchase",
+      "price": "35.30",
+      "qty": "1000",
+      "owned": "12000",
+      "delta_own": "+9%",
+      "value": "35299",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-06",
+      "filing_time": "21:06",
+      "trade_date": "2026-04-06",
+      "ticker": "CMTV",
+      "company": "Community Bancorp /Vt",
+      "insider_name": "Lamberton Wayne",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "34.32",
+      "qty": "1350",
+      "owned": "10045",
+      "delta_own": "+16%",
+      "value": "46332",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-06",
+      "filing_time": "20:55",
+      "trade_date": "2026-04-02",
+      "ticker": "NTHI",
+      "company": "Neonc Technologies Holdings, Inc.",
+      "insider_name": "Heshmatpour Amir F",
+      "title": "Pres, 10%",
+      "trade_type": "P - Purchase",
+      "price": "6.14",
+      "qty": "25000",
+      "owned": "7537140",
+      "delta_own": "0%",
+      "value": "153398",
+      "cluster_buy": false
     }
   ]
 }
