@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-07T16:06:12Z",
-  "trade_count": 5843,
+  "last_updated": "2026-04-07T17:51:34Z",
+  "trade_count": 5844,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93488,6 +93488,22 @@
       "owned": "7942232",
       "delta_own": ">999%",
       "value": "113976",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-07",
+      "filing_time": "12:28",
+      "trade_date": "2026-04-02",
+      "ticker": "LCFY",
+      "company": "Locafy Ltd",
+      "insider_name": "Jackson Jason Dale",
+      "title": "COO",
+      "trade_type": "P - Purchase",
+      "price": "4.20",
+      "qty": "9285",
+      "owned": "11050",
+      "delta_own": "+526%",
+      "value": "38997",
       "cluster_buy": false
     }
   ]

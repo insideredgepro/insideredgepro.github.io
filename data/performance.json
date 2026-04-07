@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-07",
-  "entry_count": 542,
+  "entry_count": 543,
   "entries": [
     {
       "id": "US|HOG|2026-03-09|Flees Lori Ann",
@@ -5571,8 +5571,8 @@
         "2026-04-06": 0.77,
         "2026-04-07": 0.77
       },
-      "latest_price": 0.7635,
-      "return_pct": 218.12,
+      "latest_price": 0.7646,
+      "return_pct": 218.58,
       "last_snapshot": "2026-04-07"
     },
     {
@@ -13067,8 +13067,8 @@
         "2026-04-06": 0.77,
         "2026-04-07": 0.77
       },
-      "latest_price": 0.7635,
-      "return_pct": 218.12,
+      "latest_price": 0.7646,
+      "return_pct": 218.58,
       "last_snapshot": "2026-04-07"
     },
     {
@@ -19202,6 +19202,26 @@
       },
       "latest_price": 5.74,
       "return_pct": -6.51,
+      "last_snapshot": "2026-04-07"
+    },
+    {
+      "id": "US|LCFY|2026-04-02|Jackson Jason Dale",
+      "market": "US",
+      "ticker": "LCFY",
+      "yf_symbol": "LCFY",
+      "company": "Locafy Ltd",
+      "insider_name": "Jackson Jason Dale",
+      "title": "COO",
+      "trade_date": "2026-04-02",
+      "trade_price": 4.2,
+      "value": 38997.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-07": 4.59
+      },
+      "latest_price": 4.59,
+      "return_pct": 9.29,
       "last_snapshot": "2026-04-07"
     }
   ]
