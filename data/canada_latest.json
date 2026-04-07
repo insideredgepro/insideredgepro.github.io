@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-07T13:00:22Z",
-  "trade_count": 2799,
+  "last_updated": "2026-04-07T15:00:20Z",
+  "trade_count": 2800,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42333,6 +42333,22 @@
       "qty": "1500000",
       "price": "0.2248",
       "value": "337200",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4699487",
+      "trade_date": "2026-04-07",
+      "filing_date": "2026-04-07",
+      "company": "AGT Food and Ingredients Inc. (formerly, Alliance Grain Traders Inc.)",
+      "ticker": "",
+      "insider_name": "Rein, Kenton Gerald Christian",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "800",
+      "price": "19.3300",
+      "value": "15463",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
