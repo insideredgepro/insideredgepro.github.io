@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-07T18:51:47Z",
-  "trade_count": 5844,
+  "last_updated": "2026-04-07T19:52:23Z",
+  "trade_count": 5845,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93504,6 +93504,22 @@
       "owned": "11050",
       "delta_own": "+526%",
       "value": "38997",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-07",
+      "filing_time": "15:19",
+      "trade_date": "2026-04-06",
+      "ticker": "MKZR",
+      "company": "Mackenzie Realty Capital, Inc.",
+      "insider_name": "Dixon Robert E",
+      "title": "CEO, Pres",
+      "trade_type": "P - Purchase",
+      "price": "3.50",
+      "qty": "10000",
+      "owned": "146665",
+      "delta_own": "+7%",
+      "value": "34972",
       "cluster_buy": false
     }
   ]
