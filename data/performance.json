@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-08",
-  "entry_count": 500,
+  "entry_count": 501,
   "entries": [
     {
       "id": "US|MLAB|2026-03-10|Tripeny R Tony",
@@ -3496,8 +3496,8 @@
         "2026-04-07": 0.77,
         "2026-04-08": 0.77
       },
-      "latest_price": 0.75,
-      "return_pct": 212.5,
+      "latest_price": 0.72,
+      "return_pct": 200.0,
       "last_snapshot": "2026-04-08"
     },
     {
@@ -6840,8 +6840,8 @@
         "2026-04-07": 8.13,
         "2026-04-08": 8.13
       },
-      "latest_price": 8.15,
-      "return_pct": -1.09,
+      "latest_price": 8.22,
+      "return_pct": -0.24,
       "last_snapshot": "2026-04-08"
     },
     {
@@ -9646,8 +9646,8 @@
         "2026-04-07": 8.13,
         "2026-04-08": 8.13
       },
-      "latest_price": 8.15,
-      "return_pct": -5.23,
+      "latest_price": 8.22,
+      "return_pct": -4.42,
       "last_snapshot": "2026-04-08"
     },
     {
@@ -11042,8 +11042,8 @@
         "2026-04-07": 30.56,
         "2026-04-08": 30.56
       },
-      "latest_price": 30.56,
-      "return_pct": -0.1,
+      "latest_price": 30.75,
+      "return_pct": 0.52,
       "last_snapshot": "2026-04-08"
     },
     {
@@ -11078,8 +11078,8 @@
         "2026-04-07": 30.56,
         "2026-04-08": 30.56
       },
-      "latest_price": 30.56,
-      "return_pct": -0.1,
+      "latest_price": 30.75,
+      "return_pct": 0.52,
       "last_snapshot": "2026-04-08"
     },
     {
@@ -11150,8 +11150,8 @@
         "2026-04-07": 30.56,
         "2026-04-08": 30.56
       },
-      "latest_price": 30.56,
-      "return_pct": -0.1,
+      "latest_price": 30.75,
+      "return_pct": 0.52,
       "last_snapshot": "2026-04-08"
     },
     {
@@ -11186,8 +11186,8 @@
         "2026-04-07": 0.77,
         "2026-04-08": 0.77
       },
-      "latest_price": 0.75,
-      "return_pct": 212.5,
+      "latest_price": 0.72,
+      "return_pct": 200.0,
       "last_snapshot": "2026-04-08"
     },
     {
@@ -11402,8 +11402,8 @@
         "2026-04-07": 30.56,
         "2026-04-08": 30.56
       },
-      "latest_price": 30.56,
-      "return_pct": -0.1,
+      "latest_price": 30.75,
+      "return_pct": 0.52,
       "last_snapshot": "2026-04-08"
     },
     {
@@ -11438,8 +11438,8 @@
         "2026-04-07": 30.56,
         "2026-04-08": 30.56
       },
-      "latest_price": 30.56,
-      "return_pct": -0.1,
+      "latest_price": 30.75,
+      "return_pct": 0.52,
       "last_snapshot": "2026-04-08"
     },
     {
@@ -11510,8 +11510,8 @@
         "2026-04-07": 30.56,
         "2026-04-08": 30.56
       },
-      "latest_price": 30.56,
-      "return_pct": -0.1,
+      "latest_price": 30.75,
+      "return_pct": 0.52,
       "last_snapshot": "2026-04-08"
     },
     {
@@ -17703,6 +17703,26 @@
       },
       "latest_price": 2,
       "return_pct": -1.48,
+      "last_snapshot": "2026-04-08"
+    },
+    {
+      "id": "US|AIRS|2026-04-07|Chernett Jorey",
+      "market": "US",
+      "ticker": "AIRS",
+      "yf_symbol": "AIRS",
+      "company": "Airsculpt Technologies, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_date": "2026-04-07",
+      "trade_price": 2.93,
+      "value": 175800.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-08": 2.94
+      },
+      "latest_price": 2.94,
+      "return_pct": 0.34,
       "last_snapshot": "2026-04-08"
     }
   ]
