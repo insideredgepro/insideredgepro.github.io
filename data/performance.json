@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-08",
-  "entry_count": 506,
+  "entry_count": 508,
   "entries": [
     {
       "id": "US|MLAB|2026-03-10|Tripeny R Tony",
@@ -17823,6 +17823,46 @@
       },
       "latest_price": 44.84,
       "return_pct": 24.24,
+      "last_snapshot": "2026-04-08"
+    },
+    {
+      "id": "US|XAGE|2026-03-16|Ajjarapu J. Ram",
+      "market": "US",
+      "ticker": "XAGE",
+      "yf_symbol": "XAGE",
+      "company": "Longevity Health Holdings, Inc.",
+      "insider_name": "Ajjarapu J. Ram",
+      "title": "CEO, 10%",
+      "trade_date": "2026-03-16",
+      "trade_price": 0.29,
+      "value": 200000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-08": 0.278
+      },
+      "latest_price": 0.278,
+      "return_pct": -4.14,
+      "last_snapshot": "2026-04-08"
+    },
+    {
+      "id": "US|LW|2026-04-07|Prestage Norman",
+      "market": "US",
+      "ticker": "LW",
+      "yf_symbol": "LW",
+      "company": "Lamb Weston Holdings, Inc.",
+      "insider_name": "Prestage Norman",
+      "title": "Dir",
+      "trade_date": "2026-04-07",
+      "trade_price": 41.4,
+      "value": 103500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-08": 40.58
+      },
+      "latest_price": 40.58,
+      "return_pct": -1.98,
       "last_snapshot": "2026-04-08"
     }
   ]

@@ -5847,7 +5847,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-07,16:16,2026-04-06,OSCR,"Oscar Health, Inc.",Bertolini Mark T,CEO,P - Purchase,11.92,1000000,10196876,+11%,11920000,False
 2026-04-07,16:15,2026-04-06,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,14.26,2000,1600013,0%,28520,True
 2026-04-07,17:30,2026-04-01,CTGO,Contango Silver & Gold Inc.,Nauman Clynton R.,Dir,P - Purchase,18.56,10000,24550,+69%,185600,False
-2026-04-07,17:22,2026-04-06,LW,"Lamb Weston Holdings, Inc.",Bensen Peter J,Dir,P - Purchase,39.45,5000,37697,+15%,197225,False
+2026-04-07,17:22,2026-04-06,LW,"Lamb Weston Holdings, Inc.",Bensen Peter J,Dir,P - Purchase,39.45,5000,37697,+15%,197225,True
 2026-04-07,16:57,2026-04-07,FUL,Fuller H B Co,Mastin Celeste Beeks,"Pres, CEO",P - Purchase,57.08,5170,41543,+14%,295104,False
 2026-04-07,18:27,2026-04-07,LPCN,Lipocine Inc.,Higuchi John W.,Dir,P - Purchase,2.03,40000,203797,+24%,81200,True
 2026-04-08,09:09,2026-04-07,AIRS,"Airsculpt Technologies, Inc.",Chernett Jorey,10%,P - Purchase,2.93,60000,6993761,+1%,175800,False
@@ -5856,3 +5856,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-08,16:28,2026-04-07,NKE,"Nike, Inc.",Swan Robert Holmes,Dir,P - Purchase,42.44,11781,56654,+26%,500002,False
 2026-04-08,16:15,2026-04-07,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,14.22,2000,1602013,0%,28440,False
 2026-04-08,16:09,2026-04-08,BETR,Better Home & Finance Holding Co,Orn Jonsson Sigurgeir,CTO,P - Purchase,36.09,1000,3497,+40%,36089,True
+2026-04-08,17:47,2026-03-16,XAGE,"Longevity Health Holdings, Inc.",Ajjarapu J. Ram,"CEO, 10%",P - Purchase,0.29,689656,689656,New,200000,False
+2026-04-08,17:36,2026-04-07,LW,"Lamb Weston Holdings, Inc.",Prestage Norman,Dir,P - Purchase,41.40,2500,9482,+36%,103500,True
