@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-08",
-  "entry_count": 502,
+  "entry_count": 506,
   "entries": [
     {
       "id": "US|MLAB|2026-03-10|Tripeny R Tony",
@@ -3496,8 +3496,8 @@
         "2026-04-07": 0.77,
         "2026-04-08": 0.77
       },
-      "latest_price": 0.75,
-      "return_pct": 212.5,
+      "latest_price": 0.7,
+      "return_pct": 191.67,
       "last_snapshot": "2026-04-08"
     },
     {
@@ -6840,8 +6840,8 @@
         "2026-04-07": 8.13,
         "2026-04-08": 8.13
       },
-      "latest_price": 8.34,
-      "return_pct": 1.21,
+      "latest_price": 8.31,
+      "return_pct": 0.85,
       "last_snapshot": "2026-04-08"
     },
     {
@@ -9646,8 +9646,8 @@
         "2026-04-07": 8.13,
         "2026-04-08": 8.13
       },
-      "latest_price": 8.34,
-      "return_pct": -3.02,
+      "latest_price": 8.31,
+      "return_pct": -3.37,
       "last_snapshot": "2026-04-08"
     },
     {
@@ -11186,8 +11186,8 @@
         "2026-04-07": 0.77,
         "2026-04-08": 0.77
       },
-      "latest_price": 0.75,
-      "return_pct": 212.5,
+      "latest_price": 0.7,
+      "return_pct": 191.67,
       "last_snapshot": "2026-04-08"
     },
     {
@@ -17743,6 +17743,86 @@
       },
       "latest_price": 44.84,
       "return_pct": 34.49,
+      "last_snapshot": "2026-04-08"
+    },
+    {
+      "id": "US|RM|2026-03-12|Campos Roel C",
+      "market": "US",
+      "ticker": "RM",
+      "yf_symbol": "RM",
+      "company": "Regional Management Corp.",
+      "insider_name": "Campos Roel C",
+      "title": "Dir",
+      "trade_date": "2026-03-12",
+      "trade_price": 32.07,
+      "value": 30563.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-08": 34.54
+      },
+      "latest_price": 34.54,
+      "return_pct": 7.7,
+      "last_snapshot": "2026-04-08"
+    },
+    {
+      "id": "US|NKE|2026-04-07|Swan Robert Holmes",
+      "market": "US",
+      "ticker": "NKE",
+      "yf_symbol": "NKE",
+      "company": "Nike, Inc.",
+      "insider_name": "Swan Robert Holmes",
+      "title": "Dir",
+      "trade_date": "2026-04-07",
+      "trade_price": 42.44,
+      "value": 500002.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-08": 42.69
+      },
+      "latest_price": 42.69,
+      "return_pct": 0.59,
+      "last_snapshot": "2026-04-08"
+    },
+    {
+      "id": "US|XZO|2026-04-07|Patel Paresh",
+      "market": "US",
+      "ticker": "XZO",
+      "yf_symbol": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Patel Paresh",
+      "title": "CEO",
+      "trade_date": "2026-04-07",
+      "trade_price": 14.22,
+      "value": 28440.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-08": 14.32
+      },
+      "latest_price": 14.32,
+      "return_pct": 0.7,
+      "last_snapshot": "2026-04-08"
+    },
+    {
+      "id": "US|BETR|2026-04-08|Orn Jonsson Sigurgeir",
+      "market": "US",
+      "ticker": "BETR",
+      "yf_symbol": "BETR",
+      "company": "Better Home & Finance Holding Co",
+      "insider_name": "Orn Jonsson Sigurgeir",
+      "title": "CTO",
+      "trade_date": "2026-04-08",
+      "trade_price": 36.09,
+      "value": 36089.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-08": 44.84
+      },
+      "latest_price": 44.84,
+      "return_pct": 24.24,
       "last_snapshot": "2026-04-08"
     }
   ]
