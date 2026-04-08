@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T13:00:23Z",
-  "trade_count": 2803,
+  "last_updated": "2026-04-08T15:00:21Z",
+  "trade_count": 2804,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42400,6 +42400,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4700601",
+      "trade_date": "2026-04-08",
+      "filing_date": "2026-04-08",
+      "company": "Topaz Energy Corp.",
+      "ticker": "TPZ",
+      "insider_name": "Rose, Mike",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "29.7412",
+      "value": "297412",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
