@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T19:00:21Z",
-  "trade_count": 2807,
+  "last_updated": "2026-04-08T21:00:22Z",
+  "trade_count": 2808,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -40991,7 +40991,7 @@
       "value": "171241",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4688114",
@@ -42095,7 +42095,7 @@
       "value": "323746",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4693839",
@@ -42111,7 +42111,7 @@
       "value": "63215",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4694290",
@@ -42447,7 +42447,7 @@
       "value": "599561",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4700780",
@@ -42464,6 +42464,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4700993",
+      "trade_date": "2026-04-08",
+      "filing_date": "2026-04-08",
+      "company": "Tourmaline Oil Corp.",
+      "ticker": "TOU",
+      "insider_name": "Toews, Travis",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "327",
+      "price": "61.4600",
+      "value": "20097",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
