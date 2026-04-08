@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T17:59:59Z",
-  "trade_count": 5852,
+  "last_updated": "2026-04-08T19:22:35Z",
+  "trade_count": 5853,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93633,6 +93633,22 @@
       "delta_own": "+1%",
       "value": "175800",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-08",
+      "filing_time": "14:09",
+      "trade_date": "2026-04-08",
+      "ticker": "BETR",
+      "company": "Better Home & Finance Holding Co",
+      "insider_name": "Talwar Harit",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "33.34",
+      "qty": "1000",
+      "owned": "31698",
+      "delta_own": "+3%",
+      "value": "33340",
+      "cluster_buy": true
     }
   ]
 }

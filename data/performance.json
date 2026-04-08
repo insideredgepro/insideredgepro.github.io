@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-08",
-  "entry_count": 501,
+  "entry_count": 502,
   "entries": [
     {
       "id": "US|MLAB|2026-03-10|Tripeny R Tony",
@@ -3496,8 +3496,8 @@
         "2026-04-07": 0.77,
         "2026-04-08": 0.77
       },
-      "latest_price": 0.681,
-      "return_pct": 183.75,
+      "latest_price": 0.75,
+      "return_pct": 212.5,
       "last_snapshot": "2026-04-08"
     },
     {
@@ -11186,8 +11186,8 @@
         "2026-04-07": 0.77,
         "2026-04-08": 0.77
       },
-      "latest_price": 0.681,
-      "return_pct": 183.75,
+      "latest_price": 0.75,
+      "return_pct": 212.5,
       "last_snapshot": "2026-04-08"
     },
     {
@@ -17723,6 +17723,26 @@
       },
       "latest_price": 2.94,
       "return_pct": 0.34,
+      "last_snapshot": "2026-04-08"
+    },
+    {
+      "id": "US|BETR|2026-04-08|Talwar Harit",
+      "market": "US",
+      "ticker": "BETR",
+      "yf_symbol": "BETR",
+      "company": "Better Home & Finance Holding Co",
+      "insider_name": "Talwar Harit",
+      "title": "Dir",
+      "trade_date": "2026-04-08",
+      "trade_price": 33.34,
+      "value": 33340.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-08": 44.84
+      },
+      "latest_price": 44.84,
+      "return_pct": 34.49,
       "last_snapshot": "2026-04-08"
     }
   ]
