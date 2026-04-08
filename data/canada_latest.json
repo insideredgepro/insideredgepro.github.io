@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T15:00:21Z",
-  "trade_count": 2804,
+  "last_updated": "2026-04-08T17:00:22Z",
+  "trade_count": 2806,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42413,6 +42413,38 @@
       "qty": "10000",
       "price": "29.7412",
       "value": "297412",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4700603",
+      "trade_date": "2026-04-08",
+      "filing_date": "2026-04-08",
+      "company": "Tamarack Valley Energy Ltd.",
+      "ticker": "TVE",
+      "insider_name": "Shimek, Scott",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "43000",
+      "price": "10.5000",
+      "value": "451500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4700606",
+      "trade_date": "2026-04-08",
+      "filing_date": "2026-04-08",
+      "company": "Tourmaline Oil Corp.",
+      "ticker": "TOU",
+      "insider_name": "Rose, Mike",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "59.9561",
+      "value": "599561",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
