@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-09T15:00:25Z",
-  "trade_count": 2811,
+  "last_updated": "2026-04-09T17:00:23Z",
+  "trade_count": 2813,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42525,6 +42525,38 @@
       "qty": "8000",
       "price": "2.5400",
       "value": "20320",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4701433",
+      "trade_date": "2026-04-09",
+      "filing_date": "2026-04-09",
+      "company": "Mayfair Gold Corp.",
+      "ticker": "MFG",
+      "insider_name": "Annett, Kevin",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "5600",
+      "price": "4.4100",
+      "value": "24696",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4701434",
+      "trade_date": "2026-04-09",
+      "filing_date": "2026-04-09",
+      "company": "Mayfair Gold Corp.",
+      "ticker": "MFG",
+      "insider_name": "Annett, Kevin",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "10800",
+      "price": "4.4000",
+      "value": "47520",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
