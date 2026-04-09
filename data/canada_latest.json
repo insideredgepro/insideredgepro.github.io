@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T23:00:21Z",
-  "trade_count": 2809,
+  "last_updated": "2026-04-09T01:00:24Z",
+  "trade_count": 2811,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42493,6 +42493,38 @@
       "qty": "3600",
       "price": "9.5000",
       "value": "34200",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4701220",
+      "trade_date": "2026-04-08",
+      "filing_date": "2026-04-08",
+      "company": "CleanTech Vanadium Mining Corp.",
+      "ticker": "CTV",
+      "insider_name": "Lee, John",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "300000",
+      "price": "0.1300",
+      "value": "39000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4701242",
+      "trade_date": "2026-04-08",
+      "filing_date": "2026-04-08",
+      "company": "Transat A.T. Inc.",
+      "ticker": "TRZ",
+      "insider_name": "P\u00e9ladeau, Pierre Karl",
+      "title": "10% Holder",
+      "security": "Action \u00e0 droit de vote de cat\u00e9gorie B",
+      "qty": "8000",
+      "price": "2.5400",
+      "value": "20320",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
