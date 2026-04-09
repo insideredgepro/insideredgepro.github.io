@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T23:31:17Z",
-  "trade_count": 5859,
+  "last_updated": "2026-04-09T01:20:40Z",
+  "trade_count": 5861,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93744,6 +93744,38 @@
       "owned": "9482",
       "delta_own": "+36%",
       "value": "103500",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-08",
+      "filing_time": "21:00",
+      "trade_date": "2026-04-06",
+      "ticker": "CGCT",
+      "company": "Cartesian Growth Corp III",
+      "insider_name": "Cgc III Sponsor LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "10.30",
+      "qty": "300000",
+      "owned": "1271000",
+      "delta_own": "+31%",
+      "value": "3091400",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-08",
+      "filing_time": "19:54",
+      "trade_date": "2026-04-08",
+      "ticker": "BETR",
+      "company": "Better Home & Finance Holding Co",
+      "insider_name": "Garg Vishal",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "35.05",
+      "qty": "10000",
+      "owned": "64877",
+      "delta_own": "+18%",
+      "value": "350519",
       "cluster_buy": true
     }
   ]
