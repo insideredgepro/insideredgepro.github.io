@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-10T19:00:33Z",
-  "trade_count": 2818,
+  "last_updated": "2026-04-10T21:00:25Z",
+  "trade_count": 2820,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42637,6 +42637,38 @@
       "qty": "1500",
       "price": "26.0687",
       "value": "39103",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4703083",
+      "trade_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "company": "Independence Gold Corp.",
+      "ticker": "IGO",
+      "insider_name": "Gestion Bouca Inc",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "200000",
+      "price": "0.0950",
+      "value": "19000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4703064",
+      "trade_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "company": "Tower Resources Ltd.",
+      "ticker": "TWR",
+      "insider_name": "Dhami, R. Joe",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "128000",
+      "price": "0.1700",
+      "value": "21760",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
