@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-10T15:00:23Z",
-  "trade_count": 2815,
+  "last_updated": "2026-04-10T19:00:33Z",
+  "trade_count": 2818,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42592,6 +42592,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4702952",
+      "trade_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "company": "Luca Mining Corp.",
+      "ticker": "LUCA",
+      "insider_name": "Barnholden, Daniel",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "10900",
+      "price": "1.5000",
+      "value": "16350",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4702860",
+      "trade_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "company": "Parex Resources Inc.",
+      "ticker": "PXT",
+      "insider_name": "Grainger, Cam",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "2000",
+      "price": "26.0460",
+      "value": "52092",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4702867",
+      "trade_date": "2026-04-10",
+      "filing_date": "2026-04-10",
+      "company": "Parex Resources Inc.",
+      "ticker": "PXT",
+      "insider_name": "Grainger, Cam",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "1500",
+      "price": "26.0687",
+      "value": "39103",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
