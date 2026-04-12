@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-12T16:42:00Z",
-  "trade_count": 5915,
+  "last_updated": "2026-04-12T16:45:08Z",
+  "trade_count": 5908,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -94404,22 +94404,6 @@
     },
     {
       "filing_date": "2026-04-08",
-      "filing_time": "16:28",
-      "trade_date": "2026-04-07",
-      "ticker": "NKE",
-      "company": "Nike, Inc.",
-      "insider_name": "SWAN ROBERT HOLMES",
-      "title": "Director",
-      "trade_type": "P - Purchase",
-      "price": "42.44",
-      "qty": "11781",
-      "owned": "55074",
-      "delta_own": "+27%",
-      "value": "500002",
-      "cluster_buy": true
-    },
-    {
-      "filing_date": "2026-04-08",
       "filing_time": "15:30",
       "trade_date": "2026-04-08",
       "ticker": "KYN",
@@ -94465,22 +94449,6 @@
       "delta_own": "+5%",
       "value": "1494195",
       "cluster_buy": false
-    },
-    {
-      "filing_date": "2026-04-07",
-      "filing_time": "15:19",
-      "trade_date": "2026-04-06",
-      "ticker": "MKZR",
-      "company": "Mackenzie Realty Capital, Inc.",
-      "insider_name": "DIXON ROBERT E",
-      "title": "CEO/President",
-      "trade_type": "P - Purchase",
-      "price": "3.50",
-      "qty": "10000",
-      "owned": "54241",
-      "delta_own": "+23%",
-      "value": "34972",
-      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-06",
@@ -94548,70 +94516,6 @@
     },
     {
       "filing_date": "2026-04-06",
-      "filing_time": "16:09",
-      "trade_date": "2026-04-02",
-      "ticker": "VSCO",
-      "company": "Victoria'S Secret & Co.",
-      "insider_name": "JAMES DONNA",
-      "title": "Director",
-      "trade_type": "P - Purchase",
-      "price": "46.23",
-      "qty": "2175",
-      "owned": "63097",
-      "delta_own": "+4%",
-      "value": "100550",
-      "cluster_buy": true
-    },
-    {
-      "filing_date": "2026-04-06",
-      "filing_time": "16:06",
-      "trade_date": "2026-04-02",
-      "ticker": "SCVL",
-      "company": "Shoe Carnival Inc",
-      "insider_name": "JACKSON W KERRY",
-      "title": "EVP - CFO",
-      "trade_type": "P - Purchase",
-      "price": "16.13",
-      "qty": "31000",
-      "owned": "215529",
-      "delta_own": "+17%",
-      "value": "500030",
-      "cluster_buy": true
-    },
-    {
-      "filing_date": "2026-04-06",
-      "filing_time": "16:05",
-      "trade_date": "2026-04-06",
-      "ticker": "ALT",
-      "company": "Altimmune, Inc.",
-      "insider_name": "GILL JOHN",
-      "title": "Director",
-      "trade_type": "P - Purchase",
-      "price": "3.41",
-      "qty": "9200",
-      "owned": "21700",
-      "delta_own": "+74%",
-      "value": "31350",
-      "cluster_buy": true
-    },
-    {
-      "filing_date": "2026-04-06",
-      "filing_time": "12:31",
-      "trade_date": "2026-04-02",
-      "ticker": "VKI",
-      "company": "Invesco Advantage Municipal Income Trust II",
-      "insider_name": "BANK OF AMERICA CORP /DE/",
-      "title": "10% Owner",
-      "trade_type": "P - Purchase",
-      "price": "8.68",
-      "qty": "3359",
-      "owned": "3359",
-      "delta_own": "New",
-      "value": "29156",
-      "cluster_buy": true
-    },
-    {
-      "filing_date": "2026-04-06",
       "filing_time": "12:31",
       "trade_date": "2026-04-02",
       "ticker": "BAC",
@@ -94625,22 +94529,6 @@
       "delta_own": "New",
       "value": "29156",
       "cluster_buy": false
-    },
-    {
-      "filing_date": "2026-04-06",
-      "filing_time": "08:19",
-      "trade_date": "2026-04-02",
-      "ticker": "SVC",
-      "company": "Service Properties Trust",
-      "insider_name": "FRAICHE DONNA D.",
-      "title": "Director",
-      "trade_type": "P - Purchase",
-      "price": "1.20",
-      "qty": "83333",
-      "owned": "182013",
-      "delta_own": "+84%",
-      "value": "100000",
-      "cluster_buy": true
     }
   ]
 }
