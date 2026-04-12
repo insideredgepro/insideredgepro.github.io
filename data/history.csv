@@ -5695,7 +5695,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-27,18:16,2026-03-25,RPAY,Repay Holdings Corp,"Forager Fund, L.P.",10%,P - Purchase,3.01,642837,9242937,+7%,1935060,False
 2026-03-27,18:11,2026-03-27,PANW,Palo Alto Networks Inc,Arora Nikesh,CEO,P - Purchase,146.88,68085,1101946,+7%,9999977,False
 2026-03-27,17:51,2026-03-20,MED,Medifast Inc,Chard Daniel R,"COB, CEO",P - Purchase,10.11,17678,355609,+5%,178725,False
-2026-03-27,17:44,2026-03-25,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,9.71,29293,629384,+5%,284544,False
+2026-03-27,17:44,2026-03-25,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,9.71,29293,629384,+5%,284544,True
 2026-03-27,21:58,2026-03-23,PMEC,Primech Holdings Ltd,Ho Kin Wai,"CEO, 10%",P - Purchase,1.14,839963,20255731,+4%,958650,False
 2026-03-27,20:27,2025-09-18,PLAY,"Dave & Buster'S Entertainment, Inc.",Lal Tarun,CEO,P - Purchase,19.91,3500,11560,+43%,69690,False
 2026-03-27,19:40,2026-03-26,INSE,"Inspired Entertainment, Inc.",Chambrello Michael R.,Dir,P - Purchase,6.92,10000,74638,+15%,69241,True
@@ -5721,8 +5721,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-30,17:29,2026-03-26,XLO,"Xilio Therapeutics, Inc.",Shannon James Samuel,Dir,P - Purchase,8.79,5000,10000,+100%,43950,False
 2026-03-30,18:06,2026-03-26,KMTS,"Kestra Medical Technologies, Ltd.",Cohen Raymond W,Dir,P - Purchase,19.98,10000,50903,+24%,199800,False
 2026-03-30,18:00,2026-03-30,HPP,"Hudson Pacific Properties, Inc.",Ferguson T Ritson,Dir,P - Purchase,5.97,16000,18997,+534%,95520,False
-2026-03-30,17:58,2026-03-26,SPRU,Spruce Power Holding Corp,Steel Partners Holdings L.P.,10%,P - Purchase,3.99,28803,3348930,+1%,115039,False
-2026-03-30,17:57,2026-03-26,CNXC,Concentrix Corp,Caldwell Christopher A,"Pres, CEO",P - Purchase,26.97,1000,357382,0%,26970,False
+2026-03-30,17:58,2026-03-26,SPRU,Spruce Power Holding Corp,Steel Partners Holdings L.P.,10%,P - Purchase,3.99,28803,3348930,+1%,115039,True
+2026-03-30,17:57,2026-03-26,CNXC,Concentrix Corp,Caldwell Christopher A,"Pres, CEO",P - Purchase,26.97,1000,357382,0%,26970,True
 2026-03-30,19:18,2026-03-27,GO,Grocery Outlet Holding Corp.,Ragatz Erik D.,Dir,P - Purchase,7.06,125000,1301966,+11%,882500,True
 2026-03-30,21:16,2026-03-26,VERO,Venus Concept Inc.,"Madryn Asset Management, LP",10%,P - Purchase,0.04,37537187,37547373,>999%,1500000,False
 2026-03-30,20:30,2026-03-26,WVE,Wave Life Sciences Ltd.,"Ra Capital Management, L.P.","Dir, 10%",P - Purchase,6.23,8772496,27004320,+48%,54624378,False
@@ -5744,7 +5744,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-03-31,16:15,2026-03-27,MLYS,"Mineralys Therapeutics, Inc.","Ra Capital Management, L.P.",Dir,P - Purchase,23.75,369000,7692750,+5%,8762797,False
 2026-03-31,16:08,2026-03-27,SATL,Satellogic Inc.,Dunn Rick,CFO,P - Purchase,5.51,35745,228028,+19%,197089,False
 2026-03-31,16:05,2026-03-27,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,5.06,11850,2561850,0%,60019,False
-2026-03-31,17:20,2026-03-27,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,10.24,68467,697851,+11%,701102,False
+2026-03-31,17:20,2026-03-27,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,10.24,68467,697851,+11%,701102,True
 2026-03-31,17:00,2026-03-31,ZBIO,"Zenas Biopharma, Inc.",Lu Hongbo,Dir,P - Purchase,20.00,75000,422968,+22%,1500000,True
 2026-03-31,16:59,2026-03-30,RZLT,"Rezolute, Inc.",Evans Daron,CFO,P - Purchase,2.85,10000,511462,+2%,28500,False
 2026-03-31,18:10,2026-03-27,AI,"C3.Ai, Inc.",Snabe Jim H.,Dir,P - Purchase,7.73,10000,423000,+2%,77300,False
@@ -5791,7 +5791,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-01,17:00,2026-03-30,RBRK,"Rubrik, Inc.",McLaughlin Mark D,Dir,P - Purchase,47.21,10638,13639,+354%,502220,False
 2026-04-01,16:39,2026-03-30,FMAC,Future Money Acquisition Corp,Future Wealth Capital Corp.,10%,P - Purchase,10.00,304000,4666069,+7%,3040000,False
 2026-04-01,19:38,2026-03-30,UUU,"Universal Safety Products, Inc.",Ault Milton C III,"Dir, 10%",P - Purchase,5.77,12608,713452,+2%,72808,False
-2026-04-01,21:52,2026-03-31,BZUN,Baozun Inc.,Wu Junhua,Chief Strategy Officer,P - Purchase,2.40,14000,61428,+30%,33597,False
+2026-04-01,21:52,2026-03-31,BZUN,Baozun Inc.,Wu Junhua,Chief Strategy Officer,P - Purchase,2.40,14000,61428,+30%,33597,True
 2026-04-02,06:07,2026-03-30,LODE,Comstock Inc.,Drozdoff Leo M,Dir,P - Purchase,3.00,28000,178481,+19%,84000,False
 2026-04-02,07:17,2026-03-31,BNR,Burning Rock Biotech Ltd,Han Yusheng,Dir,P - Purchase,17.36,314870,17672676,+2%,5466143,False
 2026-04-02,08:47,2023-05-15,BPRN,"Princeton Bancorp, Inc.",Shueh Stephen,Dir,P - Purchase,28.32,10500,42038,+33%,297395,False
@@ -5806,10 +5806,10 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-02,16:05,2026-03-31,FGBI,"First Guaranty Bancshares, Inc.",McAnally Bruce,Dir,P - Purchase,7.77,32176,363263,+10%,250008,True
 2026-04-02,17:21,2026-03-31,WCC,Wesco International Inc,Castillo Daniel J,"EVP, GM, EES",P - Purchase,266.06,1400,15325,+10%,372484,False
 2026-04-02,17:19,2026-03-31,AXR,Amrep Corp.,Dahl James H,10%,P - Purchase,27.92,2060,973479,0%,57521,False
-2026-04-02,17:19,2026-03-31,SPRU,Spruce Power Holding Corp,Steel Partners Holdings L.P.,10%,P - Purchase,4.03,12637,3361567,0%,50914,False
+2026-04-02,17:19,2026-03-31,SPRU,Spruce Power Holding Corp,Steel Partners Holdings L.P.,10%,P - Purchase,4.03,12637,3361567,0%,50914,True
 2026-04-02,17:05,2026-04-02,LPCN,Lipocine Inc.,Patel Mahesh V.,CEO,P - Purchase,2.02,25000,135679,+23%,50500,True
 2026-04-02,17:02,2026-03-31,ZBIO,"Zenas Biopharma, Inc.",Lu Hongbo,Dir,P - Purchase,18.63,3768,426736,+1%,70198,True
-2026-04-02,17:47,2026-03-31,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,10.50,12893,710744,+2%,135377,False
+2026-04-02,17:47,2026-03-31,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,10.50,12893,710744,+2%,135377,True
 2026-04-03,10:56,2026-04-01,EJH,E-Home Household Service Holdings Ltd,Wenshan Xie,"COB, CEO, 10%",P - Purchase,1.25,540000,552295,>999%,675000,False
 2026-04-02,19:34,2026-03-31,VVOS,"Vivos Therapeutics, Inc.",Skaff Michael C,10%,P - Purchase,1.34,1353625,1353625,New,1813858,False
 2026-04-03,12:44,2026-04-01,LULU,Lululemon Athletica Inc.,Maestrini Andre,"Pres, CCO, Interim Co-CEO",P - Purchase,151.02,3275,34551,+10%,494591,True
@@ -5820,18 +5820,18 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-03,17:19,2026-04-01,MFJ,"Virtus Dividend, Interest & Premium Strategy Fund","Saba Capital Management, L.P.",10%,P - Purchase,12.65,3509,10216703,0%,44389,False
 2026-04-03,17:06,2026-04-02,ANVS,"Annovis Bio, Inc.",Hoffman Michael B,Dir,P - Purchase,2.10,713800,3511896,+26%,1498980,False
 2026-04-03,17:45,2026-04-01,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,68.84,2463,5677839,0%,169546,False
-2026-04-06,08:47,2026-04-02,BZUN,Baozun Inc.,Wu Junhua,Chief Strategy Officer,P - Purchase,2.47,30000,91428,+49%,74019,False
+2026-04-06,08:47,2026-04-02,BZUN,Baozun Inc.,Wu Junhua,Chief Strategy Officer,P - Purchase,2.47,30000,91428,+49%,74019,True
 2026-04-06,08:19,2026-04-02,SVC,Service Properties Trust,Fraiche Donna D.,Dir,P - Purchase,1.20,83333,182013,+84%,100000,True
 2026-04-06,08:11,2026-04-02,CULP,Culp Inc,Bruno Thomas,Chief Commercial Officer,P - Purchase,2.77,10000,90000,+13%,27650,False
 2026-04-06,09:34,2026-04-03,AIRS,"Airsculpt Technologies, Inc.",Chernett Jorey,10%,P - Purchase,2.82,90000,6933761,+1%,253800,False
-2026-04-06,12:31,2026-04-02,VKI,Invesco Advantage Municipal Income Trust II,Bank of America Corp /de/,10%,P - Purchase,8.68,3359,0,-100%,29156,False
+2026-04-06,12:31,2026-04-02,VKI,Invesco Advantage Municipal Income Trust II,Bank of America Corp /de/,10%,P - Purchase,8.68,3359,0,-100%,29156,True
 2026-04-06,14:37,2026-04-02,HMH,Hmh Holding Inc,Bergsvik Eirik,CEO,P - Purchase,20.00,10000,121858,+9%,200000,True
 2026-04-06,14:50,2026-04-02,HMH,Hmh Holding Inc,Dyrseth Roy A.,Chief Commercial Officer,P - Purchase,20.00,8000,68276,+13%,160000,True
 2026-04-06,14:45,2026-04-02,HMH,Hmh Holding Inc,Loeffler Lance,Dir,P - Purchase,20.00,5000,13486,+59%,100000,True
 2026-04-06,14:44,2026-04-02,HMH,Hmh Holding Inc,McGee Thomas W.,CFO,P - Purchase,20.00,50000,147338,+51%,1000000,True
 2026-04-06,16:09,2026-04-02,VSCO,Victoria'S Secret & Co.,Sheehan Anne,Dir,P - Purchase,45.86,4842,34261,+16%,222054,True
 2026-04-06,16:09,2026-04-02,VSCO,Victoria'S Secret & Co.,James Donna,Dir,P - Purchase,46.23,2175,63097,+4%,100550,True
-2026-04-06,16:06,2026-04-02,SCVL,Shoe Carnival Inc,Jackson W Kerry,EVP - CFO,P - Purchase,16.13,31000,215529,+17%,500030,False
+2026-04-06,16:06,2026-04-02,SCVL,Shoe Carnival Inc,Jackson W Kerry,EVP - CFO,P - Purchase,16.13,31000,215529,+17%,500030,True
 2026-04-06,16:05,2026-04-06,ALT,"Altimmune, Inc.",Gill John,Dir,P - Purchase,3.41,9200,21700,+74%,31350,True
 2026-04-06,17:20,2026-04-02,BETR,Better Home & Finance Holding Co,Talwar Harit,Dir,P - Purchase,35.24,5000,30698,+19%,176218,True
 2026-04-06,17:14,2026-04-02,VSCO,Victoria'S Secret & Co.,Sheehan Anne,Dir,P - Purchase,45.86,633,30052,+2%,29029,True
@@ -5843,7 +5843,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-06,20:55,2026-04-02,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"Pres, 10%",P - Purchase,6.14,25000,7537140,0%,153398,False
 2026-04-07,06:19,2026-03-30,HUIZ,Huize Holding Ltd,Ma Cunjun,"CEO, 10%",P - Purchase,0.01,7842032,7942232,>999%,113976,False
 2026-04-07,12:28,2026-04-02,LCFY,Locafy Ltd,Jackson Jason Dale,COO,P - Purchase,4.20,9285,11050,+526%,38997,False
-2026-04-07,15:19,2026-04-06,MKZR,"Mackenzie Realty Capital, Inc.",Dixon Robert E,"CEO, Pres",P - Purchase,3.50,10000,146665,+7%,34972,False
+2026-04-07,15:19,2026-04-06,MKZR,"Mackenzie Realty Capital, Inc.",Dixon Robert E,"CEO, Pres",P - Purchase,3.50,10000,146665,+7%,34972,True
 2026-04-07,16:16,2026-04-06,OSCR,"Oscar Health, Inc.",Bertolini Mark T,CEO,P - Purchase,11.92,1000000,10196876,+11%,11920000,False
 2026-04-07,16:15,2026-04-06,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,14.26,2000,1600013,0%,28520,True
 2026-04-07,17:30,2026-04-01,CTGO,Contango Silver & Gold Inc.,Nauman Clynton R.,Dir,P - Purchase,18.56,10000,24550,+69%,185600,False
@@ -5853,11 +5853,64 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-08,09:09,2026-04-07,AIRS,"Airsculpt Technologies, Inc.",Chernett Jorey,10%,P - Purchase,2.93,60000,6993761,+1%,175800,False
 2026-04-08,14:09,2026-04-08,BETR,Better Home & Finance Holding Co,Talwar Harit,Dir,P - Purchase,33.34,1000,31698,+3%,33340,True
 2026-04-08,16:30,2026-03-12,RM,Regional Management Corp.,Campos Roel C,Dir,P - Purchase,32.07,953,115154,+1%,30563,False
-2026-04-08,16:28,2026-04-07,NKE,"Nike, Inc.",Swan Robert Holmes,Dir,P - Purchase,42.44,11781,56654,+26%,500002,False
+2026-04-08,16:28,2026-04-07,NKE,"Nike, Inc.",Swan Robert Holmes,Dir,P - Purchase,42.44,11781,56654,+26%,500002,True
 2026-04-08,16:15,2026-04-07,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,14.22,2000,1602013,0%,28440,False
 2026-04-08,16:09,2026-04-08,BETR,Better Home & Finance Holding Co,Orn Jonsson Sigurgeir,CTO,P - Purchase,36.09,1000,3497,+40%,36089,True
 2026-04-08,17:47,2026-03-16,XAGE,"Longevity Health Holdings, Inc.",Ajjarapu J. Ram,"CEO, 10%",P - Purchase,0.29,689656,689656,New,200000,False
 2026-04-08,17:36,2026-04-07,LW,"Lamb Weston Holdings, Inc.",Prestage Norman,Dir,P - Purchase,41.40,2500,9482,+36%,103500,True
-2026-04-08,21:00,2026-04-06,CGCT,Cartesian Growth Corp III,Cgc III Sponsor LLC,10%,P - Purchase,10.30,300000,1271000,+31%,3091400,False
+2026-04-08,21:00,2026-04-06,CGCT,Cartesian Growth Corp III,Cgc III Sponsor LLC,10%,P - Purchase,10.30,300000,1271000,+31%,3091400,True
 2026-04-08,19:54,2026-04-08,BETR,Better Home & Finance Holding Co,Garg Vishal,"CEO, 10%",P - Purchase,35.05,10000,64877,+18%,350519,True
 2026-04-08,21:30,2026-04-06,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,70.66,3581,5681420,0%,253025,False
+2026-04-10,19:40,2026-04-10,BETR,Better Home & Finance Holding Co,Framework Ventures IV L.P.,10% Owner,P - Purchase,32.96,54384,1006696,+6%,1792497,True
+2026-04-10,19:27,2026-04-10,MESO,Mesoblast Limited,George Gregory,Director,P - Purchase,1.48,2324072,8324072,+39%,3439627,False
+2026-04-10,19:27,2026-04-09,MESO,Mesoblast Limited,George Gregory,Director,P - Purchase,8.59,1981890,13586890,+17%,17015467,False
+2026-04-10,19:27,2026-04-04,MESO,Mesoblast Limited,George Gregory,Director,P - Purchase,1.42,4000000,12000000,+50%,5680000,False
+2026-04-10,16:42,2026-04-09,HYMC,Hycroft Mining Holding Corp,Sprott Eric,10% Owner,P - Purchase,38.67,200000,37303704,+1%,7734000,False
+2026-04-10,16:30,2026-04-08,TBN,Tamboran Resources Corp,SHEFFIELD SCOTT D,Director,P - Purchase,36.02,6990,292430,+2%,251774,False
+2026-04-10,16:24,2026-04-09,NKE,"Nike, Inc.",ROGERS JOHN W JR,Director,P - Purchase,43.34,4000,41022,+11%,173360,True
+2026-04-10,16:16,2026-04-09,XZO,"Exzeo Group, Inc.",Patel Paresh,Chief Executive Officer,P - Purchase,15.74,2000,1606013,+0%,31480,False
+2026-04-10,16:05,2026-04-08,USAU,U.S. Gold Corp.,NORMAN LUKE ANTHONY,Director,P - Purchase,14.63,10000,278759,+4%,146300,False
+2026-04-10,16:04,2026-04-08,AYI,Acuity Inc.,O'Shaughnessy Laura,Director,P - Purchase,282.98,1000,3111,+47%,282980,False
+2026-04-10,15:29,2026-04-10,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,President,P - Purchase,4.89,10000,3042000,+0%,48950,False
+2026-04-10,12:15,2026-04-08,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10% Owner,P - Purchase,17.47,14372,7019372,+0%,251054,False
+2026-04-10,06:18,2026-04-08,BZUN,Baozun Inc.,Wu Junhua,Chief Strategy Officer,P - Purchase,2.54,30886,122314,+34%,78450,True
+2026-04-09,21:58,2026-04-07,SG,"Sweetgreen, Inc.",GOLDMAN SACHS GROUP INC,10% Owner,P - Purchase,5.69,594553,11900255,+5%,3382595,False
+2026-04-09,21:58,2026-04-07,GS,Goldman Sachs Group Inc,GOLDMAN SACHS GROUP INC,10% Owner,P - Purchase,5.69,594553,11900255,+5%,3382595,False
+2026-04-09,18:41,2026-04-09,SPRU,Spruce Power Holding Corp,STEEL PARTNERS HOLDINGS L.P.,10% Owner,P - Purchase,3.98,14532,3381099,+0%,57900,True
+2026-04-09,18:12,2026-04-08,CRT,Cross Timbers Royalty Trust,OLIVER ERIC L,10% Owner,P - Purchase,10.40,10033,725943,+1%,104343,True
+2026-04-09,18:12,2026-04-07,CRT,Cross Timbers Royalty Trust,OLIVER ERIC L,10% Owner,P - Purchase,10.49,4585,715910,+1%,48097,True
+2026-04-09,18:00,2026-04-08,LW,"Lamb Weston Holdings, Inc.","JANA Partners Management, LP",Director,P - Purchase,41.41,100000,5248980,+2%,4141000,True
+2026-04-09,18:00,2026-04-07,LW,"Lamb Weston Holdings, Inc.","JANA Partners Management, LP",Director,P - Purchase,40.89,136000,5148980,+3%,5561040,True
+2026-04-09,17:29,2026-04-09,BETR,Better Home & Finance Holding Co,Talwar Harit,Director,P - Purchase,32.89,5000,36698,+16%,164432,True
+2026-04-09,16:47,2026-04-07,CNM,"Core & Main, Inc.",Hope James D,Director,P - Purchase,50.70,1972,6939,+40%,99971,False
+2026-04-09,16:19,2026-04-09,CNXC,Concentrix Corp,Valentine Andre S,Chief Financial Officer,P - Purchase,27.95,2500,89066,+3%,69869,True
+2026-04-09,16:16,2026-04-08,XZO,"Exzeo Group, Inc.",Patel Paresh,Chief Executive Officer,P - Purchase,15.05,2000,1604013,+0%,30100,False
+2026-04-09,16:07,2026-04-07,PCF,High Income Securities Fund,GOLDSTEIN PHILLIP,Affiliate of the Adviser,P - Purchase,5.45,5088,46441,+12%,27725,False
+2026-04-09,14:43,2026-04-09,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,President,P - Purchase,5.19,5000,3032000,+0%,25950,False
+2026-04-09,14:43,2026-04-08,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,President,P - Purchase,5.61,10000,3027000,+0%,56050,False
+2026-04-09,13:10,2026-04-08,MXF,"The Mexico Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,22.17,2200,1781146,+0%,48774,False
+2026-04-09,13:07,2026-04-08,GF,"The New Germany Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,11.41,22744,2832311,+1%,259509,False
+2026-04-09,12:04,2026-04-02,LGHL,Lion Group Holding Ltd.,HRT FINANCIAL LP,10% Owner,P - Purchase,0.83,31629,23179,New,26252,False
+2026-04-09,06:31,2026-04-08,BZUN,Baozun Inc.,Qiu Wenbin,Chief Executive Officer,P - Purchase,2.58,11600,1341722,+1%,29928,True
+2026-04-09,06:31,2026-04-07,BZUN,Baozun Inc.,Qiu Wenbin,Chief Executive Officer,P - Purchase,2.51,12000,1330122,+1%,30120,True
+2026-04-08,21:30,2026-04-08,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,71.40,1208,4692358,+0%,86252,False
+2026-04-08,21:30,2026-04-07,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,70.09,1173,4691150,+0%,82211,False
+2026-04-08,21:30,2026-04-06,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,70.47,1200,4689977,+0%,84562,False
+2026-04-08,21:00,2026-04-06,CGCT,Cartesian Growth Corp III,CGC III Sponsor LLC,10% Owner,P - Purchase,10.31,100000,1071000,+10%,1030600,True
+2026-04-08,16:52,2026-04-08,GAM,"General American Investors Company, Inc.",Priest Jeffrey W,President & CEO,P - Purchase,24.68,5000,40691,+14%,123425,True
+2026-04-08,16:38,2026-04-08,GAM,"General American Investors Company, Inc.",Stark Eugene S,VP Administration/CCO/PFO,P - Purchase,24.86,6151,34000,+22%,152933,True
+2026-04-08,16:28,2026-04-07,NKE,"Nike, Inc.",SWAN ROBERT HOLMES,Director,P - Purchase,42.44,11781,55074,+27%,500002,True
+2026-04-08,15:30,2026-04-08,KYN,"Kayne Anderson Energy Infrastructure Fund, Inc.",Baker James C,President,P - Purchase,13.67,25000,978019,+3%,341750,False
+2026-04-07,16:34,2026-04-06,MXF,"The Mexico Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,21.23,3814,1778946,+0%,80971,False
+2026-04-07,16:32,2026-04-06,GF,"The New Germany Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,10.63,140564,2809567,+5%,1494195,False
+2026-04-07,15:19,2026-04-06,MKZR,"Mackenzie Realty Capital, Inc.",DIXON ROBERT E,CEO/President,P - Purchase,3.50,10000,54241,+23%,34972,True
+2026-04-06,20:55,2026-04-06,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,President,P - Purchase,6.32,5000,3017000,+0%,31600,False
+2026-04-06,20:55,2026-04-02,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,President,P - Purchase,6.09,20000,3012000,+1%,121798,False
+2026-04-06,16:38,2026-04-02,SWZ,"Total Return Securities, Inc.",Dakos Andrew,President and CEO,P - Purchase,5.93,4863,88,New,28828,False
+2026-04-06,16:33,2026-04-02,GSBD,"Goldman Sachs BDC, Inc.",Evans Carlos E,Director,P - Purchase,9.02,50000,64446,+346%,451035,False
+2026-04-06,16:09,2026-04-02,VSCO,Victoria'S Secret & Co.,JAMES DONNA,Director,P - Purchase,46.23,2175,63097,+4%,100550,True
+2026-04-06,16:06,2026-04-02,SCVL,Shoe Carnival Inc,JACKSON W KERRY,EVP - CFO,P - Purchase,16.13,31000,215529,+17%,500030,True
+2026-04-06,16:05,2026-04-06,ALT,"Altimmune, Inc.",GILL JOHN,Director,P - Purchase,3.41,9200,21700,+74%,31350,True
+2026-04-06,12:31,2026-04-02,VKI,Invesco Advantage Municipal Income Trust II,BANK OF AMERICA CORP /DE/,10% Owner,P - Purchase,8.68,3359,3359,New,29156,True
+2026-04-06,12:31,2026-04-02,BAC,Bank of America Corporation,BANK OF AMERICA CORP /DE/,10% Owner,P - Purchase,8.68,3359,3359,New,29156,False
+2026-04-06,08:19,2026-04-02,SVC,Service Properties Trust,FRAICHE DONNA D.,Director,P - Purchase,1.20,83333,182013,+84%,100000,True
