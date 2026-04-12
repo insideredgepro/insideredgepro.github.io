@@ -503,6 +503,10 @@
   /* ------------------------------------------------------------------ */
   /* Utilities                                                             */
   /* ------------------------------------------------------------------ */
+  function toLocalDateStr(d) {
+    return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+  }
+
   function parseNumber(v) {
     if (v === null || v === undefined || v === '') return 0;
     const s = String(v).replace(/[$,\s%+]/g, '');
@@ -579,7 +583,7 @@
     if (dateRange !== 'all') {
       const d = new Date();
       d.setDate(d.getDate() - parseInt(dateRange, 10));
-      cutoff = d.toISOString().slice(0, 10);
+      cutoff = toLocalDateStr(d);
     }
     return trades.filter(t => {
       if (parseNumber(t.value) < minValue) return false;
@@ -649,7 +653,11 @@
       // If 1D is empty (weekend/holiday), auto-show last active day
       if (dateRange === '1' && allTrades.length > 0) {
         const lastDate = allTrades.reduce((max, t) => t.filing_date > max ? t.filing_date : max, '');
-        const lastDayTrades = allTrades.filter(t => t.filing_date === lastDate);
+        // Apply all filters except date to the last active day's trades
+        const savedDateRange = dateRange;
+        dateRange = 'all';
+        const lastDayTrades = applyFilters(allTrades.filter(t => t.filing_date === lastDate));
+        dateRange = savedDateRange;
         if (lastDayTrades.length > 0) {
           const d = new Date(lastDate + 'T00:00:00');
           const label = d.toLocaleDateString('en-US', { weekday: 'long', month: 'short', day: 'numeric', year: 'numeric' });
