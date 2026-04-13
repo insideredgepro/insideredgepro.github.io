@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-13",
-  "entry_count": 398,
+  "entry_count": 400,
   "entries": [
     {
       "id": "US|VANI|2026-03-15|williams gregg|1.07",
@@ -13186,6 +13186,46 @@
       },
       "latest_price": 28.78,
       "return_pct": -7.4,
+      "last_snapshot": "2026-04-13"
+    },
+    {
+      "id": "US|MNR|2026-04-13|ward tom l.|13.05",
+      "market": "US",
+      "ticker": "MNR",
+      "yf_symbol": "MNR",
+      "company": "Mach Natural Resources LP",
+      "insider_name": "Ward Tom L.",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-04-13",
+      "trade_price": 13.05,
+      "value": 1999991.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-13": 12.65
+      },
+      "latest_price": 12.65,
+      "return_pct": -3.07,
+      "last_snapshot": "2026-04-13"
+    },
+    {
+      "id": "US|XZO|2026-04-10|patel paresh|15.38",
+      "market": "US",
+      "ticker": "XZO",
+      "yf_symbol": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Patel Paresh",
+      "title": "CEO",
+      "trade_date": "2026-04-10",
+      "trade_price": 15.38,
+      "value": 30760.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-13": 14.87
+      },
+      "latest_price": 14.87,
+      "return_pct": -3.32,
       "last_snapshot": "2026-04-13"
     }
   ]

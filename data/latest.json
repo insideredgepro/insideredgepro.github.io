@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-13T20:43:59Z",
-  "trade_count": 5943,
+  "last_updated": "2026-04-13T21:40:12Z",
+  "trade_count": 5946,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -95088,6 +95088,54 @@
       "owned": "1367397",
       "delta_own": "+834%",
       "value": "37946131",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-13",
+      "filing_time": "17:20",
+      "trade_date": "2026-02-18",
+      "ticker": "ACET",
+      "company": "Adicet Bio, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "7.17",
+      "qty": "223596",
+      "owned": "1182624",
+      "delta_own": "+23%",
+      "value": "1603934",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-13",
+      "filing_time": "17:02",
+      "trade_date": "2026-04-13",
+      "ticker": "MNR",
+      "company": "Mach Natural Resources LP",
+      "insider_name": "Ward Tom L.",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "13.05",
+      "qty": "153256",
+      "owned": "28008676",
+      "delta_own": "+1%",
+      "value": "1999991",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-13",
+      "filing_time": "16:45",
+      "trade_date": "2026-04-10",
+      "ticker": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Patel Paresh",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "15.38",
+      "qty": "2000",
+      "owned": "1608013",
+      "delta_own": "0%",
+      "value": "30760",
       "cluster_buy": false
     }
   ]
