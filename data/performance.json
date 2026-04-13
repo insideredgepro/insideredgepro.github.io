@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-13",
-  "entry_count": 387,
+  "entry_count": 390,
   "entries": [
     {
       "id": "US|VANI|2026-03-15|williams gregg|1.07",
@@ -2114,8 +2114,8 @@
         "2026-04-12": 8.32,
         "2026-04-13": 8.32
       },
-      "latest_price": 8.49,
-      "return_pct": -1.28,
+      "latest_price": 8.32,
+      "return_pct": -3.26,
       "last_snapshot": "2026-04-13"
     },
     {
@@ -12966,6 +12966,66 @@
       },
       "latest_price": 15,
       "return_pct": 941.67,
+      "last_snapshot": "2026-04-13"
+    },
+    {
+      "id": "US|MKC|2026-04-10|hattersley gavin|52.98",
+      "market": "US",
+      "ticker": "MKC",
+      "yf_symbol": "MKC",
+      "company": "McCormick & Co Inc",
+      "insider_name": "Hattersley Gavin",
+      "title": "Dir",
+      "trade_date": "2026-04-10",
+      "trade_price": 52.98,
+      "value": 105960.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-13": 53.71
+      },
+      "latest_price": 53.71,
+      "return_pct": 1.38,
+      "last_snapshot": "2026-04-13"
+    },
+    {
+      "id": "US|HTO|2026-04-10|atlas infrastructure partners (uk) ltd.|59.06",
+      "market": "US",
+      "ticker": "HTO",
+      "yf_symbol": "HTO",
+      "company": "H2O America",
+      "insider_name": "Atlas Infrastructure Partners (Uk) Ltd.",
+      "title": "10%",
+      "trade_date": "2026-04-10",
+      "trade_price": 59.06,
+      "value": 2975919.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-13": 59.67
+      },
+      "latest_price": 59.67,
+      "return_pct": 1.03,
+      "last_snapshot": "2026-04-13"
+    },
+    {
+      "id": "US|CRT|2026-04-07|oliver eric l|10.43",
+      "market": "US",
+      "ticker": "CRT",
+      "yf_symbol": "CRT",
+      "company": "Cross Timbers Royalty Trust",
+      "insider_name": "Oliver Eric L",
+      "title": "10%",
+      "trade_date": "2026-04-07",
+      "trade_price": 10.43,
+      "value": 152440.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-13": 10.4
+      },
+      "latest_price": 10.4,
+      "return_pct": -0.29,
       "last_snapshot": "2026-04-13"
     }
   ]

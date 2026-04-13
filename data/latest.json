@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-13T15:09:06Z",
-  "trade_count": 5929,
+  "last_updated": "2026-04-13T16:55:35Z",
+  "trade_count": 5932,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -94865,6 +94865,54 @@
       "delta_own": "+30%",
       "value": "11396977",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-13",
+      "filing_time": "12:30",
+      "trade_date": "2026-04-10",
+      "ticker": "MKC",
+      "company": "McCormick & Co Inc",
+      "insider_name": "Hattersley Gavin",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "52.98",
+      "qty": "2000",
+      "owned": "3312",
+      "delta_own": "+152%",
+      "value": "105960",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-13",
+      "filing_time": "12:10",
+      "trade_date": "2026-04-10",
+      "ticker": "HTO",
+      "company": "H2O America",
+      "insider_name": "Atlas Infrastructure Partners (Uk) Ltd.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "59.06",
+      "qty": "50385",
+      "owned": "4582469",
+      "delta_own": "+1%",
+      "value": "2975919",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-09",
+      "filing_time": "18:12",
+      "trade_date": "2026-04-07",
+      "ticker": "CRT",
+      "company": "Cross Timbers Royalty Trust",
+      "insider_name": "Oliver Eric L",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "10.43",
+      "qty": "14618",
+      "owned": "725943",
+      "delta_own": "+2%",
+      "value": "152440",
+      "cluster_buy": true
     }
   ]
 }
