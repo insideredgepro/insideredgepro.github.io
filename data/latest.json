@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-13T22:36:04Z",
-  "trade_count": 5946,
+  "last_updated": "2026-04-13T23:35:30Z",
+  "trade_count": 5947,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -95136,6 +95136,22 @@
       "owned": "1608013",
       "delta_own": "0%",
       "value": "30760",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-13",
+      "filing_time": "18:51",
+      "trade_date": "2026-04-13",
+      "ticker": "CHPT",
+      "company": "Chargepoint Holdings, Inc.",
+      "insider_name": "Wilmer Richard",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "5.34",
+      "qty": "46847",
+      "owned": "511224",
+      "delta_own": "+10%",
+      "value": "249999",
       "cluster_buy": false
     }
   ]

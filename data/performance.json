@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-13",
-  "entry_count": 400,
+  "entry_count": 401,
   "entries": [
     {
       "id": "US|VANI|2026-03-15|williams gregg|1.07",
@@ -13226,6 +13226,26 @@
       },
       "latest_price": 14.87,
       "return_pct": -3.32,
+      "last_snapshot": "2026-04-13"
+    },
+    {
+      "id": "US|CHPT|2026-04-13|wilmer richard|5.34",
+      "market": "US",
+      "ticker": "CHPT",
+      "yf_symbol": "CHPT",
+      "company": "Chargepoint Holdings, Inc.",
+      "insider_name": "Wilmer Richard",
+      "title": "Pres, CEO",
+      "trade_date": "2026-04-13",
+      "trade_price": 5.34,
+      "value": 249999.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-13": 5.09
+      },
+      "latest_price": 5.09,
+      "return_pct": -4.68,
       "last_snapshot": "2026-04-13"
     }
   ]
