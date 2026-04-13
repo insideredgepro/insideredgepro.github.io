@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-13",
-  "entry_count": 390,
+  "entry_count": 397,
   "entries": [
     {
       "id": "US|VANI|2026-03-15|williams gregg|1.07",
@@ -13026,6 +13026,146 @@
       },
       "latest_price": 10.4,
       "return_pct": -0.29,
+      "last_snapshot": "2026-04-13"
+    },
+    {
+      "id": "US|MESO|2026-04-04|george gregory|3.15",
+      "market": "US",
+      "ticker": "MESO",
+      "yf_symbol": "MESO",
+      "company": "Mesoblast Ltd",
+      "insider_name": "George Gregory",
+      "title": "Dir, 10%",
+      "trade_date": "2026-04-04",
+      "trade_price": 3.15,
+      "value": 26135093.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-13": 15
+      },
+      "latest_price": 15,
+      "return_pct": 376.19,
+      "last_snapshot": "2026-04-13"
+    },
+    {
+      "id": "US|RPAY|2026-04-07|forager fund, l.p.|2.52",
+      "market": "US",
+      "ticker": "RPAY",
+      "yf_symbol": "RPAY",
+      "company": "Repay Holdings Corp",
+      "insider_name": "Forager Fund, L.P.",
+      "title": "10%",
+      "trade_date": "2026-04-07",
+      "trade_price": 2.52,
+      "value": 2304426.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-13": 3.01
+      },
+      "latest_price": 3.01,
+      "return_pct": 19.44,
+      "last_snapshot": "2026-04-13"
+    },
+    {
+      "id": "US|SPRU|2026-04-07|steel partners holdings l.p.|3.99",
+      "market": "US",
+      "ticker": "SPRU",
+      "yf_symbol": "SPRU",
+      "company": "Spruce Power Holding Corp",
+      "insider_name": "Steel Partners Holdings L.P.",
+      "title": "10%",
+      "trade_date": "2026-04-07",
+      "trade_price": 3.99,
+      "value": 77900.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-13": 4.01
+      },
+      "latest_price": 4.01,
+      "return_pct": 0.5,
+      "last_snapshot": "2026-04-13"
+    },
+    {
+      "id": "US|LW|2026-04-07|jana partners management, lp|41.11",
+      "market": "US",
+      "ticker": "LW",
+      "yf_symbol": "LW",
+      "company": "Lamb Weston Holdings, Inc.",
+      "insider_name": "Jana Partners Management, LP",
+      "title": "See Remarks",
+      "trade_date": "2026-04-07",
+      "trade_price": 41.11,
+      "value": 9702040.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-13": 42.19
+      },
+      "latest_price": 42.19,
+      "return_pct": 2.63,
+      "last_snapshot": "2026-04-13"
+    },
+    {
+      "id": "US|NTHI|2026-04-08|heshmatpour amir f|5.47",
+      "market": "US",
+      "ticker": "NTHI",
+      "yf_symbol": "NTHI",
+      "company": "Neonc Technologies Holdings, Inc.",
+      "insider_name": "Heshmatpour Amir F",
+      "title": "Pres, 10%",
+      "trade_date": "2026-04-08",
+      "trade_price": 5.47,
+      "value": 82000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-13": 5.44
+      },
+      "latest_price": 5.44,
+      "return_pct": -0.55,
+      "last_snapshot": "2026-04-13"
+    },
+    {
+      "id": "US|LGHL|2026-04-02|hrt financial lp|0.86",
+      "market": "US",
+      "ticker": "LGHL",
+      "yf_symbol": "LGHL",
+      "company": "Lion Group Holding Ltd",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_date": "2026-04-02",
+      "trade_price": 0.86,
+      "value": 48808.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-13": 0.8365
+      },
+      "latest_price": 0.8365,
+      "return_pct": -2.73,
+      "last_snapshot": "2026-04-13"
+    },
+    {
+      "id": "US|BZUN|2026-04-07|qiu wenbin|2.54",
+      "market": "US",
+      "ticker": "BZUN",
+      "yf_symbol": "BZUN",
+      "company": "Baozun Inc.",
+      "insider_name": "Qiu Wenbin",
+      "title": "CEO",
+      "trade_date": "2026-04-07",
+      "trade_price": 2.54,
+      "value": 60048.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-13": 2.42
+      },
+      "latest_price": 2.42,
+      "return_pct": -4.72,
       "last_snapshot": "2026-04-13"
     }
   ]

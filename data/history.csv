@@ -5890,7 +5890,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-09,14:43,2026-04-08,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,President,P - Purchase,5.61,10000,3027000,+0%,56050,False
 2026-04-09,13:10,2026-04-08,MXF,"The Mexico Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,22.17,2200,1781146,+0%,48774,False
 2026-04-09,13:07,2026-04-08,GF,"The New Germany Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,11.41,22744,2832311,+1%,259509,False
-2026-04-09,12:04,2026-04-02,LGHL,Lion Group Holding Ltd.,HRT FINANCIAL LP,10% Owner,P - Purchase,0.83,31629,23179,New,26252,False
+2026-04-09,12:04,2026-04-02,LGHL,Lion Group Holding Ltd.,HRT FINANCIAL LP,10% Owner,P - Purchase,0.83,31629,23179,New,26252,True
 2026-04-09,06:31,2026-04-08,BZUN,Baozun Inc.,Qiu Wenbin,Chief Executive Officer,P - Purchase,2.58,11600,1341722,+1%,29928,True
 2026-04-09,06:31,2026-04-07,BZUN,Baozun Inc.,Qiu Wenbin,Chief Executive Officer,P - Purchase,2.51,12000,1330122,+1%,30120,True
 2026-04-08,21:30,2026-04-08,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,71.40,1208,4692358,+0%,86252,False
@@ -5931,3 +5931,13 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-13,12:30,2026-04-10,MKC,McCormick & Co Inc,Hattersley Gavin,Dir,P - Purchase,52.98,2000,3312,+152%,105960,False
 2026-04-13,12:10,2026-04-10,HTO,H2O America,Atlas Infrastructure Partners (Uk) Ltd.,10%,P - Purchase,59.06,50385,4582469,+1%,2975919,False
 2026-04-09,18:12,2026-04-07,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,10.43,14618,725943,+2%,152440,True
+2026-04-10,19:27,2026-04-04,MESO,Mesoblast Ltd,George Gregory,"Dir, 10%",P - Purchase,3.15,8305962,33910962,+32%,26135093,False
+2026-04-10,16:01,2026-04-07,RPAY,Repay Holdings Corp,"Forager Fund, L.P.",10%,P - Purchase,2.52,913711,11106648,+9%,2304426,False
+2026-04-10,15:58,2026-04-01,RPAY,Repay Holdings Corp,"Forager Fund, L.P.",10%,P - Purchase,2.54,950000,10192937,+10%,2408384,False
+2026-04-10,15:57,2026-03-25,RPAY,Repay Holdings Corp,"Forager Fund, L.P.",10%,P - Purchase,3.01,642837,9242937,+7%,1935060,False
+2026-04-09,18:41,2026-04-07,SPRU,Spruce Power Holding Corp,Steel Partners Holdings L.P.,10%,P - Purchase,3.99,19532,3381099,+1%,77900,True
+2026-04-09,18:33,2026-04-07,RPAY,Repay Holdings Corp,"Forager Fund, L.P.",10%,P - Purchase,2.52,913711,11106648,+9%,2304426,False
+2026-04-09,18:00,2026-04-07,LW,"Lamb Weston Holdings, Inc.","Jana Partners Management, LP",See Remarks,P - Purchase,41.11,236000,10397960,+2%,9702040,True
+2026-04-09,14:43,2026-04-08,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"Pres, 10%",P - Purchase,5.47,15000,7552140,0%,82000,False
+2026-04-09,12:04,2026-04-02,LGHL,Lion Group Holding Ltd,Hrt Financial LP,10%,P - Purchase,0.86,56652,41765,-381%,48808,True
+2026-04-09,06:31,2026-04-07,BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,2.54,23600,1341722,+2%,60048,True
