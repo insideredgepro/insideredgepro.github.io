@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-13",
-  "entry_count": 397,
+  "entry_count": 398,
   "entries": [
     {
       "id": "US|VANI|2026-03-15|williams gregg|1.07",
@@ -2114,8 +2114,8 @@
         "2026-04-12": 8.32,
         "2026-04-13": 8.32
       },
-      "latest_price": 8.35,
-      "return_pct": -2.91,
+      "latest_price": 8.32,
+      "return_pct": -3.26,
       "last_snapshot": "2026-04-13"
     },
     {
@@ -13166,6 +13166,26 @@
       },
       "latest_price": 2.42,
       "return_pct": -4.72,
+      "last_snapshot": "2026-04-13"
+    },
+    {
+      "id": "US|SMC|2026-03-31|connect midstream, llc|31.08",
+      "market": "US",
+      "ticker": "SMC",
+      "yf_symbol": "SMC",
+      "company": "Summit Midstream Corp",
+      "insider_name": "Connect Midstream, LLC",
+      "title": "10%",
+      "trade_date": "2026-03-31",
+      "trade_price": 31.08,
+      "value": 37946131.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-13": 28.78
+      },
+      "latest_price": 28.78,
+      "return_pct": -7.4,
       "last_snapshot": "2026-04-13"
     }
   ]
