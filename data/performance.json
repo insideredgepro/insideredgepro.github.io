@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-13",
-  "entry_count": 401,
+  "entry_count": 402,
   "entries": [
     {
       "id": "US|VANI|2026-03-15|williams gregg|1.07",
@@ -2114,8 +2114,8 @@
         "2026-04-12": 8.32,
         "2026-04-13": 8.32
       },
-      "latest_price": 8.32,
-      "return_pct": -3.26,
+      "latest_price": 8.365,
+      "return_pct": -2.73,
       "last_snapshot": "2026-04-13"
     },
     {
@@ -11446,8 +11446,8 @@
         "2026-04-12": 0.35,
         "2026-04-13": 0.35
       },
-      "latest_price": 0.35,
-      "return_pct": 20.69,
+      "latest_price": 0.495,
+      "return_pct": 70.69,
       "last_snapshot": "2026-04-13"
     },
     {
@@ -13246,6 +13246,26 @@
       },
       "latest_price": 5.09,
       "return_pct": -4.68,
+      "last_snapshot": "2026-04-13"
+    },
+    {
+      "id": "US|NMM|2026-04-09|frangou angeliki|69.98",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-04-09",
+      "trade_price": 69.98,
+      "value": 248220.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-13": 69.17
+      },
+      "latest_price": 69.17,
+      "return_pct": -1.16,
       "last_snapshot": "2026-04-13"
     }
   ]
