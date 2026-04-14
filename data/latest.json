@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14T11:52:53Z",
-  "trade_count": 5956,
+  "last_updated": "2026-04-14T13:05:30Z",
+  "trade_count": 5957,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -95297,6 +95297,22 @@
       "delta_own": "+13%",
       "value": "40492",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-14",
+      "filing_time": "08:25",
+      "trade_date": "2026-04-13",
+      "ticker": "WKSP",
+      "company": "Worksport Ltd",
+      "insider_name": "Rossi Steven F.",
+      "title": "CEO, Pres",
+      "trade_type": "P - Purchase",
+      "price": "0.85",
+      "qty": "88214",
+      "owned": "2614085",
+      "delta_own": "+3%",
+      "value": "75000",
+      "cluster_buy": false
     }
   ]
 }
