@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14T10:08:29Z",
-  "trade_count": 5955,
+  "last_updated": "2026-04-14T11:52:53Z",
+  "trade_count": 5956,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -95280,6 +95280,22 @@
       "owned": "4582469",
       "delta_own": "+1%",
       "value": "2975919",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-14",
+      "filing_time": "07:47",
+      "trade_date": "2026-04-10",
+      "ticker": "BZUN",
+      "company": "Baozun Inc.",
+      "insider_name": "Wu Junhua",
+      "title": "Chief Strategy Officer",
+      "trade_type": "P - Purchase",
+      "price": "2.46",
+      "qty": "16456",
+      "owned": "138770",
+      "delta_own": "+13%",
+      "value": "40492",
       "cluster_buy": true
     }
   ]
