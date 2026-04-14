@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14T19:00:17Z",
-  "trade_count": 2827,
+  "last_updated": "2026-04-14T21:00:24Z",
+  "trade_count": 2828,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42781,6 +42781,22 @@
       "qty": "405000",
       "price": "0.1000",
       "value": "40500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4704669",
+      "trade_date": "2026-04-14",
+      "filing_date": "2026-04-14",
+      "company": "District Metals Corp.",
+      "ticker": "DMX",
+      "insider_name": "Ainsworth, Garrett  Paul",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "25000",
+      "price": "0.7400",
+      "value": "18500",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
