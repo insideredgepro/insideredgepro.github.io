@@ -5929,7 +5929,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-13,08:31,2026-03-26,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,20.30,1740240,74700800,+2%,35332457,False
 2026-04-13,07:19,2026-04-04,MESO,Mesoblast Ltd,George Gregory,"Dir, 10%",P - Purchase,1.44,7910962,33910962,+30%,11396977,False
 2026-04-13,12:30,2026-04-10,MKC,McCormick & Co Inc,Hattersley Gavin,Dir,P - Purchase,52.98,2000,3312,+152%,105960,False
-2026-04-13,12:10,2026-04-10,HTO,H2O America,Atlas Infrastructure Partners (Uk) Ltd.,10%,P - Purchase,59.06,50385,4582469,+1%,2975919,False
+2026-04-13,12:10,2026-04-10,HTO,H2O America,Atlas Infrastructure Partners (Uk) Ltd.,10%,P - Purchase,59.06,50385,4582469,+1%,2975919,True
 2026-04-09,18:12,2026-04-07,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,10.43,14618,725943,+2%,152440,True
 2026-04-10,19:27,2026-04-04,MESO,Mesoblast Ltd,George Gregory,"Dir, 10%",P - Purchase,3.15,8305962,33910962,+32%,26135093,False
 2026-04-10,16:01,2026-04-07,RPAY,Repay Holdings Corp,"Forager Fund, L.P.",10%,P - Purchase,2.52,913711,11106648,+9%,2304426,False
@@ -5947,3 +5947,10 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-13,16:45,2026-04-10,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,15.38,2000,1608013,0%,30760,False
 2026-04-13,18:51,2026-04-13,CHPT,"Chargepoint Holdings, Inc.",Wilmer Richard,"Pres, CEO",P - Purchase,5.34,46847,511224,+10%,249999,False
 2026-04-13,21:05,2026-04-09,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,69.98,3547,5684967,0%,248220,False
+2026-04-13,21:05,2026-04-13,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,70.24,1204,4695905,+0%,84568,False
+2026-04-13,21:05,2026-04-10,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,68.94,1188,4694701,+0%,81896,False
+2026-04-13,21:05,2026-04-09,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,70.78,1155,4693513,+0%,81756,False
+2026-04-13,17:20,2026-02-20,ACET,"Adicet Bio, Inc.","Ra Capital Management, L.P.",10% Owner,P - Purchase,7.27,74751,1182624,+7%,543440,False
+2026-04-13,17:20,2026-02-19,ACET,"Adicet Bio, Inc.","Ra Capital Management, L.P.",10% Owner,P - Purchase,7.21,74268,1107873,+7%,535472,False
+2026-04-13,17:20,2026-02-18,ACET,"Adicet Bio, Inc.","Ra Capital Management, L.P.",10% Owner,P - Purchase,7.04,74577,1033605,+8%,525022,False
+2026-04-13,12:10,2026-04-10,HTO,H2O America,Atlas Infrastructure Partners,10% Owner,P - Purchase,59.06,50385,4582469,+1%,2975919,True

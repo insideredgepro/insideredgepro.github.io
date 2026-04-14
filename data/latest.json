@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14T04:39:37Z",
-  "trade_count": 5948,
+  "last_updated": "2026-04-14T06:28:33Z",
+  "trade_count": 5955,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -94896,7 +94896,7 @@
       "owned": "4582469",
       "delta_own": "+1%",
       "value": "2975919",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-09",
@@ -95169,6 +95169,118 @@
       "delta_own": "0%",
       "value": "248220",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-13",
+      "filing_time": "21:05",
+      "trade_date": "2026-04-13",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_type": "P - Purchase",
+      "price": "70.24",
+      "qty": "1204",
+      "owned": "4695905",
+      "delta_own": "+0%",
+      "value": "84568",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-13",
+      "filing_time": "21:05",
+      "trade_date": "2026-04-10",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_type": "P - Purchase",
+      "price": "68.94",
+      "qty": "1188",
+      "owned": "4694701",
+      "delta_own": "+0%",
+      "value": "81896",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-13",
+      "filing_time": "21:05",
+      "trade_date": "2026-04-09",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_type": "P - Purchase",
+      "price": "70.78",
+      "qty": "1155",
+      "owned": "4693513",
+      "delta_own": "+0%",
+      "value": "81756",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-13",
+      "filing_time": "17:20",
+      "trade_date": "2026-02-20",
+      "ticker": "ACET",
+      "company": "Adicet Bio, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "10% Owner",
+      "trade_type": "P - Purchase",
+      "price": "7.27",
+      "qty": "74751",
+      "owned": "1182624",
+      "delta_own": "+7%",
+      "value": "543440",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-13",
+      "filing_time": "17:20",
+      "trade_date": "2026-02-19",
+      "ticker": "ACET",
+      "company": "Adicet Bio, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "10% Owner",
+      "trade_type": "P - Purchase",
+      "price": "7.21",
+      "qty": "74268",
+      "owned": "1107873",
+      "delta_own": "+7%",
+      "value": "535472",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-13",
+      "filing_time": "17:20",
+      "trade_date": "2026-02-18",
+      "ticker": "ACET",
+      "company": "Adicet Bio, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "10% Owner",
+      "trade_type": "P - Purchase",
+      "price": "7.04",
+      "qty": "74577",
+      "owned": "1033605",
+      "delta_own": "+8%",
+      "value": "525022",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-13",
+      "filing_time": "12:10",
+      "trade_date": "2026-04-10",
+      "ticker": "HTO",
+      "company": "H2O America",
+      "insider_name": "Atlas Infrastructure Partners",
+      "title": "10% Owner",
+      "trade_type": "P - Purchase",
+      "price": "59.06",
+      "qty": "50385",
+      "owned": "4582469",
+      "delta_own": "+1%",
+      "value": "2975919",
+      "cluster_buy": true
     }
   ]
 }

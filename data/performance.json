@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-14",
-  "entry_count": 402,
+  "entry_count": 406,
   "entries": [
     {
       "id": "US|VANI|2026-03-15|williams gregg|1.07",
@@ -13665,6 +13665,86 @@
       },
       "latest_price": 69.91,
       "return_pct": -0.1,
+      "last_snapshot": "2026-04-14"
+    },
+    {
+      "id": "US|NMM|2026-04-13|frangou angeliki|70.24",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_date": "2026-04-13",
+      "trade_price": 70.24,
+      "value": 84568.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-14": 69.91
+      },
+      "latest_price": 69.91,
+      "return_pct": -0.47,
+      "last_snapshot": "2026-04-14"
+    },
+    {
+      "id": "US|NMM|2026-04-10|frangou angeliki|68.94",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_date": "2026-04-10",
+      "trade_price": 68.94,
+      "value": 81896.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-14": 69.91
+      },
+      "latest_price": 69.91,
+      "return_pct": 1.41,
+      "last_snapshot": "2026-04-14"
+    },
+    {
+      "id": "US|NMM|2026-04-09|frangou angeliki|70.78",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_date": "2026-04-09",
+      "trade_price": 70.78,
+      "value": 81756.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-14": 69.91
+      },
+      "latest_price": 69.91,
+      "return_pct": -1.23,
+      "last_snapshot": "2026-04-14"
+    },
+    {
+      "id": "US|HTO|2026-04-10|atlas infrastructure partners|59.06",
+      "market": "US",
+      "ticker": "HTO",
+      "yf_symbol": "HTO",
+      "company": "H2O America",
+      "insider_name": "Atlas Infrastructure Partners",
+      "title": "10% Owner",
+      "trade_date": "2026-04-10",
+      "trade_price": 59.06,
+      "value": 2975919.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-14": 58.21
+      },
+      "latest_price": 58.21,
+      "return_pct": -1.44,
       "last_snapshot": "2026-04-14"
     }
   ]
