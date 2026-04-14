@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14T22:38:08Z",
-  "trade_count": 5966,
+  "last_updated": "2026-04-14T23:36:45Z",
+  "trade_count": 5967,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -95456,6 +95456,22 @@
       "owned": "732787",
       "delta_own": "+1%",
       "value": "71314",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-14",
+      "filing_time": "18:52",
+      "trade_date": "2026-04-10",
+      "ticker": "SPRU",
+      "company": "Spruce Power Holding Corp",
+      "insider_name": "Steel Partners Holdings L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "4.03",
+      "qty": "9702",
+      "owned": "3390801",
+      "delta_own": "0%",
+      "value": "39059",
       "cluster_buy": true
     }
   ]
