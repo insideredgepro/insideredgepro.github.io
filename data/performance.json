@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-14",
-  "entry_count": 415,
+  "entry_count": 417,
   "entries": [
     {
       "id": "US|VANI|2026-03-15|williams gregg|1.07",
@@ -4206,8 +4206,8 @@
         "2026-04-13": 13.33,
         "2026-04-14": 13.55
       },
-      "latest_price": 13.79,
-      "return_pct": 11.12,
+      "latest_price": 13.55,
+      "return_pct": 9.19,
       "last_snapshot": "2026-04-14"
     },
     {
@@ -4909,8 +4909,8 @@
         "2026-04-13": 13.33,
         "2026-04-14": 13.55
       },
-      "latest_price": 13.79,
-      "return_pct": 10.14,
+      "latest_price": 13.55,
+      "return_pct": 8.23,
       "last_snapshot": "2026-04-14"
     },
     {
@@ -6311,8 +6311,8 @@
         "2026-04-13": 13.33,
         "2026-04-14": 13.55
       },
-      "latest_price": 13.79,
-      "return_pct": 9.53,
+      "latest_price": 13.55,
+      "return_pct": 7.63,
       "last_snapshot": "2026-04-14"
     },
     {
@@ -7648,8 +7648,8 @@
         "2026-04-13": 13.33,
         "2026-04-14": 13.55
       },
-      "latest_price": 13.79,
-      "return_pct": 11.03,
+      "latest_price": 13.55,
+      "return_pct": 9.1,
       "last_snapshot": "2026-04-14"
     },
     {
@@ -9042,8 +9042,8 @@
         "2026-04-13": 13.33,
         "2026-04-14": 13.55
       },
-      "latest_price": 13.79,
-      "return_pct": 11.3,
+      "latest_price": 13.55,
+      "return_pct": 9.36,
       "last_snapshot": "2026-04-14"
     },
     {
@@ -13925,6 +13925,46 @@
       },
       "latest_price": 9.27,
       "return_pct": -7.11,
+      "last_snapshot": "2026-04-14"
+    },
+    {
+      "id": "US|SVBL|2026-04-08|barry timothy t.|0.22",
+      "market": "US",
+      "ticker": "SVBL",
+      "yf_symbol": "SVBL",
+      "company": "Silver Bull Resources, Inc.",
+      "insider_name": "Barry Timothy T.",
+      "title": "CEO",
+      "trade_date": "2026-04-08",
+      "trade_price": 0.22,
+      "value": 43076.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-14": 0.22
+      },
+      "latest_price": 0.22,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-04-14"
+    },
+    {
+      "id": "US|CRT|2026-04-10|oliver eric l|10.42",
+      "market": "US",
+      "ticker": "CRT",
+      "yf_symbol": "CRT",
+      "company": "Cross Timbers Royalty Trust",
+      "insider_name": "Oliver Eric L",
+      "title": "10%",
+      "trade_date": "2026-04-10",
+      "trade_price": 10.42,
+      "value": 71314.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-14": 10.39
+      },
+      "latest_price": 10.39,
+      "return_pct": -0.29,
       "last_snapshot": "2026-04-14"
     }
   ]

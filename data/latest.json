@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14T20:43:59Z",
-  "trade_count": 5964,
+  "last_updated": "2026-04-14T21:43:11Z",
+  "trade_count": 5966,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -95424,6 +95424,38 @@
       "owned": "158000",
       "delta_own": "+2%",
       "value": "29940",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-14",
+      "filing_time": "17:15",
+      "trade_date": "2026-04-08",
+      "ticker": "SVBL",
+      "company": "Silver Bull Resources, Inc.",
+      "insider_name": "Barry Timothy T.",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.22",
+      "qty": "195800",
+      "owned": "1966181",
+      "delta_own": "+11%",
+      "value": "43076",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-14",
+      "filing_time": "17:06",
+      "trade_date": "2026-04-10",
+      "ticker": "CRT",
+      "company": "Cross Timbers Royalty Trust",
+      "insider_name": "Oliver Eric L",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "10.42",
+      "qty": "6844",
+      "owned": "732787",
+      "delta_own": "+1%",
+      "value": "71314",
       "cluster_buy": true
     }
   ]
