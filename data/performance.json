@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-15",
-  "entry_count": 417,
+  "entry_count": 418,
   "entries": [
     {
       "id": "US|MTN|2026-03-16|korch angela a|131.85",
@@ -14352,6 +14352,26 @@
       },
       "latest_price": 4.05,
       "return_pct": 0.5,
+      "last_snapshot": "2026-04-15"
+    },
+    {
+      "id": "US|BZUN|2026-04-13|qiu wenbin|2.55",
+      "market": "US",
+      "ticker": "BZUN",
+      "yf_symbol": "BZUN",
+      "company": "Baozun Inc.",
+      "insider_name": "Qiu Wenbin",
+      "title": "CEO",
+      "trade_date": "2026-04-13",
+      "trade_price": 2.55,
+      "value": 60253.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-15": 2.62
+      },
+      "latest_price": 2.62,
+      "return_pct": 2.75,
       "last_snapshot": "2026-04-15"
     }
   ]
