@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-15T17:00:21Z",
-  "trade_count": 2833,
+  "last_updated": "2026-04-15T19:00:26Z",
+  "trade_count": 2835,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42877,6 +42877,38 @@
       "qty": "200000",
       "price": "0.3998",
       "value": "79960",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4705155",
+      "trade_date": "2026-04-15",
+      "filing_date": "2026-04-15",
+      "company": "Forge Resources Corp. formerly, Benjamin Hill Mining Corp.",
+      "ticker": "FRG",
+      "insider_name": "Schmidtke, Ralf Holger",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "100000",
+      "price": "0.4580",
+      "value": "45800",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4705115",
+      "trade_date": "2026-04-15",
+      "filing_date": "2026-04-15",
+      "company": "InPlay Oil Corp.",
+      "ticker": "IPO",
+      "insider_name": "Yakiwchuk, Kevin",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "1995",
+      "price": "15.3799",
+      "value": "30682",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
