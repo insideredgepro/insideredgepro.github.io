@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-15T15:00:20Z",
-  "trade_count": 2832,
+  "last_updated": "2026-04-15T17:00:21Z",
+  "trade_count": 2833,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42864,6 +42864,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4705074",
+      "trade_date": "2026-04-15",
+      "filing_date": "2026-04-15",
+      "company": "Zodiac Gold Inc. (formerly 1329306 B.C. Ltd.)",
+      "ticker": "ZAU",
+      "insider_name": "Richards, Brett Allan",
+      "title": "6 Months before becoming Insider",
+      "security": "Common Shares",
+      "qty": "200000",
+      "price": "0.3998",
+      "value": "79960",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
