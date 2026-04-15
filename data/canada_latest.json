@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-15T19:00:26Z",
-  "trade_count": 2835,
+  "last_updated": "2026-04-15T21:00:20Z",
+  "trade_count": 2836,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42912,6 +42912,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4705238",
+      "trade_date": "2026-04-15",
+      "filing_date": "2026-04-15",
+      "company": "Tamarack Valley Energy Ltd.",
+      "ticker": "TVE",
+      "insider_name": "Stoodley, Benjamin Wayne",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "11.0875",
+      "value": "110875",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
