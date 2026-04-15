@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-15T13:00:21Z",
-  "trade_count": 2829,
+  "last_updated": "2026-04-15T15:00:20Z",
+  "trade_count": 2832,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42431,7 +42431,7 @@
       "value": "451500",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4700606",
@@ -42816,6 +42816,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4704915",
+      "trade_date": "2026-04-15",
+      "filing_date": "2026-04-15",
+      "company": "Playfair Mining Ltd.",
+      "ticker": "PLY",
+      "insider_name": "Brimacombe, Alan Douglas",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "600000",
+      "price": "0.0550",
+      "value": "33000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4704919",
+      "trade_date": "2026-04-15",
+      "filing_date": "2026-04-15",
+      "company": "Tamarack Valley Energy Ltd.",
+      "ticker": "TVE",
+      "insider_name": "Baker, Rocky (Rawleen)",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "2200",
+      "price": "11.3000",
+      "value": "24860",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4704920",
+      "trade_date": "2026-04-15",
+      "filing_date": "2026-04-15",
+      "company": "Tamarack Valley Energy Ltd.",
+      "ticker": "TVE",
+      "insider_name": "Baker, Rocky (Rawleen)",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "2255",
+      "price": "11.1700",
+      "value": "25188",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
