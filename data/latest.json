@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-15T13:03:35Z",
-  "trade_count": 5968,
+  "last_updated": "2026-04-15T15:00:37Z",
+  "trade_count": 5969,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -95489,6 +95489,22 @@
       "delta_own": "+2%",
       "value": "60253",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-15",
+      "filing_time": "09:35",
+      "trade_date": "2026-04-14",
+      "ticker": "AIRS",
+      "company": "Airsculpt Technologies, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.60",
+      "qty": "20000",
+      "owned": "7013761",
+      "delta_own": "0%",
+      "value": "52000",
+      "cluster_buy": false
     }
   ]
 }
