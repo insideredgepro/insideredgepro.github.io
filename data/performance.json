@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-15",
-  "entry_count": 423,
+  "entry_count": 427,
   "entries": [
     {
       "id": "US|MTN|2026-03-16|korch angela a|131.85",
@@ -14472,6 +14472,86 @@
       },
       "latest_price": 16.79,
       "return_pct": 3.96,
+      "last_snapshot": "2026-04-15"
+    },
+    {
+      "id": "US|VIRC|2026-04-14|virtue douglas a|6.08",
+      "market": "US",
+      "ticker": "VIRC",
+      "yf_symbol": "VIRC",
+      "company": "Virco Mfg Corporation",
+      "insider_name": "Virtue Douglas A",
+      "title": "EVP",
+      "trade_date": "2026-04-14",
+      "trade_price": 6.08,
+      "value": 97517.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-15": 6.09
+      },
+      "latest_price": 6.09,
+      "return_pct": 0.16,
+      "last_snapshot": "2026-04-15"
+    },
+    {
+      "id": "US|CAG|2026-04-14|mulligan john j|14.31",
+      "market": "US",
+      "ticker": "CAG",
+      "yf_symbol": "CAG",
+      "company": "Conagra Brands Inc.",
+      "insider_name": "Mulligan John J",
+      "title": "Dir",
+      "trade_date": "2026-04-14",
+      "trade_price": 14.31,
+      "value": 250402.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-15": 14.09
+      },
+      "latest_price": 14.09,
+      "return_pct": -1.54,
+      "last_snapshot": "2026-04-15"
+    },
+    {
+      "id": "US|CAG|2026-04-14|lenny richard h|14.34",
+      "market": "US",
+      "ticker": "CAG",
+      "yf_symbol": "CAG",
+      "company": "Conagra Brands Inc.",
+      "insider_name": "Lenny Richard H",
+      "title": "Dir",
+      "trade_date": "2026-04-14",
+      "trade_price": 14.34,
+      "value": 358500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-15": 14.09
+      },
+      "latest_price": 14.09,
+      "return_pct": -1.74,
+      "last_snapshot": "2026-04-15"
+    },
+    {
+      "id": "US|LW|2026-04-13|jana partners management, lp|42.48",
+      "market": "US",
+      "ticker": "LW",
+      "yf_symbol": "LW",
+      "company": "Lamb Weston Holdings, Inc.",
+      "insider_name": "Jana Partners Management, LP",
+      "title": "See Remarks",
+      "trade_date": "2026-04-13",
+      "trade_price": 42.48,
+      "value": 6371500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-15": 43.17
+      },
+      "latest_price": 43.17,
+      "return_pct": 1.62,
       "last_snapshot": "2026-04-15"
     }
   ]

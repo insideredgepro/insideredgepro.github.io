@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-15T20:39:57Z",
-  "trade_count": 5973,
+  "last_updated": "2026-04-15T21:43:26Z",
+  "trade_count": 5977,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -95569,6 +95569,70 @@
       "delta_own": "0%",
       "value": "32302",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-15",
+      "filing_time": "17:34",
+      "trade_date": "2026-04-14",
+      "ticker": "VIRC",
+      "company": "Virco Mfg Corporation",
+      "insider_name": "Virtue Douglas A",
+      "title": "EVP",
+      "trade_type": "P - Purchase",
+      "price": "6.08",
+      "qty": "16027",
+      "owned": "877866",
+      "delta_own": "+2%",
+      "value": "97517",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-15",
+      "filing_time": "17:28",
+      "trade_date": "2026-04-14",
+      "ticker": "CAG",
+      "company": "Conagra Brands Inc.",
+      "insider_name": "Mulligan John J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "14.31",
+      "qty": "17500",
+      "owned": "20728",
+      "delta_own": "+542%",
+      "value": "250402",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-15",
+      "filing_time": "17:27",
+      "trade_date": "2026-04-14",
+      "ticker": "CAG",
+      "company": "Conagra Brands Inc.",
+      "insider_name": "Lenny Richard H",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "14.34",
+      "qty": "25000",
+      "owned": "229340",
+      "delta_own": "+12%",
+      "value": "358500",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-15",
+      "filing_time": "16:41",
+      "trade_date": "2026-04-13",
+      "ticker": "LW",
+      "company": "Lamb Weston Holdings, Inc.",
+      "insider_name": "Jana Partners Management, LP",
+      "title": "See Remarks",
+      "trade_type": "P - Purchase",
+      "price": "42.48",
+      "qty": "150000",
+      "owned": "10747960",
+      "delta_own": "+1%",
+      "value": "6371500",
+      "cluster_buy": true
     }
   ]
 }
