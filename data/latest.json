@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-16T10:08:41Z",
-  "trade_count": 5978,
+  "last_updated": "2026-04-16T11:54:12Z",
+  "trade_count": 5979,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -95649,6 +95649,22 @@
       "delta_own": "+39%",
       "value": "369865",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-16",
+      "filing_time": "06:30",
+      "trade_date": "2026-04-15",
+      "ticker": "VANI",
+      "company": "Vivani Medical, Inc.",
+      "insider_name": "Williams Gregg",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.26",
+      "qty": "1587301",
+      "owned": "37743684",
+      "delta_own": "+4%",
+      "value": "1999999",
+      "cluster_buy": false
     }
   ]
 }
