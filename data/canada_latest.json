@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-16T03:00:22Z",
-  "trade_count": 2836,
+  "last_updated": "2026-04-16T17:00:29Z",
+  "trade_count": 2839,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42928,6 +42928,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4705482",
+      "trade_date": "2026-04-16",
+      "filing_date": "2026-04-16",
+      "company": "Pacifica Silver Corp.",
+      "ticker": "PSIL.CN",
+      "insider_name": "Anthony, Todd",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "25000",
+      "price": "1.2800",
+      "value": "32000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4705511",
+      "trade_date": "2026-04-16",
+      "filing_date": "2026-04-16",
+      "company": "Pacifica Silver Corp.",
+      "ticker": "PSIL.CN",
+      "insider_name": "Anthony, Todd",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "25000",
+      "price": "1.2800",
+      "value": "32000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4705597",
+      "trade_date": "2026-04-16",
+      "filing_date": "2026-04-16",
+      "company": "Playfair Mining Ltd.",
+      "ticker": "PLY",
+      "insider_name": "Brimacombe, Alan Douglas",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "500000",
+      "price": "0.0550",
+      "value": "27500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
