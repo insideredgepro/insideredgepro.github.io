@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-16T21:00:19Z",
-  "trade_count": 2841,
+  "last_updated": "2026-04-16T23:00:42Z",
+  "trade_count": 2843,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43005,6 +43005,38 @@
       "qty": "50000",
       "price": "0.9500",
       "value": "47500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4705836",
+      "trade_date": "2026-04-16",
+      "filing_date": "2026-04-16",
+      "company": "Formation Metals Inc.",
+      "ticker": "FOMO.CN",
+      "insider_name": "Varshney, Deepak",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "100000",
+      "price": "0.4000",
+      "value": "40000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4705856",
+      "trade_date": "2026-04-16",
+      "filing_date": "2026-04-16",
+      "company": "TNR Gold Corp.",
+      "ticker": "TNR",
+      "insider_name": "Evensen, Jon Christian",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "542000",
+      "price": "0.2532",
+      "value": "137234",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
