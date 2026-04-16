@@ -1790,7 +1790,196 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: INVESTMENT Description: Corporate Bond",
-    "scraped_at": "2026-04-16T12:13:25.383448+00:00"
+    "scraped_at": "2026-04-16T14:14:41.208974+00:00"
+  },
+  {
+    "id": "20003797365",
+    "politician_name": "Richard Larsen",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "American Express Co",
+    "ticker": "AXP:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-07",
+    "trade_published": "2026-04-16",
+    "filed_after_days": "8",
+    "price": "$307.03",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Richard R Larsen IRA Description: Advisor-driven quarterly rebalancing",
+    "scraped_at": "2026-04-16T14:14:41.208897+00:00"
+  },
+  {
+    "id": "20003797366",
+    "politician_name": "Richard Larsen",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "American Water Works Company Inc",
+    "ticker": "AWK:US",
+    "sector": "utilities",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-07",
+    "trade_published": "2026-04-16",
+    "filed_after_days": "8",
+    "price": "$135.37",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Richard R Larsen IRA Description: Advisor-driven quarterly rebalancing",
+    "scraped_at": "2026-04-16T14:14:41.208911+00:00"
+  },
+  {
+    "id": "20003797367",
+    "politician_name": "Richard Larsen",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Broadridge Financial Solutions Inc",
+    "ticker": "BR:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-07",
+    "trade_published": "2026-04-16",
+    "filed_after_days": "8",
+    "price": "$159.90",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Richard R Larsen IRA Description: Advisor-driven quarterly rebalancing",
+    "scraped_at": "2026-04-16T14:14:41.208919+00:00"
+  },
+  {
+    "id": "20003797368",
+    "politician_name": "Richard Larsen",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Carrier Global Corp",
+    "ticker": "CARR:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-07",
+    "trade_published": "2026-04-16",
+    "filed_after_days": "8",
+    "price": "$55.44",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Richard R Larsen IRA Description: Advisor-driven quarterly rebalancing",
+    "scraped_at": "2026-04-16T14:14:41.208927+00:00"
+  },
+  {
+    "id": "20003797369",
+    "politician_name": "Richard Larsen",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Casey's General Stores Inc.",
+    "ticker": "CASY:US",
+    "sector": "consumer-staples",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-07",
+    "trade_published": "2026-04-16",
+    "filed_after_days": "8",
+    "price": "$741.82",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Richard R Larsen IRA Description: Advisor-driven quarterly rebalancing",
+    "scraped_at": "2026-04-16T14:14:41.208931+00:00"
+  },
+  {
+    "id": "20003797371",
+    "politician_name": "Richard Larsen",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "NextEra Energy Inc",
+    "ticker": "NEE:US",
+    "sector": "utilities",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-07",
+    "trade_published": "2026-04-16",
+    "filed_after_days": "8",
+    "price": "$93.67",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Richard R Larsen IRA Description: Advisor-driven quarterly rebalancing",
+    "scraped_at": "2026-04-16T14:14:41.208944+00:00"
+  },
+  {
+    "id": "20003797372",
+    "politician_name": "Richard Larsen",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Paychex Inc",
+    "ticker": "PAYX:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-07",
+    "trade_published": "2026-04-16",
+    "filed_after_days": "8",
+    "price": "$91.61",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Richard R Larsen IRA Description: Advisor-driven quarterly rebalancing",
+    "scraped_at": "2026-04-16T14:14:41.208949+00:00"
+  },
+  {
+    "id": "20003797373",
+    "politician_name": "Richard Larsen",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "SONIDA SENIOR LIVING INC",
+    "ticker": "",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-07",
+    "trade_published": "2026-04-16",
+    "filed_after_days": "8",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "DESCRIPTION: CNL Properties directors executed a sale of assets and Sonida Living, a common stock-based company, purchased those assets in March. I directed advisor to sell the Sonida stock in March and the proceeds from the sale were placed in Fixed Income Mutual Funds-based account I already hold. Per requirements, I will report in CY27 on my FDFY26 report which mutual funds proceeds went into. Subholding Of: Ameriprise One Account Description: CNL Properties directors executed a sale of assets and Sonida Living, a common stock-based company,",
+    "scraped_at": "2026-04-16T14:14:41.208955+00:00"
+  },
+  {
+    "id": "20003797375",
+    "politician_name": "Richard Larsen",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Westinghouse Air Brake Technologies Corp",
+    "ticker": "WAB:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-07",
+    "trade_published": "2026-04-16",
+    "filed_after_days": "8",
+    "price": "$256.05",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Richard R Larsen IRA Description: Advisor-driven quarterly rebalancing",
+    "scraped_at": "2026-04-16T14:14:41.208963+00:00"
   },
   {
     "id": "20003796652",
@@ -1814,6 +2003,48 @@
     "scraped_at": "2026-04-10T09:44:19.710781+00:00"
   },
   {
+    "id": "20003797370",
+    "politician_name": "Richard Larsen",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "CNL HEALTHCARE PPTYS INC",
+    "ticker": "",
+    "sector": "real-estate",
+    "transaction_type": "EXCHANGE",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-31",
+    "trade_published": "2026-04-16",
+    "filed_after_days": "15",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "DESCRIPTION: CNL Properties (a widely held REIT) directors executed a sale of assets and Sonida Living, a common stock- based company, purchased those assets in March. This entry should be read on this PTR in conjunction with the Sonida entry listed as an Exchange.Subholding Of: Ameriprise One Account Description: CNL Properties (a widely held REIT) directors executed a sale of assets and Sonida Living, a common stock-",
+    "scraped_at": "2026-04-16T14:14:41.208940+00:00"
+  },
+  {
+    "id": "20003797374",
+    "politician_name": "Richard Larsen",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "SONIDA SENIOR LIVING INC",
+    "ticker": "",
+    "sector": "health-care",
+    "transaction_type": "EXCHANGE",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-31",
+    "trade_published": "2026-04-16",
+    "filed_after_days": "15",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "DESCRIPTION: CNL Properties directors executed a sale of assets and Sonida Living, a common stock-based company, purchased those assets in March. I directed advisor to sell the Sonida stock in March. See \"Sale' Transaction on this PTR Subholding Of: Ameriprise One Account Description: CNL Properties directors executed a sale of assets and Sonida Living, a common stock-based company,",
+    "scraped_at": "2026-04-16T14:14:41.208959+00:00"
+  },
+  {
     "id": "20003797354",
     "politician_name": "Thomas Kean Jr",
     "party": "Republican",
@@ -1832,7 +2063,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-04-16T12:13:25.383561+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209027+00:00"
   },
   {
     "id": "20003797265",
@@ -1853,7 +2084,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383674+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209110+00:00"
   },
   {
     "id": "20003797269",
@@ -1874,7 +2105,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383696+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209126+00:00"
   },
   {
     "id": "20003797281",
@@ -1895,7 +2126,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383766+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209185+00:00"
   },
   {
     "id": "20003797298",
@@ -1916,7 +2147,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383868+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209264+00:00"
   },
   {
     "id": "20003797307",
@@ -1937,7 +2168,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383927+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209307+00:00"
   },
   {
     "id": "20003797309",
@@ -1958,7 +2189,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383939+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209317+00:00"
   },
   {
     "id": "20003797317",
@@ -2903,7 +3134,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383622+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209068+00:00"
   },
   {
     "id": "20003797262",
@@ -2924,7 +3155,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383659+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209096+00:00"
   },
   {
     "id": "20003797277",
@@ -2945,7 +3176,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383746+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209168+00:00"
   },
   {
     "id": "20003797282",
@@ -2966,7 +3197,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383774+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209190+00:00"
   },
   {
     "id": "20003797301",
@@ -2987,7 +3218,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383885+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209278+00:00"
   },
   {
     "id": "20003797303",
@@ -3008,7 +3239,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383902+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209286+00:00"
   },
   {
     "id": "20003797340",
@@ -3344,7 +3575,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Bill's IRA Description: 912797TK3",
-    "scraped_at": "2026-04-16T12:13:25.383556+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209023+00:00"
   },
   {
     "id": "20003797355",
@@ -3365,7 +3596,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-04-16T12:13:25.383567+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209033+00:00"
   },
   {
     "id": "20003797356",
@@ -3386,7 +3617,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-04-16T12:13:25.383577+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209038+00:00"
   },
   {
     "id": "20003797357",
@@ -3407,7 +3638,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-04-16T12:13:25.383584+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209042+00:00"
   },
   {
     "id": "20003797358",
@@ -3428,7 +3659,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-04-16T12:13:25.383595+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209047+00:00"
   },
   {
     "id": "20003797359",
@@ -3449,7 +3680,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-04-16T12:13:25.383603+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209051+00:00"
   },
   {
     "id": "20003797360",
@@ -3470,7 +3701,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-04-16T12:13:25.383609+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209056+00:00"
   },
   {
     "id": "20003797319",
@@ -3806,7 +4037,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383724+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209149+00:00"
   },
   {
     "id": "20003797315",
@@ -4016,7 +4247,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383627+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209072+00:00"
   },
   {
     "id": "20003797287",
@@ -4037,7 +4268,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383800+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209214+00:00"
   },
   {
     "id": "20003797341",
@@ -4415,7 +4646,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383840+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209241+00:00"
   },
   {
     "id": "20003797302",
@@ -4436,7 +4667,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383896+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209282+00:00"
   },
   {
     "id": "20003797318",
@@ -4793,7 +5024,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383458+00:00"
+    "scraped_at": "2026-04-16T14:14:41.208979+00:00"
   },
   {
     "id": "10000064891",
@@ -4814,7 +5045,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383505+00:00"
+    "scraped_at": "2026-04-16T14:14:41.208998+00:00"
   },
   {
     "id": "20003797278",
@@ -4835,7 +5066,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383751+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209172+00:00"
   },
   {
     "id": "20003797279",
@@ -4856,7 +5087,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383756+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209176+00:00"
   },
   {
     "id": "20003797286",
@@ -4877,7 +5108,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383795+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209209+00:00"
   },
   {
     "id": "20003797321",
@@ -5234,7 +5465,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383482+00:00"
+    "scraped_at": "2026-04-16T14:14:41.208985+00:00"
   },
   {
     "id": "10000064898",
@@ -5255,7 +5486,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383491+00:00"
+    "scraped_at": "2026-04-16T14:14:41.208990+00:00"
   },
   {
     "id": "10000064890",
@@ -5276,7 +5507,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383499+00:00"
+    "scraped_at": "2026-04-16T14:14:41.208994+00:00"
   },
   {
     "id": "10000064892",
@@ -5297,7 +5528,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383524+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209003+00:00"
   },
   {
     "id": "10000064894",
@@ -5318,7 +5549,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383544+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209013+00:00"
   },
   {
     "id": "20003797294",
@@ -5339,7 +5570,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383845+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209245+00:00"
   },
   {
     "id": "20003796679",
@@ -5843,7 +6074,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: IRA",
-    "scraped_at": "2026-04-16T12:13:25.383414+00:00"
+    "scraped_at": "2026-04-16T14:14:41.208970+00:00"
   },
   {
     "id": "20003797259",
@@ -5864,7 +6095,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383641+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209084+00:00"
   },
   {
     "id": "20003797264",
@@ -5885,7 +6116,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383670+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209104+00:00"
   },
   {
     "id": "20003797288",
@@ -5906,7 +6137,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383807+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209218+00:00"
   },
   {
     "id": "10000064851",
@@ -6179,7 +6410,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383790+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209205+00:00"
   },
   {
     "id": "20003797290",
@@ -6200,7 +6431,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383818+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209227+00:00"
   },
   {
     "id": "20003797299",
@@ -6221,7 +6452,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383874+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209270+00:00"
   },
   {
     "id": "20003797306",
@@ -6242,7 +6473,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383921+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209303+00:00"
   },
   {
     "id": "20003796690",
@@ -6452,7 +6683,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383632+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209076+00:00"
   },
   {
     "id": "20003797260",
@@ -6473,7 +6704,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383648+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209089+00:00"
   },
   {
     "id": "20003797263",
@@ -6494,7 +6725,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383665+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209100+00:00"
   },
   {
     "id": "20003797274",
@@ -6515,7 +6746,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383728+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209152+00:00"
   },
   {
     "id": "20003797276",
@@ -6536,7 +6767,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383739+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209162+00:00"
   },
   {
     "id": "20003796681",
@@ -6959,6 +7190,132 @@
     "scraped_at": "2026-04-08T14:16:08.369596+00:00"
   },
   {
+    "id": "20003797376",
+    "politician_name": "August Pfluger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Amerco",
+    "ticker": "UHAL:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-13",
+    "trade_published": "2026-04-16",
+    "filed_after_days": "33",
+    "price": "$45.87",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Investment",
+    "scraped_at": "2026-04-16T14:14:41.208838+00:00"
+  },
+  {
+    "id": "20003797377",
+    "politician_name": "August Pfluger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Berkshire Hathaway Inc",
+    "ticker": "BRK/B:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-13",
+    "trade_published": "2026-04-16",
+    "filed_after_days": "33",
+    "price": "$490.03",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Investment",
+    "scraped_at": "2026-04-16T14:14:41.208863+00:00"
+  },
+  {
+    "id": "20003797378",
+    "politician_name": "August Pfluger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Dorchester Minerals LP",
+    "ticker": "DMLP:US",
+    "sector": "energy",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-13",
+    "trade_published": "2026-04-16",
+    "filed_after_days": "33",
+    "price": "$26.97",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Investment",
+    "scraped_at": "2026-04-16T14:14:41.208870+00:00"
+  },
+  {
+    "id": "20003797379",
+    "politician_name": "August Pfluger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Enterprise Products Partners LP",
+    "ticker": "EPD:US",
+    "sector": "energy",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-13",
+    "trade_published": "2026-04-16",
+    "filed_after_days": "33",
+    "price": "$36.99",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Investment",
+    "scraped_at": "2026-04-16T14:14:41.208878+00:00"
+  },
+  {
+    "id": "20003797380",
+    "politician_name": "August Pfluger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "KIMBELL ROYALTY PARTNERS LP",
+    "ticker": "",
+    "sector": "energy",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-13",
+    "trade_published": "2026-04-16",
+    "filed_after_days": "33",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Investment",
+    "scraped_at": "2026-04-16T14:14:41.208884+00:00"
+  },
+  {
+    "id": "20003797381",
+    "politician_name": "August Pfluger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "VIPER ENERGY INC",
+    "ticker": "",
+    "sector": "energy",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-03-13",
+    "trade_published": "2026-04-16",
+    "filed_after_days": "33",
+    "price": "$44.25",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-04-16T14:14:41.208891+00:00"
+  },
+  {
     "id": "10000064895",
     "politician_name": "John Boozman",
     "party": "Republican",
@@ -6977,7 +7334,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383549+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209019+00:00"
   },
   {
     "id": "20003797272",
@@ -6998,7 +7355,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383718+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209144+00:00"
   },
   {
     "id": "20003797326",
@@ -7754,7 +8111,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383734+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209158+00:00"
   },
   {
     "id": "20003797292",
@@ -7775,7 +8132,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383832+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209235+00:00"
   },
   {
     "id": "20003797295",
@@ -7796,7 +8153,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383851+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209251+00:00"
   },
   {
     "id": "20003797304",
@@ -7817,7 +8174,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383909+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209292+00:00"
   },
   {
     "id": "20003797313",
@@ -7838,7 +8195,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383963+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209335+00:00"
   },
   {
     "id": "20003797314",
@@ -8489,7 +8846,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383932+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209312+00:00"
   },
   {
     "id": "20003796684",
@@ -8699,7 +9056,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-04-16T12:13:25.383617+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209062+00:00"
   },
   {
     "id": "20003797289",
@@ -8720,7 +9077,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383812+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209223+00:00"
   },
   {
     "id": "10000064831",
@@ -8972,7 +9329,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383880+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209273+00:00"
   },
   {
     "id": "20003796677",
@@ -9035,7 +9392,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383685+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209118+00:00"
   },
   {
     "id": "20003797291",
@@ -9056,7 +9413,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383825+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209231+00:00"
   },
   {
     "id": "20003796683",
@@ -9329,7 +9686,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383536+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209009+00:00"
   },
   {
     "id": "20003797261",
@@ -9350,7 +9707,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383653+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209092+00:00"
   },
   {
     "id": "20003797296",
@@ -9371,7 +9728,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383856+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209256+00:00"
   },
   {
     "id": "10000064847",
@@ -9623,7 +9980,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383681+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209114+00:00"
   },
   {
     "id": "20003797270",
@@ -9644,7 +10001,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383701+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209131+00:00"
   },
   {
     "id": "20003797284",
@@ -9665,7 +10022,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383785+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209199+00:00"
   },
   {
     "id": "20003797297",
@@ -9686,7 +10043,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383861+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209260+00:00"
   },
   {
     "id": "20003797305",
@@ -9707,7 +10064,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383914+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209298+00:00"
   },
   {
     "id": "20003797312",
@@ -9728,7 +10085,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383957+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209330+00:00"
   },
   {
     "id": "20003797316",
@@ -9917,7 +10274,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383691+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209122+00:00"
   },
   {
     "id": "20003797310",
@@ -9938,7 +10295,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383944+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209322+00:00"
   },
   {
     "id": "20003797311",
@@ -9959,7 +10316,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383949+00:00"
+    "scraped_at": "2026-04-16T14:14:41.209326+00:00"
   },
   {
     "id": "20003796682",
@@ -10212,362 +10569,5 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
     "scraped_at": "2026-04-09T23:52:20.584571+00:00"
-  },
-  {
-    "id": "20003796492",
-    "politician_name": "Gilbert Cisneros",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "CA",
-    "company": "Skyline Champion Corp",
-    "ticker": "SKY:US",
-    "sector": "consumer-discretionary",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-03",
-    "trade_published": "2026-04-08",
-    "filed_after_days": "35",
-    "price": "$88.99",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-04-09T23:52:20.584576+00:00"
-  },
-  {
-    "id": "20003796500",
-    "politician_name": "Gilbert Cisneros",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "CA",
-    "company": "CRINETICS PHARMCTCL INC",
-    "ticker": "",
-    "sector": "health-care",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-03",
-    "trade_published": "2026-04-08",
-    "filed_after_days": "35",
-    "price": "$40.12",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-04-09T12:45:42.773382+00:00"
-  },
-  {
-    "id": "20003796502",
-    "politician_name": "Gilbert Cisneros",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "CA",
-    "company": "CSW INDUSTRIALS INC",
-    "ticker": "CSWI:US",
-    "sector": "industrials",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-03",
-    "trade_published": "2026-04-08",
-    "filed_after_days": "35",
-    "price": "$277.57",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-04-09T12:45:42.773392+00:00"
-  },
-  {
-    "id": "20003796510",
-    "politician_name": "Gilbert Cisneros",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "CA",
-    "company": "Enerpac Tool Group Corp",
-    "ticker": "EPAC:US",
-    "sector": "industrials",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-03",
-    "trade_published": "2026-04-08",
-    "filed_after_days": "35",
-    "price": "$40.06",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-04-09T12:45:42.773431+00:00"
-  },
-  {
-    "id": "20003796526",
-    "politician_name": "Gilbert Cisneros",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "CA",
-    "company": "Gates Industrial Corp PLC",
-    "ticker": "GTES:US",
-    "sector": "industrials",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-03",
-    "trade_published": "2026-04-08",
-    "filed_after_days": "35",
-    "price": "$26.37",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-04-08T21:07:40.653116+00:00"
-  },
-  {
-    "id": "10000064808",
-    "politician_name": "David McCormick",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "PA",
-    "company": "PHILADELPHIA WATER DEPARTMENT",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-03",
-    "trade_published": "2026-03-28",
-    "filed_after_days": "25",
-    "price": "N/A",
-    "value": 750000,
-    "amount": "$500K\u2013$1M",
-    "owner": "Self",
-    "comment": "Rate/Coupon: 5.25% Matures: 2054-09-01",
-    "scraped_at": "2026-04-08T14:16:08.369737+00:00"
-  },
-  {
-    "id": "10000064796",
-    "politician_name": "David McCormick",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "PA",
-    "company": "The Goldman Sachs Group Inc",
-    "ticker": "GS:US",
-    "sector": "financials",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-03",
-    "trade_published": "2026-03-26",
-    "filed_after_days": "22",
-    "price": "N/A",
-    "value": 175000,
-    "amount": "$100K\u2013$250K",
-    "owner": "Spouse",
-    "comment": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
-    "scraped_at": "2026-04-08T14:16:08.369756+00:00"
-  },
-  {
-    "id": "20003797258",
-    "politician_name": "Michael McCaul",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "TX",
-    "company": "TENNESSEE HOUSING DEVELOPMENT AGENCY",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-04-10",
-    "filed_after_days": "37",
-    "price": "N/A",
-    "value": 175000,
-    "amount": "$100K\u2013$250K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383637+00:00"
-  },
-  {
-    "id": "20003797271",
-    "politician_name": "Michael McCaul",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "TX",
-    "company": "Mastercard Inc",
-    "ticker": "MA:US",
-    "sector": "financials",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-04-10",
-    "filed_after_days": "37",
-    "price": "$521.00",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383711+00:00"
-  },
-  {
-    "id": "20003797280",
-    "politician_name": "Michael McCaul",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "TX",
-    "company": "Intuit Inc",
-    "ticker": "INTU:US",
-    "sector": "information-technology",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-04-10",
-    "filed_after_days": "37",
-    "price": "$419.06",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383761+00:00"
-  },
-  {
-    "id": "20003797283",
-    "politician_name": "Michael McCaul",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "TX",
-    "company": "MercadoLibre Inc",
-    "ticker": "MELI:US",
-    "sector": "consumer-discretionary",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-04-10",
-    "filed_after_days": "37",
-    "price": "$1,777.00",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.383779+00:00"
-  },
-  {
-    "id": "20003797324",
-    "politician_name": "Michael McCaul",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "TX",
-    "company": "Equitable Holdings Inc",
-    "ticker": "EQH:US",
-    "sector": "financials",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-04-10",
-    "filed_after_days": "37",
-    "price": "$40.49",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-16T12:13:25.384025+00:00"
-  },
-  {
-    "id": "20003797332",
-    "politician_name": "Michael McCaul",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "TX",
-    "company": "LPL Financial Holdings Inc",
-    "ticker": "LPLA:US",
-    "sector": "financials",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-04-10",
-    "filed_after_days": "37",
-    "price": "$306.00",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-15T12:09:51.890062+00:00"
-  },
-  {
-    "id": "10000064729",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH FOUR WINDS LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "11",
-    "price": "N/A",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-26T04:29:22.280976+00:00"
-  },
-  {
-    "id": "10000064734",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH FOUR WINDS LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "11",
-    "price": "N/A",
-    "value": 175000,
-    "amount": "$100K\u2013$250K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145507+00:00"
-  },
-  {
-    "id": "10000064741",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH FOUR WINDS LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "11",
-    "price": "N/A",
-    "value": 750000,
-    "amount": "$500K\u2013$1M",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145537+00:00"
-  },
-  {
-    "id": "10000064748",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH FOUR WINDS LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "11",
-    "price": "N/A",
-    "value": 750000,
-    "amount": "$500K\u2013$1M",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-25T14:03:19.145572+00:00"
   }
 ]
