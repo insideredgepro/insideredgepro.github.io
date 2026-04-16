@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-16",
-  "entry_count": 409,
+  "entry_count": 410,
   "entries": [
     {
       "id": "US|SOFI|2026-03-17|noto anthony|17.32",
@@ -14101,6 +14101,26 @@
       },
       "latest_price": 1.14,
       "return_pct": -9.52,
+      "last_snapshot": "2026-04-16"
+    },
+    {
+      "id": "US|ENR|2026-04-14|aqua capital, ltd.|18.9",
+      "market": "US",
+      "ticker": "ENR",
+      "yf_symbol": "ENR",
+      "company": "Energizer Holdings, Inc.",
+      "insider_name": "Aqua Capital, Ltd.",
+      "title": "10%",
+      "trade_date": "2026-04-14",
+      "trade_price": 18.9,
+      "value": 31053.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-16": 19.27
+      },
+      "latest_price": 19.27,
+      "return_pct": 1.96,
       "last_snapshot": "2026-04-16"
     }
   ]

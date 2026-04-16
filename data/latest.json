@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-16T11:54:12Z",
-  "trade_count": 5979,
+  "last_updated": "2026-04-16T13:09:55Z",
+  "trade_count": 5980,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -95664,6 +95664,22 @@
       "owned": "37743684",
       "delta_own": "+4%",
       "value": "1999999",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-16",
+      "filing_time": "08:00",
+      "trade_date": "2026-04-14",
+      "ticker": "ENR",
+      "company": "Energizer Holdings, Inc.",
+      "insider_name": "Aqua Capital, Ltd.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "18.90",
+      "qty": "1643",
+      "owned": "7021015",
+      "delta_own": "0%",
+      "value": "31053",
       "cluster_buy": false
     }
   ]
