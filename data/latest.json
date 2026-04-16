@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-16T19:01:00Z",
-  "trade_count": 5983,
+  "last_updated": "2026-04-16T20:01:43Z",
+  "trade_count": 5984,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -95728,6 +95728,22 @@
       "owned": "197052",
       "delta_own": "+554%",
       "value": "127591",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-16",
+      "filing_time": "15:21",
+      "trade_date": "2026-04-14",
+      "ticker": "ESEA",
+      "company": "Euroseas Ltd.",
+      "insider_name": "Aslidis Anastasios",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "70.82",
+      "qty": "1000",
+      "owned": "25910",
+      "delta_own": "+4%",
+      "value": "70820",
       "cluster_buy": false
     }
   ]
