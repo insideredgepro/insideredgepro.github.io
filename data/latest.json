@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-15T23:35:04Z",
-  "trade_count": 5977,
+  "last_updated": "2026-04-16T01:51:42Z",
+  "trade_count": 5978,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93888,7 +93888,7 @@
       "owned": "292430",
       "delta_own": "+2%",
       "value": "251774",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-10",
@@ -95632,6 +95632,22 @@
       "owned": "10747960",
       "delta_own": "+1%",
       "value": "6371500",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-15",
+      "filing_time": "19:46",
+      "trade_date": "2026-04-13",
+      "ticker": "TBN",
+      "company": "Tamboran Resources Corp",
+      "insider_name": "Pace Phillip Z",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "36.99",
+      "qty": "10000",
+      "owned": "35809",
+      "delta_own": "+39%",
+      "value": "369865",
       "cluster_buy": true
     }
   ]
