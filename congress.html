@@ -667,6 +667,33 @@
     });
   }
 
+  // Map "$15K–$50K" style labels to a numeric lower-bound for sorting.
+  const AMOUNT_ORDER = {
+    '$1K–$15K':       1000,
+    '$15K–$50K':     15000,
+    '$50K–$100K':    50000,
+    '$100K–$250K':  100000,
+    '$250K–$500K':  250000,
+    '$500K–$1M':    500000,
+    '$1M–$5M':     1000000,
+    '$5M–$25M':    5000000,
+    '$25M+':      25000000,
+  };
+
+  function parseAmount(t) {
+    const a = (t.amount || '').replace(/,/g, '').trim();
+    const normalised = a.startsWith('$') ? a : '$' + a;
+    if (normalised in AMOUNT_ORDER) return AMOUNT_ORDER[normalised];
+    // Fallback: strip currency symbols and parse first number
+    const m = normalised.replace(/[^0-9.KMk]/g, '').match(/^([\d.]+)([KMk]?)/);
+    if (m) {
+      const n = parseFloat(m[1]);
+      const mult = m[2].toUpperCase() === 'M' ? 1e6 : m[2].toUpperCase() === 'K' ? 1e3 : 1;
+      return n * mult;
+    }
+    return -1;
+  }
+
   function sortTrades(trades) {
     return [...trades].sort((a, b) => {
       let va, vb;
@@ -679,6 +706,9 @@
       } else if (sortCol === 'filed_after_days') {
         va = parseInt(a.filed_after_days || 0, 10);
         vb = parseInt(b.filed_after_days || 0, 10);
+      } else if (sortCol === 'amount') {
+        va = parseAmount(a);
+        vb = parseAmount(b);
       } else {
         va = String(a[sortCol] || '').toLowerCase();
         vb = String(b[sortCol] || '').toLowerCase();

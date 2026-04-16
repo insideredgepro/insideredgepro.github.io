@@ -732,7 +732,9 @@
       company:    trades[0].company,
       totalValue: trades.reduce((s, t) => s + parseNumber(t.value), 0),
       totalQty:   trades.reduce((s, t) => s + parseNumber(t.qty), 0),
-      clusterBuy: trades.some(t => t.cluster_buy),
+      // Only show Cluster badge when ≥2 distinct insiders in the *filtered* group carry the flag.
+      // Reading cluster_buy straight from JSON would show the badge after filtering down to 1 person.
+      clusterBuy: new Set(trades.filter(t => t.cluster_buy).map(t => (t.insider_name || '').toLowerCase())).size >= 2,
       count:      trades.length,
       trades:     sortTrades(trades),
       sortVal:    getSortVal(trades),
