@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-16T19:00:23Z",
-  "trade_count": 2839,
+  "last_updated": "2026-04-16T21:00:19Z",
+  "trade_count": 2841,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42973,6 +42973,38 @@
       "qty": "500000",
       "price": "0.0550",
       "value": "27500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4705792",
+      "trade_date": "2026-04-16",
+      "filing_date": "2026-04-16",
+      "company": "Mayfair Gold Corp.",
+      "ticker": "MFG",
+      "insider_name": "Annett, Kevin",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "4.4100",
+      "value": "88200",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4705720",
+      "trade_date": "2026-04-16",
+      "filing_date": "2026-04-16",
+      "company": "SITKA GOLD CORP.",
+      "ticker": "SIG",
+      "insider_name": "Archambeault, Louis",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "0.9500",
+      "value": "47500",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
