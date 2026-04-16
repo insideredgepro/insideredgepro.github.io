@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-16T13:09:55Z",
-  "trade_count": 5980,
+  "last_updated": "2026-04-16T15:19:37Z",
+  "trade_count": 5982,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -95680,6 +95680,38 @@
       "owned": "7021015",
       "delta_own": "0%",
       "value": "31053",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-16",
+      "filing_time": "11:10",
+      "trade_date": "2026-04-15",
+      "ticker": "ACIU",
+      "company": "Ac Immune Sa",
+      "insider_name": "Pfeifer Andrea",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.14",
+      "qty": "10000",
+      "owned": "3844288",
+      "delta_own": "0%",
+      "value": "31425",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-16",
+      "filing_time": "09:18",
+      "trade_date": "2026-04-09",
+      "ticker": "BNKK",
+      "company": "Bonk, Inc.",
+      "insider_name": "Rudy Mitchell Austin",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "2.82",
+      "qty": "31055",
+      "owned": "1662657",
+      "delta_own": "+2%",
+      "value": "87575",
       "cluster_buy": false
     }
   ]
