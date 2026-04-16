@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-16T17:04:46Z",
-  "trade_count": 5982,
+  "last_updated": "2026-04-16T19:01:00Z",
+  "trade_count": 5983,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -95712,6 +95712,22 @@
       "owned": "1662657",
       "delta_own": "+2%",
       "value": "87575",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-16",
+      "filing_time": "14:30",
+      "trade_date": "2026-04-14",
+      "ticker": "ONCO",
+      "company": "Onconetix, Inc.",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "0.76",
+      "qty": "166904",
+      "owned": "197052",
+      "delta_own": "+554%",
+      "value": "127591",
       "cluster_buy": false
     }
   ]
