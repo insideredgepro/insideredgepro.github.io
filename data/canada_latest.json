@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-17T19:00:18Z",
-  "trade_count": 2848,
+  "last_updated": "2026-04-17T21:00:20Z",
+  "trade_count": 2849,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43120,6 +43120,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4706296",
+      "trade_date": "2026-04-17",
+      "filing_date": "2026-04-17",
+      "company": "Tenaz Energy Corp.",
+      "ticker": "TNZ",
+      "insider_name": "Preston, Kyle",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "2000",
+      "price": "59.0920",
+      "value": "118184",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
