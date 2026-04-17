@@ -5982,7 +5982,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-16,08:00,2026-04-14,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10%,P - Purchase,18.90,1643,7021015,0%,31053,False
 2026-04-16,11:10,2026-04-15,ACIU,Ac Immune Sa,Pfeifer Andrea,CEO,P - Purchase,3.14,10000,3844288,0%,31425,False
 2026-04-16,09:18,2026-04-09,BNKK,"Bonk, Inc.",Rudy Mitchell Austin,"Dir, 10%",P - Purchase,2.82,31055,1662657,+2%,87575,False
-2026-04-16,14:30,2026-04-14,ONCO,"Onconetix, Inc.",Hrt Financial LP,10%,P - Purchase,0.76,166904,197052,+554%,127591,False
+2026-04-16,14:30,2026-04-14,ONCO,"Onconetix, Inc.",Hrt Financial LP,10%,P - Purchase,0.76,166904,197052,+554%,127591,True
 2026-04-16,15:21,2026-04-14,ESEA,Euroseas Ltd.,Aslidis Anastasios,CFO,P - Purchase,70.82,1000,25910,+4%,70820,False
 2026-04-16,17:25,2026-04-14,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,10.43,25425,758212,+3%,265153,True
 2026-04-16,16:30,2026-04-14,ALZN,"Alzamend Neuro, Inc.",Ault Milton C III,Dir,P - Purchase,1.00,108388,127777,+559%,108897,False
@@ -6000,3 +6000,24 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-17,08:00,2026-04-15,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10%,P - Purchase,18.85,4200,7025215,0%,79177,False
 2026-04-17,09:35,2026-04-16,BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,5.58,500000,26204808,+2%,2790900,False
 2026-04-17,09:07,2026-04-16,YORW,York Water Co,Hand Joseph Thomas,"CEO, Pres",P - Purchase,28.50,1052,41433,+3%,29982,False
+2026-04-17,09:15,2026-04-16,DHY,Credit Suisse High Yield Credit Fund,Gerber Charles,Trustee,P - Purchase,1.88,16000,16000,New,30080,False
+2026-04-17,08:00,2026-04-15,HERZ,"Herzfeld Credit Income Fund, Inc.",Herzfeld Thomas J,Chairman of the Advisor,P - Purchase,16.01,3610,197248,+2%,57811,False
+2026-04-17,07:33,2026-04-16,BZUN,Baozun Inc.,Qiu Wenbin,Chief Executive Officer,P - Purchase,2.84,17500,1417872,+1%,49700,True
+2026-04-17,07:33,2026-04-15,BZUN,Baozun Inc.,Qiu Wenbin,Chief Executive Officer,P - Purchase,2.71,11000,1400372,+1%,29810,True
+2026-04-16,21:05,2026-04-16,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,69.71,1199,4699497,+0%,83585,False
+2026-04-16,21:05,2026-04-15,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,70.23,1201,4698298,+0%,84341,False
+2026-04-16,21:05,2026-04-14,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,70.39,1192,4697097,+0%,83900,False
+2026-04-16,17:25,2026-04-15,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10% Owner,P - Purchase,10.48,3747,758212,+0%,39269,True
+2026-04-16,17:25,2026-04-14,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10% Owner,P - Purchase,10.42,21678,754465,+3%,225885,True
+2026-04-16,14:30,2026-04-15,ONCO,"Onconetix, Inc.",Hrt Financial Lp,10% Owner,P - Purchase,0.76,92554,197052,+89%,70341,True
+2026-04-16,14:30,2026-04-14,ONCO,"Onconetix, Inc.",Hrt Financial Lp,10% Owner,P - Purchase,0.77,74350,104498,+247%,57250,True
+2026-04-15,17:34,2026-04-15,VIRC,Virco Mfg Corporation,Virtue Douglas A,Executive Vice President,P - Purchase,6.09,11678,877866,+1%,71119,False
+2026-04-15,17:34,2026-04-14,VIRC,Virco Mfg Corporation,Virtue Douglas A,Executive Vice President,P - Purchase,6.07,4349,866188,+1%,26398,False
+2026-04-15,16:41,2026-04-15,LW,"Lamb Weston Holdings, Inc.","Jana Partners Management, Lp",Director,P - Purchase,43.19,50000,5398980,+1%,2159500,True
+2026-04-15,16:41,2026-04-13,LW,"Lamb Weston Holdings, Inc.","Jana Partners Management, Lp",Director,P - Purchase,42.12,100000,5348980,+2%,4212000,True
+2026-04-15,16:08,2026-04-09,VWAV,"VisionWave Holdings, Inc.","Visionwave Holdings, Inc.",Director,P - Purchase,3.45,2501582400,10673985600,+31%,8630459280,False
+2026-04-15,16:08,2026-04-02,VWAV,"VisionWave Holdings, Inc.","Visionwave Holdings, Inc.",Director,P - Purchase,2.98,994593600,8172403200,+14%,2963619792,False
+2026-04-15,16:08,2026-03-30,VWAV,"VisionWave Holdings, Inc.","Visionwave Holdings, Inc.",Director,P - Purchase,3.00,49420800,7177809600,+1%,148262400,False
+2026-04-15,16:08,2026-04-09,SVRE,Saverone 2014 Ltd.,"Visionwave Holdings, Inc.",Director,P - Purchase,3.45,2501582400,10673985600,+31%,8630459280,False
+2026-04-15,16:08,2026-04-02,SVRE,Saverone 2014 Ltd.,"Visionwave Holdings, Inc.",Director,P - Purchase,2.98,994593600,8172403200,+14%,2963619792,False
+2026-04-15,16:08,2026-03-30,SVRE,Saverone 2014 Ltd.,"Visionwave Holdings, Inc.",Director,P - Purchase,3.00,49420800,7177809600,+1%,148262400,False
