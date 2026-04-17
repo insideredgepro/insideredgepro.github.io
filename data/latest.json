@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-17T10:07:26Z",
-  "trade_count": 5996,
+  "last_updated": "2026-04-17T11:43:33Z",
+  "trade_count": 5997,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -95936,6 +95936,22 @@
       "owned": "3650000",
       "delta_own": "+26%",
       "value": "600000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-17",
+      "filing_time": "07:33",
+      "trade_date": "2026-04-15",
+      "ticker": "BZUN",
+      "company": "Baozun Inc.",
+      "insider_name": "Qiu Wenbin",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.79",
+      "qty": "28500",
+      "owned": "1417872",
+      "delta_own": "+2%",
+      "value": "79510",
       "cluster_buy": true
     }
   ]
