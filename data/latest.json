@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-17T19:53:06Z",
-  "trade_count": 6017,
+  "last_updated": "2026-04-17T20:36:35Z",
+  "trade_count": 6018,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -96272,6 +96272,22 @@
       "owned": "7177809600",
       "delta_own": "+1%",
       "value": "148262400",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-17",
+      "filing_time": "16:03",
+      "trade_date": "2026-04-15",
+      "ticker": "FIS",
+      "company": "Fidelity National Information Services, Inc.",
+      "insider_name": "Goldstein Jeffrey A",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "47.39",
+      "qty": "1197",
+      "owned": "15726",
+      "delta_own": "+8%",
+      "value": "56726",
       "cluster_buy": false
     }
   ]
