@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-17T13:00:20Z",
-  "trade_count": 2843,
+  "last_updated": "2026-04-17T15:00:20Z",
+  "trade_count": 2845,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43037,6 +43037,38 @@
       "qty": "542000",
       "price": "0.2532",
       "value": "137234",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4706048",
+      "trade_date": "2026-04-17",
+      "filing_date": "2026-04-17",
+      "company": "Tourmaline Oil Corp.",
+      "ticker": "TOU",
+      "insider_name": "Heard, James William Alexander",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "1000",
+      "price": "59.0800",
+      "value": "59080",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4706041",
+      "trade_date": "2026-04-17",
+      "filing_date": "2026-04-17",
+      "company": "Whitecap Resources Inc.",
+      "ticker": "WCP",
+      "insider_name": "Fagerheim, Grant Bradley",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "13.7500",
+      "value": "68750",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
