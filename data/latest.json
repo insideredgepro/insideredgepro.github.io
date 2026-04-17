@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-17T20:36:35Z",
-  "trade_count": 6018,
+  "last_updated": "2026-04-17T21:34:27Z",
+  "trade_count": 6022,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -96288,6 +96288,70 @@
       "owned": "15726",
       "delta_own": "+8%",
       "value": "56726",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-17",
+      "filing_time": "17:18",
+      "trade_date": "2026-04-15",
+      "ticker": "SPRU",
+      "company": "Spruce Power Holding Corp",
+      "insider_name": "Steel Partners Holdings L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "4.08",
+      "qty": "14244",
+      "owned": "3405045",
+      "delta_own": "0%",
+      "value": "58100",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-17",
+      "filing_time": "17:00",
+      "trade_date": "2026-04-15",
+      "ticker": "CGCT",
+      "company": "Cartesian Growth Corp III",
+      "insider_name": "Cgc III Sponsor LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "10.33",
+      "qty": "200000",
+      "owned": "1471000",
+      "delta_own": "+16%",
+      "value": "2065100",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-17",
+      "filing_time": "16:50",
+      "trade_date": "2026-04-16",
+      "ticker": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Patel Paresh",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "16.76",
+      "qty": "2000",
+      "owned": "1616013",
+      "delta_own": "0%",
+      "value": "33520",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-17",
+      "filing_time": "16:43",
+      "trade_date": "2026-04-15",
+      "ticker": "ZSPC",
+      "company": "Zspace, Inc.",
+      "insider_name": "Aqr Capital Management Holdings, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "0.07",
+      "qty": "860716",
+      "owned": "4756327",
+      "delta_own": "+22%",
+      "value": "61111",
       "cluster_buy": false
     }
   ]
