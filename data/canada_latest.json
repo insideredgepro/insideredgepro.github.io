@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-17T15:00:20Z",
-  "trade_count": 2845,
+  "last_updated": "2026-04-17T17:00:22Z",
+  "trade_count": 2848,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43072,6 +43072,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4706082",
+      "trade_date": "2026-04-17",
+      "filing_date": "2026-04-17",
+      "company": "NevGold Corp.",
+      "ticker": "NAU",
+      "insider_name": "Bonifacio, Brandon Gennaro",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "2.1300",
+      "value": "42600",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4706134",
+      "trade_date": "2026-04-17",
+      "filing_date": "2026-04-17",
+      "company": "Peyto Exploration and Development Corp.",
+      "ticker": "PEY",
+      "insider_name": "Frame, Riley Millar",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "1550",
+      "price": "24.0700",
+      "value": "37308",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4706136",
+      "trade_date": "2026-04-17",
+      "filing_date": "2026-04-17",
+      "company": "Peyto Exploration and Development Corp.",
+      "ticker": "PEY",
+      "insider_name": "Lachance, Jean-Paul Henri",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "23.7336",
+      "value": "118668",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
