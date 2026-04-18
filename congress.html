@@ -560,8 +560,8 @@
     const yearPart = (t.traded_year || '').trim();
     if (datePart && yearPart) {
       const parts = datePart.split(/\s+/);
-      const day   = parseInt(parts[0], 10);
-      const mon   = MONTHS[(parts[1] || '').toLowerCase().slice(0, 3)];
+      const day = isNaN(parseInt(parts[0], 10)) ? parseInt(parts[1], 10) : parseInt(parts[0], 10);
+      const mon = isNaN(parseInt(parts[0], 10)) ? MONTHS[(parts[0] || '').toLowerCase().slice(0, 3)] : MONTHS[(parts[1] || '').toLowerCase().slice(0, 3)];
       const year  = parseInt(yearPart, 10);
       if (!isNaN(day) && mon !== undefined && !isNaN(year)) {
         const d = new Date(year, mon, day);
@@ -573,8 +573,8 @@
     if (datePart) {
       const parts = datePart.replace(/,/g, '').split(/\s+/);
       if (parts.length >= 3) {
-        const day  = parseInt(parts[0], 10);
-        const mon  = MONTHS[(parts[1] || '').toLowerCase().slice(0, 3)];
+        const day = isNaN(parseInt(parts[0], 10)) ? parseInt(parts[1], 10) : parseInt(parts[0], 10);
+        const mon = isNaN(parseInt(parts[0], 10)) ? MONTHS[(parts[0] || '').toLowerCase().slice(0, 3)] : MONTHS[(parts[1] || '').toLowerCase().slice(0, 3)];
         const year = parseInt(parts[2], 10);
         if (!isNaN(day) && mon !== undefined && !isNaN(year)) {
           const d = new Date(year, mon, day);
@@ -631,8 +631,8 @@
     if (/^\d{4}-\d{2}-\d{2}/.test(raw)) return raw.slice(0, 10);
     const parts = raw.replace(/,/g, '').split(/\s+/);
     if (parts.length >= 3) {
-      const day  = parseInt(parts[0], 10);
-      const mon  = MONTHS[(parts[1] || '').toLowerCase().slice(0, 3)];
+      const day = isNaN(parseInt(parts[0], 10)) ? parseInt(parts[1], 10) : parseInt(parts[0], 10);
+      const mon = isNaN(parseInt(parts[0], 10)) ? MONTHS[(parts[0] || '').toLowerCase().slice(0, 3)] : MONTHS[(parts[1] || '').toLowerCase().slice(0, 3)];
       const year = parseInt(parts[2], 10);
       if (!isNaN(day) && mon !== undefined && !isNaN(year)) {
         return toLocalDateStr(new Date(year, mon, day));
@@ -652,7 +652,10 @@
     }
 
     return trades.filter(t => {
-      if (filterParty !== 'all' && (t.party || '') !== filterParty) return false;
+      if (filterParty !== 'all') {
+        const req = filterParty === 'Democrat' ? 'dem' : (filterParty === 'Republican' ? 'rep' : 'ind');
+        if (partyClass(t.party) !== req) return false;
+      }
       if (filterChamber !== 'all' && (t.chamber || '').toLowerCase() !== filterChamber.toLowerCase()) return false;
       if (filterTxType !== 'all' && (t.transaction_type || '').toUpperCase() !== filterTxType) return false;
       const filedDate = parsePublishedDate(t);
@@ -684,8 +687,8 @@
     const a = (t.amount || '').replace(/,/g, '').trim();
     const normalised = a.startsWith('$') ? a : '$' + a;
     if (normalised in AMOUNT_ORDER) return AMOUNT_ORDER[normalised];
-    // Fallback: strip currency symbols and parse first number
-    const m = normalised.replace(/[^0-9.KMk]/g, '').match(/^([\d.]+)([KMk]?)/);
+    // Fallback: extract the first valid number sequence and optional magnitude suffix
+    const m = normalised.replace(/,/g, '').match(/([\d.]+)([KMkM]?)/i);
     if (m) {
       const n = parseFloat(m[1]);
       const mult = m[2].toUpperCase() === 'M' ? 1e6 : m[2].toUpperCase() === 'K' ? 1e3 : 1;
@@ -713,8 +716,21 @@
         va = String(a[sortCol] || '').toLowerCase();
         vb = String(b[sortCol] || '').toLowerCase();
       }
+
+      // Track NaN values correctly
+      if (typeof va === 'number' && isNaN(va)) va = -Infinity;
+      if (typeof vb === 'number' && isNaN(vb)) vb = -Infinity;
+
       if (va < vb) return sortDir === 'asc' ? -1 : 1;
       if (va > vb) return sortDir === 'asc' ?  1 : -1;
+      
+      // Secondary sort to ensure stability
+      if (va === vb && sortCol === 'trade_published') {
+        const ta = parseTradeDate(a) || '';
+        const tb = parseTradeDate(b) || '';
+        if (ta < tb) return sortDir === 'asc' ? -1 : 1;
+        if (ta > tb) return sortDir === 'asc' ? 1 : -1;
+      }
       return 0;
     });
   }
@@ -890,7 +906,7 @@
         return db < da ? -1 : db > da ? 1 : 0;
       });
 
-      const newest = allTrades.length > 0 ? parseTradeDate(allTrades[0]) : null;
+      const newest = allTrades.length > 0 ? parsePublishedDate(allTrades[0]) : null;
       lastUpdatedEl.textContent = newest ? `Filed ${formatDateDisplay(newest)}` : 'Loaded';
       if (tradeCountEl) tradeCountEl.textContent = allTrades.length + ' trades';
       const mobileCount = document.getElementById('trade-count-mobile');
