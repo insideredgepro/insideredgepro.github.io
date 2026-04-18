@@ -105,8 +105,32 @@ header {
 .brand-tagline { font-size: 10px; font-weight: 500; color: var(--muted2); letter-spacing: .08em; text-transform: uppercase; }
 
 .header-center { display: flex; align-items: center; gap: 20px; flex: 1; justify-content: center; }
-.header-right  { display: flex; align-items: center; gap: 12px; flex-shrink: 0; }
+.header-right  { display: flex; align-items: center; gap: 14px; flex-shrink: 0; }
 .mobile-bar    { display: none; }
+
+.header-stats {
+  display: flex; align-items: center; gap: 0;
+  background: var(--surface2); border: 1px solid var(--border2);
+  border-radius: 8px; overflow: hidden;
+}
+.hstat {
+  display: flex; flex-direction: column; align-items: center;
+  padding: 5px 14px; gap: 1px;
+}
+.hstat-val {
+  font-family: var(--font-mono); font-size: 14px; font-weight: 700; line-height: 1;
+}
+.hstat-val.accent { color: var(--blue); }
+.hstat-val.green  { color: var(--green); }
+.hstat-val.red    { color: var(--red); }
+.hstat-val.gold   { color: var(--gold); }
+.hstat-lbl {
+  font-size: 9px; font-weight: 600; color: var(--muted);
+  letter-spacing: .06em; text-transform: uppercase;
+}
+.hstat-div {
+  width: 1px; height: 28px; background: var(--border2); flex-shrink: 0;
+}
 
 .live-pill {
   display: flex; align-items: center; gap: 6px;
@@ -217,6 +241,7 @@ header {
 }
 .filter-group { display: flex; align-items: center; gap: 8px; }
 .filter-label { font-size: 11px; font-weight: 600; color: var(--muted2); letter-spacing: .06em; text-transform: uppercase; white-space: nowrap; }
+.filter-row { display: contents; }
 
 .search-wrap { position: relative; display: flex; align-items: center; }
 .search-icon { position: absolute; left: 10px; color: var(--muted); pointer-events: none; width: 14px; height: 14px; }
@@ -379,7 +404,11 @@ footer {
   .btn-pro { display: none; }
   .btn-discord { font-size: 11px; padding: 6px 12px; }
 
+  .header-stats { display: none; }
   .stats { grid-template-columns: repeat(2, 1fr); }
+  .stat-card { padding: 14px 12px; }
+  .stat-value { font-size: 22px; }
+  .stat-label { font-size: 9px; }
 
   .filters-wrap { padding: 10px 16px; gap: 8px; }
   #search-input { width: 160px; }
@@ -397,17 +426,21 @@ footer {
   .filters-wrap { top: 56px; }
   .nav-label { display: none; }
 
-  /* Stack filters vertically */
-  .filters-wrap { flex-direction: column; align-items: stretch; padding: 10px 12px; gap: 8px; }
-  .filter-group { flex-wrap: wrap; gap: 6px; }
-  .search-wrap { width: 100%; }
-  #search-input { width: 100%; }
-  .btn-reset { margin-left: 0; width: 100%; text-align: center; }
+  /* 2-row filter layout */
+  .filters-wrap { flex-direction: column; padding: 8px 12px; gap: 6px; }
+  .filter-row { display: flex; align-items: center; gap: 8px; width: 100%; }
+  .filter-row .filter-group { flex: 1; min-width: 0; }
+  .filter-row .search-wrap { width: 100%; }
+  #search-input { width: 100%; box-sizing: border-box; font-size: 12px; }
+  .filter-label { display: none; }
+  .btn-reset { display: none; }
+  .filter-row .select-wrap { width: 100%; }
+  .filter-row .select-wrap select { width: 100%; font-size: 11px; padding: 5px 24px 5px 8px; }
+  .filter-row .date-range-group,
+  .filter-row .btn-range-group { display: flex; width: 100%; }
+  .filter-row .btn-range { flex: 1; text-align: center; padding: 4px 2px; font-size: 10px; }
 
   /* Compact stat cards */
-  .stat-card { padding: 14px 12px; }
-  .stat-value { font-size: 22px; }
-  .stat-label { font-size: 9px; }
 
   /* Compact market nav — hide flag labels, keep icons */
   .market-nav-btn { padding: 5px 8px; gap: 3px; font-size: 10px; }
@@ -428,6 +461,12 @@ footer {
   }
   .mobile-bar .btn-discord span { display: inline; }
   .mobile-bar .btn-discord { padding: 7px 16px; }
+  .mobile-bar { justify-content: center; }
+  .mobile-bar .header-stats { display: flex; border: none; background: transparent; width: 100%; justify-content: space-around; }
+  .mobile-bar .hstat { flex: 1; padding: 4px 0; }
+  .mobile-bar .hstat-val { font-size: 13px; }
+  .mobile-bar .hstat-lbl { font-size: 8px; }
+  .mobile-bar .hstat-div { height: 24px; }
 
   /* Hide data-note caption on mobile */
   .data-note { display: none; }

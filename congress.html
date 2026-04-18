@@ -87,16 +87,6 @@
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css?v=6" />
   <style>
-    /* Stat card accent colors */
-    .stat-card:nth-child(1)::before { background: linear-gradient(90deg, var(--blue),   transparent); }
-    .stat-card:nth-child(2)::before { background: linear-gradient(90deg, var(--green),  transparent); }
-    .stat-card:nth-child(3)::before { background: linear-gradient(90deg, var(--red),    transparent); }
-    .stat-card:nth-child(4)::before { background: linear-gradient(90deg, var(--gold),   transparent); }
-    .stat-card:nth-child(1) .stat-icon { background: var(--blue-bg);   color: var(--blue);   }
-    .stat-card:nth-child(2) .stat-icon { background: var(--green-bg);  color: var(--green);  }
-    .stat-card:nth-child(3) .stat-icon { background: var(--red-bg);    color: var(--red);    }
-    .stat-card:nth-child(4) .stat-icon { background: var(--gold-bg);   color: var(--gold);   }
-
     /* Party badges */
     .badge-party {
       display: inline-flex; align-items: center; gap: 3px;
@@ -142,10 +132,219 @@
     /* Ticker symbol hidden on desktop — shown inline on mobile inside company cell */
     .mobile-ticker-sym { display: none; }
 
-    /* Mobile card overrides */
+    /* ── View toggle ── */
+    .view-toggle {
+      display: flex; align-items: center; gap: 4px;
+      background: var(--surface2); border: 1px solid var(--border2); border-radius: 10px;
+      padding: 4px; width: fit-content; margin: 14px auto;
+    }
+    .view-tab {
+      display: flex; align-items: center; gap: 7px;
+      padding: 7px 18px; border-radius: 7px; border: none;
+      background: transparent; color: var(--muted2); font-family: 'DM Sans', sans-serif;
+      font-size: 13px; font-weight: 600; cursor: pointer; transition: all .18s;
+    }
+    .view-tab:hover { color: var(--text2); background: rgba(255,255,255,.04); }
+    .view-tab.active { background: var(--surface3); color: var(--gold); border: 1px solid rgba(240,168,0,.2); }
+
+    /* ── View containers ── */
+    #view-portfolios { display: none; }
+    #view-stocks     { display: none; }
+
+    /* ── Politician grid ── */
+    .poli-search-bar {
+      display: flex; align-items: center; gap: 10px;
+      padding: 10px 18px 0; max-width: 1400px; margin: 0 auto;
+    }
+    .poli-search-wrap { position: relative; flex: 1; max-width: 340px; }
+    .poli-search-wrap svg { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); pointer-events: none; color: var(--muted); }
+    .poli-search-wrap input {
+      width: 100%; padding: 8px 12px 8px 34px;
+      background: var(--surface2); border: 1px solid var(--border2);
+      border-radius: 8px; color: var(--text); font-family: 'DM Sans', sans-serif;
+      font-size: 13px; outline: none;
+    }
+    .poli-search-wrap input:focus { border-color: rgba(240,168,0,.4); }
+    .poli-sort-wrap { display: flex; align-items: center; gap: 8px; }
+    .poli-sort-lbl { font-size: 11px; color: var(--muted); }
+    .poli-sort-select {
+      background: var(--surface2); border: 1px solid var(--border2);
+      color: var(--text2); font-family: 'DM Sans', sans-serif;
+      font-size: 12px; border-radius: 6px; padding: 6px 10px; cursor: pointer; outline: none;
+    }
+    .poli-grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 8px; padding: 10px 18px 24px; max-width: 1400px; margin: 0 auto;
+    }
+    .poli-card {
+      background: var(--surface); border: 1px solid var(--border2);
+      border-radius: 10px; padding: 11px 14px;
+      cursor: pointer; transition: all .18s; position: relative; overflow: hidden;
+    }
+    .poli-card::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; border-radius: 10px 0 0 10px; }
+    .poli-card.dem::before { background: #60A5FA; }
+    .poli-card.rep::before { background: #F87171; }
+    .poli-card.ind::before { background: var(--muted); }
+    .poli-card:hover { border-color: rgba(240,168,0,.35); background: var(--surface2); transform: translateY(-1px); }
+    .poli-card-header { display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 8px; }
+    .poli-avatar {
+      width: 34px; height: 34px; border-radius: 50%; flex-shrink: 0;
+      display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 800;
+    }
+    .poli-avatar.dem { background: rgba(59,130,246,.15); color: #60A5FA; border: 2px solid rgba(59,130,246,.3); }
+    .poli-avatar.rep { background: rgba(239,68,68,.15);  color: #F87171; border: 2px solid rgba(239,68,68,.3); }
+    .poli-avatar.ind { background: var(--surface3); color: var(--muted2); border: 2px solid var(--border2); }
+    .poli-name { font-size: 13px; font-weight: 700; color: var(--text); margin-bottom: 3px; }
+    .poli-badges { display: flex; gap: 4px; align-items: center; flex-wrap: wrap; }
+    .poli-card-stats { display: grid; grid-template-columns: repeat(3,1fr); gap: 5px; margin-bottom: 8px; }
+    .poli-stat { text-align: center; }
+    .poli-stat-val { font-family: var(--font-mono); font-size: 13px; font-weight: 700; line-height: 1; }
+    .poli-stat-val.green { color: var(--green); } .poli-stat-val.red { color: var(--red); } .poli-stat-val.gold { color: var(--gold); }
+    .poli-stat-lbl { font-size: 9px; color: var(--muted); margin-top: 2px; letter-spacing: .04em; }
+    .poli-top-stocks { display: flex; flex-wrap: wrap; gap: 4px; }
+    .poli-stock-chip { font-family: var(--font-mono); font-size: 10px; font-weight: 700; background: var(--surface3); color: var(--gold-bright); border: 1px solid var(--border2); border-radius: 4px; padding: 2px 6px; }
+    .poli-stock-chip.buy-chip  { background: var(--green-bg); color: var(--green); border-color: rgba(16,217,138,.2); }
+    .poli-stock-chip.sell-chip { background: var(--red-bg);   color: var(--red);   border-color: rgba(239,68,68,.2); }
+    .poli-card-footer { margin-top: 7px; padding-top: 7px; border-top: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; }
+    .poli-last-traded { font-size: 11px; color: var(--muted); }
+
+    /* ── Portfolio drill-down ── */
+    #portfolio-detail { display: none; }
+    .portfolio-detail-wrap { max-width: 1200px; margin: 0 auto; padding: 12px 18px 28px; }
+    .btn-back {
+      display: inline-flex; align-items: center; gap: 7px;
+      background: var(--surface2); border: 1px solid var(--border2);
+      color: var(--text2); font-size: 12px; font-weight: 600;
+      border-radius: 7px; padding: 7px 14px; cursor: pointer; transition: all .15s; margin-bottom: 16px;
+    }
+    .btn-back:hover { border-color: rgba(240,168,0,.3); color: var(--gold); }
+    .poli-detail-header {
+      background: var(--surface); border: 1px solid var(--border2);
+      border-radius: 12px; padding: 14px 18px; margin-bottom: 14px;
+      display: flex; align-items: center; gap: 14px;
+    }
+    .poli-detail-avatar {
+      width: 46px; height: 46px; border-radius: 50%; flex-shrink: 0;
+      display: flex; align-items: center; justify-content: center; font-size: 17px; font-weight: 800;
+    }
+    .poli-detail-avatar.dem { background: rgba(59,130,246,.15); color: #60A5FA; border: 2px solid rgba(59,130,246,.3); }
+    .poli-detail-avatar.rep { background: rgba(239,68,68,.15);  color: #F87171; border: 2px solid rgba(239,68,68,.3); }
+    .poli-detail-avatar.ind { background: var(--surface3); color: var(--muted2); border: 2px solid var(--border2); }
+    .poli-detail-info { flex: 1; }
+    .poli-detail-name { font-size: 17px; font-weight: 800; color: var(--text); margin-bottom: 4px; }
+    .poli-detail-badges { display: flex; gap: 5px; align-items: center; flex-wrap: wrap; }
+    .poli-detail-stats { display: flex; gap: 18px; align-items: center; margin-left: auto; text-align: right; }
+    .poli-detail-stat-val { font-family: var(--font-mono); font-size: 18px; font-weight: 700; line-height: 1; }
+    .poli-detail-stat-lbl { font-size: 10px; color: var(--muted); margin-top: 2px; letter-spacing: .04em; }
+    .section-title {
+      font-size: 13px; font-weight: 700; color: var(--muted2); letter-spacing: .06em; text-transform: uppercase;
+      margin-bottom: 12px; display: flex; align-items: center; gap: 8px;
+    }
+    .section-title::after { content: ''; flex: 1; height: 1px; background: var(--border); }
+    .holdings-table-wrap { overflow-x: auto; margin-bottom: 24px; }
+    .holdings-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    .holdings-table thead th { text-align: left; padding: 8px 12px; font-size: 11px; font-weight: 700; color: var(--muted); letter-spacing: .05em; text-transform: uppercase; border-bottom: 1px solid var(--border2); white-space: nowrap; }
+    .holdings-table tbody td { padding: 9px 12px; border-bottom: 1px solid var(--border); vertical-align: middle; }
+    .holdings-table tbody tr:hover { background: rgba(255,255,255,.025); }
+    .holdings-table tbody tr:last-child td { border-bottom: none; }
+    .net-chip { display: inline-flex; align-items: center; gap: 4px; font-family: var(--font-mono); font-size: 11px; font-weight: 700; border-radius: 4px; padding: 2px 8px; }
+    .net-chip.net-long  { background: var(--green-bg); color: var(--green); border: 1px solid rgba(16,217,138,.25); }
+    .net-chip.net-short { background: var(--red-bg);   color: var(--red);   border: 1px solid rgba(239,68,68,.25); }
+    .net-chip.net-flat  { background: var(--surface3); color: var(--muted2); border: 1px solid var(--border2); }
+
+    /* ── Stock Intelligence ── */
+    .si-wrap { max-width: 1300px; margin: 0 auto; padding: 12px 18px 28px; }
+    .si-search-bar { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 12px; }
+    .si-search-wrap { position: relative; flex: 1; min-width: 220px; max-width: 400px; }
+    .si-search-wrap svg { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); pointer-events: none; color: var(--muted); }
+    .si-search-wrap input {
+      width: 100%; padding: 9px 12px 9px 34px;
+      background: var(--surface2); border: 1px solid var(--border2);
+      border-radius: 8px; color: var(--text); font-family: 'DM Sans', sans-serif; font-size: 13px; outline: none;
+    }
+    .si-search-wrap input:focus { border-color: rgba(240,168,0,.45); }
+    .si-filter-group { display: flex; align-items: center; gap: 6px; }
+    .si-filter-lbl { font-size: 11px; color: var(--muted); white-space: nowrap; }
+    .si-leaderboard-title {
+      font-size: 11px; font-weight: 700; color: var(--muted); letter-spacing: .07em;
+      text-transform: uppercase; margin-bottom: 12px; display: flex; align-items: center; gap: 8px;
+    }
+    .si-leaderboard-title::after { content: ''; flex: 1; height: 1px; background: var(--border); }
+    .si-stock-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 8px; margin-bottom: 20px; }
+    .si-stock-card {
+      background: var(--surface); border: 1px solid var(--border2);
+      border-radius: 9px; padding: 10px 13px; cursor: pointer; transition: all .18s; position: relative; overflow: hidden;
+    }
+    .si-stock-card:hover { border-color: rgba(240,168,0,.4); background: var(--surface2); transform: translateY(-1px); }
+    .si-card-top { display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 7px; }
+    .si-ticker { font-family: var(--font-mono); font-size: 15px; font-weight: 700; color: var(--gold-bright); }
+    .si-company { font-size: 10px; color: var(--muted); margin-top: 1px; max-width: 140px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .si-rank { font-family: var(--font-mono); font-size: 11px; color: var(--muted); background: var(--surface3); border: 1px solid var(--border2); border-radius: 4px; padding: 2px 6px; flex-shrink: 0; }
+    .si-bar-wrap { margin-bottom: 5px; }
+    .si-bar-track { height: 4px; background: var(--surface3); border-radius: 99px; overflow: hidden; display: flex; }
+    .si-bar-buy  { background: var(--green); height: 100%; border-radius: 99px 0 0 99px; }
+    .si-bar-sell { background: var(--red);   height: 100%; border-radius: 0 99px 99px 0; }
+    .si-card-stats { display: flex; gap: 10px; margin-top: 5px; }
+    .si-card-stat-val { font-family: var(--font-mono); font-size: 12px; font-weight: 700; }
+    .si-card-stat-lbl { font-size: 9px; color: var(--muted); margin-top: 1px; }
+    .si-card-footer { margin-top: 7px; padding-top: 6px; border-top: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; }
+    .si-politician-faces { display: flex; }
+    .si-face { width: 20px; height: 20px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; font-size: 8px; font-weight: 800; border: 1.5px solid var(--bg); margin-right: -4px; flex-shrink: 0; }
+    .si-face.dem { background: rgba(59,130,246,.3); color: #60A5FA; }
+    .si-face.rep { background: rgba(239,68,68,.3);  color: #F87171; }
+    .si-face.ind { background: var(--surface3);     color: var(--muted2); }
+    .si-more-badge { font-size: 9px; font-weight: 700; color: var(--muted); background: var(--surface3); border: 1px solid var(--border2); border-radius: 99px; padding: 2px 6px; margin-left: 6px; flex-shrink: 0; }
+    .si-sector-chip { font-size: 10px; color: var(--muted2); background: var(--surface3); border: 1px solid var(--border2); border-radius: 4px; padding: 1px 6px; white-space: nowrap; max-width: 100px; overflow: hidden; text-overflow: ellipsis; }
+    #si-detail { display: none; }
+    .si-detail-header { background: var(--surface); border: 1px solid var(--border2); border-radius: 11px; padding: 14px 18px; margin-bottom: 14px; }
+    .si-detail-top { display: flex; align-items: center; gap: 14px; margin-bottom: 10px; }
+    .si-detail-ticker { font-family: var(--font-mono); font-size: 24px; font-weight: 700; color: var(--gold-bright); }
+    .si-detail-company { font-size: 13px; color: var(--muted2); margin-top: 2px; }
+    .si-detail-sector  { font-size: 10px; color: var(--muted); margin-top: 2px; }
+    .si-detail-stats { display: flex; gap: 18px; margin-left: auto; text-align: right; flex-wrap: wrap; }
+    .si-detail-stat-val { font-family: var(--font-mono); font-size: 18px; font-weight: 700; line-height: 1; }
+    .si-detail-stat-lbl { font-size: 10px; color: var(--muted); margin-top: 2px; letter-spacing: .04em; }
+    .si-sentiment-wrap { margin-top: 10px; }
+    .si-sentiment-lbl { display: flex; justify-content: space-between; font-size: 11px; color: var(--muted); margin-bottom: 4px; }
+    .si-sentiment-track { height: 7px; background: var(--red-bg); border-radius: 99px; overflow: hidden; border: 1px solid var(--border2); }
+    .si-sentiment-fill { height: 100%; background: linear-gradient(90deg, var(--green), #0a9c64); border-radius: 99px; transition: width .5s; }
+    .si-traders-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 7px; margin-bottom: 16px; }
+    .si-trader-card { background: var(--surface); border: 1px solid var(--border2); border-radius: 8px; padding: 8px 11px; display: flex; align-items: center; gap: 9px; cursor: pointer; transition: all .15s; }
+    .si-trader-card:hover { border-color: rgba(240,168,0,.3); background: var(--surface2); }
+    .si-trader-avatar { width: 30px; height: 30px; border-radius: 50%; flex-shrink: 0; display: flex; align-items: center; justify-content: center; font-size: 11px; font-weight: 800; }
+    .si-trader-avatar.dem { background: rgba(59,130,246,.15); color: #60A5FA; border: 2px solid rgba(59,130,246,.3); }
+    .si-trader-avatar.rep { background: rgba(239,68,68,.15);  color: #F87171; border: 2px solid rgba(239,68,68,.3); }
+    .si-trader-avatar.ind { background: var(--surface3); color: var(--muted2); border: 2px solid var(--border2); }
+    .si-trader-info { flex: 1; min-width: 0; }
+    .si-trader-name { font-size: 12px; font-weight: 700; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .si-trader-meta { font-size: 10px; color: var(--muted); margin-top: 1px; display: flex; gap: 4px; align-items: center; flex-wrap: wrap; }
+    .si-trader-counts { text-align: right; flex-shrink: 0; font-family: var(--font-mono); font-size: 11px; }
+    .si-trader-counts .g { color: var(--green); } .si-trader-counts .r { color: var(--red); }
+
+    /* ── Mobile ── */
+    @media (max-width: 600px) {
+      .poli-grid { grid-template-columns: 1fr; padding: 10px 12px 20px; }
+      .si-stock-grid { grid-template-columns: 1fr; }
+      .si-traders-grid { grid-template-columns: 1fr; }
+      .poli-detail-header { flex-direction: column; align-items: flex-start; gap: 10px; }
+      .poli-detail-stats { margin-left: 0; text-align: left; gap: 12px; flex-wrap: wrap; }
+      .si-detail-top { flex-direction: column; align-items: flex-start; gap: 10px; }
+      .si-detail-stats { margin-left: 0; text-align: left; gap: 12px; flex-wrap: wrap; }
+      .portfolio-detail-wrap { padding: 10px 12px 24px; }
+      .si-wrap { padding: 10px 12px 24px; }
+      /* Holdings & trades tables: smaller font, horizontal scroll */
+      .holdings-table { font-size: 11px; }
+      .holdings-table thead th { padding: 6px 8px; font-size: 10px; }
+      .holdings-table tbody td { padding: 7px 8px; }
+      /* Ensure the table rows stay as normal table rows (not grid) */
+      .holdings-table tbody tr { display: table-row !important; }
+      .holdings-table tbody td { display: table-cell !important; }
+    }
+
+    /* ── Mobile card overrides (live feed only) ── */
     @media (max-width: 600px) {
       /* Two-column grid: left = info stack, right = amount (top) + type (bottom) */
-      tbody tr:not(.skeleton-row) {
+      #trades-table tbody tr:not(.skeleton-row) {
         display: grid !important;
         position: relative;
         grid-template-columns: 1fr auto;
@@ -304,7 +503,27 @@
   </div>
 
   <div class="header-right">
-    <span id="trade-count" style="font-size:11px;font-weight:600;font-family:var(--font-mono);background:var(--gold-bg);border:1px solid rgba(240,168,0,.25);border-radius:20px;padding:4px 12px;color:var(--gold);letter-spacing:.04em">— trades</span>
+    <div class="header-stats">
+      <div class="hstat">
+        <span class="hstat-val accent" id="stat-total">—</span>
+        <span class="hstat-lbl">Trades</span>
+      </div>
+      <div class="hstat-div"></div>
+      <div class="hstat">
+        <span class="hstat-val green" id="stat-buys">—</span>
+        <span class="hstat-lbl">Buys</span>
+      </div>
+      <div class="hstat-div"></div>
+      <div class="hstat">
+        <span class="hstat-val red" id="stat-sells">—</span>
+        <span class="hstat-lbl">Sells</span>
+      </div>
+      <div class="hstat-div"></div>
+      <div class="hstat">
+        <span class="hstat-val gold" id="stat-politicians">—</span>
+        <span class="hstat-lbl">Pols</span>
+      </div>
+    </div>
     <a href="https://discord.gg/RhuXhpXcUR" target="_blank" rel="noopener noreferrer" class="btn-discord">
       <svg width="16" height="16" viewBox="0 0 127.14 96.36" fill="currentColor" aria-hidden="true">
         <path d="M107.7,8.07A105.15,105.15,0,0,0,81.47,0a72.06,72.06,0,0,0-3.36,6.83A97.68,97.68,0,0,0,49,6.83,72.37,72.37,0,0,0,45.64,0,105.89,105.89,0,0,0,19.39,8.09C2.79,32.65-1.71,56.6.54,80.21h0A105.73,105.73,0,0,0,32.71,96.36,77.7,77.7,0,0,0,39.6,85.25a68.42,68.42,0,0,1-10.85-5.18c.91-.66,1.8-1.34,2.66-2a75.57,75.57,0,0,0,64.32,0c.87.71,1.76,1.39,2.66,2a68.68,68.68,0,0,1-10.87,5.19,77,77,0,0,0,6.89,11.1A105.25,105.25,0,0,0,126.6,80.22h0C129.24,52.84,122.09,29.11,107.7,8.07ZM42.45,65.69C36.18,65.69,31,60,31,53s5-12.74,11.43-12.74S54,46,53.89,53,48.84,65.69,42.45,65.69Zm42.24,0C78.41,65.69,73.25,60,73.25,53s5-12.74,11.44-12.74S96.23,46,96.12,53,91.08,65.69,84.69,65.69Z"/>
@@ -317,76 +536,18 @@
 <div class="gold-rule"></div>
 
 <div class="mobile-bar">
-  <span id="trade-count-mobile" style="font-size:11px;font-weight:600;font-family:var(--font-mono);background:var(--gold-bg);border:1px solid rgba(240,168,0,.25);border-radius:20px;padding:4px 12px;color:var(--gold);letter-spacing:.04em">— trades</span>
-  <a href="https://discord.gg/RhuXhpXcUR" target="_blank" rel="noopener noreferrer" class="btn-discord">
-    <svg width="16" height="16" viewBox="0 0 127.14 96.36" fill="currentColor" aria-hidden="true">
-      <path d="M107.7,8.07A105.15,105.15,0,0,0,81.47,0a72.06,72.06,0,0,0-3.36,6.83A97.68,97.68,0,0,0,49,6.83,72.37,72.37,0,0,0,45.64,0,105.89,105.89,0,0,0,19.39,8.09C2.79,32.65-1.71,56.6.54,80.21h0A105.73,105.73,0,0,0,32.71,96.36,77.7,77.7,0,0,0,39.6,85.25a68.42,68.42,0,0,1-10.85-5.18c.91-.66,1.8-1.34,2.66-2a75.57,75.57,0,0,0,64.32,0c.87.71,1.76,1.39,2.66,2a68.68,68.68,0,0,1-10.87,5.19,77,77,0,0,0,6.89,11.1A105.25,105.25,0,0,0,126.6,80.22h0C129.24,52.84,122.09,29.11,107.7,8.07ZM42.45,65.69C36.18,65.69,31,60,31,53s5-12.74,11.43-12.74S54,46,53.89,53,48.84,65.69,42.45,65.69Zm42.24,0C78.41,65.69,73.25,60,73.25,53s5-12.74,11.44-12.74S96.23,46,96.12,53,91.08,65.69,84.69,65.69Z"/>
-    </svg>
-    <span>Join Discord</span>
-  </a>
+  <div class="header-stats">
+    <div class="hstat"><span class="hstat-val accent" id="m-stat-total">—</span><span class="hstat-lbl">Trades</span></div>
+    <div class="hstat-div"></div>
+    <div class="hstat"><span class="hstat-val green" id="m-stat-buys">—</span><span class="hstat-lbl">Buys</span></div>
+    <div class="hstat-div"></div>
+    <div class="hstat"><span class="hstat-val red" id="m-stat-sells">—</span><span class="hstat-lbl">Sells</span></div>
+    <div class="hstat-div"></div>
+    <div class="hstat"><span class="hstat-val gold" id="m-stat-politicians">—</span><span class="hstat-lbl">Pols</span></div>
+  </div>
 </div>
 
 <div id="error-banner"></div>
-
-<!-- ================================================================== -->
-<!-- STATS                                                                -->
-<!-- ================================================================== -->
-<div class="stats">
-
-  <div class="stat-card">
-    <div class="stat-header">
-      <div class="stat-icon">
-        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-          <rect x="1" y="10" width="14" height="5" rx="1"/>
-          <path d="M3 10V8M6 10V7M8 10V5M10 10V7M13 10V8"/>
-          <path d="M5 5h6M8 1v4"/>
-        </svg>
-      </div>
-      <div class="stat-label">Total Trades</div>
-    </div>
-    <div class="stat-value accent" id="stat-total">—</div>
-  </div>
-
-  <div class="stat-card">
-    <div class="stat-header">
-      <div class="stat-icon">
-        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-          <path d="M8 13V3M3 8l5-5 5 5"/>
-        </svg>
-      </div>
-      <div class="stat-label">Buys</div>
-    </div>
-    <div class="stat-value green" id="stat-buys">—</div>
-  </div>
-
-  <div class="stat-card">
-    <div class="stat-header">
-      <div class="stat-icon">
-        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-          <path d="M8 3v10M3 8l5 5 5-5"/>
-        </svg>
-      </div>
-      <div class="stat-label">Sells</div>
-    </div>
-    <div class="stat-value" style="color:var(--red)" id="stat-sells">—</div>
-  </div>
-
-  <div class="stat-card">
-    <div class="stat-header">
-      <div class="stat-icon">
-        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-          <circle cx="6" cy="5" r="3"/>
-          <path d="M1 14c0-3 2-5 5-5"/>
-          <circle cx="12" cy="8" r="2.5"/>
-          <path d="M9.5 13c0-2 1-3.5 2.5-3.5s2.5 1.5 2.5 3.5"/>
-        </svg>
-      </div>
-      <div class="stat-label">Politicians</div>
-    </div>
-    <div class="stat-value gold" id="stat-politicians">—</div>
-  </div>
-
-</div>
 
 <!-- ================================================================== -->
 <!-- FILTERS                                                              -->
@@ -403,49 +564,68 @@
     </div>
   </div>
 
-  <div class="filter-group">
-    <span class="filter-label">Party</span>
-    <div class="date-range-group" id="party-group">
-      <button class="btn-range active" data-party="all">All</button>
-      <button class="btn-range" data-party="Democrat">Dem</button>
-      <button class="btn-range" data-party="Republican">Rep</button>
+  <div class="filter-row">
+    <div class="filter-group">
+      <span class="filter-label">Party</span>
+      <div class="date-range-group" id="party-group">
+        <button class="btn-range active" data-party="all">All</button>
+        <button class="btn-range" data-party="Democrat">Dem</button>
+        <button class="btn-range" data-party="Republican">Rep</button>
+      </div>
+    </div>
+    <div class="filter-group">
+      <span class="filter-label">Chamber</span>
+      <div class="date-range-group" id="chamber-group">
+        <button class="btn-range active" data-chamber="all">All</button>
+        <button class="btn-range" data-chamber="House">House</button>
+        <button class="btn-range" data-chamber="Senate">Senate</button>
+      </div>
+    </div>
+    <div class="filter-group">
+      <span class="filter-label">Type</span>
+      <div class="date-range-group" id="type-group">
+        <button class="btn-range active" data-txtype="all">All</button>
+        <button class="btn-range" data-txtype="BUY">Buy</button>
+        <button class="btn-range" data-txtype="SELL">Sell</button>
+      </div>
     </div>
   </div>
 
-  <div class="filter-group">
-    <span class="filter-label">Chamber</span>
-    <div class="date-range-group" id="chamber-group">
-      <button class="btn-range active" data-chamber="all">All</button>
-      <button class="btn-range" data-chamber="House">House</button>
-      <button class="btn-range" data-chamber="Senate">Senate</button>
-    </div>
-  </div>
-
-  <div class="filter-group">
-    <span class="filter-label">Type</span>
-    <div class="date-range-group" id="type-group">
-      <button class="btn-range active" data-txtype="all">All</button>
-      <button class="btn-range" data-txtype="BUY">Buy</button>
-      <button class="btn-range" data-txtype="SELL">Sell</button>
-    </div>
-  </div>
-
-  <div class="filter-group">
-    <span class="filter-label">Period</span>
-    <div class="date-range-group" id="date-range-group">
-      <button class="btn-range" data-range="7">7D</button>
-      <button class="btn-range active" data-range="30">30D</button>
-      <button class="btn-range" data-range="90">90D</button>
-      <button class="btn-range" data-range="all">All</button>
+  <div class="filter-row">
+    <div class="filter-group">
+      <span class="filter-label">Period</span>
+      <div class="date-range-group" id="date-range-group">
+        <button class="btn-range" data-range="7">7D</button>
+        <button class="btn-range active" data-range="30">30D</button>
+        <button class="btn-range" data-range="90">90D</button>
+        <button class="btn-range" data-range="all">All</button>
+      </div>
     </div>
   </div>
 
   <button class="btn-reset" id="btn-reset">↺ Reset</button>
 </div>
 
+<!-- View toggle -->
+<div class="view-toggle">
+  <button class="view-tab active" id="tab-feed">
+    <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M1 4h14M1 8h10M1 12h7"/></svg>
+    Live Feed
+  </button>
+  <button class="view-tab" id="tab-portfolios">
+    <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="6" cy="5" r="3"/><path d="M1 14c0-3 2-5 5-5"/><circle cx="12" cy="8" r="2.5"/><path d="M9.5 13c0-2 1-3.5 2.5-3.5s2.5 1.5 2.5 3.5"/></svg>
+    Portfolios
+  </button>
+  <button class="view-tab" id="tab-stocks">
+    <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M2 12L6 7l3 3 5-6"/><circle cx="13" cy="4" r="1.5" fill="currentColor" stroke="none"/></svg>
+    Stock Intel
+  </button>
+</div>
+
 <!-- ================================================================== -->
-<!-- TABLE                                                                -->
+<!-- LIVE FEED VIEW                                                       -->
 <!-- ================================================================== -->
+<div id="view-feed">
 <div class="table-section">
 
   <div id="no-results">
@@ -482,6 +662,141 @@
     </table>
   </div>
 </div>
+</div><!-- /#view-feed -->
+
+<!-- ================================================================== -->
+<!-- PORTFOLIOS VIEW                                                       -->
+<!-- ================================================================== -->
+<div id="view-portfolios">
+  <div id="poli-grid-view">
+    <div class="poli-search-bar">
+      <div class="poli-search-wrap">
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="6.5" cy="6.5" r="4.5"/><line x1="10" y1="10" x2="14" y2="14"/></svg>
+        <input type="text" id="poli-search" placeholder="Search politician…" />
+      </div>
+      <div class="poli-sort-wrap">
+        <span class="poli-sort-lbl">Sort by</span>
+        <select class="poli-sort-select" id="poli-sort">
+          <option value="trades">Most Trades</option>
+          <option value="buys">Most Buys</option>
+          <option value="sells">Most Sells</option>
+          <option value="name">Name A–Z</option>
+        </select>
+      </div>
+    </div>
+    <div class="poli-grid" id="poli-grid"></div>
+  </div>
+
+  <div id="portfolio-detail">
+    <div class="portfolio-detail-wrap">
+      <button class="btn-back" id="poli-back-btn">
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M10 3L5 8l5 5"/></svg>
+        Back to Portfolios
+      </button>
+      <div class="poli-detail-header">
+        <div class="poli-detail-avatar" id="poli-detail-avatar"></div>
+        <div class="poli-detail-info">
+          <div class="poli-detail-name" id="poli-detail-name"></div>
+          <div class="poli-detail-badges" id="poli-detail-badges"></div>
+        </div>
+        <div class="poli-detail-stats" id="poli-detail-stats"></div>
+      </div>
+
+      <div class="section-title">Holdings</div>
+      <div class="holdings-table-wrap">
+        <table class="holdings-table">
+          <thead><tr>
+            <th>Ticker</th><th>Company</th><th>Buys</th><th>Sells</th>
+            <th>Net</th><th>Last Traded</th><th>Sector</th>
+          </tr></thead>
+          <tbody id="holdings-body"></tbody>
+        </table>
+      </div>
+
+      <div class="section-title">All Trades</div>
+      <div class="holdings-table-wrap">
+        <table class="holdings-table">
+          <thead><tr>
+            <th>Published</th><th>Traded</th><th>Ticker</th><th>Company</th>
+            <th>Type</th><th>Amount</th><th>Filed After</th>
+          </tr></thead>
+          <tbody id="poli-trades-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div><!-- /#view-portfolios -->
+
+<!-- ================================================================== -->
+<!-- STOCK INTEL VIEW                                                      -->
+<!-- ================================================================== -->
+<div id="view-stocks">
+  <div id="si-list-view">
+    <div class="si-wrap">
+      <div class="si-search-bar">
+        <div class="si-search-wrap">
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="6.5" cy="6.5" r="4.5"/><line x1="10" y1="10" x2="14" y2="14"/></svg>
+          <input type="text" id="si-search" placeholder="Search ticker or company…" />
+        </div>
+        <div class="si-filter-group">
+          <span class="si-filter-lbl">Type</span>
+          <div class="date-range-group" id="si-type-group">
+            <button class="btn-range active" data-sitype="all">All</button>
+            <button class="btn-range" data-sitype="BUY">Buy</button>
+            <button class="btn-range" data-sitype="SELL">Sell</button>
+          </div>
+        </div>
+        <div class="si-filter-group">
+          <span class="si-filter-lbl">Period</span>
+          <div class="date-range-group" id="si-period-group">
+            <button class="btn-range" data-siperiod="30">30D</button>
+            <button class="btn-range" data-siperiod="90">90D</button>
+            <button class="btn-range active" data-siperiod="all">All</button>
+          </div>
+        </div>
+      </div>
+      <div class="si-leaderboard-title">Most-Traded by Congress</div>
+      <div class="si-stock-grid" id="si-stock-grid"></div>
+    </div>
+  </div>
+
+  <div id="si-detail">
+    <div class="si-wrap">
+      <button class="btn-back" id="si-btn-back">
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M10 3L5 8l5 5"/></svg>
+        Back to Stock Intel
+      </button>
+      <div class="si-detail-header">
+        <div class="si-detail-top">
+          <div>
+            <div class="si-detail-ticker" id="si-detail-ticker"></div>
+            <div class="si-detail-company" id="si-detail-company"></div>
+            <div class="si-detail-sector"  id="si-detail-sector"></div>
+          </div>
+          <div class="si-detail-stats" id="si-detail-stats"></div>
+        </div>
+        <div class="si-sentiment-wrap">
+          <div class="si-sentiment-lbl">
+            <span id="si-sent-buy-lbl">Congress sentiment</span>
+            <span id="si-sent-pct"></span>
+          </div>
+          <div class="si-sentiment-track">
+            <div class="si-sentiment-fill" id="si-sentiment-fill" style="width:50%"></div>
+          </div>
+        </div>
+      </div>
+      <div class="section-title">Politicians Traded</div>
+      <div class="si-traders-grid" id="si-traders-grid"></div>
+      <div class="section-title">All Trades</div>
+      <div class="holdings-table-wrap">
+        <table class="holdings-table">
+          <thead><tr><th>Published</th><th>Traded</th><th>Politician</th><th>Party</th><th>Type</th><th>Amount</th><th>Filed After</th></tr></thead>
+          <tbody id="si-trades-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div><!-- /#view-stocks -->
 
 <!-- ================================================================== -->
 <!-- FOOTER                                                               -->
@@ -492,9 +807,6 @@
     <p>Real-time congressional stock trade tracking. STOCK Act disclosures surface as soon as they are filed. Free Discord alerts for every new trade.</p>
   </div>
 
-  <div class="footer-links">
-    <a href="https://www.capitoltrades.com" target="_blank" rel="noopener">Capitol Trades</a>
-  </div>
 
   <div class="footer-legal">
     &copy; 2026 InsiderEdgePro. All rights reserved.<br/>
@@ -778,6 +1090,10 @@
     statBuys.textContent       = buys.toLocaleString();
     statSells.textContent      = sells.toLocaleString();
     statPoliticians.textContent = politicians.toLocaleString();
+    document.getElementById('m-stat-total').textContent      = statTotal.textContent;
+    document.getElementById('m-stat-buys').textContent       = statBuys.textContent;
+    document.getElementById('m-stat-sells').textContent      = statSells.textContent;
+    document.getElementById('m-stat-politicians').textContent = statPoliticians.textContent;
   }
 
   function renderTable() {
@@ -908,9 +1224,6 @@
 
       const newest = allTrades.length > 0 ? parsePublishedDate(allTrades[0]) : null;
       lastUpdatedEl.textContent = newest ? `Filed ${formatDateDisplay(newest)}` : 'Loaded';
-      if (tradeCountEl) tradeCountEl.textContent = allTrades.length + ' trades';
-      const mobileCount = document.getElementById('trade-count-mobile');
-      if (mobileCount) mobileCount.textContent = allTrades.length + ' trades';
 
       renderTable();
     } catch (err) {
@@ -922,6 +1235,358 @@
 
   loadData();
   setInterval(loadData, REFRESH_INTERVAL_MS);
+
+  /* ================================================================== */
+  /* VIEW SWITCHING                                                        */
+  /* ================================================================== */
+  const tabFeed        = document.getElementById('tab-feed');
+  const tabPortfolios  = document.getElementById('tab-portfolios');
+  const tabStocks      = document.getElementById('tab-stocks');
+  const viewFeed       = document.getElementById('view-feed');
+  const viewPortfolios = document.getElementById('view-portfolios');
+  const viewStocks     = document.getElementById('view-stocks');
+
+  let activeView = 'feed';
+
+  function switchView(view) {
+    activeView = view;
+    viewFeed.style.display       = 'none';
+    viewPortfolios.style.display = 'none';
+    viewStocks.style.display     = 'none';
+    [tabFeed, tabPortfolios, tabStocks].forEach(t => t.classList.remove('active'));
+    if (view === 'feed') {
+      viewFeed.style.display = 'block';
+      tabFeed.classList.add('active');
+    } else if (view === 'portfolios') {
+      viewPortfolios.style.display = 'block';
+      tabPortfolios.classList.add('active');
+      renderPoliGrid();
+    } else {
+      viewStocks.style.display = 'block';
+      tabStocks.classList.add('active');
+      renderStockGrid();
+    }
+  }
+
+  tabFeed.addEventListener('click',       () => switchView('feed'));
+  tabPortfolios.addEventListener('click', () => switchView('portfolios'));
+  tabStocks.addEventListener('click',     () => switchView('stocks'));
+
+  /* ================================================================== */
+  /* PORTFOLIOS                                                            */
+  /* ================================================================== */
+  function initials(name) {
+    return (name || '?').split(' ').filter(Boolean).slice(0,2).map(p => p[0].toUpperCase()).join('');
+  }
+
+  function buildPortfolios() {
+    const map = {};
+    for (const t of allTrades) {
+      const n = t.politician_name;
+      if (!n) continue;
+      if (!map[n]) map[n] = { name: n, party: t.party, chamber: t.chamber, state: t.state, trades: [] };
+      map[n].trades.push(t);
+    }
+    return map;
+  }
+
+  function renderPoliGrid() {
+    const search = (document.getElementById('poli-search').value || '').trim().toLowerCase();
+    const sortBy = document.getElementById('poli-sort').value;
+    let polis = Object.values(buildPortfolios());
+    if (search) polis = polis.filter(p => p.name.toLowerCase().includes(search));
+    polis.sort((a, b) => {
+      if (sortBy === 'buys')  return b.trades.filter(t => t.transaction_type?.toUpperCase()==='BUY').length  - a.trades.filter(t => t.transaction_type?.toUpperCase()==='BUY').length;
+      if (sortBy === 'sells') return b.trades.filter(t => t.transaction_type?.toUpperCase()==='SELL').length - a.trades.filter(t => t.transaction_type?.toUpperCase()==='SELL').length;
+      if (sortBy === 'name')  return a.name.localeCompare(b.name);
+      return b.trades.length - a.trades.length;
+    });
+
+    const grid = document.getElementById('poli-grid');
+    if (!polis.length) { grid.innerHTML = '<p style="color:var(--muted);padding:20px">No politicians found.</p>'; return; }
+
+    grid.innerHTML = polis.map(p => {
+      const pc     = partyClass(p.party);
+      const buys   = p.trades.filter(t => t.transaction_type?.toUpperCase()==='BUY').length;
+      const sells  = p.trades.filter(t => t.transaction_type?.toUpperCase()==='SELL').length;
+      const tickers = [...new Set(p.trades.map(t => t.ticker).filter(t => t && t !== 'N/A'))].slice(0, 5);
+      const lastDates = p.trades.map(t => t.trade_published || t.traded_on || '').filter(Boolean).sort().reverse();
+      const last = lastDates[0] ? formatDateDisplay(lastDates[0].slice(0,10)) : '—';
+      const chamberStr = (p.chamber || '').toLowerCase();
+      return `<div class="poli-card ${pc}" data-poli="${escHtml(p.name)}">
+  <div class="poli-card-header">
+    <div>
+      <div class="poli-name">${escHtml(p.name)}</div>
+      <div class="poli-badges">
+        <span class="badge-party ${pc}">${escHtml(partyShort(p.party))}</span>
+        <span class="badge-chamber ${chamberStr==='senate'?'senate':'house'}">${escHtml(p.chamber||'?')}${p.state?' · '+escHtml(p.state):''}</span>
+      </div>
+    </div>
+    <div class="poli-avatar ${pc}">${escHtml(initials(p.name))}</div>
+  </div>
+  <div class="poli-card-stats">
+    <div class="poli-stat"><div class="poli-stat-val green">${buys}</div><div class="poli-stat-lbl">BUYS</div></div>
+    <div class="poli-stat"><div class="poli-stat-val red">${sells}</div><div class="poli-stat-lbl">SELLS</div></div>
+    <div class="poli-stat"><div class="poli-stat-val gold">${p.trades.length}</div><div class="poli-stat-lbl">TOTAL</div></div>
+  </div>
+  <div class="poli-top-stocks">${tickers.map(tk => `<span class="poli-stock-chip">${escHtml(tk)}</span>`).join('')}</div>
+  <div class="poli-card-footer"><span class="poli-last-traded">Last: ${escHtml(last)}</span></div>
+</div>`;
+    }).join('');
+
+    grid.querySelectorAll('.poli-card').forEach(card => {
+      card.addEventListener('click', () => openPortfolio(card.dataset.poli));
+    });
+  }
+
+  function openPortfolio(name) {
+    const map = buildPortfolios();
+    const p   = map[name];
+    if (!p) return;
+    const pc = partyClass(p.party);
+
+    document.getElementById('poli-detail-avatar').className  = `poli-detail-avatar ${pc}`;
+    document.getElementById('poli-detail-avatar').textContent = initials(name);
+    document.getElementById('poli-detail-name').textContent   = name;
+
+    const buys  = p.trades.filter(t => t.transaction_type?.toUpperCase()==='BUY').length;
+    const sells = p.trades.filter(t => t.transaction_type?.toUpperCase()==='SELL').length;
+    const chamberStr = (p.chamber||'').toLowerCase();
+    document.getElementById('poli-detail-badges').innerHTML = `
+      <span class="badge-party ${pc}">${escHtml(partyShort(p.party))}</span>
+      <span class="badge-chamber ${chamberStr==='senate'?'senate':'house'}">${escHtml(p.chamber||'?')}${p.state?' · '+escHtml(p.state):''}</span>`;
+    document.getElementById('poli-detail-stats').innerHTML = `
+      <div><div class="poli-detail-stat-val" style="color:var(--green)">${buys}</div><div class="poli-detail-stat-lbl">Buys</div></div>
+      <div><div class="poli-detail-stat-val" style="color:var(--red)">${sells}</div><div class="poli-detail-stat-lbl">Sells</div></div>
+      <div><div class="poli-detail-stat-val" style="color:var(--gold)">${p.trades.length}</div><div class="poli-detail-stat-lbl">Total</div></div>`;
+
+    // Holdings
+    const tickerMap = {};
+    for (const t of p.trades) {
+      const tk = (t.ticker && t.ticker !== 'N/A') ? t.ticker : '—';
+      if (!tickerMap[tk]) tickerMap[tk] = { ticker: tk, company: t.company||'', sector: t.sector||'', buys: 0, sells: 0, last: '' };
+      const tx = (t.transaction_type||'').toUpperCase();
+      if (tx === 'BUY') tickerMap[tk].buys++;
+      else if (tx === 'SELL') tickerMap[tk].sells++;
+      const d = t.trade_published || t.traded_on || '';
+      if (d > tickerMap[tk].last) tickerMap[tk].last = d;
+    }
+    const holdings = Object.values(tickerMap).sort((a,b) => (b.buys+b.sells)-(a.buys+a.sells));
+    document.getElementById('holdings-body').innerHTML = holdings.map(h => {
+      const net = h.buys > h.sells ? 'net-long' : h.sells > h.buys ? 'net-short' : 'net-flat';
+      const netLabel = h.buys > h.sells ? '▲ LONG' : h.sells > h.buys ? '▼ SHORT' : '= FLAT';
+      return `<tr>
+  <td style="font-family:var(--font-mono);font-weight:700;color:var(--gold-bright)">${escHtml(h.ticker)}</td>
+  <td style="color:var(--text2);max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escHtml(h.company)}</td>
+  <td style="color:var(--green);font-family:var(--font-mono)">${h.buys}</td>
+  <td style="color:var(--red);font-family:var(--font-mono)">${h.sells}</td>
+  <td><span class="net-chip ${net}">${netLabel}</span></td>
+  <td style="font-size:12px;color:var(--muted)">${h.last ? formatDateDisplay(h.last.slice(0,10)) : '—'}</td>
+  <td style="font-size:11px;color:var(--muted2)">${escHtml(h.sector)}</td>
+</tr>`;
+    }).join('');
+
+    // All trades
+    const sorted = [...p.trades].sort((a,b) => {
+      const da = a.trade_published||a.traded_on||'';
+      const db = b.trade_published||b.traded_on||'';
+      return db < da ? -1 : db > da ? 1 : 0;
+    });
+    document.getElementById('poli-trades-body').innerHTML = sorted.map(t => {
+      const txType = (t.transaction_type||'').toUpperCase();
+      const rowCls = txType==='BUY'?'row-buy':txType==='SELL'?'row-sell':'';
+      return `<tr class="${rowCls}">
+  <td style="font-size:12px;font-weight:600;color:var(--text)">${formatDateDisplay((t.trade_published||'').slice(0,10))}</td>
+  <td style="font-size:11px;color:var(--muted)">${formatDateDisplay((t.traded_on||'').slice(0,10))}</td>
+  <td style="font-family:var(--font-mono);font-weight:700;color:var(--gold-bright)">${escHtml(t.ticker&&t.ticker!=='N/A'?t.ticker:'—')}</td>
+  <td style="color:var(--text2);max-width:150px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escHtml(t.company||'—')}</td>
+  <td><span class="badge-tx ${txClass(txType)}">${escHtml(txType||'—')}</span></td>
+  <td style="font-family:var(--font-mono);font-size:12px">${escHtml(normaliseAmount(t))}</td>
+  <td style="font-family:var(--font-mono);font-size:11px;color:var(--muted)">${t.filed_after_days?t.filed_after_days+'d':'—'}</td>
+</tr>`;
+    }).join('');
+
+    document.getElementById('poli-grid-view').style.display   = 'none';
+    document.getElementById('portfolio-detail').style.display = 'block';
+    window.scrollTo(0, 0);
+  }
+
+  document.getElementById('poli-back-btn').addEventListener('click', () => {
+    document.getElementById('portfolio-detail').style.display = 'none';
+    document.getElementById('poli-grid-view').style.display   = 'block';
+  });
+  document.getElementById('poli-search').addEventListener('input', renderPoliGrid);
+  document.getElementById('poli-sort').addEventListener('change', renderPoliGrid);
+
+  /* ================================================================== */
+  /* STOCK INTELLIGENCE                                                    */
+  /* ================================================================== */
+  let siTypeFilter = 'all';
+  let siPeriod     = 'all';
+
+  function siFilteredTrades() {
+    let t = allTrades;
+    if (siTypeFilter !== 'all') t = t.filter(x => (x.transaction_type||'').toUpperCase() === siTypeFilter);
+    if (siPeriod !== 'all') {
+      const cutoff = toLocalDateStr(new Date(Date.now() - parseInt(siPeriod) * 86400000));
+      t = t.filter(x => { const d = x.trade_published||x.traded_on||''; return d >= cutoff; });
+    }
+    return t;
+  }
+
+  function buildStockMap(trades) {
+    const map = {};
+    for (const t of trades) {
+      const key = (t.ticker && t.ticker !== 'N/A') ? t.ticker : null;
+      if (!key) continue;
+      if (!map[key]) map[key] = { ticker: key, company: t.company||key, sector: t.sector||'', trades: [] };
+      if (!map[key].company && t.company) map[key].company = t.company;
+      if (!map[key].sector  && t.sector)  map[key].sector  = t.sector;
+      map[key].trades.push(t);
+    }
+    return map;
+  }
+
+  function renderStockGrid() {
+    const trades = siFilteredTrades();
+    const map    = buildStockMap(trades);
+    const search = (document.getElementById('si-search').value || '').trim().toLowerCase();
+    let stocks   = Object.values(map);
+    if (search) stocks = stocks.filter(s => s.ticker.toLowerCase().includes(search) || s.company.toLowerCase().includes(search));
+    stocks.sort((a,b) => b.trades.length - a.trades.length);
+
+    const grid = document.getElementById('si-stock-grid');
+    if (!stocks.length) { grid.innerHTML = '<p style="color:var(--muted);padding:20px 0">No stocks match your filters.</p>'; return; }
+
+    grid.innerHTML = stocks.slice(0, 60).map((s, i) => {
+      const buys  = s.trades.filter(t => t.transaction_type?.toUpperCase()==='BUY').length;
+      const sells = s.trades.filter(t => t.transaction_type?.toUpperCase()==='SELL').length;
+      const total = s.trades.length;
+      const buyPct  = total ? Math.round(buys/total*100) : 0;
+      const sellPct = total ? Math.round(sells/total*100) : 0;
+      const polMap = {};
+      for (const t of s.trades) { const n = t.politician_name; if (!polMap[n]) polMap[n] = { name:n, party:t.party }; }
+      const pols = Object.values(polMap).slice(0,5);
+      const moreCount = Object.keys(polMap).length - pols.length;
+      const faces = pols.map(p => `<span class="si-face ${partyClass(p.party)}" title="${escHtml(p.name)}">${escHtml(initials(p.name))}</span>`).join('');
+      return `<div class="si-stock-card" data-ticker="${escHtml(s.ticker)}">
+  <div class="si-card-top">
+    <div><div class="si-ticker">${escHtml(s.ticker)}</div><div class="si-company" title="${escHtml(s.company)}">${escHtml(s.company)}</div></div>
+    <div class="si-rank">#${i+1}</div>
+  </div>
+  <div class="si-bar-wrap"><div class="si-bar-track"><div class="si-bar-buy" style="width:${buyPct}%"></div><div class="si-bar-sell" style="width:${sellPct}%"></div></div></div>
+  <div class="si-card-stats">
+    <div><div class="si-card-stat-val" style="color:var(--green)">${buys}</div><div class="si-card-stat-lbl">Buys</div></div>
+    <div><div class="si-card-stat-val" style="color:var(--red)">${sells}</div><div class="si-card-stat-lbl">Sells</div></div>
+    <div><div class="si-card-stat-val" style="color:var(--gold)">${Object.keys(polMap).length}</div><div class="si-card-stat-lbl">Pols</div></div>
+    <div><div class="si-card-stat-val" style="color:var(--text2)">${total}</div><div class="si-card-stat-lbl">Trades</div></div>
+  </div>
+  <div class="si-card-footer">
+    <div class="si-politician-faces">${faces}${moreCount>0?`<span class="si-more-badge">+${moreCount}</span>`:''}</div>
+    ${s.sector?`<span class="si-sector-chip">${escHtml(s.sector)}</span>`:''}
+  </div>
+</div>`;
+    }).join('');
+
+    grid.querySelectorAll('.si-stock-card').forEach(card => {
+      card.addEventListener('click', () => openStockDetail(card.dataset.ticker));
+    });
+  }
+
+  function openStockDetail(ticker) {
+    const trades = siFilteredTrades();
+    const map    = buildStockMap(trades);
+    const s      = map[ticker];
+    if (!s) return;
+
+    const buys   = s.trades.filter(t => t.transaction_type?.toUpperCase()==='BUY').length;
+    const sells  = s.trades.filter(t => t.transaction_type?.toUpperCase()==='SELL').length;
+    const total  = s.trades.length;
+    const buyPct = total ? Math.round(buys/total*100) : 0;
+
+    const polMap = {};
+    for (const t of s.trades) {
+      const n = t.politician_name;
+      if (!polMap[n]) polMap[n] = { name:n, party:t.party, chamber:t.chamber, state:t.state, buys:0, sells:0, last:'' };
+      const tx = (t.transaction_type||'').toUpperCase();
+      if (tx==='BUY') polMap[n].buys++; else if (tx==='SELL') polMap[n].sells++;
+      const d = t.trade_published||t.traded_on||'';
+      if (d > polMap[n].last) polMap[n].last = d;
+    }
+
+    document.getElementById('si-detail-ticker').textContent  = ticker;
+    document.getElementById('si-detail-company').textContent = s.company;
+    document.getElementById('si-detail-sector').textContent  = s.sector||'';
+    document.getElementById('si-detail-stats').innerHTML = `
+      <div><div class="si-detail-stat-val" style="color:var(--green)">${buys}</div><div class="si-detail-stat-lbl">Buys</div></div>
+      <div><div class="si-detail-stat-val" style="color:var(--red)">${sells}</div><div class="si-detail-stat-lbl">Sells</div></div>
+      <div><div class="si-detail-stat-val" style="color:var(--gold)">${Object.keys(polMap).length}</div><div class="si-detail-stat-lbl">Politicians</div></div>
+      <div><div class="si-detail-stat-val" style="color:var(--text2)">${total}</div><div class="si-detail-stat-lbl">Total</div></div>`;
+    document.getElementById('si-sent-buy-lbl').textContent   = `Congress bullish — ${buyPct}% buys`;
+    document.getElementById('si-sent-pct').textContent       = `${buyPct}% buy`;
+    document.getElementById('si-sentiment-fill').style.width = buyPct + '%';
+
+    const traders = Object.values(polMap).sort((a,b) => (b.buys+b.sells)-(a.buys+a.sells));
+    document.getElementById('si-traders-grid').innerHTML = traders.map(p => {
+      const pc = partyClass(p.party);
+      const chamberStr = (p.chamber||'').toLowerCase();
+      return `<div class="si-trader-card" data-poli="${escHtml(p.name)}">
+  <div class="si-trader-avatar ${pc}">${escHtml(initials(p.name))}</div>
+  <div class="si-trader-info">
+    <div class="si-trader-name">${escHtml(p.name)}</div>
+    <div class="si-trader-meta">
+      <span class="badge-party ${pc}" style="font-size:9px">${escHtml(partyShort(p.party))}</span>
+      <span class="badge-chamber ${chamberStr==='senate'?'senate':'house'}" style="font-size:9px">${escHtml(p.chamber||'?')}${p.state?' · '+escHtml(p.state):''}</span>
+    </div>
+  </div>
+  <div class="si-trader-counts"><div class="g">+${p.buys}</div><div class="r">${p.sells} sell</div></div>
+</div>`;
+    }).join('');
+
+    document.querySelectorAll('#si-traders-grid .si-trader-card').forEach(card => {
+      card.addEventListener('click', () => {
+        switchView('portfolios');
+        setTimeout(() => openPortfolio(card.dataset.poli), 50);
+      });
+    });
+
+    const sorted = [...s.trades].sort((a,b) => { const da=a.trade_published||a.traded_on||''; const db=b.trade_published||b.traded_on||''; return db<da?-1:db>da?1:0; });
+    document.getElementById('si-trades-body').innerHTML = sorted.map(t => {
+      const txType = (t.transaction_type||'').toUpperCase();
+      const rowCls = txType==='BUY'?'row-buy':txType==='SELL'?'row-sell':'';
+      return `<tr class="${rowCls}">
+  <td style="font-size:12px;font-weight:600;color:var(--text)">${formatDateDisplay((t.trade_published||'').slice(0,10))}</td>
+  <td style="font-size:11px;color:var(--muted)">${formatDateDisplay((t.traded_on||'').slice(0,10))}</td>
+  <td style="font-weight:600;color:var(--text2);font-size:13px">${escHtml(t.politician_name||'—')}</td>
+  <td><span class="badge-party ${partyClass(t.party)}">${escHtml(partyShort(t.party))}</span></td>
+  <td><span class="badge-tx ${txClass(txType)}">${escHtml(txType||'—')}</span></td>
+  <td style="font-family:var(--font-mono);font-size:12px">${escHtml(normaliseAmount(t))}</td>
+  <td style="font-family:var(--font-mono);font-size:11px;color:var(--muted)">${t.filed_after_days?t.filed_after_days+'d':'—'}</td>
+</tr>`;
+    }).join('');
+
+    document.getElementById('si-list-view').style.display = 'none';
+    document.getElementById('si-detail').style.display    = 'block';
+    window.scrollTo(0, 0);
+  }
+
+  document.getElementById('si-btn-back').addEventListener('click', () => {
+    document.getElementById('si-detail').style.display    = 'none';
+    document.getElementById('si-list-view').style.display = 'block';
+  });
+  document.getElementById('si-search').addEventListener('input', renderStockGrid);
+  document.getElementById('si-type-group').addEventListener('click', e => {
+    const btn = e.target.closest('[data-sitype]'); if (!btn) return;
+    siTypeFilter = btn.dataset.sitype;
+    document.querySelectorAll('#si-type-group .btn-range').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active'); renderStockGrid();
+  });
+  document.getElementById('si-period-group').addEventListener('click', e => {
+    const btn = e.target.closest('[data-siperiod]'); if (!btn) return;
+    siPeriod = btn.dataset.siperiod;
+    document.querySelectorAll('#si-period-group .btn-range').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active'); renderStockGrid();
+  });
 
 })();
 </script>
