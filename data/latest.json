@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-17T23:32:09Z",
-  "trade_count": 6022,
+  "last_updated": "2026-04-18T09:50:35Z",
+  "trade_count": 6023,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -96352,6 +96352,22 @@
       "owned": "4756327",
       "delta_own": "+22%",
       "value": "61111",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-17",
+      "filing_time": "20:33",
+      "trade_date": "2026-04-15",
+      "ticker": "SST",
+      "company": "System1, Inc.",
+      "insider_name": "Kidambi Tridivesh",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "3.00",
+      "qty": "26910",
+      "owned": "146515",
+      "delta_own": "+22%",
+      "value": "80730",
       "cluster_buy": false
     }
   ]
