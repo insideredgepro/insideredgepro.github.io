@@ -83,7 +83,7 @@
   </script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="style.css?v=6" />
+  <link rel="stylesheet" href="style.css?v=12" />
   <style>
     /* Stat card accent colors (blue / green / red / gold) */
     .stat-card:nth-child(1)::before { background: linear-gradient(90deg, var(--blue),  transparent); }
@@ -131,28 +131,57 @@
     .mobile-prices { display: none; }
 
     @media (max-width: 600px) {
-      /* Two-column grid card: left = info stack, right = return % */
+      /* Mirror congress layout: insider | return / ticker·company | return / date | . */
       tbody tr:not(.skeleton-row) {
         display: grid !important;
-        position: relative;
         grid-template-columns: 1fr auto;
         grid-template-areas:
-          "ticker   return"
-          "company  return"
-          "insider  ."
+          "insider  return"
+          "stock    return"
           "date     .";
-        column-gap: 12px;
+        column-gap: 8px;
         row-gap: 2px;
         align-items: center;
         min-height: unset;
+        padding: 6px 10px;
       }
 
-      td.td-ticker  { grid-area: ticker;  padding-right: 0; align-self: end; }
-      td.td-company { grid-area: company; max-width: 100%; margin-bottom: 0; align-self: start; }
-      td.td-insider { grid-area: insider; max-width: 100%; }
-      td:has(.group-insiders) { display: block; grid-area: insider; padding: 0; margin-top: 0; }
-      td.td-date    { grid-area: date; }
+      /* Insider name — row 1, bold white */
+      td.td-insider {
+        display: block !important;
+        grid-area: insider;
+        font-size: 12px;
+        font-weight: 700;
+        color: var(--text);
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        align-self: end;
+      }
+      /* Group rows: "N insiders" in insider slot */
+      td:has(.group-insiders) {
+        display: block !important;
+        grid-area: insider;
+        font-size: 11px;
+        font-weight: 600;
+        color: var(--muted2);
+        padding: 0;
+        align-self: end;
+      }
+      /* Stock cell — ticker · company inline */
+      td.td-stock-cell {
+        display: block !important;
+        grid-area: stock;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        align-self: start;
+      }
+      td.td-ticker  { display: none !important; }
+      td.td-company { display: none !important; }
+      td.td-date    { display: block; grid-area: date; font-size: 10px; color: var(--muted); margin-top: 0; align-self: start; }
 
+      /* Return % — right column spanning rows 1–2 */
       td:has(.td-return), td:has(.badge-pending) {
         display: block;
         grid-area: return;
@@ -163,30 +192,21 @@
       }
 
       /* Hide desktop-only cells */
-      td.td-rank  { display: none; }
-      td.td-price { display: none; }
-      td.td-value { display: none; }
+      td.td-rank  { display: none !important; }
+      td.td-price { display: none !important; }
+      td.td-value { display: none !important; }
 
-      /* Child rows: ticker & company already shown in parent — override grid */
-      tbody tr.child-row {
-        grid-template-areas:
-          "insider  return"
-          "date     .";
-        margin-top: 2px !important;
-        margin-bottom: 2px !important;
-        padding-top: 7px !important;
-        padding-bottom: 7px !important;
-      }
-      tbody tr.child-row td.td-ticker  { display: none; }
-      tbody tr.child-row td.td-company { display: none; }
+      /* Child rows use same grid — just indent */
+      tbody tr.child-row { margin-left: 24px; }
 
       /* Price display embedded in insider cell */
       .mobile-prices {
         display: block;
         font-family: var(--font-mono);
-        font-size: 11px;
+        font-size: 10px;
         color: var(--muted2);
-        margin-top: 2px;
+        margin-top: 1px;
+        font-weight: 400;
       }
     }
   </style>
@@ -629,6 +649,7 @@
           <td class="td-rank">${i + 1}</td>
           <td class="td-ticker"><span class="expand-arrow">${arrow}</span>${escHtml(g.ticker)}</td>
           <td class="td-company" title="${escHtml(g.company)}">${escHtml(g.company)}</td>
+          <td class="td-stock-cell"><span class="mobile-ticker-sym"><span class="expand-arrow">${arrow}</span>${escHtml(g.ticker)}</span><span class="mobile-co-name">${escHtml(g.company)}</span></td>
           <td><span class="group-insiders">${g.entries.length} insiders</span>${g.latestPrice !== null ? `<span class="mobile-prices">Current: ${formatPrice(g.latestPrice, g.currency)}</span>` : ''}</td>
           <td class="td-date">—</td>
           <td class="td-price">—</td>
@@ -646,6 +667,7 @@
               <td class="td-rank"></td>
               <td class="td-ticker">${escHtml(e.ticker)}</td>
               <td class="td-company">${escHtml(e.company)}</td>
+              <td class="td-stock-cell"><span class="mobile-ticker-sym">${escHtml(e.ticker)}</span><span class="mobile-co-name">${escHtml(e.company)}</span></td>
               <td class="td-insider" title="${escHtml(e.insider_name)}">${escHtml(e.insider_name || '—')}${e.trade_price !== null && e.latest_price !== null ? `<span class="mobile-prices">${formatPrice(e.trade_price, e.currency)} → ${formatPrice(e.latest_price, e.currency)}</span>` : ''}</td>
               <td class="td-date">${escHtml(e.trade_date || '—')}</td>
               <td class="td-price">${formatPrice(e.trade_price, e.currency)}</td>
@@ -661,6 +683,7 @@
           <td class="td-rank">${i + 1}</td>
           <td class="td-ticker">${escHtml(e.ticker)}</td>
           <td class="td-company" title="${escHtml(e.company)}">${escHtml(e.company)}</td>
+          <td class="td-stock-cell"><span class="mobile-ticker-sym">${escHtml(e.ticker)}</span><span class="mobile-co-name">${escHtml(e.company)}</span></td>
           <td class="td-insider" title="${escHtml(e.insider_name)}">${escHtml(e.insider_name || '—')}${e.trade_price !== null && e.latest_price !== null ? `<span class="mobile-prices">${formatPrice(e.trade_price, e.currency)} → ${formatPrice(e.latest_price, e.currency)}</span>` : ''}</td>
           <td class="td-date">${escHtml(e.trade_date || '—')}</td>
           <td class="td-price">${formatPrice(e.trade_price, e.currency)}</td>

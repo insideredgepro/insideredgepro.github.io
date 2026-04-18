@@ -313,6 +313,7 @@ td { padding: 7px 12px; font-size: 13px; white-space: nowrap; vertical-align: mi
 .td-time    { font-size: 11px; font-family: var(--font-mono); color: var(--muted); letter-spacing: .02em; }
 .td-ticker  { font-size: 14px; font-weight: 700; font-family: var(--font-mono); color: var(--gold-bright); letter-spacing: .05em; padding-left: 22px; }
 .group-row .td-ticker { padding-left: 0; }
+.td-stock-cell { display: none; }
 .td-company { max-width: 200px; overflow: hidden; text-overflow: ellipsis; color: var(--text2); }
 .td-insider { max-width: 180px; overflow: hidden; text-overflow: ellipsis; }
 .td-value   { font-weight: 700; font-family: var(--font-mono); color: var(--gold); font-size: 13px; }
@@ -477,88 +478,104 @@ footer {
   thead { display: none; }
   tbody { display: block; padding: 4px 0 12px; }
 
-  /* Each row = card */
+  /* Each row = grid card — mirrors congress.html layout */
   tbody tr:not(.skeleton-row) {
-    display: block;
+    display: grid !important;
     position: relative;
+    grid-template-columns: 1fr auto;
+    grid-template-areas:
+      "insider  value"
+      "stock    value"
+      "date     .";
+    column-gap: 8px;
+    row-gap: 2px;
+    align-items: center;
     border: 1px solid var(--border2);
     border-radius: 8px;
-    margin: 6px 12px;
-    padding: 10px 12px 10px 12px;
+    margin: 4px 10px;
+    padding: 6px 10px;
     background: var(--surface);
-    min-height: 58px;
   }
   tbody tr:nth-child(even):not(.child-row) { background: var(--surface); }
   tbody tr:not(.child-row):hover { box-shadow: inset 3px 0 0 var(--gold); background: var(--surface2); }
-  tbody tr.child-row { margin-left: 28px; background: rgba(255,255,255,.02); border-style: dashed; }
+  tbody tr.child-row { margin-left: 24px; background: rgba(255,255,255,.02); border-style: dashed; }
 
   /* Hide all cells by default */
-  tbody td { display: none; border: none; padding: 1px 0; white-space: normal; }
+  tbody td { display: none; border: none; padding: 0; white-space: normal; }
 
-  /* Show: Ticker */
-  td.td-ticker {
-    display: block;
-    font-size: 15px;
-    font-weight: 700;
-    padding-right: 85px;
-    margin-bottom: 2px;
-  }
-  /* Show: Company */
-  td.td-company {
-    display: block;
-    font-size: 11px;
-    color: var(--muted2);
-    max-width: calc(100% - 85px);
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    margin-bottom: 4px;
-  }
-  /* Show: Insider name (for child/single rows) */
+  /* Insider name — row 1 left, bold white (like politician in congress) */
   td.td-insider {
     display: block;
-    font-size: 11px;
-    color: var(--muted2);
-    max-width: calc(100% - 85px);
+    grid-area: insider;
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--text);
+    white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    white-space: nowrap;
+    align-self: end;
   }
-  /* Show: Date */
-  td.td-date {
-    display: block;
-    font-size: 11px;
-    color: var(--muted);
-    margin-top: 4px;
-  }
-  /* Show: Value — pinned top-right */
-  td.td-value {
-    display: block;
-    position: absolute;
-    top: 10px;
-    right: 12px;
-    font-size: 14px;
-    font-weight: 700;
-    padding: 0;
-  }
-  /* Show: Cluster badge — pinned bottom-right */
-  td:has(.badge-cluster) {
-    display: block;
-    position: absolute;
-    bottom: 8px;
-    right: 12px;
-    padding: 0;
-  }
-  /* Show: group insiders count */
+  /* Group rows: show "N insiders" in insider area */
   td:has(.group-insiders) {
     display: block;
+    grid-area: insider;
     font-size: 11px;
-    margin-top: 2px;
+    font-weight: 600;
+    color: var(--muted2);
+    padding: 0;
+    align-self: end;
+  }
+  /* Stock cell — row 2 left: TICKER · Company inline (like congress td-company-cell) */
+  td.td-stock-cell {
+    display: block;
+    grid-area: stock;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    align-self: start;
+  }
+  .mobile-ticker-sym {
+    display: inline;
+    font-family: var(--font-mono);
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--gold-bright);
+    letter-spacing: .04em;
+  }
+  .mobile-co-name {
+    display: inline;
+    font-size: 10px;
+    color: var(--muted2);
+    margin-left: 5px;
+  }
+  /* Hide separate ticker/company cells on mobile */
+  td.td-ticker { display: none; }
+  td.td-company { display: none; }
+  /* Date — row 3 */
+  td.td-date {
+    display: block;
+    grid-area: date;
+    font-size: 10px;
+    color: var(--muted);
+    align-self: start;
+  }
+  /* Value — right column spanning rows 1–2, gold mono */
+  td.td-value {
+    display: block;
+    grid-area: value;
+    position: static;
+    font-family: var(--font-mono);
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--gold);
+    text-align: right;
+    align-self: center;
     padding: 0;
   }
+  td:has(.badge-cluster) { display: none; }
 
   /* Skeleton rows */
-  .skeleton-row { display: block; margin: 6px 12px; border-radius: 8px; overflow: hidden; }
+  .skeleton-row { display: block; margin: 4px 10px; border-radius: 8px; overflow: hidden; }
   .skeleton-row td { display: block !important; padding: 8px 12px; }
 }
 

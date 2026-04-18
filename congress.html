@@ -85,7 +85,7 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="style.css?v=6" />
+  <link rel="stylesheet" href="style.css?v=12" />
   <style>
     /* Party badges */
     .badge-party {
@@ -326,45 +326,54 @@
       .poli-grid { grid-template-columns: 1fr; padding: 10px 12px 20px; }
       .si-stock-grid { grid-template-columns: 1fr; }
       .si-traders-grid { grid-template-columns: 1fr; }
-      .poli-detail-header { flex-direction: column; align-items: flex-start; gap: 10px; }
-      .poli-detail-stats { margin-left: 0; text-align: left; gap: 12px; flex-wrap: wrap; }
+      /* Compact portfolio header: avatar+name row, then stats row */
+      .poli-detail-header { flex-wrap: wrap; gap: 8px; padding: 10px 12px; }
+      .poli-detail-avatar { width: 36px; height: 36px; font-size: 13px; flex-shrink: 0; }
+      .poli-detail-info { flex: 1; min-width: 0; }
+      .poli-detail-name { font-size: 14px; margin-bottom: 2px; }
+      .poli-detail-stats { width: 100%; margin-left: 0; justify-content: space-around; border-top: 1px solid var(--border2); padding-top: 8px; gap: 0; }
+      .poli-detail-stat-val { font-size: 15px; }
+      .poli-detail-stat-lbl { font-size: 9px; }
       .si-detail-top { flex-direction: column; align-items: flex-start; gap: 10px; }
       .si-detail-stats { margin-left: 0; text-align: left; gap: 12px; flex-wrap: wrap; }
       .portfolio-detail-wrap { padding: 10px 12px 24px; }
       .si-wrap { padding: 10px 12px 24px; }
-      /* Holdings & trades tables: smaller font, horizontal scroll */
-      .holdings-table { font-size: 11px; }
-      .holdings-table thead th { padding: 6px 8px; font-size: 10px; }
-      .holdings-table tbody td { padding: 7px 8px; }
-      /* Ensure the table rows stay as normal table rows (not grid) */
+      /* Holdings + All Trades: fit mobile without horizontal scroll */
+      .holdings-table-wrap { overflow-x: visible; }
+      .holdings-table { font-size: 11px; width: 100%; table-layout: fixed; }
+      .holdings-table thead th { padding: 5px 4px; font-size: 10px; }
+      .holdings-table tbody td { padding: 6px 4px; }
       .holdings-table tbody tr { display: table-row !important; }
       .holdings-table tbody td { display: table-cell !important; }
+      .col-hide-mobile { display: none !important; }
+      /* Truncate ticker/type text */
+      .tbl-holdings td:nth-child(1),
+      .tbl-trades td:nth-child(3) { font-size: 10px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+      .net-chip { font-size: 10px; padding: 2px 5px; }
     }
 
     /* ── Mobile card overrides (live feed only) ── */
     @media (max-width: 600px) {
-      /* Two-column grid: left = info stack, right = amount (top) + type (bottom) */
       #trades-table tbody tr:not(.skeleton-row) {
         display: grid !important;
         position: relative;
         grid-template-columns: 1fr auto;
         grid-template-areas:
-          "politician  amount"
+          "politician  type"
           "company     amount"
-          "company     type"
-          "party       type"
-          "date        .";
-        column-gap: 12px;
+          "date        amount";
+        column-gap: 8px;
         align-items: center;
         min-height: unset;
-        row-gap: 2px;
+        row-gap: 1px;
+        padding: 6px 10px;
       }
 
       /* Left column */
       td.td-politician {
         display: block;
         grid-area: politician;
-        font-size: 14px;
+        font-size: 12px;
         font-weight: 700;
         color: var(--text);
         white-space: nowrap;
@@ -376,46 +385,35 @@
         display: block;
         grid-area: company;
         overflow: hidden;
-        align-self: start;
-        margin-top: 1px;
+        align-self: center;
+        margin-top: 0;
       }
       .mobile-ticker-sym {
-        display: block;
+        display: inline;
         font-family: var(--font-mono);
         font-weight: 700;
         color: var(--gold-bright);
-        font-size: 13px;
+        font-size: 12px;
       }
       td.td-company-cell .td-company {
-        font-size: 11px;
+        display: inline;
+        font-size: 10px;
         color: var(--muted2);
-        overflow: hidden;
-        text-overflow: ellipsis;
-        white-space: nowrap;
-        margin-top: 1px;
+        margin-left: 4px;
       }
-      td.td-party-cell {
-        display: block;
-        grid-area: party;
-        font-size: 11px;
-        align-self: end;
-        margin-top: 2px;
-      }
+      td.td-party-cell { display: none; }
       td.td-date-cell {
         display: block;
         grid-area: date;
         align-self: start;
-        margin-top: 1px;
+        margin-top: 0;
       }
       td.td-date-cell > div:first-child {
-        font-size: 11px;
-        font-weight: 500;
-        color: var(--text2);
-      }
-      td.td-date-cell > div:last-child {
         font-size: 10px;
+        font-weight: 500;
         color: var(--muted);
       }
+      td.td-date-cell > div:last-child { display: none; }
 
       /* Right column */
       td.td-amount {
@@ -424,6 +422,7 @@
         position: static;
         text-align: right;
         padding: 0;
+        font-size: 12px;
         align-self: center;
       }
       td.td-type {
@@ -432,7 +431,7 @@
         position: static;
         text-align: right;
         padding: 0;
-        align-self: center;
+        align-self: end;
       }
 
       /* Hide desktop-only cells */
@@ -704,10 +703,10 @@
 
       <div class="section-title">Holdings</div>
       <div class="holdings-table-wrap">
-        <table class="holdings-table">
+        <table class="holdings-table tbl-holdings">
           <thead><tr>
-            <th>Ticker</th><th>Company</th><th>Buys</th><th>Sells</th>
-            <th>Net</th><th>Last Traded</th><th>Sector</th>
+            <th>Ticker</th><th class="col-hide-mobile">Company</th><th>Buys</th><th>Sells</th>
+            <th>Net</th><th class="col-hide-mobile">Last Traded</th>
           </tr></thead>
           <tbody id="holdings-body"></tbody>
         </table>
@@ -715,10 +714,10 @@
 
       <div class="section-title">All Trades</div>
       <div class="holdings-table-wrap">
-        <table class="holdings-table">
+        <table class="holdings-table tbl-trades">
           <thead><tr>
-            <th>Published</th><th>Traded</th><th>Ticker</th><th>Company</th>
-            <th>Type</th><th>Amount</th><th>Filed After</th>
+            <th>Date</th><th class="col-hide-mobile">Traded</th><th>Ticker</th><th class="col-hide-mobile">Company</th>
+            <th>Type</th><th>Amount</th><th class="col-hide-mobile">Filed After</th>
           </tr></thead>
           <tbody id="poli-trades-body"></tbody>
         </table>
@@ -1377,12 +1376,11 @@
       const netLabel = h.buys > h.sells ? '▲ LONG' : h.sells > h.buys ? '▼ SHORT' : '= FLAT';
       return `<tr>
   <td style="font-family:var(--font-mono);font-weight:700;color:var(--gold-bright)">${escHtml(h.ticker)}</td>
-  <td style="color:var(--text2);max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escHtml(h.company)}</td>
+  <td class="col-hide-mobile" style="color:var(--text2);max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escHtml(h.company)}</td>
   <td style="color:var(--green);font-family:var(--font-mono)">${h.buys}</td>
   <td style="color:var(--red);font-family:var(--font-mono)">${h.sells}</td>
   <td><span class="net-chip ${net}">${netLabel}</span></td>
-  <td style="font-size:12px;color:var(--muted)">${h.last ? formatDateDisplay(h.last.slice(0,10)) : '—'}</td>
-  <td style="font-size:11px;color:var(--muted2)">${escHtml(h.sector)}</td>
+  <td class="col-hide-mobile" style="font-size:12px;color:var(--muted)">${h.last ? formatDateDisplay(h.last.slice(0,10)) : '—'}</td>
 </tr>`;
     }).join('');
 
@@ -1397,12 +1395,12 @@
       const rowCls = txType==='BUY'?'row-buy':txType==='SELL'?'row-sell':'';
       return `<tr class="${rowCls}">
   <td style="font-size:12px;font-weight:600;color:var(--text)">${formatDateDisplay((t.trade_published||'').slice(0,10))}</td>
-  <td style="font-size:11px;color:var(--muted)">${formatDateDisplay((t.traded_on||'').slice(0,10))}</td>
+  <td class="col-hide-mobile" style="font-size:11px;color:var(--muted)">${formatDateDisplay((t.traded_on||'').slice(0,10))}</td>
   <td style="font-family:var(--font-mono);font-weight:700;color:var(--gold-bright)">${escHtml(t.ticker&&t.ticker!=='N/A'?t.ticker:'—')}</td>
-  <td style="color:var(--text2);max-width:150px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escHtml(t.company||'—')}</td>
+  <td class="col-hide-mobile" style="color:var(--text2);max-width:150px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escHtml(t.company||'—')}</td>
   <td><span class="badge-tx ${txClass(txType)}">${escHtml(txType||'—')}</span></td>
   <td style="font-family:var(--font-mono);font-size:12px">${escHtml(normaliseAmount(t))}</td>
-  <td style="font-family:var(--font-mono);font-size:11px;color:var(--muted)">${t.filed_after_days?t.filed_after_days+'d':'—'}</td>
+  <td class="col-hide-mobile" style="font-family:var(--font-mono);font-size:11px;color:var(--muted)">${t.filed_after_days?t.filed_after_days+'d':'—'}</td>
 </tr>`;
     }).join('');
 
