@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-17T23:00:19Z",
-  "trade_count": 2852,
+  "last_updated": "2026-04-18T01:00:20Z",
+  "trade_count": 2853,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43181,6 +43181,22 @@
       "qty": "445000",
       "price": "0.2522",
       "value": "112228",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4706845",
+      "trade_date": "2026-04-17",
+      "filing_date": "2026-04-17",
+      "company": "Independence Gold Corp.",
+      "ticker": "IGO",
+      "insider_name": "Gestion Bouca Inc",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "300000",
+      "price": "0.1050",
+      "value": "31500",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
