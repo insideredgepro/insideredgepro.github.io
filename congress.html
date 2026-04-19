@@ -308,24 +308,11 @@
     .si-sentiment-lbl { display: flex; justify-content: space-between; font-size: 11px; color: var(--muted); margin-bottom: 4px; }
     .si-sentiment-track { height: 7px; background: var(--red-bg); border-radius: 99px; overflow: hidden; border: 1px solid var(--border2); }
     .si-sentiment-fill { height: 100%; background: linear-gradient(90deg, var(--green), #0a9c64); border-radius: 99px; transition: width .5s; }
-    .si-traders-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 7px; margin-bottom: 16px; }
-    .si-trader-card { background: var(--surface); border: 1px solid var(--border2); border-radius: 8px; padding: 8px 11px; display: flex; align-items: center; gap: 9px; cursor: pointer; transition: all .15s; }
-    .si-trader-card:hover { border-color: rgba(240,168,0,.3); background: var(--surface2); }
-    .si-trader-avatar { width: 30px; height: 30px; border-radius: 50%; flex-shrink: 0; display: flex; align-items: center; justify-content: center; font-size: 11px; font-weight: 800; }
-    .si-trader-avatar.dem { background: rgba(59,130,246,.15); color: #60A5FA; border: 2px solid rgba(59,130,246,.3); }
-    .si-trader-avatar.rep { background: rgba(239,68,68,.15);  color: #F87171; border: 2px solid rgba(239,68,68,.3); }
-    .si-trader-avatar.ind { background: var(--surface3); color: var(--muted2); border: 2px solid var(--border2); }
-    .si-trader-info { flex: 1; min-width: 0; }
-    .si-trader-name { font-size: 12px; font-weight: 700; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-    .si-trader-meta { font-size: 10px; color: var(--muted); margin-top: 1px; display: flex; gap: 4px; align-items: center; flex-wrap: wrap; }
-    .si-trader-counts { text-align: right; flex-shrink: 0; font-family: var(--font-mono); font-size: 11px; }
-    .si-trader-counts .g { color: var(--green); } .si-trader-counts .r { color: var(--red); }
 
     /* ── Mobile ── */
     @media (max-width: 600px) {
       .poli-grid { grid-template-columns: 1fr; padding: 10px 12px 20px; }
       .si-stock-grid { grid-template-columns: 1fr; }
-      .si-traders-grid { grid-template-columns: 1fr; }
       /* Compact portfolio header: avatar+name row, then stats row */
       .poli-detail-header { flex-wrap: wrap; gap: 8px; padding: 10px 12px; }
       .poli-detail-avatar { width: 36px; height: 36px; font-size: 13px; flex-shrink: 0; }
@@ -842,8 +829,6 @@
           </div>
         </div>
       </div>
-      <div class="section-title">Politicians Traded</div>
-      <div class="si-traders-grid" id="si-traders-grid"></div>
       <div class="section-title">All Trades</div>
       <div class="holdings-table-wrap">
         <table class="holdings-table">
@@ -1659,30 +1644,6 @@
     document.getElementById('si-sent-buy-lbl').textContent   = `Congress bullish — ${buyPct}% buys`;
     document.getElementById('si-sent-pct').textContent       = `${buyPct}% buy`;
     document.getElementById('si-sentiment-fill').style.width = buyPct + '%';
-
-    const traders = Object.values(polMap).sort((a,b) => (b.buys+b.sells)-(a.buys+a.sells));
-    document.getElementById('si-traders-grid').innerHTML = traders.map(p => {
-      const pc = partyClass(p.party);
-      const chamberStr = (p.chamber||'').toLowerCase();
-      return `<div class="si-trader-card" data-poli="${escHtml(p.name)}">
-  <div class="si-trader-avatar ${pc}">${escHtml(initials(p.name))}</div>
-  <div class="si-trader-info">
-    <div class="si-trader-name">${escHtml(p.name)}</div>
-    <div class="si-trader-meta">
-      <span class="badge-party ${pc}" style="font-size:9px">${escHtml(partyShort(p.party))}</span>
-      <span class="badge-chamber ${chamberStr==='senate'?'senate':'house'}" style="font-size:9px">${escHtml(p.chamber||'?')}${p.state?' · '+escHtml(p.state):''}</span>
-    </div>
-  </div>
-  <div class="si-trader-counts"><div class="g">+${p.buys}</div><div class="r">${p.sells} sell</div></div>
-</div>`;
-    }).join('');
-
-    document.querySelectorAll('#si-traders-grid .si-trader-card').forEach(card => {
-      card.addEventListener('click', () => {
-        switchView('portfolios');
-        setTimeout(() => openPortfolio(card.dataset.poli), 50);
-      });
-    });
 
     const sorted = [...s.trades].sort((a,b) => { const da=a.trade_published||a.traded_on||''; const db=b.trade_published||b.traded_on||''; return db<da?-1:db>da?1:0; });
     document.getElementById('si-trades-body').innerHTML = sorted.map(t => {
