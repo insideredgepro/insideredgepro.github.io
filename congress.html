@@ -247,10 +247,6 @@
     .holdings-table tbody td { padding: 9px 12px; border-bottom: 1px solid var(--border); vertical-align: middle; }
     .holdings-table tbody tr:hover { background: rgba(255,255,255,.025); }
     .holdings-table tbody tr:last-child td { border-bottom: none; }
-    .net-chip { display: inline-flex; align-items: center; gap: 4px; font-family: var(--font-mono); font-size: 11px; font-weight: 700; border-radius: 4px; padding: 2px 8px; }
-    .net-chip.net-long  { background: var(--green-bg); color: var(--green); border: 1px solid rgba(16,217,138,.25); }
-    .net-chip.net-short { background: var(--red-bg);   color: var(--red);   border: 1px solid rgba(239,68,68,.25); }
-    .net-chip.net-flat  { background: var(--surface3); color: var(--muted2); border: 1px solid var(--border2); }
 
     /* ── Stock Intelligence ── */
     .si-wrap { max-width: 1300px; margin: 0 auto; padding: 6px 18px 28px; }
@@ -332,7 +328,6 @@
       .portfolio-detail-wrap { padding: 10px 12px 24px; }
       .si-wrap { padding: 10px 12px 24px; }
       .col-hide-mobile { display: none !important; }
-      .net-chip { font-size: 10px; padding: 2px 5px; }
     }
 
     /* ── Pagination ── */
@@ -460,26 +455,6 @@
       /* Hide desktop-only cells */
       td.td-ticker { display: none; }
       td.td-filed  { display: none; }
-
-      /* ── Portfolio holdings: flex card row ── */
-      .tbl-holdings thead { display: none; }
-      .tbl-holdings tbody tr {
-        display: flex !important;
-        flex-wrap: nowrap;
-        align-items: center;
-        padding: 9px 10px;
-        gap: 6px;
-        border-bottom: 1px solid var(--border);
-      }
-      .tbl-holdings tbody td { display: none !important; }
-      .tbl-holdings tbody td.td-h-ticker,
-      .tbl-holdings tbody td.td-h-buys,
-      .tbl-holdings tbody td.td-h-sells,
-      .tbl-holdings tbody td.td-h-net { display: flex !important; align-items: center; padding: 0; border: none; }
-      .tbl-holdings td.td-h-ticker { font-family: var(--font-mono); font-weight: 700; color: var(--gold-bright); font-size: 13px; min-width: 70px; }
-      .tbl-holdings td.td-h-buys   { font-family: var(--font-mono); font-size: 12px; color: var(--green); }
-      .tbl-holdings td.td-h-sells  { font-family: var(--font-mono); font-size: 12px; color: var(--red); }
-      .tbl-holdings td.td-h-net    { margin-left: auto; }
 
       /* ── Portfolio trades: same grid as live feed ── */
       .tbl-trades thead { display: none; }
@@ -801,17 +776,6 @@
           <div class="poli-detail-badges" id="poli-detail-badges"></div>
         </div>
         <div class="poli-detail-stats" id="poli-detail-stats"></div>
-      </div>
-
-      <div class="section-title">Holdings</div>
-      <div class="holdings-table-wrap">
-        <table class="holdings-table tbl-holdings">
-          <thead><tr>
-            <th>Ticker</th><th class="col-hide-mobile">Company</th><th>Buys</th><th>Sells</th>
-            <th>Net</th><th class="col-hide-mobile">Last Traded</th>
-          </tr></thead>
-          <tbody id="holdings-body"></tbody>
-        </table>
       </div>
 
       <div class="section-title">All Trades</div>
@@ -1546,31 +1510,6 @@
       <div><div class="poli-detail-stat-val" style="color:var(--green)">${buys}</div><div class="poli-detail-stat-lbl">Buys</div></div>
       <div><div class="poli-detail-stat-val" style="color:var(--red)">${sells}</div><div class="poli-detail-stat-lbl">Sells</div></div>
       <div><div class="poli-detail-stat-val" style="color:var(--gold)">${p.trades.length}</div><div class="poli-detail-stat-lbl">Total</div></div>`;
-
-    // Holdings
-    const tickerMap = {};
-    for (const t of p.trades) {
-      const tk = (t.ticker && t.ticker !== 'N/A') ? t.ticker : '—';
-      if (!tickerMap[tk]) tickerMap[tk] = { ticker: tk, company: t.company||'', sector: t.sector||'', buys: 0, sells: 0, last: '' };
-      const tx = (t.transaction_type||'').toUpperCase();
-      if (tx === 'BUY') tickerMap[tk].buys++;
-      else if (tx === 'SELL') tickerMap[tk].sells++;
-      const d = parsePublishedDate(t) || parseTradeDate(t) || '';
-      if (d > tickerMap[tk].last) tickerMap[tk].last = d;
-    }
-    const holdings = Object.values(tickerMap).sort((a,b) => (b.buys+b.sells)-(a.buys+a.sells));
-    document.getElementById('holdings-body').innerHTML = holdings.map(h => {
-      const net = h.buys > h.sells ? 'net-long' : h.sells > h.buys ? 'net-short' : 'net-flat';
-      const netLabel = h.buys > h.sells ? '▲ LONG' : h.sells > h.buys ? '▼ SHORT' : '= FLAT';
-      return `<tr>
-  <td class="td-h-ticker">${escHtml(h.ticker)}</td>
-  <td class="td-h-company" style="color:var(--text2);max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escHtml(h.company)}</td>
-  <td class="td-h-buys">▲ ${h.buys}</td>
-  <td class="td-h-sells">▼ ${h.sells}</td>
-  <td class="td-h-net"><span class="net-chip ${net}">${netLabel}</span></td>
-  <td class="td-h-last" style="font-size:12px;color:var(--muted)">${h.last ? formatDateDisplay(h.last) : '—'}</td>
-</tr>`;
-    }).join('');
 
     // All trades
     const sorted = [...p.trades].sort((a,b) => {
