@@ -331,17 +331,7 @@
       .si-detail-stats { grid-template-columns: 1fr 1fr; }
       .portfolio-detail-wrap { padding: 10px 12px 24px; }
       .si-wrap { padding: 10px 12px 24px; }
-      /* Holdings + All Trades: fit mobile without horizontal scroll */
-      .holdings-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
-      .holdings-table { font-size: 11px; min-width: 520px; table-layout: auto; }
-      .holdings-table thead th { padding: 5px 4px; font-size: 10px; }
-      .holdings-table tbody td { padding: 6px 4px; }
-      .holdings-table tbody tr { display: table-row !important; }
-      .holdings-table tbody td { display: table-cell !important; }
       .col-hide-mobile { display: none !important; }
-      /* Truncate ticker/type text */
-      .tbl-holdings td:nth-child(1),
-      .tbl-trades td:nth-child(3) { font-size: 10px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
       .net-chip { font-size: 10px; padding: 2px 5px; }
     }
 
@@ -472,23 +462,27 @@
       td.td-filed  { display: none; }
 
       /* ── Portfolio holdings: flex card row ── */
+      .tbl-holdings thead { display: none; }
       .tbl-holdings tbody tr {
         display: flex !important;
-        flex-wrap: wrap;
+        flex-wrap: nowrap;
         align-items: center;
-        padding: 8px 10px;
-        gap: 4px 8px;
+        padding: 9px 10px;
+        gap: 6px;
         border-bottom: 1px solid var(--border);
       }
-      .td-h-ticker { flex: 1; min-width: 60px; font-family: var(--font-mono); font-weight: 700; color: var(--gold-bright); font-size: 13px; }
-      .td-h-company { display: none !important; }
-      .td-h-buys  { font-family: var(--font-mono); font-size: 12px; color: var(--green); }
-      .td-h-sells { font-family: var(--font-mono); font-size: 12px; color: var(--red); }
-      .td-h-net   { margin-left: auto; }
-      .td-h-last  { display: none !important; }
-      .tbl-holdings thead { display: none; }
+      .tbl-holdings tbody td { display: none !important; }
+      .tbl-holdings tbody td.td-h-ticker,
+      .tbl-holdings tbody td.td-h-buys,
+      .tbl-holdings tbody td.td-h-sells,
+      .tbl-holdings tbody td.td-h-net { display: flex !important; align-items: center; padding: 0; border: none; }
+      .tbl-holdings td.td-h-ticker { font-family: var(--font-mono); font-weight: 700; color: var(--gold-bright); font-size: 13px; min-width: 70px; }
+      .tbl-holdings td.td-h-buys   { font-family: var(--font-mono); font-size: 12px; color: var(--green); }
+      .tbl-holdings td.td-h-sells  { font-family: var(--font-mono); font-size: 12px; color: var(--red); }
+      .tbl-holdings td.td-h-net    { margin-left: auto; }
 
       /* ── Portfolio trades: same grid as live feed ── */
+      .tbl-trades thead { display: none; }
       .tbl-trades tbody tr {
         display: grid !important;
         grid-template-columns: 1fr auto;
@@ -497,40 +491,44 @@
           "pt-company pt-amount"
           "pt-date    pt-amount";
         column-gap: 8px;
-        row-gap: 1px;
-        padding: 7px 10px;
+        row-gap: 2px;
+        padding: 8px 10px;
         border-bottom: 1px solid var(--border);
       }
-      .td-pt-date    { grid-area: pt-date;    font-size: 10px; color: var(--muted); align-self: start; }
-      .td-pt-traded  { display: none !important; }
-      .td-pt-ticker  { grid-area: pt-ticker;  font-family: var(--font-mono); font-weight: 700; color: var(--gold-bright); font-size: 12px; align-self: end; }
-      .td-pt-company { grid-area: pt-company; font-size: 10px; color: var(--muted2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-      .td-pt-type    { grid-area: pt-type;    text-align: right; align-self: end; }
-      .td-pt-amount  { grid-area: pt-amount;  text-align: right; align-self: center; font-family: var(--font-mono); font-size: 12px; }
-      .td-pt-filed   { display: none !important; }
-      .tbl-trades thead { display: none; }
+      .tbl-trades tbody td { display: none !important; padding: 0; border: none; }
+      .tbl-trades tbody td.td-pt-ticker,
+      .tbl-trades tbody td.td-pt-company,
+      .tbl-trades tbody td.td-pt-date,
+      .tbl-trades tbody td.td-pt-type,
+      .tbl-trades tbody td.td-pt-amount { display: block !important; }
+      .tbl-trades td.td-pt-ticker  { grid-area: pt-ticker;  font-family: var(--font-mono); font-weight: 700; color: var(--gold-bright); font-size: 12px; align-self: end; }
+      .tbl-trades td.td-pt-company { grid-area: pt-company; font-size: 10px; color: var(--muted2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+      .tbl-trades td.td-pt-date    { grid-area: pt-date;    font-size: 10px; color: var(--muted); align-self: start; }
+      .tbl-trades td.td-pt-type    { grid-area: pt-type;    text-align: right; align-self: end; }
+      .tbl-trades td.td-pt-amount  { grid-area: pt-amount;  text-align: right; align-self: center; font-family: var(--font-mono); font-size: 12px; }
 
       /* ── Stock Intel all trades: same grid pattern ── */
+      .tbl-si-trades thead { display: none; }
       .tbl-si-trades tbody tr {
         display: grid !important;
         grid-template-columns: 1fr auto;
         grid-template-areas:
           "si-pol    si-type"
-          "si-date   si-amount"
           "si-date   si-amount";
         column-gap: 8px;
-        row-gap: 1px;
-        padding: 7px 10px;
+        row-gap: 2px;
+        padding: 8px 10px;
         border-bottom: 1px solid var(--border);
       }
-      .td-si-pub    { grid-area: si-date;   font-size: 10px; color: var(--muted); align-self: end; }
-      .td-si-traded { display: none !important; }
-      .td-si-pol    { grid-area: si-pol;    font-weight: 700; font-size: 12px; color: var(--text); align-self: end; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-      .td-si-party  { display: none !important; }
-      .td-si-type   { grid-area: si-type;   text-align: right; align-self: end; }
-      .td-si-amount { grid-area: si-amount; text-align: right; align-self: center; font-family: var(--font-mono); font-size: 12px; }
-      .td-si-filed  { display: none !important; }
-      .tbl-si-trades thead { display: none; }
+      .tbl-si-trades tbody td { display: none !important; padding: 0; border: none; }
+      .tbl-si-trades tbody td.td-si-pub,
+      .tbl-si-trades tbody td.td-si-pol,
+      .tbl-si-trades tbody td.td-si-type,
+      .tbl-si-trades tbody td.td-si-amount { display: block !important; }
+      .tbl-si-trades td.td-si-pol    { grid-area: si-pol;    font-weight: 700; font-size: 12px; color: var(--text); align-self: end; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+      .tbl-si-trades td.td-si-pub    { grid-area: si-date;   font-size: 10px; color: var(--muted); align-self: start; }
+      .tbl-si-trades td.td-si-type   { grid-area: si-type;   text-align: right; align-self: end; }
+      .tbl-si-trades td.td-si-amount { grid-area: si-amount; text-align: right; align-self: center; font-family: var(--font-mono); font-size: 12px; }
     }
   </style>
 </head>
