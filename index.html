@@ -696,6 +696,8 @@
       row.style.boxShadow = `inset 4px 0 0 ${hex}`;
       const ticker = row.querySelector('.td-ticker');
       if (ticker) ticker.style.color = hex;
+      const mobileTicker = row.querySelector('.mobile-ticker-sym');
+      if (mobileTicker) mobileTicker.style.color = hex;
       const arrow = row.querySelector('.expand-arrow');
       if (arrow) arrow.style.color = hex;
       const val = row.querySelector('.td-value');
