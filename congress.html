@@ -1527,9 +1527,10 @@
     document.getElementById('poli-trades-body').innerHTML = sorted.map(t => {
       const txType = (t.transaction_type||'').toUpperCase();
       const rowCls = txType==='BUY'?'row-buy':txType==='SELL'?'row-sell':'';
+      const pubI = parsePublishedDate(t); const trdI = parseTradeDate(t);
       return `<tr class="${rowCls}">
-  <td style="font-size:12px;font-weight:600;color:var(--text)">${formatDateDisplay((t.trade_published||'').slice(0,10))}</td>
-  <td class="col-hide-mobile" style="font-size:11px;color:var(--muted)">${formatDateDisplay((t.traded_on||'').slice(0,10))}</td>
+  <td style="font-size:12px;font-weight:600;color:var(--text)">${pubI ? formatDateDisplay(pubI) : escHtml(t.trade_published||'—')}</td>
+  <td class="col-hide-mobile" style="font-size:11px;color:var(--muted)">${trdI ? formatDateDisplay(trdI) : escHtml(t.traded_on||'—')}</td>
   <td style="font-family:var(--font-mono);font-weight:700;color:var(--gold-bright)">${escHtml(t.ticker&&t.ticker!=='N/A'?t.ticker:'—')}</td>
   <td class="col-hide-mobile" style="color:var(--text2);max-width:150px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escHtml(t.company||'—')}</td>
   <td><span class="badge-tx ${txClass(txType)}">${escHtml(txType||'—')}</span></td>
@@ -1686,9 +1687,10 @@
     document.getElementById('si-trades-body').innerHTML = sorted.map(t => {
       const txType = (t.transaction_type||'').toUpperCase();
       const rowCls = txType==='BUY'?'row-buy':txType==='SELL'?'row-sell':'';
+      const pubI = parsePublishedDate(t); const trdI = parseTradeDate(t);
       return `<tr class="${rowCls}">
-  <td style="font-size:12px;font-weight:600;color:var(--text)">${formatDateDisplay((t.trade_published||'').slice(0,10))}</td>
-  <td style="font-size:11px;color:var(--muted)">${formatDateDisplay((t.traded_on||'').slice(0,10))}</td>
+  <td style="font-size:12px;font-weight:600;color:var(--text)">${pubI ? formatDateDisplay(pubI) : escHtml(t.trade_published||'—')}</td>
+  <td style="font-size:11px;color:var(--muted)">${trdI ? formatDateDisplay(trdI) : escHtml(t.traded_on||'—')}</td>
   <td style="font-weight:600;color:var(--text2);font-size:13px">${escHtml(t.politician_name||'—')}</td>
   <td><span class="badge-party ${partyClass(t.party)}">${escHtml(partyShort(t.party))}</span></td>
   <td><span class="badge-tx ${txClass(txType)}">${escHtml(txType||'—')}</span></td>
