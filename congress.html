@@ -136,7 +136,7 @@
     .view-toggle {
       display: flex; align-items: center; gap: 4px;
       background: var(--surface2); border: 1px solid var(--border2); border-radius: 10px;
-      padding: 4px; width: fit-content; margin: 14px auto;
+      padding: 4px; width: fit-content; margin: 8px auto;
     }
     .view-tab {
       display: flex; align-items: center; gap: 7px;
@@ -253,7 +253,7 @@
     .net-chip.net-flat  { background: var(--surface3); color: var(--muted2); border: 1px solid var(--border2); }
 
     /* ── Stock Intelligence ── */
-    .si-wrap { max-width: 1300px; margin: 0 auto; padding: 12px 18px 28px; }
+    .si-wrap { max-width: 1300px; margin: 0 auto; padding: 6px 18px 28px; }
     .si-search-bar { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 12px; }
     .si-search-wrap { position: relative; flex: 1; min-width: 220px; max-width: 400px; }
     .si-search-wrap svg { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); pointer-events: none; color: var(--muted); }
@@ -296,18 +296,23 @@
     .si-more-badge { font-size: 9px; font-weight: 700; color: var(--muted); background: var(--surface3); border: 1px solid var(--border2); border-radius: 99px; padding: 2px 6px; margin-left: 6px; flex-shrink: 0; }
     .si-sector-chip { font-size: 10px; color: var(--muted2); background: var(--surface3); border: 1px solid var(--border2); border-radius: 4px; padding: 1px 6px; white-space: nowrap; max-width: 100px; overflow: hidden; text-overflow: ellipsis; }
     #si-detail { display: none; }
-    .si-detail-header { background: var(--surface); border: 1px solid var(--border2); border-radius: 11px; padding: 14px 18px; margin-bottom: 14px; }
-    .si-detail-top { display: flex; align-items: center; gap: 14px; margin-bottom: 10px; }
-    .si-detail-ticker { font-family: var(--font-mono); font-size: 24px; font-weight: 700; color: var(--gold-bright); }
-    .si-detail-company { font-size: 13px; color: var(--muted2); margin-top: 2px; }
-    .si-detail-sector  { font-size: 10px; color: var(--muted); margin-top: 2px; }
-    .si-detail-stats { display: flex; gap: 18px; margin-left: auto; text-align: right; flex-wrap: wrap; }
-    .si-detail-stat-val { font-family: var(--font-mono); font-size: 18px; font-weight: 700; line-height: 1; }
-    .si-detail-stat-lbl { font-size: 10px; color: var(--muted); margin-top: 2px; letter-spacing: .04em; }
-    .si-sentiment-wrap { margin-top: 10px; }
-    .si-sentiment-lbl { display: flex; justify-content: space-between; font-size: 11px; color: var(--muted); margin-bottom: 4px; }
+    .si-detail-layout { display: grid; grid-template-columns: 280px 1fr; gap: 16px; align-items: start; }
+    .si-detail-left {
+      background: var(--surface); border: 1px solid var(--border2); border-radius: 11px;
+      padding: 18px; position: sticky; top: 12px;
+    }
+    .si-detail-ticker { font-family: var(--font-mono); font-size: 22px; font-weight: 700; color: var(--gold-bright); letter-spacing: .02em; }
+    .si-detail-company { font-size: 13px; color: var(--muted2); margin-top: 3px; }
+    .si-detail-sector  { font-size: 10px; color: var(--muted); margin-top: 2px; text-transform: uppercase; letter-spacing: .06em; }
+    .si-detail-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 16px; }
+    .si-detail-stat-box { background: var(--surface2); border: 1px solid var(--border2); border-radius: 8px; padding: 10px 12px; }
+    .si-detail-stat-val { font-family: var(--font-mono); font-size: 20px; font-weight: 700; line-height: 1; }
+    .si-detail-stat-lbl { font-size: 10px; color: var(--muted); margin-top: 3px; letter-spacing: .05em; text-transform: uppercase; }
+    .si-divider { border: none; border-top: 1px solid var(--border2); margin: 14px 0; }
+    .si-sentiment-lbl { display: flex; justify-content: space-between; font-size: 11px; color: var(--muted); margin-bottom: 5px; }
     .si-sentiment-track { height: 7px; background: var(--red-bg); border-radius: 99px; overflow: hidden; border: 1px solid var(--border2); }
     .si-sentiment-fill { height: 100%; background: linear-gradient(90deg, var(--green), #0a9c64); border-radius: 99px; transition: width .5s; }
+    .si-detail-right { min-width: 0; }
 
     /* ── Mobile ── */
     @media (max-width: 600px) {
@@ -321,8 +326,9 @@
       .poli-detail-stats { width: 100%; margin-left: 0; justify-content: space-around; border-top: 1px solid var(--border2); padding-top: 8px; gap: 0; }
       .poli-detail-stat-val { font-size: 15px; }
       .poli-detail-stat-lbl { font-size: 9px; }
-      .si-detail-top { flex-direction: column; align-items: flex-start; gap: 10px; }
-      .si-detail-stats { margin-left: 0; text-align: left; gap: 12px; flex-wrap: wrap; }
+      .si-detail-layout { grid-template-columns: 1fr; }
+      .si-detail-left { position: static; }
+      .si-detail-stats { grid-template-columns: 1fr 1fr; }
       .portfolio-detail-wrap { padding: 10px 12px 24px; }
       .si-wrap { padding: 10px 12px 24px; }
       /* Holdings + All Trades: fit mobile without horizontal scroll */
@@ -790,14 +796,6 @@
             <button class="btn-range" data-sitype="SELL">Sell</button>
           </div>
         </div>
-        <div class="si-filter-group">
-          <span class="si-filter-lbl">Period</span>
-          <div class="date-range-group" id="si-period-group">
-            <button class="btn-range active" data-siperiod="30">30D</button>
-            <button class="btn-range" data-siperiod="90">90D</button>
-            <button class="btn-range" data-siperiod="all">All</button>
-          </div>
-        </div>
       </div>
       <div class="si-leaderboard-title">Most-Traded by Congress</div>
       <div class="si-stock-grid" id="si-stock-grid"></div>
@@ -806,20 +804,18 @@
 
   <div id="si-detail">
     <div class="si-wrap">
-      <button class="btn-back" id="si-btn-back">
-        <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M10 3L5 8l5 5"/></svg>
-        Back to Stock Intel
-      </button>
-      <div class="si-detail-header">
-        <div class="si-detail-top">
-          <div>
-            <div class="si-detail-ticker" id="si-detail-ticker"></div>
-            <div class="si-detail-company" id="si-detail-company"></div>
-            <div class="si-detail-sector"  id="si-detail-sector"></div>
-          </div>
+      <div class="si-detail-layout">
+        <!-- LEFT: info panel -->
+        <div class="si-detail-left">
+          <button class="btn-back" id="si-btn-back" style="margin-bottom:14px;width:100%;justify-content:center">
+            <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M10 3L5 8l5 5"/></svg>
+            Back to Stock Intel
+          </button>
+          <div class="si-detail-ticker" id="si-detail-ticker"></div>
+          <div class="si-detail-company" id="si-detail-company"></div>
+          <div class="si-detail-sector"  id="si-detail-sector"></div>
           <div class="si-detail-stats" id="si-detail-stats"></div>
-        </div>
-        <div class="si-sentiment-wrap">
+          <hr class="si-divider">
           <div class="si-sentiment-lbl">
             <span id="si-sent-buy-lbl">Congress sentiment</span>
             <span id="si-sent-pct"></span>
@@ -828,13 +824,16 @@
             <div class="si-sentiment-fill" id="si-sentiment-fill" style="width:50%"></div>
           </div>
         </div>
-      </div>
-      <div class="section-title">All Trades</div>
-      <div class="holdings-table-wrap">
-        <table class="holdings-table">
-          <thead><tr><th>Published</th><th>Traded</th><th>Politician</th><th>Party</th><th>Type</th><th>Amount</th><th>Filed After</th></tr></thead>
-          <tbody id="si-trades-body"></tbody>
-        </table>
+        <!-- RIGHT: trades table -->
+        <div class="si-detail-right">
+          <div class="section-title">All Trades</div>
+          <div class="holdings-table-wrap">
+            <table class="holdings-table">
+              <thead><tr><th>Published</th><th>Traded</th><th>Politician</th><th>Party</th><th>Type</th><th>Amount</th><th>Filed After</th></tr></thead>
+              <tbody id="si-trades-body"></tbody>
+            </table>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -864,9 +863,12 @@
 (function () {
   'use strict';
 
-  const DATA_URL = 'data/trades.json';
+  const DATA_URL      = 'data/trades-recent.json';
+  const FULL_DATA_URL = 'data/trades.json';
 
   let allTrades = [];
+  let fullDataLoaded  = false;
+  let fullDataLoading = false;
   let sortCol   = 'trade_published';
   let sortDir   = 'desc';
   let filterParty   = 'all';
@@ -1239,7 +1241,7 @@
     btn.classList.add('active');
     currentPage = 1; renderTable();
     if (activeView === 'portfolios') renderPoliGrid();
-    else if (activeView === 'stocks') renderStockGrid();
+    else if (activeView === 'stocks') { if (currentStockTicker) openStockDetail(currentStockTicker); else renderStockGrid(); }
   });
 
   document.getElementById('chamber-group').addEventListener('click', e => {
@@ -1250,7 +1252,7 @@
     btn.classList.add('active');
     currentPage = 1; renderTable();
     if (activeView === 'portfolios') renderPoliGrid();
-    else if (activeView === 'stocks') renderStockGrid();
+    else if (activeView === 'stocks') { if (currentStockTicker) openStockDetail(currentStockTicker); else renderStockGrid(); }
   });
 
   document.getElementById('type-group').addEventListener('click', e => {
@@ -1261,7 +1263,7 @@
     btn.classList.add('active');
     currentPage = 1; renderTable();
     if (activeView === 'portfolios') renderPoliGrid();
-    else if (activeView === 'stocks') renderStockGrid();
+    else if (activeView === 'stocks') { if (currentStockTicker) openStockDetail(currentStockTicker); else renderStockGrid(); }
   });
 
   document.getElementById('date-range-group').addEventListener('click', e => {
@@ -1270,9 +1272,10 @@
     dateRange = btn.dataset.range;
     document.querySelectorAll('#date-range-group .btn-range').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
+    if (dateRange === 'all') loadFullData();
     currentPage = 1; renderTable();
     if (activeView === 'portfolios') renderPoliGrid();
-    else if (activeView === 'stocks') renderStockGrid();
+    else if (activeView === 'stocks') { if (currentStockTicker) openStockDetail(currentStockTicker); else renderStockGrid(); }
   });
 
   btnReset.addEventListener('click', () => {
@@ -1292,7 +1295,7 @@
     dateGrp.querySelector('[data-range="7"]').classList.add('active');
     currentPage = 1; renderTable();
     if (activeView === 'portfolios') renderPoliGrid();
-    else if (activeView === 'stocks') renderStockGrid();
+    else if (activeView === 'stocks') { if (currentStockTicker) openStockDetail(currentStockTicker); else renderStockGrid(); }
   });
 
   /* -- Dedup trades by id -- */
@@ -1346,6 +1349,34 @@
       showError('Failed to load congressional trade data. Please try again later.');
       tableBodyEl.innerHTML = '';
       console.error(err);
+    }
+  }
+
+  async function loadFullData() {
+    if (fullDataLoaded || fullDataLoading) return;
+    fullDataLoading = true;
+    const allBtn = document.querySelector('#date-range-group [data-range="all"]');
+    if (allBtn) allBtn.textContent = 'All ⏳';
+    try {
+      const resp = await fetch(FULL_DATA_URL + '?_=' + Date.now());
+      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+      const raw = await resp.json();
+      const merged = dedup([...allTrades, ...(Array.isArray(raw) ? raw : [])]);
+      merged.sort((a, b) => {
+        const da = parsePublishedDate(a) || '';
+        const db = parsePublishedDate(b) || '';
+        return db < da ? -1 : db > da ? 1 : 0;
+      });
+      allTrades = merged;
+      fullDataLoaded = true;
+      renderTable();
+      if (activeView === 'portfolios') renderPoliGrid();
+      else if (activeView === 'stocks') { if (currentStockTicker) openStockDetail(currentStockTicker); else renderStockGrid(); }
+    } catch (err) {
+      console.error('Full data load failed:', err);
+    } finally {
+      fullDataLoading = false;
+      if (allBtn) allBtn.textContent = 'All';
     }
   }
 
@@ -1541,15 +1572,11 @@
   /* STOCK INTELLIGENCE                                                    */
   /* ================================================================== */
   let siTypeFilter = 'all';
-  let siPeriod     = '30';
+  let currentStockTicker = null;
 
   function siFilteredTrades() {
-    let t = allTrades;
+    let t = applyFilters(allTrades);
     if (siTypeFilter !== 'all') t = t.filter(x => (x.transaction_type||'').toUpperCase() === siTypeFilter);
-    if (siPeriod !== 'all') {
-      const cutoff = toLocalDateStr(new Date(Date.now() - parseInt(siPeriod) * 86400000));
-      t = t.filter(x => { const d = x.trade_published||x.traded_on||''; return d >= cutoff; });
-    }
     return t;
   }
 
@@ -1637,10 +1664,10 @@
     document.getElementById('si-detail-company').textContent = s.company;
     document.getElementById('si-detail-sector').textContent  = s.sector||'';
     document.getElementById('si-detail-stats').innerHTML = `
-      <div><div class="si-detail-stat-val" style="color:var(--green)">${buys}</div><div class="si-detail-stat-lbl">Buys</div></div>
-      <div><div class="si-detail-stat-val" style="color:var(--red)">${sells}</div><div class="si-detail-stat-lbl">Sells</div></div>
-      <div><div class="si-detail-stat-val" style="color:var(--gold)">${Object.keys(polMap).length}</div><div class="si-detail-stat-lbl">Politicians</div></div>
-      <div><div class="si-detail-stat-val" style="color:var(--text2)">${total}</div><div class="si-detail-stat-lbl">Total</div></div>`;
+      <div class="si-detail-stat-box"><div class="si-detail-stat-val" style="color:var(--green)">${buys}</div><div class="si-detail-stat-lbl">Buys</div></div>
+      <div class="si-detail-stat-box"><div class="si-detail-stat-val" style="color:var(--red)">${sells}</div><div class="si-detail-stat-lbl">Sells</div></div>
+      <div class="si-detail-stat-box"><div class="si-detail-stat-val" style="color:var(--gold)">${Object.keys(polMap).length}</div><div class="si-detail-stat-lbl">Politicians</div></div>
+      <div class="si-detail-stat-box"><div class="si-detail-stat-val" style="color:var(--text2)">${total}</div><div class="si-detail-stat-lbl">Total</div></div>`;
     document.getElementById('si-sent-buy-lbl').textContent   = `Congress bullish — ${buyPct}% buys`;
     document.getElementById('si-sent-pct').textContent       = `${buyPct}% buy`;
     document.getElementById('si-sentiment-fill').style.width = buyPct + '%';
@@ -1661,12 +1688,14 @@
 </tr>`;
     }).join('');
 
+    currentStockTicker = ticker;
     document.getElementById('si-list-view').style.display = 'none';
     document.getElementById('si-detail').style.display    = 'block';
     window.scrollTo(0, 0);
   }
 
   document.getElementById('si-btn-back').addEventListener('click', () => {
+    currentStockTicker = null;
     document.getElementById('si-detail').style.display    = 'none';
     document.getElementById('si-list-view').style.display = 'block';
   });
@@ -1675,12 +1704,6 @@
     const btn = e.target.closest('[data-sitype]'); if (!btn) return;
     siTypeFilter = btn.dataset.sitype;
     document.querySelectorAll('#si-type-group .btn-range').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active'); renderStockGrid();
-  });
-  document.getElementById('si-period-group').addEventListener('click', e => {
-    const btn = e.target.closest('[data-siperiod]'); if (!btn) return;
-    siPeriod = btn.dataset.siperiod;
-    document.querySelectorAll('#si-period-group .btn-range').forEach(b => b.classList.remove('active'));
     btn.classList.add('active'); renderStockGrid();
   });
 
