@@ -470,6 +470,67 @@
       /* Hide desktop-only cells */
       td.td-ticker { display: none; }
       td.td-filed  { display: none; }
+
+      /* ── Portfolio holdings: flex card row ── */
+      .tbl-holdings tbody tr {
+        display: flex !important;
+        flex-wrap: wrap;
+        align-items: center;
+        padding: 8px 10px;
+        gap: 4px 8px;
+        border-bottom: 1px solid var(--border);
+      }
+      .td-h-ticker { flex: 1; min-width: 60px; font-family: var(--font-mono); font-weight: 700; color: var(--gold-bright); font-size: 13px; }
+      .td-h-company { display: none !important; }
+      .td-h-buys  { font-family: var(--font-mono); font-size: 12px; color: var(--green); }
+      .td-h-sells { font-family: var(--font-mono); font-size: 12px; color: var(--red); }
+      .td-h-net   { margin-left: auto; }
+      .td-h-last  { display: none !important; }
+      .tbl-holdings thead { display: none; }
+
+      /* ── Portfolio trades: same grid as live feed ── */
+      .tbl-trades tbody tr {
+        display: grid !important;
+        grid-template-columns: 1fr auto;
+        grid-template-areas:
+          "pt-ticker  pt-type"
+          "pt-company pt-amount"
+          "pt-date    pt-amount";
+        column-gap: 8px;
+        row-gap: 1px;
+        padding: 7px 10px;
+        border-bottom: 1px solid var(--border);
+      }
+      .td-pt-date    { grid-area: pt-date;    font-size: 10px; color: var(--muted); align-self: start; }
+      .td-pt-traded  { display: none !important; }
+      .td-pt-ticker  { grid-area: pt-ticker;  font-family: var(--font-mono); font-weight: 700; color: var(--gold-bright); font-size: 12px; align-self: end; }
+      .td-pt-company { grid-area: pt-company; font-size: 10px; color: var(--muted2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+      .td-pt-type    { grid-area: pt-type;    text-align: right; align-self: end; }
+      .td-pt-amount  { grid-area: pt-amount;  text-align: right; align-self: center; font-family: var(--font-mono); font-size: 12px; }
+      .td-pt-filed   { display: none !important; }
+      .tbl-trades thead { display: none; }
+
+      /* ── Stock Intel all trades: same grid pattern ── */
+      .tbl-si-trades tbody tr {
+        display: grid !important;
+        grid-template-columns: 1fr auto;
+        grid-template-areas:
+          "si-pol    si-type"
+          "si-date   si-amount"
+          "si-date   si-amount";
+        column-gap: 8px;
+        row-gap: 1px;
+        padding: 7px 10px;
+        border-bottom: 1px solid var(--border);
+      }
+      .td-si-pub    { grid-area: si-date;   font-size: 10px; color: var(--muted); align-self: end; }
+      .td-si-traded { display: none !important; }
+      .td-si-pol    { grid-area: si-pol;    font-weight: 700; font-size: 12px; color: var(--text); align-self: end; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+      .td-si-party  { display: none !important; }
+      .td-si-type   { grid-area: si-type;   text-align: right; align-self: end; }
+      .td-si-amount { grid-area: si-amount; text-align: right; align-self: center; font-family: var(--font-mono); font-size: 12px; }
+      .td-si-filed  { display: none !important; }
+      .tbl-si-trades thead { display: none; }
     }
   </style>
 </head>
@@ -820,7 +881,7 @@
         <div class="si-detail-right">
           <div class="section-title">All Trades</div>
           <div class="holdings-table-wrap">
-            <table class="holdings-table">
+            <table class="holdings-table tbl-si-trades">
               <thead><tr><th>Published</th><th>Traded</th><th>Politician</th><th>Party</th><th>Type</th><th>Amount</th><th>Filed After</th></tr></thead>
               <tbody id="si-trades-body"></tbody>
             </table>
@@ -1504,12 +1565,12 @@
       const net = h.buys > h.sells ? 'net-long' : h.sells > h.buys ? 'net-short' : 'net-flat';
       const netLabel = h.buys > h.sells ? '▲ LONG' : h.sells > h.buys ? '▼ SHORT' : '= FLAT';
       return `<tr>
-  <td style="font-family:var(--font-mono);font-weight:700;color:var(--gold-bright)">${escHtml(h.ticker)}</td>
-  <td class="col-hide-mobile" style="color:var(--text2);max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escHtml(h.company)}</td>
-  <td style="color:var(--green);font-family:var(--font-mono)">${h.buys}</td>
-  <td style="color:var(--red);font-family:var(--font-mono)">${h.sells}</td>
-  <td><span class="net-chip ${net}">${netLabel}</span></td>
-  <td class="col-hide-mobile" style="font-size:12px;color:var(--muted)">${h.last ? formatDateDisplay(h.last) : '—'}</td>
+  <td class="td-h-ticker">${escHtml(h.ticker)}</td>
+  <td class="td-h-company" style="color:var(--text2);max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escHtml(h.company)}</td>
+  <td class="td-h-buys">▲ ${h.buys}</td>
+  <td class="td-h-sells">▼ ${h.sells}</td>
+  <td class="td-h-net"><span class="net-chip ${net}">${netLabel}</span></td>
+  <td class="td-h-last" style="font-size:12px;color:var(--muted)">${h.last ? formatDateDisplay(h.last) : '—'}</td>
 </tr>`;
     }).join('');
 
@@ -1524,13 +1585,13 @@
       const rowCls = txType==='BUY'?'row-buy':txType==='SELL'?'row-sell':'';
       const pubI = parsePublishedDate(t); const trdI = parseTradeDate(t);
       return `<tr class="${rowCls}">
-  <td style="font-size:12px;font-weight:600;color:var(--text)">${pubI ? formatDateDisplay(pubI) : escHtml(t.trade_published||'—')}</td>
-  <td class="col-hide-mobile" style="font-size:11px;color:var(--muted)">${trdI ? formatDateDisplay(trdI) : escHtml(t.traded_on||'—')}</td>
-  <td style="font-family:var(--font-mono);font-weight:700;color:var(--gold-bright)">${escHtml(t.ticker&&t.ticker!=='N/A'?t.ticker:'—')}</td>
-  <td class="col-hide-mobile" style="color:var(--text2);max-width:150px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${escHtml(t.company||'—')}</td>
-  <td><span class="badge-tx ${txClass(txType)}">${escHtml(txType||'—')}</span></td>
-  <td style="font-family:var(--font-mono);font-size:12px">${escHtml(normaliseAmount(t))}</td>
-  <td class="col-hide-mobile" style="font-family:var(--font-mono);font-size:11px;color:var(--muted)">${t.filed_after_days?t.filed_after_days+'d':'—'}</td>
+  <td class="td-pt-date">${pubI ? formatDateDisplay(pubI) : escHtml(t.trade_published||'—')}</td>
+  <td class="td-pt-traded">${trdI ? formatDateDisplay(trdI) : escHtml(t.traded_on||'—')}</td>
+  <td class="td-pt-ticker">${escHtml(t.ticker&&t.ticker!=='N/A'?t.ticker:'—')}</td>
+  <td class="td-pt-company">${escHtml(t.company||'—')}</td>
+  <td class="td-pt-type"><span class="badge-tx ${txClass(txType)}">${escHtml(txType||'—')}</span></td>
+  <td class="td-pt-amount">${escHtml(normaliseAmount(t))}</td>
+  <td class="td-pt-filed">${t.filed_after_days?t.filed_after_days+'d':'—'}</td>
 </tr>`;
     }).join('');
 
@@ -1656,13 +1717,13 @@
       const rowCls = txType==='BUY'?'row-buy':txType==='SELL'?'row-sell':'';
       const pubI = parsePublishedDate(t); const trdI = parseTradeDate(t);
       return `<tr class="${rowCls}">
-  <td style="font-size:12px;font-weight:600;color:var(--text)">${pubI ? formatDateDisplay(pubI) : escHtml(t.trade_published||'—')}</td>
-  <td style="font-size:11px;color:var(--muted)">${trdI ? formatDateDisplay(trdI) : escHtml(t.traded_on||'—')}</td>
-  <td style="font-weight:600;color:var(--text2);font-size:13px">${escHtml(t.politician_name||'—')}</td>
-  <td><span class="badge-party ${partyClass(t.party)}">${escHtml(partyShort(t.party))}</span></td>
-  <td><span class="badge-tx ${txClass(txType)}">${escHtml(txType||'—')}</span></td>
-  <td style="font-family:var(--font-mono);font-size:12px">${escHtml(normaliseAmount(t))}</td>
-  <td style="font-family:var(--font-mono);font-size:11px;color:var(--muted)">${t.filed_after_days?t.filed_after_days+'d':'—'}</td>
+  <td class="td-si-pub">${pubI ? formatDateDisplay(pubI) : escHtml(t.trade_published||'—')}</td>
+  <td class="td-si-traded">${trdI ? formatDateDisplay(trdI) : escHtml(t.traded_on||'—')}</td>
+  <td class="td-si-pol">${escHtml(t.politician_name||'—')}</td>
+  <td class="td-si-party"><span class="badge-party ${partyClass(t.party)}">${escHtml(partyShort(t.party))}</span></td>
+  <td class="td-si-type"><span class="badge-tx ${txClass(txType)}">${escHtml(txType||'—')}</span></td>
+  <td class="td-si-amount">${escHtml(normaliseAmount(t))}</td>
+  <td class="td-si-filed">${t.filed_after_days?t.filed_after_days+'d':'—'}</td>
 </tr>`;
     }).join('');
 
