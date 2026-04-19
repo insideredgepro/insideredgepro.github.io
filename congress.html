@@ -1315,6 +1315,8 @@
     errorBannerEl.innerHTML = `<div class="error-banner">${escHtml(msg)}</div>`;
   }
 
+  let firstLoad = true;
+
   async function loadData() {
     try {
       const url = DATA_URL + '?_=' + Date.now();
@@ -1334,6 +1336,16 @@
       lastUpdatedEl.textContent = newest ? `Filed ${formatDateDisplay(newest)}` : 'Loaded';
 
       renderTable();
+
+      if (firstLoad) {
+        firstLoad = false;
+        const hashView = window.location.hash.replace('#', '');
+        if (hashView === 'portfolios' || hashView === 'stocks') switchView(hashView);
+      } else if (activeView === 'portfolios') {
+        renderPoliGrid();
+      } else if (activeView === 'stocks') {
+        renderStockGrid();
+      }
     } catch (err) {
       showError('Failed to load congressional trade data. Please try again later.');
       tableBodyEl.innerHTML = '';
@@ -1381,9 +1393,6 @@
   tabPortfolios.addEventListener('click', () => switchView('portfolios'));
   tabStocks.addEventListener('click',     () => switchView('stocks'));
 
-  /* Restore view from URL hash on load */
-  const hashView = window.location.hash.replace('#', '');
-  if (hashView === 'portfolios' || hashView === 'stocks') switchView(hashView);
 
   /* ================================================================== */
   /* PORTFOLIOS                                                            */
