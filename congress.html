@@ -606,14 +606,6 @@
       </div>
     </div>
     <div class="filter-group">
-      <span class="filter-label">Chamber</span>
-      <div class="date-range-group" id="chamber-group">
-        <button class="btn-range active" data-chamber="all">All</button>
-        <button class="btn-range" data-chamber="House">House</button>
-        <button class="btn-range" data-chamber="Senate">Senate</button>
-      </div>
-    </div>
-    <div class="filter-group">
       <span class="filter-label">Type</span>
       <div class="date-range-group" id="type-group">
         <button class="btn-range active" data-txtype="all">All</button>
@@ -872,7 +864,6 @@
   let sortCol   = 'trade_published';
   let sortDir   = 'desc';
   let filterParty   = 'all';
-  let filterChamber = 'all';
   let filterTxType  = 'all';
   let dateRange     = '7';
 
@@ -1012,7 +1003,6 @@
         const req = filterParty === 'Democrat' ? 'dem' : (filterParty === 'Republican' ? 'rep' : 'ind');
         if (partyClass(t.party) !== req) return false;
       }
-      if (filterChamber !== 'all' && (t.chamber || '').toLowerCase() !== filterChamber.toLowerCase()) return false;
       if (filterTxType !== 'all' && (t.transaction_type || '').toUpperCase() !== filterTxType) return false;
       const filedDate = parsePublishedDate(t) || parseTradeDate(t);
       if (cutoff && filedDate && filedDate < cutoff) return false;
@@ -1244,17 +1234,6 @@
     else if (activeView === 'stocks') { if (currentStockTicker) openStockDetail(currentStockTicker); else renderStockGrid(); }
   });
 
-  document.getElementById('chamber-group').addEventListener('click', e => {
-    const btn = e.target.closest('[data-chamber]');
-    if (!btn) return;
-    filterChamber = btn.dataset.chamber;
-    document.querySelectorAll('#chamber-group .btn-range').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    currentPage = 1; renderTable();
-    if (activeView === 'portfolios') renderPoliGrid();
-    else if (activeView === 'stocks') { if (currentStockTicker) openStockDetail(currentStockTicker); else renderStockGrid(); }
-  });
-
   document.getElementById('type-group').addEventListener('click', e => {
     const btn = e.target.closest('[data-txtype]');
     if (!btn) return;
@@ -1281,13 +1260,12 @@
   btnReset.addEventListener('click', () => {
     searchInputEl.value = '';
     filterParty   = 'all';
-    filterChamber = 'all';
     filterTxType  = 'all';
     dateRange     = '7';
-    ['party-group','chamber-group','type-group'].forEach(id => {
+    ['party-group','type-group'].forEach(id => {
       const grp = document.getElementById(id);
       grp.querySelectorAll('.btn-range').forEach(b => b.classList.remove('active'));
-      const allBtn = grp.querySelector('[data-party="all"],[data-chamber="all"],[data-txtype="all"]');
+      const allBtn = grp.querySelector('[data-party="all"],[data-txtype="all"]');
       if (allBtn) allBtn.classList.add('active');
     });
     const dateGrp = document.getElementById('date-range-group');
