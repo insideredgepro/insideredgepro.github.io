@@ -484,9 +484,10 @@ footer {
     position: relative;
     grid-template-columns: 1fr auto;
     grid-template-areas:
-      "insider  value"
+      "insider  ."
       "stock    value"
-      "date     .";
+      "date     value"
+      ".        value";
     column-gap: 8px;
     row-gap: 1px;
     align-items: center;
