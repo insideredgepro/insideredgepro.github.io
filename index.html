@@ -680,6 +680,37 @@
   }
 
   /* ------------------------------------------------------------------ */
+  /* Color test                                                            */
+  /* ------------------------------------------------------------------ */
+  const COLOR_TEST = [
+    { hex: '#22D3EE', name: 'Cyan'     },
+    { hex: '#818CF8', name: 'Indigo'   },
+    { hex: '#2DD4BF', name: 'Teal'     },
+    { hex: '#38BDF8', name: 'Sky Blue' },
+    { hex: '#A78BFA', name: 'Violet'   },
+  ];
+  function applyColorTest() {
+    tableBodyEl.querySelectorAll('tr.group-row').forEach((row, i) => {
+      if (i >= COLOR_TEST.length) return;
+      const { hex, name } = COLOR_TEST[i];
+      row.style.boxShadow = `inset 4px 0 0 ${hex}`;
+      const ticker = row.querySelector('.td-ticker');
+      if (ticker) ticker.style.color = hex;
+      const arrow = row.querySelector('.expand-arrow');
+      if (arrow) arrow.style.color = hex;
+      const val = row.querySelector('.td-value');
+      if (val) val.style.color = hex;
+      const insider = row.querySelector('.td-insider');
+      if (insider) {
+        const badge = document.createElement('span');
+        badge.style.cssText = `display:inline-block;margin-left:6px;font-size:9px;font-weight:800;letter-spacing:.05em;padding:1px 5px;border-radius:3px;color:${hex};background:${hex}22;border:1px solid ${hex}55;vertical-align:middle;`;
+        badge.textContent = name;
+        insider.appendChild(badge);
+      }
+    });
+  }
+
+  /* ------------------------------------------------------------------ */
   /* Render                                                                */
   /* ------------------------------------------------------------------ */
   function renderTable() {
@@ -850,6 +881,8 @@
         renderTable();
       });
     });
+
+    applyColorTest();
   }
 
   /* ------------------------------------------------------------------ */
