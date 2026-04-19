@@ -1252,6 +1252,8 @@
     document.querySelectorAll('#party-group .btn-range').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     currentPage = 1; renderTable();
+    if (activeView === 'portfolios') renderPoliGrid();
+    else if (activeView === 'stocks') renderStockGrid();
   });
 
   document.getElementById('chamber-group').addEventListener('click', e => {
@@ -1261,6 +1263,8 @@
     document.querySelectorAll('#chamber-group .btn-range').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     currentPage = 1; renderTable();
+    if (activeView === 'portfolios') renderPoliGrid();
+    else if (activeView === 'stocks') renderStockGrid();
   });
 
   document.getElementById('type-group').addEventListener('click', e => {
@@ -1270,6 +1274,8 @@
     document.querySelectorAll('#type-group .btn-range').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     currentPage = 1; renderTable();
+    if (activeView === 'portfolios') renderPoliGrid();
+    else if (activeView === 'stocks') renderStockGrid();
   });
 
   document.getElementById('date-range-group').addEventListener('click', e => {
@@ -1279,6 +1285,8 @@
     document.querySelectorAll('#date-range-group .btn-range').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     currentPage = 1; renderTable();
+    if (activeView === 'portfolios') renderPoliGrid();
+    else if (activeView === 'stocks') renderStockGrid();
   });
 
   btnReset.addEventListener('click', () => {
@@ -1297,6 +1305,8 @@
     dateGrp.querySelectorAll('.btn-range').forEach(b => b.classList.remove('active'));
     dateGrp.querySelector('[data-range="30"]').classList.add('active');
     currentPage = 1; renderTable();
+    if (activeView === 'portfolios') renderPoliGrid();
+    else if (activeView === 'stocks') renderStockGrid();
   });
 
   /* -- Dedup trades by id -- */
@@ -1402,8 +1412,9 @@
   }
 
   function buildPortfolios() {
+    const filtered = applyFilters(allTrades);
     const map = {};
-    for (const t of allTrades) {
+    for (const t of filtered) {
       const n = t.politician_name;
       if (!n) continue;
       if (!map[n]) map[n] = { name: n, party: t.party, chamber: t.chamber, state: t.state, trades: [] };
