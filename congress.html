@@ -1443,8 +1443,8 @@
       const buys   = p.trades.filter(t => t.transaction_type?.toUpperCase()==='BUY').length;
       const sells  = p.trades.filter(t => t.transaction_type?.toUpperCase()==='SELL').length;
       const tickers = [...new Set(p.trades.map(t => t.ticker).filter(t => t && t !== 'N/A'))].slice(0, 5);
-      const lastDates = p.trades.map(t => t.trade_published || t.traded_on || '').filter(Boolean).sort().reverse();
-      const last = lastDates[0] ? formatDateDisplay(lastDates[0].slice(0,10)) : '—';
+      const lastDates = p.trades.map(t => parsePublishedDate(t) || parseTradeDate(t) || '').filter(Boolean).sort().reverse();
+      const last = lastDates[0] ? formatDateDisplay(lastDates[0]) : '—';
       const chamberStr = (p.chamber || '').toLowerCase();
       return `<div class="poli-card ${pc}" data-poli="${escHtml(p.name)}">
   <div class="poli-card-header">
@@ -1501,7 +1501,7 @@
       const tx = (t.transaction_type||'').toUpperCase();
       if (tx === 'BUY') tickerMap[tk].buys++;
       else if (tx === 'SELL') tickerMap[tk].sells++;
-      const d = t.trade_published || t.traded_on || '';
+      const d = parsePublishedDate(t) || parseTradeDate(t) || '';
       if (d > tickerMap[tk].last) tickerMap[tk].last = d;
     }
     const holdings = Object.values(tickerMap).sort((a,b) => (b.buys+b.sells)-(a.buys+a.sells));
@@ -1514,7 +1514,7 @@
   <td style="color:var(--green);font-family:var(--font-mono)">${h.buys}</td>
   <td style="color:var(--red);font-family:var(--font-mono)">${h.sells}</td>
   <td><span class="net-chip ${net}">${netLabel}</span></td>
-  <td class="col-hide-mobile" style="font-size:12px;color:var(--muted)">${h.last ? formatDateDisplay(h.last.slice(0,10)) : '—'}</td>
+  <td class="col-hide-mobile" style="font-size:12px;color:var(--muted)">${h.last ? formatDateDisplay(h.last) : '—'}</td>
 </tr>`;
     }).join('');
 
