@@ -193,6 +193,8 @@
     .badge-title.dir       { background: var(--blue-bg);   color: var(--blue);   border: 1px solid rgba(26,188,219,.25); }
     .badge-title.other     { background: var(--surface3);  color: var(--muted2); border: 1px solid var(--border2); }
 
+    .td-value-sub { display: block; font-size: 10px; color: var(--muted); font-family: var(--font-mono); margin-top: 2px; }
+    .col-hide { display: none !important; }
   </style>
 </head>
 <body>
@@ -456,8 +458,8 @@
           <th data-col="insider_name">Insider<i class="sort-arrow"></i></th>
           <th data-col="title">Role<i class="sort-arrow"></i></th>
           <th data-col="value">Trade Value<i class="sort-arrow"></i></th>
-          <th data-col="qty">Shares<i class="sort-arrow"></i></th>
-          <th data-col="price">Price<i class="sort-arrow"></i></th>
+          <th class="col-hide" data-col="qty">Shares<i class="sort-arrow"></i></th>
+          <th class="col-hide" data-col="price">Price<i class="sort-arrow"></i></th>
           <th data-col="cluster_buy">Signal<i class="sort-arrow"></i></th>
         </tr>
       </thead>
@@ -792,9 +794,9 @@
           <td class="td-stock-cell"><span class="mobile-ticker-sym"><span class="expand-arrow">${arrow}</span>${escHtml(g.ticker)}</span><span class="mobile-co-name">${escHtml(g.company)}</span></td>
           <td><span class="group-insiders">${g.count} insiders</span></td>
           <td>—</td>
-          <td class="td-value">${formatCurrency(g.totalValue)}</td>
-          <td class="td-num">${formatShares(g.totalQty)}</td>
-          <td>—</td>
+          <td class="td-value">${formatCurrency(g.totalValue)}<span class="td-value-sub">${formatShares(g.totalQty)} shares</span></td>
+          <td class="col-hide"></td>
+          <td class="col-hide"></td>
           <td>${clusterBadge}</td>
         </tr>`);
 
@@ -812,9 +814,9 @@
               <td class="td-stock-cell"><span class="mobile-ticker-sym">${escHtml(t.ticker || '—')}</span><span class="mobile-co-name">${escHtml(t.company || '—')}</span></td>
               <td class="td-insider" title="${escHtml(t.insider_name || '')}">${escHtml(t.insider_name || '—')}</td>
               <td>${titleBadge(t.title || 'Unknown')}</td>
-              <td class="td-value">${formatCurrency(val)}</td>
-              <td class="td-num">${formatShares(qty)}</td>
-              <td class="td-num">${price > 0 ? '$' + price.toFixed(2) : '—'}</td>
+              <td class="td-value">${formatCurrency(val)}<span class="td-value-sub">${qty > 0 ? formatShares(qty) + ' shares' : ''}${qty > 0 && price > 0 ? ' · ' : ''}${price > 0 ? '$' + price.toFixed(2) : ''}</span></td>
+              <td class="col-hide"></td>
+              <td class="col-hide"></td>
               <td>${t.cluster_buy ? clusterBadgeHTML : ''}</td>
             </tr>`);
           });
@@ -832,9 +834,9 @@
           <td class="td-stock-cell"><span class="mobile-ticker-sym">${escHtml(t.ticker || '—')}</span><span class="mobile-co-name">${escHtml(t.company || '—')}</span></td>
           <td class="td-insider" title="${escHtml(t.insider_name || '')}">${escHtml(t.insider_name || '—')}</td>
           <td>${titleBadge(t.title || 'Unknown')}</td>
-          <td class="td-value">${formatCurrency(val)}</td>
-          <td class="td-num">${formatShares(qty)}</td>
-          <td class="td-num">${price > 0 ? '$' + price.toFixed(2) : '—'}</td>
+          <td class="td-value">${formatCurrency(val)}<span class="td-value-sub">${qty > 0 ? formatShares(qty) + ' shares' : ''}${qty > 0 && price > 0 ? ' · ' : ''}${price > 0 ? '$' + price.toFixed(2) : ''}</span></td>
+          <td class="col-hide"></td>
+          <td class="col-hide"></td>
           <td>${t.cluster_buy ? clusterBadgeHTML : ''}</td>
         </tr>`);
       }
