@@ -1221,6 +1221,36 @@
     });
   }
 
+  /* ── COLOR TEST — remove this block to revert ── */
+  const COLOR_TEST = [
+    { hex: '#22D3EE', name: 'Cyan'    },
+    { hex: '#818CF8', name: 'Indigo'  },
+    { hex: '#2DD4BF', name: 'Teal'    },
+    { hex: '#38BDF8', name: 'Sky Blue'},
+    { hex: '#A78BFA', name: 'Violet'  },
+  ];
+  function applyColorTest() {
+    tableBodyEl.querySelectorAll('tr:not(.skeleton-row)').forEach((row, i) => {
+      if (i >= COLOR_TEST.length) return;
+      const { hex, name } = COLOR_TEST[i];
+      row.style.boxShadow = `inset 4px 0 0 ${hex}`;
+      const ticker = row.querySelector('.td-ticker');
+      if (ticker) ticker.style.color = hex;
+      const amount = row.querySelector('.td-amount');
+      if (amount) amount.style.color = hex;
+      const price = row.querySelector('.td-price');
+      if (price) price.style.color = hex;
+      const pol = row.querySelector('.td-politician');
+      if (pol) {
+        const badge = document.createElement('span');
+        badge.style.cssText = `font-size:9px;font-weight:800;letter-spacing:.07em;color:${hex};background:${hex}22;border:1px solid ${hex}55;border-radius:3px;padding:1px 6px;margin-left:7px;vertical-align:middle;`;
+        badge.textContent = name;
+        pol.appendChild(badge);
+      }
+    });
+  }
+  /* ── END COLOR TEST ── */
+
   function renderTable() {
     const filtered = applyFilters(allTrades);
     const sorted   = sortTrades(filtered);
@@ -1231,6 +1261,7 @@
     updateStats(filtered, allTrades);
     updateSortArrows();
     renderPagination(sorted.length);
+    applyColorTest(); /* ── COLOR TEST — remove this line to revert ── */
   }
 
   pgPrev.addEventListener('click', () => { currentPage--; renderTable(); window.scrollTo({ top: 0, behavior: 'smooth' }); });
