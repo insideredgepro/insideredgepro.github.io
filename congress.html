@@ -806,9 +806,9 @@
         <div class="si-filter-group">
           <span class="si-filter-lbl">Period</span>
           <div class="date-range-group" id="si-period-group">
-            <button class="btn-range" data-siperiod="30">30D</button>
+            <button class="btn-range active" data-siperiod="30">30D</button>
             <button class="btn-range" data-siperiod="90">90D</button>
-            <button class="btn-range active" data-siperiod="all">All</button>
+            <button class="btn-range" data-siperiod="all">All</button>
           </div>
         </div>
       </div>
@@ -1554,7 +1554,7 @@
   /* STOCK INTELLIGENCE                                                    */
   /* ================================================================== */
   let siTypeFilter = 'all';
-  let siPeriod     = 'all';
+  let siPeriod     = '30';
 
   function siFilteredTrades() {
     let t = allTrades;
