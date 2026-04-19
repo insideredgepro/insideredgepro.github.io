@@ -477,7 +477,9 @@
       .tbl-trades td.td-pt-ticker  { grid-area: pt-ticker;  font-family: var(--font-mono); font-weight: 700; color: var(--gold-bright); font-size: 12px; align-self: end; }
       .tbl-trades td.td-pt-company { grid-area: pt-company; font-size: 10px; color: var(--muted2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
       .tbl-trades td.td-pt-date    { grid-area: pt-date;    font-size: 10px; color: var(--muted); align-self: start; }
+      .tbl-trades td.td-pt-date::before   { content: "Filed: ";   font-size: 9px; color: var(--muted); }
       .tbl-trades td.td-pt-traded  { grid-area: pt-trd;     font-size: 10px; color: var(--muted); align-self: start; }
+      .tbl-trades td.td-pt-traded::before { content: "Traded: ";  font-size: 9px; color: var(--muted); }
       .tbl-trades td.td-pt-type    { grid-area: pt-type;    text-align: right; align-self: end; }
       .tbl-trades td.td-pt-price   { grid-area: pt-price;   text-align: right; align-self: start; font-family: var(--font-mono); font-size: 11px; color: var(--muted); }
       .tbl-trades td.td-pt-amount  { grid-area: pt-amount;  text-align: right; align-self: center; font-family: var(--font-mono); font-size: 12px; }
@@ -505,7 +507,9 @@
       .tbl-si-trades tbody td.td-si-price { display: block !important; }
       .tbl-si-trades td.td-si-pol    { grid-area: si-pol;    font-weight: 700; font-size: 12px; color: var(--text); align-self: end; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
       .tbl-si-trades td.td-si-pub    { grid-area: si-date;   font-size: 10px; color: var(--muted); align-self: start; }
+      .tbl-si-trades td.td-si-pub::before    { content: "Filed: ";  font-size: 9px; color: var(--muted); }
       .tbl-si-trades td.td-si-traded { grid-area: si-trd;    font-size: 10px; color: var(--muted); align-self: start; }
+      .tbl-si-trades td.td-si-traded::before { content: "Traded: "; font-size: 9px; color: var(--muted); }
       .tbl-si-trades td.td-si-type   { grid-area: si-type;   text-align: right; align-self: end; }
       .tbl-si-trades td.td-si-amount { grid-area: si-amount; text-align: right; align-self: center; font-family: var(--font-mono); font-size: 12px; }
       .tbl-si-trades td.td-si-price  { grid-area: si-price;  text-align: right; align-self: start; font-family: var(--font-mono); font-size: 11px; color: var(--muted); }
