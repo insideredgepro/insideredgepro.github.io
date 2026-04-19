@@ -210,7 +210,6 @@
 
     /* ── Portfolio drill-down ── */
     #portfolio-detail { display: none; }
-    .portfolio-detail-wrap { max-width: 1200px; margin: 0 auto; padding: 12px 18px 28px; }
     .btn-back {
       display: inline-flex; align-items: center; gap: 7px;
       background: var(--surface2); border: 1px solid var(--border2);
@@ -218,24 +217,16 @@
       border-radius: 7px; padding: 7px 14px; cursor: pointer; transition: all .15s; margin-bottom: 16px;
     }
     .btn-back:hover { border-color: rgba(240,168,0,.3); color: var(--gold); }
-    .poli-detail-header {
-      background: var(--surface); border: 1px solid var(--border2);
-      border-radius: 12px; padding: 14px 18px; margin-bottom: 14px;
-      display: flex; align-items: center; gap: 14px;
-    }
     .poli-detail-avatar {
-      width: 46px; height: 46px; border-radius: 50%; flex-shrink: 0;
-      display: flex; align-items: center; justify-content: center; font-size: 17px; font-weight: 800;
+      width: 56px; height: 56px; border-radius: 50%;
+      display: flex; align-items: center; justify-content: center; font-size: 20px; font-weight: 800;
+      margin: 0 auto 12px;
     }
     .poli-detail-avatar.dem { background: rgba(59,130,246,.15); color: #60A5FA; border: 2px solid rgba(59,130,246,.3); }
     .poli-detail-avatar.rep { background: rgba(239,68,68,.15);  color: #F87171; border: 2px solid rgba(239,68,68,.3); }
     .poli-detail-avatar.ind { background: var(--surface3); color: var(--muted2); border: 2px solid var(--border2); }
-    .poli-detail-info { flex: 1; }
-    .poli-detail-name { font-size: 17px; font-weight: 800; color: var(--text); margin-bottom: 4px; }
-    .poli-detail-badges { display: flex; gap: 5px; align-items: center; flex-wrap: wrap; }
-    .poli-detail-stats { display: flex; gap: 18px; align-items: center; margin-left: auto; text-align: right; }
-    .poli-detail-stat-val { font-family: var(--font-mono); font-size: 18px; font-weight: 700; line-height: 1; }
-    .poli-detail-stat-lbl { font-size: 10px; color: var(--muted); margin-top: 2px; letter-spacing: .04em; }
+    .poli-detail-name { font-size: 15px; font-weight: 800; color: var(--text); margin-bottom: 6px; text-align: center; }
+    .poli-detail-badges { display: flex; gap: 5px; align-items: center; flex-wrap: wrap; justify-content: center; margin-bottom: 4px; }
     .section-title {
       font-size: 13px; font-weight: 700; color: var(--muted2); letter-spacing: .06em; text-transform: uppercase;
       margin-bottom: 12px; display: flex; align-items: center; gap: 8px;
@@ -314,18 +305,9 @@
     @media (max-width: 600px) {
       .poli-grid { grid-template-columns: 1fr; padding: 10px 12px 20px; }
       .si-stock-grid { grid-template-columns: 1fr; }
-      /* Compact portfolio header: avatar+name row, then stats row */
-      .poli-detail-header { flex-wrap: wrap; gap: 8px; padding: 10px 12px; }
-      .poli-detail-avatar { width: 36px; height: 36px; font-size: 13px; flex-shrink: 0; }
-      .poli-detail-info { flex: 1; min-width: 0; }
-      .poli-detail-name { font-size: 14px; margin-bottom: 2px; }
-      .poli-detail-stats { width: 100%; margin-left: 0; justify-content: space-around; border-top: 1px solid var(--border2); padding-top: 8px; gap: 0; }
-      .poli-detail-stat-val { font-size: 15px; }
-      .poli-detail-stat-lbl { font-size: 9px; }
       .si-detail-layout { grid-template-columns: 1fr; }
       .si-detail-left { position: static; }
       .si-detail-stats { grid-template-columns: 1fr 1fr; }
-      .portfolio-detail-wrap { padding: 10px 12px 24px; }
       .si-wrap { padding: 10px 12px 24px; }
       .col-hide-mobile { display: none !important; }
     }
@@ -764,29 +746,40 @@
   </div>
 
   <div id="portfolio-detail">
-    <div class="portfolio-detail-wrap">
-      <button class="btn-back" id="poli-back-btn">
-        <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M10 3L5 8l5 5"/></svg>
-        Back to Portfolios
-      </button>
-      <div class="poli-detail-header">
-        <div class="poli-detail-avatar" id="poli-detail-avatar"></div>
-        <div class="poli-detail-info">
+    <div class="si-wrap">
+      <div class="si-detail-layout">
+        <!-- LEFT: politician info panel -->
+        <div class="si-detail-left">
+          <button class="btn-back" id="poli-back-btn" style="margin-bottom:14px;width:100%;justify-content:center">
+            <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M10 3L5 8l5 5"/></svg>
+            Back to Portfolios
+          </button>
+          <div class="poli-detail-avatar" id="poli-detail-avatar"></div>
           <div class="poli-detail-name" id="poli-detail-name"></div>
           <div class="poli-detail-badges" id="poli-detail-badges"></div>
+          <div class="si-detail-stats" id="poli-detail-stats"></div>
+          <hr class="si-divider">
+          <div class="si-sentiment-lbl">
+            <span>Buy / Sell</span>
+            <span id="poli-sent-pct"></span>
+          </div>
+          <div class="si-sentiment-track">
+            <div class="si-sentiment-fill" id="poli-sentiment-fill" style="width:50%"></div>
+          </div>
         </div>
-        <div class="poli-detail-stats" id="poli-detail-stats"></div>
-      </div>
-
-      <div class="section-title">All Trades</div>
-      <div class="holdings-table-wrap">
-        <table class="holdings-table tbl-trades">
-          <thead><tr>
-            <th>Date</th><th class="col-hide-mobile">Traded</th><th>Ticker</th><th class="col-hide-mobile">Company</th>
-            <th>Type</th><th>Amount</th><th class="col-hide-mobile">Filed After</th>
-          </tr></thead>
-          <tbody id="poli-trades-body"></tbody>
-        </table>
+        <!-- RIGHT: trades table -->
+        <div class="si-detail-right">
+          <div class="section-title">All Trades</div>
+          <div class="holdings-table-wrap">
+            <table class="holdings-table tbl-trades">
+              <thead><tr>
+                <th>Date</th><th class="col-hide-mobile">Traded</th><th>Ticker</th><th class="col-hide-mobile">Company</th>
+                <th>Type</th><th>Amount</th><th class="col-hide-mobile">Filed After</th>
+              </tr></thead>
+              <tbody id="poli-trades-body"></tbody>
+            </table>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -1502,14 +1495,18 @@
 
     const buys  = p.trades.filter(t => t.transaction_type?.toUpperCase()==='BUY').length;
     const sells = p.trades.filter(t => t.transaction_type?.toUpperCase()==='SELL').length;
+    const total = p.trades.length;
     const chamberStr = (p.chamber||'').toLowerCase();
     document.getElementById('poli-detail-badges').innerHTML = `
       <span class="badge-party ${pc}">${escHtml(partyShort(p.party))}</span>
       <span class="badge-chamber ${chamberStr==='senate'?'senate':'house'}">${escHtml(p.chamber||'?')}${p.state?' · '+escHtml(p.state):''}</span>`;
     document.getElementById('poli-detail-stats').innerHTML = `
-      <div><div class="poli-detail-stat-val" style="color:var(--green)">${buys}</div><div class="poli-detail-stat-lbl">Buys</div></div>
-      <div><div class="poli-detail-stat-val" style="color:var(--red)">${sells}</div><div class="poli-detail-stat-lbl">Sells</div></div>
-      <div><div class="poli-detail-stat-val" style="color:var(--gold)">${p.trades.length}</div><div class="poli-detail-stat-lbl">Total</div></div>`;
+      <div class="si-detail-stat-box"><div class="si-detail-stat-val" style="color:var(--green)">${buys}</div><div class="si-detail-stat-lbl">Buys</div></div>
+      <div class="si-detail-stat-box"><div class="si-detail-stat-val" style="color:var(--red)">${sells}</div><div class="si-detail-stat-lbl">Sells</div></div>
+      <div class="si-detail-stat-box" style="grid-column:span 2"><div class="si-detail-stat-val" style="color:var(--gold)">${total}</div><div class="si-detail-stat-lbl">Total Trades</div></div>`;
+    const sentPct = total > 0 ? Math.round(buys / total * 100) : 50;
+    document.getElementById('poli-sent-pct').textContent = sentPct + '% Buy';
+    document.getElementById('poli-sentiment-fill').style.width = sentPct + '%';
 
     // All trades
     const sorted = [...p.trades].sort((a,b) => {
