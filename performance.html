@@ -274,13 +274,13 @@
 
   <div class="header-right">
     <div class="header-stats">
-      <div class="hstat"><span class="hstat-val accent" id="h-stat-total">—</span><span class="hstat-lbl">Trades</span></div>
+      <div class="hstat"><span class="hstat-val" id="h-stat-total">—</span><span class="hstat-lbl">Trades</span></div>
       <div class="hstat-div"></div>
       <div class="hstat"><span class="hstat-val green" id="h-stat-winning">—</span><span class="hstat-lbl">Win %</span></div>
       <div class="hstat-div"></div>
-      <div class="hstat"><span class="hstat-val green" id="h-stat-best">—</span><span class="hstat-lbl">Best</span></div>
+      <div class="hstat"><span class="hstat-val green" id="h-stat-best">—</span><span class="hstat-lbl" id="h-lbl-best">Best</span></div>
       <div class="hstat-div"></div>
-      <div class="hstat"><span class="hstat-val gold" id="h-stat-avg">—</span><span class="hstat-lbl">Avg Return</span></div>
+      <div class="hstat"><span class="hstat-val green" id="h-stat-avg">—</span><span class="hstat-lbl">Avg Return</span></div>
     </div>
     <a href="https://discord.gg/RhuXhpXcUR" target="_blank" rel="noopener noreferrer" class="btn-discord">
       <svg width="16" height="16" viewBox="0 0 127.14 96.36" fill="currentColor" aria-hidden="true">
@@ -294,13 +294,13 @@
 <!-- Mobile-only action bar -->
 <div class="mobile-bar">
   <div class="header-stats">
-    <div class="hstat"><span class="hstat-val accent" id="m-stat-total">—</span><span class="hstat-lbl">Trades</span></div>
+    <div class="hstat"><span class="hstat-val" id="m-stat-total">—</span><span class="hstat-lbl">Trades</span></div>
     <div class="hstat-div"></div>
     <div class="hstat"><span class="hstat-val green" id="m-stat-winning">—</span><span class="hstat-lbl">Win %</span></div>
     <div class="hstat-div"></div>
-    <div class="hstat"><span class="hstat-val green" id="m-stat-best">—</span><span class="hstat-lbl">Best</span></div>
+    <div class="hstat"><span class="hstat-val green" id="m-stat-best">—</span><span class="hstat-lbl" id="m-lbl-best">Best</span></div>
     <div class="hstat-div"></div>
-    <div class="hstat"><span class="hstat-val gold" id="m-stat-avg">—</span><span class="hstat-lbl">Avg Return</span></div>
+    <div class="hstat"><span class="hstat-val green" id="m-stat-avg">—</span><span class="hstat-lbl">Avg Return</span></div>
   </div>
 </div>
 
@@ -322,7 +322,7 @@
       </div>
       <div class="stat-label">Trades Tracked</div>
     </div>
-    <div class="stat-value accent" id="stat-total">—</div>
+    <div class="stat-value" id="stat-total">—</div>
   </div>
 
   <div class="stat-card">
@@ -346,7 +346,7 @@
           <path d="M8 5v3l2 2"/>
         </svg>
       </div>
-      <div class="stat-label">Best Return</div>
+      <div class="stat-label" id="lbl-best">Best Return</div>
     </div>
     <div class="stat-value green" id="stat-best">—</div>
   </div>
@@ -362,7 +362,7 @@
       </div>
       <div class="stat-label">Avg Return</div>
     </div>
-    <div class="stat-value gold" id="stat-avg">—</div>
+    <div class="stat-value green" id="stat-avg">—</div>
   </div>
 
 </div>
@@ -575,15 +575,26 @@
     const sorted   = sortEntries(filtered);
 
     // Stats
-    const withPrice  = filtered.filter(e => e.return_pct !== null);
-    const winning    = withPrice.filter(e => e.return_pct > 0);
-    const winPct     = withPrice.length > 0 ? Math.round((winning.length / withPrice.length) * 100) : null;
-    const bestReturn = withPrice.length > 0 ? Math.max(...withPrice.map(e => e.return_pct)) : null;
-    const avgReturn  = withPrice.length > 0 ? withPrice.reduce((s, e) => s + e.return_pct, 0) / withPrice.length : null;
+    const withPrice   = filtered.filter(e => e.return_pct !== null);
+    const winning     = withPrice.filter(e => e.return_pct > 0);
+    const winPct      = withPrice.length > 0 ? Math.round((winning.length / withPrice.length) * 100) : null;
+    const bestReturn  = withPrice.length > 0 ? Math.max(...withPrice.map(e => e.return_pct)) : null;
+    const worstReturn = withPrice.length > 0 ? Math.min(...withPrice.map(e => e.return_pct)) : null;
+    const avgReturn   = withPrice.length > 0 ? withPrice.reduce((s, e) => s + e.return_pct, 0) / withPrice.length : null;
+
+    const isLosing    = statusFilter === 'losing';
+    const bestVal     = isLosing ? worstReturn : bestReturn;
+    const bestLabel   = isLosing ? 'Worst' : 'Best';
+    const bestLabelLg = isLosing ? 'Worst Return' : 'Best Return';
+    const bestText    = bestVal !== null ? (bestVal >= 0 ? '+' : '') + bestVal.toFixed(1) + '%' : '—';
+
+    document.getElementById('h-lbl-best').textContent = bestLabel;
+    document.getElementById('m-lbl-best').textContent = bestLabel;
+    document.getElementById('lbl-best').textContent   = bestLabelLg;
 
     statTotal.textContent   = filtered.length.toLocaleString();
     statWinning.textContent = winPct !== null ? winPct + '%' : '—';
-    statBest.textContent    = bestReturn !== null ? '+' + bestReturn.toFixed(1) + '%' : '—';
+    statBest.textContent    = bestText;
     statAvg.textContent     = avgReturn !== null ? (avgReturn >= 0 ? '+' : '') + avgReturn.toFixed(1) + '%' : '—';
     document.getElementById('h-stat-total').textContent   = statTotal.textContent;
     document.getElementById('h-stat-winning').textContent = statWinning.textContent;
@@ -594,8 +605,25 @@
     document.getElementById('m-stat-best').textContent    = statBest.textContent;
     document.getElementById('m-stat-avg').textContent     = statAvg.textContent;
 
-    // Update avg color dynamically
-    statAvg.className = 'stat-value ' + (avgReturn === null ? 'gold' : avgReturn >= 0 ? 'green' : 'red');
+    // Update colors dynamically based on values
+    const avgColor  = avgReturn  === null ? ''      : avgReturn  >= 0 ? 'green' : 'red';
+    const bestColor = bestVal    === null ? ''      : bestVal    >= 0 ? 'green' : 'red';
+    const winColor  = winPct     === null ? 'green' : winPct     >= 50 ? 'green' : 'red';
+
+    statAvg.className     = 'stat-value ' + avgColor;
+    statBest.className    = 'stat-value ' + bestColor;
+    statWinning.className = 'stat-value ' + winColor;
+
+    const setHstatColor = (id, color) => {
+      const el = document.getElementById(id);
+      if (el) el.className = 'hstat-val ' + color;
+    };
+    setHstatColor('h-stat-avg',     avgColor);
+    setHstatColor('h-stat-best',    bestColor);
+    setHstatColor('h-stat-winning', winColor);
+    setHstatColor('m-stat-avg',     avgColor);
+    setHstatColor('m-stat-best',    bestColor);
+    setHstatColor('m-stat-winning', winColor);
 
     if (sorted.length === 0) {
       tableBodyEl.innerHTML = '';
