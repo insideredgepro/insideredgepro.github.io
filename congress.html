@@ -458,7 +458,8 @@
         grid-template-areas:
           "pt-ticker  pt-type"
           "pt-company pt-amount"
-          "pt-date    pt-amount";
+          "pt-date    pt-amount"
+          ".          pt-price";
         column-gap: 8px;
         row-gap: 2px;
         padding: 8px 10px;
@@ -469,11 +470,13 @@
       .tbl-trades tbody td.td-pt-company,
       .tbl-trades tbody td.td-pt-date,
       .tbl-trades tbody td.td-pt-type,
-      .tbl-trades tbody td.td-pt-amount { display: block !important; }
+      .tbl-trades tbody td.td-pt-amount,
+      .tbl-trades tbody td.td-pt-price { display: block !important; }
       .tbl-trades td.td-pt-ticker  { grid-area: pt-ticker;  font-family: var(--font-mono); font-weight: 700; color: var(--gold-bright); font-size: 12px; align-self: end; }
       .tbl-trades td.td-pt-company { grid-area: pt-company; font-size: 10px; color: var(--muted2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
       .tbl-trades td.td-pt-date    { grid-area: pt-date;    font-size: 10px; color: var(--muted); align-self: start; }
       .tbl-trades td.td-pt-type    { grid-area: pt-type;    text-align: right; align-self: end; }
+      .tbl-trades td.td-pt-price   { grid-area: pt-price;   text-align: right; align-self: start; font-family: var(--font-mono); font-size: 11px; color: var(--muted); }
       .tbl-trades td.td-pt-amount  { grid-area: pt-amount;  text-align: right; align-self: center; font-family: var(--font-mono); font-size: 12px; }
 
       /* ── Stock Intel all trades: same grid pattern ── */
@@ -787,7 +790,7 @@
             <table class="holdings-table tbl-trades">
               <thead><tr>
                 <th>Date</th><th class="col-hide-mobile">Traded</th><th>Ticker</th><th class="col-hide-mobile">Company</th>
-                <th>Type</th><th>Amount</th><th class="col-hide-mobile">Filed After</th>
+                <th>Type</th><th>Amount</th><th class="col-hide-mobile">Price</th><th class="col-hide-mobile">Filed After</th>
               </tr></thead>
               <tbody id="poli-trades-body"></tbody>
             </table>
@@ -1539,6 +1542,7 @@
   <td class="td-pt-company">${escHtml(t.company||'—')}</td>
   <td class="td-pt-type"><span class="badge-tx ${txClass(txType)}">${escHtml(txType||'—')}</span></td>
   <td class="td-pt-amount">${escHtml(normaliseAmount(t))}</td>
+  <td class="td-pt-price">${escHtml(t.price && t.price !== 'N/A' ? t.price : '—')}</td>
   <td class="td-pt-filed">${t.filed_after_days?t.filed_after_days+'d':'—'}</td>
 </tr>`;
     }).join('');
