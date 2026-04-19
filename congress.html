@@ -1358,6 +1358,7 @@
 
   function switchView(view) {
     activeView = view;
+    history.replaceState(null, '', '#' + view);
     viewFeed.style.display       = 'none';
     viewPortfolios.style.display = 'none';
     viewStocks.style.display     = 'none';
@@ -1379,6 +1380,10 @@
   tabFeed.addEventListener('click',       () => switchView('feed'));
   tabPortfolios.addEventListener('click', () => switchView('portfolios'));
   tabStocks.addEventListener('click',     () => switchView('stocks'));
+
+  /* Restore view from URL hash on load */
+  const hashView = window.location.hash.replace('#', '');
+  if (hashView === 'portfolios' || hashView === 'stocks') switchView(hashView);
 
   /* ================================================================== */
   /* PORTFOLIOS                                                            */
