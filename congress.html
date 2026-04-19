@@ -104,7 +104,7 @@
     }
     .badge-tx.buy      { background: var(--green-bg); color: var(--green); border: 1px solid rgba(16,217,138,.25); }
     .badge-tx.sell     { background: var(--red-bg);   color: var(--red);   border: 1px solid rgba(239,68,68,.25); }
-    .badge-tx.exchange { background: var(--gold-bg);  color: var(--gold);  border: 1px solid rgba(240,168,0,.25); }
+    .badge-tx.exchange { background: var(--gold-bg);  color: var(--gold);  border: 1px solid rgba(34,211,238,.25); }
 
     /* Chamber badge */
     .badge-chamber {
@@ -112,7 +112,7 @@
       font-size: 9px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
     }
     .badge-chamber.house  { background: rgba(168,85,247,.12); color: #C084FC; border: 1px solid rgba(168,85,247,.25); }
-    .badge-chamber.senate { background: rgba(251,191,36,.12);  color: var(--gold); border: 1px solid rgba(240,168,0,.25); }
+    .badge-chamber.senate { background: rgba(34,211,238,.12);  color: var(--gold); border: 1px solid rgba(34,211,238,.25); }
 
     /* Table column widths */
     table { min-width: 920px; }
@@ -146,7 +146,7 @@
       font-size: 13px; font-weight: 600; cursor: pointer; transition: all .18s;
     }
     .view-tab:hover { color: var(--text2); background: rgba(255,255,255,.04); }
-    .view-tab.active { background: var(--surface3); color: var(--gold); border: 1px solid rgba(240,168,0,.2); }
+    .view-tab.active { background: var(--surface3); color: var(--gold); border: 1px solid rgba(34,211,238,.2); }
 
     /* ── View containers ── */
     #view-portfolios { display: none; }
@@ -165,7 +165,7 @@
       border-radius: 8px; color: var(--text); font-family: 'DM Sans', sans-serif;
       font-size: 13px; outline: none;
     }
-    .poli-search-wrap input:focus { border-color: rgba(240,168,0,.4); }
+    .poli-search-wrap input:focus { border-color: rgba(34,211,238,.4); }
     .poli-sort-wrap { display: flex; align-items: center; gap: 8px; }
     .poli-sort-lbl { font-size: 11px; color: var(--muted); }
     .poli-sort-select {
@@ -186,7 +186,7 @@
     .poli-card.dem::before { background: #60A5FA; }
     .poli-card.rep::before { background: #F87171; }
     .poli-card.ind::before { background: var(--muted); }
-    .poli-card:hover { border-color: rgba(240,168,0,.35); background: var(--surface2); transform: translateY(-1px); }
+    .poli-card:hover { border-color: rgba(34,211,238,.35); background: var(--surface2); transform: translateY(-1px); }
     .poli-card-header { display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 8px; }
     .poli-avatar {
       width: 34px; height: 34px; border-radius: 50%; flex-shrink: 0;
@@ -217,7 +217,7 @@
       color: var(--text2); font-size: 12px; font-weight: 600;
       border-radius: 7px; padding: 7px 14px; cursor: pointer; transition: all .15s; margin-bottom: 16px;
     }
-    .btn-back:hover { border-color: rgba(240,168,0,.3); color: var(--gold); }
+    .btn-back:hover { border-color: rgba(34,211,238,.3); color: var(--gold); }
     .poli-detail-avatar {
       width: 56px; height: 56px; border-radius: 50%;
       display: flex; align-items: center; justify-content: center; font-size: 20px; font-weight: 800;
@@ -251,7 +251,7 @@
       background: var(--surface2); border: 1px solid var(--border2);
       border-radius: 8px; color: var(--text); font-family: 'DM Sans', sans-serif; font-size: 13px; outline: none;
     }
-    .si-search-wrap input:focus { border-color: rgba(240,168,0,.45); }
+    .si-search-wrap input:focus { border-color: rgba(34,211,238,.45); }
     .si-filter-group { display: flex; align-items: center; gap: 6px; }
     .si-filter-lbl { font-size: 11px; color: var(--muted); white-space: nowrap; }
     .si-leaderboard-title {
@@ -264,7 +264,7 @@
       background: var(--surface); border: 1px solid var(--border2);
       border-radius: 9px; padding: 10px 13px; cursor: pointer; transition: all .18s; position: relative; overflow: hidden;
     }
-    .si-stock-card:hover { border-color: rgba(240,168,0,.4); background: var(--surface2); transform: translateY(-1px); }
+    .si-stock-card:hover { border-color: rgba(34,211,238,.4); background: var(--surface2); transform: translateY(-1px); }
     .si-card-top { display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 7px; }
     .si-ticker { font-family: var(--font-mono); font-size: 15px; font-weight: 700; color: var(--gold-bright); }
     .si-company { font-size: 10px; color: var(--muted); margin-top: 1px; max-width: 140px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
@@ -340,7 +340,7 @@
       border: 1px solid transparent; color: var(--muted2); transition: all .15s;
     }
     .pg-page:hover { background: var(--surface2); color: var(--text); }
-    .pg-page.active { background: var(--gold-bg); border-color: rgba(240,168,0,.3); color: var(--gold); font-weight: 700; }
+    .pg-page.active { background: var(--gold-bg); border-color: rgba(34,211,238,.3); color: var(--gold); font-weight: 700; }
     .pg-page.ellipsis { cursor: default; color: var(--muted); }
     .pg-size select {
       background: var(--surface2); border: 1px solid var(--border2); color: var(--text2);
@@ -1221,36 +1221,6 @@
     });
   }
 
-  /* ── COLOR TEST — remove this block to revert ── */
-  const COLOR_TEST = [
-    { hex: '#22D3EE', name: 'Cyan'    },
-    { hex: '#818CF8', name: 'Indigo'  },
-    { hex: '#2DD4BF', name: 'Teal'    },
-    { hex: '#38BDF8', name: 'Sky Blue'},
-    { hex: '#A78BFA', name: 'Violet'  },
-  ];
-  function applyColorTest() {
-    tableBodyEl.querySelectorAll('tr:not(.skeleton-row)').forEach((row, i) => {
-      if (i >= COLOR_TEST.length) return;
-      const { hex, name } = COLOR_TEST[i];
-      row.style.boxShadow = `inset 4px 0 0 ${hex}`;
-      const ticker = row.querySelector('.td-ticker');
-      if (ticker) ticker.style.color = hex;
-      const amount = row.querySelector('.td-amount');
-      if (amount) amount.style.color = hex;
-      const price = row.querySelector('.td-price');
-      if (price) price.style.color = hex;
-      const pol = row.querySelector('.td-politician');
-      if (pol) {
-        const badge = document.createElement('span');
-        badge.style.cssText = `font-size:9px;font-weight:800;letter-spacing:.07em;color:${hex};background:${hex}22;border:1px solid ${hex}55;border-radius:3px;padding:1px 6px;margin-left:7px;vertical-align:middle;`;
-        badge.textContent = name;
-        pol.appendChild(badge);
-      }
-    });
-  }
-  /* ── END COLOR TEST ── */
-
   function renderTable() {
     const filtered = applyFilters(allTrades);
     const sorted   = sortTrades(filtered);
@@ -1261,7 +1231,6 @@
     updateStats(filtered, allTrades);
     updateSortArrows();
     renderPagination(sorted.length);
-    applyColorTest(); /* ── COLOR TEST — remove this line to revert ── */
   }
 
   pgPrev.addEventListener('click', () => { currentPage--; renderTable(); window.scrollTo({ top: 0, behavior: 'smooth' }); });
