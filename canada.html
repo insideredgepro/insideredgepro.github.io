@@ -842,16 +842,43 @@
   })();
 
   /* ------------------------------------------------------------------ */
+  /* Filter persistence                                                     */
+  /* ------------------------------------------------------------------ */
+  const FILTER_KEY = 'iep_ca_filters';
+  function saveFilters() {
+    localStorage.setItem(FILTER_KEY, JSON.stringify({
+      dateRange, minValue,
+      title: titleFilterEl.value,
+      search: searchInputEl.value,
+      clusterOnly,
+    }));
+  }
+  function restoreFilters() {
+    try {
+      const saved = JSON.parse(localStorage.getItem(FILTER_KEY));
+      if (!saved) return;
+      dateRange   = saved.dateRange   ?? '1';
+      minValue    = saved.minValue    ?? 0;
+      clusterOnly = saved.clusterOnly ?? false;
+      if (saved.title)  titleFilterEl.value  = saved.title;
+      if (saved.search) searchInputEl.value  = saved.search;
+      dateRangeGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.toggle('active', b.dataset.range === String(dateRange)));
+      minValueGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.toggle('active', b.dataset.minval === String(minValue)));
+      statCardClusters.classList.toggle('active', clusterOnly);
+    } catch {}
+  }
+
   /* Filter events                                                         */
   /* ------------------------------------------------------------------ */
   function debounce(fn, ms) { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); }; }
-  searchInputEl.addEventListener('input', debounce(() => renderTable(), 250));
-  titleFilterEl.addEventListener('change', () => renderTable());
+  searchInputEl.addEventListener('input', debounce(() => { saveFilters(); renderTable(); }, 250));
+  titleFilterEl.addEventListener('change', () => { saveFilters(); renderTable(); });
   dateRangeGroupEl.querySelectorAll('.btn-range').forEach(btn => {
     btn.addEventListener('click', () => {
       dateRange = btn.dataset.range;
       dateRangeGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
+      saveFilters();
       renderTable();
     });
   });
@@ -861,6 +888,7 @@
       minValue = parseInt(btn.dataset.minval, 10);
       minValueGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
+      saveFilters();
       renderTable();
     });
   });
@@ -868,6 +896,7 @@
   statCardClusters.addEventListener('click', () => {
     clusterOnly = !clusterOnly;
     statCardClusters.classList.toggle('active', clusterOnly);
+    saveFilters();
     renderTable();
   });
 
@@ -884,6 +913,7 @@
     minValueGroupEl.querySelectorAll('.btn-range').forEach(b => {
       b.classList.toggle('active', b.dataset.minval === '0');
     });
+    saveFilters();
     renderTable();
   });
 
@@ -940,6 +970,7 @@
   /* ------------------------------------------------------------------ */
   /* Bootstrap                                                             */
   /* ------------------------------------------------------------------ */
+  restoreFilters();
   fetchData();
   setInterval(fetchData, REFRESH_INTERVAL_MS);
 })();
