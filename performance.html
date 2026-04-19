@@ -726,12 +726,36 @@
   })();
 
   /* ------------------------------------------------------------------ */
+  /* Filter persistence                                                     */
+  /* ------------------------------------------------------------------ */
+  const FILTER_KEY = 'iep_perf_filters';
+  function saveFilters() {
+    localStorage.setItem(FILTER_KEY, JSON.stringify({ sortCol, sortDir, statusFilter, search }));
+  }
+  function restoreFilters() {
+    try {
+      const saved = JSON.parse(localStorage.getItem(FILTER_KEY));
+      if (!saved) return;
+      sortCol      = saved.sortCol      ?? 'return_pct';
+      sortDir      = saved.sortDir      ?? 'desc';
+      statusFilter = saved.statusFilter ?? 'all';
+      search       = saved.search       ?? '';
+      if (search) searchInputEl.value = search;
+      statusGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.toggle('active', b.dataset.status === statusFilter));
+      sortGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.toggle('active', b.dataset.sort === sortCol));
+      tableEl.querySelectorAll('th').forEach(h => h.classList.remove('sort-asc', 'sort-desc'));
+      const th = tableEl.querySelector(`th[data-col="${sortCol}"]`);
+      if (th) th.classList.add(sortDir === 'asc' ? 'sort-asc' : 'sort-desc');
+    } catch {}
+  }
+
   /* Filter events                                                         */
   /* ------------------------------------------------------------------ */
   function debounce(fn, ms) { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); }; }
 
   searchInputEl.addEventListener('input', debounce(() => {
     search = searchInputEl.value.trim().toLowerCase();
+    saveFilters();
     renderTable();
   }, 250));
 
@@ -744,6 +768,7 @@
       tableEl.querySelectorAll('th').forEach(h => h.classList.remove('sort-asc', 'sort-desc'));
       const th = tableEl.querySelector(`th[data-col="${sortCol}"]`);
       if (th) th.classList.add('sort-desc');
+      saveFilters();
       renderTable();
     });
   });
@@ -753,6 +778,7 @@
       statusFilter = btn.dataset.status;
       statusGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
+      saveFilters();
       renderTable();
     });
   });
@@ -768,6 +794,7 @@
     tableEl.querySelectorAll('th').forEach(h => h.classList.remove('sort-asc', 'sort-desc'));
     const th = tableEl.querySelector('th[data-col="return_pct"]');
     if (th) th.classList.add('sort-desc');
+    saveFilters();
     renderTable();
   });
 
@@ -798,6 +825,7 @@
     }
   }
 
+  restoreFilters();
   fetchData();
   setInterval(fetchData, REFRESH_INTERVAL_MS);
 })();
