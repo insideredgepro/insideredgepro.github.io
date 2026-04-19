@@ -619,8 +619,8 @@
     <div class="filter-group">
       <span class="filter-label">Period</span>
       <div class="date-range-group" id="date-range-group">
-        <button class="btn-range active" data-range="7">7D</button>
-        <button class="btn-range" data-range="30">30D</button>
+        <button class="btn-range" data-range="7">7D</button>
+        <button class="btn-range active" data-range="30">30D</button>
         <button class="btn-range" data-range="90">90D</button>
         <button class="btn-range" data-range="all">All</button>
       </div>
@@ -865,7 +865,7 @@
   let sortDir   = 'desc';
   let filterParty   = 'all';
   let filterTxType  = 'all';
-  let dateRange     = '7';
+  let dateRange     = '30';
 
   /* -- DOM refs -- */
   const REFRESH_INTERVAL_MS = 30 * 60 * 1000;
@@ -1261,7 +1261,7 @@
     searchInputEl.value = '';
     filterParty   = 'all';
     filterTxType  = 'all';
-    dateRange     = '7';
+    dateRange     = '30';
     ['party-group','type-group'].forEach(id => {
       const grp = document.getElementById(id);
       grp.querySelectorAll('.btn-range').forEach(b => b.classList.remove('active'));
@@ -1270,7 +1270,7 @@
     });
     const dateGrp = document.getElementById('date-range-group');
     dateGrp.querySelectorAll('.btn-range').forEach(b => b.classList.remove('active'));
-    dateGrp.querySelector('[data-range="7"]').classList.add('active');
+    dateGrp.querySelector('[data-range="30"]').classList.add('active');
     currentPage = 1; renderTable();
     if (activeView === 'portfolios') renderPoliGrid();
     else if (activeView === 'stocks') { if (currentStockTicker) openStockDetail(currentStockTicker); else renderStockGrid(); }
