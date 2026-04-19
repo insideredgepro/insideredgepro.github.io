@@ -62,7 +62,7 @@ a:hover { color: var(--gold-bright); }
 /* TOPBAR                                                               */
 /* ================================================================== */
 .topbar {
-  background: linear-gradient(90deg, #0d1117 0%, #1c1400 50%, #0d1117 100%);
+  background: linear-gradient(90deg, #080c0f 0%, #0f1e2a 50%, #080c0f 100%);
   text-align: center;
   padding: 7px 24px;
   font-size: 12px;
@@ -302,7 +302,7 @@ th.sort-asc  .sort-arrow::after { content: " ▲"; opacity: 1; color: var(--gold
 th.sort-desc .sort-arrow::after { content: " ▼"; opacity: 1; color: var(--gold); }
 th:not(.sort-asc):not(.sort-desc) .sort-arrow::after { content: " ⇅"; }
 
-tbody tr { border-bottom: 1px solid rgba(42,34,0,.8); transition: background .12s; }
+tbody tr { border-bottom: 1px solid rgba(30,48,64,.8); transition: background .12s; }
 tbody tr:nth-child(even):not(.child-row) { background: rgba(34,211,238,.025); }
 tbody tr:last-child { border-bottom: none; }
 tbody tr:not(.child-row):hover { background: var(--surface2); box-shadow: inset 3px 0 0 var(--gold); }
