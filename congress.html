@@ -332,8 +332,8 @@
       .portfolio-detail-wrap { padding: 10px 12px 24px; }
       .si-wrap { padding: 10px 12px 24px; }
       /* Holdings + All Trades: fit mobile without horizontal scroll */
-      .holdings-table-wrap { overflow-x: visible; }
-      .holdings-table { font-size: 11px; width: 100%; table-layout: fixed; }
+      .holdings-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+      .holdings-table { font-size: 11px; min-width: 520px; table-layout: auto; }
       .holdings-table thead th { padding: 5px 4px; font-size: 10px; }
       .holdings-table tbody td { padding: 6px 4px; }
       .holdings-table tbody tr { display: table-row !important; }
