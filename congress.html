@@ -1027,8 +1027,9 @@
       }
       if (filterChamber !== 'all' && (t.chamber || '').toLowerCase() !== filterChamber.toLowerCase()) return false;
       if (filterTxType !== 'all' && (t.transaction_type || '').toUpperCase() !== filterTxType) return false;
-      const filedDate = parsePublishedDate(t);
+      const filedDate = parsePublishedDate(t) || parseTradeDate(t);
       if (cutoff && filedDate && filedDate < cutoff) return false;
+      if (cutoff && !filedDate) return false;
       if (search) {
         const haystack = [
           t.politician_name, t.company, t.ticker, t.party, t.state, t.sector
