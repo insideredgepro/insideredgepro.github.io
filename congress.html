@@ -460,7 +460,7 @@
           "pt-ticker  pt-type"
           "pt-company pt-amount"
           "pt-date    pt-amount"
-          ".          pt-price";
+          "pt-trd     pt-price";
         column-gap: 8px;
         row-gap: 2px;
         padding: 8px 10px;
@@ -470,12 +470,14 @@
       .tbl-trades tbody td.td-pt-ticker,
       .tbl-trades tbody td.td-pt-company,
       .tbl-trades tbody td.td-pt-date,
+      .tbl-trades tbody td.td-pt-traded,
       .tbl-trades tbody td.td-pt-type,
       .tbl-trades tbody td.td-pt-amount,
       .tbl-trades tbody td.td-pt-price { display: block !important; }
       .tbl-trades td.td-pt-ticker  { grid-area: pt-ticker;  font-family: var(--font-mono); font-weight: 700; color: var(--gold-bright); font-size: 12px; align-self: end; }
       .tbl-trades td.td-pt-company { grid-area: pt-company; font-size: 10px; color: var(--muted2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
       .tbl-trades td.td-pt-date    { grid-area: pt-date;    font-size: 10px; color: var(--muted); align-self: start; }
+      .tbl-trades td.td-pt-traded  { grid-area: pt-trd;     font-size: 10px; color: var(--muted); align-self: start; }
       .tbl-trades td.td-pt-type    { grid-area: pt-type;    text-align: right; align-self: end; }
       .tbl-trades td.td-pt-price   { grid-area: pt-price;   text-align: right; align-self: start; font-family: var(--font-mono); font-size: 11px; color: var(--muted); }
       .tbl-trades td.td-pt-amount  { grid-area: pt-amount;  text-align: right; align-self: center; font-family: var(--font-mono); font-size: 12px; }
@@ -487,7 +489,8 @@
         grid-template-columns: 1fr auto;
         grid-template-areas:
           "si-pol    si-type"
-          "si-date   si-amount";
+          "si-date   si-amount"
+          "si-trd    si-price";
         column-gap: 8px;
         row-gap: 2px;
         padding: 8px 10px;
@@ -495,13 +498,17 @@
       }
       .tbl-si-trades tbody td { display: none !important; padding: 0; border: none; }
       .tbl-si-trades tbody td.td-si-pub,
+      .tbl-si-trades tbody td.td-si-traded,
       .tbl-si-trades tbody td.td-si-pol,
       .tbl-si-trades tbody td.td-si-type,
-      .tbl-si-trades tbody td.td-si-amount { display: block !important; }
+      .tbl-si-trades tbody td.td-si-amount,
+      .tbl-si-trades tbody td.td-si-price { display: block !important; }
       .tbl-si-trades td.td-si-pol    { grid-area: si-pol;    font-weight: 700; font-size: 12px; color: var(--text); align-self: end; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
       .tbl-si-trades td.td-si-pub    { grid-area: si-date;   font-size: 10px; color: var(--muted); align-self: start; }
+      .tbl-si-trades td.td-si-traded { grid-area: si-trd;    font-size: 10px; color: var(--muted); align-self: start; }
       .tbl-si-trades td.td-si-type   { grid-area: si-type;   text-align: right; align-self: end; }
       .tbl-si-trades td.td-si-amount { grid-area: si-amount; text-align: right; align-self: center; font-family: var(--font-mono); font-size: 12px; }
+      .tbl-si-trades td.td-si-price  { grid-area: si-price;  text-align: right; align-self: start; font-family: var(--font-mono); font-size: 11px; color: var(--muted); }
     }
   </style>
 </head>
@@ -854,7 +861,7 @@
           <div class="section-title">All Trades</div>
           <div class="holdings-table-wrap">
             <table class="holdings-table tbl-si-trades">
-              <thead><tr><th>Published</th><th>Traded</th><th>Politician</th><th>Party</th><th>Type</th><th>Amount</th><th>Filed After</th></tr></thead>
+              <thead><tr><th>Published</th><th>Traded</th><th>Politician</th><th>Party</th><th>Type</th><th>Amount</th><th class="col-hide-mobile">Price</th><th>Filed After</th></tr></thead>
               <tbody id="si-trades-body"></tbody>
             </table>
           </div>
@@ -1679,6 +1686,7 @@
   <td class="td-si-party"><span class="badge-party ${partyClass(t.party)}">${escHtml(partyShort(t.party))}</span></td>
   <td class="td-si-type"><span class="badge-tx ${txClass(txType)}">${escHtml(txType||'—')}</span></td>
   <td class="td-si-amount">${escHtml(normaliseAmount(t))}</td>
+  <td class="td-si-price">${escHtml(t.price && t.price !== 'N/A' ? t.price : '—')}</td>
   <td class="td-si-filed">${t.filed_after_days?t.filed_after_days+'d':'—'}</td>
 </tr>`;
     }).join('');
