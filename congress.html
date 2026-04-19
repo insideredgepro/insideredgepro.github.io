@@ -352,6 +352,46 @@
       .net-chip { font-size: 10px; padding: 2px 5px; }
     }
 
+    /* ── Pagination ── */
+    #pagination-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 16px;
+      border-top: 1px solid var(--border2);
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .pg-info { font-size: 12px; color: var(--muted2); min-width: 120px; }
+    .pg-controls { display: flex; align-items: center; gap: 8px; }
+    .pg-btn {
+      background: var(--surface2); border: 1px solid var(--border2);
+      color: var(--text2); border-radius: 6px; padding: 5px 12px;
+      font-size: 12px; font-family: inherit; cursor: pointer; transition: all .15s;
+    }
+    .pg-btn:hover:not(:disabled) { background: var(--surface3); color: var(--gold); border-color: var(--gold); }
+    .pg-btn:disabled { opacity: .35; cursor: default; }
+    .pg-pages { display: flex; align-items: center; gap: 4px; }
+    .pg-page {
+      min-width: 30px; height: 28px; display: inline-flex; align-items: center;
+      justify-content: center; border-radius: 5px; font-size: 12px; cursor: pointer;
+      border: 1px solid transparent; color: var(--muted2); transition: all .15s;
+    }
+    .pg-page:hover { background: var(--surface2); color: var(--text); }
+    .pg-page.active { background: var(--gold-bg); border-color: rgba(240,168,0,.3); color: var(--gold); font-weight: 700; }
+    .pg-page.ellipsis { cursor: default; color: var(--muted); }
+    .pg-size select {
+      background: var(--surface2); border: 1px solid var(--border2); color: var(--text2);
+      border-radius: 6px; padding: 5px 8px; font-size: 12px; font-family: inherit;
+      cursor: pointer; outline: none;
+    }
+    .pg-size select:hover { border-color: var(--gold); }
+    @media (max-width: 600px) {
+      #pagination-bar { padding: 8px 10px; gap: 8px; justify-content: center; }
+      .pg-info { width: 100%; text-align: center; }
+      .pg-size { width: 100%; display: flex; justify-content: center; }
+    }
+
     /* ── Mobile card overrides (live feed only) ── */
     @media (max-width: 600px) {
       #trades-table tbody tr:not(.skeleton-row) {
@@ -660,7 +700,24 @@
       </tbody>
     </table>
   </div>
-</div>
+
+  <!-- Pagination -->
+  <div id="pagination-bar" style="display:none">
+    <div class="pg-info" id="pg-info"></div>
+    <div class="pg-controls">
+      <button class="pg-btn" id="pg-prev">&#8592; Prev</button>
+      <span class="pg-pages" id="pg-pages"></span>
+      <button class="pg-btn" id="pg-next">Next &#8594;</button>
+    </div>
+    <div class="pg-size">
+      <select id="pg-size-select">
+        <option value="50">50 / page</option>
+        <option value="100" selected>100 / page</option>
+        <option value="250">250 / page</option>
+        <option value="500">500 / page</option>
+      </select>
+    </div>
+  </div>
 </div><!-- /#view-feed -->
 
 <!-- ================================================================== -->
@@ -1095,15 +1152,66 @@
     document.getElementById('m-stat-politicians').textContent = statPoliticians.textContent;
   }
 
+  /* ── Pagination state ── */
+  let currentPage  = 1;
+  let pageSize     = 100;
+  const pgBar      = document.getElementById('pagination-bar');
+  const pgInfo     = document.getElementById('pg-info');
+  const pgPages    = document.getElementById('pg-pages');
+  const pgPrev     = document.getElementById('pg-prev');
+  const pgNext     = document.getElementById('pg-next');
+  const pgSizeSel  = document.getElementById('pg-size-select');
+
+  function renderPagination(total) {
+    const totalPages = Math.max(1, Math.ceil(total / pageSize));
+    currentPage = Math.min(currentPage, totalPages);
+    const start = (currentPage - 1) * pageSize + 1;
+    const end   = Math.min(currentPage * pageSize, total);
+
+    pgBar.style.display = total === 0 ? 'none' : 'flex';
+    pgInfo.textContent  = total === 0 ? '' : `${start.toLocaleString()}–${end.toLocaleString()} of ${total.toLocaleString()}`;
+    pgPrev.disabled     = currentPage === 1;
+    pgNext.disabled     = currentPage === totalPages;
+
+    /* Page number buttons with ellipsis */
+    const pages = [];
+    const delta = 2;
+    for (let i = 1; i <= totalPages; i++) {
+      if (i === 1 || i === totalPages || (i >= currentPage - delta && i <= currentPage + delta)) {
+        pages.push(i);
+      } else if (pages[pages.length - 1] !== '…') {
+        pages.push('…');
+      }
+    }
+    pgPages.innerHTML = pages.map(p =>
+      p === '…'
+        ? `<span class="pg-page ellipsis">…</span>`
+        : `<span class="pg-page${p === currentPage ? ' active' : ''}" data-p="${p}">${p}</span>`
+    ).join('');
+    pgPages.querySelectorAll('.pg-page[data-p]').forEach(el => {
+      el.addEventListener('click', () => {
+        currentPage = +el.dataset.p;
+        renderTable();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+    });
+  }
+
   function renderTable() {
     const filtered = applyFilters(allTrades);
     const sorted   = sortTrades(filtered);
+    const page     = sorted.slice((currentPage - 1) * pageSize, currentPage * pageSize);
 
     noResultsEl.style.display = sorted.length === 0 ? 'flex' : 'none';
-    tableBodyEl.innerHTML = sorted.map(buildRow).join('');
+    tableBodyEl.innerHTML = page.map(buildRow).join('');
     updateStats(filtered, allTrades);
     updateSortArrows();
+    renderPagination(sorted.length);
   }
+
+  pgPrev.addEventListener('click', () => { currentPage--; renderTable(); window.scrollTo({ top: 0, behavior: 'smooth' }); });
+  pgNext.addEventListener('click', () => { currentPage++; renderTable(); window.scrollTo({ top: 0, behavior: 'smooth' }); });
+  pgSizeSel.addEventListener('change', () => { pageSize = +pgSizeSel.value; currentPage = 1; renderTable(); });
 
   /* -- Sort arrows -- */
   function updateSortArrows() {
@@ -1130,11 +1238,11 @@
         sortCol = th.dataset.col;
         sortDir = 'desc';
       }
-      renderTable();
+      currentPage = 1; renderTable();
     });
   });
 
-  searchInputEl.addEventListener('input', renderTable);
+  searchInputEl.addEventListener('input', () => { currentPage = 1; renderTable(); });
 
   document.getElementById('party-group').addEventListener('click', e => {
     const btn = e.target.closest('[data-party]');
@@ -1142,7 +1250,7 @@
     filterParty = btn.dataset.party;
     document.querySelectorAll('#party-group .btn-range').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
-    renderTable();
+    currentPage = 1; renderTable();
   });
 
   document.getElementById('chamber-group').addEventListener('click', e => {
@@ -1151,7 +1259,7 @@
     filterChamber = btn.dataset.chamber;
     document.querySelectorAll('#chamber-group .btn-range').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
-    renderTable();
+    currentPage = 1; renderTable();
   });
 
   document.getElementById('type-group').addEventListener('click', e => {
@@ -1160,7 +1268,7 @@
     filterTxType = btn.dataset.txtype;
     document.querySelectorAll('#type-group .btn-range').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
-    renderTable();
+    currentPage = 1; renderTable();
   });
 
   document.getElementById('date-range-group').addEventListener('click', e => {
@@ -1169,7 +1277,7 @@
     dateRange = btn.dataset.range;
     document.querySelectorAll('#date-range-group .btn-range').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
-    renderTable();
+    currentPage = 1; renderTable();
   });
 
   btnReset.addEventListener('click', () => {
@@ -1187,7 +1295,7 @@
     const dateGrp = document.getElementById('date-range-group');
     dateGrp.querySelectorAll('.btn-range').forEach(b => b.classList.remove('active'));
     dateGrp.querySelector('[data-range="30"]').classList.add('active');
-    renderTable();
+    currentPage = 1; renderTable();
   });
 
   /* -- Dedup trades by id -- */
