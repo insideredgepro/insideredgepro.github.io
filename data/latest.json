@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T20:39:47Z",
-  "trade_count": 6030,
+  "last_updated": "2026-04-20T21:38:55Z",
+  "trade_count": 6032,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -96480,6 +96480,38 @@
       "owned": "1618013",
       "delta_own": "0%",
       "value": "33880",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-20",
+      "filing_time": "17:08",
+      "trade_date": "2026-04-16",
+      "ticker": "OKTA",
+      "company": "Okta, Inc.",
+      "insider_name": "Schellhase David",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "72.04",
+      "qty": "3712",
+      "owned": "3712",
+      "delta_own": "New",
+      "value": "267408",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-20",
+      "filing_time": "17:04",
+      "trade_date": "2026-04-16",
+      "ticker": "BDCO",
+      "company": "Blue Dolphin Energy Co",
+      "insider_name": "Lazarus Energy Holdings, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "3.07",
+      "qty": "72500",
+      "owned": "8547500",
+      "delta_own": "+1%",
+      "value": "222675",
       "cluster_buy": false
     }
   ]

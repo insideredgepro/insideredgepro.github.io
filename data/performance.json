@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-20",
-  "entry_count": 1085,
+  "entry_count": 1087,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -27867,6 +27867,46 @@
       },
       "latest_price": 17.33,
       "return_pct": 2.3,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|OKTA|2026-04-16|schellhase david|72.04",
+      "market": "US",
+      "ticker": "OKTA",
+      "yf_symbol": "OKTA",
+      "company": "Okta, Inc.",
+      "insider_name": "Schellhase David",
+      "title": "Dir",
+      "trade_date": "2026-04-16",
+      "trade_price": 72.04,
+      "value": 267408.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 75.76
+      },
+      "latest_price": 75.76,
+      "return_pct": 5.16,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|BDCO|2026-04-16|lazarus energy holdings, llc|3.07",
+      "market": "US",
+      "ticker": "BDCO",
+      "yf_symbol": "BDCO",
+      "company": "Blue Dolphin Energy Co",
+      "insider_name": "Lazarus Energy Holdings, LLC",
+      "title": "10%",
+      "trade_date": "2026-04-16",
+      "trade_price": 3.07,
+      "value": 222675.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 3.34
+      },
+      "latest_price": 3.34,
+      "return_pct": 8.79,
       "last_snapshot": "2026-04-20"
     }
   ]
