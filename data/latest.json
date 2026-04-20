@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T15:11:00Z",
-  "trade_count": 6028,
+  "last_updated": "2026-04-20T16:56:07Z",
+  "trade_count": 6029,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -96448,6 +96448,22 @@
       "owned": "7053761",
       "delta_own": "+1%",
       "value": "101600",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-20",
+      "filing_time": "11:59",
+      "trade_date": "2026-04-17",
+      "ticker": "HOMB",
+      "company": "Home Bancshares Inc",
+      "insider_name": "Allison John W",
+      "title": "COB, CEO",
+      "trade_type": "P - Purchase",
+      "price": "26.96",
+      "qty": "100000",
+      "owned": "7197008",
+      "delta_own": "+1%",
+      "value": "2696210",
       "cluster_buy": false
     }
   ]
