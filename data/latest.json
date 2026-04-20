@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T21:38:55Z",
-  "trade_count": 6032,
+  "last_updated": "2026-04-20T22:35:31Z",
+  "trade_count": 6037,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -96513,6 +96513,86 @@
       "delta_own": "+1%",
       "value": "222675",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-20",
+      "filing_time": "18:10",
+      "trade_date": "2026-04-20",
+      "ticker": "KLRA",
+      "company": "Kailera Therapeutics, Inc.",
+      "insider_name": "Bain Capital Investors LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "16.00",
+      "qty": "8398438",
+      "owned": "26255581",
+      "delta_own": "+47%",
+      "value": "134375008",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-20",
+      "filing_time": "18:08",
+      "trade_date": "2026-04-20",
+      "ticker": "KLRA",
+      "company": "Kailera Therapeutics, Inc.",
+      "insider_name": "Koppel Adam",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "16.00",
+      "qty": "1562500",
+      "owned": "22583268",
+      "delta_own": "+7%",
+      "value": "25000000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-20",
+      "filing_time": "18:01",
+      "trade_date": "2026-04-20",
+      "ticker": "KLRA",
+      "company": "Kailera Therapeutics, Inc.",
+      "insider_name": "Bain Capital Life Sciences Investors, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "16.00",
+      "qty": "1562500",
+      "owned": "22583268",
+      "delta_own": "+7%",
+      "value": "25000000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-20",
+      "filing_time": "18:00",
+      "trade_date": "2026-04-20",
+      "ticker": "KLRA",
+      "company": "Kailera Therapeutics, Inc.",
+      "insider_name": "Kaplan Andrew T.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "16.00",
+      "qty": "8398438",
+      "owned": "26255581",
+      "delta_own": "+47%",
+      "value": "134375008",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-20",
+      "filing_time": "17:54",
+      "trade_date": "2026-04-17",
+      "ticker": "GLOO",
+      "company": "Gloo Holdings, Inc.",
+      "insider_name": "Beck Scott Arthur",
+      "title": "Pres, CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "7.97",
+      "qty": "6500",
+      "owned": "446386",
+      "delta_own": "+1%",
+      "value": "51833",
+      "cluster_buy": true
     }
   ]
 }

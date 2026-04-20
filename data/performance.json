@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-20",
-  "entry_count": 1087,
+  "entry_count": 1092,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -27907,6 +27907,106 @@
       },
       "latest_price": 3.34,
       "return_pct": 8.79,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|KLRA|2026-04-20|bain capital investors llc|16.0",
+      "market": "US",
+      "ticker": "KLRA",
+      "yf_symbol": "KLRA",
+      "company": "Kailera Therapeutics, Inc.",
+      "insider_name": "Bain Capital Investors LLC",
+      "title": "10%",
+      "trade_date": "2026-04-20",
+      "trade_price": 16.0,
+      "value": 134375008.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 24.61
+      },
+      "latest_price": 24.61,
+      "return_pct": 53.81,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|KLRA|2026-04-20|koppel adam|16.0",
+      "market": "US",
+      "ticker": "KLRA",
+      "yf_symbol": "KLRA",
+      "company": "Kailera Therapeutics, Inc.",
+      "insider_name": "Koppel Adam",
+      "title": "Dir, 10%",
+      "trade_date": "2026-04-20",
+      "trade_price": 16.0,
+      "value": 25000000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 24.61
+      },
+      "latest_price": 24.61,
+      "return_pct": 53.81,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|KLRA|2026-04-20|bain capital life sciences investors, llc|16.0",
+      "market": "US",
+      "ticker": "KLRA",
+      "yf_symbol": "KLRA",
+      "company": "Kailera Therapeutics, Inc.",
+      "insider_name": "Bain Capital Life Sciences Investors, LLC",
+      "title": "10%",
+      "trade_date": "2026-04-20",
+      "trade_price": 16.0,
+      "value": 25000000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 24.61
+      },
+      "latest_price": 24.61,
+      "return_pct": 53.81,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|KLRA|2026-04-20|kaplan andrew t.|16.0",
+      "market": "US",
+      "ticker": "KLRA",
+      "yf_symbol": "KLRA",
+      "company": "Kailera Therapeutics, Inc.",
+      "insider_name": "Kaplan Andrew T.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-04-20",
+      "trade_price": 16.0,
+      "value": 134375008.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 24.61
+      },
+      "latest_price": 24.61,
+      "return_pct": 53.81,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|GLOO|2026-04-17|beck scott arthur|7.97",
+      "market": "US",
+      "ticker": "GLOO",
+      "yf_symbol": "GLOO",
+      "company": "Gloo Holdings, Inc.",
+      "insider_name": "Beck Scott Arthur",
+      "title": "Pres, CEO, 10%",
+      "trade_date": "2026-04-17",
+      "trade_price": 7.97,
+      "value": 51833.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 8.0
+      },
+      "latest_price": 8.0,
+      "return_pct": 0.38,
       "last_snapshot": "2026-04-20"
     }
   ]
