@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T13:00:52Z",
-  "trade_count": 2853,
+  "last_updated": "2026-04-20T15:00:52Z",
+  "trade_count": 2854,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43197,6 +43197,22 @@
       "qty": "300000",
       "price": "0.1050",
       "value": "31500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4707146",
+      "trade_date": "2026-04-20",
+      "filing_date": "2026-04-20",
+      "company": "Goliath Resources Limited",
+      "ticker": "GNG",
+      "insider_name": "Rosmus, Roger",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "1.5700",
+      "value": "31400",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
