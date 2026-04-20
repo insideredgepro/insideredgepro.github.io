@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T19:56:20Z",
-  "trade_count": 6029,
+  "last_updated": "2026-04-20T20:39:47Z",
+  "trade_count": 6030,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -96464,6 +96464,22 @@
       "owned": "7197008",
       "delta_own": "+1%",
       "value": "2696210",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-20",
+      "filing_time": "16:15",
+      "trade_date": "2026-04-17",
+      "ticker": "XZO",
+      "company": "Exzeo Group, Inc.",
+      "insider_name": "Patel Paresh",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "16.94",
+      "qty": "2000",
+      "owned": "1618013",
+      "delta_own": "0%",
+      "value": "33880",
       "cluster_buy": false
     }
   ]
