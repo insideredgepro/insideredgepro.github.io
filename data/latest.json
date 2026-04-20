@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T22:35:31Z",
-  "trade_count": 6037,
+  "last_updated": "2026-04-20T23:35:27Z",
+  "trade_count": 6039,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -96593,6 +96593,38 @@
       "delta_own": "+1%",
       "value": "51833",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-20",
+      "filing_time": "19:24",
+      "trade_date": "2026-04-16",
+      "ticker": "IMDX",
+      "company": "Insight Molecular Diagnostics Inc.",
+      "insider_name": "Broadwood Partners, L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "3.57",
+      "qty": "182861",
+      "owned": "24229557",
+      "delta_own": "+1%",
+      "value": "652876",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-20",
+      "filing_time": "18:38",
+      "trade_date": "2026-04-17",
+      "ticker": "AXR",
+      "company": "Amrep Corp.",
+      "insider_name": "Dahl James H",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "27.41",
+      "qty": "2519",
+      "owned": "975998",
+      "delta_own": "0%",
+      "value": "69051",
+      "cluster_buy": false
     }
   ]
 }

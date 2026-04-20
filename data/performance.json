@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-20",
-  "entry_count": 1092,
+  "entry_count": 1094,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -28007,6 +28007,46 @@
       },
       "latest_price": 8.0,
       "return_pct": 0.38,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|IMDX|2026-04-16|broadwood partners, l.p.|3.57",
+      "market": "US",
+      "ticker": "IMDX",
+      "yf_symbol": "IMDX",
+      "company": "Insight Molecular Diagnostics Inc.",
+      "insider_name": "Broadwood Partners, L.P.",
+      "title": "10%",
+      "trade_date": "2026-04-16",
+      "trade_price": 3.57,
+      "value": 652876.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 3.99
+      },
+      "latest_price": 3.99,
+      "return_pct": 11.76,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|AXR|2026-04-17|dahl james h|27.41",
+      "market": "US",
+      "ticker": "AXR",
+      "yf_symbol": "AXR",
+      "company": "Amrep Corp.",
+      "insider_name": "Dahl James H",
+      "title": "10%",
+      "trade_date": "2026-04-17",
+      "trade_price": 27.41,
+      "value": 69051.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 27.27
+      },
+      "latest_price": 27.27,
+      "return_pct": -0.51,
       "last_snapshot": "2026-04-20"
     }
   ]
