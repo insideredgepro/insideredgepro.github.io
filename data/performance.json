@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-20",
-  "entry_count": 1078,
+  "entry_count": 1082,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -27723,6 +27723,86 @@
       },
       "latest_price": 8.22,
       "return_pct": 14.01,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|LOVE|2026-04-16|nelson shawn david|16.95",
+      "market": "US",
+      "ticker": "LOVE",
+      "yf_symbol": "LOVE",
+      "company": "The Lovesac Company",
+      "insider_name": "Nelson Shawn David",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-04-16",
+      "trade_price": 16.95,
+      "value": 25028.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 17.65
+      },
+      "latest_price": 17.65,
+      "return_pct": 4.13,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|SPRU|2026-04-15|steel partners holdings l.p.|4.09",
+      "market": "US",
+      "ticker": "SPRU",
+      "yf_symbol": "SPRU",
+      "company": "Spruce Power Holding Corp",
+      "insider_name": "Steel Partners Holdings L.P.",
+      "title": "10% Owner",
+      "trade_date": "2026-04-15",
+      "trade_price": 4.09,
+      "value": 42843.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 4.03
+      },
+      "latest_price": 4.03,
+      "return_pct": -1.47,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|CGCT|2026-04-15|cgc iii sponsor llc|10.32",
+      "market": "US",
+      "ticker": "CGCT",
+      "yf_symbol": "CGCT",
+      "company": "Cartesian Growth Corp III",
+      "insider_name": "Cgc Iii Sponsor Llc",
+      "title": "10% Owner",
+      "trade_date": "2026-04-15",
+      "trade_price": 10.32,
+      "value": 1032400.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 10.29
+      },
+      "latest_price": 10.29,
+      "return_pct": -0.29,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|ZSPC|2026-04-15|aqr capital management holding|0.07",
+      "market": "US",
+      "ticker": "ZSPC",
+      "yf_symbol": "ZSPC",
+      "company": "Zspace, Inc.",
+      "insider_name": "Aqr Capital Management Holding",
+      "title": "10% Owner",
+      "trade_date": "2026-04-15",
+      "trade_price": 0.07,
+      "value": 61111.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 0.0536
+      },
+      "latest_price": 0.0536,
+      "return_pct": -23.43,
       "last_snapshot": "2026-04-20"
     }
   ]

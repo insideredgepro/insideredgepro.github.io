@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T09:49:57Z",
-  "trade_count": 6023,
+  "last_updated": "2026-04-20T11:15:05Z",
+  "trade_count": 6027,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -96352,7 +96352,7 @@
       "owned": "4756327",
       "delta_own": "+22%",
       "value": "61111",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-17",
@@ -96369,6 +96369,70 @@
       "delta_own": "+22%",
       "value": "80730",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-20",
+      "filing_time": "06:59",
+      "trade_date": "2026-04-16",
+      "ticker": "LOVE",
+      "company": "The Lovesac Company",
+      "insider_name": "Nelson Shawn David",
+      "title": "Chief Executive Officer",
+      "trade_type": "P - Purchase",
+      "price": "16.95",
+      "qty": "1477",
+      "owned": "202681",
+      "delta_own": "+1%",
+      "value": "25028",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-17",
+      "filing_time": "17:18",
+      "trade_date": "2026-04-15",
+      "ticker": "SPRU",
+      "company": "Spruce Power Holding Corp",
+      "insider_name": "Steel Partners Holdings L.P.",
+      "title": "10% Owner",
+      "trade_type": "P - Purchase",
+      "price": "4.09",
+      "qty": "10463",
+      "owned": "3401264",
+      "delta_own": "+0%",
+      "value": "42843",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-17",
+      "filing_time": "17:00",
+      "trade_date": "2026-04-15",
+      "ticker": "CGCT",
+      "company": "Cartesian Growth Corp III",
+      "insider_name": "Cgc Iii Sponsor Llc",
+      "title": "10% Owner",
+      "trade_type": "P - Purchase",
+      "price": "10.32",
+      "qty": "100000",
+      "owned": "1371000",
+      "delta_own": "+8%",
+      "value": "1032400",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-17",
+      "filing_time": "16:43",
+      "trade_date": "2026-04-15",
+      "ticker": "ZSPC",
+      "company": "Zspace, Inc.",
+      "insider_name": "Aqr Capital Management Holding",
+      "title": "10% Owner",
+      "trade_type": "P - Purchase",
+      "price": "0.07",
+      "qty": "860716",
+      "owned": "4756444",
+      "delta_own": "+22%",
+      "value": "61111",
+      "cluster_buy": true
     }
   ]
 }
