@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T19:00:21Z",
-  "trade_count": 2856,
+  "last_updated": "2026-04-20T21:00:20Z",
+  "trade_count": 2857,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43248,6 +43248,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4707535",
+      "trade_date": "2026-04-20",
+      "filing_date": "2026-04-20",
+      "company": "Avicanna Inc.",
+      "ticker": "AVCN",
+      "insider_name": "Michael Kott",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "217000",
+      "price": "0.1450",
+      "value": "31464",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
