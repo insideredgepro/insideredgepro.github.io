@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T15:00:52Z",
-  "trade_count": 2854,
+  "last_updated": "2026-04-20T17:00:17Z",
+  "trade_count": 2856,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -42943,7 +42943,7 @@
       "value": "32000",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4705511",
@@ -42959,7 +42959,7 @@
       "value": "32000",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4705597",
@@ -43216,6 +43216,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4707177",
+      "trade_date": "2026-04-20",
+      "filing_date": "2026-04-20",
+      "company": "Pacifica Silver Corp.",
+      "ticker": "PSIL.CN",
+      "insider_name": "Berdegue, Fernando Jose",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "1.1800",
+      "value": "23600",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4707192",
+      "trade_date": "2026-04-20",
+      "filing_date": "2026-04-20",
+      "company": "Tourmaline Oil Corp.",
+      "ticker": "TOU",
+      "insider_name": "Rose, Mike",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "60.2936",
+      "value": "301468",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
