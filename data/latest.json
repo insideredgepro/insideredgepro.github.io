@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-21T18:59:22Z",
-  "trade_count": 6052,
+  "last_updated": "2026-04-21T20:04:21Z",
+  "trade_count": 6054,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -96832,6 +96832,38 @@
       "owned": "1433872",
       "delta_own": "+1%",
       "value": "50240",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-21",
+      "filing_time": "15:42",
+      "trade_date": "2026-04-21",
+      "ticker": "BMI",
+      "company": "Badger Meter Inc",
+      "insider_name": "Bockhorst Kenneth",
+      "title": "COB, Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "117.53",
+      "qty": "2200",
+      "owned": "51676",
+      "delta_own": "+4%",
+      "value": "258573",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-21",
+      "filing_time": "15:41",
+      "trade_date": "2026-04-17",
+      "ticker": "ONCO",
+      "company": "Onconetix, Inc.",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "0.73",
+      "qty": "34636",
+      "owned": "83359",
+      "delta_own": "+71%",
+      "value": "25284",
       "cluster_buy": true
     }
   ]
