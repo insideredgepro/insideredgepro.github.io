@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-21T21:37:30Z",
-  "trade_count": 6056,
+  "last_updated": "2026-04-21T22:32:07Z",
+  "trade_count": 6057,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -96896,6 +96896,22 @@
       "owned": "13000",
       "delta_own": "New",
       "value": "260000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-21",
+      "filing_time": "17:36",
+      "trade_date": "2026-04-17",
+      "ticker": "CRT",
+      "company": "Cross Timbers Royalty Trust",
+      "insider_name": "Oliver Eric L",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "10.43",
+      "qty": "32893",
+      "owned": "791105",
+      "delta_own": "+4%",
+      "value": "343161",
       "cluster_buy": true
     }
   ]

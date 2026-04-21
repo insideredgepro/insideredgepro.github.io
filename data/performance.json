@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-21",
-  "entry_count": 1092,
+  "entry_count": 1093,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -16176,8 +16176,8 @@
         "2026-04-20": 12.45,
         "2026-04-21": 12.12
       },
-      "latest_price": 12.12,
-      "return_pct": -24.25,
+      "latest_price": 12.67,
+      "return_pct": -20.81,
       "last_snapshot": "2026-04-21"
     },
     {
@@ -18768,8 +18768,8 @@
         "2026-04-20": 12.45,
         "2026-04-21": 12.12
       },
-      "latest_price": 12.12,
-      "return_pct": 1.0,
+      "latest_price": 12.67,
+      "return_pct": 5.58,
       "last_snapshot": "2026-04-21"
     },
     {
@@ -29071,6 +29071,26 @@
       },
       "latest_price": 35.99,
       "return_pct": 79.95,
+      "last_snapshot": "2026-04-21"
+    },
+    {
+      "id": "US|CRT|2026-04-17|oliver eric l|10.43",
+      "market": "US",
+      "ticker": "CRT",
+      "yf_symbol": "CRT",
+      "company": "Cross Timbers Royalty Trust",
+      "insider_name": "Oliver Eric L",
+      "title": "10%",
+      "trade_date": "2026-04-17",
+      "trade_price": 10.43,
+      "value": 343161.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-21": 10.59
+      },
+      "latest_price": 10.59,
+      "return_pct": 1.53,
       "last_snapshot": "2026-04-21"
     }
   ]
