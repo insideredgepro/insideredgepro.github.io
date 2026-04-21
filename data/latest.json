@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-21T20:04:21Z",
-  "trade_count": 6054,
+  "last_updated": "2026-04-21T21:37:30Z",
+  "trade_count": 6056,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -96864,6 +96864,38 @@
       "owned": "83359",
       "delta_own": "+71%",
       "value": "25284",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-21",
+      "filing_time": "16:30",
+      "trade_date": "2026-04-13",
+      "ticker": "MTEN",
+      "company": "Mingteng International Corp Inc.",
+      "insider_name": "Xu Yingkai",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.25",
+      "qty": "1520000",
+      "owned": "1520000",
+      "delta_own": "New",
+      "value": "380000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-21",
+      "filing_time": "16:15",
+      "trade_date": "2026-04-16",
+      "ticker": "AVEX",
+      "company": "Aevex Corp.",
+      "insider_name": "Booth Todd",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "20.00",
+      "qty": "13000",
+      "owned": "13000",
+      "delta_own": "New",
+      "value": "260000",
       "cluster_buy": true
     }
   ]
