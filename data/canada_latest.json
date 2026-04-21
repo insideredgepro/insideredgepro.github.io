@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-21T21:00:21Z",
-  "trade_count": 2862,
+  "last_updated": "2026-04-21T23:00:20Z",
+  "trade_count": 2864,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43344,6 +43344,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4708181",
+      "trade_date": "2026-04-21",
+      "filing_date": "2026-04-21",
+      "company": "Osisko Metals Incorporated",
+      "ticker": "OM",
+      "insider_name": "Zaritsky, Blair David",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "38500",
+      "price": "1.4800",
+      "value": "56980",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4708178",
+      "trade_date": "2026-04-21",
+      "filing_date": "2026-04-21",
+      "company": "TNR Gold Corp.",
+      "ticker": "TNR",
+      "insider_name": "Evensen, Jon Christian",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "743500",
+      "price": "0.2530",
+      "value": "188105",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
