@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-21T19:00:20Z",
-  "trade_count": 2857,
+  "last_updated": "2026-04-21T21:00:21Z",
+  "trade_count": 2862,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43007,7 +43007,7 @@
       "value": "47500",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4705836",
@@ -43264,6 +43264,86 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4708131",
+      "trade_date": "2026-04-21",
+      "filing_date": "2026-04-21",
+      "company": "Osisko Metals Incorporated",
+      "ticker": "OM",
+      "insider_name": "Mance, Lili",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "1.5100",
+      "value": "30200",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4708128",
+      "trade_date": "2026-04-21",
+      "filing_date": "2026-04-21",
+      "company": "Osisko Metals Incorporated",
+      "ticker": "OM",
+      "insider_name": "Mance, Lili",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "100000",
+      "price": "1.5100",
+      "value": "151000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4708130",
+      "trade_date": "2026-04-21",
+      "filing_date": "2026-04-21",
+      "company": "Osisko Metals Incorporated",
+      "ticker": "OM",
+      "insider_name": "Mance, Lili",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "33333",
+      "price": "1.5000",
+      "value": "49999",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4708126",
+      "trade_date": "2026-04-21",
+      "filing_date": "2026-04-21",
+      "company": "Osisko Metals Incorporated",
+      "ticker": "OM",
+      "insider_name": "Zaritsky, Blair David",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "18300",
+      "price": "1.5000",
+      "value": "27450",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4708153",
+      "trade_date": "2026-04-21",
+      "filing_date": "2026-04-21",
+      "company": "SITKA GOLD CORP.",
+      "ticker": "SIG",
+      "insider_name": "Coe, Corwin",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "25000",
+      "price": "0.9000",
+      "value": "22500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
