@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-20",
-  "entry_count": 1094,
+  "entry_count": 1106,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -27683,8 +27683,8 @@
         "2026-04-19": 0.31,
         "2026-04-20": 0.31
       },
-      "latest_price": 0.31,
-      "return_pct": 6.9,
+      "latest_price": 0.37,
+      "return_pct": 27.59,
       "last_snapshot": "2026-04-20"
     },
     {
@@ -28047,6 +28047,246 @@
       },
       "latest_price": 27.27,
       "return_pct": -0.51,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|ARXS|2026-04-17|jankowski ryan anthony|28.0",
+      "market": "US",
+      "ticker": "ARXS",
+      "yf_symbol": "ARXS",
+      "company": "Arxis, Inc.",
+      "insider_name": "Jankowski Ryan Anthony",
+      "title": "Chief Accounting Officer",
+      "trade_date": "2026-04-17",
+      "trade_price": 28.0,
+      "value": 124992.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 37.65
+      },
+      "latest_price": 37.65,
+      "return_pct": 34.46,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|ARXS|2026-04-17|badakhsh azad sid|28.0",
+      "market": "US",
+      "ticker": "ARXS",
+      "yf_symbol": "ARXS",
+      "company": "Arxis, Inc.",
+      "insider_name": "Badakhsh Azad Sid",
+      "title": "See Remarks",
+      "trade_date": "2026-04-17",
+      "trade_price": 28.0,
+      "value": 1008000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 37.65
+      },
+      "latest_price": 37.65,
+      "return_pct": 34.46,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|ARXS|2026-04-17|sealfon ross bradley|28.0",
+      "market": "US",
+      "ticker": "ARXS",
+      "yf_symbol": "ARXS",
+      "company": "Arxis, Inc.",
+      "insider_name": "Sealfon Ross Bradley",
+      "title": "See Remarks",
+      "trade_date": "2026-04-17",
+      "trade_price": 28.0,
+      "value": 350000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 37.65
+      },
+      "latest_price": 37.65,
+      "return_pct": 34.46,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|ARXS|2026-04-17|oetgen stephen duane|28.0",
+      "market": "US",
+      "ticker": "ARXS",
+      "yf_symbol": "ARXS",
+      "company": "Arxis, Inc.",
+      "insider_name": "Oetgen Stephen Duane",
+      "title": "Dir",
+      "trade_date": "2026-04-17",
+      "trade_price": 28.0,
+      "value": 700000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 37.65
+      },
+      "latest_price": 37.65,
+      "return_pct": 34.46,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|AVEX|2026-04-16|raduenz brian|20.0",
+      "market": "US",
+      "ticker": "AVEX",
+      "yf_symbol": "AVEX",
+      "company": "Aevex Corp.",
+      "insider_name": "Raduenz Brian",
+      "title": "Dir",
+      "trade_date": "2026-04-16",
+      "trade_price": 20.0,
+      "value": 1000000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 33.41
+      },
+      "latest_price": 33.41,
+      "return_pct": 67.05,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|ARXS|2026-04-17|allen patrick e|28.0",
+      "market": "US",
+      "ticker": "ARXS",
+      "yf_symbol": "ARXS",
+      "company": "Arxis, Inc.",
+      "insider_name": "Allen Patrick E",
+      "title": "Dir",
+      "trade_date": "2026-04-17",
+      "trade_price": 28.0,
+      "value": 280000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 37.65
+      },
+      "latest_price": 37.65,
+      "return_pct": 34.46,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|ARXS|2026-04-17|perhamus kevin scott|28.0",
+      "market": "US",
+      "ticker": "ARXS",
+      "yf_symbol": "ARXS",
+      "company": "Arxis, Inc.",
+      "insider_name": "Perhamus Kevin Scott",
+      "title": "See Remarks",
+      "trade_date": "2026-04-17",
+      "trade_price": 28.0,
+      "value": 1500800.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 37.65
+      },
+      "latest_price": 37.65,
+      "return_pct": 34.46,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|AVEX|2026-04-16|hush brett p|20.0",
+      "market": "US",
+      "ticker": "AVEX",
+      "yf_symbol": "AVEX",
+      "company": "Aevex Corp.",
+      "insider_name": "Hush Brett P",
+      "title": "See Remarks",
+      "trade_date": "2026-04-16",
+      "trade_price": 20.0,
+      "value": 200000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 33.41
+      },
+      "latest_price": 33.41,
+      "return_pct": 67.05,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|ARXS|2026-04-17|roth jason aaron|28.0",
+      "market": "US",
+      "ticker": "ARXS",
+      "yf_symbol": "ARXS",
+      "company": "Arxis, Inc.",
+      "insider_name": "Roth Jason Aaron",
+      "title": "See Remarks",
+      "trade_date": "2026-04-17",
+      "trade_price": 28.0,
+      "value": 1680000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 37.65
+      },
+      "latest_price": 37.65,
+      "return_pct": 34.46,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|ALMR|2026-04-20|illumina innovation fund ii gp, l.l.c.|17.0",
+      "market": "US",
+      "ticker": "ALMR",
+      "yf_symbol": "ALMR",
+      "company": "Alamar Biosciences, Inc.",
+      "insider_name": "Illumina Innovation Fund II Gp, L.L.C.",
+      "title": "10%",
+      "trade_date": "2026-04-20",
+      "trade_price": 17.0,
+      "value": 3999998.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 22.0
+      },
+      "latest_price": 22.0,
+      "return_pct": 29.41,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|ALMR|2026-04-20|naclerio nicholas|17.0",
+      "market": "US",
+      "ticker": "ALMR",
+      "yf_symbol": "ALMR",
+      "company": "Alamar Biosciences, Inc.",
+      "insider_name": "Naclerio Nicholas",
+      "title": "Dir",
+      "trade_date": "2026-04-20",
+      "trade_price": 17.0,
+      "value": 3999998.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 22.0
+      },
+      "latest_price": 22.0,
+      "return_pct": 29.41,
+      "last_snapshot": "2026-04-20"
+    },
+    {
+      "id": "US|THM|2026-04-16|paulson & co. inc.|2.56",
+      "market": "US",
+      "ticker": "THM",
+      "yf_symbol": "THM",
+      "company": "International Tower Hill Mines Ltd",
+      "insider_name": "Paulson & Co. Inc.",
+      "title": "10%",
+      "trade_date": "2026-04-16",
+      "trade_price": 2.56,
+      "value": 12578982.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-20": 2.58
+      },
+      "latest_price": 2.58,
+      "return_pct": 0.78,
       "last_snapshot": "2026-04-20"
     }
   ]
