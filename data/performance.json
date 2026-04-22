@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-22",
-  "entry_count": 1068,
+  "entry_count": 1069,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -29570,6 +29570,26 @@
       },
       "latest_price": 23.21,
       "return_pct": -6.52,
+      "last_snapshot": "2026-04-22"
+    },
+    {
+      "id": "US|SPRU|2026-04-20|steel partners holdings l.p.|4.13",
+      "market": "US",
+      "ticker": "SPRU",
+      "yf_symbol": "SPRU",
+      "company": "Spruce Power Holding Corp",
+      "insider_name": "Steel Partners Holdings L.P.",
+      "title": "10%",
+      "trade_date": "2026-04-20",
+      "trade_price": 4.13,
+      "value": 100416.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-22": 4.09
+      },
+      "latest_price": 4.09,
+      "return_pct": -0.97,
       "last_snapshot": "2026-04-22"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T20:43:34Z",
-  "trade_count": 6069,
+  "last_updated": "2026-04-22T21:43:00Z",
+  "trade_count": 6072,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -97105,6 +97105,54 @@
       "delta_own": "+1%",
       "value": "9557599",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-22",
+      "filing_time": "16:57",
+      "trade_date": "2026-04-13",
+      "ticker": "NKE",
+      "company": "Nike, Inc.",
+      "insider_name": "Hill Elliott",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "42.27",
+      "qty": "23660",
+      "owned": "265247",
+      "delta_own": "+10%",
+      "value": "1000118",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-22",
+      "filing_time": "16:53",
+      "trade_date": "2025-12-31",
+      "ticker": "BURU",
+      "company": "Nuburu, Inc.",
+      "insider_name": "Zamboni Alessandro",
+      "title": "Co-CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.35",
+      "qty": "4332525",
+      "owned": "4688036",
+      "delta_own": ">999%",
+      "value": "1496021",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-22",
+      "filing_time": "16:47",
+      "trade_date": "2026-04-20",
+      "ticker": "SPRU",
+      "company": "Spruce Power Holding Corp",
+      "insider_name": "Steel Partners Holdings L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "4.13",
+      "qty": "24335",
+      "owned": "3429380",
+      "delta_own": "+1%",
+      "value": "100416",
+      "cluster_buy": true
     }
   ]
 }
