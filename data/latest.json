@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T15:05:16Z",
-  "trade_count": 6060,
+  "last_updated": "2026-04-22T16:50:49Z",
+  "trade_count": 6063,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -96848,7 +96848,7 @@
       "owned": "51676",
       "delta_own": "+4%",
       "value": "258573",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-21",
@@ -96961,6 +96961,54 @@
       "delta_own": "+2%",
       "value": "309000",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-22",
+      "filing_time": "11:30",
+      "trade_date": "2026-04-21",
+      "ticker": "BMI",
+      "company": "Badger Meter Inc",
+      "insider_name": "Htwe Richard",
+      "title": "VP-Global Operations",
+      "trade_type": "P - Purchase",
+      "price": "116.13",
+      "qty": "1700",
+      "owned": "7603",
+      "delta_own": "+29%",
+      "value": "197421",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-22",
+      "filing_time": "11:30",
+      "trade_date": "2026-04-21",
+      "ticker": "BMI",
+      "company": "Badger Meter Inc",
+      "insider_name": "Callahan Edward F.",
+      "title": "VP-Engineering",
+      "trade_type": "P - Purchase",
+      "price": "116.30",
+      "qty": "858",
+      "owned": "1186",
+      "delta_own": "+262%",
+      "value": "99785",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-22",
+      "filing_time": "11:30",
+      "trade_date": "2026-04-21",
+      "ticker": "BMI",
+      "company": "Badger Meter Inc",
+      "insider_name": "Tarantino Christina M.",
+      "title": "VP-Controller",
+      "trade_type": "P - Purchase",
+      "price": "113.80",
+      "qty": "870",
+      "owned": "1801",
+      "delta_own": "+93%",
+      "value": "99006",
+      "cluster_buy": true
     }
   ]
 }
