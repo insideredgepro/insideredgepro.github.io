@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-21",
-  "entry_count": 1093,
+  "entry_count": 1094,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -28359,8 +28359,8 @@
         "2026-04-20": 0.31,
         "2026-04-21": 0.37
       },
-      "latest_price": 0.37,
-      "return_pct": 27.59,
+      "latest_price": 0.335,
+      "return_pct": 15.52,
       "last_snapshot": "2026-04-21"
     },
     {
@@ -29091,6 +29091,26 @@
       },
       "latest_price": 10.59,
       "return_pct": 1.53,
+      "last_snapshot": "2026-04-21"
+    },
+    {
+      "id": "US|NMM|2026-04-17|frangou angeliki|69.97",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-04-17",
+      "trade_price": 69.97,
+      "value": 250575.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-21": 68.6
+      },
+      "latest_price": 68.6,
+      "return_pct": -1.96,
       "last_snapshot": "2026-04-21"
     }
   ]
