@@ -6042,7 +6042,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-20,18:00,2026-04-20,KLRA,"Kailera Therapeutics, Inc.",Kaplan Andrew T.,"Dir, 10%",P - Purchase,16.00,8398438,26255581,+47%,134375008,True
 2026-04-20,17:54,2026-04-17,GLOO,"Gloo Holdings, Inc.",Beck Scott Arthur,"Pres, CEO, 10%",P - Purchase,7.97,6500,446386,+1%,51833,True
 2026-04-20,19:24,2026-04-16,IMDX,Insight Molecular Diagnostics Inc.,"Broadwood Partners, L.P.",10%,P - Purchase,3.57,182861,24229557,+1%,652876,False
-2026-04-20,18:38,2026-04-17,AXR,Amrep Corp.,Dahl James H,10%,P - Purchase,27.41,2519,975998,0%,69051,False
+2026-04-20,18:38,2026-04-17,AXR,Amrep Corp.,Dahl James H,10%,P - Purchase,27.41,2519,975998,0%,69051,True
 2026-04-20,21:15,2026-04-17,ARXS,"Arxis, Inc.",Jankowski Ryan Anthony,Chief Accounting Officer,P - Purchase,28.00,4464,51331,+10%,124992,True
 2026-04-20,21:12,2026-04-17,ARXS,"Arxis, Inc.",Badakhsh Azad Sid,See Remarks,P - Purchase,28.00,36000,403864,+10%,1008000,True
 2026-04-20,21:08,2026-04-17,ARXS,"Arxis, Inc.",Sealfon Ross Bradley,See Remarks,P - Purchase,28.00,12500,1102807,+1%,350000,True
@@ -6068,3 +6068,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-22,11:30,2026-04-21,BMI,Badger Meter Inc,Callahan Edward F.,VP-Engineering,P - Purchase,116.30,858,1186,+262%,99785,True
 2026-04-22,11:30,2026-04-21,BMI,Badger Meter Inc,Tarantino Christina M.,VP-Controller,P - Purchase,113.80,870,1801,+93%,99006,True
 2026-04-22,13:50,2026-04-10,HTO,H2O America,Gip Atlas Holdings Ltd,10%,P - Purchase,59.06,50385,4582469,+1%,2975919,True
+2026-04-22,16:33,2026-04-20,AUB,Atlantic Union Bankshares Corp,Agee Nancy H,Dir,P - Purchase,39.05,650,37797,+2%,25383,False
+2026-04-22,16:30,2026-04-21,AXR,Amrep Corp.,McNaney Timothy S,Dir,P - Purchase,28.17,1765,1765,New,49720,True
+2026-04-22,16:15,2026-04-20,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,17.38,4000,1622013,0%,69520,False
+2026-04-22,16:15,2026-04-20,KLRA,"Kailera Therapeutics, Inc.","Rtw Investments, LP",10%,P - Purchase,16.00,500000,10776820,+5%,8000000,True
+2026-04-22,16:03,2026-04-13,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,24.83,384960,75085760,+1%,9557599,False
