@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T15:00:19Z",
-  "trade_count": 2865,
+  "last_updated": "2026-04-22T17:00:21Z",
+  "trade_count": 2867,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43389,6 +43389,38 @@
       "qty": "25000",
       "price": "1.2400",
       "value": "31000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4708376",
+      "trade_date": "2026-04-22",
+      "filing_date": "2026-04-22",
+      "company": "PrairieSky Royalty Ltd.",
+      "ticker": "PSK",
+      "insider_name": "Phillips, Andrew",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "3600",
+      "price": "31.9661",
+      "value": "115077",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4708379",
+      "trade_date": "2026-04-22",
+      "filing_date": "2026-04-22",
+      "company": "PrairieSky Royalty Ltd.",
+      "ticker": "PSK",
+      "insider_name": "Phillips, Andrew",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "31.8951",
+      "value": "318951",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
