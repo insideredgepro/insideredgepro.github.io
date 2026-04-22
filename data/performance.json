@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-22",
-  "entry_count": 1057,
+  "entry_count": 1058,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -29350,6 +29350,26 @@
       },
       "latest_price": 68.6,
       "return_pct": -1.96,
+      "last_snapshot": "2026-04-22"
+    },
+    {
+      "id": "US|STCB|2026-04-15|sklar ross jeffery|0.03",
+      "market": "US",
+      "ticker": "STCB",
+      "yf_symbol": "STCB",
+      "company": "Starco Brands, Inc.",
+      "insider_name": "Sklar Ross Jeffery",
+      "title": "CEO, 10%",
+      "trade_date": "2026-04-15",
+      "trade_price": 0.03,
+      "value": 45657.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-22": 0.049
+      },
+      "latest_price": 0.049,
+      "return_pct": 63.33,
       "last_snapshot": "2026-04-22"
     }
   ]
