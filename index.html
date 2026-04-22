@@ -624,7 +624,8 @@
     let cutoff = null;
     if (dateRange !== 'all') {
       const d = new Date();
-      d.setDate(d.getDate() - parseInt(dateRange, 10));
+      // 1D = today only; Nd = last N days (inclusive of cutoff date)
+      if (dateRange !== '1') d.setDate(d.getDate() - parseInt(dateRange, 10));
       cutoff = toLocalDateStr(d);
     }
     return trades.filter(t => {
