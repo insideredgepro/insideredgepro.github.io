@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T16:50:49Z",
-  "trade_count": 6063,
+  "last_updated": "2026-04-22T17:53:30Z",
+  "trade_count": 6064,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -97008,6 +97008,22 @@
       "owned": "1801",
       "delta_own": "+93%",
       "value": "99006",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-22",
+      "filing_time": "13:50",
+      "trade_date": "2026-04-10",
+      "ticker": "HTO",
+      "company": "H2O America",
+      "insider_name": "Gip Atlas Holdings Ltd",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "59.06",
+      "qty": "50385",
+      "owned": "4582469",
+      "delta_own": "+1%",
+      "value": "2975919",
       "cluster_buy": true
     }
   ]
