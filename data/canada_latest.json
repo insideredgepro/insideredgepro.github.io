@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T17:00:21Z",
-  "trade_count": 2867,
+  "last_updated": "2026-04-22T19:00:27Z",
+  "trade_count": 2868,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43421,6 +43421,22 @@
       "qty": "10000",
       "price": "31.8951",
       "value": "318951",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4708440",
+      "trade_date": "2026-04-22",
+      "filing_date": "2026-04-22",
+      "company": "Borealis Mining Company Limited (formerly, 1329300 B.C. Ltd.)",
+      "ticker": "BOGO",
+      "insider_name": "Malcolm, Kelly James",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "15000",
+      "price": "1.2070",
+      "value": "18105",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
