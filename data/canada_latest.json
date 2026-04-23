@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T19:00:18Z",
-  "trade_count": 2870,
+  "last_updated": "2026-04-23T21:00:19Z",
+  "trade_count": 2874,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43472,6 +43472,70 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4708842",
+      "trade_date": "2026-04-23",
+      "filing_date": "2026-04-23",
+      "company": "Cerro de Pasco Resources Inc",
+      "ticker": "CDPR",
+      "insider_name": "2176423 Ontario Ltd.",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "4014839",
+      "price": "0.7200",
+      "value": "2890684",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4708836",
+      "trade_date": "2026-04-23",
+      "filing_date": "2026-04-23",
+      "company": "Cerro de Pasco Resources Inc",
+      "ticker": "CDPR",
+      "insider_name": "Sprott, Eric",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "4014839",
+      "price": "0.7200",
+      "value": "2890684",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4708859",
+      "trade_date": "2026-04-23",
+      "filing_date": "2026-04-23",
+      "company": "Max Power Mining Corp.",
+      "ticker": "MAXX.CN",
+      "insider_name": "2176423 Ontario Ltd.",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "2000000",
+      "price": "1.3899",
+      "value": "2779800",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4708857",
+      "trade_date": "2026-04-23",
+      "filing_date": "2026-04-23",
+      "company": "Max Power Mining Corp.",
+      "ticker": "MAXX.CN",
+      "insider_name": "Sprott, Eric",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "2000000",
+      "price": "1.3899",
+      "value": "2779800",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
