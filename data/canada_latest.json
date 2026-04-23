@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T15:00:19Z",
-  "trade_count": 2869,
+  "last_updated": "2026-04-23T19:00:18Z",
+  "trade_count": 2870,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43453,6 +43453,22 @@
       "qty": "1095000",
       "price": "0.0500",
       "value": "54750",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4708776",
+      "trade_date": "2026-04-23",
+      "filing_date": "2026-04-23",
+      "company": "Snowline Gold Corp.",
+      "ticker": "SGD",
+      "insider_name": "Vdovin, Victor",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "14.9200",
+      "value": "746000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
