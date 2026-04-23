@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T18:56:59Z",
-  "trade_count": 6072,
+  "last_updated": "2026-04-23T20:03:54Z",
+  "trade_count": 6073,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -97153,6 +97153,22 @@
       "delta_own": "+1%",
       "value": "100416",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-23",
+      "filing_time": "15:30",
+      "trade_date": "2026-04-23",
+      "ticker": "TNL",
+      "company": "Travel & Leisure Co.",
+      "insider_name": "Hoag Erik D",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "65.67",
+      "qty": "1000",
+      "owned": "111336",
+      "delta_own": "+1%",
+      "value": "65670",
+      "cluster_buy": false
     }
   ]
 }
