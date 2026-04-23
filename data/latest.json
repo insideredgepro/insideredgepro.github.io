@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T22:36:26Z",
-  "trade_count": 6078,
+  "last_updated": "2026-04-23T23:37:51Z",
+  "trade_count": 6080,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -97248,6 +97248,38 @@
       "owned": "23321",
       "delta_own": "+4%",
       "value": "122350",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-23",
+      "filing_time": "18:50",
+      "trade_date": "2026-04-21",
+      "ticker": "PRLD",
+      "company": "Prelude Therapeutics Inc",
+      "insider_name": "Bonita David P",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "4.44",
+      "qty": "2815315",
+      "owned": "1652426",
+      "delta_own": "-242%",
+      "value": "12499999",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-23",
+      "filing_time": "18:48",
+      "trade_date": "2026-04-21",
+      "ticker": "PRLD",
+      "company": "Prelude Therapeutics Inc",
+      "insider_name": "Orbimed Advisors LLC",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "4.44",
+      "qty": "2815315",
+      "owned": "1652426",
+      "delta_own": "-242%",
+      "value": "12499999",
       "cluster_buy": true
     }
   ]

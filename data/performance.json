@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-23",
-  "entry_count": 1075,
+  "entry_count": 1077,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -30775,6 +30775,46 @@
       },
       "latest_price": 123.0,
       "return_pct": 0.53,
+      "last_snapshot": "2026-04-23"
+    },
+    {
+      "id": "US|PRLD|2026-04-21|bonita david p|4.44",
+      "market": "US",
+      "ticker": "PRLD",
+      "yf_symbol": "PRLD",
+      "company": "Prelude Therapeutics Inc",
+      "insider_name": "Bonita David P",
+      "title": "Dir, 10%",
+      "trade_date": "2026-04-21",
+      "trade_price": 4.44,
+      "value": 12499999.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-23": 4.4
+      },
+      "latest_price": 4.4,
+      "return_pct": -0.9,
+      "last_snapshot": "2026-04-23"
+    },
+    {
+      "id": "US|PRLD|2026-04-21|orbimed advisors llc|4.44",
+      "market": "US",
+      "ticker": "PRLD",
+      "yf_symbol": "PRLD",
+      "company": "Prelude Therapeutics Inc",
+      "insider_name": "Orbimed Advisors LLC",
+      "title": "Dir, 10%",
+      "trade_date": "2026-04-21",
+      "trade_price": 4.44,
+      "value": 12499999.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-23": 4.4
+      },
+      "latest_price": 4.4,
+      "return_pct": -0.9,
       "last_snapshot": "2026-04-23"
     }
   ]
