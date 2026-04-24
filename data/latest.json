@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T21:40:15Z",
-  "trade_count": 6094,
+  "last_updated": "2026-04-24T22:33:06Z",
+  "trade_count": 6095,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -97504,6 +97504,22 @@
       "owned": "28558",
       "delta_own": "+39%",
       "value": "399998",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-24",
+      "filing_time": "18:16",
+      "trade_date": "2026-04-17",
+      "ticker": "ZIVO",
+      "company": "Zivo Bioscience, Inc.",
+      "insider_name": "Strome Mark E",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.00",
+      "qty": "100000",
+      "owned": "572942",
+      "delta_own": "+21%",
+      "value": "200000",
       "cluster_buy": false
     }
   ]
