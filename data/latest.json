@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T20:37:33Z",
-  "trade_count": 6092,
+  "last_updated": "2026-04-24T21:40:15Z",
+  "trade_count": 6094,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -97473,6 +97473,38 @@
       "delta_own": "+25%",
       "value": "46000",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-24",
+      "filing_time": "17:22",
+      "trade_date": "2025-09-19",
+      "ticker": "GAME",
+      "company": "Gamesquare Holdings, Inc.",
+      "insider_name": "Gorman Jeremi",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.76",
+      "qty": "65897",
+      "owned": "165897",
+      "delta_own": "+66%",
+      "value": "50082",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-24",
+      "filing_time": "16:54",
+      "trade_date": "2026-04-24",
+      "ticker": "SON",
+      "company": "Sonoco Products Co",
+      "insider_name": "Joachimczyk Paul",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "49.64",
+      "qty": "8058",
+      "owned": "28558",
+      "delta_own": "+39%",
+      "value": "399998",
+      "cluster_buy": false
     }
   ]
 }

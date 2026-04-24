@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-24",
-  "entry_count": 1087,
+  "entry_count": 1088,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -32090,6 +32090,26 @@
       },
       "latest_price": 17.0,
       "return_pct": 21.43,
+      "last_snapshot": "2026-04-24"
+    },
+    {
+      "id": "US|SON|2026-04-24|joachimczyk paul|49.64",
+      "market": "US",
+      "ticker": "SON",
+      "yf_symbol": "SON",
+      "company": "Sonoco Products Co",
+      "insider_name": "Joachimczyk Paul",
+      "title": "CFO",
+      "trade_date": "2026-04-24",
+      "trade_price": 49.64,
+      "value": 399998.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-24": 48.45
+      },
+      "latest_price": 48.45,
+      "return_pct": -2.4,
       "last_snapshot": "2026-04-24"
     }
   ]
