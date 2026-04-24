@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T13:00:18Z",
-  "trade_count": 2877,
+  "last_updated": "2026-04-24T17:00:18Z",
+  "trade_count": 2879,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43581,6 +43581,38 @@
       "qty": "96100",
       "price": "1.8931",
       "value": "181926",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4708992",
+      "trade_date": "2026-04-24",
+      "filing_date": "2026-04-24",
+      "company": "Mirasol Resources Ltd.",
+      "ticker": "MRZ",
+      "insider_name": "Pountney, Glenn",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "75000",
+      "price": "0.3450",
+      "value": "25874",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4709084",
+      "trade_date": "2026-04-24",
+      "filing_date": "2026-04-24",
+      "company": "Surge Battery Metals Inc.",
+      "ticker": "NILI",
+      "insider_name": "Jennings, Ross",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "300000",
+      "price": "0.6300",
+      "value": "189000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
