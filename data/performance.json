@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-23",
-  "entry_count": 1077,
+  "entry_count": 1079,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -30815,6 +30815,46 @@
       },
       "latest_price": 4.4,
       "return_pct": -0.9,
+      "last_snapshot": "2026-04-23"
+    },
+    {
+      "id": "US|NTHI|2026-04-23|heshmatpour amir f|4.9",
+      "market": "US",
+      "ticker": "NTHI",
+      "yf_symbol": "NTHI",
+      "company": "Neonc Technologies Holdings, Inc.",
+      "insider_name": "Heshmatpour Amir F",
+      "title": "Pres, 10%",
+      "trade_date": "2026-04-23",
+      "trade_price": 4.9,
+      "value": 49000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-23": 4.79
+      },
+      "latest_price": 4.79,
+      "return_pct": -2.24,
+      "last_snapshot": "2026-04-23"
+    },
+    {
+      "id": "US|PMN|2026-04-22|kirwin patrick d.|11.33",
+      "market": "US",
+      "ticker": "PMN",
+      "yf_symbol": "PMN",
+      "company": "Promis Neurosciences Inc.",
+      "insider_name": "Kirwin Patrick D.",
+      "title": "Dir",
+      "trade_date": "2026-04-22",
+      "trade_price": 11.33,
+      "value": 45320.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-23": 10.88
+      },
+      "latest_price": 10.88,
+      "return_pct": -3.97,
       "last_snapshot": "2026-04-23"
     }
   ]

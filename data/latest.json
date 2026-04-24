@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T23:37:51Z",
-  "trade_count": 6080,
+  "last_updated": "2026-04-24T01:51:05Z",
+  "trade_count": 6082,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -97281,6 +97281,38 @@
       "delta_own": "-242%",
       "value": "12499999",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-23",
+      "filing_time": "21:34",
+      "trade_date": "2026-04-23",
+      "ticker": "NTHI",
+      "company": "Neonc Technologies Holdings, Inc.",
+      "insider_name": "Heshmatpour Amir F",
+      "title": "Pres, 10%",
+      "trade_type": "P - Purchase",
+      "price": "4.90",
+      "qty": "10000",
+      "owned": "7572140",
+      "delta_own": "0%",
+      "value": "49000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-23",
+      "filing_time": "21:25",
+      "trade_date": "2026-04-22",
+      "ticker": "PMN",
+      "company": "Promis Neurosciences Inc.",
+      "insider_name": "Kirwin Patrick D.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "11.33",
+      "qty": "4000",
+      "owned": "10093",
+      "delta_own": "+66%",
+      "value": "45320",
+      "cluster_buy": false
     }
   ]
 }
