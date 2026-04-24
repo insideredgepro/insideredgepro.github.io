@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-24",
-  "entry_count": 1079,
+  "entry_count": 1081,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -31930,6 +31930,46 @@
       },
       "latest_price": 10.88,
       "return_pct": -3.97,
+      "last_snapshot": "2026-04-24"
+    },
+    {
+      "id": "US|SMPL|2026-04-23|kilts james m|12.39",
+      "market": "US",
+      "ticker": "SMPL",
+      "yf_symbol": "SMPL",
+      "company": "Simply Good Foods Co",
+      "insider_name": "Kilts James M",
+      "title": "Dir",
+      "trade_date": "2026-04-23",
+      "trade_price": 12.39,
+      "value": 991480.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-24": 12.42
+      },
+      "latest_price": 12.42,
+      "return_pct": 0.24,
+      "last_snapshot": "2026-04-24"
+    },
+    {
+      "id": "US|ONMD|2026-04-01|yu jeffrey|0.83",
+      "market": "US",
+      "ticker": "ONMD",
+      "yf_symbol": "ONMD",
+      "company": "Onemednet Corp",
+      "insider_name": "Yu Jeffrey",
+      "title": "Chief Medical Officer, 10%",
+      "trade_date": "2026-04-01",
+      "trade_price": 0.83,
+      "value": 750000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-24": 0.889
+      },
+      "latest_price": 0.889,
+      "return_pct": 7.11,
       "last_snapshot": "2026-04-24"
     }
   ]
