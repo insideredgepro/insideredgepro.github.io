@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T18:38:27Z",
-  "trade_count": 6085,
+  "last_updated": "2026-04-24T19:45:00Z",
+  "trade_count": 6088,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -97361,6 +97361,54 @@
       "delta_own": "+6%",
       "value": "749999",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-24",
+      "filing_time": "15:04",
+      "trade_date": "2026-04-24",
+      "ticker": "NBBK",
+      "company": "Nb Bancorp, Inc.",
+      "insider_name": "Pascucci Hope",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "19.46",
+      "qty": "20000",
+      "owned": "222402",
+      "delta_own": "+10%",
+      "value": "389281",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-24",
+      "filing_time": "15:01",
+      "trade_date": "2026-04-23",
+      "ticker": "WSBC",
+      "company": "Wesbanco Inc",
+      "insider_name": "Altman Louis Michael",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "33.72",
+      "qty": "3000",
+      "owned": "48786",
+      "delta_own": "+7%",
+      "value": "101160",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-24",
+      "filing_time": "14:58",
+      "trade_date": "2026-04-23",
+      "ticker": "WSBC",
+      "company": "Wesbanco Inc",
+      "insider_name": "Burdman Lee J.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "33.60",
+      "qty": "3000",
+      "owned": "72260",
+      "delta_own": "+4%",
+      "value": "100800",
+      "cluster_buy": true
     }
   ]
 }
