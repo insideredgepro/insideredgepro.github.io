@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T17:00:18Z",
-  "trade_count": 2879,
+  "last_updated": "2026-04-24T19:00:17Z",
+  "trade_count": 2881,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43616,6 +43616,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4709160",
+      "trade_date": "2026-04-24",
+      "filing_date": "2026-04-24",
+      "company": "Forge Resources Corp. formerly, Benjamin Hill Mining Corp.",
+      "ticker": "FRG",
+      "insider_name": "Schmidtke, Ralf Holger",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "100000",
+      "price": "0.4500",
+      "value": "45000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4709085",
+      "trade_date": "2026-04-24",
+      "filing_date": "2026-04-24",
+      "company": "Tourmaline Oil Corp.",
+      "ticker": "TOU",
+      "insider_name": "Rose, Mike",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "59.4456",
+      "value": "297228",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
