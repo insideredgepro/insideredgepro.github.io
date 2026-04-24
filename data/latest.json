@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T22:33:06Z",
-  "trade_count": 6095,
+  "last_updated": "2026-04-24T23:33:46Z",
+  "trade_count": 6096,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -97520,6 +97520,22 @@
       "owned": "572942",
       "delta_own": "+21%",
       "value": "200000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-24",
+      "filing_time": "18:34",
+      "trade_date": "2026-04-22",
+      "ticker": "TORO",
+      "company": "Toro Corp.",
+      "insider_name": "Panagiotidis Petros Panagiotis",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "6.15",
+      "qty": "2315971",
+      "owned": "20822206",
+      "delta_own": "+13%",
+      "value": "14254646",
       "cluster_buy": false
     }
   ]

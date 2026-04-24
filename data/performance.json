@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-24",
-  "entry_count": 1089,
+  "entry_count": 1090,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -32130,6 +32130,26 @@
       },
       "latest_price": 1.2,
       "return_pct": -40.0,
+      "last_snapshot": "2026-04-24"
+    },
+    {
+      "id": "US|TORO|2026-04-22|panagiotidis petros panagiotis|6.15",
+      "market": "US",
+      "ticker": "TORO",
+      "yf_symbol": "TORO",
+      "company": "Toro Corp.",
+      "insider_name": "Panagiotidis Petros Panagiotis",
+      "title": "CEO",
+      "trade_date": "2026-04-22",
+      "trade_price": 6.15,
+      "value": 14254646.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-24": 6.9
+      },
+      "latest_price": 6.9,
+      "return_pct": 12.2,
       "last_snapshot": "2026-04-24"
     }
   ]
