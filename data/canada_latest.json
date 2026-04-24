@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T23:00:19Z",
-  "trade_count": 2876,
+  "last_updated": "2026-04-24T01:00:19Z",
+  "trade_count": 2877,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43565,6 +43565,22 @@
       "qty": "105000",
       "price": "0.2550",
       "value": "26775",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4708949",
+      "trade_date": "2026-04-23",
+      "filing_date": "2026-04-23",
+      "company": "Sol Strategies Inc.",
+      "ticker": "HODL.CN",
+      "insider_name": "Guoga, Antanas (Tony)",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "96100",
+      "price": "1.8931",
+      "value": "181926",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
