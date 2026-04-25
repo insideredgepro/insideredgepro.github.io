@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T23:00:20Z",
-  "trade_count": 2888,
+  "last_updated": "2026-04-25T01:00:25Z",
+  "trade_count": 2890,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43757,6 +43757,38 @@
       "qty": "400000",
       "price": "0.2521",
       "value": "100840",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4709324",
+      "trade_date": "2026-04-24",
+      "filing_date": "2026-04-24",
+      "company": "ATEX Resources Inc.",
+      "ticker": "ATX",
+      "insider_name": "Portmann, Hannes Philip",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "26800",
+      "price": "3.4000",
+      "value": "91120",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4709320",
+      "trade_date": "2026-04-24",
+      "filing_date": "2026-04-24",
+      "company": "The Fresh Factory B.C. Ltd.",
+      "ticker": "FRSH",
+      "insider_name": "Laurell, Nathan",
+      "title": "Director",
+      "security": "Subordinate Voting Shares",
+      "qty": "36000",
+      "price": "0.6980",
+      "value": "25128",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
