@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T23:33:46Z",
-  "trade_count": 6096,
+  "last_updated": "2026-04-25T09:54:09Z",
+  "trade_count": 6099,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -97536,6 +97536,54 @@
       "owned": "20822206",
       "delta_own": "+13%",
       "value": "14254646",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-24",
+      "filing_time": "21:10",
+      "trade_date": "2026-04-22",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "70.06",
+      "qty": "3597",
+      "owned": "5695737",
+      "delta_own": "0%",
+      "value": "251999",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-24",
+      "filing_time": "20:16",
+      "trade_date": "2026-04-24",
+      "ticker": "STRA",
+      "company": "Strategic Education, Inc.",
+      "insider_name": "Thawley Michael",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "72.71",
+      "qty": "665",
+      "owned": "12154",
+      "delta_own": "+6%",
+      "value": "48352",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-24",
+      "filing_time": "20:10",
+      "trade_date": "2026-04-22",
+      "ticker": "CRESY",
+      "company": "Cresud Inc",
+      "insider_name": "Elsztain Alejandro Gustavo",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "11.22",
+      "qty": "17833",
+      "owned": "1207564",
+      "delta_own": "+1%",
+      "value": "200170",
       "cluster_buy": false
     }
   ]
