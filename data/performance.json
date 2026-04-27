@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-27",
-  "entry_count": 1071,
+  "entry_count": 1072,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -34626,6 +34626,26 @@
       },
       "latest_price": 80.54,
       "return_pct": 0.01,
+      "last_snapshot": "2026-04-27"
+    },
+    {
+      "id": "US|IMDX|2026-04-23|broadwood partners, l.p.|3.56",
+      "market": "US",
+      "ticker": "IMDX",
+      "yf_symbol": "IMDX",
+      "company": "Insight Molecular Diagnostics Inc.",
+      "insider_name": "Broadwood Partners, L.P.",
+      "title": "10%",
+      "trade_date": "2026-04-23",
+      "trade_price": 3.56,
+      "value": 2032251.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-27": 3.84
+      },
+      "latest_price": 3.84,
+      "return_pct": 7.87,
       "last_snapshot": "2026-04-27"
     }
   ]
