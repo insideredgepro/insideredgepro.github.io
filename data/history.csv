@@ -6089,7 +6089,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-24,09:22,2026-04-23,SMPL,Simply Good Foods Co,Kilts James M,Dir,P - Purchase,12.39,80000,3783524,+2%,991480,False
 2026-04-24,08:40,2026-04-01,ONMD,Onemednet Corp,Yu Jeffrey,"Chief Medical Officer, 10%",P - Purchase,0.83,903614,9761236,+10%,750000,False
 2026-04-24,08:40,2026-02-06,ONMD,Onemednet Corp,Kosasa Thomas,"Dir, 10%",P - Purchase,0.86,876136,16661327,+6%,749999,False
-2026-04-24,15:04,2026-04-24,NBBK,"Nb Bancorp, Inc.",Pascucci Hope,Dir,P - Purchase,19.46,20000,222402,+10%,389281,False
+2026-04-24,15:04,2026-04-24,NBBK,"Nb Bancorp, Inc.",Pascucci Hope,Dir,P - Purchase,19.46,20000,222402,+10%,389281,True
 2026-04-24,15:01,2026-04-23,WSBC,Wesbanco Inc,Altman Louis Michael,Dir,P - Purchase,33.72,3000,48786,+7%,101160,True
 2026-04-24,14:58,2026-04-23,WSBC,Wesbanco Inc,Burdman Lee J.,Dir,P - Purchase,33.60,3000,72260,+4%,100800,True
 2026-04-24,16:15,2026-04-23,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,16.62,2000,1626013,0%,33240,False
@@ -6116,3 +6116,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-27,09:51,2026-04-24,NVR,Nvr Inc,Devito Michael J,Dir,P - Purchase,6699.50,11,25,+79%,73695,False
 2026-04-27,09:14,2026-04-24,EFOR,Everforth Inc,Hanson Theodore S.,CEO,P - Purchase,19.24,51965,476526,+12%,999786,True
 2026-04-27,08:16,2026-04-20,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,24.89,146400,75232160,0%,3644185,False
+2026-04-27,15:57,2026-04-23,WASH,Washington Trust Bancorp Inc,Brown James Cannon,"SEVP, Chief Comm'l Banking Off",P - Purchase,31.17,32000,37280,+606%,997572,False
+2026-04-27,15:38,2026-04-27,PFBX,Peoples Financial Corp /Ms/,Dennis Padrick D,Dir,P - Purchase,21.50,4003,21194,+23%,86065,False
+2026-04-27,14:51,2026-04-24,NBBK,"Nb Bancorp, Inc.",Campanelli Joseph P,"Pres, CEO",P - Purchase,19.45,2500,478937,+1%,48618,True
+2026-04-27,14:48,2026-04-24,CCNE,Cnb Financial Corp/Pa,Peduzzi Michael D,"Pres, CEO",P - Purchase,30.35,1000,58314,+2%,30350,False

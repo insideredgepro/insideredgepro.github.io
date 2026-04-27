@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-27T18:01:09Z",
-  "trade_count": 6112,
+  "last_updated": "2026-04-27T20:03:31Z",
+  "trade_count": 6116,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -97376,7 +97376,7 @@
       "owned": "222402",
       "delta_own": "+10%",
       "value": "389281",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-24",
@@ -97792,6 +97792,70 @@
       "owned": "75232160",
       "delta_own": "0%",
       "value": "3644185",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-27",
+      "filing_time": "15:57",
+      "trade_date": "2026-04-23",
+      "ticker": "WASH",
+      "company": "Washington Trust Bancorp Inc",
+      "insider_name": "Brown James Cannon",
+      "title": "SEVP, Chief Comm'l Banking Off",
+      "trade_type": "P - Purchase",
+      "price": "31.17",
+      "qty": "32000",
+      "owned": "37280",
+      "delta_own": "+606%",
+      "value": "997572",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-27",
+      "filing_time": "15:38",
+      "trade_date": "2026-04-27",
+      "ticker": "PFBX",
+      "company": "Peoples Financial Corp /Ms/",
+      "insider_name": "Dennis Padrick D",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "21.50",
+      "qty": "4003",
+      "owned": "21194",
+      "delta_own": "+23%",
+      "value": "86065",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-27",
+      "filing_time": "14:51",
+      "trade_date": "2026-04-24",
+      "ticker": "NBBK",
+      "company": "Nb Bancorp, Inc.",
+      "insider_name": "Campanelli Joseph P",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "19.45",
+      "qty": "2500",
+      "owned": "478937",
+      "delta_own": "+1%",
+      "value": "48618",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-27",
+      "filing_time": "14:48",
+      "trade_date": "2026-04-24",
+      "ticker": "CCNE",
+      "company": "Cnb Financial Corp/Pa",
+      "insider_name": "Peduzzi Michael D",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "30.35",
+      "qty": "1000",
+      "owned": "58314",
+      "delta_own": "+2%",
+      "value": "30350",
       "cluster_buy": false
     }
   ]
