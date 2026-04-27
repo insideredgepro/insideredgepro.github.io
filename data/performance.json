@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-27",
-  "entry_count": 1045,
+  "entry_count": 1052,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -34106,6 +34106,146 @@
       },
       "latest_price": 0.041,
       "return_pct": 2.5,
+      "last_snapshot": "2026-04-27"
+    },
+    {
+      "id": "US|EFOR|2026-04-24|frantz mark a.|18.92",
+      "market": "US",
+      "ticker": "EFOR",
+      "yf_symbol": "EFOR",
+      "company": "Everforth Inc",
+      "insider_name": "Frantz Mark A.",
+      "title": "Dir",
+      "trade_date": "2026-04-24",
+      "trade_price": 18.92,
+      "value": 71896.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-27": 18.97
+      },
+      "latest_price": 18.97,
+      "return_pct": 0.26,
+      "last_snapshot": "2026-04-27"
+    },
+    {
+      "id": "US|EFOR|2026-04-24|holman jonathan s|18.87",
+      "market": "US",
+      "ticker": "EFOR",
+      "yf_symbol": "EFOR",
+      "company": "Everforth Inc",
+      "insider_name": "Holman Jonathan S",
+      "title": "Dir",
+      "trade_date": "2026-04-24",
+      "trade_price": 18.87,
+      "value": 37739.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-27": 18.97
+      },
+      "latest_price": 18.97,
+      "return_pct": 0.53,
+      "last_snapshot": "2026-04-27"
+    },
+    {
+      "id": "US|EFOR|2026-04-24|painter jennifer hankes|20.03",
+      "market": "US",
+      "ticker": "EFOR",
+      "yf_symbol": "EFOR",
+      "company": "Everforth Inc",
+      "insider_name": "Painter Jennifer Hankes",
+      "title": "SVP, GC",
+      "trade_date": "2026-04-24",
+      "trade_price": 20.03,
+      "value": 50078.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-27": 18.97
+      },
+      "latest_price": 18.97,
+      "return_pct": -5.29,
+      "last_snapshot": "2026-04-27"
+    },
+    {
+      "id": "US|EFOR|2026-04-24|iyer sadasivam|19.3",
+      "market": "US",
+      "ticker": "EFOR",
+      "yf_symbol": "EFOR",
+      "company": "Everforth Inc",
+      "insider_name": "Iyer Sadasivam",
+      "title": "Pres",
+      "trade_date": "2026-04-24",
+      "trade_price": 19.3,
+      "value": 33289.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-27": 18.97
+      },
+      "latest_price": 18.97,
+      "return_pct": -1.71,
+      "last_snapshot": "2026-04-27"
+    },
+    {
+      "id": "US|EFOR|2026-04-24|dyer joseph wendell|18.63",
+      "market": "US",
+      "ticker": "EFOR",
+      "yf_symbol": "EFOR",
+      "company": "Everforth Inc",
+      "insider_name": "Dyer Joseph Wendell",
+      "title": "Dir",
+      "trade_date": "2026-04-24",
+      "trade_price": 18.63,
+      "value": 50003.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-27": 18.97
+      },
+      "latest_price": 18.97,
+      "return_pct": 1.83,
+      "last_snapshot": "2026-04-27"
+    },
+    {
+      "id": "US|EFOR|2026-04-24|hawthorne maria r|19.49",
+      "market": "US",
+      "ticker": "EFOR",
+      "yf_symbol": "EFOR",
+      "company": "Everforth Inc",
+      "insider_name": "Hawthorne Maria R",
+      "title": "Dir",
+      "trade_date": "2026-04-24",
+      "trade_price": 19.49,
+      "value": 100112.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-27": 18.97
+      },
+      "latest_price": 18.97,
+      "return_pct": -2.67,
+      "last_snapshot": "2026-04-27"
+    },
+    {
+      "id": "US|EFOR|2026-04-24|matin arshad|19.35",
+      "market": "US",
+      "ticker": "EFOR",
+      "yf_symbol": "EFOR",
+      "company": "Everforth Inc",
+      "insider_name": "Matin Arshad",
+      "title": "Dir",
+      "trade_date": "2026-04-24",
+      "trade_price": 19.35,
+      "value": 193462.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-27": 18.97
+      },
+      "latest_price": 18.97,
+      "return_pct": -1.96,
       "last_snapshot": "2026-04-27"
     }
   ]
