@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-27T19:00:52Z",
-  "trade_count": 2891,
+  "last_updated": "2026-04-27T21:00:19Z",
+  "trade_count": 2892,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43805,6 +43805,22 @@
       "qty": "259000",
       "price": "0.0600",
       "value": "15540",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4709729",
+      "trade_date": "2026-04-27",
+      "filing_date": "2026-04-27",
+      "company": "South Atlantic Gold Inc.",
+      "ticker": "SAO",
+      "insider_name": "STOW, STEPHEN WILLIAM CANNING",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "168000",
+      "price": "0.0900",
+      "value": "15120",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
