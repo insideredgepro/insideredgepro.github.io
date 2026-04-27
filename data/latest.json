@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-27T08:07:13Z",
-  "trade_count": 6099,
+  "last_updated": "2026-04-27T10:54:26Z",
+  "trade_count": 6102,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -97585,6 +97585,54 @@
       "delta_own": "+1%",
       "value": "200170",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-27",
+      "filing_time": "06:24",
+      "trade_date": "2026-04-21",
+      "ticker": "HEPA",
+      "company": "Hepion Pharmaceuticals, Inc.",
+      "insider_name": "Lopriore Vincent S",
+      "title": "Exec COB, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.04",
+      "qty": "6250000",
+      "owned": "11250000",
+      "delta_own": "+125%",
+      "value": "250000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-27",
+      "filing_time": "06:24",
+      "trade_date": "2026-04-21",
+      "ticker": "HEPA",
+      "company": "Hepion Pharmaceuticals, Inc.",
+      "insider_name": "Appajosyula Sireesh",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.04",
+      "qty": "1250000",
+      "owned": "1250000",
+      "delta_own": "New",
+      "value": "50000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-27",
+      "filing_time": "06:24",
+      "trade_date": "2026-04-21",
+      "ticker": "HEPA",
+      "company": "Hepion Pharmaceuticals, Inc.",
+      "insider_name": "Stetz Gary S.",
+      "title": "Interim CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.04",
+      "qty": "1250000",
+      "owned": "1250000",
+      "delta_own": "New",
+      "value": "50000",
+      "cluster_buy": true
     }
   ]
 }

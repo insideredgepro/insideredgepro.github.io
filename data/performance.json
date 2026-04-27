@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-27",
-  "entry_count": 1042,
+  "entry_count": 1045,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -34046,6 +34046,66 @@
       },
       "latest_price": 11.05,
       "return_pct": -1.52,
+      "last_snapshot": "2026-04-27"
+    },
+    {
+      "id": "US|HEPA|2026-04-21|lopriore vincent s|0.04",
+      "market": "US",
+      "ticker": "HEPA",
+      "yf_symbol": "HEPA",
+      "company": "Hepion Pharmaceuticals, Inc.",
+      "insider_name": "Lopriore Vincent S",
+      "title": "Exec COB, 10%",
+      "trade_date": "2026-04-21",
+      "trade_price": 0.04,
+      "value": 250000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-27": 0.041
+      },
+      "latest_price": 0.041,
+      "return_pct": 2.5,
+      "last_snapshot": "2026-04-27"
+    },
+    {
+      "id": "US|HEPA|2026-04-21|appajosyula sireesh|0.04",
+      "market": "US",
+      "ticker": "HEPA",
+      "yf_symbol": "HEPA",
+      "company": "Hepion Pharmaceuticals, Inc.",
+      "insider_name": "Appajosyula Sireesh",
+      "title": "Dir",
+      "trade_date": "2026-04-21",
+      "trade_price": 0.04,
+      "value": 50000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-27": 0.041
+      },
+      "latest_price": 0.041,
+      "return_pct": 2.5,
+      "last_snapshot": "2026-04-27"
+    },
+    {
+      "id": "US|HEPA|2026-04-21|stetz gary s.|0.04",
+      "market": "US",
+      "ticker": "HEPA",
+      "yf_symbol": "HEPA",
+      "company": "Hepion Pharmaceuticals, Inc.",
+      "insider_name": "Stetz Gary S.",
+      "title": "Interim CEO",
+      "trade_date": "2026-04-21",
+      "trade_price": 0.04,
+      "value": 50000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-27": 0.041
+      },
+      "latest_price": 0.041,
+      "return_pct": 2.5,
       "last_snapshot": "2026-04-27"
     }
   ]
