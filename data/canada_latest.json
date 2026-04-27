@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-27T17:00:50Z",
-  "trade_count": 2890,
+  "last_updated": "2026-04-27T19:00:52Z",
+  "trade_count": 2891,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43789,6 +43789,22 @@
       "qty": "36000",
       "price": "0.6980",
       "value": "25128",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4709675",
+      "trade_date": "2026-04-27",
+      "filing_date": "2026-04-27",
+      "company": "BetterLife Pharma Inc.",
+      "ticker": "BETR",
+      "insider_name": "Sangha, Steven",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "259000",
+      "price": "0.0600",
+      "value": "15540",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
