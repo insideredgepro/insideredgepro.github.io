@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-27T21:47:25Z",
-  "trade_count": 6131,
+  "last_updated": "2026-04-27T22:42:08Z",
+  "trade_count": 6132,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -98096,6 +98096,22 @@
       "owned": "7848557",
       "delta_own": "0%",
       "value": "128417",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-27",
+      "filing_time": "18:34",
+      "trade_date": "2026-04-27",
+      "ticker": "GGG",
+      "company": "Graco Inc",
+      "insider_name": "Simon Andrea Helen",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "80.53",
+      "qty": "1240",
+      "owned": "1240",
+      "delta_own": "New",
+      "value": "99857",
       "cluster_buy": false
     }
   ]

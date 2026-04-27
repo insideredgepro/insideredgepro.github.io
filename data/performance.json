@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-27",
-  "entry_count": 1070,
+  "entry_count": 1071,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -34606,6 +34606,26 @@
       },
       "latest_price": 16.34,
       "return_pct": 0.8,
+      "last_snapshot": "2026-04-27"
+    },
+    {
+      "id": "US|GGG|2026-04-27|simon andrea helen|80.53",
+      "market": "US",
+      "ticker": "GGG",
+      "yf_symbol": "GGG",
+      "company": "Graco Inc",
+      "insider_name": "Simon Andrea Helen",
+      "title": "Dir",
+      "trade_date": "2026-04-27",
+      "trade_price": 80.53,
+      "value": 99857.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-27": 80.54
+      },
+      "latest_price": 80.54,
+      "return_pct": 0.01,
       "last_snapshot": "2026-04-27"
     }
   ]
