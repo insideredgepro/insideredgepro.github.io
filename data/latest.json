@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-28T21:00:26Z",
-  "trade_count": 6147,
+  "last_updated": "2026-04-28T22:02:54Z",
+  "trade_count": 6151,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -97808,7 +97808,7 @@
       "owned": "37280",
       "delta_own": "+606%",
       "value": "997572",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-27",
@@ -98353,6 +98353,70 @@
       "delta_own": "+3%",
       "value": "26357",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-28",
+      "filing_time": "18:00",
+      "trade_date": "2026-04-28",
+      "ticker": "NTHI",
+      "company": "Neonc Technologies Holdings, Inc.",
+      "insider_name": "Heshmatpour Amir F",
+      "title": "Pres, 10%",
+      "trade_type": "P - Purchase",
+      "price": "4.52",
+      "qty": "10000",
+      "owned": "7582140",
+      "delta_own": "0%",
+      "value": "45180",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-28",
+      "filing_time": "17:08",
+      "trade_date": "2026-04-27",
+      "ticker": "WASH",
+      "company": "Washington Trust Bancorp Inc",
+      "insider_name": "Handy Edward O. III",
+      "title": "COB, CEO",
+      "trade_type": "P - Purchase",
+      "price": "31.32",
+      "qty": "3195",
+      "owned": "86005",
+      "delta_own": "+4%",
+      "value": "100079",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-28",
+      "filing_time": "17:07",
+      "trade_date": "2026-04-24",
+      "ticker": "WASH",
+      "company": "Washington Trust Bancorp Inc",
+      "insider_name": "Ohsberg Ronald S.",
+      "title": "SEVP, CFO, Treasurer",
+      "trade_type": "P - Purchase",
+      "price": "31.00",
+      "qty": "1606",
+      "owned": "29705",
+      "delta_own": "+6%",
+      "value": "49786",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-28",
+      "filing_time": "17:01",
+      "trade_date": "2026-04-27",
+      "ticker": "LW",
+      "company": "Lamb Weston Holdings, Inc.",
+      "insider_name": "Gray James D",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "43.85",
+      "qty": "4556",
+      "owned": "59741",
+      "delta_own": "+8%",
+      "value": "199781",
+      "cluster_buy": true
     }
   ]
 }

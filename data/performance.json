@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-28",
-  "entry_count": 1070,
+  "entry_count": 1074,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -35531,6 +35531,86 @@
       },
       "latest_price": 35.2,
       "return_pct": 1.5,
+      "last_snapshot": "2026-04-28"
+    },
+    {
+      "id": "US|NTHI|2026-04-28|heshmatpour amir f|4.52",
+      "market": "US",
+      "ticker": "NTHI",
+      "yf_symbol": "NTHI",
+      "company": "Neonc Technologies Holdings, Inc.",
+      "insider_name": "Heshmatpour Amir F",
+      "title": "Pres, 10%",
+      "trade_date": "2026-04-28",
+      "trade_price": 4.52,
+      "value": 45180.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-28": 4.31
+      },
+      "latest_price": 4.31,
+      "return_pct": -4.65,
+      "last_snapshot": "2026-04-28"
+    },
+    {
+      "id": "US|WASH|2026-04-27|handy edward o. iii|31.32",
+      "market": "US",
+      "ticker": "WASH",
+      "yf_symbol": "WASH",
+      "company": "Washington Trust Bancorp Inc",
+      "insider_name": "Handy Edward O. III",
+      "title": "COB, CEO",
+      "trade_date": "2026-04-27",
+      "trade_price": 31.32,
+      "value": 100079.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-28": 31.97
+      },
+      "latest_price": 31.97,
+      "return_pct": 2.08,
+      "last_snapshot": "2026-04-28"
+    },
+    {
+      "id": "US|WASH|2026-04-24|ohsberg ronald s.|31.0",
+      "market": "US",
+      "ticker": "WASH",
+      "yf_symbol": "WASH",
+      "company": "Washington Trust Bancorp Inc",
+      "insider_name": "Ohsberg Ronald S.",
+      "title": "SEVP, CFO, Treasurer",
+      "trade_date": "2026-04-24",
+      "trade_price": 31.0,
+      "value": 49786.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-28": 31.97
+      },
+      "latest_price": 31.97,
+      "return_pct": 3.13,
+      "last_snapshot": "2026-04-28"
+    },
+    {
+      "id": "US|LW|2026-04-27|gray james d|43.85",
+      "market": "US",
+      "ticker": "LW",
+      "yf_symbol": "LW",
+      "company": "Lamb Weston Holdings, Inc.",
+      "insider_name": "Gray James D",
+      "title": "CFO",
+      "trade_date": "2026-04-27",
+      "trade_price": 43.85,
+      "value": 199781.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-28": 43.08
+      },
+      "latest_price": 43.08,
+      "return_pct": -1.76,
       "last_snapshot": "2026-04-28"
     }
   ]
