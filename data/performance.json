@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-27",
-  "entry_count": 1072,
+  "entry_count": 1073,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -34646,6 +34646,26 @@
       },
       "latest_price": 3.84,
       "return_pct": 7.87,
+      "last_snapshot": "2026-04-27"
+    },
+    {
+      "id": "US|GAME|2026-04-22|blue & silver ventures, ltd.|0.59",
+      "market": "US",
+      "ticker": "GAME",
+      "yf_symbol": "GAME",
+      "company": "Gamesquare Holdings, Inc.",
+      "insider_name": "Blue & Silver Ventures, Ltd.",
+      "title": "See Footnote (1)",
+      "trade_date": "2026-04-22",
+      "trade_price": 0.59,
+      "value": 1324436.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-27": 0.5561
+      },
+      "latest_price": 0.5561,
+      "return_pct": -5.75,
       "last_snapshot": "2026-04-27"
     }
   ]

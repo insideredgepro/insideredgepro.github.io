@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-27T23:43:36Z",
-  "trade_count": 6133,
+  "last_updated": "2026-04-28T02:03:43Z",
+  "trade_count": 6134,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -98128,6 +98128,22 @@
       "owned": "25369925",
       "delta_own": "+2%",
       "value": "2032251",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-27",
+      "filing_time": "21:56",
+      "trade_date": "2026-04-22",
+      "ticker": "GAME",
+      "company": "Gamesquare Holdings, Inc.",
+      "insider_name": "Blue & Silver Ventures, Ltd.",
+      "title": "See Footnote (1)",
+      "trade_type": "P - Purchase",
+      "price": "0.59",
+      "qty": "2234364",
+      "owned": "3861736",
+      "delta_own": "+137%",
+      "value": "1324436",
       "cluster_buy": false
     }
   ]
