@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-28T21:00:19Z",
-  "trade_count": 2903,
+  "last_updated": "2026-04-28T23:00:20Z",
+  "trade_count": 2904,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43855,7 +43855,7 @@
       "value": "153870",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4709809",
@@ -44000,6 +44000,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4710037",
+      "trade_date": "2026-04-28",
+      "filing_date": "2026-04-28",
+      "company": "Rusoro Mining Ltd.",
+      "ticker": "RML",
+      "insider_name": "Beruschi, Anthony John",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "1.0400",
+      "value": "20800",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
