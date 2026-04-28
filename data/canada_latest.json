@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-28T01:00:20Z",
-  "trade_count": 2894,
+  "last_updated": "2026-04-28T03:00:19Z",
+  "trade_count": 2895,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43853,6 +43853,22 @@
       "qty": "150000",
       "price": "1.0258",
       "value": "153870",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4709809",
+      "trade_date": "2026-04-27",
+      "filing_date": "2026-04-27",
+      "company": "Blackrock Silver Corp.",
+      "ticker": "BRC",
+      "insider_name": "Pollard, Andrew",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "30000",
+      "price": "1.2800",
+      "value": "38400",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
