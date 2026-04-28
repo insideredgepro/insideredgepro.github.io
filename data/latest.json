@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-28T13:49:44Z",
-  "trade_count": 6134,
+  "last_updated": "2026-04-28T15:19:10Z",
+  "trade_count": 6135,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -98145,6 +98145,22 @@
       "delta_own": "+137%",
       "value": "1324436",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-28",
+      "filing_time": "11:03",
+      "trade_date": "2026-04-27",
+      "ticker": "WSBC",
+      "company": "Wesbanco Inc",
+      "insider_name": "Robinson Joseph R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "34.54",
+      "qty": "1000",
+      "owned": "19068",
+      "delta_own": "+6%",
+      "value": "34544",
+      "cluster_buy": true
     }
   ]
 }
