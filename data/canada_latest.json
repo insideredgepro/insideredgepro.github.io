@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-27T23:00:24Z",
-  "trade_count": 2892,
+  "last_updated": "2026-04-28T01:00:20Z",
+  "trade_count": 2894,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43821,6 +43821,38 @@
       "qty": "168000",
       "price": "0.0900",
       "value": "15120",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4709778",
+      "trade_date": "2026-04-27",
+      "filing_date": "2026-04-27",
+      "company": "Peyto Exploration and Development Corp.",
+      "ticker": "PEY",
+      "insider_name": "Collens, Michael Richard",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "2500",
+      "price": "24.9900",
+      "value": "62474",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4709798",
+      "trade_date": "2026-04-27",
+      "filing_date": "2026-04-27",
+      "company": "Rusoro Mining Ltd.",
+      "ticker": "RML",
+      "insider_name": "Agapov, Andre Vladimir",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "150000",
+      "price": "1.0258",
+      "value": "153870",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
