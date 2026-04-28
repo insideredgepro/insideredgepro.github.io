@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-28",
-  "entry_count": 1074,
+  "entry_count": 1075,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -35611,6 +35611,26 @@
       },
       "latest_price": 43.08,
       "return_pct": -1.76,
+      "last_snapshot": "2026-04-28"
+    },
+    {
+      "id": "US|ABT|2026-04-27|starks daniel j|92.65",
+      "market": "US",
+      "ticker": "ABT",
+      "yf_symbol": "ABT",
+      "company": "Abbott Laboratories",
+      "insider_name": "Starks Daniel J",
+      "title": "Dir",
+      "trade_date": "2026-04-27",
+      "trade_price": 92.65,
+      "value": 926537.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-28": 93.86
+      },
+      "latest_price": 93.86,
+      "return_pct": 1.31,
       "last_snapshot": "2026-04-28"
     }
   ]

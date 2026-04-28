@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-28T22:02:54Z",
-  "trade_count": 6151,
+  "last_updated": "2026-04-28T23:45:17Z",
+  "trade_count": 6152,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -97872,7 +97872,7 @@
       "owned": "82648",
       "delta_own": "+3%",
       "value": "201300",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-27",
@@ -98416,6 +98416,22 @@
       "owned": "59741",
       "delta_own": "+8%",
       "value": "199781",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-28",
+      "filing_time": "19:37",
+      "trade_date": "2026-04-27",
+      "ticker": "ABT",
+      "company": "Abbott Laboratories",
+      "insider_name": "Starks Daniel J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "92.65",
+      "qty": "10000",
+      "owned": "6751361",
+      "delta_own": "0%",
+      "value": "926537",
       "cluster_buy": true
     }
   ]
