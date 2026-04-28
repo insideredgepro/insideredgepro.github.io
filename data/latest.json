@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-28T17:39:59Z",
-  "trade_count": 6136,
+  "last_updated": "2026-04-28T19:21:33Z",
+  "trade_count": 6137,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -98176,6 +98176,22 @@
       "owned": "69000",
       "delta_own": "+1%",
       "value": "64800",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-28",
+      "filing_time": "15:14",
+      "trade_date": "2026-04-27",
+      "ticker": "PEBO",
+      "company": "Peoples Bancorp Inc",
+      "insider_name": "Smith Dwight Eric",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "34.51",
+      "qty": "1000",
+      "owned": "9256",
+      "delta_own": "+12%",
+      "value": "34510",
       "cluster_buy": false
     }
   ]
