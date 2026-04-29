@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-29T21:00:23Z",
-  "trade_count": 2906,
+  "last_updated": "2026-04-29T23:00:20Z",
+  "trade_count": 2907,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44045,6 +44045,22 @@
       "qty": "3200",
       "price": "15.6500",
       "value": "50080",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4710367",
+      "trade_date": "2026-04-29",
+      "filing_date": "2026-04-29",
+      "company": "The Descartes Systems Group Inc.",
+      "ticker": "DSG",
+      "insider_name": "The Descartes Systems Group Inc.",
+      "title": "Issuer",
+      "security": "Common Shares",
+      "qty": "7500",
+      "price": "97.6300",
+      "value": "732225",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
