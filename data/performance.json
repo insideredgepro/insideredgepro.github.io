@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-29",
-  "entry_count": 1046,
+  "entry_count": 1047,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -35684,6 +35684,26 @@
       },
       "latest_price": 20.45,
       "return_pct": -3.36,
+      "last_snapshot": "2026-04-29"
+    },
+    {
+      "id": "US|PFBX|2026-04-29|swetman chevis|21.5",
+      "market": "US",
+      "ticker": "PFBX",
+      "yf_symbol": "PFBX",
+      "company": "Peoples Financial Corp /Ms/",
+      "insider_name": "Swetman Chevis",
+      "title": "CEO, Pres, 10%",
+      "trade_date": "2026-04-29",
+      "trade_price": 21.5,
+      "value": 53750.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-29": 21.5
+      },
+      "latest_price": 21.5,
+      "return_pct": 0.0,
       "last_snapshot": "2026-04-29"
     }
   ]

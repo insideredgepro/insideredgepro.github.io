@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-29T21:53:25Z",
-  "trade_count": 6167,
+  "last_updated": "2026-04-29T22:47:58Z",
+  "trade_count": 6168,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -97824,7 +97824,7 @@
       "owned": "21194",
       "delta_own": "+23%",
       "value": "86065",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-27",
@@ -98672,6 +98672,22 @@
       "owned": "18732",
       "delta_own": "+12%",
       "value": "43166",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-29",
+      "filing_time": "18:19",
+      "trade_date": "2026-04-29",
+      "ticker": "PFBX",
+      "company": "Peoples Financial Corp /Ms/",
+      "insider_name": "Swetman Chevis",
+      "title": "CEO, Pres, 10%",
+      "trade_type": "P - Purchase",
+      "price": "21.50",
+      "qty": "2500",
+      "owned": "427713",
+      "delta_own": "+1%",
+      "value": "53750",
       "cluster_buy": true
     }
   ]
