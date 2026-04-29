@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-29",
-  "entry_count": 1047,
+  "entry_count": 1049,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -35704,6 +35704,46 @@
       },
       "latest_price": 21.5,
       "return_pct": 0.0,
+      "last_snapshot": "2026-04-29"
+    },
+    {
+      "id": "US|ZBIO|2026-04-28|moulder leon o jr|17.79",
+      "market": "US",
+      "ticker": "ZBIO",
+      "yf_symbol": "ZBIO",
+      "company": "Zenas Biopharma, Inc.",
+      "insider_name": "Moulder Leon O Jr",
+      "title": "CEO",
+      "trade_date": "2026-04-28",
+      "trade_price": 17.79,
+      "value": 1067200.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-29": 17.55
+      },
+      "latest_price": 17.55,
+      "return_pct": -1.35,
+      "last_snapshot": "2026-04-29"
+    },
+    {
+      "id": "US|HBAN|2026-04-27|rollins james d iii|18.81",
+      "market": "US",
+      "ticker": "HBAN",
+      "yf_symbol": "HBAN",
+      "company": "Huntington Bancshares Inc /Md/",
+      "insider_name": "Rollins James D III",
+      "title": "Dir",
+      "trade_date": "2026-04-27",
+      "trade_price": 18.81,
+      "value": 216335.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-29": 16.31
+      },
+      "latest_price": 16.31,
+      "return_pct": -13.29,
       "last_snapshot": "2026-04-29"
     }
   ]

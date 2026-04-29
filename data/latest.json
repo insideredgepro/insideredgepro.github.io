@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-29T22:47:58Z",
-  "trade_count": 6168,
+  "last_updated": "2026-04-29T23:44:56Z",
+  "trade_count": 6170,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -98689,6 +98689,38 @@
       "delta_own": "+1%",
       "value": "53750",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-29",
+      "filing_time": "19:21",
+      "trade_date": "2026-04-28",
+      "ticker": "ZBIO",
+      "company": "Zenas Biopharma, Inc.",
+      "insider_name": "Moulder Leon O Jr",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "17.79",
+      "qty": "60000",
+      "owned": "2246122",
+      "delta_own": "+3%",
+      "value": "1067200",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-29",
+      "filing_time": "18:53",
+      "trade_date": "2026-04-27",
+      "ticker": "HBAN",
+      "company": "Huntington Bancshares Inc /Md/",
+      "insider_name": "Rollins James D III",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "18.81",
+      "qty": "11500",
+      "owned": "21000",
+      "delta_own": "+121%",
+      "value": "216335",
+      "cluster_buy": false
     }
   ]
 }
