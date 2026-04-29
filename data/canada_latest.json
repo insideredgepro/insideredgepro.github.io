@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-29T15:00:20Z",
-  "trade_count": 2904,
+  "last_updated": "2026-04-29T19:00:26Z",
+  "trade_count": 2906,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44016,6 +44016,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4710270",
+      "trade_date": "2026-04-29",
+      "filing_date": "2026-04-29",
+      "company": "TNR Gold Corp.",
+      "ticker": "TNR",
+      "insider_name": "Evensen, Jon Christian",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "312000",
+      "price": "0.2468",
+      "value": "77001",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4710243",
+      "trade_date": "2026-04-29",
+      "filing_date": "2026-04-29",
+      "company": "Versamet Royalties Corporation (previously Sandbox Royalties Corp.)",
+      "ticker": "VMET",
+      "insider_name": "Jones, Paul",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "3200",
+      "price": "15.6500",
+      "value": "50080",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
