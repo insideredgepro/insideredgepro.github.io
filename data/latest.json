@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-29T12:11:54Z",
-  "trade_count": 6153,
+  "last_updated": "2026-04-29T15:05:05Z",
+  "trade_count": 6154,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -98448,6 +98448,22 @@
       "owned": "1203250",
       "delta_own": "+99%",
       "value": "998207",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-29",
+      "filing_time": "09:04",
+      "trade_date": "2026-04-27",
+      "ticker": "AVBC",
+      "company": "Avidia Bancorp, Inc.",
+      "insider_name": "Ball James N",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "20.60",
+      "qty": "5000",
+      "owned": "50000",
+      "delta_own": "+11%",
+      "value": "103000",
       "cluster_buy": false
     }
   ]
