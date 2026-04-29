@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-28",
-  "entry_count": 1075,
+  "entry_count": 1076,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -15971,8 +15971,8 @@
         "2026-04-27": 0.442,
         "2026-04-28": 0.24
       },
-      "latest_price": 0.24,
-      "return_pct": 242.86,
+      "latest_price": 0.2,
+      "return_pct": 185.71,
       "last_snapshot": "2026-04-28"
     },
     {
@@ -32862,8 +32862,8 @@
         "2026-04-27": 0.442,
         "2026-04-28": 0.24
       },
-      "latest_price": 0.24,
-      "return_pct": 242.86,
+      "latest_price": 0.2,
+      "return_pct": 185.71,
       "last_snapshot": "2026-04-28"
     },
     {
@@ -35631,6 +35631,26 @@
       },
       "latest_price": 93.86,
       "return_pct": 1.31,
+      "last_snapshot": "2026-04-28"
+    },
+    {
+      "id": "US|TRAW|2026-04-16|orbimed advisors llc|1.67",
+      "market": "US",
+      "ticker": "TRAW",
+      "yf_symbol": "TRAW",
+      "company": "Traws Pharma, Inc.",
+      "insider_name": "Orbimed Advisors LLC",
+      "title": "10%",
+      "trade_date": "2026-04-16",
+      "trade_price": 1.67,
+      "value": 998207.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-28": 1.21
+      },
+      "latest_price": 1.21,
+      "return_pct": -27.54,
       "last_snapshot": "2026-04-28"
     }
   ]
