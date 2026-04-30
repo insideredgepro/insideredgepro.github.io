@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-29",
-  "entry_count": 1049,
+  "entry_count": 1051,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -16344,8 +16344,8 @@
         "2026-04-28": 0.24,
         "2026-04-29": 0.2
       },
-      "latest_price": 0.2,
-      "return_pct": 185.71,
+      "latest_price": 0.14,
+      "return_pct": 100.0,
       "last_snapshot": "2026-04-29"
     },
     {
@@ -32498,8 +32498,8 @@
         "2026-04-28": 0.24,
         "2026-04-29": 0.2
       },
-      "latest_price": 0.2,
-      "return_pct": 185.71,
+      "latest_price": 0.14,
+      "return_pct": 100.0,
       "last_snapshot": "2026-04-29"
     },
     {
@@ -35744,6 +35744,46 @@
       },
       "latest_price": 16.31,
       "return_pct": -13.29,
+      "last_snapshot": "2026-04-29"
+    },
+    {
+      "id": "US|IPX|2026-04-28|hannigan todd|4.33",
+      "market": "US",
+      "ticker": "IPX",
+      "yf_symbol": "IPX",
+      "company": "Iperionx Ltd",
+      "insider_name": "Hannigan Todd",
+      "title": "Exec COB",
+      "trade_date": "2026-04-28",
+      "trade_price": 4.33,
+      "value": 2077784.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-29": 29.05
+      },
+      "latest_price": 29.05,
+      "return_pct": 570.9,
+      "last_snapshot": "2026-04-29"
+    },
+    {
+      "id": "US|NMM|2026-04-27|frangou angeliki|71.74",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-04-27",
+      "trade_price": 71.74,
+      "value": 250303.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-29": 70.82
+      },
+      "latest_price": 70.82,
+      "return_pct": -1.28,
       "last_snapshot": "2026-04-29"
     }
   ]
