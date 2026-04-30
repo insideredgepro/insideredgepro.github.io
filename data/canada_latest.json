@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-30T21:00:20Z",
-  "trade_count": 2910,
+  "last_updated": "2026-04-30T23:00:20Z",
+  "trade_count": 2912,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44109,6 +44109,38 @@
       "qty": "4626",
       "price": "141.3283",
       "value": "653784",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4710712",
+      "trade_date": "2026-04-30",
+      "filing_date": "2026-04-30",
+      "company": "Skeena Resources Limited",
+      "ticker": "SKE",
+      "insider_name": "Coles, Jr., Walter",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "3400",
+      "price": "29.2370",
+      "value": "99405",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4710696",
+      "trade_date": "2026-04-30",
+      "filing_date": "2026-04-30",
+      "company": "Transat A.T. Inc.",
+      "ticker": "TRZ",
+      "insider_name": "P\u00e9ladeau, Pierre Karl",
+      "title": "10% Holder",
+      "security": "Action \u00e0 droit de vote de cat\u00e9gorie B",
+      "qty": "9500",
+      "price": "2.5600",
+      "value": "24320",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
