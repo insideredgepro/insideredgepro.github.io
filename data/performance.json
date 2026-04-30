@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-30",
-  "entry_count": 1070,
+  "entry_count": 1071,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -37211,6 +37211,26 @@
       },
       "latest_price": 0.1055,
       "return_pct": 31.87,
+      "last_snapshot": "2026-04-30"
+    },
+    {
+      "id": "US|BDC|2026-04-30|assured guaranty ltd|24.72",
+      "market": "US",
+      "ticker": "BDC",
+      "yf_symbol": "BDC",
+      "company": "Sound Point Meridian Capital, Inc.",
+      "insider_name": "Assured Guaranty Ltd",
+      "title": "10%",
+      "trade_date": "2026-04-30",
+      "trade_price": 24.72,
+      "value": 6000000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-30": 112.48
+      },
+      "latest_price": 112.48,
+      "return_pct": 355.02,
       "last_snapshot": "2026-04-30"
     }
   ]
