@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-30T17:09:59Z",
-  "trade_count": 6173,
+  "last_updated": "2026-04-30T19:06:53Z",
+  "trade_count": 6177,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -98768,6 +98768,70 @@
       "owned": "13055358",
       "delta_own": "+1%",
       "value": "493625",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-30",
+      "filing_time": "14:35",
+      "trade_date": "2026-04-27",
+      "ticker": "WSBC",
+      "company": "Wesbanco Inc",
+      "insider_name": "Robinson Joseph R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "34.51",
+      "qty": "1000",
+      "owned": "19068",
+      "delta_own": "+6%",
+      "value": "34512",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-04-30",
+      "filing_time": "14:27",
+      "trade_date": "2026-04-28",
+      "ticker": "GRNQ",
+      "company": "Greenpro Capital Corp.",
+      "insider_name": "Lee Chong Kuang",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "2.33",
+      "qty": "107310",
+      "owned": "2012259",
+      "delta_own": "+6%",
+      "value": "250000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-30",
+      "filing_time": "13:52",
+      "trade_date": "2026-04-29",
+      "ticker": "CCFN",
+      "company": "Muncy Columbia Financial Corp",
+      "insider_name": "Klingerman Brian D",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "73.50",
+      "qty": "1000",
+      "owned": "10613",
+      "delta_own": "+10%",
+      "value": "73500",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-30",
+      "filing_time": "13:33",
+      "trade_date": "2026-04-28",
+      "ticker": "AVBC",
+      "company": "Avidia Bancorp, Inc.",
+      "insider_name": "Karmelek Nicolas",
+      "title": "EVP, CRO",
+      "trade_type": "P - Purchase",
+      "price": "20.76",
+      "qty": "1220",
+      "owned": "30672",
+      "delta_own": "+4%",
+      "value": "25327",
       "cluster_buy": true
     }
   ]
