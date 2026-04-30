@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-30T10:47:02Z",
-  "trade_count": 6172,
+  "last_updated": "2026-04-30T12:09:42Z",
+  "trade_count": 6173,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -98736,7 +98736,7 @@
       "owned": "26562798",
       "delta_own": "+2%",
       "value": "2077784",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-29",
@@ -98753,6 +98753,22 @@
       "delta_own": "0%",
       "value": "250303",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-04-30",
+      "filing_time": "07:38",
+      "trade_date": "2026-04-28",
+      "ticker": "IPX",
+      "company": "Iperionx Ltd",
+      "insider_name": "Arima Anastasios",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "4.49",
+      "qty": "110000",
+      "owned": "13055358",
+      "delta_own": "+1%",
+      "value": "493625",
+      "cluster_buy": true
     }
   ]
 }

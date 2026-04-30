@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-30",
-  "entry_count": 1051,
+  "entry_count": 1052,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -36831,6 +36831,26 @@
       },
       "latest_price": 70.82,
       "return_pct": -1.28,
+      "last_snapshot": "2026-04-30"
+    },
+    {
+      "id": "US|IPX|2026-04-28|arima anastasios|4.49",
+      "market": "US",
+      "ticker": "IPX",
+      "yf_symbol": "IPX",
+      "company": "Iperionx Ltd",
+      "insider_name": "Arima Anastasios",
+      "title": "CEO",
+      "trade_date": "2026-04-28",
+      "trade_price": 4.49,
+      "value": 493625.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-04-30": 29.05
+      },
+      "latest_price": 29.05,
+      "return_pct": 546.99,
       "last_snapshot": "2026-04-30"
     }
   ]
