@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T14:16:37Z",
-  "trade_count": 6192,
+  "last_updated": "2026-05-01T15:47:53Z",
+  "trade_count": 6194,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -99072,6 +99072,38 @@
       "owned": "1002718",
       "delta_own": "+32%",
       "value": "6000000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-01",
+      "filing_time": "11:38",
+      "trade_date": "2026-05-01",
+      "ticker": "GEHC",
+      "company": "Ge Healthcare Technologies Inc.",
+      "insider_name": "Saccaro James",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "60.60",
+      "qty": "3310",
+      "owned": "87471",
+      "delta_own": "+4%",
+      "value": "200585",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-01",
+      "filing_time": "10:39",
+      "trade_date": "2026-04-30",
+      "ticker": "FNLC",
+      "company": "First Bancorp, Inc /Me/",
+      "insider_name": "Swan Kimberly",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "28.69",
+      "qty": "1500",
+      "owned": "21432",
+      "delta_own": "+8%",
+      "value": "43030",
       "cluster_buy": false
     }
   ]
