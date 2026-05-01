@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T19:00:19Z",
-  "trade_count": 2918,
+  "last_updated": "2026-05-01T21:00:21Z",
+  "trade_count": 2922,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44191,7 +44191,7 @@
       "value": "146227",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4711220",
@@ -44237,6 +44237,70 @@
       "qty": "1000",
       "price": "24.5000",
       "value": "24500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4711378",
+      "trade_date": "2026-05-01",
+      "filing_date": "2026-05-01",
+      "company": "Capital Power Corporation",
+      "ticker": "CPX",
+      "insider_name": "Perry, Barry",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "14790",
+      "price": "64.7495",
+      "value": "957645",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4711374",
+      "trade_date": "2026-05-01",
+      "filing_date": "2026-05-01",
+      "company": "Gildan Activewear Inc.",
+      "ticker": "GIL",
+      "insider_name": "Chandlee, Michener",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "650",
+      "price": "62.3850",
+      "value": "40550",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4711479",
+      "trade_date": "2026-05-01",
+      "filing_date": "2026-05-01",
+      "company": "Mattr Corp.",
+      "ticker": "MATR",
+      "insider_name": "Kernaghan, Elizabeth",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "3600",
+      "price": "9.4500",
+      "value": "34020",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4711481",
+      "trade_date": "2026-05-01",
+      "filing_date": "2026-05-01",
+      "company": "Mattr Corp.",
+      "ticker": "MATR",
+      "insider_name": "Kernaghan, Elizabeth",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "3000",
+      "price": "9.4300",
+      "value": "28290",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
