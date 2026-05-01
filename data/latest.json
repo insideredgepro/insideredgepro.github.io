@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T16:45:39Z",
-  "trade_count": 6195,
+  "last_updated": "2026-05-01T17:51:37Z",
+  "trade_count": 6198,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -99121,6 +99121,54 @@
       "delta_own": "+1%",
       "value": "33252",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-01",
+      "filing_time": "13:45",
+      "trade_date": "2026-05-01",
+      "ticker": "CSTM",
+      "company": "Constellium Se",
+      "insider_name": "Deslarzes Jean-Christophe",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "31.13",
+      "qty": "1325",
+      "owned": "42025",
+      "delta_own": "+3%",
+      "value": "41247",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-01",
+      "filing_time": "13:02",
+      "trade_date": "2026-04-14",
+      "ticker": "SUNE",
+      "company": "Sunation Energy, Inc.",
+      "insider_name": "Brennan James Robert",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "1.77",
+      "qty": "123254",
+      "owned": "123269",
+      "delta_own": ">999%",
+      "value": "218160",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-01",
+      "filing_time": "13:02",
+      "trade_date": "2026-04-14",
+      "ticker": "SUNE",
+      "company": "Sunation Energy, Inc.",
+      "insider_name": "Maskin Scott",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.77",
+      "qty": "554712",
+      "owned": "554736",
+      "delta_own": ">999%",
+      "value": "981840",
+      "cluster_buy": true
     }
   ]
 }
