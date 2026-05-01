@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-01",
-  "entry_count": 1117,
+  "entry_count": 1120,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -39204,6 +39204,66 @@
       },
       "latest_price": 27.88,
       "return_pct": 0.36,
+      "last_snapshot": "2026-05-01"
+    },
+    {
+      "id": "US|CBK|2026-04-30|metheny philip j.|29.02",
+      "market": "US",
+      "ticker": "CBK",
+      "yf_symbol": "CBK",
+      "company": "Commercial Bancgroup, Inc.",
+      "insider_name": "Metheny Philip J.",
+      "title": "EVP, CFO",
+      "trade_date": "2026-04-30",
+      "trade_price": 29.02,
+      "value": 95760.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-01": 29.0
+      },
+      "latest_price": 29.0,
+      "return_pct": -0.07,
+      "last_snapshot": "2026-05-01"
+    },
+    {
+      "id": "US|AVLN|2026-05-01|carroll jill|18.0",
+      "market": "US",
+      "ticker": "AVLN",
+      "yf_symbol": "AVLN",
+      "company": "Avalyn Pharma Inc.",
+      "insider_name": "Carroll Jill",
+      "title": "Dir",
+      "trade_date": "2026-05-01",
+      "trade_price": 18.0,
+      "value": 5000004.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-01": 29.84
+      },
+      "latest_price": 29.84,
+      "return_pct": 65.78,
+      "last_snapshot": "2026-05-01"
+    },
+    {
+      "id": "US|AVLN|2026-05-01|sr one capital management, llc|18.0",
+      "market": "US",
+      "ticker": "AVLN",
+      "yf_symbol": "AVLN",
+      "company": "Avalyn Pharma Inc.",
+      "insider_name": "Sr One Capital Management, LLC",
+      "title": "10%",
+      "trade_date": "2026-05-01",
+      "trade_price": 18.0,
+      "value": 9999990.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-01": 29.84
+      },
+      "latest_price": 29.84,
+      "return_pct": 65.78,
       "last_snapshot": "2026-05-01"
     }
   ]

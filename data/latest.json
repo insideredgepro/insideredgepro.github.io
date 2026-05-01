@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T22:41:29Z",
-  "trade_count": 6257,
+  "last_updated": "2026-05-01T23:43:07Z",
+  "trade_count": 6260,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -100112,6 +100112,54 @@
       "owned": "983998",
       "delta_own": "+1%",
       "value": "222257",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-01",
+      "filing_time": "19:27",
+      "trade_date": "2026-04-30",
+      "ticker": "CBK",
+      "company": "Commercial Bancgroup, Inc.",
+      "insider_name": "Metheny Philip J.",
+      "title": "EVP, CFO",
+      "trade_type": "P - Purchase",
+      "price": "29.02",
+      "qty": "3300",
+      "owned": "12732",
+      "delta_own": "+35%",
+      "value": "95760",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-01",
+      "filing_time": "18:50",
+      "trade_date": "2026-05-01",
+      "ticker": "AVLN",
+      "company": "Avalyn Pharma Inc.",
+      "insider_name": "Carroll Jill",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "18.00",
+      "qty": "277778",
+      "owned": "2186562",
+      "delta_own": "+15%",
+      "value": "5000004",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-01",
+      "filing_time": "18:46",
+      "trade_date": "2026-05-01",
+      "ticker": "AVLN",
+      "company": "Avalyn Pharma Inc.",
+      "insider_name": "Sr One Capital Management, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "18.00",
+      "qty": "555555",
+      "owned": "3308649",
+      "delta_own": "+20%",
+      "value": "9999990",
       "cluster_buy": true
     }
   ]
