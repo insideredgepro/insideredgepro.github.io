@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T15:00:19Z",
-  "trade_count": 2913,
+  "last_updated": "2026-05-01T17:00:20Z",
+  "trade_count": 2914,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44079,7 +44079,7 @@
       "value": "27394",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4710633",
@@ -44160,6 +44160,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4710999",
+      "trade_date": "2026-05-01",
+      "filing_date": "2026-05-01",
+      "company": "SNDL Inc.",
+      "ticker": "SNDL",
+      "insider_name": "Mills, James Gregory",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "1.3940",
+      "value": "69700",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
