@@ -6145,7 +6145,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-28,16:19,2026-04-28,CHTR,"Charter Communications, Inc. /Mo/",Nair Balan,Dir,P - Purchase,175.46,1000,12029,+9%,175460,True
 2026-04-28,16:16,2026-04-28,CHTR,"Charter Communications, Inc. /Mo/",Winfrey Christopher L,"Pres, CEO",P - Purchase,172.24,6936,225436,+3%,1194621,True
 2026-04-28,16:15,2026-04-27,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,16.88,2000,1630013,0%,33760,False
-2026-04-28,16:10,2026-04-24,GMEX,Gmex Robotics Corp,Hrt Financial LP,10%,P - Purchase,0.53,182636,253917,+256%,96072,False
+2026-04-28,16:10,2026-04-24,GMEX,Gmex Robotics Corp,Hrt Financial LP,10%,P - Purchase,0.53,182636,253917,+256%,96072,True
 2026-04-28,16:08,2026-04-28,EFOR,Everforth Inc,Cunningham Rose,Chief Accounting Officer,P - Purchase,22.27,1125,15587,+8%,25054,True
 2026-04-28,16:05,2026-04-28,EFOR,Everforth Inc,Iyer Sadasivam,Pres,P - Purchase,22.67,1110,61905,+2%,25164,True
 2026-04-28,16:05,2026-04-24,NBP,Novabridge Biosciences,Hagler Mark Arnold,See Remarks,P - Purchase,2.51,230000,230000,New,577300,False
@@ -6173,7 +6173,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-29,15:25,2026-04-28,AVBC,"Avidia Bancorp, Inc.",Doane Thomas,EVP- HR,P - Purchase,21.16,2040,18732,+12%,43166,True
 2026-04-29,18:19,2026-04-29,PFBX,Peoples Financial Corp /Ms/,Swetman Chevis,"CEO, Pres, 10%",P - Purchase,21.50,2500,427713,+1%,53750,True
 2026-04-29,19:21,2026-04-28,ZBIO,"Zenas Biopharma, Inc.",Moulder Leon O Jr,CEO,P - Purchase,17.79,60000,2246122,+3%,1067200,False
-2026-04-29,18:53,2026-04-27,HBAN,Huntington Bancshares Inc /Md/,Rollins James D III,Dir,P - Purchase,18.81,11500,21000,+121%,216335,False
+2026-04-29,18:53,2026-04-27,HBAN,Huntington Bancshares Inc /Md/,Rollins James D III,Dir,P - Purchase,18.81,11500,21000,+121%,216335,True
 2026-04-29,21:51,2026-04-28,IPX,Iperionx Ltd,Hannigan Todd,Exec COB,P - Purchase,4.33,480000,26562798,+2%,2077784,True
 2026-04-29,21:10,2026-04-27,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,71.74,3489,5699226,0%,250303,False
 2026-04-30,07:38,2026-04-28,IPX,Iperionx Ltd,Arima Anastasios,CEO,P - Purchase,4.49,110000,13055358,+1%,493625,True
@@ -6191,7 +6191,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-30,16:00,2026-04-29,CMPX,"Compass Therapeutics, Inc.",Lerner Neil,CHIEF ACCOUNTING OFFICER,P - Purchase,1.89,15000,397500,+4%,28350,True
 2026-04-30,16:00,2026-04-29,CMPX,"Compass Therapeutics, Inc.",Anderman Jonathan,GC,P - Purchase,1.89,25000,196000,+15%,47250,True
 2026-04-30,15:43,2026-04-28,PKBK,"Parke Bancorp, Inc.",Pantilione Vito S,"Pres, CEO",P - Purchase,30.37,1300,317294,0%,39486,False
-2026-04-30,15:29,2026-04-28,GMEX,Gmex Robotics Corp,Hrt Financial LP,10%,P - Purchase,0.35,135198,0,-100%,47725,False
+2026-04-30,15:29,2026-04-28,GMEX,Gmex Robotics Corp,Hrt Financial LP,10%,P - Purchase,0.35,135198,0,-100%,47725,True
 2026-04-30,17:22,2026-04-30,ANIK,"Anika Therapeutics, Inc.",Griffin Stephen D.,"Pres, CEO",P - Purchase,12.29,12200,36163,+51%,149881,False
 2026-04-30,17:08,2026-04-28,UPBD,"Upbound Group, Inc.",Brown Jeffrey J,Dir,P - Purchase,19.41,2329,118239,+2%,45206,False
 2026-04-30,17:00,2026-04-29,IBATF,International Battery Metals Ltd.,Warnock Jacob Aaron,"Dir, 10%",P - Purchase,0.08,34315465,143641569,+31%,2745237,False
@@ -6202,3 +6202,51 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-01,13:45,2026-05-01,CSTM,Constellium Se,Deslarzes Jean-Christophe,Dir,P - Purchase,31.13,1325,42025,+3%,41247,False
 2026-05-01,13:02,2026-04-14,SUNE,"Sunation Energy, Inc.",Brennan James Robert,CFO,P - Purchase,1.77,123254,123269,>999%,218160,True
 2026-05-01,13:02,2026-04-14,SUNE,"Sunation Energy, Inc.",Maskin Scott,"CEO, 10%",P - Purchase,1.77,554712,554736,>999%,981840,True
+2026-05-01,14:58,2026-04-29,PRU,Prudential Financial Inc,Prudential Insurance Co Of Ame,10% Owner,P - Purchase,30.36,270092,3573699,+8%,8200000,False
+2026-05-01,06:02,2026-04-30,PSUS,"Pershing Square USA, Ltd.",Ackman William A,Chief Executive Officer,P - Purchase,50.00,897171,841000,New,44858550,False
+2026-05-01,06:02,2026-04-30,PSUS,"Pershing Square USA, Ltd.",Ackman William A,Chief Executive Officer,P - Purchase,49.00,4000000,4000000,New,196000000,False
+2026-04-30,19:15,2026-04-30,SPMC,"Sound Point Meridian Capital, Inc.",Assured Guaranty Ltd,10% Owner,P - Purchase,24.72,242718,1002718,+32%,6000000,False
+2026-04-30,19:15,2026-04-30,AGO,Assured Guaranty Ltd.,Assured Guaranty Ltd,10% Owner,P - Purchase,24.72,242718,1002718,+32%,6000000,False
+2026-04-30,16:05,2026-04-29,TEN,Tsakos Energy Navigation Ltd,Tsakos Nikolaos,Chief Executive Officer,P - Purchase,39.95,12500,918500,+1%,499355,False
+2026-04-30,16:05,2026-04-28,TEN,Tsakos Energy Navigation Ltd,Tsakos Nikolaos,Chief Executive Officer,P - Purchase,39.92,12500,906000,+1%,498986,False
+2026-04-30,13:39,2026-04-30,GOF,Guggenheim Strategic Opportunities Fund,Lydon Thomas F Jr,Trustee,P - Purchase,11.45,8710,8710,New,99730,False
+2026-04-29,21:51,2026-04-29,IPX,Iperionx Ltd,Hannigan Todd,Executive Chairman,P - Purchase,4.20,260000,26108334,+1%,1091766,True
+2026-04-29,21:51,2026-04-28,IPX,Iperionx Ltd,Hannigan Todd,Executive Chairman,P - Purchase,4.48,220000,25848334,+1%,986018,True
+2026-04-29,21:10,2026-04-29,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,71.72,1159,4710164,+0%,83118,False
+2026-04-29,21:10,2026-04-28,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,72.08,1145,4709005,+0%,82532,False
+2026-04-29,21:10,2026-04-27,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,71.44,1185,4707860,+0%,84653,False
+2026-04-29,19:21,2026-04-29,ZBIO,"Zenas Biopharma, Inc.",Moulder Leon O Jr,Chief Executive Officer,P - Purchase,17.62,35000,1786039,+2%,616700,False
+2026-04-29,19:21,2026-04-28,ZBIO,"Zenas Biopharma, Inc.",Moulder Leon O Jr,Chief Executive Officer,P - Purchase,18.02,25000,1751039,+1%,450500,False
+2026-04-29,18:53,2026-04-28,HBAN,Huntington Bancshares Inc /Md/,Rollins James D Iii,Director,P - Purchase,21.05,3029,9500,+47%,63760,True
+2026-04-29,18:53,2026-04-27,HBAN,Huntington Bancshares Inc /Md/,Rollins James D Iii,Director,P - Purchase,18.01,8471,11500,+280%,152575,True
+2026-04-29,18:34,2026-04-27,PDX,PIMCO Dynamic Income Strategy Fund,Ivascyn Daniel J,,P - Purchase,20.58,28779,2118504,+1%,592401,False
+2026-04-28,16:16,2026-04-28,CHTR,"Charter Communications, Inc. /Mo/",Winfrey Christopher L,President and CEO,P - Purchase,172.23,3468,3468,New,597311,True
+2026-04-28,16:10,2026-04-24,GMEX,Gmex Robotics Corp,Hrt Financial Lp,10% Owner,P - Purchase,0.57,133500,204781,+187%,75828,True
+2026-04-28,15:34,2026-04-28,GCBC,Greene County Bancorp Inc,Brust John,Director,P - Purchase,24.50,2041,6221,+49%,50004,False
+2026-04-28,15:34,2026-04-27,GCBC,Greene County Bancorp Inc,Brust John,Director,P - Purchase,24.05,2080,4180,+99%,50034,False
+2026-04-27,21:56,2026-04-27,GAME,"Gamesquare Holdings, Inc.","Blue & Silver Ventures, Ltd.",,P - Purchase,0.60,84552,3861736,+2%,50731,False
+2026-04-27,21:56,2026-04-24,GAME,"Gamesquare Holdings, Inc.","Blue & Silver Ventures, Ltd.",,P - Purchase,0.60,417813,3777184,+12%,250688,False
+2026-04-27,21:56,2026-04-23,GAME,"Gamesquare Holdings, Inc.","Blue & Silver Ventures, Ltd.",,P - Purchase,0.60,922890,3359371,+38%,553734,False
+2026-04-27,21:56,2026-04-22,GAME,"Gamesquare Holdings, Inc.","Blue & Silver Ventures, Ltd.",,P - Purchase,0.58,809109,2436481,+50%,469283,False
+2026-04-27,19:08,2026-04-27,IMDX,Insight Molecular Diagnostics Inc.,"Broadwood Partners, L.P.",10% Owner,P - Purchase,3.64,250923,12684884,+2%,913134,False
+2026-04-27,19:08,2026-04-24,IMDX,Insight Molecular Diagnostics Inc.,"Broadwood Partners, L.P.",10% Owner,P - Purchase,3.53,38880,12433961,+0%,137083,False
+2026-04-27,19:08,2026-04-23,IMDX,Insight Molecular Diagnostics Inc.,"Broadwood Partners, L.P.",10% Owner,P - Purchase,3.50,280381,12395081,+2%,982034,False
+2026-04-27,16:32,2026-04-27,EFOR,Everforth Inc,Obermaier Patricia L,Director,P - Purchase,20.61,2500,9548,+35%,51512,True
+2026-04-27,16:05,2025-11-25,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,7.10,7300,7730557,+0%,51858,False
+2026-04-27,16:05,2025-11-24,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,8.64,3800,7723257,+0%,32832,False
+2026-04-27,16:05,2025-11-21,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,8.76,9500,7719457,+0%,83220,False
+2026-04-27,16:05,2025-11-20,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,9.03,5800,7709957,+0%,52374,False
+2026-04-27,16:05,2025-11-19,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,9.30,7600,7704157,+0%,70699,False
+2026-04-27,16:05,2025-11-18,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,8.66,7250,7696557,+0%,62798,False
+2026-04-27,16:05,2025-11-17,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,7.61,4800,7689307,+0%,36528,False
+2026-04-27,16:05,2025-11-14,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,6.30,6775,7684507,+0%,42655,False
+2026-04-27,16:05,2025-11-13,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,6.66,4625,7677732,+0%,30802,False
+2026-04-27,16:05,2025-11-12,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,7.06,5225,7673107,+0%,36888,False
+2026-04-27,16:05,2025-11-11,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,6.51,5050,7667882,+0%,32865,False
+2026-04-27,16:05,2025-11-10,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,7.01,5056,7662832,+0%,35451,False
+2026-04-27,16:05,2026-02-02,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,3.64,7225,7806007,+0%,26299,False
+2026-04-27,16:05,2025-12-05,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,6.13,4900,7759557,+0%,30037,False
+2026-04-27,16:05,2025-12-02,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,7.61,5450,7750757,+0%,41474,False
+2026-04-27,16:05,2025-11-28,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,8.83,4500,7742707,+0%,39735,False
+2026-04-27,16:05,2025-11-26,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,8.35,7650,7738207,+0%,63894,False
+2026-04-27,16:05,2026-03-05,NOMA,Nomadar Corp.,Sport City Cadiz S.L.,10% Owner,P - Purchase,5.01,5200,7834707,+0%,26052,False
