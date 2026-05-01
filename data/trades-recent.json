@@ -374,6 +374,27 @@
     "scraped_at": "2026-03-03T06:07:47.231168"
   },
   {
+    "id": "10000064900",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "NORTHAMPTON BORO PENNSYLVANIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-24",
+    "trade_published": "2026-05-01",
+    "filed_after_days": "7",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-01T16:30:11.500862+00:00"
+  },
+  {
     "id": "20003797502",
     "politician_name": "Lloyd Smucker",
     "party": "Republican",
@@ -392,7 +413,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sale of Spouse Inherited Assets",
-    "scraped_at": "2026-05-01T15:15:38.579308+00:00"
+    "scraped_at": "2026-05-01T16:30:11.500960+00:00"
   },
   {
     "id": "20003797503",
@@ -413,7 +434,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sale of Spouse Inherited Assets",
-    "scraped_at": "2026-05-01T15:15:38.579334+00:00"
+    "scraped_at": "2026-05-01T16:30:11.500967+00:00"
   },
   {
     "id": "20003797506",
@@ -434,7 +455,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sale of Spouse Inherited Assets",
-    "scraped_at": "2026-05-01T15:15:38.579356+00:00"
+    "scraped_at": "2026-05-01T16:30:11.500983+00:00"
   },
   {
     "id": "20003797508",
@@ -455,7 +476,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sale of Spouse Inherited Assets",
-    "scraped_at": "2026-05-01T15:15:38.579372+00:00"
+    "scraped_at": "2026-05-01T16:30:11.500994+00:00"
   },
   {
     "id": "20003797509",
@@ -476,7 +497,28 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sale of Spouse Inherited Assets",
-    "scraped_at": "2026-05-01T15:15:38.579384+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501000+00:00"
+  },
+  {
+    "id": "10000064901",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "GS FINANCE CORP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-21",
+    "trade_published": "2026-05-01",
+    "filed_after_days": "10",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-01T16:30:11.500883+00:00"
   },
   {
     "id": "20003797422",
@@ -560,7 +602,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sale of Spouse Inherited Assets",
-    "scraped_at": "2026-05-01T15:15:38.579343+00:00"
+    "scraped_at": "2026-05-01T16:30:11.500972+00:00"
   },
   {
     "id": "20003797505",
@@ -581,7 +623,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sale of Spouse Inherited Assets",
-    "scraped_at": "2026-05-01T15:15:38.579349+00:00"
+    "scraped_at": "2026-05-01T16:30:11.500979+00:00"
   },
   {
     "id": "20003797507",
@@ -602,7 +644,28 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sale of Spouse Inherited Assets",
-    "scraped_at": "2026-05-01T15:15:38.579362+00:00"
+    "scraped_at": "2026-05-01T16:30:11.500988+00:00"
+  },
+  {
+    "id": "10000064902",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "ALLEGHENY COUNTY HIGHER EDUCATION BUILDING AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-15",
+    "trade_published": "2026-05-01",
+    "filed_after_days": "16",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-01T16:30:11.500892+00:00"
   },
   {
     "id": "20003797510",
@@ -623,7 +686,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity 401K",
-    "scraped_at": "2026-05-01T15:15:38.579392+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501005+00:00"
   },
   {
     "id": "20003797511",
@@ -644,7 +707,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity SEP-IRA",
-    "scraped_at": "2026-05-01T15:15:38.579398+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501012+00:00"
   },
   {
     "id": "20003797512",
@@ -665,7 +728,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity SEP-IRA",
-    "scraped_at": "2026-05-01T15:15:38.579403+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501016+00:00"
   },
   {
     "id": "20003797513",
@@ -686,7 +749,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity SEP-IRA",
-    "scraped_at": "2026-05-01T15:15:38.579407+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501020+00:00"
   },
   {
     "id": "20003797514",
@@ -707,7 +770,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity 401K",
-    "scraped_at": "2026-05-01T15:15:38.579413+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501024+00:00"
   },
   {
     "id": "20003797515",
@@ -728,7 +791,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity SEP-IRA",
-    "scraped_at": "2026-05-01T15:15:38.579418+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501028+00:00"
   },
   {
     "id": "20003797516",
@@ -749,7 +812,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Fidelity 401K",
-    "scraped_at": "2026-05-01T15:15:38.579422+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501034+00:00"
   },
   {
     "id": "20003797517",
@@ -770,7 +833,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity 401K",
-    "scraped_at": "2026-05-01T15:15:38.579426+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501038+00:00"
   },
   {
     "id": "20003797518",
@@ -791,7 +854,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity SEP-IRA",
-    "scraped_at": "2026-05-01T15:15:38.579470+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501043+00:00"
   },
   {
     "id": "20003797519",
@@ -812,7 +875,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity 401K",
-    "scraped_at": "2026-05-01T15:15:38.579482+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501047+00:00"
   },
   {
     "id": "10000064899",
@@ -834,6 +897,27 @@
     "owner": "Self",
     "comment": "",
     "scraped_at": "2026-05-01T14:13:21.187582+00:00"
+  },
+  {
+    "id": "10000064903",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "GS FINANCE CORP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-14",
+    "trade_published": "2026-05-01",
+    "filed_after_days": "17",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-01T16:30:11.500898+00:00"
   },
   {
     "id": "20003797424",
@@ -899,6 +983,69 @@
     "scraped_at": "2026-05-01T14:13:21.187567+00:00"
   },
   {
+    "id": "10000064904",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "GS FINANCE CORP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-08",
+    "trade_published": "2026-05-01",
+    "filed_after_days": "23",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-01T16:30:11.500905+00:00"
+  },
+  {
+    "id": "10000064905",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "OXFORD AREA SCHOOL DISTRICT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-08",
+    "trade_published": "2026-05-01",
+    "filed_after_days": "23",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-01T16:30:11.500910+00:00"
+  },
+  {
+    "id": "10000064906",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "SCHOOL DISTRICT OF SPRINGFIELD TOWNSHIP PENNSYLVANIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-08",
+    "trade_published": "2026-05-01",
+    "filed_after_days": "23",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-01T16:30:11.500918+00:00"
+  },
+  {
     "id": "20003797441",
     "politician_name": "Elizabeth Fletcher",
     "party": "Democrat",
@@ -917,7 +1064,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Filer Brokerage Account (CB) Description: Asset inherited Jan. 2026",
-    "scraped_at": "2026-05-01T15:15:38.579745+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501302+00:00"
   },
   {
     "id": "20003797442",
@@ -938,7 +1085,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Filer Brokerage Account (CB) Description: Asset inherited Jan. 2026",
-    "scraped_at": "2026-05-01T15:15:38.579750+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501307+00:00"
   },
   {
     "id": "20003797443",
@@ -959,7 +1106,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Filer Brokerage Account (CB) Description: Asset inherited Jan. 2026",
-    "scraped_at": "2026-05-01T15:15:38.579755+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501311+00:00"
   },
   {
     "id": "20003797444",
@@ -980,7 +1127,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Filer Brokerage Account (CB) Description: Asset inherited Jan. 2026",
-    "scraped_at": "2026-05-01T15:15:38.579761+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501316+00:00"
   },
   {
     "id": "20003797445",
@@ -1001,7 +1148,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Filer Brokerage Account (CB) Description: Asset inherited Jan. 2026",
-    "scraped_at": "2026-05-01T15:15:38.579766+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501320+00:00"
   },
   {
     "id": "20003797446",
@@ -1022,7 +1169,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Filer Brokerage Account (CB) Description: Asset inherited Jan. 2026",
-    "scraped_at": "2026-05-01T15:15:38.579770+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501324+00:00"
   },
   {
     "id": "20003797447",
@@ -1043,7 +1190,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Filer Brokerage Account (CB) Description: Asset inherited Jan. 2026",
-    "scraped_at": "2026-05-01T15:15:38.579775+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501330+00:00"
   },
   {
     "id": "20003797448",
@@ -1064,7 +1211,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Filer Brokerage Account (CB) Description: Asset inherited Jan. 2026",
-    "scraped_at": "2026-05-01T15:15:38.579780+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501337+00:00"
   },
   {
     "id": "20003797449",
@@ -1085,7 +1232,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Filer Brokerage Account (CB) Description: Asset inherited Jan. 2026",
-    "scraped_at": "2026-05-01T15:15:38.579786+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501343+00:00"
   },
   {
     "id": "20003797450",
@@ -1106,7 +1253,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Filer Brokerage Account (CB) Description: Asset inherited Jan. 2026",
-    "scraped_at": "2026-05-01T15:15:38.579793+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501348+00:00"
   },
   {
     "id": "20003797451",
@@ -1127,7 +1274,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Filer Brokerage Account (CB) Description: Asset inherited Jan. 2026",
-    "scraped_at": "2026-05-01T15:15:38.579797+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501352+00:00"
   },
   {
     "id": "20003797364",
@@ -1149,6 +1296,27 @@
     "owner": "Spouse",
     "comment": "Subholding Of: INVESTMENT Description: Corporate Bond",
     "scraped_at": "2026-05-01T14:13:21.187706+00:00"
+  },
+  {
+    "id": "10000064907",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "COMMONWEALTH OF PENNSYLVANIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-07",
+    "trade_published": "2026-05-01",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-01T16:30:11.500929+00:00"
   },
   {
     "id": "20003797428",
@@ -1382,6 +1550,27 @@
     "scraped_at": "2026-05-01T14:13:21.187698+00:00"
   },
   {
+    "id": "10000064908",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "UNIVERSITY OF PITTSBURGH",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-06",
+    "trade_published": "2026-05-01",
+    "filed_after_days": "25",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-01T16:30:11.500938+00:00"
+  },
+  {
     "id": "20003797425",
     "politician_name": "Max Miller",
     "party": "Republican",
@@ -1422,6 +1611,27 @@
     "owner": "Not Disclosed",
     "comment": "3-Month, Matures 7/9/2026 Subholding Of: Schwab (formerly TD Ameritrade)",
     "scraped_at": "2026-04-18T23:43:42.552172+00:00"
+  },
+  {
+    "id": "10000064909",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "CHESTER COUNTY SCHOOL DISTRICTS",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-02",
+    "trade_published": "2026-05-01",
+    "filed_after_days": "29",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-01T16:30:11.500944+00:00"
   },
   {
     "id": "20003797426",
@@ -1505,7 +1715,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579504+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501068+00:00"
   },
   {
     "id": "20003797456",
@@ -1526,7 +1736,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579508+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501073+00:00"
   },
   {
     "id": "20003797463",
@@ -1547,7 +1757,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579546+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501107+00:00"
   },
   {
     "id": "20003797467",
@@ -1568,7 +1778,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579566+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501132+00:00"
   },
   {
     "id": "20003797468",
@@ -1589,7 +1799,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579571+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501136+00:00"
   },
   {
     "id": "20003797471",
@@ -1610,7 +1820,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579586+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501152+00:00"
   },
   {
     "id": "20003797472",
@@ -1631,7 +1841,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579590+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501156+00:00"
   },
   {
     "id": "20003797473",
@@ -1652,7 +1862,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579597+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501161+00:00"
   },
   {
     "id": "20003797476",
@@ -1673,7 +1883,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579613+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501175+00:00"
   },
   {
     "id": "20003797479",
@@ -1694,7 +1904,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579627+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501188+00:00"
   },
   {
     "id": "20003797480",
@@ -1715,7 +1925,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579634+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501194+00:00"
   },
   {
     "id": "20003797485",
@@ -1736,7 +1946,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579659+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501217+00:00"
   },
   {
     "id": "20003797489",
@@ -1757,7 +1967,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579679+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501237+00:00"
   },
   {
     "id": "20003797494",
@@ -1778,7 +1988,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579705+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501262+00:00"
   },
   {
     "id": "20003797495",
@@ -1799,7 +2009,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579709+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501266+00:00"
   },
   {
     "id": "20003797370",
@@ -2555,7 +2765,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-01T15:15:38.579814+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501371+00:00"
   },
   {
     "id": "20003797437",
@@ -2576,7 +2786,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-05-01T15:15:38.579830+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501385+00:00"
   },
   {
     "id": "20003797439",
@@ -6083,7 +6293,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-01T15:15:38.579820+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501375+00:00"
   },
   {
     "id": "20003797383",
@@ -6692,7 +6902,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-05-01T15:15:38.579802+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501356+00:00"
   },
   {
     "id": "20003797429",
@@ -7511,7 +7721,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-05-01T15:15:38.579806+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501362+00:00"
   },
   {
     "id": "20003797433",
@@ -7532,7 +7742,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-05-01T15:15:38.579810+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501367+00:00"
   },
   {
     "id": "20003797438",
@@ -8015,7 +8225,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-01T15:15:38.579826+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501379+00:00"
   },
   {
     "id": "20003797440",
@@ -8624,7 +8834,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-05-01T15:15:38.579489+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501052+00:00"
   },
   {
     "id": "20003797453",
@@ -8645,7 +8855,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (6)",
-    "scraped_at": "2026-05-01T15:15:38.579494+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501057+00:00"
   },
   {
     "id": "20003797454",
@@ -8666,7 +8876,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579499+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501063+00:00"
   },
   {
     "id": "20003797457",
@@ -8687,7 +8897,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-05-01T15:15:38.579515+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501077+00:00"
   },
   {
     "id": "20003797458",
@@ -8708,7 +8918,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (6)",
-    "scraped_at": "2026-05-01T15:15:38.579519+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501082+00:00"
   },
   {
     "id": "20003797459",
@@ -8729,7 +8939,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579524+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501088+00:00"
   },
   {
     "id": "20003797460",
@@ -8750,7 +8960,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-05-01T15:15:38.579531+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501094+00:00"
   },
   {
     "id": "20003797461",
@@ -8771,7 +8981,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (6)",
-    "scraped_at": "2026-05-01T15:15:38.579535+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501099+00:00"
   },
   {
     "id": "20003797462",
@@ -8792,7 +9002,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579541+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501103+00:00"
   },
   {
     "id": "20003797464",
@@ -8813,7 +9023,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-05-01T15:15:38.579551+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501112+00:00"
   },
   {
     "id": "20003797465",
@@ -8834,7 +9044,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (6)",
-    "scraped_at": "2026-05-01T15:15:38.579555+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501121+00:00"
   },
   {
     "id": "20003797466",
@@ -8855,7 +9065,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579560+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501127+00:00"
   },
   {
     "id": "20003797469",
@@ -8876,7 +9086,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-05-01T15:15:38.579575+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501140+00:00"
   },
   {
     "id": "20003797470",
@@ -8897,7 +9107,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579581+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501148+00:00"
   },
   {
     "id": "20003797474",
@@ -8918,7 +9128,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-05-01T15:15:38.579602+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501165+00:00"
   },
   {
     "id": "20003797475",
@@ -8939,7 +9149,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579608+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501171+00:00"
   },
   {
     "id": "20003797477",
@@ -8960,7 +9170,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-05-01T15:15:38.579617+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501179+00:00"
   },
   {
     "id": "20003797478",
@@ -8981,7 +9191,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579623+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501184+00:00"
   },
   {
     "id": "20003797481",
@@ -9002,7 +9212,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-05-01T15:15:38.579638+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501200+00:00"
   },
   {
     "id": "20003797482",
@@ -9023,7 +9233,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579643+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501204+00:00"
   },
   {
     "id": "20003797483",
@@ -9044,7 +9254,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-05-01T15:15:38.579647+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501209+00:00"
   },
   {
     "id": "20003797484",
@@ -9065,7 +9275,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579654+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501213+00:00"
   },
   {
     "id": "20003797486",
@@ -9086,7 +9296,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-05-01T15:15:38.579664+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501224+00:00"
   },
   {
     "id": "20003797487",
@@ -9107,7 +9317,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (6)",
-    "scraped_at": "2026-05-01T15:15:38.579668+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501228+00:00"
   },
   {
     "id": "20003797488",
@@ -9128,7 +9338,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579673+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501233+00:00"
   },
   {
     "id": "20003797490",
@@ -9149,7 +9359,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-05-01T15:15:38.579685+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501243+00:00"
   },
   {
     "id": "20003797491",
@@ -9170,7 +9380,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579690+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501249+00:00"
   },
   {
     "id": "20003797492",
@@ -9191,7 +9401,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-05-01T15:15:38.579694+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501254+00:00"
   },
   {
     "id": "20003797493",
@@ -9212,7 +9422,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579699+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501258+00:00"
   },
   {
     "id": "20003797496",
@@ -9233,7 +9443,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-05-01T15:15:38.579714+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501271+00:00"
   },
   {
     "id": "20003797497",
@@ -9254,7 +9464,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579718+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501277+00:00"
   },
   {
     "id": "20003797498",
@@ -9275,7 +9485,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579723+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501281+00:00"
   },
   {
     "id": "20003797499",
@@ -9296,7 +9506,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-05-01T15:15:38.579728+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501285+00:00"
   },
   {
     "id": "20003797500",
@@ -9317,7 +9527,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (6)",
-    "scraped_at": "2026-05-01T15:15:38.579736+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501291+00:00"
   },
   {
     "id": "20003797501",
@@ -9338,7 +9548,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-01T15:15:38.579741+00:00"
+    "scraped_at": "2026-05-01T16:30:11.501296+00:00"
   },
   {
     "id": "20003797293",
