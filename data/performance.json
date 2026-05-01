@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-01",
-  "entry_count": 1115,
+  "entry_count": 1117,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -39164,6 +39164,46 @@
       },
       "latest_price": 74.3,
       "return_pct": 1.18,
+      "last_snapshot": "2026-05-01"
+    },
+    {
+      "id": "US|SBMT|2026-04-30|naugle charles travis|9.88",
+      "market": "US",
+      "ticker": "SBMT",
+      "yf_symbol": "SBMT",
+      "company": "Silver Bow Mining Corp.",
+      "insider_name": "Naugle Charles Travis",
+      "title": "CEO",
+      "trade_date": "2026-04-30",
+      "trade_price": 9.88,
+      "value": 49409.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-01": 10.75
+      },
+      "latest_price": 10.75,
+      "return_pct": 8.81,
+      "last_snapshot": "2026-05-01"
+    },
+    {
+      "id": "US|AXR|2026-04-29|dahl james h|27.78",
+      "market": "US",
+      "ticker": "AXR",
+      "yf_symbol": "AXR",
+      "company": "Amrep Corp.",
+      "insider_name": "Dahl James H",
+      "title": "10%",
+      "trade_date": "2026-04-29",
+      "trade_price": 27.78,
+      "value": 222257.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-01": 27.88
+      },
+      "latest_price": 27.88,
+      "return_pct": 0.36,
       "last_snapshot": "2026-05-01"
     }
   ]

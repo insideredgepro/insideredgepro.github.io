@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T21:43:54Z",
-  "trade_count": 6255,
+  "last_updated": "2026-05-01T22:41:29Z",
+  "trade_count": 6257,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -100081,6 +100081,38 @@
       "delta_own": "+5%",
       "value": "1101490",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-01",
+      "filing_time": "18:13",
+      "trade_date": "2026-04-30",
+      "ticker": "SBMT",
+      "company": "Silver Bow Mining Corp.",
+      "insider_name": "Naugle Charles Travis",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "9.88",
+      "qty": "5000",
+      "owned": "148799",
+      "delta_own": "+3%",
+      "value": "49409",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-01",
+      "filing_time": "18:01",
+      "trade_date": "2026-04-29",
+      "ticker": "AXR",
+      "company": "Amrep Corp.",
+      "insider_name": "Dahl James H",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "27.78",
+      "qty": "8000",
+      "owned": "983998",
+      "delta_own": "+1%",
+      "value": "222257",
+      "cluster_buy": true
     }
   ]
 }
