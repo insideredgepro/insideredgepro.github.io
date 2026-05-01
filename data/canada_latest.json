@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-30T23:00:20Z",
-  "trade_count": 2912,
+  "last_updated": "2026-05-01T01:00:21Z",
+  "trade_count": 2913,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44141,6 +44141,22 @@
       "qty": "9500",
       "price": "2.5600",
       "value": "24320",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4710751",
+      "trade_date": "2026-04-30",
+      "filing_date": "2026-04-30",
+      "company": "Guanajuato Silver Company Ltd.",
+      "ticker": "GSVR",
+      "insider_name": "Trotman, Richard Bryan",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "40000",
+      "price": "0.6290",
+      "value": "25160",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
