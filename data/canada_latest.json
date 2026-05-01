@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T17:00:20Z",
-  "trade_count": 2914,
+  "last_updated": "2026-05-01T19:00:19Z",
+  "trade_count": 2918,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44176,6 +44176,70 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4711168",
+      "trade_date": "2026-05-01",
+      "filing_date": "2026-05-01",
+      "company": "Capital Power Corporation",
+      "ticker": "CPX",
+      "insider_name": "Dey, Avik",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "2250",
+      "price": "64.9900",
+      "value": "146227",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4711220",
+      "trade_date": "2026-05-01",
+      "filing_date": "2026-05-01",
+      "company": "Primaris Real Estate Investment Trust",
+      "ticker": "PMZ-UN",
+      "insider_name": "Schonfeldt, Julian",
+      "title": "Senior Officer",
+      "security": "Series A Units",
+      "qty": "27670",
+      "price": "18.8500",
+      "value": "521579",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4711140",
+      "trade_date": "2026-05-01",
+      "filing_date": "2026-05-01",
+      "company": "Silver Crown Royalties Inc.",
+      "ticker": "SCRI",
+      "insider_name": "Bures, Peter",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "9000",
+      "price": "24.5000",
+      "value": "220500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4711139",
+      "trade_date": "2026-05-01",
+      "filing_date": "2026-05-01",
+      "company": "Silver Crown Royalties Inc.",
+      "ticker": "SCRI",
+      "insider_name": "Bures, Peter",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "1000",
+      "price": "24.5000",
+      "value": "24500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
