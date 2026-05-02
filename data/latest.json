@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T23:43:07Z",
-  "trade_count": 6260,
+  "last_updated": "2026-05-02T09:58:42Z",
+  "trade_count": 6261,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -100161,6 +100161,22 @@
       "delta_own": "+20%",
       "value": "9999990",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-01",
+      "filing_time": "21:46",
+      "trade_date": "2026-04-27",
+      "ticker": "LASE",
+      "company": "Laser Photonics Corp",
+      "insider_name": "Lu Qing",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.68",
+      "qty": "69000",
+      "owned": "83812",
+      "delta_own": "+466%",
+      "value": "46860",
+      "cluster_buy": false
     }
   ]
 }
