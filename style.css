@@ -609,3 +609,177 @@ footer {
   .market-nav-btn { padding: 6px 9px; }
   .market-nav-btn.active { border-bottom-width: 2px; }
 }
+
+/* ================================================================== */
+/* PREMIUM ANIMATIONS                                                   */
+/* ================================================================== */
+
+/* ── 1. Page-load sequence ─────────────────────────────────────────── */
+header {
+  animation: hdrSlideDown .55s cubic-bezier(.22,1,.36,1) both;
+}
+@keyframes hdrSlideDown {
+  from { transform: translateY(-100%); opacity: 0; }
+  to   { transform: translateY(0);     opacity: 1; }
+}
+
+.topbar { animation: aniFedeIn .5s ease both; }
+@keyframes aniFedeIn { from { opacity: 0; } to { opacity: 1; } }
+
+.brand-text   { animation: aniSlideX   .45s ease .25s both; }
+.market-nav   { animation: aniSlideX   .45s ease .30s both; }
+@keyframes aniSlideX {
+  from { opacity: 0; transform: translateX(-8px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+.header-right { animation: aniSlideRight .45s ease .35s both; }
+@keyframes aniSlideRight {
+  from { opacity: 0; transform: translateX(10px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+.stats        { animation: aniSlideUp .4s ease .20s both; }
+.filters-wrap { animation: aniSlideUp .4s ease .50s both; }
+.table-section{ animation: aniFedeIn  .4s ease .65s both; }
+@keyframes aniSlideUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── 2. Logo pop + float ───────────────────────────────────────────── */
+.brand-logo {
+  animation:
+    aniLogoPop   .65s cubic-bezier(.34,1.56,.64,1) .15s both,
+    aniLogoFloat  4s  ease-in-out                  .85s infinite;
+}
+@keyframes aniLogoPop {
+  from { transform: scale(.5); opacity: 0; }
+  to   { transform: scale(1);  opacity: 1; }
+}
+@keyframes aniLogoFloat {
+  0%, 100% { filter: drop-shadow(0 0 8px var(--gold-glow)); transform: translateY(0); }
+  50%       { filter: drop-shadow(0 0 20px rgba(26,188,219,.7)); transform: translateY(-2px); }
+}
+
+/* ── 3. Stat cards — staggered entrance + hover lift ──────────────── */
+.stat-card {
+  animation: aniCardIn .45s cubic-bezier(.22,1,.36,1) both;
+  transition: background .15s, transform .22s cubic-bezier(.22,1,.36,1), box-shadow .22s ease;
+}
+.stat-card:nth-child(1) { animation-delay: .25s; }
+.stat-card:nth-child(2) { animation-delay: .35s; }
+.stat-card:nth-child(3) { animation-delay: .45s; }
+.stat-card:nth-child(4) { animation-delay: .55s; }
+@keyframes aniCardIn {
+  from { opacity: 0; transform: translateY(16px) scale(.97); }
+  to   { opacity: 1; transform: translateY(0)    scale(1); }
+}
+.stat-card:hover {
+  transform: translateY(-3px) !important;
+  box-shadow: 0 14px 36px rgba(0,0,0,.45), 0 0 0 1px rgba(26,188,219,.2) !important;
+  background: var(--surface2) !important;
+}
+
+/* ── 4. Gold rule — animated light sweep ───────────────────────────── */
+.gold-rule {
+  opacity: .7 !important;
+  background-size: 300% 100% !important;
+  animation: aniRuleFlow 5s linear infinite;
+}
+@keyframes aniRuleFlow {
+  0%   { background-position: 300% 0; }
+  100% { background-position: -300% 0; }
+}
+
+/* ── 5. Table rows — slide in with CSS stagger ─────────────────────── */
+tbody tr { animation: aniRowIn .3s ease both; }
+@keyframes aniRowIn {
+  from { opacity: 0; transform: translateX(-6px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+tbody tr:nth-child(1)      { animation-delay:   0ms; }
+tbody tr:nth-child(2)      { animation-delay:  16ms; }
+tbody tr:nth-child(3)      { animation-delay:  32ms; }
+tbody tr:nth-child(4)      { animation-delay:  48ms; }
+tbody tr:nth-child(5)      { animation-delay:  64ms; }
+tbody tr:nth-child(6)      { animation-delay:  80ms; }
+tbody tr:nth-child(7)      { animation-delay:  96ms; }
+tbody tr:nth-child(8)      { animation-delay: 112ms; }
+tbody tr:nth-child(9)      { animation-delay: 128ms; }
+tbody tr:nth-child(10)     { animation-delay: 144ms; }
+tbody tr:nth-child(11)     { animation-delay: 160ms; }
+tbody tr:nth-child(12)     { animation-delay: 174ms; }
+tbody tr:nth-child(13)     { animation-delay: 188ms; }
+tbody tr:nth-child(14)     { animation-delay: 202ms; }
+tbody tr:nth-child(15)     { animation-delay: 216ms; }
+tbody tr:nth-child(16)     { animation-delay: 230ms; }
+tbody tr:nth-child(17)     { animation-delay: 244ms; }
+tbody tr:nth-child(18)     { animation-delay: 258ms; }
+tbody tr:nth-child(19)     { animation-delay: 272ms; }
+tbody tr:nth-child(20)     { animation-delay: 286ms; }
+tbody tr:nth-child(n+21)   { animation-delay: 300ms; }
+
+/* ── 6. New-data flash (JS adds .row-flash class) ──────────────────── */
+tbody tr.row-flash {
+  animation: aniRowFlash .9s ease forwards !important;
+}
+@keyframes aniRowFlash {
+  0%   { background: rgba(26,188,219,.22) !important; }
+  100% { background: transparent !important; }
+}
+
+/* ── 7. Cluster badge — scan line shine ────────────────────────────── */
+.badge-cluster { position: relative; overflow: hidden; }
+.badge-cluster::after {
+  content: '';
+  position: absolute; top: 0; left: -120%; bottom: 0; width: 80%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,.22), transparent);
+  animation: aniBadgeScan 3.5s ease infinite;
+  pointer-events: none;
+}
+@keyframes aniBadgeScan {
+  0%  { left: -120%; }
+  28% { left: 140%; }
+  100%{ left: 140%; }
+}
+
+/* ── 8. Live dot — always-on ripple ───────────────────────────────── */
+.live-dot:not(.loading) {
+  animation: aniLiveRipple 2s ease infinite !important;
+  box-shadow: none;
+}
+@keyframes aniLiveRipple {
+  0%  { box-shadow: 0 0 0 0   rgba(16,217,138,.8); }
+  65% { box-shadow: 0 0 0 9px rgba(16,217,138,0); }
+  100%{ box-shadow: 0 0 0 0   rgba(16,217,138,0); }
+}
+
+/* ── 9. Filter pill active glow ────────────────────────────────────── */
+.btn-range.active { animation: aniPillGlow 2.5s ease infinite; }
+@keyframes aniPillGlow {
+  0%, 100% { box-shadow: 0 0 0 0   rgba(26,188,219,.12); }
+  50%       { box-shadow: 0 0 8px 2px rgba(26,188,219,.25); }
+}
+
+/* ── 10. Sort arrow spring pop ─────────────────────────────────────── */
+th.sort-asc  .sort-arrow,
+th.sort-desc .sort-arrow { animation: aniArrowPop .2s cubic-bezier(.34,1.56,.64,1) both; }
+@keyframes aniArrowPop {
+  from { opacity: 0; transform: scale(.2); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+/* ── 11. Search focus ring ──────────────────────────────────────────── */
+#search-input:focus {
+  box-shadow: 0 0 0 3px var(--gold-bg), 0 0 20px rgba(26,188,219,.06) !important;
+}
+
+/* ── prefers-reduced-motion ─────────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: .001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .001ms !important;
+  }
+}

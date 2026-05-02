@@ -932,6 +932,18 @@
     return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
   }
 
+  function animCounter(el, target, fmt) {
+    const dur = 750, s = performance.now();
+    const from = parseFloat(el.dataset.animFrom || '0') || 0;
+    el.dataset.animFrom = target;
+    (function tick(now) {
+      const p = Math.min((now - s) / dur, 1), e = 1 - Math.pow(1 - p, 3);
+      const v = from + (target - from) * e;
+      el.textContent = fmt ? fmt(v) : Math.round(v).toLocaleString();
+      if (p < 1) requestAnimationFrame(tick);
+    })(s);
+  }
+
   const MONTHS = {jan:0,feb:1,mar:2,apr:3,may:4,jun:5,jul:6,aug:7,sep:8,oct:9,nov:10,dec:11};
 
   /* Normalise date — handles ISO "2026-03-12", "9 Mar 2026", or separate traded_date+traded_year */
@@ -1160,14 +1172,14 @@
     const buys  = filtered.filter(t => (t.transaction_type || '').toUpperCase() === 'BUY').length;
     const sells = filtered.filter(t => (t.transaction_type || '').toUpperCase() === 'SELL').length;
     const politicians = new Set(filtered.map(t => t.politician_name)).size;
-    statTotal.textContent      = filtered.length.toLocaleString();
-    statBuys.textContent       = buys.toLocaleString();
-    statSells.textContent      = sells.toLocaleString();
-    statPoliticians.textContent = politicians.toLocaleString();
-    document.getElementById('m-stat-total').textContent      = statTotal.textContent;
-    document.getElementById('m-stat-buys').textContent       = statBuys.textContent;
-    document.getElementById('m-stat-sells').textContent      = statSells.textContent;
-    document.getElementById('m-stat-politicians').textContent = statPoliticians.textContent;
+    animCounter(statTotal,       filtered.length, null);
+    animCounter(statBuys,        buys,            null);
+    animCounter(statSells,       sells,           null);
+    animCounter(statPoliticians, politicians,     null);
+    document.getElementById('m-stat-total').textContent       = filtered.length.toLocaleString();
+    document.getElementById('m-stat-buys').textContent        = buys.toLocaleString();
+    document.getElementById('m-stat-sells').textContent       = sells.toLocaleString();
+    document.getElementById('m-stat-politicians').textContent  = politicians.toLocaleString();
   }
 
   /* ── Pagination state ── */

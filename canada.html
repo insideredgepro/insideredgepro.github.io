@@ -516,6 +516,18 @@
     return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
   }
 
+  function animCounter(el, target, fmt) {
+    const dur = 750, s = performance.now();
+    const from = parseFloat(el.dataset.animFrom || '0') || 0;
+    el.dataset.animFrom = target;
+    (function tick(now) {
+      const p = Math.min((now - s) / dur, 1), e = 1 - Math.pow(1 - p, 3);
+      const v = from + (target - from) * e;
+      el.textContent = fmt ? fmt(v) : Math.round(v).toLocaleString();
+      if (p < 1) requestAnimationFrame(tick);
+    })(s);
+  }
+
   function parseNumber(v) {
     if (v === null || v === undefined || v === '') return 0;
     const s = String(v).replace(/[$,\s%+]/g, '');
@@ -697,19 +709,19 @@
     const clusterCount  = displayTrades.filter(t => t.cluster_buy).length;
     const uniqueTickers = new Set(displayTrades.map(t => t.ticker)).size;
 
-    statVisible.textContent    = displayTrades.length.toLocaleString();
+    animCounter(statVisible,    displayTrades.length, null);
+    animCounter(statClusters,   clusterCount,         null);
+    animCounter(statTotalValue, totalValue,           formatCurrency);
+    animCounter(statTickers,    uniqueTickers,        null);
     setTradeCount(displayTrades.length.toLocaleString() + ' trades');
-    statClusters.textContent   = clusterCount.toLocaleString();
-    statTotalValue.textContent = formatCurrency(totalValue);
-    statTickers.textContent    = uniqueTickers.toLocaleString();
-    document.getElementById('h-stat-visible').textContent    = statVisible.textContent;
-    document.getElementById('h-stat-clusters').textContent   = statClusters.textContent;
-    document.getElementById('h-stat-total-value').textContent = statTotalValue.textContent;
-    document.getElementById('h-stat-tickers').textContent    = statTickers.textContent;
-    document.getElementById('m-stat-visible').textContent    = statVisible.textContent;
-    document.getElementById('m-stat-clusters').textContent   = statClusters.textContent;
-    document.getElementById('m-stat-total-value').textContent = statTotalValue.textContent;
-    document.getElementById('m-stat-tickers').textContent    = statTickers.textContent;
+    document.getElementById('h-stat-visible').textContent     = displayTrades.length.toLocaleString();
+    document.getElementById('h-stat-clusters').textContent    = clusterCount.toLocaleString();
+    document.getElementById('h-stat-total-value').textContent = formatCurrency(totalValue);
+    document.getElementById('h-stat-tickers').textContent     = uniqueTickers.toLocaleString();
+    document.getElementById('m-stat-visible').textContent     = displayTrades.length.toLocaleString();
+    document.getElementById('m-stat-clusters').textContent    = clusterCount.toLocaleString();
+    document.getElementById('m-stat-total-value').textContent = formatCurrency(totalValue);
+    document.getElementById('m-stat-tickers').textContent     = uniqueTickers.toLocaleString();
 
     renderRows(displayTrades);
   }

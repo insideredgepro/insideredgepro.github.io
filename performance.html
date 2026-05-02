@@ -498,6 +498,18 @@
       .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
 
+  function animCounter(el, target, fmt) {
+    const dur = 750, s = performance.now();
+    const from = parseFloat(el.dataset.animFrom || '0') || 0;
+    el.dataset.animFrom = target;
+    (function tick(now) {
+      const p = Math.min((now - s) / dur, 1), e = 1 - Math.pow(1 - p, 3);
+      const v = from + (target - from) * e;
+      el.textContent = fmt ? fmt(v) : Math.round(v).toLocaleString();
+      if (p < 1) requestAnimationFrame(tick);
+    })(s);
+  }
+
   function formatCurrency(n, currency) {
     const sym = currency === 'CAD' ? 'CA$' : '$';
     if (!n || n === 0) return '—';
@@ -586,7 +598,7 @@
     document.getElementById('m-lbl-best').textContent = bestLabel;
     document.getElementById('lbl-best').textContent   = bestLabelLg;
 
-    statTotal.textContent   = filtered.length.toLocaleString();
+    animCounter(statTotal, filtered.length, null);
     statWinning.textContent = winPct !== null ? winPct + '%' : '—';
     statBest.textContent    = bestText;
     statAvg.textContent     = avgReturn !== null ? (avgReturn >= 0 ? '+' : '') + avgReturn.toFixed(1) + '%' : '—';
