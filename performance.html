@@ -719,11 +719,11 @@
     statWinning.textContent = winPct !== null ? winPct + '%' : '—';
     statBest.textContent    = bestText;
     statAvg.textContent     = avgReturn !== null ? (avgReturn >= 0 ? '+' : '') + avgReturn.toFixed(1) + '%' : '—';
-    document.getElementById('h-stat-total').textContent   = statTotal.textContent;
+    document.getElementById('h-stat-total').textContent   = filtered.length.toLocaleString();
     document.getElementById('h-stat-winning').textContent = statWinning.textContent;
     document.getElementById('h-stat-best').textContent    = statBest.textContent;
     document.getElementById('h-stat-avg').textContent     = statAvg.textContent;
-    document.getElementById('m-stat-total').textContent   = statTotal.textContent;
+    document.getElementById('m-stat-total').textContent   = filtered.length.toLocaleString();
     document.getElementById('m-stat-winning').textContent = statWinning.textContent;
     document.getElementById('m-stat-best').textContent    = statBest.textContent;
     document.getElementById('m-stat-avg').textContent     = statAvg.textContent;
