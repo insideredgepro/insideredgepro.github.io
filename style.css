@@ -692,33 +692,12 @@ header {
   100% { background-position: -300% 0; }
 }
 
-/* ── 5. Table rows — slide in with CSS stagger ─────────────────────── */
-tbody tr { animation: aniRowIn .15s ease both; }
+/* ── 5. Table rows — fade in, no stagger (avoids re-fire lag on filter change) */
+tbody tr { animation: aniRowIn .12s ease both; }
 @keyframes aniRowIn {
-  from { opacity: 0; transform: translateX(-6px); }
+  from { opacity: 0; transform: translateX(-4px); }
   to   { opacity: 1; transform: translateX(0); }
 }
-tbody tr:nth-child(1)      { animation-delay:   0ms; }
-tbody tr:nth-child(2)      { animation-delay:   8ms; }
-tbody tr:nth-child(3)      { animation-delay:  16ms; }
-tbody tr:nth-child(4)      { animation-delay:  24ms; }
-tbody tr:nth-child(5)      { animation-delay:  32ms; }
-tbody tr:nth-child(6)      { animation-delay:  40ms; }
-tbody tr:nth-child(7)      { animation-delay:  48ms; }
-tbody tr:nth-child(8)      { animation-delay:  56ms; }
-tbody tr:nth-child(9)      { animation-delay:  64ms; }
-tbody tr:nth-child(10)     { animation-delay:  72ms; }
-tbody tr:nth-child(11)     { animation-delay:  80ms; }
-tbody tr:nth-child(12)     { animation-delay:  87ms; }
-tbody tr:nth-child(13)     { animation-delay:  94ms; }
-tbody tr:nth-child(14)     { animation-delay: 101ms; }
-tbody tr:nth-child(15)     { animation-delay: 108ms; }
-tbody tr:nth-child(16)     { animation-delay: 115ms; }
-tbody tr:nth-child(17)     { animation-delay: 122ms; }
-tbody tr:nth-child(18)     { animation-delay: 129ms; }
-tbody tr:nth-child(19)     { animation-delay: 136ms; }
-tbody tr:nth-child(20)     { animation-delay: 143ms; }
-tbody tr:nth-child(n+21)   { animation-delay: 150ms; }
 
 /* ── 6. New-data flash (JS adds .row-flash class) ──────────────────── */
 tbody tr.row-flash {

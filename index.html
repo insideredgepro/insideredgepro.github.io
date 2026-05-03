@@ -235,8 +235,8 @@
         radial-gradient(ellipse 40% 60% at 28% 0%,  rgba(34,211,238,0.14) 0%, transparent 60%),
         radial-gradient(ellipse 50% 45% at 80% 0%,  rgba(34,211,238,0.08) 0%, transparent 65%),
         radial-gradient(ellipse 25% 30% at 50% 10%, rgba(34,211,238,0.06) 0%, transparent 55%);
-      filter: blur(10px);
-      animation: ambientDrift 16s ease-in-out infinite alternate;
+      will-change: transform;
+      transform: translateZ(0);
     }
     @keyframes ambientDrift {
       0%   { transform: translate3d(0,   0,   0) scale(1);    }
@@ -252,8 +252,8 @@
     /* 3. Header — matches body navy so it blends (no contrast island) */
     header {
       background: rgba(7,11,17,0.80);
-      backdrop-filter: blur(18px);
-      -webkit-backdrop-filter: blur(18px);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
       border-bottom: 1px solid rgba(150,200,225,0.10);
       box-shadow: 0 1px 0 rgba(150,200,225,0.06), 0 4px 32px rgba(0,0,0,.55);
     }
