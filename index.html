@@ -245,8 +245,9 @@
     }
 
     /* Ensure all content layers sit above the ambient layer */
-    .topbar, header, main, .stats, .controls, .table-wrapper,
+    .topbar, main, .stats, .controls, .table-wrapper,
     .footer, section, .gold-rule { position: relative; z-index: 1; }
+    header { position: sticky; z-index: 200; }
 
     /* 3. Header — matches body navy so it blends (no contrast island) */
     header {

@@ -555,8 +555,9 @@
       50%  { transform: translate3d(-20px, 14px, 0) scale(1.04); }
       100% { transform: translate3d(10px, -8px, 0) scale(0.98); }
     }
-    .topbar, header, main, .stats, .controls, .table-wrapper,
+    .topbar, main, .stats, .controls, .table-wrapper,
     .footer, section, .gold-rule { position: relative; z-index: 1; }
+    header { position: sticky; z-index: 200; }
     header {
       background: rgba(7,11,17,0.80);
       backdrop-filter: blur(18px);
