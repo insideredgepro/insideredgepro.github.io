@@ -6256,7 +6256,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-01,16:15,2026-04-30,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,15.91,2000,1636013,0%,31820,False
 2026-05-01,16:13,2026-05-01,IP,International Paper Co /New/,Tozier Scott,Dir,P - Purchase,31.30,10000,10025,>999%,313009,False
 2026-05-01,16:10,2026-05-01,TXT,Textron Inc,Kennedy Thomas A,Dir,P - Purchase,95.98,10300,20162,+104%,988594,False
-2026-05-01,16:07,2026-04-29,SPGI,S&P Global Inc.,Cheung Martina,"CEO, Pres",P - Purchase,429.93,2322,27518,+9%,998297,False
+2026-05-01,16:07,2026-04-29,SPGI,S&P Global Inc.,Cheung Martina,"CEO, Pres",P - Purchase,429.93,2322,27518,+9%,998297,True
 2026-05-01,16:05,2026-04-29,EQBK,Equity Bancshares Inc,Rogerson Donald Scott,Dir,P - Purchase,45.93,2000,5000,+67%,91860,False
 2026-05-01,16:03,2026-04-29,CECO,Ceco Environmental Corp,Wallman Richard F,Dir,P - Purchase,73.43,15000,315409,+5%,1101490,False
 2026-05-01,18:13,2026-04-30,SBMT,Silver Bow Mining Corp.,Naugle Charles Travis,CEO,P - Purchase,9.88,5000,148799,+3%,49409,False
@@ -6276,3 +6276,18 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-04,08:34,2026-05-01,ANIK,"Anika Therapeutics, Inc.",Henneman John B III,Dir,P - Purchase,14.66,5000,54871,+10%,73320,True
 2026-05-04,14:21,2026-04-30,RIVN,"Rivian Automotive, Inc. / De",Volkswagen AG,10%,P - Purchase,15.90,62889522,209769645,+43%,999943400,False
 2026-05-04,14:08,2026-05-01,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"Pres, 10%",P - Purchase,4.16,10000,7592140,0%,41592,False
+2026-05-04,16:33,2026-04-30,ARE,"Alexandria Real Estate Equities, Inc.",Thomas Gregory Calvin,EVP - CTO,P - Purchase,41.00,3500,33024,+12%,143500,False
+2026-05-04,16:30,2026-04-30,UUU,"Universal Safety Products, Inc.",Ault Milton C III,"Dir, 10%",P - Purchase,5.75,155000,868452,+22%,891250,False
+2026-05-04,16:19,2026-04-30,SPGI,S&P Global Inc.,Moritz Robert Edward Jr.,Dir,P - Purchase,434.03,1152,1152,New,500001,True
+2026-05-04,16:18,2026-05-01,SPGI,S&P Global Inc.,Clay Catherine R,"CEO, S, P Dow Jones Indices",P - Purchase,431.39,2500,2500,New,1078475,True
+2026-05-04,16:17,2026-04-30,NWBI,"Northwest Bancshares, Inc.",Betchkal Gregory J.,Chief Risk Officer,P - Purchase,13.93,5000,93814,+6%,69650,True
+2026-05-04,16:15,2026-05-04,XYL,Xylem Inc.,Peribere Jerome A,Dir,P - Purchase,116.61,1210,31245,+4%,141098,False
+2026-05-04,16:15,2026-05-01,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,16.53,2000,1638013,0%,33060,False
+2026-05-04,16:10,2026-05-04,GLND,Greenland Energy Co,Baqar Hassan,Dir,P - Purchase,2.90,45000,0,-100%,130500,True
+2026-05-04,16:07,2026-04-30,FGBI,"First Guaranty Bancshares, Inc.",Smith Edgar R. III,"Dir, 10%",P - Purchase,9.17,109051,5438435,+2%,999998,True
+2026-05-04,16:07,2026-04-30,FGBI,"First Guaranty Bancshares, Inc.",McAnally Bruce,Dir,P - Purchase,9.17,109051,472314,+30%,999998,True
+2026-05-04,16:05,2026-04-30,SRAD,Sportradar Group AG,Koerl Carsten,CEO,P - Purchase,13.16,254100,2278272,+13%,3342856,True
+2026-05-04,16:05,2026-04-30,AYI,Acuity Inc. (De),Leibman Maya,Dir,P - Purchase,288.83,200,1457,+16%,57766,False
+2026-05-04,16:02,2026-05-04,GLND,Greenland Energy Co,Swets Larry G Jr,Dir,P - Purchase,2.98,50000,475000,+12%,149000,True
+2026-05-04,16:00,2026-05-01,NTRS,Northern Trust Corp,Moritz Robert Edward Jr.,Dir,P - Purchase,166.41,225,8145,+3%,37442,False
+2026-05-04,15:38,2026-05-01,NWBI,"Northwest Bancshares, Inc.",Bowers Urich T,"Chief Cons. Banking , Strat Of",P - Purchase,13.98,7000,44901,+18%,97825,True
