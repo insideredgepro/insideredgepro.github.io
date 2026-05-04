@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-04T17:00:55Z",
-  "trade_count": 2925,
+  "last_updated": "2026-05-04T19:00:59Z",
+  "trade_count": 2926,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44349,6 +44349,22 @@
       "qty": "32856",
       "price": "6.7362",
       "value": "221324",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4712356",
+      "trade_date": "2026-05-04",
+      "filing_date": "2026-05-04",
+      "company": "Canada Packers Inc.",
+      "ticker": "CPKR",
+      "insider_name": "Vels, Michael Harold",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "18.5100",
+      "value": "185100",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
