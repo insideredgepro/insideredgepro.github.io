@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-04",
-  "entry_count": 1058,
+  "entry_count": 1061,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -39963,6 +39963,66 @@
       },
       "latest_price": 5.11,
       "return_pct": -91.63,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|HAYW|2026-04-30|canning susan m.|12.76",
+      "market": "US",
+      "ticker": "HAYW",
+      "yf_symbol": "HAYW",
+      "company": "Hayward Holdings, Inc.",
+      "insider_name": "Canning Susan M.",
+      "title": "SVP, CLO, Corporate Secretary",
+      "trade_date": "2026-04-30",
+      "trade_price": 12.76,
+      "value": 28606.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 14.4
+      },
+      "latest_price": 14.4,
+      "return_pct": 12.85,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|FND|2026-05-04|langley bryan|48.69",
+      "market": "US",
+      "ticker": "FND",
+      "yf_symbol": "FND",
+      "company": "Floor & Decor Holdings, Inc.",
+      "insider_name": "Langley Bryan",
+      "title": "EVP, CFO",
+      "trade_date": "2026-05-04",
+      "trade_price": 48.69,
+      "value": 121725.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 48.22
+      },
+      "latest_price": 48.22,
+      "return_pct": -0.97,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|SPTX|2026-05-04|arch venture partners xii, llc|18.0",
+      "market": "US",
+      "ticker": "SPTX",
+      "yf_symbol": "SPTX",
+      "company": "Seaport Therapeutics, Inc.",
+      "insider_name": "Arch Venture Partners Xii, LLC",
+      "title": "10%",
+      "trade_date": "2026-05-04",
+      "trade_price": 18.0,
+      "value": 19800000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 17.0
+      },
+      "latest_price": 17.0,
+      "return_pct": -5.56,
       "last_snapshot": "2026-05-04"
     }
   ]
