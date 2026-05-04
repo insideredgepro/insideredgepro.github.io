@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-04",
-  "entry_count": 1027,
+  "entry_count": 1034,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -39343,6 +39343,146 @@
       },
       "latest_price": 34.72,
       "return_pct": -1.36,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|JEF|2026-05-01|sumitomo mitsui financial group, inc.|48.22",
+      "market": "US",
+      "ticker": "JEF",
+      "yf_symbol": "JEF",
+      "company": "Jefferies Financial Group Inc.",
+      "insider_name": "Sumitomo Mitsui Financial Group, Inc.",
+      "title": "Dir",
+      "trade_date": "2026-05-01",
+      "trade_price": 48.22,
+      "value": 310022630.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 49.29
+      },
+      "latest_price": 49.29,
+      "return_pct": 2.22,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|SRAD|2026-04-30|walder marc|12.77",
+      "market": "US",
+      "ticker": "SRAD",
+      "yf_symbol": "SRAD",
+      "company": "Sportradar Group AG",
+      "insider_name": "Walder Marc",
+      "title": "Dir",
+      "trade_date": "2026-04-30",
+      "trade_price": 12.77,
+      "value": 842820.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 13.26
+      },
+      "latest_price": 13.26,
+      "return_pct": 3.84,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|SRAD|2026-04-30|yabuki jeffery w|12.94",
+      "market": "US",
+      "ticker": "SRAD",
+      "yf_symbol": "SRAD",
+      "company": "Sportradar Group AG",
+      "insider_name": "Yabuki Jeffery W",
+      "title": "Dir",
+      "trade_date": "2026-04-30",
+      "trade_price": 12.94,
+      "value": 129400.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 13.26
+      },
+      "latest_price": 13.26,
+      "return_pct": 2.47,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|SRAD|2026-04-30|ramanathan rajani|12.5",
+      "market": "US",
+      "ticker": "SRAD",
+      "yf_symbol": "SRAD",
+      "company": "Sportradar Group AG",
+      "insider_name": "Ramanathan Rajani",
+      "title": "Dir",
+      "trade_date": "2026-04-30",
+      "trade_price": 12.5,
+      "value": 100000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 13.26
+      },
+      "latest_price": 13.26,
+      "return_pct": 6.08,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|SRAD|2026-04-30|kurtz william|12.97",
+      "market": "US",
+      "ticker": "SRAD",
+      "yf_symbol": "SRAD",
+      "company": "Sportradar Group AG",
+      "insider_name": "Kurtz William",
+      "title": "Dir",
+      "trade_date": "2026-04-30",
+      "trade_price": 12.97,
+      "value": 103786.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 13.26
+      },
+      "latest_price": 13.26,
+      "return_pct": 2.24,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|SRAD|2026-04-30|fleet george|12.73",
+      "market": "US",
+      "ticker": "SRAD",
+      "yf_symbol": "SRAD",
+      "company": "Sportradar Group AG",
+      "insider_name": "Fleet George",
+      "title": "Dir",
+      "trade_date": "2026-04-30",
+      "trade_price": 12.73,
+      "value": 99931.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 13.26
+      },
+      "latest_price": 13.26,
+      "return_pct": 4.16,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|SRAD|2026-04-30|bigley deirdre mary|12.57",
+      "market": "US",
+      "ticker": "SRAD",
+      "yf_symbol": "SRAD",
+      "company": "Sportradar Group AG",
+      "insider_name": "Bigley Deirdre Mary",
+      "title": "Dir",
+      "trade_date": "2026-04-30",
+      "trade_price": 12.57,
+      "value": 49526.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 13.26
+      },
+      "latest_price": 13.26,
+      "return_pct": 5.49,
       "last_snapshot": "2026-05-04"
     }
   ]
