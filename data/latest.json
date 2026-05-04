@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-04T12:20:22Z",
-  "trade_count": 6269,
+  "last_updated": "2026-05-04T15:05:43Z",
+  "trade_count": 6270,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -99024,7 +99024,7 @@
       "owned": "36163",
       "delta_own": "+51%",
       "value": "149881",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-30",
@@ -100304,6 +100304,22 @@
       "owned": "21366",
       "delta_own": "+23%",
       "value": "49526",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-04",
+      "filing_time": "08:34",
+      "trade_date": "2026-05-01",
+      "ticker": "ANIK",
+      "company": "Anika Therapeutics, Inc.",
+      "insider_name": "Henneman John B III",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "14.66",
+      "qty": "5000",
+      "owned": "54871",
+      "delta_own": "+10%",
+      "value": "73320",
       "cluster_buy": true
     }
   ]
