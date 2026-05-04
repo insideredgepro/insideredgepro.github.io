@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-04T17:23:21Z",
-  "trade_count": 6270,
+  "last_updated": "2026-05-04T19:15:47Z",
+  "trade_count": 6272,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -100321,6 +100321,38 @@
       "delta_own": "+10%",
       "value": "73320",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-04",
+      "filing_time": "14:21",
+      "trade_date": "2026-04-30",
+      "ticker": "RIVN",
+      "company": "Rivian Automotive, Inc. / De",
+      "insider_name": "Volkswagen AG",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "15.90",
+      "qty": "62889522",
+      "owned": "209769645",
+      "delta_own": "+43%",
+      "value": "999943400",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-04",
+      "filing_time": "14:08",
+      "trade_date": "2026-05-01",
+      "ticker": "NTHI",
+      "company": "Neonc Technologies Holdings, Inc.",
+      "insider_name": "Heshmatpour Amir F",
+      "title": "Pres, 10%",
+      "trade_type": "P - Purchase",
+      "price": "4.16",
+      "qty": "10000",
+      "owned": "7592140",
+      "delta_own": "0%",
+      "value": "41592",
+      "cluster_buy": false
     }
   ]
 }
