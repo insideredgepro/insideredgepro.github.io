@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-04",
-  "entry_count": 1026,
+  "entry_count": 1027,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -39323,6 +39323,26 @@
       },
       "latest_price": 0.718,
       "return_pct": 5.59,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|CSGP|2026-05-01|florance andrew c|35.2",
+      "market": "US",
+      "ticker": "CSGP",
+      "yf_symbol": "CSGP",
+      "company": "Costar Group, Inc.",
+      "insider_name": "Florance Andrew C",
+      "title": "Pres, CEO",
+      "trade_date": "2026-05-01",
+      "trade_price": 35.2,
+      "value": 2514208.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 34.72
+      },
+      "latest_price": 34.72,
+      "return_pct": -1.36,
       "last_snapshot": "2026-05-04"
     }
   ]
