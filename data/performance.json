@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-04",
-  "entry_count": 1052,
+  "entry_count": 1058,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -39843,6 +39843,126 @@
       },
       "latest_price": 13.78,
       "return_pct": -1.43,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|FND|2026-05-04|paulsen bradley|50.25",
+      "market": "US",
+      "ticker": "FND",
+      "yf_symbol": "FND",
+      "company": "Floor & Decor Holdings, Inc.",
+      "insider_name": "Paulsen Bradley",
+      "title": "CEO",
+      "trade_date": "2026-05-04",
+      "trade_price": 50.25,
+      "value": 251250.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 48.22
+      },
+      "latest_price": 48.22,
+      "return_pct": -4.04,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|OPCH|2026-05-04|sethna meenal|20.16",
+      "market": "US",
+      "ticker": "OPCH",
+      "yf_symbol": "OPCH",
+      "company": "Option Care Health, Inc.",
+      "insider_name": "Sethna Meenal",
+      "title": "CFO",
+      "trade_date": "2026-05-04",
+      "trade_price": 20.16,
+      "value": 327075.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 21.14
+      },
+      "latest_price": 21.14,
+      "return_pct": 4.86,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|OPCH|2026-05-04|rademacher john charles|21.18",
+      "market": "US",
+      "ticker": "OPCH",
+      "yf_symbol": "OPCH",
+      "company": "Option Care Health, Inc.",
+      "insider_name": "Rademacher John Charles",
+      "title": "CEO",
+      "trade_date": "2026-05-04",
+      "trade_price": 21.18,
+      "value": 264706.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 21.14
+      },
+      "latest_price": 21.14,
+      "return_pct": -0.19,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|TMUS|2026-05-01|almeida andre|196.18",
+      "market": "US",
+      "ticker": "TMUS",
+      "yf_symbol": "TMUS",
+      "company": "T-Mobile Us, Inc.",
+      "insider_name": "Almeida Andre",
+      "title": "Chief Broadband, Ent., Emerg",
+      "trade_date": "2026-05-01",
+      "trade_price": 196.18,
+      "value": 1000016.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 194.42
+      },
+      "latest_price": 194.42,
+      "return_pct": -0.9,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|ACGL|2026-04-30|houston daniel joseph|94.09",
+      "market": "US",
+      "ticker": "ACGL",
+      "yf_symbol": "ACGL",
+      "company": "Arch Capital Group Ltd.",
+      "insider_name": "Houston Daniel Joseph",
+      "title": "Dir",
+      "trade_date": "2026-04-30",
+      "trade_price": 94.09,
+      "value": 498651.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 93.65
+      },
+      "latest_price": 93.65,
+      "return_pct": -0.47,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|GVH|2026-04-29|yu tsz ngo|61.05",
+      "market": "US",
+      "ticker": "GVH",
+      "yf_symbol": "GVH",
+      "company": "Globavend Holdings Ltd",
+      "insider_name": "Yu Tsz Ngo",
+      "title": "CFO, 10%",
+      "trade_date": "2026-04-29",
+      "trade_price": 61.05,
+      "value": 3499820.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 5.11
+      },
+      "latest_price": 5.11,
+      "return_pct": -91.63,
       "last_snapshot": "2026-05-04"
     }
   ]
