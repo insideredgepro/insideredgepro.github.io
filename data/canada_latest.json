@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-04T23:00:22Z",
-  "trade_count": 2931,
+  "last_updated": "2026-05-05T01:00:25Z",
+  "trade_count": 2932,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44445,6 +44445,22 @@
       "qty": "75000",
       "price": "1.4477",
       "value": "108577",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4712760",
+      "trade_date": "2026-05-04",
+      "filing_date": "2026-05-04",
+      "company": "Dixie Gold Inc.",
+      "ticker": "DG",
+      "insider_name": "Malhi, Kulwant",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "1759000",
+      "price": "0.0350",
+      "value": "61565",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
