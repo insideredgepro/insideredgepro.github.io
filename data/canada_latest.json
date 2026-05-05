@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-05T17:00:21Z",
-  "trade_count": 2937,
+  "last_updated": "2026-05-05T19:00:24Z",
+  "trade_count": 2939,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44541,6 +44541,38 @@
       "qty": "1677",
       "price": "29.5000",
       "value": "49471",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4713506",
+      "trade_date": "2026-05-05",
+      "filing_date": "2026-05-05",
+      "company": "Bullion Gold Resources Corp.",
+      "ticker": "BGD",
+      "insider_name": "Moore, Jean-David",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "200000",
+      "price": "0.0900",
+      "value": "18000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4713221",
+      "trade_date": "2026-05-05",
+      "filing_date": "2026-05-05",
+      "company": "Lumina Metals Corp.",
+      "ticker": "LMCU",
+      "insider_name": "Pandoff, Jordan",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "13000",
+      "price": "11.3957",
+      "value": "148144",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
