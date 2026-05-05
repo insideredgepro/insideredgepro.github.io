@@ -6276,7 +6276,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-04,08:34,2026-05-01,ANIK,"Anika Therapeutics, Inc.",Henneman John B III,Dir,P - Purchase,14.66,5000,54871,+10%,73320,True
 2026-05-04,14:21,2026-04-30,RIVN,"Rivian Automotive, Inc. / De",Volkswagen AG,10%,P - Purchase,15.90,62889522,209769645,+43%,999943400,False
 2026-05-04,14:08,2026-05-01,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"Pres, 10%",P - Purchase,4.16,10000,7592140,0%,41592,False
-2026-05-04,16:33,2026-04-30,ARE,"Alexandria Real Estate Equities, Inc.",Thomas Gregory Calvin,EVP - CTO,P - Purchase,41.00,3500,33024,+12%,143500,False
+2026-05-04,16:33,2026-04-30,ARE,"Alexandria Real Estate Equities, Inc.",Thomas Gregory Calvin,EVP - CTO,P - Purchase,41.00,3500,33024,+12%,143500,True
 2026-05-04,16:30,2026-04-30,UUU,"Universal Safety Products, Inc.",Ault Milton C III,"Dir, 10%",P - Purchase,5.75,155000,868452,+22%,891250,False
 2026-05-04,16:19,2026-04-30,SPGI,S&P Global Inc.,Moritz Robert Edward Jr.,Dir,P - Purchase,434.03,1152,1152,New,500001,True
 2026-05-04,16:18,2026-05-01,SPGI,S&P Global Inc.,Clay Catherine R,"CEO, S, P Dow Jones Indices",P - Purchase,431.39,2500,2500,New,1078475,True
@@ -6311,3 +6311,13 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-05,12:44,2026-05-04,MPB,Mid Penn Bancorp Inc,De Soto Matthew G,Dir,P - Purchase,32.75,1525,124773,+1%,49948,False
 2026-05-05,15:01,2026-05-04,CLMB,"Climb Global Solutions, Inc.",McCarthy John R,Dir,P - Purchase,18.83,4000,85876,+5%,75320,False
 2026-05-05,14:00,2026-05-04,CAT,Caterpillar Inc,Maclennan David,Dir,P - Purchase,876.84,250,8206,+3%,219210,False
+2026-05-05,16:37,2026-05-01,MKL,Markel Group Inc.,Puckett A. Lynne,Dir,P - Purchase,1795.53,57,1815,+3%,102345,False
+2026-05-05,16:32,2026-05-04,ARE,"Alexandria Real Estate Equities, Inc.",Marcus Joel S,Exec COB,P - Purchase,41.02,10000,572724,+2%,410200,True
+2026-05-05,16:16,2026-05-01,TBBK,"Bancorp, Inc.",Cohn Matthew,Dir,P - Purchase,59.52,2500,234469,+1%,148798,False
+2026-05-05,16:16,2026-05-05,L,Loews Corp,Robusto Dino,Dir,P - Purchase,105.44,5000,5235,>999%,527200,False
+2026-05-05,16:15,2026-05-04,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,16.56,2000,1640013,0%,33129,False
+2026-05-05,16:15,2026-05-01,AVLN,Avalyn Pharma Inc.,Novo Holdings A/S,10%,P - Purchase,18.00,555555,3883289,+17%,9999990,True
+2026-05-05,16:10,2026-05-04,PDC,Perpetuals.Com Ltd,Hilmer Michael Anthony,Dir,P - Purchase,8.13,4000,4000,New,32505,False
+2026-05-05,16:08,2026-04-30,FGBI,"First Guaranty Bancshares, Inc.",Reynolds Marshall T,"Dir, 10%",P - Purchase,9.17,109051,2251235,+5%,999998,True
+2026-05-05,16:03,2026-05-04,TENB,"Tenable Holdings, Inc.",Brown Matthew Charles,Chief Financial  Officer,P - Purchase,21.54,12000,30541,+65%,258480,False
+2026-05-05,16:02,2026-05-04,WTW,Willis Towers Watson Plc,Hess Carl Aaron,CEO,P - Purchase,255.08,2000,117425,+2%,510160,False
