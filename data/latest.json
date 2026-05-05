@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-05T13:16:40Z",
-  "trade_count": 6300,
+  "last_updated": "2026-05-05T15:30:38Z",
+  "trade_count": 6303,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -100801,6 +100801,54 @@
       "delta_own": "New",
       "value": "49975",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-05",
+      "filing_time": "10:20",
+      "trade_date": "2026-05-01",
+      "ticker": "SGRP",
+      "company": "Spar Group, Inc.",
+      "insider_name": "Hennen Steven Michael",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "0.64",
+      "qty": "78000",
+      "owned": "133000",
+      "delta_own": "+142%",
+      "value": "49920",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-05",
+      "filing_time": "09:37",
+      "trade_date": "2026-05-01",
+      "ticker": "WSBK",
+      "company": "Winchester Bancorp, Inc./Md/",
+      "insider_name": "Boodakian Stephen Harry",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "12.93",
+      "qty": "2500",
+      "owned": "10000",
+      "delta_own": "+33%",
+      "value": "32325",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-05",
+      "filing_time": "09:24",
+      "trade_date": "2026-04-28",
+      "ticker": "AVBC",
+      "company": "Avidia Bancorp, Inc.",
+      "insider_name": "Karmelek Nicolas",
+      "title": "EVP, CRO",
+      "trade_type": "P - Purchase",
+      "price": "20.76",
+      "qty": "1209",
+      "owned": "30661",
+      "delta_own": "+4%",
+      "value": "25099",
+      "cluster_buy": true
     }
   ]
 }
