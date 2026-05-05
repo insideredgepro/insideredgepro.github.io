@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-05T15:30:38Z",
-  "trade_count": 6303,
+  "last_updated": "2026-05-05T17:17:34Z",
+  "trade_count": 6305,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -100849,6 +100849,38 @@
       "delta_own": "+4%",
       "value": "25099",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-05",
+      "filing_time": "13:14",
+      "trade_date": "2026-04-27",
+      "ticker": "AERA",
+      "company": "Ai Era Corp.",
+      "insider_name": "Deng Chiyuan",
+      "title": "Pres, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.01",
+      "qty": "110000",
+      "owned": "2635822",
+      "delta_own": "+4%",
+      "value": "111100",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-05",
+      "filing_time": "12:44",
+      "trade_date": "2026-05-04",
+      "ticker": "MPB",
+      "company": "Mid Penn Bancorp Inc",
+      "insider_name": "De Soto Matthew G",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "32.75",
+      "qty": "1525",
+      "owned": "124773",
+      "delta_own": "+1%",
+      "value": "49948",
+      "cluster_buy": false
     }
   ]
 }
