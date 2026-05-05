@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-05",
-  "entry_count": 1043,
+  "entry_count": 1053,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -40142,6 +40142,202 @@
       },
       "latest_price": 259.47,
       "return_pct": 1.72,
+      "last_snapshot": "2026-05-05"
+    },
+    {
+      "id": "US|GTE|2026-05-01|lm asset management inc.|9.19",
+      "market": "US",
+      "ticker": "GTE",
+      "yf_symbol": "GTE",
+      "company": "Gran Tierra Energy Inc.",
+      "insider_name": "Lm Asset Management Inc.",
+      "title": "10%",
+      "trade_date": "2026-05-01",
+      "trade_price": 9.19,
+      "value": 891387.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-05": 9.39
+      },
+      "latest_price": 9.39,
+      "return_pct": 2.18,
+      "last_snapshot": "2026-05-05"
+    },
+    {
+      "id": "US|BUSE|2026-05-04|phillips scott a.|25.9",
+      "market": "US",
+      "ticker": "BUSE",
+      "yf_symbol": "BUSE",
+      "company": "First Busey Corp /Nv/",
+      "insider_name": "Phillips Scott A.",
+      "title": "Chief Accounting Officer",
+      "trade_date": "2026-05-04",
+      "trade_price": 25.9,
+      "value": 129508.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-05": 26.56
+      },
+      "latest_price": 26.56,
+      "return_pct": 2.55,
+      "last_snapshot": "2026-05-05"
+    },
+    {
+      "id": "US|BIP|2026-05-01|krant david tyler|48.1",
+      "market": "US",
+      "ticker": "BIP",
+      "yf_symbol": "BIP",
+      "company": "Brookfield Infrastructure Partners L.P.",
+      "insider_name": "Krant David Tyler",
+      "title": "CFO",
+      "trade_date": "2026-05-01",
+      "trade_price": 48.1,
+      "value": 55315.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-05": 36.28
+      },
+      "latest_price": 36.28,
+      "return_pct": -24.57,
+      "last_snapshot": "2026-05-05"
+    },
+    {
+      "id": "US|OPCH|2026-05-04|kraemer harry m jansen jr|21.41",
+      "market": "US",
+      "ticker": "OPCH",
+      "yf_symbol": "OPCH",
+      "company": "Option Care Health, Inc.",
+      "insider_name": "Kraemer Harry M Jansen Jr",
+      "title": "Dir",
+      "trade_date": "2026-05-04",
+      "trade_price": 21.41,
+      "value": 783773.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-05": 21.3
+      },
+      "latest_price": 21.3,
+      "return_pct": -0.51,
+      "last_snapshot": "2026-05-05"
+    },
+    {
+      "id": "US|MCAH|2026-05-01|liu suying|10.0",
+      "market": "US",
+      "ticker": "MCAH",
+      "yf_symbol": "MCAH",
+      "company": "Mountain Crest Acquisition 6 Corp.",
+      "insider_name": "Liu Suying",
+      "title": "CEO, CFO, 10%",
+      "trade_date": "2026-05-01",
+      "trade_price": 10.0,
+      "value": 250000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "US|MCAH|2026-05-01|mountain crest holdings 6 llc|10.0",
+      "market": "US",
+      "ticker": "MCAH",
+      "yf_symbol": "MCAH",
+      "company": "Mountain Crest Acquisition 6 Corp.",
+      "insider_name": "Mountain Crest Holdings 6 LLC",
+      "title": "10%",
+      "trade_date": "2026-05-01",
+      "trade_price": 10.0,
+      "value": 250000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "US|ECL|2026-05-04|maclennan david|256.91",
+      "market": "US",
+      "ticker": "ECL",
+      "yf_symbol": "ECL",
+      "company": "Ecolab Inc.",
+      "insider_name": "Maclennan David",
+      "title": "Dir",
+      "trade_date": "2026-05-04",
+      "trade_price": 256.91,
+      "value": 205530.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-05": 257.65
+      },
+      "latest_price": 257.65,
+      "return_pct": 0.29,
+      "last_snapshot": "2026-05-05"
+    },
+    {
+      "id": "US|AWRE|2026-05-01|amlani ajay k|1.16",
+      "market": "US",
+      "ticker": "AWRE",
+      "yf_symbol": "AWRE",
+      "company": "Aware Inc /Ma/",
+      "insider_name": "Amlani Ajay K",
+      "title": "Pres, CEO",
+      "trade_date": "2026-05-01",
+      "trade_price": 1.16,
+      "value": 34550.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-05": 1.25
+      },
+      "latest_price": 1.25,
+      "return_pct": 7.76,
+      "last_snapshot": "2026-05-05"
+    },
+    {
+      "id": "US|RRBI|2026-05-05|price teddy ray|85.79",
+      "market": "US",
+      "ticker": "RRBI",
+      "yf_symbol": "RRBI",
+      "company": "Red River Bancshares Inc",
+      "insider_name": "Price Teddy Ray",
+      "title": "Dir",
+      "trade_date": "2026-05-05",
+      "trade_price": 85.79,
+      "value": 110243.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-05": 89.13
+      },
+      "latest_price": 89.13,
+      "return_pct": 3.89,
+      "last_snapshot": "2026-05-05"
+    },
+    {
+      "id": "US|CLX|2026-05-05|breber pierre r|85.82",
+      "market": "US",
+      "ticker": "CLX",
+      "yf_symbol": "CLX",
+      "company": "Clorox Co /De/",
+      "insider_name": "Breber Pierre R",
+      "title": "Dir",
+      "trade_date": "2026-05-05",
+      "trade_price": 85.82,
+      "value": 429124.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-05": 86.12
+      },
+      "latest_price": 86.12,
+      "return_pct": 0.35,
       "last_snapshot": "2026-05-05"
     }
   ]
