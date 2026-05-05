@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-04",
-  "entry_count": 1061,
+  "entry_count": 1063,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -40023,6 +40023,46 @@
       },
       "latest_price": 17.0,
       "return_pct": -5.56,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|NMM|2026-04-30|frangou angeliki|71.62",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-04-30",
+      "trade_price": 71.62,
+      "value": 250668.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 71.18
+      },
+      "latest_price": 71.18,
+      "return_pct": -0.61,
+      "last_snapshot": "2026-05-04"
+    },
+    {
+      "id": "US|PS|2026-04-30|ackman william a|23.77",
+      "market": "US",
+      "ticker": "PS",
+      "yf_symbol": "PS",
+      "company": "Pershing Square Inc.",
+      "insider_name": "Ackman William A",
+      "title": "CEO, COB, 10%",
+      "trade_date": "2026-04-30",
+      "trade_price": 23.77,
+      "value": 19015801.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-04": 34.21
+      },
+      "latest_price": 34.21,
+      "return_pct": 43.92,
       "last_snapshot": "2026-05-04"
     }
   ]

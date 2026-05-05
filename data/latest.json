@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-04T23:44:12Z",
-  "trade_count": 6296,
+  "last_updated": "2026-05-05T02:00:55Z",
+  "trade_count": 6299,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -100736,6 +100736,54 @@
       "owned": "6294951",
       "delta_own": "+21%",
       "value": "19800000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-04",
+      "filing_time": "21:10",
+      "trade_date": "2026-04-30",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "71.62",
+      "qty": "3500",
+      "owned": "5702726",
+      "delta_own": "0%",
+      "value": "250668",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-04",
+      "filing_time": "20:39",
+      "trade_date": "2026-04-30",
+      "ticker": "PS",
+      "company": "Pershing Square Inc.",
+      "insider_name": "Ackman William A",
+      "title": "CEO, COB, 10%",
+      "trade_type": "P - Purchase",
+      "price": "23.77",
+      "qty": "800000",
+      "owned": "94640492",
+      "delta_own": "+1%",
+      "value": "19015801",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-04",
+      "filing_time": "19:46",
+      "trade_date": "2025-08-11",
+      "ticker": "MMI",
+      "company": "Marcus & Millichap, Inc.",
+      "insider_name": "Martin Lauralee",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "29.34",
+      "qty": "1701",
+      "owned": "17728",
+      "delta_own": "+11%",
+      "value": "49905",
       "cluster_buy": false
     }
   ]
