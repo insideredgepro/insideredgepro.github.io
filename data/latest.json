@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-05T17:17:34Z",
-  "trade_count": 6305,
+  "last_updated": "2026-05-05T19:06:36Z",
+  "trade_count": 6307,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -100880,6 +100880,38 @@
       "owned": "124773",
       "delta_own": "+1%",
       "value": "49948",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-05",
+      "filing_time": "15:01",
+      "trade_date": "2026-05-04",
+      "ticker": "CLMB",
+      "company": "Climb Global Solutions, Inc.",
+      "insider_name": "McCarthy John R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "18.83",
+      "qty": "4000",
+      "owned": "85876",
+      "delta_own": "+5%",
+      "value": "75320",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-05",
+      "filing_time": "14:00",
+      "trade_date": "2026-05-04",
+      "ticker": "CAT",
+      "company": "Caterpillar Inc",
+      "insider_name": "Maclennan David",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "876.84",
+      "qty": "250",
+      "owned": "8206",
+      "delta_own": "+3%",
+      "value": "219210",
       "cluster_buy": false
     }
   ]
