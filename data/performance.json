@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-05",
-  "entry_count": 1026,
+  "entry_count": 1027,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -39802,6 +39802,26 @@
       },
       "latest_price": 34.21,
       "return_pct": 43.92,
+      "last_snapshot": "2026-05-05"
+    },
+    {
+      "id": "US|ASIC|2026-05-04|schenk chris|19.99",
+      "market": "US",
+      "ticker": "ASIC",
+      "yf_symbol": "ASIC",
+      "company": "Ategrity Specialty Insurance Co Holdings",
+      "insider_name": "Schenk Chris",
+      "title": "See Remarks",
+      "trade_date": "2026-05-04",
+      "trade_price": 19.99,
+      "value": 49975.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-05": 19.16
+      },
+      "latest_price": 19.16,
+      "return_pct": -4.15,
       "last_snapshot": "2026-05-05"
     }
   ]

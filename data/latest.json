@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-05T11:12:20Z",
-  "trade_count": 6299,
+  "last_updated": "2026-05-05T13:16:40Z",
+  "trade_count": 6300,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -100784,6 +100784,22 @@
       "owned": "17728",
       "delta_own": "+11%",
       "value": "49905",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-05",
+      "filing_time": "08:56",
+      "trade_date": "2026-05-04",
+      "ticker": "ASIC",
+      "company": "Ategrity Specialty Insurance Co Holdings",
+      "insider_name": "Schenk Chris",
+      "title": "See Remarks",
+      "trade_type": "P - Purchase",
+      "price": "19.99",
+      "qty": "2500",
+      "owned": "2500",
+      "delta_own": "New",
+      "value": "49975",
       "cluster_buy": false
     }
   ]
