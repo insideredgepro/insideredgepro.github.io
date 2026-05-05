@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-05T15:00:21Z",
-  "trade_count": 2936,
+  "last_updated": "2026-05-05T17:00:21Z",
+  "trade_count": 2937,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44525,6 +44525,22 @@
       "qty": "10000",
       "price": "2.6500",
       "value": "26500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4713185",
+      "trade_date": "2026-05-05",
+      "filing_date": "2026-05-05",
+      "company": "Skeena Resources Limited",
+      "ticker": "SKE",
+      "insider_name": "Coles, Jr., Walter",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "1677",
+      "price": "29.5000",
+      "value": "49471",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
