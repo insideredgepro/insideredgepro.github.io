@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-05T21:00:21Z",
-  "trade_count": 2944,
+  "last_updated": "2026-05-06T00:47:35Z",
+  "trade_count": 2946,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44653,6 +44653,38 @@
       "qty": "50000",
       "price": "1.6084",
       "value": "80420",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4714211",
+      "trade_date": "2026-05-05",
+      "filing_date": "2026-05-05",
+      "company": "Quimbaya Gold Inc.",
+      "ticker": "QIM.CN",
+      "insider_name": "Wahl, Sebastian",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "0.3000",
+      "value": "15000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4714235",
+      "trade_date": "2026-05-05",
+      "filing_date": "2026-05-05",
+      "company": "Sol Strategies Inc.",
+      "ticker": "HODL.CN",
+      "insider_name": "Guoga, Antanas (Tony)",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "30000",
+      "price": "1.6097",
+      "value": "48291",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
