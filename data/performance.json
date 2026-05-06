@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-06",
-  "entry_count": 1007,
+  "entry_count": 1008,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -39395,6 +39395,26 @@
       },
       "latest_price": 13.36,
       "return_pct": -0.22,
+      "last_snapshot": "2026-05-06"
+    },
+    {
+      "id": "US|NSP|2026-05-05|sarvadi paul j|28.73",
+      "market": "US",
+      "ticker": "NSP",
+      "yf_symbol": "NSP",
+      "company": "Insperity, Inc.",
+      "insider_name": "Sarvadi Paul J",
+      "title": "COB, CEO",
+      "trade_date": "2026-05-05",
+      "trade_price": 28.73,
+      "value": 2873236.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-06": 28.75
+      },
+      "latest_price": 28.75,
+      "return_pct": 0.07,
       "last_snapshot": "2026-05-06"
     }
   ]
