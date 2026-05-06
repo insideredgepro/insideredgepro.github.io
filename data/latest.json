@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-06T17:23:16Z",
-  "trade_count": 6334,
+  "last_updated": "2026-05-06T19:23:43Z",
+  "trade_count": 6335,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -100832,7 +100832,7 @@
       "owned": "10000",
       "delta_own": "+33%",
       "value": "32325",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-05",
@@ -101345,6 +101345,22 @@
       "delta_own": "New",
       "value": "29436",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-06",
+      "filing_time": "13:24",
+      "trade_date": "2026-05-05",
+      "ticker": "WSBK",
+      "company": "Winchester Bancorp, Inc./Md/",
+      "insider_name": "Snow John Ingalls III",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "12.87",
+      "qty": "6110",
+      "owned": "20710",
+      "delta_own": "+42%",
+      "value": "78636",
+      "cluster_buy": true
     }
   ]
 }
