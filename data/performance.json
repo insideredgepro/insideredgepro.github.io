@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-06",
-  "entry_count": 991,
+  "entry_count": 996,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -39075,6 +39075,106 @@
       },
       "latest_price": 8.05,
       "return_pct": -1.11,
+      "last_snapshot": "2026-05-06"
+    },
+    {
+      "id": "US|PATK|2026-05-05|augsburger blake|85.19",
+      "market": "US",
+      "ticker": "PATK",
+      "yf_symbol": "PATK",
+      "company": "Patrick Industries Inc",
+      "insider_name": "Augsburger Blake",
+      "title": "Dir",
+      "trade_date": "2026-05-05",
+      "trade_price": 85.19,
+      "value": 34076.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-06": 90.06
+      },
+      "latest_price": 90.06,
+      "return_pct": 5.72,
+      "last_snapshot": "2026-05-06"
+    },
+    {
+      "id": "US|PATK|2026-05-05|nemeth andy l|88.0",
+      "market": "US",
+      "ticker": "PATK",
+      "yf_symbol": "PATK",
+      "company": "Patrick Industries Inc",
+      "insider_name": "Nemeth Andy L",
+      "title": "CEO",
+      "trade_date": "2026-05-05",
+      "trade_price": 88.0,
+      "value": 880000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-06": 90.06
+      },
+      "latest_price": 90.06,
+      "return_pct": 2.34,
+      "last_snapshot": "2026-05-06"
+    },
+    {
+      "id": "US|PATK|2026-05-05|welch m scott|88.23",
+      "market": "US",
+      "ticker": "PATK",
+      "yf_symbol": "PATK",
+      "company": "Patrick Industries Inc",
+      "insider_name": "Welch M Scott",
+      "title": "Dir",
+      "trade_date": "2026-05-05",
+      "trade_price": 88.23,
+      "value": 886671.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-06": 90.06
+      },
+      "latest_price": 90.06,
+      "return_pct": 2.07,
+      "last_snapshot": "2026-05-06"
+    },
+    {
+      "id": "US|PATK|2026-05-05|filer matthew s|85.5",
+      "market": "US",
+      "ticker": "PATK",
+      "yf_symbol": "PATK",
+      "company": "Patrick Industries Inc",
+      "insider_name": "Filer Matthew S",
+      "title": "EVP Finance, CFO & Treasurer",
+      "trade_date": "2026-05-05",
+      "trade_price": 85.5,
+      "value": 85500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-06": 90.06
+      },
+      "latest_price": 90.06,
+      "return_pct": 5.33,
+      "last_snapshot": "2026-05-06"
+    },
+    {
+      "id": "US|PATK|2026-05-05|roeder charles r|87.83",
+      "market": "US",
+      "ticker": "PATK",
+      "yf_symbol": "PATK",
+      "company": "Patrick Industries Inc",
+      "insider_name": "Roeder Charles R",
+      "title": "Pres - RV",
+      "trade_date": "2026-05-05",
+      "trade_price": 87.83,
+      "value": 505018.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-06": 90.06
+      },
+      "latest_price": 90.06,
+      "return_pct": 2.54,
       "last_snapshot": "2026-05-06"
     }
   ]

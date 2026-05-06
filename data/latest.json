@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-06T10:57:59Z",
-  "trade_count": 6328,
+  "last_updated": "2026-05-06T12:26:34Z",
+  "trade_count": 6333,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -101249,6 +101249,86 @@
       "delta_own": "+402%",
       "value": "203500",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-06",
+      "filing_time": "07:56",
+      "trade_date": "2026-05-05",
+      "ticker": "PATK",
+      "company": "Patrick Industries Inc",
+      "insider_name": "Augsburger Blake",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "85.19",
+      "qty": "400",
+      "owned": "2125",
+      "delta_own": "+23%",
+      "value": "34076",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-06",
+      "filing_time": "07:55",
+      "trade_date": "2026-05-05",
+      "ticker": "PATK",
+      "company": "Patrick Industries Inc",
+      "insider_name": "Nemeth Andy L",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "88.00",
+      "qty": "10000",
+      "owned": "287745",
+      "delta_own": "+4%",
+      "value": "880000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-06",
+      "filing_time": "07:53",
+      "trade_date": "2026-05-05",
+      "ticker": "PATK",
+      "company": "Patrick Industries Inc",
+      "insider_name": "Welch M Scott",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "88.23",
+      "qty": "10050",
+      "owned": "190964",
+      "delta_own": "+6%",
+      "value": "886671",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-06",
+      "filing_time": "07:52",
+      "trade_date": "2026-05-05",
+      "ticker": "PATK",
+      "company": "Patrick Industries Inc",
+      "insider_name": "Filer Matthew S",
+      "title": "EVP Finance, CFO & Treasurer",
+      "trade_type": "P - Purchase",
+      "price": "85.50",
+      "qty": "1000",
+      "owned": "21614",
+      "delta_own": "+5%",
+      "value": "85500",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-06",
+      "filing_time": "07:51",
+      "trade_date": "2026-05-05",
+      "ticker": "PATK",
+      "company": "Patrick Industries Inc",
+      "insider_name": "Roeder Charles R",
+      "title": "Pres - RV",
+      "trade_type": "P - Purchase",
+      "price": "87.83",
+      "qty": "5750",
+      "owned": "42147",
+      "delta_own": "+16%",
+      "value": "505018",
+      "cluster_buy": true
     }
   ]
 }
