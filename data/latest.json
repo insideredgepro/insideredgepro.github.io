@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-06T12:26:34Z",
-  "trade_count": 6333,
+  "last_updated": "2026-05-06T15:23:53Z",
+  "trade_count": 6334,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -101329,6 +101329,22 @@
       "delta_own": "+16%",
       "value": "505018",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-06",
+      "filing_time": "10:57",
+      "trade_date": "2026-05-04",
+      "ticker": "PRPL",
+      "company": "Purple Innovation, Inc.",
+      "insider_name": "Lucian Robert Gerard",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "0.49",
+      "qty": "60000",
+      "owned": "60000",
+      "delta_own": "New",
+      "value": "29436",
+      "cluster_buy": false
     }
   ]
 }
