@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-06T22:44:15Z",
-  "trade_count": 6345,
+  "last_updated": "2026-05-06T23:41:28Z",
+  "trade_count": 6348,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -101520,6 +101520,54 @@
       "owned": "1572582",
       "delta_own": "+7%",
       "value": "2873236",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-06",
+      "filing_time": "19:27",
+      "trade_date": "2026-05-06",
+      "ticker": "AMG",
+      "company": "Affiliated Managers Group, Inc.",
+      "insider_name": "Cates G. Staley",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "305.83",
+      "qty": "1500",
+      "owned": "6405",
+      "delta_own": "+31%",
+      "value": "458745",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-06",
+      "filing_time": "19:16",
+      "trade_date": "2026-05-04",
+      "ticker": "COAG",
+      "company": "Hemab Therapeutics Holdings, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "18.39",
+      "qty": "2840429",
+      "owned": "6314525",
+      "delta_own": "+82%",
+      "value": "52222946",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-06",
+      "filing_time": "19:04",
+      "trade_date": "2026-05-06",
+      "ticker": "BRK.B",
+      "company": "Berkshire Hathaway Inc",
+      "insider_name": "O'Sullivan Michael J.",
+      "title": "See Remarks",
+      "trade_type": "P - Purchase",
+      "price": "467.44",
+      "qty": "536",
+      "owned": "663",
+      "delta_own": "+422%",
+      "value": "250545",
       "cluster_buy": false
     }
   ]

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-06",
-  "entry_count": 1008,
+  "entry_count": 1011,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -39415,6 +39415,66 @@
       },
       "latest_price": 28.75,
       "return_pct": 0.07,
+      "last_snapshot": "2026-05-06"
+    },
+    {
+      "id": "US|AMG|2026-05-06|cates g. staley|305.83",
+      "market": "US",
+      "ticker": "AMG",
+      "yf_symbol": "AMG",
+      "company": "Affiliated Managers Group, Inc.",
+      "insider_name": "Cates G. Staley",
+      "title": "Dir",
+      "trade_date": "2026-05-06",
+      "trade_price": 305.83,
+      "value": 458745.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-06": 306.02
+      },
+      "latest_price": 306.02,
+      "return_pct": 0.06,
+      "last_snapshot": "2026-05-06"
+    },
+    {
+      "id": "US|COAG|2026-05-04|ra capital management, l.p.|18.39",
+      "market": "US",
+      "ticker": "COAG",
+      "yf_symbol": "COAG",
+      "company": "Hemab Therapeutics Holdings, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-04",
+      "trade_price": 18.39,
+      "value": 52222946.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-06": 25.01
+      },
+      "latest_price": 25.01,
+      "return_pct": 36.0,
+      "last_snapshot": "2026-05-06"
+    },
+    {
+      "id": "US|BRK.B|2026-05-06|o'sullivan michael j.|467.44",
+      "market": "US",
+      "ticker": "BRK.B",
+      "yf_symbol": "BRK.B",
+      "company": "Berkshire Hathaway Inc",
+      "insider_name": "O'Sullivan Michael J.",
+      "title": "See Remarks",
+      "trade_date": "2026-05-06",
+      "trade_price": 467.44,
+      "value": 250545.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-06": 465.52
+      },
+      "latest_price": 465.52,
+      "return_pct": -0.41,
       "last_snapshot": "2026-05-06"
     }
   ]
