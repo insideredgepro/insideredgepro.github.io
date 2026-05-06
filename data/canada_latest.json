@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-06T13:00:24Z",
-  "trade_count": 2946,
+  "last_updated": "2026-05-06T15:00:23Z",
+  "trade_count": 2948,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44591,7 +44591,7 @@
       "value": "100550",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4713763",
@@ -44688,6 +44688,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4714699",
+      "trade_date": "2026-05-06",
+      "filing_date": "2026-05-06",
+      "company": "Eldorado Gold Corporation",
+      "ticker": "ELD",
+      "insider_name": "Ferneyhough, Paul Anthony",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "1100",
+      "price": "42.1600",
+      "value": "46375",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4714737",
+      "trade_date": "2026-05-06",
+      "filing_date": "2026-05-06",
+      "company": "Eldorado Gold Corporation",
+      "ticker": "ELD",
+      "insider_name": "Reid, Steven Paul",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "6000",
+      "price": "43.3348",
+      "value": "260008",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
