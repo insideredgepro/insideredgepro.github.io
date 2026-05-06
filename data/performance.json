@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-05",
-  "entry_count": 1053,
+  "entry_count": 1054,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -40338,6 +40338,26 @@
       },
       "latest_price": 86.12,
       "return_pct": 0.35,
+      "last_snapshot": "2026-05-05"
+    },
+    {
+      "id": "US|AVTR|2026-05-01|dingemans simon|8.14",
+      "market": "US",
+      "ticker": "AVTR",
+      "yf_symbol": "AVTR",
+      "company": "Avantor, Inc.",
+      "insider_name": "Dingemans Simon",
+      "title": "Dir",
+      "trade_date": "2026-05-01",
+      "trade_price": 8.14,
+      "value": 203500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-05": 8.05
+      },
+      "latest_price": 8.05,
+      "return_pct": -1.11,
       "last_snapshot": "2026-05-05"
     }
   ]

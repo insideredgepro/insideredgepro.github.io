@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-05T23:40:48Z",
-  "trade_count": 6327,
+  "last_updated": "2026-05-06T02:00:02Z",
+  "trade_count": 6328,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -101232,6 +101232,22 @@
       "owned": "18000",
       "delta_own": "+38%",
       "value": "429124",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-05",
+      "filing_time": "19:44",
+      "trade_date": "2026-05-01",
+      "ticker": "AVTR",
+      "company": "Avantor, Inc.",
+      "insider_name": "Dingemans Simon",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "8.14",
+      "qty": "25000",
+      "owned": "31225",
+      "delta_own": "+402%",
+      "value": "203500",
       "cluster_buy": false
     }
   ]
