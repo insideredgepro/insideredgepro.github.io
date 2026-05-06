@@ -374,6 +374,90 @@
     "scraped_at": "2026-03-03T06:07:47.231168"
   },
   {
+    "id": "20003797527",
+    "politician_name": "Kelly Morrison",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MN",
+    "company": "HERMEUS CORP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-04",
+    "trade_published": "2026-05-06",
+    "filed_after_days": "1",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Investment Fund 1 Description: High speed aircraft manufacturer, Atlanta, GA",
+    "scraped_at": "2026-05-06T14:44:32.398841+00:00"
+  },
+  {
+    "id": "20003797529",
+    "politician_name": "Kelly Morrison",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MN",
+    "company": "SARONIC TECHNOLOGIES INC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-04",
+    "trade_published": "2026-05-06",
+    "filed_after_days": "1",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Investment Fund 1 Description: Autonomous maritime vessels, Austin, TX",
+    "scraped_at": "2026-05-06T14:44:32.398852+00:00"
+  },
+  {
+    "id": "20003797530",
+    "politician_name": "Kelly Morrison",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MN",
+    "company": "STAR CATCHER INDUSTRIES INC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-04",
+    "trade_published": "2026-05-06",
+    "filed_after_days": "1",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Investment Fund 1 Description: Energy infrastructure in space, Jacksonville, FL",
+    "scraped_at": "2026-05-06T14:44:32.398858+00:00"
+  },
+  {
+    "id": "20003797524",
+    "politician_name": "Kevin Hern",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OK",
+    "company": "The Goldman Sachs Group Inc",
+    "ticker": "GS:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-29",
+    "trade_published": "2026-05-06",
+    "filed_after_days": "6",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Joint",
+    "comment": "Goldman Sachs MTN 4/29/2030 Subholding Of: Hern Family Foundation Description: Note called by issuer",
+    "scraped_at": "2026-05-06T14:44:32.398878+00:00"
+  },
+  {
     "id": "20003797523",
     "politician_name": "Ann Wagner",
     "party": "Republican",
@@ -392,7 +476,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "Subholding Of: Fidelity Trust",
-    "scraped_at": "2026-05-06T12:04:30.067471+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398920+00:00"
   },
   {
     "id": "20003797521",
@@ -413,7 +497,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Subholding Of: Fidelity Trust",
-    "scraped_at": "2026-05-06T12:04:30.067459+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398911+00:00"
   },
   {
     "id": "10000064900",
@@ -434,7 +518,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067795+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399181+00:00"
   },
   {
     "id": "20003797502",
@@ -455,7 +539,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sale of Spouse Inherited Assets",
-    "scraped_at": "2026-05-06T12:04:30.067842+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399225+00:00"
   },
   {
     "id": "20003797503",
@@ -476,7 +560,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sale of Spouse Inherited Assets",
-    "scraped_at": "2026-05-06T12:04:30.067847+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399229+00:00"
   },
   {
     "id": "20003797506",
@@ -497,7 +581,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sale of Spouse Inherited Assets",
-    "scraped_at": "2026-05-06T12:04:30.067863+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399244+00:00"
   },
   {
     "id": "20003797508",
@@ -518,7 +602,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sale of Spouse Inherited Assets",
-    "scraped_at": "2026-05-06T12:04:30.067874+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399254+00:00"
   },
   {
     "id": "20003797509",
@@ -539,7 +623,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sale of Spouse Inherited Assets",
-    "scraped_at": "2026-05-06T12:04:30.067879+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399260+00:00"
   },
   {
     "id": "10000064901",
@@ -560,7 +644,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067799+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399186+00:00"
   },
   {
     "id": "20003797422",
@@ -626,6 +710,27 @@
     "scraped_at": "2026-05-01T14:13:21.187429+00:00"
   },
   {
+    "id": "20003797528",
+    "politician_name": "Kelly Morrison",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MN",
+    "company": "PELVITAL USA INC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-17",
+    "trade_published": "2026-05-06",
+    "filed_after_days": "18",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Investment Fund 1 Description: Medical devices, Minneapolis, MN",
+    "scraped_at": "2026-05-06T14:44:32.398847+00:00"
+  },
+  {
     "id": "20003797504",
     "politician_name": "Lloyd Smucker",
     "party": "Republican",
@@ -644,7 +749,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sale of Spouse Inherited Assets",
-    "scraped_at": "2026-05-06T12:04:30.067852+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399235+00:00"
   },
   {
     "id": "20003797505",
@@ -665,7 +770,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sale of Spouse Inherited Assets",
-    "scraped_at": "2026-05-06T12:04:30.067859+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399240+00:00"
   },
   {
     "id": "20003797507",
@@ -686,7 +791,28 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sale of Spouse Inherited Assets",
-    "scraped_at": "2026-05-06T12:04:30.067869+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399250+00:00"
+  },
+  {
+    "id": "20003797525",
+    "politician_name": "Kelly Morrison",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MN",
+    "company": "ARTISTRY IN MOTION GROUP LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-15",
+    "trade_published": "2026-05-06",
+    "filed_after_days": "20",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Investment Fund 1 Description: Live events special effects, Northridge, CA",
+    "scraped_at": "2026-05-06T14:44:32.398812+00:00"
   },
   {
     "id": "10000064902",
@@ -707,7 +833,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067803+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399190+00:00"
   },
   {
     "id": "20003797510",
@@ -728,7 +854,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity 401K",
-    "scraped_at": "2026-05-06T12:04:30.067883+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399264+00:00"
   },
   {
     "id": "20003797511",
@@ -749,7 +875,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity SEP-IRA",
-    "scraped_at": "2026-05-06T12:04:30.067887+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399268+00:00"
   },
   {
     "id": "20003797512",
@@ -770,7 +896,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity SEP-IRA",
-    "scraped_at": "2026-05-06T12:04:30.067891+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399272+00:00"
   },
   {
     "id": "20003797513",
@@ -791,7 +917,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity SEP-IRA",
-    "scraped_at": "2026-05-06T12:04:30.067896+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399276+00:00"
   },
   {
     "id": "20003797514",
@@ -812,7 +938,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity 401K",
-    "scraped_at": "2026-05-06T12:04:30.067900+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399280+00:00"
   },
   {
     "id": "20003797515",
@@ -833,7 +959,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity SEP-IRA",
-    "scraped_at": "2026-05-06T12:04:30.067906+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399285+00:00"
   },
   {
     "id": "20003797516",
@@ -854,7 +980,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Fidelity 401K",
-    "scraped_at": "2026-05-06T12:04:30.067910+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399289+00:00"
   },
   {
     "id": "20003797517",
@@ -875,7 +1001,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity 401K",
-    "scraped_at": "2026-05-06T12:04:30.067916+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399295+00:00"
   },
   {
     "id": "20003797518",
@@ -896,7 +1022,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity SEP-IRA",
-    "scraped_at": "2026-05-06T12:04:30.067920+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399298+00:00"
   },
   {
     "id": "20003797519",
@@ -917,7 +1043,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity 401K",
-    "scraped_at": "2026-05-06T12:04:30.067926+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399302+00:00"
   },
   {
     "id": "10000064899",
@@ -941,6 +1067,27 @@
     "scraped_at": "2026-05-01T14:13:21.187582+00:00"
   },
   {
+    "id": "20003797526",
+    "politician_name": "Kelly Morrison",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MN",
+    "company": "CAVALL LLP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-14",
+    "trade_published": "2026-05-06",
+    "filed_after_days": "21",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Investment Fund 1 Description: Sports Software, London, UK",
+    "scraped_at": "2026-05-06T14:44:32.398834+00:00"
+  },
+  {
     "id": "10000064903",
     "politician_name": "David McCormick",
     "party": "Republican",
@@ -959,7 +1106,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067809+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399194+00:00"
   },
   {
     "id": "10000064955",
@@ -980,7 +1127,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067537+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398929+00:00"
   },
   {
     "id": "10000064910",
@@ -1001,7 +1148,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067548+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398934+00:00"
   },
   {
     "id": "10000064911",
@@ -1022,7 +1169,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067559+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398939+00:00"
   },
   {
     "id": "10000064912",
@@ -1043,7 +1190,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067565+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398944+00:00"
   },
   {
     "id": "10000064913",
@@ -1064,7 +1211,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067570+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398950+00:00"
   },
   {
     "id": "10000064932",
@@ -1085,7 +1232,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067676+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399070+00:00"
   },
   {
     "id": "10000064933",
@@ -1106,7 +1253,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067681+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399075+00:00"
   },
   {
     "id": "10000064934",
@@ -1127,7 +1274,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067685+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399080+00:00"
   },
   {
     "id": "10000064935",
@@ -1148,7 +1295,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067690+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399084+00:00"
   },
   {
     "id": "10000064936",
@@ -1169,7 +1316,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067694+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399089+00:00"
   },
   {
     "id": "10000064937",
@@ -1190,7 +1337,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067703+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399094+00:00"
   },
   {
     "id": "10000064938",
@@ -1211,7 +1358,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067710+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399099+00:00"
   },
   {
     "id": "10000064939",
@@ -1232,7 +1379,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067715+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399103+00:00"
   },
   {
     "id": "10000064940",
@@ -1253,7 +1400,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067719+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399112+00:00"
   },
   {
     "id": "10000064941",
@@ -1274,7 +1421,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067723+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399117+00:00"
   },
   {
     "id": "10000064942",
@@ -1295,7 +1442,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067728+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399121+00:00"
   },
   {
     "id": "20003797522",
@@ -1316,7 +1463,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Subholding Of: Fidelity Trust",
-    "scraped_at": "2026-05-06T12:04:30.067465+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398915+00:00"
   },
   {
     "id": "20003797424",
@@ -1400,7 +1547,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067665+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399061+00:00"
   },
   {
     "id": "10000064931",
@@ -1421,7 +1568,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067670+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399066+00:00"
   },
   {
     "id": "10000064904",
@@ -1442,7 +1589,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067815+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399198+00:00"
   },
   {
     "id": "10000064905",
@@ -1463,7 +1610,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067819+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399203+00:00"
   },
   {
     "id": "10000064906",
@@ -1484,7 +1631,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067823+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399207+00:00"
   },
   {
     "id": "20003797441",
@@ -1757,7 +1904,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067660+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399050+00:00"
   },
   {
     "id": "10000064954",
@@ -1778,7 +1925,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067790+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399177+00:00"
   },
   {
     "id": "10000064907",
@@ -1799,7 +1946,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067827+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399212+00:00"
   },
   {
     "id": "20003797428",
@@ -2033,6 +2180,27 @@
     "scraped_at": "2026-05-01T14:13:21.187698+00:00"
   },
   {
+    "id": "20003797531",
+    "politician_name": "Kelly Morrison",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MN",
+    "company": "STAR CATCHER INDUSTRIES INC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-06",
+    "trade_published": "2026-05-06",
+    "filed_after_days": "29",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Investment Fund 1 Description: Energy infrastructure in space, Jacksonville, FL",
+    "scraped_at": "2026-05-06T14:44:32.398865+00:00"
+  },
+  {
     "id": "10000064928",
     "politician_name": "Mark Warner",
     "party": "Democrat",
@@ -2051,7 +2219,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067654+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399038+00:00"
   },
   {
     "id": "10000064908",
@@ -2072,7 +2240,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067831+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399216+00:00"
   },
   {
     "id": "20003797425",
@@ -2135,7 +2303,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067834+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399220+00:00"
   },
   {
     "id": "20003797426",
@@ -2177,7 +2345,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067641+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399011+00:00"
   },
   {
     "id": "10000064927",
@@ -2198,7 +2366,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067647+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399015+00:00"
   },
   {
     "id": "10000064952",
@@ -2219,7 +2387,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067779+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399169+00:00"
   },
   {
     "id": "10000064953",
@@ -2240,7 +2408,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067785+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399173+00:00"
   },
   {
     "id": "20003797427",
@@ -2303,7 +2471,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-06T12:04:30.067944+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399321+00:00"
   },
   {
     "id": "20003797456",
@@ -2324,7 +2492,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-06T12:04:30.067952+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399326+00:00"
   },
   {
     "id": "20003797463",
@@ -3353,7 +3521,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067605+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398977+00:00"
   },
   {
     "id": "10000064920",
@@ -3374,7 +3542,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067611+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398984+00:00"
   },
   {
     "id": "10000064921",
@@ -3395,7 +3563,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067618+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398988+00:00"
   },
   {
     "id": "10000064922",
@@ -3416,7 +3584,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067623+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398992+00:00"
   },
   {
     "id": "10000064923",
@@ -3437,7 +3605,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067627+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398997+00:00"
   },
   {
     "id": "10000064924",
@@ -3458,7 +3626,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067632+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399002+00:00"
   },
   {
     "id": "10000064925",
@@ -3479,7 +3647,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067636+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399007+00:00"
   },
   {
     "id": "10000064945",
@@ -3500,7 +3668,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067744+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399136+00:00"
   },
   {
     "id": "10000064946",
@@ -3521,7 +3689,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067748+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399140+00:00"
   },
   {
     "id": "10000064947",
@@ -3542,7 +3710,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067753+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399145+00:00"
   },
   {
     "id": "10000064948",
@@ -3563,7 +3731,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067761+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399149+00:00"
   },
   {
     "id": "10000064949",
@@ -3584,7 +3752,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067765+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399153+00:00"
   },
   {
     "id": "10000064950",
@@ -3605,7 +3773,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067770+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399160+00:00"
   },
   {
     "id": "10000064951",
@@ -3626,7 +3794,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067774+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399164+00:00"
   },
   {
     "id": "20003797434",
@@ -9107,7 +9275,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: SCH1",
-    "scraped_at": "2026-05-06T12:04:30.067511+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398924+00:00"
   },
   {
     "id": "20003797436",
@@ -9737,7 +9905,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067599+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398973+00:00"
   },
   {
     "id": "20003797452",
@@ -9758,7 +9926,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-05-06T12:04:30.067931+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399307+00:00"
   },
   {
     "id": "20003797453",
@@ -9779,7 +9947,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (6)",
-    "scraped_at": "2026-05-06T12:04:30.067935+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399312+00:00"
   },
   {
     "id": "20003797454",
@@ -9800,7 +9968,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-05-06T12:04:30.067940+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399317+00:00"
   },
   {
     "id": "20003797457",
@@ -9821,7 +9989,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-05-06T12:04:30.067959+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399330+00:00"
   },
   {
     "id": "20003797458",
@@ -9842,7 +10010,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (6)",
-    "scraped_at": "2026-05-06T12:04:30.067963+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399336+00:00"
   },
   {
     "id": "20003797459",
@@ -14357,7 +14525,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067576+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398955+00:00"
   },
   {
     "id": "10000064915",
@@ -14378,7 +14546,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067581+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398959+00:00"
   },
   {
     "id": "10000064916",
@@ -14399,7 +14567,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067588+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398963+00:00"
   },
   {
     "id": "10000064917",
@@ -14420,7 +14588,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067593+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398967+00:00"
   },
   {
     "id": "10000064943",
@@ -14441,7 +14609,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067735+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399126+00:00"
   },
   {
     "id": "10000064944",
@@ -14462,7 +14630,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067740+00:00"
+    "scraped_at": "2026-05-06T14:44:32.399130+00:00"
   },
   {
     "id": "10000064896",
@@ -62153,7 +62321,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067441+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398901+00:00"
   },
   {
     "id": "10000064956",
@@ -62174,7 +62342,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Sale of exercised stock option; strike price $77.68; expires 12/13/2030. This was a cashless sale that occurred on the same day the shares were exercised. The sale was part of the same 5/19/25 exercise transaction that was reported on the PTR filed on 6/13/25.",
-    "scraped_at": "2026-05-06T12:04:30.067416+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398894+00:00"
   },
   {
     "id": "20003796456",
@@ -62216,7 +62384,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-06T12:04:30.067449+00:00"
+    "scraped_at": "2026-05-06T14:44:32.398906+00:00"
   },
   {
     "id": "20003796424",
