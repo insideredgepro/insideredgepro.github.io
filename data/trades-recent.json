@@ -392,7 +392,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Investment Fund 1 Description: High speed aircraft manufacturer, Atlanta, GA",
-    "scraped_at": "2026-05-07T12:03:51.988427+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286211+00:00"
   },
   {
     "id": "20003797529",
@@ -413,7 +413,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Investment Fund 1 Description: Autonomous maritime vessels, Austin, TX",
-    "scraped_at": "2026-05-07T12:03:51.988448+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286219+00:00"
   },
   {
     "id": "20003797530",
@@ -434,7 +434,154 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Investment Fund 1 Description: Energy infrastructure in space, Jacksonville, FL",
-    "scraped_at": "2026-05-07T12:03:51.988454+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286223+00:00"
+  },
+  {
+    "id": "20003797535",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "Clean Harbors Inc",
+    "ticker": "CLH:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-30",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "6",
+    "price": "$312.68",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286014+00:00"
+  },
+  {
+    "id": "20003797538",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "Markel Corp",
+    "ticker": "MKL:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-30",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "6",
+    "price": "$1,772.47",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286045+00:00"
+  },
+  {
+    "id": "20003797539",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "Morningstar Inc",
+    "ticker": "MORN:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-30",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "6",
+    "price": "$168.71",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286053+00:00"
+  },
+  {
+    "id": "20003797547",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "Service Corp International",
+    "ticker": "SCI:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-30",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "6",
+    "price": "$81.03",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286137+00:00"
+  },
+  {
+    "id": "20003797548",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "Steris PLC",
+    "ticker": "STE:US",
+    "sector": "health-care",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-30",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "6",
+    "price": "$216.88",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286144+00:00"
+  },
+  {
+    "id": "20003797543",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "Packaging Corp Of America",
+    "ticker": "PKG:US",
+    "sector": "materials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-29",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "7",
+    "price": "$216.05",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286077+00:00"
+  },
+  {
+    "id": "20003797549",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "TransDigm Group Inc",
+    "ticker": "TDG:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-29",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "7",
+    "price": "$1,142.74",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286149+00:00"
   },
   {
     "id": "20003797524",
@@ -455,7 +602,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "Goldman Sachs MTN 4/29/2030 Subholding Of: Hern Family Foundation Description: Note called by issuer",
-    "scraped_at": "2026-05-07T12:03:51.988463+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286235+00:00"
   },
   {
     "id": "20003797523",
@@ -476,7 +623,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "Subholding Of: Fidelity Trust",
-    "scraped_at": "2026-05-07T12:03:51.988508+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286263+00:00"
   },
   {
     "id": "20003797521",
@@ -497,7 +644,91 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Subholding Of: Fidelity Trust",
-    "scraped_at": "2026-05-07T12:03:51.988497+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286252+00:00"
+  },
+  {
+    "id": "20003797534",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "C.H. Robinson Worldwide Inc",
+    "ticker": "CHRW:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-24",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "12",
+    "price": "$183.03",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286008+00:00"
+  },
+  {
+    "id": "20003797537",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "Fortune Brands Innovations Inc",
+    "ticker": "FBIN:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-24",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "12",
+    "price": "$41.54",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286032+00:00"
+  },
+  {
+    "id": "20003797542",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "Nasdaq Inc",
+    "ticker": "NDAQ:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-24",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "12",
+    "price": "$89.90",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286068+00:00"
+  },
+  {
+    "id": "20003797544",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "Packaging Corp Of America",
+    "ticker": "PKG:US",
+    "sector": "materials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-24",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "12",
+    "price": "$212.87",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286110+00:00"
   },
   {
     "id": "10000064900",
@@ -518,7 +749,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988751+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286512+00:00"
   },
   {
     "id": "20003797502",
@@ -626,6 +857,27 @@
     "scraped_at": "2026-05-07T12:03:51.988832+00:00"
   },
   {
+    "id": "20003797546",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "Paychex Inc",
+    "ticker": "PAYX:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-21",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "15",
+    "price": "$93.68",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286126+00:00"
+  },
+  {
     "id": "10000064901",
     "politician_name": "David McCormick",
     "party": "Republican",
@@ -644,7 +896,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988756+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286516+00:00"
   },
   {
     "id": "20003797422",
@@ -689,6 +941,48 @@
     "scraped_at": "2026-05-01T14:13:21.187421+00:00"
   },
   {
+    "id": "20003797551",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "TransDigm Group Inc",
+    "ticker": "TDG:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-20",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "16",
+    "price": "$1,274.62",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286158+00:00"
+  },
+  {
+    "id": "20003797554",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "VIKING HOLDINGS LTD",
+    "ticker": "VIK:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-20",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "16",
+    "price": "$86.09",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286173+00:00"
+  },
+  {
     "id": "20003797418",
     "politician_name": "Robert Latta",
     "party": "Republican",
@@ -710,6 +1004,69 @@
     "scraped_at": "2026-05-01T14:13:21.187429+00:00"
   },
   {
+    "id": "20003797533",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "Brown & Brown Inc",
+    "ticker": "BRO:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-17",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "19",
+    "price": "$67.72",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286002+00:00"
+  },
+  {
+    "id": "20003797541",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "Morningstar Inc",
+    "ticker": "MORN:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-17",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "19",
+    "price": "$184.28",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286063+00:00"
+  },
+  {
+    "id": "20003797553",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "TransDigm Group Inc",
+    "ticker": "TDG:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-17",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "19",
+    "price": "$1,265.88",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286166+00:00"
+  },
+  {
     "id": "20003797528",
     "politician_name": "Kelly Morrison",
     "party": "Democrat",
@@ -728,7 +1085,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Investment Fund 1 Description: Medical devices, Minneapolis, MN",
-    "scraped_at": "2026-05-07T12:03:51.988439+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286215+00:00"
   },
   {
     "id": "20003797504",
@@ -794,6 +1151,132 @@
     "scraped_at": "2026-05-07T12:03:51.988823+00:00"
   },
   {
+    "id": "20003797540",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "Morningstar Inc",
+    "ticker": "MORN:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-16",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "20",
+    "price": "$180.52",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286059+00:00"
+  },
+  {
+    "id": "20003797545",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "Paychex Inc",
+    "ticker": "PAYX:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-16",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "20",
+    "price": "$92.13",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286119+00:00"
+  },
+  {
+    "id": "20003797550",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "TransDigm Group Inc",
+    "ticker": "TDG:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-16",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "20",
+    "price": "$1,228.23",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286154+00:00"
+  },
+  {
+    "id": "20003797555",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "VIKING HOLDINGS LTD",
+    "ticker": "VIK:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-16",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "20",
+    "price": "$80.31",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286177+00:00"
+  },
+  {
+    "id": "20003797536",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "Entegris Inc",
+    "ticker": "ENTG:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-15",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "21",
+    "price": "$137.00",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286021+00:00"
+  },
+  {
+    "id": "20003797552",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "TransDigm Group Inc",
+    "ticker": "TDG:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-15",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "21",
+    "price": "$1,274.69",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.286162+00:00"
+  },
+  {
     "id": "20003797525",
     "politician_name": "Kelly Morrison",
     "party": "Democrat",
@@ -812,7 +1295,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "Subholding Of: Investment Fund 1 Description: Live events special effects, Northridge, CA",
-    "scraped_at": "2026-05-07T12:03:51.988410+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286203+00:00"
   },
   {
     "id": "10000064902",
@@ -833,7 +1316,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988761+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286520+00:00"
   },
   {
     "id": "20003797510",
@@ -1085,7 +1568,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Investment Fund 1 Description: Sports Software, London, UK",
-    "scraped_at": "2026-05-07T12:03:51.988416+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286207+00:00"
   },
   {
     "id": "10000064903",
@@ -1106,7 +1589,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988765+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286524+00:00"
   },
   {
     "id": "10000064959",
@@ -1127,7 +1610,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Rate/Coupon: 5.35% Matures: 2038-04-13",
-    "scraped_at": "2026-05-07T12:03:51.988387+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286188+00:00"
   },
   {
     "id": "10000064955",
@@ -1148,7 +1631,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988518+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286271+00:00"
   },
   {
     "id": "10000064910",
@@ -1169,7 +1652,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988524+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286276+00:00"
   },
   {
     "id": "10000064911",
@@ -1190,7 +1673,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988529+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286288+00:00"
   },
   {
     "id": "10000064912",
@@ -1211,7 +1694,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988533+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286293+00:00"
   },
   {
     "id": "10000064913",
@@ -1232,7 +1715,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988537+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286298+00:00"
   },
   {
     "id": "10000064932",
@@ -1253,7 +1736,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988636+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286397+00:00"
   },
   {
     "id": "10000064933",
@@ -1274,7 +1757,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988640+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286404+00:00"
   },
   {
     "id": "10000064934",
@@ -1295,7 +1778,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988647+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286408+00:00"
   },
   {
     "id": "10000064935",
@@ -1316,7 +1799,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988651+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286412+00:00"
   },
   {
     "id": "10000064936",
@@ -1337,7 +1820,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988659+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286417+00:00"
   },
   {
     "id": "10000064937",
@@ -1358,7 +1841,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988664+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286421+00:00"
   },
   {
     "id": "10000064938",
@@ -1379,7 +1862,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988668+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286428+00:00"
   },
   {
     "id": "10000064939",
@@ -1400,7 +1883,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988672+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286432+00:00"
   },
   {
     "id": "10000064940",
@@ -1421,7 +1904,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988677+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286437+00:00"
   },
   {
     "id": "10000064941",
@@ -1442,7 +1925,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988681+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286443+00:00"
   },
   {
     "id": "10000064942",
@@ -1463,7 +1946,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988687+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286448+00:00"
   },
   {
     "id": "10000064960",
@@ -1484,7 +1967,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Rate/Coupon: 6.75% Matures: 2087-05-15",
-    "scraped_at": "2026-05-07T12:03:51.988398+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286193+00:00"
   },
   {
     "id": "10000064961",
@@ -1505,7 +1988,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Rate/Coupon: 6.875% Matures: 2055-06-28",
-    "scraped_at": "2026-05-07T12:03:51.988403+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286196+00:00"
   },
   {
     "id": "20003797522",
@@ -1526,7 +2009,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Subholding Of: Fidelity Trust",
-    "scraped_at": "2026-05-07T12:03:51.988504+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286259+00:00"
   },
   {
     "id": "20003797424",
@@ -1592,6 +2075,27 @@
     "scraped_at": "2026-05-01T14:13:21.187567+00:00"
   },
   {
+    "id": "20003797532",
+    "politician_name": "April McClain Delaney",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "MD",
+    "company": "Bio-Techne Corp",
+    "ticker": "TECH:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-08",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "28",
+    "price": "$55.21",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "",
+    "scraped_at": "2026-05-07T14:47:41.285994+00:00"
+  },
+  {
     "id": "10000064930",
     "politician_name": "Mark Warner",
     "party": "Democrat",
@@ -1610,7 +2114,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988625+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286386+00:00"
   },
   {
     "id": "10000064931",
@@ -1631,7 +2135,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988631+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286393+00:00"
   },
   {
     "id": "10000064904",
@@ -1652,7 +2156,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988770+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286528+00:00"
   },
   {
     "id": "10000064905",
@@ -1673,7 +2177,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988774+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286534+00:00"
   },
   {
     "id": "10000064906",
@@ -1967,7 +2471,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988620+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286381+00:00"
   },
   {
     "id": "10000064954",
@@ -1988,7 +2492,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988746+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286508+00:00"
   },
   {
     "id": "10000064907",
@@ -2261,7 +2765,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Investment Fund 1 Description: Energy infrastructure in space, Jacksonville, FL",
-    "scraped_at": "2026-05-07T12:03:51.988458+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286229+00:00"
   },
   {
     "id": "10000064928",
@@ -2282,7 +2786,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988615+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286374+00:00"
   },
   {
     "id": "10000064908",
@@ -2390,6 +2894,27 @@
     "scraped_at": "2026-05-01T15:15:38.579861+00:00"
   },
   {
+    "id": "20003797556",
+    "politician_name": "Lloyd Doggett",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "TX",
+    "company": "The Coca-Cola Co",
+    "ticker": "KO:US",
+    "sector": "consumer-staples",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-01",
+    "trade_published": "2026-05-07",
+    "filed_after_days": "35",
+    "price": "$76.08",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Description: Automatic Reinvestment of Dividends Earned.",
+    "scraped_at": "2026-05-07T14:47:41.285966+00:00"
+  },
+  {
     "id": "10000064926",
     "politician_name": "Mark Warner",
     "party": "Democrat",
@@ -2408,7 +2933,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988606+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286364+00:00"
   },
   {
     "id": "10000064927",
@@ -2429,7 +2954,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988610+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286370+00:00"
   },
   {
     "id": "10000064952",
@@ -2450,7 +2975,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988735+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286497+00:00"
   },
   {
     "id": "10000064953",
@@ -2471,7 +2996,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988741+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286502+00:00"
   },
   {
     "id": "20003797427",
@@ -3584,7 +4109,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988569+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286326+00:00"
   },
   {
     "id": "10000064920",
@@ -3605,7 +4130,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988576+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286333+00:00"
   },
   {
     "id": "10000064921",
@@ -3626,7 +4151,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988580+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286339+00:00"
   },
   {
     "id": "10000064922",
@@ -3647,7 +4172,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988585+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286346+00:00"
   },
   {
     "id": "10000064923",
@@ -3668,7 +4193,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988590+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286350+00:00"
   },
   {
     "id": "10000064924",
@@ -3689,7 +4214,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988594+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286355+00:00"
   },
   {
     "id": "10000064925",
@@ -3710,7 +4235,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988598+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286359+00:00"
   },
   {
     "id": "10000064945",
@@ -3731,7 +4256,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988700+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286463+00:00"
   },
   {
     "id": "10000064946",
@@ -3752,7 +4277,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988707+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286468+00:00"
   },
   {
     "id": "10000064947",
@@ -3773,7 +4298,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988712+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286472+00:00"
   },
   {
     "id": "10000064948",
@@ -3794,7 +4319,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988718+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286476+00:00"
   },
   {
     "id": "10000064949",
@@ -3815,7 +4340,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988722+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286483+00:00"
   },
   {
     "id": "10000064950",
@@ -3836,7 +4361,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988726+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286487+00:00"
   },
   {
     "id": "10000064951",
@@ -3857,7 +4382,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988731+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286493+00:00"
   },
   {
     "id": "20003797434",
@@ -9338,7 +9863,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: SCH1",
-    "scraped_at": "2026-05-07T12:03:51.988513+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286267+00:00"
   },
   {
     "id": "20003797436",
@@ -9968,7 +10493,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988563+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286322+00:00"
   },
   {
     "id": "20003797452",
@@ -14588,7 +15113,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988542+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286302+00:00"
   },
   {
     "id": "10000064915",
@@ -14609,7 +15134,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988548+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286306+00:00"
   },
   {
     "id": "10000064916",
@@ -14630,7 +15155,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988555+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286311+00:00"
   },
   {
     "id": "10000064917",
@@ -14651,7 +15176,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988559+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286317+00:00"
   },
   {
     "id": "10000064943",
@@ -14672,7 +15197,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988692+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286454+00:00"
   },
   {
     "id": "10000064944",
@@ -14693,7 +15218,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988696+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286459+00:00"
   },
   {
     "id": "10000064896",
@@ -62195,7 +62720,7 @@
     "amount": "$1M\u2013$5M",
     "owner": "Joint",
     "comment": "Publicly disclosed when information became available. Company: Aeronics, Inc.  (Austin, TX) Description: Equipment Manufacturing",
-    "scraped_at": "2026-05-07T12:03:51.988366+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286182+00:00"
   },
   {
     "id": "20003796426",
@@ -62279,7 +62804,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988485+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286244+00:00"
   },
   {
     "id": "10000064956",
@@ -62300,7 +62825,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Sale of exercised stock option; strike price $77.68; expires 12/13/2030. This was a cashless sale that occurred on the same day the shares were exercised. The sale was part of the same 5/19/25 exercise transaction that was reported on the PTR filed on 6/13/25.",
-    "scraped_at": "2026-05-07T12:03:51.988479+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286240+00:00"
   },
   {
     "id": "20003796456",
@@ -62342,7 +62867,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-07T12:03:51.988492+00:00"
+    "scraped_at": "2026-05-07T14:47:41.286248+00:00"
   },
   {
     "id": "20003796424",
