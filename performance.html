@@ -102,6 +102,15 @@
     .td-insider { max-width: 160px; overflow: hidden; text-overflow: ellipsis; }
     .td-price   { font-family: var(--font-mono); color: var(--text2); font-size: 12px; }
 
+    /* Title badges */
+    .badge-title { display: inline-block; border-radius: 5px; padding: 2px 8px; font-size: 10px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; white-space: nowrap; }
+    .badge-title.ceo-chair { background: var(--green-bg);  color: var(--green);  border: 1px solid rgba(26,188,219,.25); }
+    .badge-title.cfo       { background: var(--orange-bg); color: var(--orange); border: 1px solid rgba(255,112,67,.25); }
+    .badge-title.vp        { background: var(--gold-bg);   color: var(--gold);   border: 1px solid rgba(47,128,237,.25); }
+    .badge-title.dir       { background: var(--blue-bg);   color: var(--blue);   border: 1px solid rgba(26,188,219,.25); }
+    .badge-title.other     { background: var(--surface3);  color: var(--muted2); border: 1px solid var(--border2); }
+    .mobile-role { display: none; }
+
     /* Return % cell */
     .td-return          { font-family: var(--font-mono); font-size: 13px; font-weight: 700; }
     .td-return.positive { color: var(--green); }
@@ -153,10 +162,27 @@
         font-size: 12px;
         font-weight: 700;
         color: var(--text);
-        white-space: nowrap;
+        overflow: hidden;
+        max-width: none;
+        align-self: end;
+      }
+      .insider-name-row {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        overflow: hidden;
+      }
+      .insider-name-row > .insider-name-text {
         overflow: hidden;
         text-overflow: ellipsis;
-        align-self: end;
+        white-space: nowrap;
+        min-width: 0;
+        flex: 0 1 auto;
+      }
+      td.td-insider .mobile-role {
+        display: inline-flex;
+        flex-shrink: 0;
+        align-items: center;
       }
       /* Group rows: "N insiders" in insider slot */
       td:has(.group-insiders) {
@@ -609,6 +635,22 @@
   /* ------------------------------------------------------------------ */
   /* Helpers                                                               */
   /* ------------------------------------------------------------------ */
+  function classifyTitle(title) {
+    const t = (title || '').toLowerCase();
+    if (/\b(ceo|chief executive|president|pres)\b/.test(t))       return 'ceo';
+    if (/\b(chair(man|woman)?|director|dir|board|cob)\b/.test(t)) return 'director';
+    if (/\b(cfo|chief financial)\b/.test(t))                      return 'cfo';
+    if (/\b([se]vp|svp|evp|vp|vice president)\b/.test(t))        return 'vp';
+    return 'other';
+  }
+
+  function titleBadge(title) {
+    const cls = classifyTitle(title);
+    const cssClasses = { ceo: 'ceo-chair', director: 'dir', cfo: 'cfo', vp: 'vp', other: 'other' };
+    const display = title.length > 22 ? title.substring(0, 22) + '…' : title;
+    return `<span class="badge-title ${cssClasses[cls]}" title="${escHtml(title)}">${escHtml(display)}</span>`;
+  }
+
   function escHtml(str) {
     return String(str || '')
       .replace(/&/g, '&amp;').replace(/</g, '&lt;')
@@ -819,7 +861,7 @@
               <td class="td-ticker">${escHtml(e.ticker)}</td>
               <td class="td-company">${escHtml(e.company)}</td>
               <td class="td-stock-cell"><span class="mobile-ticker-sym">${escHtml(e.ticker)}</span><span class="mobile-co-name">${escHtml(e.company)}</span></td>
-              <td class="td-insider" title="${escHtml(e.insider_name)}">${escHtml(e.insider_name || '—')}${e.trade_price !== null && e.latest_price !== null ? `<span class="mobile-prices">${formatPrice(e.trade_price, e.currency)} → ${formatPrice(e.latest_price, e.currency)}</span>` : ''}</td>
+              <td class="td-insider" title="${escHtml(e.insider_name)}"><span class="insider-name-row"><span class="insider-name-text">${escHtml(e.insider_name || '—')}</span><span class="mobile-role">${titleBadge(e.title || 'Unknown')}</span></span>${e.trade_price !== null && e.latest_price !== null ? `<span class="mobile-prices">${formatPrice(e.trade_price, e.currency)} → ${formatPrice(e.latest_price, e.currency)}</span>` : ''}</td>
               <td class="td-date">${escHtml(e.trade_date || '—')}</td>
               <td class="td-price">${formatPrice(e.trade_price, e.currency)}</td>
               <td class="td-price">${e.latest_price !== null ? formatPrice(e.latest_price, e.currency) : '<span class="badge-pending">Pending</span>'}</td>
