@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T19:00:20Z",
-  "trade_count": 2957,
+  "last_updated": "2026-05-07T21:00:21Z",
+  "trade_count": 2961,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -43471,7 +43471,7 @@
       "value": "746000",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4708842",
@@ -44861,6 +44861,70 @@
       "qty": "250000",
       "price": "0.4000",
       "value": "100000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4716155",
+      "trade_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "company": "Barksdale Resources Corp.",
+      "ticker": "BRO",
+      "insider_name": "Blasutti, Darren John",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "250000",
+      "price": "0.4000",
+      "value": "100000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4716066",
+      "trade_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "company": "BetterLife Pharma Inc.",
+      "ticker": "BETR",
+      "insider_name": "Sangha, Steven",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "281000",
+      "price": "0.0600",
+      "value": "16860",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4715923",
+      "trade_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "company": "Snowline Gold Corp.",
+      "ticker": "SGD",
+      "insider_name": "Berdahl, James Scott",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "15.2800",
+      "value": "76400",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4716169",
+      "trade_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "company": "Transat A.T. Inc.",
+      "ticker": "TRZ",
+      "insider_name": "P\u00e9ladeau, Pierre Karl",
+      "title": "10% Holder",
+      "security": "Action \u00e0 droit de vote de cat\u00e9gorie B",
+      "qty": "10000",
+      "price": "2.6800",
+      "value": "26800",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
