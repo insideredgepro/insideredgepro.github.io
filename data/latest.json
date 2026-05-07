@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T17:50:35Z",
-  "trade_count": 6361,
+  "last_updated": "2026-05-07T19:27:12Z",
+  "trade_count": 6362,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -101776,6 +101776,22 @@
       "owned": "52851",
       "delta_own": "+100%",
       "value": "353080",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-07",
+      "filing_time": "14:25",
+      "trade_date": "2026-05-05",
+      "ticker": "ANGX",
+      "company": "Angel Studios, Inc.",
+      "insider_name": "Sarowitz Steven I",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.06",
+      "qty": "321544",
+      "owned": "326840",
+      "delta_own": ">999%",
+      "value": "982574",
       "cluster_buy": false
     }
   ]
