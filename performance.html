@@ -877,7 +877,7 @@
           <td class="td-ticker">${escHtml(e.ticker)}</td>
           <td class="td-company" title="${escHtml(e.company)}">${escHtml(e.company)}</td>
           <td class="td-stock-cell"><span class="mobile-ticker-sym">${escHtml(e.ticker)}</span><span class="mobile-co-name">${escHtml(e.company)}</span></td>
-          <td class="td-insider" title="${escHtml(e.insider_name)}">${escHtml(e.insider_name || '—')}${e.trade_price !== null && e.latest_price !== null ? `<span class="mobile-prices">${formatPrice(e.trade_price, e.currency)} → ${formatPrice(e.latest_price, e.currency)}</span>` : ''}</td>
+          <td class="td-insider" title="${escHtml(e.insider_name)}"><span class="insider-name-row"><span class="insider-name-text">${escHtml(e.insider_name || '—')}</span><span class="mobile-role">${titleBadge(e.title || 'Unknown')}</span></span>${e.trade_price !== null && e.latest_price !== null ? `<span class="mobile-prices">${formatPrice(e.trade_price, e.currency)} → ${formatPrice(e.latest_price, e.currency)}</span>` : ''}</td>
           <td class="td-date">${escHtml(e.trade_date || '—')}</td>
           <td class="td-price">${formatPrice(e.trade_price, e.currency)}</td>
           <td class="td-price">${e.latest_price !== null ? formatPrice(e.latest_price, e.currency) : '<span class="badge-pending">Pending</span>'}</td>
