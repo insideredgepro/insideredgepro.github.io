@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T13:30:05Z",
-  "trade_count": 6359,
+  "last_updated": "2026-05-07T15:59:55Z",
+  "trade_count": 6361,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -101744,6 +101744,38 @@
       "owned": "18706678",
       "delta_own": "0%",
       "value": "281856",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-07",
+      "filing_time": "10:07",
+      "trade_date": "2026-05-06",
+      "ticker": "PFBX",
+      "company": "Peoples Financial Corp /Ms/",
+      "insider_name": "Stilwell Joseph",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "21.25",
+      "qty": "2058",
+      "owned": "741313",
+      "delta_own": "0%",
+      "value": "43733",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-07",
+      "filing_time": "10:02",
+      "trade_date": "2026-05-06",
+      "ticker": "OGN",
+      "company": "Organon & Co.",
+      "insider_name": "Holzbaur Lynette",
+      "title": "SVP, Corporate Controller",
+      "trade_type": "P - Purchase",
+      "price": "13.35",
+      "qty": "26448",
+      "owned": "52851",
+      "delta_own": "+100%",
+      "value": "353080",
       "cluster_buy": false
     }
   ]
