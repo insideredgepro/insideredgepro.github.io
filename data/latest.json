@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T20:58:40Z",
-  "trade_count": 6372,
+  "last_updated": "2026-05-07T21:57:54Z",
+  "trade_count": 6375,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -101952,6 +101952,54 @@
       "owned": "33082",
       "delta_own": "New",
       "value": "998235",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-07",
+      "filing_time": "17:04",
+      "trade_date": "2026-05-07",
+      "ticker": "OPCH",
+      "company": "Option Care Health, Inc.",
+      "insider_name": "Sullivan Timothy P",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "20.69",
+      "qty": "24154",
+      "owned": "73383",
+      "delta_own": "+49%",
+      "value": "499671",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-07",
+      "filing_time": "17:02",
+      "trade_date": "2026-05-06",
+      "ticker": "PSX",
+      "company": "Phillips 66",
+      "insider_name": "Meyers Kevin Omar",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "173.13",
+      "qty": "175",
+      "owned": "16799",
+      "delta_own": "+1%",
+      "value": "30297",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-07",
+      "filing_time": "16:58",
+      "trade_date": "2026-05-05",
+      "ticker": "GOLD",
+      "company": "Gold.Com, Inc.",
+      "insider_name": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "44.50",
+      "qty": "530338",
+      "owned": "3370787",
+      "delta_own": "+19%",
+      "value": "23600041",
       "cluster_buy": false
     }
   ]

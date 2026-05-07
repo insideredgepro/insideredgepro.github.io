@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-07",
-  "entry_count": 1034,
+  "entry_count": 1037,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -40943,6 +40943,66 @@
       },
       "latest_price": 30.48,
       "return_pct": 1.03,
+      "last_snapshot": "2026-05-07"
+    },
+    {
+      "id": "US|OPCH|2026-05-07|sullivan timothy p|20.69",
+      "market": "US",
+      "ticker": "OPCH",
+      "yf_symbol": "OPCH",
+      "company": "Option Care Health, Inc.",
+      "insider_name": "Sullivan Timothy P",
+      "title": "Dir",
+      "trade_date": "2026-05-07",
+      "trade_price": 20.69,
+      "value": 499671.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-07": 20.75
+      },
+      "latest_price": 20.75,
+      "return_pct": 0.29,
+      "last_snapshot": "2026-05-07"
+    },
+    {
+      "id": "US|PSX|2026-05-06|meyers kevin omar|173.13",
+      "market": "US",
+      "ticker": "PSX",
+      "yf_symbol": "PSX",
+      "company": "Phillips 66",
+      "insider_name": "Meyers Kevin Omar",
+      "title": "Dir",
+      "trade_date": "2026-05-06",
+      "trade_price": 173.13,
+      "value": 30297.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-07": 168.31
+      },
+      "latest_price": 168.31,
+      "return_pct": -2.78,
+      "last_snapshot": "2026-05-07"
+    },
+    {
+      "id": "US|GOLD|2026-05-05|tether global investments fund, s.i.c.a.f., s.a.|44.5",
+      "market": "US",
+      "ticker": "GOLD",
+      "yf_symbol": "GOLD",
+      "company": "Gold.Com, Inc.",
+      "insider_name": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
+      "title": "10%",
+      "trade_date": "2026-05-05",
+      "trade_price": 44.5,
+      "value": 23600041.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-07": 43.51
+      },
+      "latest_price": 43.51,
+      "return_pct": -2.22,
       "last_snapshot": "2026-05-07"
     }
   ]
