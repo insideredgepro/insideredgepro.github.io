@@ -199,7 +199,7 @@
     .td-return.positive { color: var(--green); }
     .td-return.negative { color: var(--red); }
     .td-return-cell     { display: flex; flex-direction: column; gap: 10px; }
-    .td-price-range     { font-family: var(--font-mono); font-size: 11px; font-weight: 700; color: #ffffff; white-space: nowrap; }
+    .td-price-range     { display: none; font-family: var(--font-mono); font-size: 11px; font-weight: 700; color: #ffffff; white-space: nowrap; }
     .badge-pending {
       display: inline-flex; align-items: center; gap: 4px;
       background: var(--surface3); color: var(--muted2);
@@ -228,7 +228,9 @@
           "date     ." !important;
       }
       #view-perf td.td-rank  { display: none !important; }
+      #view-perf td.td-price { display: none !important; }
       #view-perf td.td-value { display: none !important; }
+      #view-perf .td-price-range { display: block; }
       #view-perf td:has(.td-return), #view-perf td:has(.badge-pending) {
         display: block !important;
         grid-area: return;
@@ -674,16 +676,18 @@
             <th data-col="company">Company<i class="sort-arrow"></i></th>
             <th data-col="insider_name">Insider<i class="sort-arrow"></i></th>
             <th data-col="trade_date">Trade Date<i class="sort-arrow"></i></th>
+            <th data-col="trade_price">Buy Price<i class="sort-arrow"></i></th>
+            <th data-col="latest_price">Current Price<i class="sort-arrow"></i></th>
             <th data-col="return_pct">Return %<i class="sort-arrow"></i></th>
             <th data-col="value">Value<i class="sort-arrow"></i></th>
           </tr>
         </thead>
         <tbody id="p-table-body">
-          <tr class="skeleton-row"><td colspan="7"><div class="skeleton-cell" style="width:100%"></div></td></tr>
-          <tr class="skeleton-row"><td colspan="7"><div class="skeleton-cell" style="width:92%"></div></td></tr>
-          <tr class="skeleton-row"><td colspan="7"><div class="skeleton-cell" style="width:96%"></div></td></tr>
-          <tr class="skeleton-row"><td colspan="7"><div class="skeleton-cell" style="width:85%"></div></td></tr>
-          <tr class="skeleton-row"><td colspan="7"><div class="skeleton-cell" style="width:90%"></div></td></tr>
+          <tr class="skeleton-row"><td colspan="9"><div class="skeleton-cell" style="width:100%"></div></td></tr>
+          <tr class="skeleton-row"><td colspan="9"><div class="skeleton-cell" style="width:92%"></div></td></tr>
+          <tr class="skeleton-row"><td colspan="9"><div class="skeleton-cell" style="width:96%"></div></td></tr>
+          <tr class="skeleton-row"><td colspan="9"><div class="skeleton-cell" style="width:85%"></div></td></tr>
+          <tr class="skeleton-row"><td colspan="9"><div class="skeleton-cell" style="width:90%"></div></td></tr>
         </tbody>
       </table>
     </div>
@@ -1336,6 +1340,8 @@
           <td class="td-stock-cell"><span class="mobile-ticker-sym"><span class="expand-arrow">${arrow}</span>${escHtml(g.ticker)}</span><span class="mobile-co-name">${escHtml(g.company)}</span></td>
           <td><span class="group-insiders">${g.entries.length} insiders</span></td>
           <td class="td-date">—</td>
+          <td class="td-price">—</td>
+          <td class="td-price">${curHTML}</td>
           <td>${retHTML}</td>
           <td class="td-value">${formatPerfCurrency(g.totalValue, g.currency)}</td>
         </tr>`);
@@ -1357,6 +1363,8 @@
               <td class="td-stock-cell"><span class="mobile-ticker-sym">${escHtml(e.ticker)}</span><span class="mobile-co-name">${escHtml(e.company)}</span></td>
               <td class="td-insider" title="${escHtml(e.insider_name)}"><span class="insider-name-row"><span class="insider-name-text">${escHtml(e.insider_name || '—')}</span><span class="mobile-role">${titleBadge(e.title || 'Unknown')}</span></span></td>
               <td class="td-date">${escHtml(e.trade_date || '—')}</td>
+              <td class="td-price">${formatPrice(e.trade_price, e.currency)}</td>
+              <td class="td-price">${e.latest_price !== null ? formatPrice(e.latest_price, e.currency) : '<span class="badge-pending">Pending</span>'}</td>
               <td>${erCell}</td>
               <td class="td-value">${formatPerfCurrency(e.value, e.currency)}</td>
             </tr>`);
@@ -1377,6 +1385,8 @@
           <td class="td-stock-cell"><span class="mobile-ticker-sym">${escHtml(e.ticker)}</span><span class="mobile-co-name">${escHtml(e.company)}</span></td>
           <td class="td-insider" title="${escHtml(e.insider_name)}"><span class="insider-name-row"><span class="insider-name-text">${escHtml(e.insider_name || '—')}</span><span class="mobile-role">${titleBadge(e.title || 'Unknown')}</span></span></td>
           <td class="td-date">${escHtml(e.trade_date || '—')}</td>
+          <td class="td-price">${formatPrice(e.trade_price, e.currency)}</td>
+          <td class="td-price">${e.latest_price !== null ? formatPrice(e.latest_price, e.currency) : '<span class="badge-pending">Pending</span>'}</td>
           <td>${retCell}</td>
           <td class="td-value">${formatPerfCurrency(e.value, e.currency)}</td>
         </tr>`);
