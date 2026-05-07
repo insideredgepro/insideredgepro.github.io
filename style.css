@@ -519,7 +519,7 @@ footer {
     text-overflow: ellipsis;
     white-space: nowrap;
     min-width: 0;
-    flex: 1;
+    flex: 0 1 auto;
   }
   /* Badge always visible — higher specificity beats desktop display:none */
   td.td-insider .mobile-role {
