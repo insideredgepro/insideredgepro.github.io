@@ -111,21 +111,28 @@
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css?v=12" />
   <style>
-    /* Stat card accent colors */
-    .stat-card:nth-child(1)::before { background: linear-gradient(90deg, var(--blue),   transparent); }
-    .stat-card:nth-child(2)::before { background: linear-gradient(90deg, var(--orange), transparent); }
-    .stat-card:nth-child(3)::before { background: linear-gradient(90deg, var(--green),  transparent); }
-    .stat-card:nth-child(4)::before { background: linear-gradient(90deg, var(--gold),   transparent); }
-    .stat-card::after { content: ''; position: absolute; inset: 0; opacity: 0; transition: opacity .25s; pointer-events: none; }
-    .stat-card:nth-child(1)::after { background: radial-gradient(ellipse at 0% 0%, rgba(47,128,237,.07)  0%, transparent 70%); }
-    .stat-card:nth-child(2)::after { background: radial-gradient(ellipse at 0% 0%, rgba(255,112,67,.07)  0%, transparent 70%); }
-    .stat-card:nth-child(3)::after { background: radial-gradient(ellipse at 0% 0%, rgba(80,200,120,.07)  0%, transparent 70%); }
-    .stat-card:nth-child(4)::after { background: radial-gradient(ellipse at 0% 0%, rgba(26,188,219,.07)   0%, transparent 70%); }
-    .stat-card:hover::after { opacity: 1; }
-    .stat-card:nth-child(1) .stat-icon { background: var(--blue-bg);   color: var(--blue);   }
-    .stat-card:nth-child(2) .stat-icon { background: var(--orange-bg); color: var(--orange); }
-    .stat-card:nth-child(3) .stat-icon { background: var(--green-bg);  color: var(--green);  }
-    .stat-card:nth-child(4) .stat-icon { background: var(--gold-bg);   color: var(--gold);   }
+
+    /* View toggle — matches congress.html pill design */
+    .view-toggle {
+      display: flex; align-items: center; gap: 4px;
+      background: var(--surface2); border: 1px solid var(--border2); border-radius: 10px;
+      padding: 4px; width: fit-content; margin: 12px auto;
+      position: relative; z-index: 1;
+    }
+    .view-tab {
+      display: flex; align-items: center; gap: 7px;
+      padding: 7px 18px; border-radius: 7px; border: none;
+      background: transparent; color: var(--muted2); font-family: 'DM Sans', sans-serif;
+      font-size: 13px; font-weight: 600; cursor: pointer; transition: all .18s;
+    }
+    .view-tab:hover { color: var(--text2); background: rgba(255,255,255,.04); }
+    .view-tab.active { background: var(--surface3); color: var(--gold); border: 1px solid rgba(26,188,219,.2); }
+    .view-tab svg { flex-shrink: 0; }
+    @media (max-width: 600px) {
+      .view-toggle { margin: 10px 12px; width: auto; }
+      .view-tab { padding: 11px 0; font-size: 13px; font-weight: 700; gap: 6px; flex: 1; justify-content: center; color: #ffffff; }
+      .view-tab.active { color: var(--gold); }
+    }
 
     /* Header right elements */
     #trade-count, .trade-count-badge {
@@ -133,29 +140,17 @@
       background: var(--gold-bg); border: 1px solid rgba(26,188,219,.25);
       border-radius: 20px; padding: 4px 12px; color: var(--gold); letter-spacing: .04em;
     }
-    .btn-pro {
-      display: inline-flex; align-items: center; gap: 6px;
-      background: linear-gradient(135deg, var(--gold) 0%, #1a56c4 100%);
-      color: #0c0d0f; font-size: 12px; font-weight: 700; letter-spacing: .04em;
-      padding: 7px 16px; border-radius: 6px; border: none; cursor: pointer;
-      transition: opacity .15s, transform .1s; text-transform: uppercase; white-space: nowrap;
-    }
-    .btn-pro:hover { opacity: .9; transform: translateY(-1px); color: #0c0d0f; }
 
-    /* Cluster buy stat card — clickable filter */
-    #stat-card-clusters {
-      cursor: pointer;
-      transition: background .15s, box-shadow .15s;
+    /* Performance search input — mirrors #search-input from style.css */
+    #p-search-input {
+      width: 220px; background: var(--surface2); border: 1px solid var(--border);
+      color: var(--text); border-radius: var(--radius); padding: 7px 10px 7px 32px;
+      font-size: 13px; font-family: inherit; outline: none;
+      transition: border-color .2s, background .2s, box-shadow .2s;
     }
-    #stat-card-clusters:hover { background: var(--surface2); }
-    #stat-card-clusters.active {
-      background: rgba(255,112,67,.08);
-      box-shadow: inset 0 0 0 1px rgba(255,112,67,.35);
-    }
-    #stat-card-clusters.active .stat-label::after {
-      content: ' — ON';
-      color: var(--orange);
-    }
+    #p-search-input::placeholder { color: var(--muted); }
+    #p-search-input:focus { border-color: var(--gold); background: var(--surface3); box-shadow: 0 0 0 3px var(--gold-bg); }
+    @media (max-width: 600px) { #p-search-input { width: 100%; box-sizing: border-box; font-size: 12px; } }
 
     /* Market closed banner */
     #market-closed-banner {
@@ -196,13 +191,68 @@
     .td-value-sub { display: block; font-size: 10px; color: #c8d8e8; font-family: var(--font-mono); margin-top: 2px; }
     .col-hide { display: none !important; }
 
+    /* ── Performance-specific table styles ── */
+    #view-perf table { min-width: 860px; }
+    .td-rank  { font-family: var(--font-mono); color: var(--muted); font-size: 11px; width: 40px; text-align: center; }
+    .td-price { font-family: var(--font-mono); color: var(--text2); font-size: 12px; }
+    .td-return          { font-family: var(--font-mono); font-size: 13px; font-weight: 700; }
+    .td-return.positive { color: var(--green); }
+    .td-return.negative { color: var(--red); }
+    .td-return-cell     { display: flex; flex-direction: column; gap: 10px; }
+    .td-price-range     { font-family: var(--font-mono); font-size: 11px; font-weight: 700; color: #ffffff; white-space: nowrap; }
+    .badge-pending {
+      display: inline-flex; align-items: center; gap: 4px;
+      background: var(--surface3); color: var(--muted2);
+      border: 1px solid var(--border2); border-radius: 5px;
+      padding: 2px 8px; font-size: 10px; font-weight: 600; letter-spacing: .03em;
+    }
+    tr.row-gain { background: rgba(16,217,138,.07) !important; }
+    tr.row-loss { background: rgba(239,68,68,.07) !important; }
+    tr.row-gain:hover { background: rgba(16,217,138,.14) !important; }
+    tr.row-loss:hover { background: rgba(239,68,68,.14) !important; }
+    .mobile-prices { display: none; }
+
+    /* Performance last-updated note */
+    .perf-updated {
+      font-size: 11px; color: var(--muted);
+      padding: 4px 24px 0;
+      position: relative; z-index: 1;
+    }
+
+    /* ── Performance mobile overrides (scoped to #view-perf) ── */
+    @media (max-width: 600px) {
+      #view-perf tbody tr:not(.skeleton-row) {
+        grid-template-areas:
+          "insider  return"
+          "stock    return"
+          "date     ." !important;
+      }
+      #view-perf td.td-rank  { display: none !important; }
+      #view-perf td.td-value { display: none !important; }
+      #view-perf td:has(.td-return), #view-perf td:has(.badge-pending) {
+        display: block !important;
+        grid-area: return;
+        position: static;
+        text-align: right;
+        align-self: center;
+        padding: 0;
+      }
+      #view-perf tbody tr.child-row { margin-left: 24px; }
+      #view-perf .mobile-prices {
+        display: block;
+        font-family: var(--font-mono);
+        font-size: 10px;
+        color: var(--muted2);
+        margin-top: 1px;
+        font-weight: 400;
+      }
+    }
   </style>
 
   <!-- ============================================================ -->
   <!-- DIRECTION-B PALETTE OVERRIDE — unified dark-navy atmosphere  -->
   <!-- ============================================================ -->
   <style>
-    /* 1. Token overrides — Direction B navy palette */
     :root {
       --bg:       #070b11;
       --bg2:      #0c1219;
@@ -219,7 +269,6 @@
       --shadow-sm:0 2px 10px rgba(0,0,0,.6);
     }
 
-    /* 2. Ambient radial glow backdrop — bleeds from top through hero */
     body {
       position: relative;
       background: var(--bg);
@@ -235,36 +284,29 @@
         radial-gradient(ellipse 40% 60% at 28% 0%,  rgba(34,211,238,0.14) 0%, transparent 60%),
         radial-gradient(ellipse 50% 45% at 80% 0%,  rgba(34,211,238,0.08) 0%, transparent 65%),
         radial-gradient(ellipse 25% 30% at 50% 10%, rgba(34,211,238,0.06) 0%, transparent 55%);
-      will-change: transform;
-      transform: translateZ(0);
     }
-    @keyframes ambientDrift {
-      0%   { transform: translate3d(0,   0,   0) scale(1);    }
-      50%  { transform: translate3d(-20px, 14px, 0) scale(1.04); }
-      100% { transform: translate3d(10px, -8px, 0) scale(0.98); }
-    }
+    @media (max-width: 600px) { body::before { display: none; } }
 
-    /* Ensure all content layers sit above the ambient layer */
     .topbar, main, .stats, .controls, .table-wrapper,
     .footer, section, .gold-rule { position: relative; z-index: 1; }
     header { position: sticky; z-index: 200; }
 
-    /* 3. Header — matches body navy so it blends (no contrast island) */
     header {
-      background: rgba(7,11,17,0.80);
+      background: rgba(7,11,17,0.95);
       backdrop-filter: blur(10px);
       -webkit-backdrop-filter: blur(10px);
       border-bottom: 1px solid rgba(150,200,225,0.10);
       box-shadow: 0 1px 0 rgba(150,200,225,0.06), 0 4px 32px rgba(0,0,0,.55);
     }
+    @media (max-width: 600px) {
+      header { backdrop-filter: none; -webkit-backdrop-filter: none; background: #070b11; }
+    }
 
-    /* 4. Topbar — same navy tone, subtle cyan stripe */
     .topbar {
       background: linear-gradient(90deg, #070b11 0%, #0c1219 50%, #070b11 100%);
       border-bottom: 1px solid rgba(150,200,225,0.10);
     }
 
-    /* 5. Market nav pill — active uses cyan gradient pill (Direction B style) */
     .market-nav {
       background: rgba(13,20,30,0.70);
       border: 1px solid rgba(150,200,225,0.12);
@@ -285,14 +327,12 @@
       color: #e6edf3;
     }
 
-    /* 6. Live pill & header surface widgets */
     .live-pill, .header-stats {
       background: rgba(13,20,30,0.80);
       border: 1px solid rgba(150,200,225,0.12);
     }
     .hstat-div { background: rgba(150,200,225,0.12); }
 
-    /* 7. Stat cards — use navy surface */
     .stats { background: rgba(150,200,225,0.06); }
     .stat-card {
       background: var(--surface2);
@@ -300,37 +340,31 @@
     }
     .stat-card:hover { background: var(--surface3); }
 
-    /* 8. Table rows — Direction B hover gradient */
     tbody tr:hover td {
       background: linear-gradient(90deg, rgba(19,27,37,1) 0%, transparent 100%) !important;
     }
     tbody tr { border-bottom: 1px solid rgba(150,200,225,0.06); }
 
-    /* 9. Table header */
     thead th {
       background: rgba(7,11,17,0.90);
       border-bottom: 1px solid rgba(150,200,225,0.12);
     }
 
-    /* 10. Controls bar */
     .controls, .filter-bar {
       background: rgba(7,11,17,0.70);
       border-color: rgba(150,200,225,0.10);
     }
 
-    /* 11. Card / panel surfaces */
     .card, .panel, .table-wrapper, .filter-chip {
       border-color: rgba(150,200,225,0.10);
     }
 
-    /* 12. Cluster glow — cyan inset instead of amber */
     .cluster-row td:first-child,
     tr.cluster td:first-child {
       box-shadow: inset 3px 0 0 rgba(34,211,238,0.70),
                   inset 4px 0 14px rgba(34,211,238,0.18);
     }
 
-    /* 13. Gold rule subtle cyan tint */
     .gold-rule {
       background: linear-gradient(90deg,
         transparent 0%,
@@ -341,8 +375,8 @@
       opacity: 0.5;
     }
 
-    /* No animation on cluster child rows — appear instantly */
     tbody tr.child-row { animation: none !important; }
+    .td-value-sub { color: #c8d8e8; }
   </style>
 </head>
 <body>
@@ -396,18 +430,12 @@
         </svg>
         <span class="nav-label">Congress</span>
       </a>
-      <a href="performance.html" class="market-nav-btn">
-        <svg viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" style="flex-shrink:0">
-          <path d="M2 12L6 7l3 3 5-6"/><circle cx="13" cy="4" r="1.5" fill="currentColor" stroke="none"/>
-        </svg>
-        <span class="nav-label">Performance</span>
-      </a>
     </div>
     <span id="last-updated" style="display:none"></span>
   </div>
 
   <div class="header-right">
-    <div class="header-stats">
+    <div class="header-stats" id="h-trades-stats">
       <div class="hstat"><span class="hstat-val" id="h-stat-visible">—</span><span class="hstat-lbl">Trades</span></div>
       <div class="hstat-div"></div>
       <div class="hstat"><span class="hstat-val" id="h-stat-clusters">—</span><span class="hstat-lbl">Clusters</span></div>
@@ -416,12 +444,21 @@
       <div class="hstat-div"></div>
       <div class="hstat"><span class="hstat-val" id="h-stat-tickers">—</span><span class="hstat-lbl">Tickers</span></div>
     </div>
+    <div class="header-stats" id="h-perf-stats" style="display:none">
+      <div class="hstat"><span class="hstat-val" id="p-h-stat-total">—</span><span class="hstat-lbl">Trades</span></div>
+      <div class="hstat-div"></div>
+      <div class="hstat"><span class="hstat-val green" id="p-h-stat-winning">—</span><span class="hstat-lbl">Win %</span></div>
+      <div class="hstat-div"></div>
+      <div class="hstat"><span class="hstat-val green" id="p-h-stat-best">—</span><span class="hstat-lbl" id="p-h-lbl-best">Best</span></div>
+      <div class="hstat-div"></div>
+      <div class="hstat"><span class="hstat-val green" id="p-h-stat-avg">—</span><span class="hstat-lbl">Avg Return</span></div>
+    </div>
   </div>
 </header>
 
 <!-- Mobile-only action bar -->
 <div class="mobile-bar">
-  <div class="header-stats">
+  <div class="header-stats" id="m-trades-stats">
     <div class="hstat"><span class="hstat-val" id="m-stat-visible">—</span><span class="hstat-lbl">Trades</span></div>
     <div class="hstat-div"></div>
     <div class="hstat"><span class="hstat-val" id="m-stat-clusters">—</span><span class="hstat-lbl">Clusters</span></div>
@@ -430,192 +467,231 @@
     <div class="hstat-div"></div>
     <div class="hstat"><span class="hstat-val" id="m-stat-tickers">—</span><span class="hstat-lbl">Tickers</span></div>
   </div>
+  <div class="header-stats" id="m-perf-stats" style="display:none">
+    <div class="hstat"><span class="hstat-val" id="p-m-stat-total">—</span><span class="hstat-lbl">Trades</span></div>
+    <div class="hstat-div"></div>
+    <div class="hstat"><span class="hstat-val green" id="p-m-stat-winning">—</span><span class="hstat-lbl">Win %</span></div>
+    <div class="hstat-div"></div>
+    <div class="hstat"><span class="hstat-val green" id="p-m-stat-best">—</span><span class="hstat-lbl" id="p-m-lbl-best">Best</span></div>
+    <div class="hstat-div"></div>
+    <div class="hstat"><span class="hstat-val green" id="p-m-stat-avg">—</span><span class="hstat-lbl">Avg Return</span></div>
+  </div>
 </div>
 
 <div class="gold-rule"></div>
 
-
 <!-- ================================================================== -->
-<!-- ERROR BANNER                                                         -->
+<!-- VIEW TABS                                                            -->
 <!-- ================================================================== -->
-<div id="error-banner"></div>
-
-<!-- ================================================================== -->
-<!-- STATS                                                                -->
-<!-- ================================================================== -->
-<div class="stats" id="stats-bar" style="display:none">
-
-  <div class="stat-card">
-    <div class="stat-header">
-      <div class="stat-icon">
-        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-          <path d="M2 12L6 7l3 3 5-6"/>
-        </svg>
-      </div>
-      <div class="stat-label">Visible Trades</div>
-    </div>
-    <div class="stat-value accent" id="stat-visible">—</div>
-  </div>
-
-  <div class="stat-card" id="stat-card-clusters" title="Click to filter cluster buys only">
-    <div class="stat-header">
-      <div class="stat-icon">
-        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-          <circle cx="8" cy="8" r="5"/>
-          <path d="M8 5v3l2 2"/>
-        </svg>
-      </div>
-      <div class="stat-label">Cluster Buys</div>
-    </div>
-    <div class="stat-value orange" id="stat-clusters">—</div>
-  </div>
-
-  <div class="stat-card">
-    <div class="stat-header">
-      <div class="stat-icon">
-        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-          <line x1="8" y1="2" x2="8" y2="14"/>
-          <path d="M5 5h4.5a2.5 2.5 0 010 5H5"/>
-          <path d="M5 10h5"/>
-        </svg>
-      </div>
-      <div class="stat-label">Total Value</div>
-    </div>
-    <div class="stat-value green" id="stat-total-value">—</div>
-  </div>
-
-  <div class="stat-card">
-    <div class="stat-header">
-      <div class="stat-icon">
-        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-          <rect x="2" y="9" width="3" height="5" rx="1"/>
-          <rect x="6.5" y="5" width="3" height="9" rx="1"/>
-          <rect x="11" y="2" width="3" height="12" rx="1"/>
-        </svg>
-      </div>
-      <div class="stat-label">Unique Tickers</div>
-    </div>
-    <div class="stat-value gold" id="stat-tickers">—</div>
-  </div>
-
+<div class="view-toggle">
+  <button class="view-tab active" data-view="trades">
+    <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M1 4h14M1 8h10M1 12h7"/></svg>
+    Trades
+  </button>
+  <button class="view-tab" data-view="performance">
+    <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="2" y="9" width="3" height="5" rx="1"/><rect x="6.5" y="5" width="3" height="9" rx="1"/><rect x="11" y="2" width="3" height="12" rx="1"/></svg>
+    Performance
+  </button>
 </div>
 
 <!-- ================================================================== -->
-<!-- SEO INTRO (visually hidden)                                          -->
+<!-- VIEW: TRADES                                                         -->
 <!-- ================================================================== -->
-<h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">
-  Insider Trading Tracker — US &amp; Canadian Markets
-</h1>
-<p style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">
-  Monitor real-time SEC Form 4 open-market purchases by corporate insiders — CEOs, directors, and CFOs —
-  alongside US Congressional stock disclosures and Canadian insider filings.
-  Filter by role, trade size ($25K+), and date to surface high-conviction buying signals.
-</p>
+<div id="view-trades">
 
-<!-- ================================================================== -->
-<!-- FILTERS                                                              -->
-<!-- ================================================================== -->
-<div class="filters-wrap">
+  <div id="error-banner"></div>
 
-  <div class="filter-row">
-    <div class="filter-group">
-      <div class="search-wrap">
-        <svg class="search-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-          <circle cx="6.5" cy="6.5" r="4.5"/>
-          <line x1="10" y1="10" x2="14" y2="14"/>
-        </svg>
-        <input type="text" id="search-input" placeholder="Ticker or company…" />
+  <h1 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">
+    Insider Trading Tracker — US &amp; Canadian Markets
+  </h1>
+  <p style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;">
+    Monitor real-time SEC Form 4 open-market purchases by corporate insiders — CEOs, directors, and CFOs —
+    alongside US Congressional stock disclosures and Canadian insider filings.
+    Filter by role, trade size ($25K+), and date to surface high-conviction buying signals.
+  </p>
+
+  <div class="filters-wrap">
+    <div class="filter-row">
+      <div class="filter-group">
+        <div class="search-wrap">
+          <svg class="search-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <circle cx="6.5" cy="6.5" r="4.5"/>
+            <line x1="10" y1="10" x2="14" y2="14"/>
+          </svg>
+          <input type="text" id="search-input" placeholder="Ticker or company…" />
+        </div>
+      </div>
+      <div class="filter-group">
+        <span class="filter-label">Title</span>
+        <div class="select-wrap">
+          <select id="title-filter">
+            <option value="all">All Titles</option>
+            <option value="ceo">CEO / President</option>
+            <option value="director">Director / Chairman</option>
+            <option value="vp">VP / SVP / EVP</option>
+            <option value="cfo">CFO</option>
+            <option value="other">Other</option>
+          </select>
+          <svg class="select-chevron" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <path d="M2 4l4 4 4-4"/>
+          </svg>
+        </div>
       </div>
     </div>
-    <div class="filter-group">
-      <span class="filter-label">Title</span>
-      <div class="select-wrap">
-        <select id="title-filter">
-          <option value="all">All Titles</option>
-          <option value="ceo">CEO / President</option>
-          <option value="director">Director / Chairman</option>
-          <option value="vp">VP / SVP / EVP</option>
-          <option value="cfo">CFO</option>
-          <option value="other">Other</option>
-        </select>
-        <svg class="select-chevron" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-          <path d="M2 4l4 4 4-4"/>
-        </svg>
+
+    <div class="filter-row">
+      <div class="filter-group">
+        <span class="filter-label">Min Value</span>
+        <div class="date-range-group" id="min-value-group">
+          <button class="btn-range active" data-minval="0">All</button>
+          <button class="btn-range" data-minval="100000">$100K+</button>
+          <button class="btn-range" data-minval="500000">$500K+</button>
+          <button class="btn-range" data-minval="1000000">$1M+</button>
+          <button class="btn-range" data-minval="5000000">$5M+</button>
+          <button class="btn-range" data-minval="10000000">$10M+</button>
+        </div>
       </div>
+      <div class="filter-group">
+        <span class="filter-label">Period</span>
+        <div class="date-range-group" id="date-range-group">
+          <button class="btn-range active" data-range="1">1D</button>
+          <button class="btn-range" data-range="7">7D</button>
+          <button class="btn-range" data-range="30">30D</button>
+          <button class="btn-range" data-range="90">90D</button>
+          <button class="btn-range" data-range="365">1Y</button>
+          <button class="btn-range" data-range="all">All</button>
+        </div>
+      </div>
+    </div>
+
+    <button class="btn-reset" id="btn-reset">↺ Reset</button>
+  </div>
+
+  <div class="table-section">
+    <div id="no-results">
+      <svg class="no-results-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round">
+        <circle cx="20" cy="20" r="14"/>
+        <line x1="30" y1="30" x2="42" y2="42"/>
+        <line x1="14" y1="20" x2="26" y2="20"/>
+      </svg>
+      <p>No trades match your filters.</p>
+    </div>
+
+    <div id="market-closed-banner"></div>
+
+    <div class="table-scroll">
+      <table id="trades-table">
+        <thead>
+          <tr>
+            <th data-col="filing_date">Date<i class="sort-arrow"></i></th>
+            <th data-col="filing_time">Time<i class="sort-arrow"></i></th>
+            <th data-col="ticker">Ticker<i class="sort-arrow"></i></th>
+            <th data-col="company">Company<i class="sort-arrow"></i></th>
+            <th data-col="insider_name">Insider<i class="sort-arrow"></i></th>
+            <th data-col="title">Role<i class="sort-arrow"></i></th>
+            <th data-col="value">Trade Value<i class="sort-arrow"></i></th>
+            <th class="col-hide" data-col="qty">Shares<i class="sort-arrow"></i></th>
+            <th class="col-hide" data-col="price">Price<i class="sort-arrow"></i></th>
+            <th data-col="cluster_buy">Signal<i class="sort-arrow"></i></th>
+          </tr>
+        </thead>
+        <tbody id="table-body">
+          <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:100%"></div></td></tr>
+          <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:92%"></div></td></tr>
+          <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:96%"></div></td></tr>
+          <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:85%"></div></td></tr>
+          <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:90%"></div></td></tr>
+          <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:78%"></div></td></tr>
+        </tbody>
+      </table>
     </div>
   </div>
 
-  <div class="filter-row">
-    <div class="filter-group">
-      <span class="filter-label">Min Value</span>
-      <div class="date-range-group" id="min-value-group">
-        <button class="btn-range active" data-minval="0">All</button>
-        <button class="btn-range" data-minval="100000">$100K+</button>
-        <button class="btn-range" data-minval="500000">$500K+</button>
-        <button class="btn-range" data-minval="1000000">$1M+</button>
-        <button class="btn-range" data-minval="5000000">$5M+</button>
-        <button class="btn-range" data-minval="10000000">$10M+</button>
-      </div>
-    </div>
-    <div class="filter-group">
-      <span class="filter-label">Period</span>
-      <div class="date-range-group" id="date-range-group">
-        <button class="btn-range active" data-range="1">1D</button>
-        <button class="btn-range" data-range="7">7D</button>
-        <button class="btn-range" data-range="30">30D</button>
-        <button class="btn-range" data-range="90">90D</button>
-        <button class="btn-range" data-range="365">1Y</button>
-        <button class="btn-range" data-range="all">All</button>
-      </div>
-    </div>
-  </div>
-
-  <button class="btn-reset" id="btn-reset">↺ Reset</button>
-</div>
+</div><!-- /#view-trades -->
 
 <!-- ================================================================== -->
-<!-- TABLE                                                                -->
+<!-- VIEW: PERFORMANCE                                                    -->
 <!-- ================================================================== -->
-<div class="table-section">
+<div id="view-perf" style="display:none">
 
-  <div id="no-results">
-    <svg class="no-results-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round">
-      <circle cx="20" cy="20" r="14"/>
-      <line x1="30" y1="30" x2="42" y2="42"/>
-      <line x1="14" y1="20" x2="26" y2="20"/>
-    </svg>
-    <p>No trades match your filters.</p>
+  <div id="p-error-banner"></div>
+
+  <div class="filters-wrap">
+    <div class="filter-row">
+      <div class="filter-group">
+        <div class="search-wrap">
+          <svg class="search-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <circle cx="6.5" cy="6.5" r="4.5"/>
+            <line x1="10" y1="10" x2="14" y2="14"/>
+          </svg>
+          <input type="text" id="p-search-input" placeholder="Ticker or insider…" />
+        </div>
+      </div>
+    </div>
+
+    <div class="filter-row">
+      <div class="filter-group">
+        <span class="filter-label">Sort</span>
+        <div class="btn-range-group" id="p-sort-group">
+          <button class="btn-range" data-sort="return_pct">Return %</button>
+          <button class="btn-range" data-sort="value">Value</button>
+          <button class="btn-range active" data-sort="trade_date">Date</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="filter-row">
+      <div class="filter-group">
+        <span class="filter-label">Show</span>
+        <div class="btn-range-group" id="p-status-filter-group">
+          <button class="btn-range active" data-status="all">All</button>
+          <button class="btn-range" data-status="winning">Profitable</button>
+          <button class="btn-range" data-status="losing">Losing</button>
+          <button class="btn-range" data-status="pending">Pending</button>
+        </div>
+      </div>
+    </div>
+
+    <button class="btn-reset" id="p-btn-reset">↺ Reset</button>
   </div>
 
-  <div id="market-closed-banner"></div>
+  <div class="table-section">
+    <div id="p-no-results">
+      <svg class="no-results-icon" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round">
+        <circle cx="20" cy="20" r="14"/>
+        <line x1="30" y1="30" x2="42" y2="42"/>
+        <line x1="14" y1="20" x2="26" y2="20"/>
+      </svg>
+      <p>No trades match your filters.</p>
+    </div>
 
-  <div class="table-scroll">
-    <table id="trades-table">
-      <thead>
-        <tr>
-          <th data-col="filing_date">Date<i class="sort-arrow"></i></th>
-          <th data-col="filing_time">Time<i class="sort-arrow"></i></th>
-          <th data-col="ticker">Ticker<i class="sort-arrow"></i></th>
-          <th data-col="company">Company<i class="sort-arrow"></i></th>
-          <th data-col="insider_name">Insider<i class="sort-arrow"></i></th>
-          <th data-col="title">Role<i class="sort-arrow"></i></th>
-          <th data-col="value">Trade Value<i class="sort-arrow"></i></th>
-          <th class="col-hide" data-col="qty">Shares<i class="sort-arrow"></i></th>
-          <th class="col-hide" data-col="price">Price<i class="sort-arrow"></i></th>
-          <th data-col="cluster_buy">Signal<i class="sort-arrow"></i></th>
-        </tr>
-      </thead>
-      <tbody id="table-body">
-        <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:100%"></div></td></tr>
-        <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:92%"></div></td></tr>
-        <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:96%"></div></td></tr>
-        <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:85%"></div></td></tr>
-        <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:90%"></div></td></tr>
-        <tr class="skeleton-row"><td colspan="10"><div class="skeleton-cell" style="width:78%"></div></td></tr>
-      </tbody>
-    </table>
+    <div class="table-scroll">
+      <table id="perf-table">
+        <thead>
+          <tr>
+            <th style="width:40px">#</th>
+            <th data-col="ticker">Ticker<i class="sort-arrow"></i></th>
+            <th data-col="company">Company<i class="sort-arrow"></i></th>
+            <th data-col="insider_name">Insider<i class="sort-arrow"></i></th>
+            <th data-col="trade_date">Trade Date<i class="sort-arrow"></i></th>
+            <th data-col="return_pct">Return %<i class="sort-arrow"></i></th>
+            <th data-col="value">Value<i class="sort-arrow"></i></th>
+          </tr>
+        </thead>
+        <tbody id="p-table-body">
+          <tr class="skeleton-row"><td colspan="7"><div class="skeleton-cell" style="width:100%"></div></td></tr>
+          <tr class="skeleton-row"><td colspan="7"><div class="skeleton-cell" style="width:92%"></div></td></tr>
+          <tr class="skeleton-row"><td colspan="7"><div class="skeleton-cell" style="width:96%"></div></td></tr>
+          <tr class="skeleton-row"><td colspan="7"><div class="skeleton-cell" style="width:85%"></div></td></tr>
+          <tr class="skeleton-row"><td colspan="7"><div class="skeleton-cell" style="width:90%"></div></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="perf-updated">Price snapshots updated <strong>hourly on weekdays</strong>. Returns from trade date to latest price. <span id="p-last-updated"></span></div>
   </div>
-</div>
+
+</div><!-- /#view-perf -->
 
 <!-- ================================================================== -->
 <!-- FOOTER                                                               -->
@@ -638,18 +714,52 @@
 </footer>
 
 <!-- ================================================================== -->
-<!-- JAVASCRIPT — logic unchanged, only presentation updated             -->
+<!-- JAVASCRIPT                                                           -->
 <!-- ================================================================== -->
 <script>
 (function () {
   'use strict';
 
   /* ------------------------------------------------------------------ */
-  /* State                                                                */
+  /* Tab switching                                                         */
   /* ------------------------------------------------------------------ */
+  const TAB_KEY = 'iep_active_view';
+  let activeView = localStorage.getItem(TAB_KEY) || 'trades';
+
+  const viewTradesEl   = document.getElementById('view-trades');
+  const viewPerfEl     = document.getElementById('view-perf');
+  const mTradesStatsEl = document.getElementById('m-trades-stats');
+  const mPerfStatsEl   = document.getElementById('m-perf-stats');
+  const hTradesStatsEl = document.getElementById('h-trades-stats');
+  const hPerfStatsEl   = document.getElementById('h-perf-stats');
+
+  function applyView(v) {
+    document.querySelectorAll('.view-tab').forEach(t => t.classList.toggle('active', t.dataset.view === v));
+    viewTradesEl.style.display   = v === 'trades'      ? '' : 'none';
+    viewPerfEl.style.display     = v === 'performance' ? '' : 'none';
+    mTradesStatsEl.style.display = v === 'trades'      ? '' : 'none';
+    mPerfStatsEl.style.display   = v === 'performance' ? '' : 'none';
+    hTradesStatsEl.style.display = v === 'trades'      ? '' : 'none';
+    hPerfStatsEl.style.display   = v === 'performance' ? '' : 'none';
+  }
+
+  applyView(activeView);
+
+  document.querySelectorAll('.view-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      const v = tab.dataset.view;
+      if (v === activeView) return;
+      activeView = v;
+      localStorage.setItem(TAB_KEY, v);
+      applyView(v);
+    });
+  });
+
+  /* ================================================================== */
+  /* TRADES                                                               */
+  /* ================================================================== */
   const DATA_URL = 'data/latest.json';
   const REFRESH_INTERVAL_MS = 30 * 60 * 1000;
-
 
   let allTrades       = [];
   let sortCol         = 'filing_date';
@@ -659,33 +769,18 @@
   let minValue        = 0;
   let clusterOnly     = false;
 
-  /* ------------------------------------------------------------------ */
-  /* DOM refs                                                              */
-  /* ------------------------------------------------------------------ */
-  const lastUpdatedEl  = document.getElementById('last-updated');
-  const tradeCountEls  = document.querySelectorAll('.trade-count-badge');
-  function setTradeCount(text) { tradeCountEls.forEach(el => el.textContent = text); }
-  const refreshDotEl   = document.getElementById('refresh-dot');
-  const errorBannerEl  = document.getElementById('error-banner');
-  const tableBodyEl    = document.getElementById('table-body');
+  const lastUpdatedEl    = document.getElementById('last-updated');
+  const refreshDotEl     = document.getElementById('refresh-dot');
+  const errorBannerEl    = document.getElementById('error-banner');
+  const tableBodyEl      = document.getElementById('table-body');
   const noResultsEl      = document.getElementById('no-results');
   const marketBannerEl   = document.getElementById('market-closed-banner');
-  const searchInputEl  = document.getElementById('search-input');
-  const titleFilterEl  = document.getElementById('title-filter');
+  const searchInputEl    = document.getElementById('search-input');
+  const titleFilterEl    = document.getElementById('title-filter');
   const btnReset         = document.getElementById('btn-reset');
   const tableEl          = document.getElementById('trades-table');
   const dateRangeGroupEl = document.getElementById('date-range-group');
   const minValueGroupEl  = document.getElementById('min-value-group');
-
-  const statVisible      = document.getElementById('stat-visible');
-  const statClusters     = document.getElementById('stat-clusters');
-  const statTotalValue   = document.getElementById('stat-total-value');
-  const statTickers      = document.getElementById('stat-tickers');
-  const statCardClusters = document.getElementById('stat-card-clusters');
-
-  /* ------------------------------------------------------------------ */
-  /* Utilities                                                             */
-  /* ------------------------------------------------------------------ */
   function toLocalDateStr(d) {
     return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
   }
@@ -695,18 +790,6 @@
     const s = String(v).replace(/[$,\s%+]/g, '');
     const n = parseFloat(s);
     return isNaN(n) ? 0 : n;
-  }
-
-  function animCounter(el, target, fmt) {
-    const dur = 750, s = performance.now();
-    const from = parseFloat(el.dataset.animFrom || '0') || 0;
-    el.dataset.animFrom = target;
-    (function tick(now) {
-      const p = Math.min((now - s) / dur, 1), e = 1 - Math.pow(1 - p, 3);
-      const v = from + (target - from) * e;
-      el.textContent = fmt ? fmt(v) : Math.round(v).toLocaleString();
-      if (p < 1) requestAnimationFrame(tick);
-    })(s);
   }
 
   function formatCurrency(n) {
@@ -725,9 +808,6 @@
     return n.toLocaleString();
   }
 
-  /* ------------------------------------------------------------------ */
-  /* Title classification                                                  */
-  /* ------------------------------------------------------------------ */
   function classifyTitle(title) {
     const t = (title || '').toLowerCase();
     if (/\b(ceo|chief executive|president|pres)\b/.test(t))                return 'ceo';
@@ -750,9 +830,6 @@
       .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
 
-  /* ------------------------------------------------------------------ */
-  /* Row classification                                                    */
-  /* ------------------------------------------------------------------ */
   function rowClass(trade) {
     const cls = classifyTitle(trade.title || '');
     if (cls === 'ceo' || cls === 'director') return 'row-ceo';
@@ -760,9 +837,6 @@
     return '';
   }
 
-  /* ------------------------------------------------------------------ */
-  /* Filtering                                                             */
-  /* ------------------------------------------------------------------ */
   function getFilters() {
     return {
       search:    searchInputEl.value.trim().toLowerCase(),
@@ -777,7 +851,6 @@
     let cutoff = null;
     if (dateRange !== 'all') {
       const d = new Date();
-      // 1D = today only; Nd = last N days (inclusive of cutoff date)
       if (dateRange !== '1') d.setDate(d.getDate() - parseInt(dateRange, 10));
       cutoff = toLocalDateStr(d);
     }
@@ -794,9 +867,6 @@
     });
   }
 
-  /* ------------------------------------------------------------------ */
-  /* Sorting                                                               */
-  /* ------------------------------------------------------------------ */
   function sortTrades(trades) {
     return [...trades].sort((a, b) => {
       let av = a[sortCol], bv = b[sortCol];
@@ -813,9 +883,6 @@
     });
   }
 
-  /* ------------------------------------------------------------------ */
-  /* Group helpers                                                         */
-  /* ------------------------------------------------------------------ */
   function getSortVal(trades) {
     if (['value','qty','price'].includes(sortCol))
       return trades.reduce((s, t) => s + parseNumber(t[sortCol]), 0);
@@ -836,20 +903,14 @@
     return '';
   }
 
-  /* ------------------------------------------------------------------ */
-  /* Render                                                                */
-  /* ------------------------------------------------------------------ */
   function renderTable() {
     const filtered = applyFilters(allTrades);
     marketBannerEl.style.display = 'none';
-
     let displayTrades = filtered;
 
     if (filtered.length === 0) {
-      // If 1D is empty (weekend/holiday), auto-show last active day
       if (dateRange === '1' && allTrades.length > 0) {
         const lastDate = allTrades.reduce((max, t) => t.filing_date > max ? t.filing_date : max, '');
-        // Apply all filters except date to the last active day's trades
         const savedDateRange = dateRange;
         dateRange = 'all';
         const lastDayTrades = applyFilters(allTrades.filter(t => t.filing_date === lastDate));
@@ -866,9 +927,6 @@
       if (displayTrades === filtered) {
         tableBodyEl.innerHTML = '';
         noResultsEl.style.display = 'block';
-        setTradeCount('0 trades');
-        statVisible.textContent = '0'; statClusters.textContent = '0';
-        statTotalValue.textContent = '—'; statTickers.textContent = '0';
         document.getElementById('h-stat-visible').textContent = '0'; document.getElementById('h-stat-clusters').textContent = '0';
         document.getElementById('h-stat-total-value').textContent = '—'; document.getElementById('h-stat-tickers').textContent = '0';
         document.getElementById('m-stat-visible').textContent = '0'; document.getElementById('m-stat-clusters').textContent = '0';
@@ -883,11 +941,6 @@
     const clusterCount  = displayTrades.filter(t => t.cluster_buy).length;
     const uniqueTickers = new Set(displayTrades.map(t => t.ticker)).size;
 
-    animCounter(statVisible,    displayTrades.length, null);
-    animCounter(statClusters,   clusterCount,         null);
-    animCounter(statTotalValue, totalValue,           formatCurrency);
-    animCounter(statTickers,    uniqueTickers,        null);
-    setTradeCount(displayTrades.length.toLocaleString() + ' trades');
     document.getElementById('h-stat-visible').textContent     = displayTrades.length.toLocaleString();
     document.getElementById('h-stat-clusters').textContent    = clusterCount.toLocaleString();
     document.getElementById('h-stat-total-value').textContent = formatCurrency(totalValue);
@@ -901,7 +954,6 @@
   }
 
   function renderRows(trades) {
-    // Group by ticker
     const groupMap = new Map();
     trades.forEach(t => {
       if (!groupMap.has(t.ticker)) groupMap.set(t.ticker, []);
@@ -913,8 +965,6 @@
       company:    trades[0].company,
       totalValue: trades.reduce((s, t) => s + parseNumber(t.value), 0),
       totalQty:   trades.reduce((s, t) => s + parseNumber(t.qty), 0),
-      // Only show Cluster badge when ≥2 distinct insiders in the *filtered* group carry the flag.
-      // Reading cluster_buy straight from JSON would show the badge after filtering down to 1 person.
       clusterBuy: new Set(trades.filter(t => t.cluster_buy).map(t => (t.insider_name || '').toLowerCase())).size >= 2,
       count:      trades.length,
       trades:     sortTrades(trades),
@@ -938,12 +988,10 @@
 
       if (multi) {
         const latestTrade = g.trades.reduce((m, t) => (t.filing_date > m.filing_date ? t : m), g.trades[0]);
-        const latestDate = latestTrade.filing_date || '';
-        const latestTime = latestTrade.filing_time || '';
         const arrow = isExpanded ? '&#9660;' : '&#9654;';
         rows.push(`<tr class="group-row ${rc}" data-ticker="${escHtml(g.ticker)}" style="cursor:pointer">
-          <td class="td-date">${escHtml(latestDate)}</td>
-          <td class="td-time">${escHtml(latestTime) || '—'}</td>
+          <td class="td-date">${escHtml(latestTrade.filing_date || '—')}</td>
+          <td class="td-time">${escHtml(latestTrade.filing_time || '') || '—'}</td>
           <td class="td-ticker"><span class="expand-arrow">${arrow}</span>${escHtml(g.ticker)}</td>
           <td class="td-company" title="${escHtml(g.company)}">${escHtml(g.company)}</td>
           <td class="td-stock-cell"><span class="mobile-ticker-sym"><span class="expand-arrow">${arrow}</span>${escHtml(g.ticker)}</span><span class="mobile-co-name">${escHtml(g.company)}</span></td>
@@ -999,20 +1047,18 @@
 
     tableBodyEl.innerHTML = rows.join('');
 
-    tableBodyEl.querySelectorAll('tr.group-row').forEach(row => {
-      row.addEventListener('click', () => {
-        const ticker = row.dataset.ticker;
-        if (expandedTickers.has(ticker)) expandedTickers.delete(ticker);
-        else expandedTickers.add(ticker);
-        renderTable();
-      });
-    });
-
   }
 
-  /* ------------------------------------------------------------------ */
-  /* Sort header clicks                                                    */
-  /* ------------------------------------------------------------------ */
+  // Event delegation — one listener for all group-row clicks, not re-attached on every render
+  tableBodyEl.addEventListener('click', e => {
+    const row = e.target.closest('tr.group-row');
+    if (!row) return;
+    const ticker = row.dataset.ticker;
+    if (expandedTickers.has(ticker)) expandedTickers.delete(ticker);
+    else expandedTickers.add(ticker);
+    renderTable();
+  });
+
   tableEl.querySelectorAll('th[data-col]').forEach(th => {
     th.addEventListener('click', () => {
       const col = th.dataset.col;
@@ -1023,23 +1069,14 @@
       renderTable();
     });
   });
-
   (function () {
     const initTh = tableEl.querySelector(`th[data-col="${sortCol}"]`);
     if (initTh) initTh.classList.add('sort-desc');
   })();
 
-  /* ------------------------------------------------------------------ */
-  /* Filter persistence                                                     */
-  /* ------------------------------------------------------------------ */
   const FILTER_KEY = 'iep_us_filters';
   function saveFilters() {
-    localStorage.setItem(FILTER_KEY, JSON.stringify({
-      dateRange, minValue,
-      title: titleFilterEl.value,
-      search: searchInputEl.value,
-      clusterOnly,
-    }));
+    localStorage.setItem(FILTER_KEY, JSON.stringify({ dateRange, minValue, title: titleFilterEl.value, search: searchInputEl.value, clusterOnly }));
   }
   function restoreFilters() {
     try {
@@ -1048,16 +1085,13 @@
       dateRange   = saved.dateRange   ?? '1';
       minValue    = saved.minValue    ?? 0;
       clusterOnly = saved.clusterOnly ?? false;
-      if (saved.title)  titleFilterEl.value  = saved.title;
-      if (saved.search) searchInputEl.value  = saved.search;
+      if (saved.title)  titleFilterEl.value = saved.title;
+      if (saved.search) searchInputEl.value = saved.search;
       dateRangeGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.toggle('active', b.dataset.range === String(dateRange)));
       minValueGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.toggle('active', b.dataset.minval === String(minValue)));
-      statCardClusters.classList.toggle('active', clusterOnly);
     } catch {}
   }
 
-  /* Filter events                                                         */
-  /* ------------------------------------------------------------------ */
   function debounce(fn, ms) { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); }; }
   searchInputEl.addEventListener('input', debounce(() => { saveFilters(); renderTable(); }, 250));
   titleFilterEl.addEventListener('change', () => { saveFilters(); renderTable(); });
@@ -1066,67 +1100,37 @@
       dateRange = btn.dataset.range;
       dateRangeGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      saveFilters();
-      renderTable();
+      saveFilters(); renderTable();
     });
   });
-
   minValueGroupEl.querySelectorAll('.btn-range').forEach(btn => {
     btn.addEventListener('click', () => {
       minValue = parseInt(btn.dataset.minval, 10);
       minValueGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      saveFilters();
-      renderTable();
+      saveFilters(); renderTable();
     });
   });
-
-  statCardClusters.addEventListener('click', () => {
-    clusterOnly = !clusterOnly;
-    statCardClusters.classList.toggle('active', clusterOnly);
-    saveFilters();
-    renderTable();
-  });
-
   btnReset.addEventListener('click', () => {
     searchInputEl.value = '';
     titleFilterEl.value = 'all';
-    dateRange           = '1';
-    minValue            = 0;
-    clusterOnly         = false;
-    statCardClusters.classList.remove('active');
-    dateRangeGroupEl.querySelectorAll('.btn-range').forEach(b => {
-      b.classList.toggle('active', b.dataset.range === '1');
-    });
-    minValueGroupEl.querySelectorAll('.btn-range').forEach(b => {
-      b.classList.toggle('active', b.dataset.minval === '0');
-    });
-    saveFilters();
-    renderTable();
+    dateRange = '1'; minValue = 0; clusterOnly = false;
+    dateRangeGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.toggle('active', b.dataset.range === '1'));
+    minValueGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.toggle('active', b.dataset.minval === '0'));
+    saveFilters(); renderTable();
   });
 
-  /* ------------------------------------------------------------------ */
-  /* Data fetching                                                         */
-  /* ------------------------------------------------------------------ */
-  function showError(msg) {
-    errorBannerEl.textContent = msg;
-    errorBannerEl.style.display = 'block';
-  }
+  function showError(msg) { errorBannerEl.textContent = msg; errorBannerEl.style.display = 'block'; }
   function hideError() { errorBannerEl.style.display = 'none'; }
-
   function setLoading(on) {
     if (on) refreshDotEl.classList.add('loading');
     else    refreshDotEl.classList.remove('loading');
   }
-
   function formatTimestamp(isoStr) {
     if (!isoStr) return '';
     try {
       const d = new Date(isoStr);
-      return 'Updated ' + d.toLocaleString(undefined, {
-        month: 'short', day: 'numeric', year: 'numeric',
-        hour: '2-digit', minute: '2-digit', timeZoneName: 'short',
-      });
+      return 'Updated ' + d.toLocaleString(undefined, { month: 'short', day: 'numeric', year: 'numeric', hour: '2-digit', minute: '2-digit', timeZoneName: 'short' });
     } catch { return isoStr; }
   }
 
@@ -1136,22 +1140,332 @@
       const resp = await fetch(DATA_URL + '?_=' + Date.now());
       if (!resp.ok) throw new Error(`HTTP ${resp.status}: ${resp.statusText}`);
       const json = await resp.json();
-
       allTrades = json.trades || [];
       lastUpdatedEl.textContent = formatTimestamp(json.last_updated);
-
       hideError();
       renderTable();
     } catch (err) {
       showError('Could not load data: ' + err.message + '. Run the scraper to populate data.');
       if (allTrades.length === 0) {
-        tableBodyEl.innerHTML = `
-          <tr><td colspan="10" style="text-align:center;padding:60px;color:var(--muted)">
-            No data available. Run the scraper first.
-          </td></tr>`;
+        tableBodyEl.innerHTML = `<tr><td colspan="10" style="text-align:center;padding:60px;color:var(--muted)">No data available. Run the scraper first.</td></tr>`;
       }
     } finally {
       setLoading(false);
+    }
+  }
+
+  /* ================================================================== */
+  /* PERFORMANCE                                                          */
+  /* ================================================================== */
+  const PERF_DATA_URL = 'data/performance.json';
+
+  let allEntries         = [];
+  let perfExpandedTickers = new Set();
+  let perfSortCol        = 'trade_date';
+  let perfSortDir        = 'desc';
+  let perfStatusFilter   = 'all';
+  let perfSearch         = '';
+
+  const pErrorBannerEl  = document.getElementById('p-error-banner');
+  const pTableBodyEl    = document.getElementById('p-table-body');
+  const pNoResultsEl    = document.getElementById('p-no-results');
+  const pSearchInputEl  = document.getElementById('p-search-input');
+  const pTableEl        = document.getElementById('perf-table');
+  const pSortGroupEl    = document.getElementById('p-sort-group');
+  const pStatusGroupEl  = document.getElementById('p-status-filter-group');
+  const pBtnReset       = document.getElementById('p-btn-reset');
+  const pLastUpdatedEl  = document.getElementById('p-last-updated');
+
+  function formatPerfCurrency(n, currency) {
+    const sym = currency === 'CAD' ? 'CA$' : '$';
+    if (!n || n === 0) return '—';
+    if (n >= 1_000_000_000) return sym + (n / 1_000_000_000).toFixed(2) + 'B';
+    if (n >= 1_000_000)     return sym + (n / 1_000_000).toFixed(1) + 'M';
+    if (n >= 1_000)         return sym + (n / 1_000).toFixed(0) + 'K';
+    return sym + n.toFixed(0);
+  }
+
+  function formatPrice(n, currency) {
+    if (n === null || n === undefined) return '—';
+    const sym = currency === 'CAD' ? 'CA$' : '$';
+    return sym + Number(n).toFixed(2);
+  }
+
+  function formatReturn(pct) {
+    const sign = pct >= 0 ? '+' : '';
+    return sign + pct.toFixed(2) + '%';
+  }
+
+  function perfApplyFilters(entries) {
+    return entries.filter(e => {
+      if (perfStatusFilter === 'winning' && (e.return_pct === null || e.return_pct <= 0)) return false;
+      if (perfStatusFilter === 'losing'  && (e.return_pct === null || e.return_pct >= 0)) return false;
+      if (perfStatusFilter === 'pending' && e.return_pct !== null) return false;
+      if (perfSearch) {
+        const hay = ((e.ticker || '') + ' ' + (e.company || '') + ' ' + (e.insider_name || '')).toLowerCase();
+        if (!hay.includes(perfSearch)) return false;
+      }
+      return true;
+    });
+  }
+
+  function perfSortEntries(entries) {
+    return [...entries].sort((a, b) => {
+      let av = a[perfSortCol], bv = b[perfSortCol];
+      if (av === null && bv === null) return 0;
+      if (av === null) return 1;
+      if (bv === null) return -1;
+      if (typeof av === 'string') av = av.toLowerCase();
+      if (typeof bv === 'string') bv = bv.toLowerCase();
+      if (av < bv) return perfSortDir === 'asc' ? -1 : 1;
+      if (av > bv) return perfSortDir === 'asc' ? 1 : -1;
+      return 0;
+    });
+  }
+
+  function perfRenderTable() {
+    const filtered = perfApplyFilters(allEntries);
+    const sorted   = perfSortEntries(filtered);
+
+    const withPrice   = filtered.filter(e => e.return_pct !== null);
+    const winning     = withPrice.filter(e => e.return_pct > 0);
+    const winPct      = withPrice.length > 0 ? Math.round((winning.length / withPrice.length) * 100) : null;
+    const bestReturn  = withPrice.length > 0 ? Math.max(...withPrice.map(e => e.return_pct)) : null;
+    const worstReturn = withPrice.length > 0 ? Math.min(...withPrice.map(e => e.return_pct)) : null;
+    const avgReturn   = withPrice.length > 0 ? withPrice.reduce((s, e) => s + e.return_pct, 0) / withPrice.length : null;
+
+    const isLosing  = perfStatusFilter === 'losing';
+    const bestVal   = isLosing ? worstReturn : bestReturn;
+    const bestLabel = isLosing ? 'Worst' : 'Best';
+    const bestText  = bestVal !== null ? (bestVal >= 0 ? '+' : '') + bestVal.toFixed(1) + '%' : '—';
+
+    document.getElementById('p-h-lbl-best').textContent = bestLabel;
+    document.getElementById('p-m-lbl-best').textContent = bestLabel;
+
+    const winPctText = winPct !== null ? winPct + '%' : '—';
+    const avgText    = avgReturn !== null ? (avgReturn >= 0 ? '+' : '') + avgReturn.toFixed(1) + '%' : '—';
+
+    document.getElementById('p-h-stat-total').textContent   = filtered.length.toLocaleString();
+    document.getElementById('p-h-stat-winning').textContent = winPctText;
+    document.getElementById('p-h-stat-best').textContent    = bestText;
+    document.getElementById('p-h-stat-avg').textContent     = avgText;
+    document.getElementById('p-m-stat-total').textContent   = filtered.length.toLocaleString();
+    document.getElementById('p-m-stat-winning').textContent = winPctText;
+    document.getElementById('p-m-stat-best').textContent    = bestText;
+    document.getElementById('p-m-stat-avg').textContent     = avgText;
+
+    const avgColor  = avgReturn === null ? '' : avgReturn >= 0 ? 'green' : 'red';
+    const bestColor = bestVal   === null ? '' : bestVal   >= 0 ? 'green' : 'red';
+    const winColor  = winPct    === null ? 'green' : winPct >= 50 ? 'green' : 'red';
+    const setHstatColor = (id, color) => { const el = document.getElementById(id); if (el) el.className = 'hstat-val ' + color; };
+    setHstatColor('p-h-stat-avg',     avgColor);
+    setHstatColor('p-h-stat-best',    bestColor);
+    setHstatColor('p-h-stat-winning', winColor);
+    setHstatColor('p-m-stat-avg',     avgColor);
+    setHstatColor('p-m-stat-best',    bestColor);
+    setHstatColor('p-m-stat-winning', winColor);
+
+    if (sorted.length === 0) {
+      pTableBodyEl.innerHTML = '';
+      pNoResultsEl.style.display = 'flex';
+      return;
+    }
+    pNoResultsEl.style.display = 'none';
+
+    const groupMap = new Map();
+    sorted.forEach(e => {
+      if (!groupMap.has(e.ticker)) groupMap.set(e.ticker, []);
+      groupMap.get(e.ticker).push(e);
+    });
+
+    const groups = Array.from(groupMap.values()).map(entries => {
+      const wp = entries.filter(e => e.return_pct !== null);
+      const avg = wp.length ? wp.reduce((s, e) => s + e.return_pct, 0) / wp.length : null;
+      const lp  = entries.find(e => e.latest_price !== null)?.latest_price ?? null;
+      const sv  = perfSortCol === 'return_pct' ? avg
+                : perfSortCol === 'value'      ? entries.reduce((s, e) => s + e.value, 0)
+                : perfSortCol === 'trade_date' ? entries.reduce((best, e) => e.trade_date > best ? e.trade_date : best, '')
+                : entries[0][perfSortCol];
+      return { ticker: entries[0].ticker, company: entries[0].company, currency: entries[0].currency,
+               entries, avgReturn: avg, latestPrice: lp,
+               totalValue: entries.reduce((s, e) => s + e.value, 0),
+               sortVal: sv ?? (perfSortDir === 'desc' ? -Infinity : Infinity) };
+    });
+
+    groups.sort((a, b) => {
+      if (a.sortVal === null && b.sortVal === null) return 0;
+      if (a.sortVal === null) return 1;
+      if (b.sortVal === null) return -1;
+      if (a.sortVal < b.sortVal) return perfSortDir === 'asc' ? -1 : 1;
+      if (a.sortVal > b.sortVal) return perfSortDir === 'asc' ? 1 : -1;
+      return 0;
+    });
+
+    const rows = [];
+    groups.forEach((g, i) => {
+      const multi      = g.entries.length > 1;
+      const isExpanded = perfExpandedTickers.has(g.ticker);
+      const ret        = g.avgReturn;
+      const rowCls     = ret === null ? '' : ret > 0 ? 'row-gain' : 'row-loss';
+      const retHTML    = ret === null
+        ? '<span class="badge-pending">Pending</span>'
+        : `<span class="td-return ${ret > 0 ? 'positive' : 'negative'}">${ret > 0 ? '▲' : '▼'} ${formatReturn(ret)}</span>`;
+      const curHTML    = g.latestPrice !== null ? formatPrice(g.latestPrice, g.currency) : '<span class="badge-pending">Pending</span>';
+
+      if (multi) {
+        const arrow = isExpanded ? '&#9660;' : '&#9654;';
+        rows.push(`<tr class="group-row ${rowCls}" data-pticker="${escHtml(g.ticker)}" style="cursor:pointer">
+          <td class="td-rank">${i + 1}</td>
+          <td class="td-ticker"><span class="expand-arrow">${arrow}</span>${escHtml(g.ticker)}</td>
+          <td class="td-company" title="${escHtml(g.company)}">${escHtml(g.company)}</td>
+          <td class="td-stock-cell"><span class="mobile-ticker-sym"><span class="expand-arrow">${arrow}</span>${escHtml(g.ticker)}</span><span class="mobile-co-name">${escHtml(g.company)}</span></td>
+          <td><span class="group-insiders">${g.entries.length} insiders</span></td>
+          <td class="td-date">—</td>
+          <td>${retHTML}</td>
+          <td class="td-value">${formatPerfCurrency(g.totalValue, g.currency)}</td>
+        </tr>`);
+
+        if (isExpanded) {
+          g.entries.forEach(e => {
+            const er = e.return_pct;
+            const erCls  = er === null ? '' : er > 0 ? 'row-gain' : 'row-loss';
+            const priceLineE = (e.trade_price !== null && e.latest_price !== null)
+              ? `<span class="td-price-range">${formatPrice(e.trade_price, e.currency)} → ${formatPrice(e.latest_price, e.currency)}</span>`
+              : '';
+            const erCell = er === null
+              ? '<span class="badge-pending">Pending</span>'
+              : `<span class="td-return-cell"><span class="td-return ${er > 0 ? 'positive' : 'negative'}">${er > 0 ? '▲' : '▼'} ${formatReturn(er)}</span>${priceLineE}</span>`;
+            rows.push(`<tr class="child-row ${erCls}">
+              <td class="td-rank"></td>
+              <td class="td-ticker">${escHtml(e.ticker)}</td>
+              <td class="td-company">${escHtml(e.company)}</td>
+              <td class="td-stock-cell"><span class="mobile-ticker-sym">${escHtml(e.ticker)}</span><span class="mobile-co-name">${escHtml(e.company)}</span></td>
+              <td class="td-insider" title="${escHtml(e.insider_name)}"><span class="insider-name-row"><span class="insider-name-text">${escHtml(e.insider_name || '—')}</span><span class="mobile-role">${titleBadge(e.title || 'Unknown')}</span></span></td>
+              <td class="td-date">${escHtml(e.trade_date || '—')}</td>
+              <td>${erCell}</td>
+              <td class="td-value">${formatPerfCurrency(e.value, e.currency)}</td>
+            </tr>`);
+          });
+        }
+      } else {
+        const e = g.entries[0];
+        const priceLineS = (e.trade_price !== null && e.latest_price !== null)
+          ? `<span class="td-price-range">${formatPrice(e.trade_price, e.currency)} → ${formatPrice(e.latest_price, e.currency)}</span>`
+          : '';
+        const retCell = ret === null
+          ? '<span class="badge-pending">Pending</span>'
+          : `<span class="td-return-cell"><span class="td-return ${ret > 0 ? 'positive' : 'negative'}">${ret > 0 ? '▲' : '▼'} ${formatReturn(ret)}</span>${priceLineS}</span>`;
+        rows.push(`<tr class="${rowCls}">
+          <td class="td-rank">${i + 1}</td>
+          <td class="td-ticker">${escHtml(e.ticker)}</td>
+          <td class="td-company" title="${escHtml(e.company)}">${escHtml(e.company)}</td>
+          <td class="td-stock-cell"><span class="mobile-ticker-sym">${escHtml(e.ticker)}</span><span class="mobile-co-name">${escHtml(e.company)}</span></td>
+          <td class="td-insider" title="${escHtml(e.insider_name)}"><span class="insider-name-row"><span class="insider-name-text">${escHtml(e.insider_name || '—')}</span><span class="mobile-role">${titleBadge(e.title || 'Unknown')}</span></span></td>
+          <td class="td-date">${escHtml(e.trade_date || '—')}</td>
+          <td>${retCell}</td>
+          <td class="td-value">${formatPerfCurrency(e.value, e.currency)}</td>
+        </tr>`);
+      }
+    });
+
+    pTableBodyEl.innerHTML = rows.join('');
+  }
+
+  // Event delegation — one listener for all group-row clicks, not re-attached on every render
+  pTableBodyEl.addEventListener('click', e => {
+    const row = e.target.closest('tr.group-row');
+    if (!row) return;
+    const ticker = row.dataset.pticker;
+    if (perfExpandedTickers.has(ticker)) perfExpandedTickers.delete(ticker);
+    else perfExpandedTickers.add(ticker);
+    perfRenderTable();
+  });
+
+  pTableEl.querySelectorAll('th[data-col]').forEach(th => {
+    th.addEventListener('click', () => {
+      const col = th.dataset.col;
+      if (col === perfSortCol) perfSortDir = perfSortDir === 'asc' ? 'desc' : 'asc';
+      else { perfSortCol = col; perfSortDir = 'desc'; }
+      pTableEl.querySelectorAll('th').forEach(h => h.classList.remove('sort-asc', 'sort-desc'));
+      th.classList.add(perfSortDir === 'asc' ? 'sort-asc' : 'sort-desc');
+      perfRenderTable();
+    });
+  });
+  (function () {
+    const initTh = pTableEl.querySelector(`th[data-col="${perfSortCol}"]`);
+    if (initTh) initTh.classList.add('sort-desc');
+  })();
+
+  const PERF_FILTER_KEY = 'iep_perf_filters';
+  function perfSaveFilters() {
+    localStorage.setItem(PERF_FILTER_KEY, JSON.stringify({ perfSortCol, perfSortDir, perfStatusFilter, perfSearch }));
+  }
+  function perfRestoreFilters() {
+    try {
+      const saved = JSON.parse(localStorage.getItem(PERF_FILTER_KEY));
+      if (!saved) return;
+      perfSortCol      = saved.perfSortCol      ?? 'trade_date';
+      perfSortDir      = saved.perfSortDir      ?? 'desc';
+      perfStatusFilter = saved.perfStatusFilter ?? 'all';
+      perfSearch       = saved.perfSearch       ?? '';
+      if (perfSearch) pSearchInputEl.value = perfSearch;
+      pStatusGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.toggle('active', b.dataset.status === perfStatusFilter));
+      pSortGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.toggle('active', b.dataset.sort === perfSortCol));
+    } catch {}
+  }
+
+  function debounceP(fn, ms) { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); }; }
+  pSearchInputEl.addEventListener('input', debounceP(() => {
+    perfSearch = pSearchInputEl.value.trim().toLowerCase();
+    perfSaveFilters(); perfRenderTable();
+  }, 250));
+  pSortGroupEl.querySelectorAll('.btn-range').forEach(btn => {
+    btn.addEventListener('click', () => {
+      perfSortCol = btn.dataset.sort; perfSortDir = 'desc';
+      pSortGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      pTableEl.querySelectorAll('th').forEach(h => h.classList.remove('sort-asc', 'sort-desc'));
+      const th = pTableEl.querySelector(`th[data-col="${perfSortCol}"]`);
+      if (th) th.classList.add('sort-desc');
+      perfSaveFilters(); perfRenderTable();
+    });
+  });
+  pStatusGroupEl.querySelectorAll('.btn-range').forEach(btn => {
+    btn.addEventListener('click', () => {
+      perfStatusFilter = btn.dataset.status;
+      pStatusGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      perfSaveFilters(); perfRenderTable();
+    });
+  });
+  pBtnReset.addEventListener('click', () => {
+    pSearchInputEl.value = '';
+    perfSearch = ''; perfStatusFilter = 'all'; perfSortCol = 'trade_date'; perfSortDir = 'desc';
+    pStatusGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.toggle('active', b.dataset.status === 'all'));
+    pSortGroupEl.querySelectorAll('.btn-range').forEach(b => b.classList.toggle('active', b.dataset.sort === 'trade_date'));
+    pTableEl.querySelectorAll('th').forEach(h => h.classList.remove('sort-asc', 'sort-desc'));
+    const th = pTableEl.querySelector('th[data-col="trade_date"]');
+    if (th) th.classList.add('sort-desc');
+    perfSaveFilters(); perfRenderTable();
+  });
+
+  async function perfFetchData() {
+    try {
+      const resp = await fetch(PERF_DATA_URL + '?_=' + Date.now());
+      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+      const json = await resp.json();
+      allEntries = json.entries || [];
+      if (pLastUpdatedEl && json.last_updated) {
+        const d = new Date(json.last_updated + 'T00:00:00');
+        pLastUpdatedEl.textContent = '· Updated ' + d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+      }
+      pErrorBannerEl.innerHTML = '';
+      perfRenderTable();
+    } catch (err) {
+      pErrorBannerEl.innerHTML = `<div class="error-banner">Could not load performance data: ${escHtml(err.message)}</div>`;
+      if (allEntries.length === 0) {
+        pTableBodyEl.innerHTML = `<tr><td colspan="9" style="text-align:center;padding:60px;color:var(--muted)">No data yet. Performance data builds after the next scraper run.</td></tr>`;
+      }
     }
   }
 
@@ -1161,9 +1475,13 @@
   restoreFilters();
   fetchData();
   setInterval(fetchData, REFRESH_INTERVAL_MS);
+
+  perfRestoreFilters();
+  perfFetchData();
+  setInterval(perfFetchData, REFRESH_INTERVAL_MS);
+
 })();
 </script>
-
 
 </body>
 </html>
