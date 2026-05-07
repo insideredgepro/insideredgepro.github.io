@@ -503,15 +503,22 @@ footer {
 
   /* Insider name — row 1 left, bold white (like politician in congress) */
   td.td-insider {
-    display: block;
+    display: flex;
+    align-items: center;
+    gap: 5px;
     grid-area: insider;
     font-size: 12px;
     font-weight: 700;
     color: var(--text);
-    white-space: nowrap;
+    overflow: hidden;
+    align-self: end;
+  }
+  td.td-insider > .insider-name-text {
     overflow: hidden;
     text-overflow: ellipsis;
-    align-self: end;
+    white-space: nowrap;
+    min-width: 0;
+    flex: 1;
   }
   /* Group rows: show "N insiders" in insider area */
   td:has(.group-insiders) {
