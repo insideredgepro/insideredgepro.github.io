@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T17:00:20Z",
-  "trade_count": 2956,
+  "last_updated": "2026-05-07T19:00:20Z",
+  "trade_count": 2957,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44848,6 +44848,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4715646",
+      "trade_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "company": "Barksdale Resources Corp.",
+      "ticker": "BRO",
+      "insider_name": "Blasutti, Darren John",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "250000",
+      "price": "0.4000",
+      "value": "100000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
