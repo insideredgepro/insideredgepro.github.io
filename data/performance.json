@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-06",
-  "entry_count": 1011,
+  "entry_count": 1017,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -39476,6 +39476,124 @@
       "latest_price": 465.52,
       "return_pct": -0.41,
       "last_snapshot": "2026-05-06"
+    },
+    {
+      "id": "US|CXDO|2026-05-04|gaylor douglas walter|8.15",
+      "market": "US",
+      "ticker": "CXDO",
+      "yf_symbol": "CXDO",
+      "company": "Crexendo, Inc.",
+      "insider_name": "Gaylor Douglas Walter",
+      "title": "COO",
+      "trade_date": "2026-05-04",
+      "trade_price": 8.15,
+      "value": 81541.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-06": 9.74
+      },
+      "latest_price": 9.74,
+      "return_pct": 19.51,
+      "last_snapshot": "2026-05-06"
+    },
+    {
+      "id": "US|RLYB|2026-05-04|adar1 capital management, llc|13.97",
+      "market": "US",
+      "ticker": "RLYB",
+      "yf_symbol": "RLYB",
+      "company": "Rallybio Corp",
+      "insider_name": "Adar1 Capital Management, LLC",
+      "title": "10%",
+      "trade_date": "2026-05-04",
+      "trade_price": 13.97,
+      "value": 2178668.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-06": 14.56
+      },
+      "latest_price": 14.56,
+      "return_pct": 4.22,
+      "last_snapshot": "2026-05-06"
+    },
+    {
+      "id": "US|TLX|2026-04-28|behrenbruch christian|14.67",
+      "market": "US",
+      "ticker": "TLX",
+      "yf_symbol": "TLX",
+      "company": "Telix Pharmaceuticals Ltd",
+      "insider_name": "Behrenbruch Christian",
+      "title": "MD, Group CEO",
+      "trade_date": "2026-04-28",
+      "trade_price": 14.67,
+      "value": 996738.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-06": 11.11
+      },
+      "latest_price": 11.11,
+      "return_pct": -24.27,
+      "last_snapshot": "2026-05-06"
+    },
+    {
+      "id": "US|ALKT|2026-05-04|general atlantic genpar (bermuda), l.p.|16.77",
+      "market": "US",
+      "ticker": "ALKT",
+      "yf_symbol": "ALKT",
+      "company": "Alkami Technology, Inc.",
+      "insider_name": "General Atlantic Genpar (Bermuda), L.P.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-04",
+      "trade_price": 16.77,
+      "value": 34664924.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-06": 16.75
+      },
+      "latest_price": 16.75,
+      "return_pct": -0.12,
+      "last_snapshot": "2026-05-06"
+    },
+    {
+      "id": "US|ALKT|2026-05-04|general atlantic, l.p.|16.77",
+      "market": "US",
+      "ticker": "ALKT",
+      "yf_symbol": "ALKT",
+      "company": "Alkami Technology, Inc.",
+      "insider_name": "General Atlantic, L.P.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-04",
+      "trade_price": 16.77,
+      "value": 34664924.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-06": 16.75
+      },
+      "latest_price": 16.75,
+      "return_pct": -0.12,
+      "last_snapshot": "2026-05-06"
+    },
+    {
+      "id": "US|CFTR.|2026-04-08|lutnick brandon|25.0",
+      "market": "US",
+      "ticker": "CFTR.",
+      "yf_symbol": "CFTR.",
+      "company": "Cantor Fitzgerald Income Trust, Inc.",
+      "insider_name": "Lutnick Brandon",
+      "title": "Dir",
+      "trade_date": "2026-04-08",
+      "trade_price": 25.0,
+      "value": 2500000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
     }
   ]
 }
