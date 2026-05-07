@@ -905,7 +905,7 @@
               <td class="td-ticker">&nbsp;&nbsp;${escHtml(t.ticker || '—')}</td>
               <td class="td-company" title="${escHtml(t.company || '')}">${escHtml(t.company || '—')}</td>
               <td class="td-stock-cell"><span class="mobile-ticker-sym">${escHtml(t.ticker || '—')}</span><span class="mobile-co-name">${escHtml(t.company || '—')}</span></td>
-              <td class="td-insider" title="${escHtml(t.insider_name || '')}">${escHtml(t.insider_name || '—')}</td>
+              <td class="td-insider" title="${escHtml(t.insider_name || '')}">${escHtml(t.insider_name || '—')}<span class="mobile-role">${titleBadge(t.title || 'Unknown')}</span></td>
               <td>${titleBadge(t.title || 'Unknown')}</td>
               <td class="td-value">${formatCurrency(val)}<span class="td-value-sub">${qty > 0 ? formatShares(qty) + ' shares' : ''}${qty > 0 && price > 0 ? ' · ' : ''}${price > 0 ? 'CAD$' + price.toFixed(2) : ''}</span></td>
               <td class="col-hide"></td>
@@ -924,7 +924,7 @@
           <td class="td-ticker">${escHtml(t.ticker || '—')}</td>
           <td class="td-company" title="${escHtml(t.company || '')}">${escHtml(t.company || '—')}</td>
           <td class="td-stock-cell"><span class="mobile-ticker-sym">${escHtml(t.ticker || '—')}</span><span class="mobile-co-name">${escHtml(t.company || '—')}</span></td>
-          <td class="td-insider" title="${escHtml(t.insider_name || '')}">${escHtml(t.insider_name || '—')}</td>
+          <td class="td-insider" title="${escHtml(t.insider_name || '')}">${escHtml(t.insider_name || '—')}<span class="mobile-role">${titleBadge(t.title || 'Unknown')}</span></td>
           <td>${titleBadge(t.title || 'Unknown')}</td>
           <td class="td-value">${formatCurrency(val)}<span class="td-value-sub">${qty > 0 ? formatShares(qty) + ' shares' : ''}${qty > 0 && price > 0 ? ' · ' : ''}${price > 0 ? 'CAD$' + price.toFixed(2) : ''}</span></td>
           <td class="col-hide"></td>
