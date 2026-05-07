@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T15:00:19Z",
-  "trade_count": 2953,
+  "last_updated": "2026-05-07T17:00:20Z",
+  "trade_count": 2956,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44800,6 +44800,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4715474",
+      "trade_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "company": "COLLIERS INTERNATIONAL GROUP INC.",
+      "ticker": "CIGI",
+      "insider_name": "Waitzer, Edward",
+      "title": "Director",
+      "security": "Subordinate Voting Shares",
+      "qty": "1300",
+      "price": "136.0000",
+      "value": "176800",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4715508",
+      "trade_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "company": "iA Financial Corporation Inc.",
+      "ticker": "IAG",
+      "insider_name": "Jobin, \u00c9ric",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "1000",
+      "price": "159.8200",
+      "value": "159820",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4715523",
+      "trade_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "company": "iA Financial Corporation Inc.",
+      "ticker": "IAG",
+      "insider_name": "Ricard, Denis",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "2000",
+      "price": "160.0000",
+      "value": "320000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
