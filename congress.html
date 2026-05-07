@@ -117,6 +117,7 @@
     /* Table column widths */
     table { min-width: 920px; }
     .td-politician { font-weight: 600; color: var(--text); }
+    .mobile-pol-meta { display: none; }
     .td-meta       { display: flex; flex-direction: column; gap: 3px; }
     .td-company    { max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
     .td-ticker     { font-family: var(--font-mono); font-weight: 700; color: var(--gold-bright); font-size: 12px; }
@@ -374,15 +375,29 @@
 
       /* Left column */
       td.td-politician {
-        display: block;
+        display: flex;
+        align-items: center;
+        gap: 5px;
         grid-area: politician;
         font-size: 12px;
         font-weight: 700;
         color: var(--text);
-        white-space: nowrap;
+        overflow: hidden;
+        max-width: none;
+        align-self: end;
+      }
+      td.td-politician > .pol-name-text {
         overflow: hidden;
         text-overflow: ellipsis;
-        align-self: end;
+        white-space: nowrap;
+        min-width: 0;
+        flex: 0 1 auto;
+      }
+      td.td-politician .mobile-pol-meta {
+        display: inline-flex;
+        gap: 3px;
+        flex-shrink: 0;
+        align-items: center;
       }
       td.td-company-cell {
         display: block;
@@ -1267,7 +1282,7 @@
     <div style="color:var(--text);font-weight:600">${pubDisp}</div>
     <div style="color:var(--muted);font-size:11px">Traded: ${escHtml(dateDisp)}</div>
   </td>
-  <td class="td-politician">${escHtml(t.politician_name || '—')}</td>
+  <td class="td-politician"><span class="pol-name-text">${escHtml(t.politician_name || '—')}</span><span class="mobile-pol-meta"><span class="badge-party ${partyClass(t.party)}">${escHtml(partyShort(t.party))}</span><span class="badge-chamber ${chamberClass(t.chamber)}">${escHtml(t.chamber || '?')}</span></span></td>
   <td class="td-party-cell">
     <span class="badge-party ${partyClass(t.party)}">${escHtml(partyShort(t.party))}</span>
     <span class="badge-chamber ${chamberClass(t.chamber)}" style="margin-left:3px">${escHtml(t.chamber || '?')}${stateStr}</span>
