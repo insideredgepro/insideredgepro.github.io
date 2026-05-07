@@ -1134,6 +1134,20 @@
     } catch { return isoStr; }
   }
 
+  const TRADES_CACHE_KEY = 'iep_trades_cache';
+
+  function loadTradesFromCache() {
+    try {
+      const raw = localStorage.getItem(TRADES_CACHE_KEY);
+      if (!raw) return false;
+      const json = JSON.parse(raw);
+      allTrades = json.trades || [];
+      lastUpdatedEl.textContent = formatTimestamp(json.last_updated);
+      renderTable();
+      return true;
+    } catch { return false; }
+  }
+
   async function fetchData() {
     setLoading(true);
     try {
@@ -1142,6 +1156,7 @@
       const json = await resp.json();
       allTrades = json.trades || [];
       lastUpdatedEl.textContent = formatTimestamp(json.last_updated);
+      try { localStorage.setItem(TRADES_CACHE_KEY, JSON.stringify(json)); } catch {}
       hideError();
       renderTable();
     } catch (err) {
@@ -1449,6 +1464,23 @@
     perfSaveFilters(); perfRenderTable();
   });
 
+  const PERF_CACHE_KEY = 'iep_perf_cache';
+
+  function loadPerfFromCache() {
+    try {
+      const raw = localStorage.getItem(PERF_CACHE_KEY);
+      if (!raw) return false;
+      const json = JSON.parse(raw);
+      allEntries = json.entries || [];
+      if (pLastUpdatedEl && json.last_updated) {
+        const d = new Date(json.last_updated + 'T00:00:00');
+        pLastUpdatedEl.textContent = '· Updated ' + d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+      }
+      perfRenderTable();
+      return true;
+    } catch { return false; }
+  }
+
   async function perfFetchData() {
     try {
       const resp = await fetch(PERF_DATA_URL + '?_=' + Date.now());
@@ -1459,6 +1491,7 @@
         const d = new Date(json.last_updated + 'T00:00:00');
         pLastUpdatedEl.textContent = '· Updated ' + d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
       }
+      try { localStorage.setItem(PERF_CACHE_KEY, JSON.stringify(json)); } catch {}
       pErrorBannerEl.innerHTML = '';
       perfRenderTable();
     } catch (err) {
@@ -1473,10 +1506,12 @@
   /* Bootstrap                                                             */
   /* ------------------------------------------------------------------ */
   restoreFilters();
+  loadTradesFromCache();
   fetchData();
   setInterval(fetchData, REFRESH_INTERVAL_MS);
 
   perfRestoreFilters();
+  loadPerfFromCache();
   perfFetchData();
   setInterval(perfFetchData, REFRESH_INTERVAL_MS);
 
