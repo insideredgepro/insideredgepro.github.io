@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T21:57:54Z",
-  "trade_count": 6375,
+  "last_updated": "2026-05-07T23:00:05Z",
+  "trade_count": 6377,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -102000,6 +102000,38 @@
       "owned": "3370787",
       "delta_own": "+19%",
       "value": "23600041",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-07",
+      "filing_time": "18:15",
+      "trade_date": "2026-05-05",
+      "ticker": "OFIX",
+      "company": "Orthofix Medical Inc.",
+      "insider_name": "Engine Capital Management, LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "12.08",
+      "qty": "184896",
+      "owned": "4575675",
+      "delta_own": "+4%",
+      "value": "2232927",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-07",
+      "filing_time": "18:12",
+      "trade_date": "2026-05-07",
+      "ticker": "NWN",
+      "company": "Northwest Natural Holding Co",
+      "insider_name": "Palfreyman Justin",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "48.75",
+      "qty": "1225",
+      "owned": "28451",
+      "delta_own": "+4%",
+      "value": "59719",
       "cluster_buy": false
     }
   ]

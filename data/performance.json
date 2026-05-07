@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-07",
-  "entry_count": 1037,
+  "entry_count": 1039,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -41003,6 +41003,46 @@
       },
       "latest_price": 43.51,
       "return_pct": -2.22,
+      "last_snapshot": "2026-05-07"
+    },
+    {
+      "id": "US|OFIX|2026-05-05|engine capital management, lp|12.08",
+      "market": "US",
+      "ticker": "OFIX",
+      "yf_symbol": "OFIX",
+      "company": "Orthofix Medical Inc.",
+      "insider_name": "Engine Capital Management, LP",
+      "title": "10%",
+      "trade_date": "2026-05-05",
+      "trade_price": 12.08,
+      "value": 2232927.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-07": 12.07
+      },
+      "latest_price": 12.07,
+      "return_pct": -0.08,
+      "last_snapshot": "2026-05-07"
+    },
+    {
+      "id": "US|NWN|2026-05-07|palfreyman justin|48.75",
+      "market": "US",
+      "ticker": "NWN",
+      "yf_symbol": "NWN",
+      "company": "Northwest Natural Holding Co",
+      "insider_name": "Palfreyman Justin",
+      "title": "Pres, CEO",
+      "trade_date": "2026-05-07",
+      "trade_price": 48.75,
+      "value": 59719.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-07": 50.19
+      },
+      "latest_price": 50.19,
+      "return_pct": 2.95,
       "last_snapshot": "2026-05-07"
     }
   ]
