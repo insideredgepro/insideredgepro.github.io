@@ -428,6 +428,9 @@ footer {
   .filters-wrap { top: 56px; }
   .nav-label { display: none; }
 
+  /* Prevent nav overlapping the absolute-positioned auth-ui on the right */
+  .header-center { padding-right: 76px; }
+
   /* 2-row filter layout */
   .filters-wrap { flex-direction: column; padding: 8px 12px; gap: 6px; }
   .filter-row { display: flex; align-items: center; gap: 8px; width: 100%; }
