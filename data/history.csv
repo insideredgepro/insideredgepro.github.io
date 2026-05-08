@@ -6311,7 +6311,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-05,12:44,2026-05-04,MPB,Mid Penn Bancorp Inc,De Soto Matthew G,Dir,P - Purchase,32.75,1525,124773,+1%,49948,False
 2026-05-05,15:01,2026-05-04,CLMB,"Climb Global Solutions, Inc.",McCarthy John R,Dir,P - Purchase,18.83,4000,85876,+5%,75320,False
 2026-05-05,14:00,2026-05-04,CAT,Caterpillar Inc,Maclennan David,Dir,P - Purchase,876.84,250,8206,+3%,219210,False
-2026-05-05,16:37,2026-05-01,MKL,Markel Group Inc.,Puckett A. Lynne,Dir,P - Purchase,1795.53,57,1815,+3%,102345,False
+2026-05-05,16:37,2026-05-01,MKL,Markel Group Inc.,Puckett A. Lynne,Dir,P - Purchase,1795.53,57,1815,+3%,102345,True
 2026-05-05,16:32,2026-05-04,ARE,"Alexandria Real Estate Equities, Inc.",Marcus Joel S,Exec COB,P - Purchase,41.02,10000,572724,+2%,410200,True
 2026-05-05,16:16,2026-05-01,TBBK,"Bancorp, Inc.",Cohn Matthew,Dir,P - Purchase,59.52,2500,234469,+1%,148798,False
 2026-05-05,16:16,2026-05-05,L,Loews Corp,Robusto Dino,Dir,P - Purchase,105.44,5000,5235,>999%,527200,False
@@ -6388,3 +6388,10 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-08,11:57,2026-05-07,POOL,Pool Corp,Perez De La Mesa Manuel J,Dir,P - Purchase,190.00,10000,948155,+1%,1900000,True
 2026-05-08,11:55,2026-05-07,POOL,Pool Corp,Stokely John E,Dir,P - Purchase,193.07,1000,16230,+7%,193065,True
 2026-05-08,11:53,2026-05-07,POOL,Pool Corp,Hope James D,Dir,P - Purchase,194.42,464,3678,+14%,90209,True
+2026-05-08,16:33,2026-05-07,PAM,Pampa Energy Inc.,Mariani Gustavo,VP,P - Purchase,81.21,50000,1591184,+3%,4060500,False
+2026-05-08,16:31,2026-05-06,MKL,Markel Group Inc.,Leopold Diane,Dir,P - Purchase,1791.47,150,2740,+6%,268721,True
+2026-05-08,16:15,2026-05-08,TSSI,Zomedica Corp.,Heaton Larry C II,CEO,P - Purchase,0.11,250000,1250000,+25%,27500,False
+2026-05-08,16:14,2026-05-07,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,15.11,2000,1646013,0%,30220,False
+2026-05-08,16:08,2026-04-24,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,27.36,446700,75678860,+1%,12221026,False
+2026-05-08,16:05,2026-05-06,SITE,"Siteone Landscape Supply, Inc.",Laughlin Daniel T.,"SVP, Strategy, Development",P - Purchase,123.60,2000,2000,New,247200,False
+2026-05-08,16:02,2026-05-08,SOFI,"Sofi Technologies, Inc.",Noto Anthony,CEO,P - Purchase,15.73,15878,11931074,0%,249769,False
