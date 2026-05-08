@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-08T11:04:16Z",
-  "trade_count": 6379,
+  "last_updated": "2026-05-08T13:10:30Z",
+  "trade_count": 6380,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -102064,6 +102064,22 @@
       "owned": "71460",
       "delta_own": "+10%",
       "value": "197485",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-08",
+      "filing_time": "08:54",
+      "trade_date": "2026-05-07",
+      "ticker": "UPST",
+      "company": "Upstart Holdings, Inc.",
+      "insider_name": "Girouard Dave",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "29.37",
+      "qty": "170240",
+      "owned": "10910671",
+      "delta_own": "+2%",
+      "value": "4999607",
       "cluster_buy": false
     }
   ]

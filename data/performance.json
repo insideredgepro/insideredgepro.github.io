@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-08",
-  "entry_count": 1041,
+  "entry_count": 1042,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -42117,6 +42117,26 @@
       },
       "latest_price": 30.52,
       "return_pct": 1.73,
+      "last_snapshot": "2026-05-08"
+    },
+    {
+      "id": "US|UPST|2026-05-07|girouard dave|29.37",
+      "market": "US",
+      "ticker": "UPST",
+      "yf_symbol": "UPST",
+      "company": "Upstart Holdings, Inc.",
+      "insider_name": "Girouard Dave",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-07",
+      "trade_price": 29.37,
+      "value": 4999607.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-08": 29.0
+      },
+      "latest_price": 29.0,
+      "return_pct": -1.26,
       "last_snapshot": "2026-05-08"
     }
   ]
