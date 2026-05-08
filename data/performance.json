@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-08",
-  "entry_count": 1052,
+  "entry_count": 1055,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -42337,6 +42337,66 @@
       },
       "latest_price": 15.75,
       "return_pct": 0.13,
+      "last_snapshot": "2026-05-08"
+    },
+    {
+      "id": "US|NSPR|2026-05-06|ward scott r.|1.15",
+      "market": "US",
+      "ticker": "NSPR",
+      "yf_symbol": "NSPR",
+      "company": "Inspiremd, Inc.",
+      "insider_name": "Ward Scott R.",
+      "title": "Dir",
+      "trade_date": "2026-05-06",
+      "trade_price": 1.15,
+      "value": 102638.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-08": 1.15
+      },
+      "latest_price": 1.15,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-05-08"
+    },
+    {
+      "id": "US|NSPR|2026-05-07|roubin gary s|1.18",
+      "market": "US",
+      "ticker": "NSPR",
+      "yf_symbol": "NSPR",
+      "company": "Inspiremd, Inc.",
+      "insider_name": "Roubin Gary S",
+      "title": "Dir",
+      "trade_date": "2026-05-07",
+      "trade_price": 1.18,
+      "value": 106200.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-08": 1.15
+      },
+      "latest_price": 1.15,
+      "return_pct": -2.54,
+      "last_snapshot": "2026-05-08"
+    },
+    {
+      "id": "US|OFIX|2026-05-07|henneman john b iii|12.26",
+      "market": "US",
+      "ticker": "OFIX",
+      "yf_symbol": "OFIX",
+      "company": "Orthofix Medical Inc.",
+      "insider_name": "Henneman John B III",
+      "title": "Dir",
+      "trade_date": "2026-05-07",
+      "trade_price": 12.26,
+      "value": 61295.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-08": 11.65
+      },
+      "latest_price": 11.65,
+      "return_pct": -4.98,
       "last_snapshot": "2026-05-08"
     }
   ]

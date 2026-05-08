@@ -6380,7 +6380,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-07,17:04,2026-05-07,OPCH,"Option Care Health, Inc.",Sullivan Timothy P,Dir,P - Purchase,20.69,24154,73383,+49%,499671,True
 2026-05-07,17:02,2026-05-06,PSX,Phillips 66,Meyers Kevin Omar,Dir,P - Purchase,173.13,175,16799,+1%,30297,False
 2026-05-07,16:58,2026-05-05,GOLD,"Gold.Com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A.",10%,P - Purchase,44.50,530338,3370787,+19%,23600041,False
-2026-05-07,18:15,2026-05-05,OFIX,Orthofix Medical Inc.,"Engine Capital Management, LP",10%,P - Purchase,12.08,184896,4575675,+4%,2232927,False
+2026-05-07,18:15,2026-05-05,OFIX,Orthofix Medical Inc.,"Engine Capital Management, LP",10%,P - Purchase,12.08,184896,4575675,+4%,2232927,True
 2026-05-07,18:12,2026-05-07,NWN,Northwest Natural Holding Co,Palfreyman Justin,"Pres, CEO",P - Purchase,48.75,1225,28451,+4%,59719,False
 2026-05-07,21:10,2026-05-05,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,73.93,3392,5706118,0%,250776,False
 2026-05-07,20:52,2026-05-07,BETR,Better Home & Finance Holding Co,Garg Vishal,"CEO, 10%",P - Purchase,30.00,6583,71460,+10%,197485,False
@@ -6395,3 +6395,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-08,16:08,2026-04-24,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,27.36,446700,75678860,+1%,12221026,False
 2026-05-08,16:05,2026-05-06,SITE,"Siteone Landscape Supply, Inc.",Laughlin Daniel T.,"SVP, Strategy, Development",P - Purchase,123.60,2000,2000,New,247200,False
 2026-05-08,16:02,2026-05-08,SOFI,"Sofi Technologies, Inc.",Noto Anthony,CEO,P - Purchase,15.73,15878,11931074,0%,249769,False
+2026-05-08,17:08,2026-05-06,NSPR,"Inspiremd, Inc.",Ward Scott R.,Dir,P - Purchase,1.15,89250,237096,+60%,102638,True
+2026-05-08,17:03,2026-05-07,NSPR,"Inspiremd, Inc.",Roubin Gary S,Dir,P - Purchase,1.18,90000,834478,+12%,106200,True
+2026-05-08,16:52,2026-05-07,OFIX,Orthofix Medical Inc.,Henneman John B III,Dir,P - Purchase,12.26,5000,90809,+6%,61295,True

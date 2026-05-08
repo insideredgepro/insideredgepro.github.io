@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-08T20:48:30Z",
-  "trade_count": 6390,
+  "last_updated": "2026-05-08T21:51:54Z",
+  "trade_count": 6393,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -102016,7 +102016,7 @@
       "owned": "4575675",
       "delta_own": "+4%",
       "value": "2232927",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-07",
@@ -102241,6 +102241,54 @@
       "delta_own": "0%",
       "value": "249769",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-08",
+      "filing_time": "17:08",
+      "trade_date": "2026-05-06",
+      "ticker": "NSPR",
+      "company": "Inspiremd, Inc.",
+      "insider_name": "Ward Scott R.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.15",
+      "qty": "89250",
+      "owned": "237096",
+      "delta_own": "+60%",
+      "value": "102638",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-08",
+      "filing_time": "17:03",
+      "trade_date": "2026-05-07",
+      "ticker": "NSPR",
+      "company": "Inspiremd, Inc.",
+      "insider_name": "Roubin Gary S",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.18",
+      "qty": "90000",
+      "owned": "834478",
+      "delta_own": "+12%",
+      "value": "106200",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-08",
+      "filing_time": "16:52",
+      "trade_date": "2026-05-07",
+      "ticker": "OFIX",
+      "company": "Orthofix Medical Inc.",
+      "insider_name": "Henneman John B III",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "12.26",
+      "qty": "5000",
+      "owned": "90809",
+      "delta_own": "+6%",
+      "value": "61295",
+      "cluster_buy": true
     }
   ]
 }
