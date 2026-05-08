@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-08",
-  "entry_count": 1055,
+  "entry_count": 1056,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -42397,6 +42397,26 @@
       },
       "latest_price": 11.65,
       "return_pct": -4.98,
+      "last_snapshot": "2026-05-08"
+    },
+    {
+      "id": "US|SMRT|2026-05-08|martell frank|1.12",
+      "market": "US",
+      "ticker": "SMRT",
+      "yf_symbol": "SMRT",
+      "company": "Smartrent, Inc.",
+      "insider_name": "Martell Frank",
+      "title": "CEO",
+      "trade_date": "2026-05-08",
+      "trade_price": 1.12,
+      "value": 56220.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-08": 1.12
+      },
+      "latest_price": 1.12,
+      "return_pct": 0.0,
       "last_snapshot": "2026-05-08"
     }
   ]
