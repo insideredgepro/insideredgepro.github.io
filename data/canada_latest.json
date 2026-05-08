@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-08T17:00:27Z",
-  "trade_count": 2976,
+  "last_updated": "2026-05-08T19:00:21Z",
+  "trade_count": 2978,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -45168,6 +45168,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4716612",
+      "trade_date": "2026-05-08",
+      "filing_date": "2026-05-08",
+      "company": "Lumina Metals Corp.",
+      "ticker": "LMCU",
+      "insider_name": "Pandoff, Jordan",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "13000",
+      "price": "10.8500",
+      "value": "141050",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4716620",
+      "trade_date": "2026-05-08",
+      "filing_date": "2026-05-08",
+      "company": "Nutrien Ltd.",
+      "ticker": "NTR",
+      "insider_name": "Martell, Keith",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "1500",
+      "price": "94.4500",
+      "value": "141675",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
