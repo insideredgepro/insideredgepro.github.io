@@ -374,6 +374,27 @@
     "scraped_at": "2026-03-03T06:07:47.231168"
   },
   {
+    "id": "20003797557",
+    "politician_name": "Gregory Stanton",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "AZ",
+    "company": "TRULIEVE CANNABIS CORP",
+    "ticker": "TCNNF:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-06",
+    "trade_published": "2026-05-08",
+    "filed_after_days": "1",
+    "price": "$9.79",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Description: This stock was acquired as part of an executive compensation package.",
+    "scraped_at": "2026-05-08T15:56:46.175414+00:00"
+  },
+  {
     "id": "20003797527",
     "politician_name": "Kelly Morrison",
     "party": "Democrat",
@@ -392,7 +413,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Investment Fund 1 Description: High speed aircraft manufacturer, Atlanta, GA",
-    "scraped_at": "2026-05-08T14:21:03.619663+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175671+00:00"
   },
   {
     "id": "20003797529",
@@ -413,7 +434,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Investment Fund 1 Description: Autonomous maritime vessels, Austin, TX",
-    "scraped_at": "2026-05-08T14:21:03.619673+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175680+00:00"
   },
   {
     "id": "20003797530",
@@ -434,7 +455,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Investment Fund 1 Description: Energy infrastructure in space, Jacksonville, FL",
-    "scraped_at": "2026-05-08T14:21:03.619677+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175685+00:00"
   },
   {
     "id": "20003797535",
@@ -455,7 +476,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619510+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175477+00:00"
   },
   {
     "id": "20003797538",
@@ -476,7 +497,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619534+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175492+00:00"
   },
   {
     "id": "20003797539",
@@ -497,7 +518,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619539+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175497+00:00"
   },
   {
     "id": "20003797547",
@@ -518,7 +539,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619582+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175539+00:00"
   },
   {
     "id": "20003797548",
@@ -539,7 +560,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619589+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175543+00:00"
   },
   {
     "id": "20003797543",
@@ -560,7 +581,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619562+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175518+00:00"
   },
   {
     "id": "20003797549",
@@ -581,7 +602,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619596+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175547+00:00"
   },
   {
     "id": "20003797524",
@@ -602,7 +623,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "Goldman Sachs MTN 4/29/2030 Subholding Of: Hern Family Foundation Description: Note called by issuer",
-    "scraped_at": "2026-05-08T14:21:03.619688+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175693+00:00"
   },
   {
     "id": "20003797523",
@@ -623,7 +644,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "Subholding Of: Fidelity Trust",
-    "scraped_at": "2026-05-08T14:21:03.619717+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175729+00:00"
   },
   {
     "id": "20003797521",
@@ -644,7 +665,217 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Subholding Of: Fidelity Trust",
-    "scraped_at": "2026-05-08T14:21:03.619707+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175715+00:00"
+  },
+  {
+    "id": "20003797558",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Broadcom Inc",
+    "ticker": "AVGO:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-27",
+    "trade_published": "2026-05-08",
+    "filed_after_days": "10",
+    "price": "$418.20",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+    "scraped_at": "2026-05-08T15:56:46.175305+00:00"
+  },
+  {
+    "id": "20003797559",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Broadcom Inc",
+    "ticker": "AVGO:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-27",
+    "trade_published": "2026-05-08",
+    "filed_after_days": "10",
+    "price": "$418.20",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-05-08T15:56:46.175334+00:00"
+  },
+  {
+    "id": "20003797560",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "The Home Depot Inc",
+    "ticker": "HD:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-27",
+    "trade_published": "2026-05-08",
+    "filed_after_days": "10",
+    "price": "$332.30",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-05-08T15:56:46.175349+00:00"
+  },
+  {
+    "id": "20003797561",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "The Home Depot Inc",
+    "ticker": "HD:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-27",
+    "trade_published": "2026-05-08",
+    "filed_after_days": "10",
+    "price": "$332.30",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+    "scraped_at": "2026-05-08T15:56:46.175358+00:00"
+  },
+  {
+    "id": "20003797562",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Lam Research Corp",
+    "ticker": "LRCX:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-27",
+    "trade_published": "2026-05-08",
+    "filed_after_days": "10",
+    "price": "$259.47",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-05-08T15:56:46.175365+00:00"
+  },
+  {
+    "id": "20003797563",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Lam Research Corp",
+    "ticker": "LRCX:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-27",
+    "trade_published": "2026-05-08",
+    "filed_after_days": "10",
+    "price": "$259.47",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+    "scraped_at": "2026-05-08T15:56:46.175371+00:00"
+  },
+  {
+    "id": "20003797564",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "The Procter & Gamble Co",
+    "ticker": "PG:US",
+    "sector": "consumer-staples",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-27",
+    "trade_published": "2026-05-08",
+    "filed_after_days": "10",
+    "price": "$148.40",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+    "scraped_at": "2026-05-08T15:56:46.175379+00:00"
+  },
+  {
+    "id": "20003797565",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "The Procter & Gamble Co",
+    "ticker": "PG:US",
+    "sector": "consumer-staples",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-27",
+    "trade_published": "2026-05-08",
+    "filed_after_days": "10",
+    "price": "$148.40",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-05-08T15:56:46.175391+00:00"
+  },
+  {
+    "id": "20003797566",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "The Progressive Corp",
+    "ticker": "PGR:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-27",
+    "trade_published": "2026-05-08",
+    "filed_after_days": "10",
+    "price": "$201.98",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-05-08T15:56:46.175399+00:00"
+  },
+  {
+    "id": "20003797567",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Visa Inc",
+    "ticker": "V:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-27",
+    "trade_published": "2026-05-08",
+    "filed_after_days": "10",
+    "price": "$309.65",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-05-08T15:56:46.175408+00:00"
   },
   {
     "id": "20003797534",
@@ -665,7 +896,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619498+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175473+00:00"
   },
   {
     "id": "20003797537",
@@ -686,7 +917,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619528+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175487+00:00"
   },
   {
     "id": "20003797542",
@@ -707,7 +938,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619557+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175514+00:00"
   },
   {
     "id": "20003797544",
@@ -728,7 +959,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619568+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175523+00:00"
   },
   {
     "id": "10000064900",
@@ -875,7 +1106,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619577+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175533+00:00"
   },
   {
     "id": "10000064901",
@@ -959,7 +1190,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619605+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175593+00:00"
   },
   {
     "id": "20003797554",
@@ -980,7 +1211,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619627+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175631+00:00"
   },
   {
     "id": "20003797418",
@@ -1022,7 +1253,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619430+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175436+00:00"
   },
   {
     "id": "10000064964",
@@ -1043,7 +1274,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619459+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175442+00:00"
   },
   {
     "id": "20003797533",
@@ -1064,7 +1295,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619490+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175466+00:00"
   },
   {
     "id": "20003797541",
@@ -1085,7 +1316,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619548+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175509+00:00"
   },
   {
     "id": "20003797553",
@@ -1106,7 +1337,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619614+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175626+00:00"
   },
   {
     "id": "20003797528",
@@ -1127,7 +1358,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Investment Fund 1 Description: Medical devices, Minneapolis, MN",
-    "scraped_at": "2026-05-08T14:21:03.619667+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175677+00:00"
   },
   {
     "id": "20003797504",
@@ -1211,7 +1442,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619543+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175505+00:00"
   },
   {
     "id": "20003797545",
@@ -1232,7 +1463,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619573+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175527+00:00"
   },
   {
     "id": "20003797550",
@@ -1253,7 +1484,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619601+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175553+00:00"
   },
   {
     "id": "20003797555",
@@ -1274,7 +1505,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619631+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175636+00:00"
   },
   {
     "id": "20003797536",
@@ -1295,7 +1526,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619521+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175483+00:00"
   },
   {
     "id": "20003797552",
@@ -1316,7 +1547,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619610+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175618+00:00"
   },
   {
     "id": "20003797525",
@@ -1337,7 +1568,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "Subholding Of: Investment Fund 1 Description: Live events special effects, Northridge, CA",
-    "scraped_at": "2026-05-08T14:21:03.619655+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175662+00:00"
   },
   {
     "id": "10000064902",
@@ -1610,7 +1841,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Investment Fund 1 Description: Sports Software, London, UK",
-    "scraped_at": "2026-05-08T14:21:03.619659+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175666+00:00"
   },
   {
     "id": "10000064903",
@@ -1652,7 +1883,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619467+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175451+00:00"
   },
   {
     "id": "10000064959",
@@ -1673,7 +1904,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Rate/Coupon: 5.35% Matures: 2038-04-13",
-    "scraped_at": "2026-05-08T14:21:03.619641+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175647+00:00"
   },
   {
     "id": "10000064955",
@@ -1694,7 +1925,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619728+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175739+00:00"
   },
   {
     "id": "10000064910",
@@ -1715,7 +1946,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619732+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175745+00:00"
   },
   {
     "id": "10000064911",
@@ -1736,7 +1967,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619737+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175749+00:00"
   },
   {
     "id": "10000064912",
@@ -1757,7 +1988,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619744+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175754+00:00"
   },
   {
     "id": "10000064913",
@@ -1778,7 +2009,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619748+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175758+00:00"
   },
   {
     "id": "10000064932",
@@ -1799,7 +2030,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619885+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175856+00:00"
   },
   {
     "id": "10000064933",
@@ -1820,7 +2051,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619891+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175860+00:00"
   },
   {
     "id": "10000064934",
@@ -1841,7 +2072,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619896+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175866+00:00"
   },
   {
     "id": "10000064935",
@@ -1862,7 +2093,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619900+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175870+00:00"
   },
   {
     "id": "10000064936",
@@ -1883,7 +2114,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619905+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175875+00:00"
   },
   {
     "id": "10000064937",
@@ -1904,7 +2135,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619909+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175881+00:00"
   },
   {
     "id": "10000064938",
@@ -1925,7 +2156,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619918+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175886+00:00"
   },
   {
     "id": "10000064939",
@@ -1946,7 +2177,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619922+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175890+00:00"
   },
   {
     "id": "10000064940",
@@ -1967,7 +2198,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619926+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175894+00:00"
   },
   {
     "id": "10000064941",
@@ -1988,7 +2219,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619931+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175899+00:00"
   },
   {
     "id": "10000064942",
@@ -2009,7 +2240,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619935+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175903+00:00"
   },
   {
     "id": "10000064960",
@@ -2030,7 +2261,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Rate/Coupon: 6.75% Matures: 2087-05-15",
-    "scraped_at": "2026-05-08T14:21:03.619645+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175651+00:00"
   },
   {
     "id": "10000064961",
@@ -2051,7 +2282,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Rate/Coupon: 6.875% Matures: 2055-06-28",
-    "scraped_at": "2026-05-08T14:21:03.619648+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175656+00:00"
   },
   {
     "id": "20003797522",
@@ -2072,7 +2303,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Subholding Of: Fidelity Trust",
-    "scraped_at": "2026-05-08T14:21:03.619713+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175725+00:00"
   },
   {
     "id": "20003797424",
@@ -2094,6 +2325,27 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 2012 Trust Description: Capital call of $40,112.60",
     "scraped_at": "2026-05-01T15:15:38.579853+00:00"
+  },
+  {
+    "id": "10000064966",
+    "politician_name": "John Boozman",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "AR",
+    "company": "Devon Energy Corp",
+    "ticker": "DVN:US",
+    "sector": "energy",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-09",
+    "trade_published": "2026-05-08",
+    "filed_after_days": "29",
+    "price": "$47.88",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-05-08T15:56:46.175424+00:00"
   },
   {
     "id": "20003797420",
@@ -2156,7 +2408,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619483+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175461+00:00"
   },
   {
     "id": "10000064930",
@@ -2177,7 +2429,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619876+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175845+00:00"
   },
   {
     "id": "10000064931",
@@ -2198,7 +2450,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619880+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175851+00:00"
   },
   {
     "id": "10000064904",
@@ -2534,7 +2786,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619872+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175840+00:00"
   },
   {
     "id": "10000064954",
@@ -2828,7 +3080,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Investment Fund 1 Description: Energy infrastructure in space, Jacksonville, FL",
-    "scraped_at": "2026-05-08T14:21:03.619684+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175689+00:00"
   },
   {
     "id": "10000064928",
@@ -2849,7 +3101,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619864+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175835+00:00"
   },
   {
     "id": "10000064908",
@@ -2915,6 +3167,48 @@
     "scraped_at": "2026-04-18T23:43:42.552172+00:00"
   },
   {
+    "id": "10000064968",
+    "politician_name": "John Boozman",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "AR",
+    "company": "INVESCO SHORT TERM TREAS ETF",
+    "ticker": "TBLL:US",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-02",
+    "trade_published": "2026-05-08",
+    "filed_after_days": "36",
+    "price": "$105.61",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-05-08T15:56:46.175419+00:00"
+  },
+  {
+    "id": "10000064967",
+    "politician_name": "John Boozman",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "AR",
+    "company": "CONSTELLATION ENE CORP",
+    "ticker": "CEG:US",
+    "sector": "utilities",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-02",
+    "trade_published": "2026-05-08",
+    "filed_after_days": "36",
+    "price": "$272.82",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-05-08T15:56:46.175429+00:00"
+  },
+  {
     "id": "10000064909",
     "politician_name": "David McCormick",
     "party": "Republican",
@@ -2975,7 +3269,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Description: Automatic Reinvestment of Dividends Earned.",
-    "scraped_at": "2026-05-08T14:21:03.619476+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175456+00:00"
   },
   {
     "id": "10000064926",
@@ -2996,7 +3290,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619850+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175826+00:00"
   },
   {
     "id": "10000064927",
@@ -3017,7 +3311,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619855+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175830+00:00"
   },
   {
     "id": "10000064952",
@@ -4172,7 +4466,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619782+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175789+00:00"
   },
   {
     "id": "10000064920",
@@ -4193,7 +4487,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619810+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175796+00:00"
   },
   {
     "id": "10000064921",
@@ -4214,7 +4508,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619819+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175800+00:00"
   },
   {
     "id": "10000064922",
@@ -4235,7 +4529,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619829+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175804+00:00"
   },
   {
     "id": "10000064923",
@@ -4256,7 +4550,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619837+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175809+00:00"
   },
   {
     "id": "10000064924",
@@ -4277,7 +4571,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619841+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175815+00:00"
   },
   {
     "id": "10000064925",
@@ -4298,7 +4592,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619846+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175820+00:00"
   },
   {
     "id": "10000064945",
@@ -9926,7 +10220,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: SCH1",
-    "scraped_at": "2026-05-08T14:21:03.619723+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175733+00:00"
   },
   {
     "id": "20003797436",
@@ -10556,7 +10850,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619777+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175784+00:00"
   },
   {
     "id": "20003797452",
@@ -15176,7 +15470,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619753+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175764+00:00"
   },
   {
     "id": "10000064915",
@@ -15197,7 +15491,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619758+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175771+00:00"
   },
   {
     "id": "10000064916",
@@ -15218,7 +15512,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619762+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175776+00:00"
   },
   {
     "id": "10000064917",
@@ -15239,7 +15533,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619769+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175780+00:00"
   },
   {
     "id": "10000064943",
@@ -15260,7 +15554,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619939+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175910+00:00"
   },
   {
     "id": "10000064944",
@@ -62153,7 +62447,7 @@
     "amount": "$1M\u2013$5M",
     "owner": "Joint",
     "comment": "Publicly disclosed when information became available. Company: Aeronics, Inc.  (Austin, TX) Description: Equipment Manufacturing",
-    "scraped_at": "2026-05-08T14:21:03.619636+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175641+00:00"
   },
   {
     "id": "20003796426",
@@ -62237,7 +62531,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619697+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175703+00:00"
   },
   {
     "id": "10000064956",
@@ -62258,7 +62552,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Sale of exercised stock option; strike price $77.68; expires 12/13/2030. This was a cashless sale that occurred on the same day the shares were exercised. The sale was part of the same 5/19/25 exercise transaction that was reported on the PTR filed on 6/13/25.",
-    "scraped_at": "2026-05-08T14:21:03.619692+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175698+00:00"
   },
   {
     "id": "20003796456",
@@ -62300,7 +62594,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "",
-    "scraped_at": "2026-05-08T14:21:03.619702+00:00"
+    "scraped_at": "2026-05-08T15:56:46.175711+00:00"
   },
   {
     "id": "20003796424",
