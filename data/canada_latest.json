@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-08T21:00:23Z",
-  "trade_count": 2985,
+  "last_updated": "2026-05-08T23:00:22Z",
+  "trade_count": 2989,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44207,7 +44207,7 @@
       "value": "521579",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4711140",
@@ -44783,7 +44783,7 @@
       "value": "512500",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4715311",
@@ -45309,6 +45309,70 @@
       "qty": "250000",
       "price": "0.1100",
       "value": "27500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4716989",
+      "trade_date": "2026-05-08",
+      "filing_date": "2026-05-08",
+      "company": "Advantage Energy Ltd.",
+      "ticker": "AAV",
+      "insider_name": "Clague, Donald M.",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "9.9190",
+      "value": "49595",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4717002",
+      "trade_date": "2026-05-08",
+      "filing_date": "2026-05-08",
+      "company": "Metalla Royalty and Streaming Ltd.",
+      "ticker": "MTA",
+      "insider_name": "Tether International, S.A. de C.V.",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "42722",
+      "price": "7.2761",
+      "value": "310849",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4716999",
+      "trade_date": "2026-05-08",
+      "filing_date": "2026-05-08",
+      "company": "Primaris Real Estate Investment Trust",
+      "ticker": "PMZ-UN",
+      "insider_name": "Avery, Alexander Danial",
+      "title": "Director",
+      "security": "Series A Units",
+      "qty": "15000",
+      "price": "19.2900",
+      "value": "289350",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4716952",
+      "trade_date": "2026-05-08",
+      "filing_date": "2026-05-08",
+      "company": "Sol Strategies Inc.",
+      "ticker": "HODL.CN",
+      "insider_name": "Guoga, Antanas (Tony)",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "25000",
+      "price": "1.8088",
+      "value": "45220",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
