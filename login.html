@@ -210,9 +210,11 @@
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+<script src="https://accounts.google.com/gsi/client" async></script>
 <script>
   const SUPABASE_URL = 'https://etkvznyuxjrypxsuomsm.supabase.co';
   const SUPABASE_KEY = 'sb_publishable_0lX_Wpsn1t2lnmJj55WTyg_xSQHuY5C';
+  const GOOGLE_CLIENT_ID = '814492956942-ho3bi31s6nktcqcs2go6qojrlgngmas4.apps.googleusercontent.com';
   const sb = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 
   // If already signed in, go straight to the app
@@ -220,18 +222,46 @@
     if (session) window.location.replace('/index.html');
   });
 
-  // Handle OAuth callback (hash fragment with access_token)
+  // Handle OAuth callback redirect
   sb.auth.onAuthStateChange((event, session) => {
     if (event === 'SIGNED_IN' && session) {
       window.location.replace('/index.html');
     }
   });
 
+  // One Tap callback — fires when user taps the prompt
+  async function handleOneTap(response) {
+    const msg = document.getElementById('status-msg');
+    msg.textContent = 'Signing you in…';
+    const { error } = await sb.auth.signInWithIdToken({
+      provider: 'google',
+      token: response.credential,
+    });
+    if (error) {
+      msg.textContent = 'Sign-in failed: ' + error.message;
+    } else {
+      window.location.replace('/index.html');
+    }
+  }
+
+  // Initialize One Tap once the GSI script loads
+  window.addEventListener('load', () => {
+    if (!window.google) return;
+    google.accounts.id.initialize({
+      client_id: GOOGLE_CLIENT_ID,
+      callback: handleOneTap,
+      auto_select: true,       // auto-signs in if only one account & previously consented
+      cancel_on_tap_outside: false,
+    });
+    google.accounts.id.prompt(); // shows bottom-sheet on mobile, top-right popup on desktop
+  });
+
+  // Fallback: standard OAuth redirect (button click)
   async function handleGoogleSignIn() {
     const btn = document.getElementById('google-btn');
     const msg = document.getElementById('status-msg');
     btn.disabled = true;
-    btn.textContent = 'Redirecting…';
+    btn.innerHTML = `<svg width="18" height="18" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.18 1.48-4.97 2.31-8.16 2.31-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/><path fill="none" d="M0 0h48v48H0z"/></svg> Redirecting…`;
     msg.textContent = 'Opening Google sign-in…';
 
     const { error } = await sb.auth.signInWithOAuth({
