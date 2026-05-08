@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sign In — InsiderEdgePro</title>
+  <link rel="icon" href="/favicon.ico" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:       #070b11;
+      --surface:  #0d1520;
+      --surface2: #111c2e;
+      --border:   rgba(26,188,219,.14);
+      --gold:     #1abcdb;
+      --text:     #e8edf4;
+      --muted:    #5a7090;
+      --google:   #fff;
+    }
+
+    html, body {
+      height: 100%;
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'DM Sans', sans-serif;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 20px;
+      background:
+        radial-gradient(ellipse 80% 60% at 50% 0%, rgba(26,188,219,.12) 0%, transparent 65%),
+        radial-gradient(ellipse 50% 40% at 80% 100%, rgba(26,188,219,.05) 0%, transparent 60%),
+        var(--bg);
+    }
+
+    @keyframes cardIn {
+      from { opacity: 0; transform: translateY(16px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .login-card {
+      width: 100%;
+      max-width: 400px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 44px 40px 36px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      box-shadow: 0 32px 80px rgba(0,0,0,.5), 0 0 0 1px rgba(26,188,219,.07);
+      animation: cardIn .35s cubic-bezier(.22,.68,0,1.2) both;
+    }
+
+    .login-logo {
+      width: 52px;
+      height: 52px;
+      object-fit: contain;
+      margin-bottom: 18px;
+    }
+
+    .login-brand {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: .6px;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 8px;
+    }
+
+    .login-title {
+      font-size: 21px;
+      font-weight: 800;
+      color: var(--text);
+      letter-spacing: -.4px;
+      margin-bottom: 8px;
+      text-align: center;
+      line-height: 1.25;
+    }
+
+    .login-subtitle {
+      font-size: 13.5px;
+      color: var(--muted);
+      text-align: center;
+      line-height: 1.55;
+      margin-bottom: 32px;
+      max-width: 300px;
+    }
+
+    .google-btn {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 11px;
+      padding: 13px 22px;
+      background: var(--google);
+      color: #1a1a1a;
+      border: none;
+      border-radius: 10px;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 15px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: opacity .15s, transform .15s, box-shadow .15s;
+      box-shadow: 0 2px 14px rgba(0,0,0,.25);
+      letter-spacing: -.1px;
+    }
+
+    .google-btn:hover {
+      opacity: .93;
+      transform: translateY(-1px);
+      box-shadow: 0 8px 24px rgba(0,0,0,.35);
+    }
+
+    .google-btn:active {
+      transform: translateY(0);
+      opacity: .86;
+    }
+
+    .google-btn:disabled {
+      opacity: .65;
+      cursor: default;
+      transform: none;
+    }
+
+    .google-btn svg { flex-shrink: 0; }
+
+    .status-msg {
+      margin-top: 14px;
+      font-size: 12.5px;
+      color: var(--muted);
+      text-align: center;
+      min-height: 18px;
+      line-height: 1.4;
+    }
+
+    .divider {
+      width: 100%;
+      height: 1px;
+      background: var(--border);
+      margin: 24px 0;
+    }
+
+    .login-footer {
+      font-size: 11.5px;
+      color: var(--muted);
+      text-align: center;
+      line-height: 1.65;
+    }
+
+    .login-footer a {
+      color: var(--gold);
+      text-decoration: none;
+    }
+
+    /* ── Mobile ── */
+    @media (max-width: 480px) {
+      body { padding: 16px; justify-content: flex-start; padding-top: 60px; }
+      .login-card {
+        padding: 32px 22px 28px;
+        border-radius: 16px;
+        max-width: 100%;
+      }
+      .login-logo { width: 44px; height: 44px; margin-bottom: 14px; }
+      .login-title { font-size: 19px; }
+      .login-subtitle { font-size: 13px; margin-bottom: 26px; }
+      .google-btn { font-size: 14px; padding: 13px 18px; }
+      .divider { margin: 20px 0; }
+      .login-footer { font-size: 11px; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="login-card">
+  <img src="insideredge_logo_cyan_v2.png" alt="InsiderEdgePro" class="login-logo" onerror="this.style.display='none'" />
+  <div class="login-brand">InsiderEdgePro</div>
+  <h1 class="login-title">Institutional Buying Intelligence</h1>
+  <p class="login-subtitle">Sign in to access real-time insider trades, congressional disclosures, and portfolio performance.</p>
+
+  <button class="google-btn" id="google-btn" onclick="handleGoogleSignIn()">
+    <svg width="20" height="20" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+      <path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/>
+      <path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/>
+      <path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/>
+      <path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.18 1.48-4.97 2.31-8.16 2.31-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/>
+      <path fill="none" d="M0 0h48v48H0z"/>
+    </svg>
+    Continue with Google
+  </button>
+
+  <div class="status-msg" id="status-msg"></div>
+
+  <div class="divider"></div>
+
+  <p class="login-footer">
+    By signing in, you agree to our terms of service.<br/>
+    Your trades data is fetched in real-time and never stored.
+  </p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+<script>
+  const SUPABASE_URL = 'https://etkvznyuxjrypxsuomsm.supabase.co';
+  const SUPABASE_KEY = 'sb_publishable_0lX_Wpsn1t2lnmJj55WTyg_xSQHuY5C';
+  const sb = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+
+  // If already signed in, go straight to the app
+  sb.auth.getSession().then(({ data: { session } }) => {
+    if (session) window.location.replace('/index.html');
+  });
+
+  // Handle OAuth callback (hash fragment with access_token)
+  sb.auth.onAuthStateChange((event, session) => {
+    if (event === 'SIGNED_IN' && session) {
+      window.location.replace('/index.html');
+    }
+  });
+
+  async function handleGoogleSignIn() {
+    const btn = document.getElementById('google-btn');
+    const msg = document.getElementById('status-msg');
+    btn.disabled = true;
+    btn.textContent = 'Redirecting…';
+    msg.textContent = 'Opening Google sign-in…';
+
+    const { error } = await sb.auth.signInWithOAuth({
+      provider: 'google',
+      options: { redirectTo: window.location.origin + '/index.html' }
+    });
+
+    if (error) {
+      msg.textContent = 'Sign-in failed: ' + error.message;
+      btn.disabled = false;
+      btn.innerHTML = `<svg width="20" height="20" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.18 1.48-4.97 2.31-8.16 2.31-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/><path fill="none" d="M0 0h48v48H0z"/></svg> Continue with Google`;
+    }
+  }
+</script>
+</body>
+</html>

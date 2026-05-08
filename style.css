@@ -662,6 +662,51 @@ header {
   to   { opacity: 1; transform: translateY(0); }
 }
 
+/* ── Auth UI ── */
+#auth-ui { display: flex; align-items: center; flex-shrink: 0; }
+.auth-user { display: flex; align-items: center; gap: 8px; }
+.auth-avatar {
+  width: 28px; height: 28px; border-radius: 50%;
+  border: 1px solid rgba(26,188,219,.25); object-fit: cover; flex-shrink: 0;
+}
+.auth-name {
+  font-size: 12px; font-weight: 500; color: var(--muted2);
+  white-space: nowrap; max-width: 120px; overflow: hidden; text-overflow: ellipsis;
+}
+.auth-logout-btn {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-size: 11px; font-weight: 600; font-family: 'DM Sans', sans-serif;
+  background: rgba(26,188,219,.08); border: 1px solid rgba(26,188,219,.2);
+  color: var(--gold); border-radius: 6px; padding: 4px 10px;
+  cursor: pointer; transition: background .15s, color .15s; white-space: nowrap;
+}
+.auth-logout-btn:hover { background: rgba(26,188,219,.18); }
+.logout-icon { flex-shrink: 0; display: none; }
+.logout-label { display: inline; }
+
+@media (max-width: 600px) {
+  /* Float auth-ui out of flex flow so nav stays centered */
+  #auth-ui {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+  }
+  .auth-user { gap: 5px; }
+  .auth-avatar { width: 26px; height: 26px; }
+  .auth-name { display: none; }
+  /* Icon-only sign-out button on mobile */
+  .auth-logout-btn {
+    background: rgba(26,188,219,.07);
+    border-color: rgba(26,188,219,.15);
+    padding: 5px 6px;
+    border-radius: 7px;
+  }
+  .logout-icon { display: block; }
+  .logout-label { display: none; }
+}
+
 /* ── 2. Logo pop + float ───────────────────────────────────────────── */
 .brand-logo {
   animation:

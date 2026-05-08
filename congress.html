@@ -83,6 +83,8 @@
   }
   </script>
 
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+  <style id="auth-hide">body{visibility:hidden;pointer-events:none}</style>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css?v=12" />
@@ -726,6 +728,7 @@
       </div>
     </div>
   </div>
+  <div id="auth-ui"></div>
 </header>
 
 <div class="gold-rule"></div>
@@ -1846,6 +1849,36 @@
     btn.classList.add('active'); renderStockGrid();
   });
 
+})();
+</script>
+
+<script>
+(async function() {
+  const _sb = supabase.createClient(
+    'https://etkvznyuxjrypxsuomsm.supabase.co',
+    'sb_publishable_0lX_Wpsn1t2lnmJj55WTyg_xSQHuY5C'
+  );
+  const { data: { session } } = await _sb.auth.getSession();
+  if (!session) { window.location.replace('/login.html'); return; }
+
+  document.getElementById('auth-hide').remove();
+
+  const u = session.user;
+  const name = u.user_metadata?.full_name || u.user_metadata?.name || u.email.split('@')[0];
+  const av = u.user_metadata?.avatar_url;
+  const authEl = document.getElementById('auth-ui');
+  authEl.innerHTML = `<div class="auth-user">
+    ${av ? `<img src="${av}" class="auth-avatar" referrerpolicy="no-referrer" alt=""/>` : ''}
+    <span class="auth-name">${name}</span>
+    <button class="auth-logout-btn" id="logout-btn">
+      <svg class="logout-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/></svg>
+      <span class="logout-label">Sign out</span>
+    </button>
+  </div>`;
+  document.getElementById('logout-btn').onclick = async () => {
+    await _sb.auth.signOut();
+    location.replace('/login.html');
+  };
 })();
 </script>
 
