@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-08T15:14:28Z",
-  "trade_count": 6380,
+  "last_updated": "2026-05-08T17:03:53Z",
+  "trade_count": 6383,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -102081,6 +102081,54 @@
       "delta_own": "+2%",
       "value": "4999607",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-08",
+      "filing_time": "11:57",
+      "trade_date": "2026-05-07",
+      "ticker": "POOL",
+      "company": "Pool Corp",
+      "insider_name": "Perez De La Mesa Manuel J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "190.00",
+      "qty": "10000",
+      "owned": "948155",
+      "delta_own": "+1%",
+      "value": "1900000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-08",
+      "filing_time": "11:55",
+      "trade_date": "2026-05-07",
+      "ticker": "POOL",
+      "company": "Pool Corp",
+      "insider_name": "Stokely John E",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "193.07",
+      "qty": "1000",
+      "owned": "16230",
+      "delta_own": "+7%",
+      "value": "193065",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-08",
+      "filing_time": "11:53",
+      "trade_date": "2026-05-07",
+      "ticker": "POOL",
+      "company": "Pool Corp",
+      "insider_name": "Hope James D",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "194.42",
+      "qty": "464",
+      "owned": "3678",
+      "delta_own": "+14%",
+      "value": "90209",
+      "cluster_buy": true
     }
   ]
 }
