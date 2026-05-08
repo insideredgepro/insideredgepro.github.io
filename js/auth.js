@@ -15,7 +15,7 @@ async function requireAuth() {
 async function signInWithGoogle() {
   const { error } = await _sb.auth.signInWithOAuth({
     provider: 'google',
-    options: { redirectTo: window.location.origin + '/index.html' }
+    options: { redirectTo: 'https://insideredgepro.github.io/index.html' }
   });
   if (error) console.error('Auth error:', error.message);
 }
