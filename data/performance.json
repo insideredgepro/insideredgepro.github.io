@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-07",
-  "entry_count": 1039,
+  "entry_count": 1041,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -31298,8 +31298,8 @@
         "2026-05-06": 33.0,
         "2026-05-07": 33.1
       },
-      "latest_price": 33.1,
-      "return_pct": 8.21,
+      "latest_price": 34.0,
+      "return_pct": 11.15,
       "last_snapshot": "2026-05-07"
     },
     {
@@ -31336,8 +31336,8 @@
         "2026-05-06": 33.0,
         "2026-05-07": 33.1
       },
-      "latest_price": 33.1,
-      "return_pct": 8.21,
+      "latest_price": 34.0,
+      "return_pct": 11.15,
       "last_snapshot": "2026-05-07"
     },
     {
@@ -31412,8 +31412,8 @@
         "2026-05-06": 33.0,
         "2026-05-07": 33.1
       },
-      "latest_price": 33.1,
-      "return_pct": 8.21,
+      "latest_price": 34.0,
+      "return_pct": 11.15,
       "last_snapshot": "2026-05-07"
     },
     {
@@ -31640,8 +31640,8 @@
         "2026-05-06": 33.0,
         "2026-05-07": 33.1
       },
-      "latest_price": 33.1,
-      "return_pct": 8.21,
+      "latest_price": 34.0,
+      "return_pct": 11.15,
       "last_snapshot": "2026-05-07"
     },
     {
@@ -31678,8 +31678,8 @@
         "2026-05-06": 33.0,
         "2026-05-07": 33.1
       },
-      "latest_price": 33.1,
-      "return_pct": 8.21,
+      "latest_price": 34.0,
+      "return_pct": 11.15,
       "last_snapshot": "2026-05-07"
     },
     {
@@ -31754,8 +31754,8 @@
         "2026-05-06": 33.0,
         "2026-05-07": 33.1
       },
-      "latest_price": 33.1,
-      "return_pct": 8.21,
+      "latest_price": 34.0,
+      "return_pct": 11.15,
       "last_snapshot": "2026-05-07"
     },
     {
@@ -33571,8 +33571,8 @@
         "2026-05-06": 0.035,
         "2026-05-07": 0.05
       },
-      "latest_price": 0.05,
-      "return_pct": 66.67,
+      "latest_price": 0.04,
+      "return_pct": 33.33,
       "last_snapshot": "2026-05-07"
     },
     {
@@ -36600,8 +36600,8 @@
         "2026-05-06": 4.75,
         "2026-05-07": 4.75
       },
-      "latest_price": 4.75,
-      "return_pct": -5.0,
+      "latest_price": 5.0,
+      "return_pct": 0.0,
       "last_snapshot": "2026-05-07"
     },
     {
@@ -41043,6 +41043,46 @@
       },
       "latest_price": 50.19,
       "return_pct": 2.95,
+      "last_snapshot": "2026-05-07"
+    },
+    {
+      "id": "US|NMM|2026-05-05|frangou angeliki|73.93",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-05-05",
+      "trade_price": 73.93,
+      "value": 250776.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-07": 71.57
+      },
+      "latest_price": 71.57,
+      "return_pct": -3.19,
+      "last_snapshot": "2026-05-07"
+    },
+    {
+      "id": "US|BETR|2026-05-07|garg vishal|30.0",
+      "market": "US",
+      "ticker": "BETR",
+      "yf_symbol": "BETR",
+      "company": "Better Home & Finance Holding Co",
+      "insider_name": "Garg Vishal",
+      "title": "CEO, 10%",
+      "trade_date": "2026-05-07",
+      "trade_price": 30.0,
+      "value": 197485.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-07": 30.52
+      },
+      "latest_price": 30.52,
+      "return_pct": 1.73,
       "last_snapshot": "2026-05-07"
     }
   ]

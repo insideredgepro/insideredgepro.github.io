@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T23:56:48Z",
-  "trade_count": 6377,
+  "last_updated": "2026-05-08T02:35:04Z",
+  "trade_count": 6379,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -102032,6 +102032,38 @@
       "owned": "28451",
       "delta_own": "+4%",
       "value": "59719",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-07",
+      "filing_time": "21:10",
+      "trade_date": "2026-05-05",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "73.93",
+      "qty": "3392",
+      "owned": "5706118",
+      "delta_own": "0%",
+      "value": "250776",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-07",
+      "filing_time": "20:52",
+      "trade_date": "2026-05-07",
+      "ticker": "BETR",
+      "company": "Better Home & Finance Holding Co",
+      "insider_name": "Garg Vishal",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "30.00",
+      "qty": "6583",
+      "owned": "71460",
+      "delta_own": "+10%",
+      "value": "197485",
       "cluster_buy": false
     }
   ]
