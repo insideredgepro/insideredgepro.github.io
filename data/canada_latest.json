@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-08T01:00:24Z",
-  "trade_count": 2964,
+  "last_updated": "2026-05-08T03:00:24Z",
+  "trade_count": 2968,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44767,7 +44767,7 @@
       "value": "146020",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4715354",
@@ -44976,6 +44976,70 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4716298",
+      "trade_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "company": "Wajax Corporation",
+      "ticker": "WJX",
+      "insider_name": "Craighead, Jane",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "600",
+      "price": "29.4700",
+      "value": "17682",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4716299",
+      "trade_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "company": "Wajax Corporation",
+      "ticker": "WJX",
+      "insider_name": "Craighead, Jane",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "1000",
+      "price": "29.4850",
+      "value": "29485",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4716301",
+      "trade_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "company": "Wajax Corporation",
+      "ticker": "WJX",
+      "insider_name": "Craighead, Jane",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "1000",
+      "price": "29.5500",
+      "value": "29550",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4716302",
+      "trade_date": "2026-05-07",
+      "filing_date": "2026-05-07",
+      "company": "Wajax Corporation",
+      "ticker": "WJX",
+      "insider_name": "Craighead, Jane",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "600",
+      "price": "29.5167",
+      "value": "17710",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
