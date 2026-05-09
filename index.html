@@ -167,9 +167,10 @@
     }
     .hero {
       position: relative; z-index: 4;
-      max-width: 1400px; margin: 0 auto; padding: 96px 5% 120px;
+      max-width: 800px; margin: 0 auto; padding: 0 5% 120px;
       width: 100%;
-      display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center;
+      display: flex; flex-direction: column; align-items: center; text-align: center;
+      justify-content: center; flex: 1;
     }
     /* Scroll hint at bottom of hero */
     .hero-scroll-hint {
@@ -209,7 +210,7 @@
       -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
     }
     .hero-sub { font-size: 16px; color: var(--text2); margin-bottom: 36px; line-height: 1.7; }
-    .hero-ctas { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+    .hero-ctas { display: flex; align-items: center; justify-content: center; gap: 12px; flex-wrap: wrap; }
     .cta-primary {
       position: relative; overflow: hidden;
       display: inline-flex; align-items: center; justify-content: center; gap: 8px;
@@ -515,7 +516,7 @@
 
     /* Tablet landscape */
     @media (max-width: 1024px) {
-      .hero { grid-template-columns: 1fr; gap: 36px; padding: 72px 5% 64px; }
+      .hero { padding: 0 5% 100px; }
       .hero-right { max-width: 100%; }
       .discord-inner { grid-template-columns: 1fr; gap: 32px; }
       .discord-card { flex-direction: row; align-items: center; text-align: left; min-width: unset; }
@@ -544,7 +545,7 @@
       .btn-open-app { padding: 6px 12px; font-size: 12px; }
 
       /* Hero */
-      .hero { padding: 52px 5% 80px; gap: 28px; }
+      .hero { padding: 0 5% 80px; }
       .hero h1 { font-size: clamp(27px, 8vw, 38px); letter-spacing: -.03em; margin-bottom: 14px; }
       .hero-sub { font-size: 14px; line-height: 1.65; margin-bottom: 24px; }
       .hero-eyebrow { font-size: 10px; padding: 4px 12px; margin-bottom: 18px; }
@@ -689,7 +690,7 @@
         </a>
       </div>
     </div>
-    <div class="hero-right">
+    <div class="hero-right" style="display:none">
       <div class="terminal">
         <div class="terminal-header">
           <div class="terminal-dots"><div class="t-dot r"></div><div class="t-dot y"></div><div class="t-dot g"></div></div>
