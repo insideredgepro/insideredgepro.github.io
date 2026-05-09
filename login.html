@@ -220,13 +220,13 @@
 
   // If already signed in, go straight to the app
   sb.auth.getSession().then(({ data: { session } }) => {
-    if (session) window.location.replace('/index.html');
+    if (session) window.location.replace('/us.html');
   });
 
   // Handle OAuth callback redirect
   sb.auth.onAuthStateChange((event, session) => {
     if (event === 'SIGNED_IN' && session) {
-      window.location.replace('/index.html');
+      window.location.replace('/us.html');
     }
   });
 
@@ -241,7 +241,7 @@
     if (error) {
       msg.textContent = 'Sign-in failed: ' + error.message;
     } else {
-      window.location.replace('/index.html');
+      window.location.replace('/us.html');
     }
   }
 
@@ -267,7 +267,7 @@
 
     const { error } = await sb.auth.signInWithOAuth({
       provider: 'google',
-      options: { redirectTo: 'https://insideredgepro.github.io/index.html' }
+      options: { redirectTo: 'https://insideredgepro.github.io/us.html' }
     });
 
     if (error) {
