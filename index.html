@@ -465,46 +465,45 @@
     /* LIVE TICKER SECTION */
     .ticker-section {
       position: relative; overflow: hidden;
-      height: 340px;
-      background: radial-gradient(ellipse 80% 100% at 50% 100%, rgba(26,188,219,.07) 0%, transparent 70%), var(--bg);
+      height: 360px;
+      background:
+        radial-gradient(ellipse 60% 80% at 50% 50%, rgba(26,188,219,.06) 0%, transparent 70%),
+        var(--bg);
       border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);
-      display: flex; align-items: center; justify-content: center;
+      display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 28px;
     }
     .ticker-float {
       position: absolute; font-family: var(--fm);
-      font-size: 12px; color: rgba(26,188,219,.5); pointer-events: none;
+      font-size: 12px; color: rgba(26,188,219,.48); pointer-events: none;
       animation: floatUp var(--dur,6s) ease-in-out var(--delay,0s) infinite;
-      white-space: nowrap; user-select: none; z-index: 20;
+      white-space: nowrap; user-select: none; z-index: 1;
     }
-    .ticker-cta {
-      position: relative; z-index: 10;
-      display: flex; flex-direction: column; align-items: center; gap: 16px;
-      text-align: center;
-      background: rgba(7,11,17,.72);
-      backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
-      border: 1px solid var(--border);
-      border-radius: 20px; padding: 36px 48px;
-      box-shadow: 0 0 60px rgba(26,188,219,.08), 0 24px 48px rgba(0,0,0,.4);
+    .ticker-label {
+      position: relative; z-index: 2;
+      display: inline-flex; align-items: center; gap: 7px;
+      font-size: 11px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+      color: var(--muted2);
     }
-    .ticker-cta-eyebrow {
-      display: inline-flex; align-items: center; gap: 6px;
-      background: var(--cyan-bg); border: 1px solid var(--cyan-dim);
-      color: var(--cyan); border-radius: 20px; padding: 4px 14px;
-      font-size: 10px; font-weight: 700; letter-spacing: .07em; text-transform: uppercase;
+    .btn-ticker-signin {
+      position: relative; z-index: 2;
+      display: inline-flex; align-items: center; gap: 9px;
+      padding: 13px 32px; border-radius: 40px;
+      background: transparent;
+      border: 1px solid rgba(26,188,219,.45);
+      color: var(--cyan); font-size: 15px; font-weight: 700; font-family: var(--fb);
+      letter-spacing: -.01em;
+      transition: background .2s, border-color .2s, box-shadow .2s;
+      backdrop-filter: blur(4px);
     }
-    .ticker-cta h3 {
-      font-family: var(--fh); font-size: clamp(20px,3vw,28px);
-      font-weight: 800; letter-spacing: -.03em; color: var(--text); line-height: 1.2;
+    .btn-ticker-signin:hover {
+      background: rgba(26,188,219,.08);
+      border-color: var(--cyan);
+      box-shadow: 0 0 32px rgba(26,188,219,.2);
     }
-    .ticker-cta p { font-size: 13px; color: var(--muted2); max-width: 340px; line-height: 1.6; }
-    .ticker-cta .cta-primary { margin-top: 4px; }
-
     @media (max-width: 600px) {
-      .ticker-section { height: 300px; }
-      .ticker-cta { padding: 24px 22px; gap: 12px; border-radius: 14px; width: calc(100% - 40px); max-width: 340px; }
-      .ticker-cta h3 { font-size: 18px; }
-      .ticker-cta p { font-size: 12px; }
+      .ticker-section { height: 300px; gap: 22px; }
       .ticker-float { font-size: 10px; }
+      .btn-ticker-signin { font-size: 14px; padding: 12px 28px; }
     }
 
     /* ── RESPONSIVE ── */
@@ -722,15 +721,14 @@
 
 <!-- LIVE TICKER WALL -->
 <div class="ticker-section" id="ticker-section">
-  <div class="ticker-cta">
-    <div class="ticker-cta-eyebrow"><span class="live-dot"></span>Live Activity</div>
-    <h3>Smart Money Is Moving<br/>Right Now</h3>
-    <p>Insiders are filing trades in real time. Sign in free to see every purchase as it happens — with cluster buy alerts.</p>
-    <a href="login.html" class="cta-primary">
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/><polyline points="10 17 15 12 10 7"/><line x1="15" y1="12" x2="3" y2="12"/></svg>
-      Sign In Free
-    </a>
-  </div>
+  <span class="ticker-label">
+    <span class="live-dot"></span>
+    Live insider activity
+  </span>
+  <a href="login.html" class="btn-ticker-signin">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/><polyline points="10 17 15 12 10 7"/><line x1="15" y1="12" x2="3" y2="12"/></svg>
+    Sign In Free
+  </a>
 </div>
 
 <!-- LIVE PREVIEW -->
