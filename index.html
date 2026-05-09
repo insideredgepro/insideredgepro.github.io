@@ -560,10 +560,14 @@
 
     /* Mobile */
     @media (max-width: 600px) {
-      /* Ticker section shrunk on mobile — sits between hero and trades */
-      .ticker-section { height: 380px; gap: 20px; }
-      .ticker-section::before, .ticker-section::after { height: 80px; }
-      .btn-ticker-signin { font-size: 14px; padding: 13px 28px; }
+      /* Ticker section sits between hero text and terminal on mobile */
+      .ticker-section {
+        height: 340px; gap: 20px;
+        margin: 0 -5%; width: calc(100% + 10%); /* bleed to edges past hero padding */
+        border-left: none; border-right: none;
+      }
+      .ticker-section::before, .ticker-section::after { height: 70px; }
+      .btn-ticker-signin { font-size: 14px; padding: 12px 26px; }
 
       /* Header */
       .lp-header { padding: 0 16px; height: 52px; gap: 8px; }
@@ -1009,11 +1013,13 @@
   document.querySelectorAll('.reveal,.stagger').forEach(el=>obs.observe(el));
 
   /* Floating ticker fragments — ticker section */
-  /* On mobile: move ticker animation above stats bar so it sits right below the hero */
+  /* On mobile: move ticker animation between hero text and terminal widget */
   if(window.innerWidth<=768){
     var _ticker=document.getElementById('ticker-section');
-    var _stats=document.querySelector('.stats-bar');
-    if(_ticker&&_stats&&_stats.parentNode){_stats.parentNode.insertBefore(_ticker,_stats);}
+    var _heroRight=document.querySelector('.hero-right');
+    if(_ticker&&_heroRight&&_heroRight.parentNode){
+      _heroRight.parentNode.insertBefore(_ticker,_heroRight);
+    }
   }
 
   const frags=[
