@@ -247,7 +247,7 @@
     .stat-pill-lbl { font-size: 11px; font-weight: 600; color: var(--muted); letter-spacing: .06em; text-transform: uppercase; }
 
     /* ── LIVE PREVIEW ── */
-    .section { padding: 72px 32px; max-width: 1100px; margin: 0 auto; }
+    .section { padding: 72px 5%; max-width: 1400px; margin: 0 auto; }
     .section-eyebrow {
       display: inline-flex; align-items: center; gap: 6px;
       font-size: 11px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
@@ -360,7 +360,7 @@
       background: var(--surface); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);
     }
     .cluster-inner {
-      max-width: 1100px; margin: 0 auto; padding: 72px 32px;
+      max-width: 1400px; margin: 0 auto; padding: 72px 5%;
       display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center;
     }
     .cluster-badge {
@@ -394,7 +394,7 @@
     .cluster-row-val { font-family: var(--font-mono); font-size: 13px; font-weight: 700; color: var(--green); }
 
     /* ── FAQ ── */
-    .faq-section { max-width: 720px; margin: 0 auto; padding: 72px 32px; }
+    .faq-section { max-width: 860px; margin: 0 auto; padding: 72px 5%; }
     .faq-section h2 { font-size: clamp(22px, 3.5vw, 32px); font-weight: 800; letter-spacing: -.02em; margin-bottom: 36px; text-align: center; }
     .faq-item { border-bottom: 1px solid var(--border2); padding: 20px 0; cursor: pointer; }
     .faq-item:first-of-type { border-top: 1px solid var(--border2); }
@@ -430,17 +430,127 @@
       .lp-header { padding: 0 16px; height: 54px; }
       .lp-brand-name { font-size: 15px; }
       .lp-nav { display: none; }
-      .hero { padding: 60px 20px 56px; }
-      .section { padding: 52px 20px; }
+      .hero { padding: 60px 5% 56px; }
+      .section { padding: 52px 5%; }
       .markets-grid { grid-template-columns: 1fr; }
       .stats-bar { justify-content: flex-start; overflow-x: auto; flex-wrap: nowrap; }
       .stat-pill { padding: 14px 20px; flex-shrink: 0; }
-      .cluster-inner { padding: 52px 20px; }
+      .cluster-inner { padding: 52px 5%; }
       .faq-section { padding: 52px 20px; }
       .lp-footer { padding: 24px 20px; }
       .auth-name { display: none; }
       .preview-table { min-width: 520px; }
     }
+
+    /* ── Animations ── */
+
+    /* Hero entrance — staggered */
+    @keyframes heroUp {
+      from { opacity: 0; transform: translateY(22px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .hero-eyebrow { animation: heroUp .55s cubic-bezier(.22,.68,0,1.1) .05s both; }
+    .hero h1      { animation: heroUp .65s cubic-bezier(.22,.68,0,1.1) .18s both; }
+    .hero-sub     { animation: heroUp .55s cubic-bezier(.22,.68,0,1.1) .32s both; }
+    .hero-ctas    { animation: heroUp .55s cubic-bezier(.22,.68,0,1.1) .46s both; }
+
+    /* Animated background grid in hero */
+    .hero-grid {
+      position: absolute; inset: 0; pointer-events: none; z-index: 0;
+      background-image:
+        linear-gradient(rgba(26,188,219,.055) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(26,188,219,.055) 1px, transparent 1px);
+      background-size: 44px 44px;
+      mask-image: radial-gradient(ellipse 90% 85% at 50% 50%, black 10%, transparent 80%);
+      -webkit-mask-image: radial-gradient(ellipse 90% 85% at 50% 50%, black 10%, transparent 80%);
+      animation: gridShift 12s linear infinite;
+    }
+    @keyframes gridShift {
+      0%   { background-position: 0 0; }
+      100% { background-position: 44px 44px; }
+    }
+
+    /* Floating ticker fragments */
+    @keyframes floatUp {
+      0%   { opacity: 0; transform: translateY(10px); }
+      15%  { opacity: 1; }
+      80%  { opacity: .35; }
+      100% { opacity: 0; transform: translateY(-70px); }
+    }
+    .hero-float {
+      position: absolute; font-family: 'JetBrains Mono', monospace;
+      font-size: 11px; color: rgba(26,188,219,.55); pointer-events: none;
+      animation: floatUp var(--dur, 5s) ease-in-out var(--delay, 0s) infinite;
+      white-space: nowrap; z-index: 0; user-select: none;
+    }
+
+    /* Ensure hero text is above grid/floats */
+    .hero > *:not(.hero-grid):not(.hero-float) { position: relative; z-index: 1; }
+
+    /* Stats bar — slide in */
+    @keyframes statIn {
+      from { opacity: 0; transform: translateY(12px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .stat-pill { animation: statIn .5s ease both; }
+    .stat-pill:nth-child(1) { animation-delay: .7s; }
+    .stat-pill:nth-child(2) { animation-delay: .82s; }
+    .stat-pill:nth-child(3) { animation-delay: .94s; }
+    .stat-pill:nth-child(4) { animation-delay: 1.06s; }
+
+    /* Scroll reveal */
+    .reveal {
+      opacity: 0; transform: translateY(28px);
+      transition: opacity .6s ease, transform .6s cubic-bezier(.22,.68,0,1.05);
+    }
+    .reveal.visible { opacity: 1; transform: translateY(0); }
+
+    /* Staggered children */
+    .stagger > *      { opacity: 0; transform: translateY(24px); transition: opacity .55s ease, transform .55s cubic-bezier(.22,.68,0,1.1); }
+    .stagger.visible > *:nth-child(1) { opacity:1; transform:translateY(0); transition-delay:.05s; }
+    .stagger.visible > *:nth-child(2) { opacity:1; transform:translateY(0); transition-delay:.18s; }
+    .stagger.visible > *:nth-child(3) { opacity:1; transform:translateY(0); transition-delay:.31s; }
+
+    /* Table row fade-in */
+    @keyframes rowIn {
+      from { opacity: 0; transform: translateX(-8px); }
+      to   { opacity: 1; transform: translateX(0); }
+    }
+    .preview-table tbody tr { animation: rowIn .35s ease both; }
+
+    /* Market card glow on hover */
+    .market-card { transition: border-color .25s, box-shadow .25s, transform .25s; }
+    .market-card:hover { transform: translateY(-4px); box-shadow: 0 12px 40px rgba(26,188,219,.12); }
+
+    /* Cluster card entrance */
+    .cluster-card { animation: none; }
+    .cluster-card.reveal.visible {
+      animation: heroUp .6s cubic-bezier(.22,.68,0,1.1) both;
+    }
+
+    /* Pulse ring on live dot */
+    .hero-eyebrow-dot::after {
+      content: ''; position: absolute; inset: -4px; border-radius: 50%;
+      border: 2px solid var(--green); opacity: 0;
+      animation: ring 2s ease-out infinite;
+    }
+    .hero-eyebrow-dot { position: relative; }
+    @keyframes ring {
+      0%   { transform: scale(1); opacity: .6; }
+      100% { transform: scale(2.2); opacity: 0; }
+    }
+
+    /* CTA shimmer */
+    .cta-primary {
+      position: relative; overflow: hidden;
+    }
+    .cta-primary::after {
+      content: ''; position: absolute; top: 0; left: -100%;
+      width: 60%; height: 100%;
+      background: linear-gradient(90deg, transparent, rgba(255,255,255,.18), transparent);
+      animation: shimmerBtn 3.5s ease-in-out 1.5s infinite;
+    }
+    @keyframes shimmerBtn { 0%{left:-100%} 40%,100%{left:160%} }
   </style>
 </head>
 <body>
@@ -483,6 +593,8 @@
 <!-- HERO                                                                 -->
 <!-- ================================================================== -->
 <section class="hero">
+  <div class="hero-grid"></div>
+  <!-- Floating data fragments injected by JS -->
   <div class="hero-eyebrow">
     <span class="hero-eyebrow-dot"></span>
     Live — Updates every 30 minutes
@@ -534,7 +646,7 @@
   <h2>Latest US Insider Purchases</h2>
   <p class="section-sub">Open-market purchases from SEC Form 4 filings. Updated every 30 minutes — sign in to see the full live feed with filters and alerts.</p>
 
-  <div class="preview-wrap">
+  <div class="preview-wrap reveal">
     <div class="preview-table-scroll">
       <table class="preview-table">
         <thead>
@@ -577,7 +689,7 @@
     <h2>Three Markets. One Dashboard.</h2>
     <p class="section-sub">Track smart money across US corporate insiders, Capitol Hill politicians, and Canadian SEDI filings — all updated in real time.</p>
 
-    <div class="markets-grid">
+    <div class="markets-grid stagger">
       <div class="market-card">
         <div class="market-card-icon">
           <svg viewBox="0 0 20 13" width="28" height="18" style="border-radius:2px" xmlns="http://www.w3.org/2000/svg"><rect width="20" height="13" fill="#B22234"/><rect y="1" width="20" height="1" fill="#fff"/><rect y="3" width="20" height="1" fill="#fff"/><rect y="5" width="20" height="1" fill="#fff"/><rect y="7" width="20" height="1" fill="#fff"/><rect y="9" width="20" height="1" fill="#fff"/><rect y="11" width="20" height="1" fill="#fff"/><rect width="8" height="7" fill="#3C3B6E"/></svg>
@@ -629,7 +741,7 @@
       <p>A single insider buy is notable. Two or more insiders at the same company buying simultaneously is one of the highest-conviction signals in quantitative finance.</p>
       <p>InsiderEdgePro automatically detects cluster buys in real time — flagging the exact moment multiple executives purchase shares in the same window, across all three markets.</p>
     </div>
-    <div class="cluster-card">
+    <div class="cluster-card reveal">
       <div class="cluster-card-header">
         <div>
           <div class="cluster-ticker">ACME</div>
@@ -774,16 +886,17 @@
       const totalVal      = trades.reduce((s, t) => s + parseFloat(('' + t.value).replace(/[^0-9.-]/g, '')) || 0, 0);
       const tickers       = new Set(trades.map(t => t.ticker)).size;
 
-      document.getElementById('lp-stat-trades').textContent   = (json.trades || json || []).length || totalTrades;
-      document.getElementById('lp-stat-clusters').textContent = clusters;
-      document.getElementById('lp-stat-value').textContent    = fmt(totalVal);
-      document.getElementById('lp-stat-tickers').textContent  = tickers;
+      const allCount = (json.trades || json || []).length || totalTrades;
+      countUp(document.getElementById('lp-stat-trades'),   allCount,  '', '',  900);
+      countUp(document.getElementById('lp-stat-clusters'), clusters,  '', '',  900);
+      document.getElementById('lp-stat-value').textContent = fmt(totalVal);
+      countUp(document.getElementById('lp-stat-tickers'),  tickers,   '', '',  900);
 
       const tbody = document.getElementById('preview-tbody');
       if (!trades.length) { tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;padding:40px;color:var(--muted)">No trades yet today.</td></tr>'; return; }
 
-      tbody.innerHTML = trades.map(t => `
-        <tr>
+      tbody.innerHTML = trades.map((t, i) => `
+        <tr style="animation-delay:${i * 0.06}s">
           <td class="pt-ticker">${t.ticker || '—'}${t.cluster_buy ? ' <span class="pt-cluster">⚡ Cluster</span>' : ''}</td>
           <td class="pt-company">${(t.company || '—').slice(0, 28)}</td>
           <td class="pt-insider">${(t.insider_name || '—').split(' ').slice(0, 2).join(' ')}</td>
@@ -801,6 +914,36 @@
     item.querySelector('.faq-q').addEventListener('click', () => {
       item.classList.toggle('open');
     });
+  });
+
+  /* ── Scroll reveal (IntersectionObserver) ── */
+  const revealObs = new IntersectionObserver((entries) => {
+    entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('visible'); revealObs.unobserve(e.target); } });
+  }, { threshold: 0.12 });
+  document.querySelectorAll('.reveal, .stagger').forEach(el => revealObs.observe(el));
+
+  /* ── Count-up for stats ── */
+  function countUp(el, target, prefix, suffix, duration) {
+    const start = Date.now();
+    const tick = () => {
+      const progress = Math.min((Date.now() - start) / duration, 1);
+      const ease = 1 - Math.pow(1 - progress, 3);
+      const val = Math.round(ease * target);
+      el.textContent = prefix + val.toLocaleString() + suffix;
+      if (progress < 1) requestAnimationFrame(tick);
+    };
+    requestAnimationFrame(tick);
+  }
+
+  /* ── Floating ticker fragments in hero ── */
+  const fragments = ['AAPL $2.1M', 'MSFT CEO', 'NVDA +$850K', 'TSLA Dir', 'AMZN $1.4M', 'META CFO', 'GOOG $3.2M', 'JPM CEO $900K', 'CLUSTER ⚡', 'FORM 4', 'SEC Filing', 'SEDI Buy'];
+  const hero = document.querySelector('.hero');
+  fragments.forEach((txt, i) => {
+    const el = document.createElement('div');
+    el.className = 'hero-float';
+    el.textContent = txt;
+    el.style.cssText = `left:${8 + Math.random() * 84}%;bottom:${5 + Math.random() * 30}%;--dur:${4 + Math.random() * 4}s;--delay:${i * 0.6}s`;
+    hero.appendChild(el);
   });
 })();
 </script>
