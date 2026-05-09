@@ -8,7 +8,7 @@
   <link rel="icon" href="/favicon.ico" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet" />
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -31,6 +31,8 @@
     }
 
     body {
+      position: relative;
+      overflow: hidden;
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -38,9 +40,28 @@
       min-height: 100vh;
       padding: 20px;
       background:
-        radial-gradient(ellipse 80% 60% at 50% 0%, rgba(26,188,219,.12) 0%, transparent 65%),
+        radial-gradient(ellipse 80% 60% at 50% 50%, rgba(26,188,219,.09) 0%, transparent 65%),
         radial-gradient(ellipse 50% 40% at 80% 100%, rgba(26,188,219,.05) 0%, transparent 60%),
         var(--bg);
+    }
+
+    /* Floating ticker animation */
+    @keyframes floatUpBig {
+      0%   { opacity: 0; transform: translateY(0); }
+      8%   { opacity: 1; }
+      88%  { opacity: .45; }
+      100% { opacity: 0; transform: translateY(-100vh); }
+    }
+    .ticker-float {
+      position: fixed;
+      font-family: 'JetBrains Mono', monospace;
+      color: rgba(26,188,219,.45);
+      pointer-events: none;
+      animation: floatUpBig var(--dur, 12s) ease-in-out var(--delay, 0s) infinite;
+      white-space: nowrap;
+      user-select: none;
+      font-weight: 600;
+      z-index: 0;
     }
 
     @keyframes cardIn {
@@ -49,16 +70,20 @@
     }
 
     .login-card {
+      position: relative;
+      z-index: 10;
       width: 100%;
       max-width: 400px;
-      background: var(--surface);
+      background: rgba(13,21,32,.85);
       border: 1px solid var(--border);
       border-radius: 20px;
       padding: 44px 40px 36px;
       display: flex;
       flex-direction: column;
       align-items: center;
-      box-shadow: 0 32px 80px rgba(0,0,0,.5), 0 0 0 1px rgba(26,188,219,.07);
+      box-shadow: 0 32px 80px rgba(0,0,0,.6), 0 0 0 1px rgba(26,188,219,.1);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
       animation: cardIn .35s cubic-bezier(.22,.68,0,1.2) both;
     }
 
@@ -210,6 +235,32 @@
   </p>
 </div>
 
+<script>
+  (function(){
+    const frags=[
+      ['AAPL $2.1M',20],['MSFT CEO',13],['NVDA +$850K',26],['TSLA Dir',12],
+      ['AMZN $1.4M',18],['META CFO',14],['GOOG $3.2M',22],['JPM CEO',12],
+      ['⚡ CLUSTER BUY',28],['FORM 4',11],['SEC Filing',13],['SEDI Buy',12],
+      ['BRK.B $5M',24],['AMD Dir',12],['ORCL $1.8M',17],['CRM CEO',13],
+      ['UBER $740K',16],['WMT $2.3M',20],['GS $4.1M',22],['V Dir',11],
+      ['⚡ CLUSTER BUY',18],['COIN $1.1M',16],['PLTR CEO',14],['SOFI Dir',12],
+      ['SMCI $3.8M',24],['ARM CFO',13],['SNOW $2.2M',17],['MSTR $9M',26],
+      ['⚡ CLUSTER BUY',15],['MU CEO',12],['HOOD Dir',12],['INTC CFO',14]
+    ];
+    frags.forEach(([txt,size])=>{
+      const el=document.createElement('div');
+      el.className='ticker-float';
+      el.textContent=txt;
+      const left=1+Math.random()*96;
+      const bottom=-5+Math.random()*110;
+      const dur=10+Math.random()*10;
+      const delay=-(Math.random()*dur);
+      const opacity=0.2+Math.random()*0.35;
+      el.style.cssText=`left:${left}%;bottom:${bottom}%;--dur:${dur}s;--delay:${delay}s;font-size:${size}px;opacity:${opacity}`;
+      document.body.appendChild(el);
+    });
+  })();
+</script>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
 <script src="https://accounts.google.com/gsi/client" async></script>
 <script>
