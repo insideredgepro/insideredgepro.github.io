@@ -463,20 +463,29 @@
     .hero-left,.hero-right{position:relative;z-index:1}
 
     /* LIVE TICKER SECTION */
+    @keyframes floatUpBig {
+      0%   { opacity: 0; transform: translateY(0); }
+      8%   { opacity: 1; }
+      88%  { opacity: .5; }
+      100% { opacity: 0; transform: translateY(-520px); }
+    }
     .ticker-section {
       position: relative; overflow: hidden;
-      height: 360px;
+      height: 560px;
       background:
-        radial-gradient(ellipse 60% 80% at 50% 50%, rgba(26,188,219,.06) 0%, transparent 70%),
+        radial-gradient(ellipse 70% 60% at 50% 60%, rgba(26,188,219,.07) 0%, transparent 65%),
+        radial-gradient(ellipse 40% 30% at 20% 80%, rgba(26,188,219,.03) 0%, transparent 60%),
+        radial-gradient(ellipse 40% 30% at 80% 20%, rgba(26,188,219,.03) 0%, transparent 60%),
         var(--bg);
       border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);
       display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 28px;
     }
     .ticker-float {
       position: absolute; font-family: var(--fm);
-      font-size: 12px; color: rgba(26,188,219,.48); pointer-events: none;
-      animation: floatUp var(--dur,6s) ease-in-out var(--delay,0s) infinite;
+      color: rgba(26,188,219,.55); pointer-events: none;
+      animation: floatUpBig var(--dur,9s) ease-in-out var(--delay,0s) infinite;
       white-space: nowrap; user-select: none; z-index: 1;
+      font-weight: 600;
     }
     .ticker-label {
       position: relative; z-index: 2;
@@ -487,23 +496,22 @@
     .btn-ticker-signin {
       position: relative; z-index: 2;
       display: inline-flex; align-items: center; gap: 9px;
-      padding: 13px 32px; border-radius: 40px;
+      padding: 14px 36px; border-radius: 40px;
       background: transparent;
-      border: 1px solid rgba(26,188,219,.45);
-      color: var(--cyan); font-size: 15px; font-weight: 700; font-family: var(--fb);
+      border: 1px solid rgba(26,188,219,.4);
+      color: var(--cyan); font-size: 16px; font-weight: 700; font-family: var(--fb);
       letter-spacing: -.01em;
       transition: background .2s, border-color .2s, box-shadow .2s;
-      backdrop-filter: blur(4px);
+      backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
     }
     .btn-ticker-signin:hover {
       background: rgba(26,188,219,.08);
       border-color: var(--cyan);
-      box-shadow: 0 0 32px rgba(26,188,219,.2);
+      box-shadow: 0 0 40px rgba(26,188,219,.25);
     }
     @media (max-width: 600px) {
-      .ticker-section { height: 300px; gap: 22px; }
-      .ticker-float { font-size: 10px; }
-      .btn-ticker-signin { font-size: 14px; padding: 12px 28px; }
+      .ticker-section { height: 420px; gap: 20px; }
+      .btn-ticker-signin { font-size: 14px; padding: 13px 28px; }
     }
 
     /* ── RESPONSIVE ── */
@@ -972,18 +980,28 @@
 
   /* Floating ticker fragments — ticker section */
   const frags=[
-    'AAPL $2.1M','MSFT CEO','NVDA +$850K','TSLA Dir','AMZN $1.4M','META CFO',
-    'GOOG $3.2M','JPM CEO','CLUSTER ⚡','FORM 4','SEC Filing','SEDI Buy',
-    'BRK.B $5M','AMD Dir','INTC CFO','ORCL $1.8M','CRM CEO','UBER $740K',
-    'NFLX Dir','WMT $2.3M','DIS CEO','BA CFO','GS $4.1M','V Dir'
+    ['AAPL $2.1M',22],['MSFT CEO',14],['NVDA +$850K',28],['TSLA Dir',13],
+    ['AMZN $1.4M',20],['META CFO',15],['GOOG $3.2M',24],['JPM CEO',13],
+    ['⚡ CLUSTER BUY',32],['FORM 4',12],['SEC Filing',14],['SEDI Buy',13],
+    ['BRK.B $5M',26],['AMD Dir',13],['INTC CFO',15],['ORCL $1.8M',19],
+    ['CRM CEO',14],['UBER $740K',18],['NFLX Dir',13],['WMT $2.3M',22],
+    ['DIS CEO',13],['BA CFO',14],['GS $4.1M',24],['V Dir',12],
+    ['⚡ CLUSTER BUY',20],['COIN $1.1M',17],['PLTR CEO',15],['SOFI Dir',13],
+    ['SMCI $3.8M',26],['ARM CFO',14],['RIVN Dir',13],['SNOW $2.2M',19],
+    ['⚡ CLUSTER BUY',16],['MU CEO',13],['MSTR $9M',28],['HOOD Dir',13]
   ];
   const ts=document.getElementById('ticker-section');
   if(ts){
-    frags.forEach((txt,i)=>{
+    frags.forEach(([txt,size],i)=>{
       const el=document.createElement('div');
       el.className='ticker-float';
       el.textContent=txt;
-      el.style.cssText=`left:${2+Math.random()*92}%;bottom:${-5+Math.random()*20}%;--dur:${5+Math.random()*6}s;--delay:${i*0.45}s`;
+      const left=2+Math.random()*93;
+      const bottom=-10+Math.random()*100; /* spread across full height */
+      const dur=7+Math.random()*8;
+      const delay=-(Math.random()*dur); /* negative delay = start mid-animation */
+      const opacity=0.3+Math.random()*0.45;
+      el.style.cssText=`left:${left}%;bottom:${bottom}%;--dur:${dur}s;--delay:${delay}s;font-size:${size}px;opacity:${opacity}`;
       ts.appendChild(el);
     });
   }
