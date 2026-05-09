@@ -560,15 +560,7 @@
 
     /* Mobile */
     @media (max-width: 600px) {
-      /* Reorder: Hero → Ticker Animation → Stats → Trades → rest */
-      .page-flow { display: flex; flex-direction: column; }
-      .page-flow > * { order: 10; } /* push all to end, DOM order preserved within same value */
-      .hero-wrap      { order: 1; }
-      .ticker-section { order: 2; }
-      .stats-bar      { order: 3; }
-      #live-preview   { order: 4; }
-
-      /* Shrink ticker on mobile since it's now between hero and trades */
+      /* Ticker section shrunk on mobile — sits between hero and trades */
       .ticker-section { height: 380px; gap: 20px; }
       .ticker-section::before, .ticker-section::after { height: 80px; }
       .btn-ticker-signin { font-size: 14px; padding: 13px 28px; }
@@ -1017,6 +1009,13 @@
   document.querySelectorAll('.reveal,.stagger').forEach(el=>obs.observe(el));
 
   /* Floating ticker fragments — ticker section */
+  /* On mobile: move ticker animation above stats bar so it sits right below the hero */
+  if(window.innerWidth<=768){
+    var _ticker=document.getElementById('ticker-section');
+    var _stats=document.querySelector('.stats-bar');
+    if(_ticker&&_stats&&_stats.parentNode){_stats.parentNode.insertBefore(_ticker,_stats);}
+  }
+
   const frags=[
     ['AAPL $2.1M',22],['MSFT CEO',14],['NVDA +$850K',28],['TSLA Dir',13],
     ['AMZN $1.4M',20],['META CFO',15],['GOOG $3.2M',24],['JPM CEO',13],
