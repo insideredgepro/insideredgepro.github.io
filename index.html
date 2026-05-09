@@ -460,6 +460,8 @@
     .t-row{animation:rowIn .3s ease both}
 
     .hero-float{position:absolute;font-family:var(--fm);font-size:11px;color:rgba(26,188,219,.45);pointer-events:none;animation:floatUp var(--dur,5s) ease-in-out var(--delay,0s) infinite;white-space:nowrap;z-index:0;user-select:none}
+    /* Ensure hero text sits above grid and floats */
+    .hero-left,.hero-right{position:relative;z-index:1}
 
     /* ── RESPONSIVE ── */
 
@@ -915,7 +917,7 @@
 
   /* Floating ticker fragments */
   const frags=['AAPL $2.1M','MSFT CEO','NVDA +$850K','TSLA Dir','AMZN $1.4M','META CFO','GOOG $3.2M','JPM CEO','CLUSTER ⚡','FORM 4','SEC Filing','SEDI Buy'];
-  const hw=document.querySelector('.hero-wrap');
+  const hw=document.querySelector('.hero');
   if(hw)frags.forEach((txt,i)=>{const el=document.createElement('div');el.className='hero-float';el.textContent=txt;el.style.cssText=`left:${8+Math.random()*84}%;bottom:${5+Math.random()*30}%;--dur:${4+Math.random()*4}s;--delay:${i*.6}s`;hw.appendChild(el)});
 })();
 </script>
