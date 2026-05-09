@@ -560,6 +560,19 @@
 
     /* Mobile */
     @media (max-width: 600px) {
+      /* Reorder: Hero → Ticker Animation → Stats → Trades → rest */
+      .page-flow { display: flex; flex-direction: column; }
+      .page-flow > * { order: 10; } /* push all to end, DOM order preserved within same value */
+      .hero-wrap      { order: 1; }
+      .ticker-section { order: 2; }
+      .stats-bar      { order: 3; }
+      #live-preview   { order: 4; }
+
+      /* Shrink ticker on mobile since it's now between hero and trades */
+      .ticker-section { height: 380px; gap: 20px; }
+      .ticker-section::before, .ticker-section::after { height: 80px; }
+      .btn-ticker-signin { font-size: 14px; padding: 13px 28px; }
+
       /* Header */
       .lp-header { padding: 0 16px; height: 52px; gap: 8px; }
       .lp-brand-name { font-size: 14px; }
@@ -694,6 +707,7 @@
   </div>
 </header>
 
+<main class="page-flow">
 <!-- HERO -->
 <div class="hero-wrap">
   <div class="hero-grid-bg"></div>
@@ -912,6 +926,8 @@
     <div class="faq-a">InsiderEdgePro monitors SEDI filings for TSX and TSX-V listed companies. Every insider purchase on Canadian exchanges is tracked with the same cluster buy detection used for US markets — ideal for spotting institutional conviction in Canadian small-caps early.</div>
   </div>
 </div>
+
+</main><!-- /page-flow -->
 
 <!-- FOOTER -->
 <footer class="lp-footer">
