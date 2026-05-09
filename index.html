@@ -459,9 +459,53 @@
     .preview-table tbody tr{animation:rowIn .35s ease both}
     .t-row{animation:rowIn .3s ease both}
 
-    .hero-float{position:absolute;font-family:var(--fm);font-size:11px;color:rgba(26,188,219,.5);pointer-events:none;animation:floatUp var(--dur,5s) ease-in-out var(--delay,0s) infinite;white-space:nowrap;z-index:2;user-select:none}
-    /* Ensure hero text sits above grid and floats */
+    /* Ensure hero text sits above grid */
     .hero-left,.hero-right{position:relative;z-index:1}
+
+    /* LIVE TICKER SECTION */
+    .ticker-section {
+      position: relative; overflow: hidden;
+      height: 340px;
+      background: radial-gradient(ellipse 80% 100% at 50% 100%, rgba(26,188,219,.07) 0%, transparent 70%), var(--bg);
+      border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);
+      display: flex; align-items: center; justify-content: center;
+    }
+    .ticker-float {
+      position: absolute; font-family: var(--fm);
+      font-size: 12px; color: rgba(26,188,219,.5); pointer-events: none;
+      animation: floatUp var(--dur,6s) ease-in-out var(--delay,0s) infinite;
+      white-space: nowrap; user-select: none;
+    }
+    .ticker-cta {
+      position: relative; z-index: 10;
+      display: flex; flex-direction: column; align-items: center; gap: 16px;
+      text-align: center;
+      background: rgba(7,11,17,.72);
+      backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
+      border: 1px solid var(--border);
+      border-radius: 20px; padding: 36px 48px;
+      box-shadow: 0 0 60px rgba(26,188,219,.08), 0 24px 48px rgba(0,0,0,.4);
+    }
+    .ticker-cta-eyebrow {
+      display: inline-flex; align-items: center; gap: 6px;
+      background: var(--cyan-bg); border: 1px solid var(--cyan-dim);
+      color: var(--cyan); border-radius: 20px; padding: 4px 14px;
+      font-size: 10px; font-weight: 700; letter-spacing: .07em; text-transform: uppercase;
+    }
+    .ticker-cta h3 {
+      font-family: var(--fh); font-size: clamp(20px,3vw,28px);
+      font-weight: 800; letter-spacing: -.03em; color: var(--text); line-height: 1.2;
+    }
+    .ticker-cta p { font-size: 13px; color: var(--muted2); max-width: 340px; line-height: 1.6; }
+    .ticker-cta .cta-primary { margin-top: 4px; }
+
+    @media (max-width: 600px) {
+      .ticker-section { height: 300px; }
+      .ticker-cta { padding: 24px 22px; gap: 12px; border-radius: 14px; width: calc(100% - 40px); max-width: 340px; }
+      .ticker-cta h3 { font-size: 18px; }
+      .ticker-cta p { font-size: 12px; }
+      .ticker-float { font-size: 10px; }
+    }
 
     /* ── RESPONSIVE ── */
 
@@ -673,6 +717,19 @@
     <div class="stat-card"><span class="stat-card-val" id="lp-stat-clusters">—</span><span class="stat-card-lbl">Cluster Buys</span></div>
     <div class="stat-card"><span class="stat-card-val" id="lp-stat-value">—</span><span class="stat-card-lbl">Total Value</span></div>
     <div class="stat-card"><span class="stat-card-val" id="lp-stat-tickers">—</span><span class="stat-card-lbl">Tickers</span></div>
+  </div>
+</div>
+
+<!-- LIVE TICKER WALL -->
+<div class="ticker-section" id="ticker-section">
+  <div class="ticker-cta">
+    <div class="ticker-cta-eyebrow"><span class="live-dot"></span>Live Activity</div>
+    <h3>Smart Money Is Moving<br/>Right Now</h3>
+    <p>Insiders are filing trades in real time. Sign in free to see every purchase as it happens — with cluster buy alerts.</p>
+    <a href="login.html" class="cta-primary">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/><polyline points="10 17 15 12 10 7"/><line x1="15" y1="12" x2="3" y2="12"/></svg>
+      Sign In Free
+    </a>
   </div>
 </div>
 
@@ -915,10 +972,23 @@
   const obs=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');obs.unobserve(e.target)}}),{threshold:.1});
   document.querySelectorAll('.reveal,.stagger').forEach(el=>obs.observe(el));
 
-  /* Floating ticker fragments */
-  const frags=['AAPL $2.1M','MSFT CEO','NVDA +$850K','TSLA Dir','AMZN $1.4M','META CFO','GOOG $3.2M','JPM CEO','CLUSTER ⚡','FORM 4','SEC Filing','SEDI Buy'];
-  const hw=document.querySelector('.hero');
-  if(hw)frags.forEach((txt,i)=>{const el=document.createElement('div');el.className='hero-float';el.textContent=txt;el.style.cssText=`left:${8+Math.random()*84}%;bottom:${5+Math.random()*30}%;--dur:${4+Math.random()*4}s;--delay:${i*.6}s`;hw.appendChild(el)});
+  /* Floating ticker fragments — ticker section */
+  const frags=[
+    'AAPL $2.1M','MSFT CEO','NVDA +$850K','TSLA Dir','AMZN $1.4M','META CFO',
+    'GOOG $3.2M','JPM CEO','CLUSTER ⚡','FORM 4','SEC Filing','SEDI Buy',
+    'BRK.B $5M','AMD Dir','INTC CFO','ORCL $1.8M','CRM CEO','UBER $740K',
+    'NFLX Dir','WMT $2.3M','DIS CEO','BA CFO','GS $4.1M','V Dir'
+  ];
+  const ts=document.getElementById('ticker-section');
+  if(ts){
+    frags.forEach((txt,i)=>{
+      const el=document.createElement('div');
+      el.className='ticker-float';
+      el.textContent=txt;
+      el.style.cssText=`left:${2+Math.random()*92}%;bottom:${-5+Math.random()*20}%;--dur:${5+Math.random()*6}s;--delay:${i*0.45}s`;
+      ts.appendChild(el);
+    });
+  }
 })();
 </script>
 </body>
