@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-11T22:52:41Z",
-  "trade_count": 6426,
+  "last_updated": "2026-05-11T23:49:22Z",
+  "trade_count": 6430,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -102336,7 +102336,7 @@
       "owned": "125553",
       "delta_own": "+31%",
       "value": "521394",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-11",
@@ -102817,6 +102817,70 @@
       "delta_own": "+13%",
       "value": "409225",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-11",
+      "filing_time": "19:24",
+      "trade_date": "2026-05-07",
+      "ticker": "NCLH",
+      "company": "Norwegian Cruise Line Holdings Ltd.",
+      "insider_name": "Lansberry Kevin Allen",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "17.28",
+      "qty": "11400",
+      "owned": "20312",
+      "delta_own": "+128%",
+      "value": "196992",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-11",
+      "filing_time": "19:00",
+      "trade_date": "2026-05-07",
+      "ticker": "ATEC",
+      "company": "Alphatec Holdings, Inc.",
+      "insider_name": "Valentine Keith",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "7.38",
+      "qty": "135000",
+      "owned": "232271",
+      "delta_own": "+139%",
+      "value": "996192",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-11",
+      "filing_time": "18:53",
+      "trade_date": "2026-05-11",
+      "ticker": "PLSE",
+      "company": "Pulse Biosciences, Inc.",
+      "insider_name": "Laviolette Paul A",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "19.69",
+      "qty": "15000",
+      "owned": "15000",
+      "delta_own": "New",
+      "value": "295350",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-11",
+      "filing_time": "18:52",
+      "trade_date": "2026-05-11",
+      "ticker": "PLSE",
+      "company": "Pulse Biosciences, Inc.",
+      "insider_name": "Duggan Robert W",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "19.69",
+      "qty": "660233",
+      "owned": "49291731",
+      "delta_own": "+1%",
+      "value": "12999988",
+      "cluster_buy": true
     }
   ]
 }

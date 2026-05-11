@@ -6400,7 +6400,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-08,16:52,2026-05-07,OFIX,Orthofix Medical Inc.,Henneman John B III,Dir,P - Purchase,12.26,5000,90809,+6%,61295,True
 2026-05-08,18:48,2026-05-08,SMRT,"Smartrent, Inc.",Martell Frank,CEO,P - Purchase,1.12,50000,3065266,+2%,56220,False
 2026-05-11,08:34,2026-05-07,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,17.10,16577,18723255,0%,283392,False
-2026-05-11,08:00,2026-05-07,NCLH,Norwegian Cruise Line Holdings Ltd.,Byng-Thorne Zillah,Dir,P - Purchase,17.69,29467,125553,+31%,521394,False
+2026-05-11,08:00,2026-05-07,NCLH,Norwegian Cruise Line Holdings Ltd.,Byng-Thorne Zillah,Dir,P - Purchase,17.69,29467,125553,+31%,521394,True
 2026-05-11,11:51,2026-05-07,OTAI,Starlink Ai Acquisition Corp,Jkapital Ltd.,10%,P - Purchase,10.00,221500,3096500,+8%,2215000,False
 2026-05-11,10:38,2026-05-08,PFBX,Peoples Financial Corp /Ms/,Stilwell Joseph,10%,P - Purchase,21.25,2212,743525,0%,47005,True
 2026-05-11,13:28,2026-05-08,SR,Spire Inc,Koonce Paul D,Dir,P - Purchase,85.81,2000,14965,+15%,171620,False
@@ -6431,3 +6431,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-11,16:31,2026-05-08,PSN,Parsons Corp,Smith Carey A.,"Pres, CEO",P - Purchase,49.97,12500,580852,+2%,624645,False
 2026-05-11,16:31,2026-05-08,SEI,"Solaris Energy Infrastructure, Inc.",Teague Aj,Dir,P - Purchase,72.98,6175,120950,+5%,450652,False
 2026-05-11,18:36,2026-05-11,LW,"Lamb Weston Holdings, Inc.",Gray James D,CFO,P - Purchase,40.92,10000,84837,+13%,409225,False
+2026-05-11,19:24,2026-05-07,NCLH,Norwegian Cruise Line Holdings Ltd.,Lansberry Kevin Allen,Dir,P - Purchase,17.28,11400,20312,+128%,196992,True
+2026-05-11,19:00,2026-05-07,ATEC,"Alphatec Holdings, Inc.",Valentine Keith,Dir,P - Purchase,7.38,135000,232271,+139%,996192,False
+2026-05-11,18:53,2026-05-11,PLSE,"Pulse Biosciences, Inc.",Laviolette Paul A,CEO,P - Purchase,19.69,15000,15000,New,295350,True
+2026-05-11,18:52,2026-05-11,PLSE,"Pulse Biosciences, Inc.",Duggan Robert W,"Dir, 10%",P - Purchase,19.69,660233,49291731,+1%,12999988,True
