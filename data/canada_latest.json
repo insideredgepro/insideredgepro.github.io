@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-11T15:00:55Z",
-  "trade_count": 2989,
+  "last_updated": "2026-05-11T17:00:53Z",
+  "trade_count": 2993,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -44271,7 +44271,7 @@
       "value": "40550",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4711479",
@@ -45373,6 +45373,70 @@
       "qty": "25000",
       "price": "1.8088",
       "value": "45220",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4717541",
+      "trade_date": "2026-05-11",
+      "filing_date": "2026-05-11",
+      "company": "Eldorado Gold Corporation",
+      "ticker": "ELD",
+      "insider_name": "MYERSON, DANIEL",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "332",
+      "price": "48.2500",
+      "value": "16019",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4717527",
+      "trade_date": "2026-05-11",
+      "filing_date": "2026-05-11",
+      "company": "Fairfax India Holdings Corporation",
+      "ticker": "FIH-U",
+      "insider_name": "Watsa, Benjamin P.",
+      "title": "Director",
+      "security": "Subordinate Voting Shares",
+      "qty": "40000",
+      "price": "17.5500",
+      "value": "702000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4717468",
+      "trade_date": "2026-05-11",
+      "filing_date": "2026-05-11",
+      "company": "Gildan Activewear Inc.",
+      "ticker": "GIL",
+      "insider_name": "Khandelwal, Deepak Kumar",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "79.8000",
+      "value": "399000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4717471",
+      "trade_date": "2026-05-11",
+      "filing_date": "2026-05-11",
+      "company": "Osisko Metals Incorporated",
+      "ticker": "OM",
+      "insider_name": "Burzynski, John Feliks",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "83488",
+      "price": "1.7200",
+      "value": "143599",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
