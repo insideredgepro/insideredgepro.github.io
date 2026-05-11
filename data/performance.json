@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-11",
-  "entry_count": 936,
+  "entry_count": 948,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -4376,8 +4376,8 @@
         "2026-05-10": 1.58,
         "2026-05-11": 1.58
       },
-      "latest_price": 1.59,
-      "return_pct": 13.57,
+      "latest_price": 1.6,
+      "return_pct": 14.29,
       "last_snapshot": "2026-05-11"
     },
     {
@@ -7834,8 +7834,8 @@
         "2026-05-10": 1.58,
         "2026-05-11": 1.58
       },
-      "latest_price": 1.59,
-      "return_pct": 11.97,
+      "latest_price": 1.6,
+      "return_pct": 12.68,
       "last_snapshot": "2026-05-11"
     },
     {
@@ -30410,8 +30410,8 @@
         "2026-05-10": 2.54,
         "2026-05-11": 2.54
       },
-      "latest_price": 2.81,
-      "return_pct": 9.77,
+      "latest_price": 2.83,
+      "return_pct": 10.55,
       "last_snapshot": "2026-05-11"
     },
     {
@@ -40104,6 +40104,246 @@
       },
       "latest_price": 16.26,
       "return_pct": 1.63,
+      "last_snapshot": "2026-05-11"
+    },
+    {
+      "id": "US|COAG|2026-05-07|ra capital management, l.p.|24.75",
+      "market": "US",
+      "ticker": "COAG",
+      "yf_symbol": "COAG",
+      "company": "Hemab Therapeutics Holdings, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "10%",
+      "trade_date": "2026-05-07",
+      "trade_price": 24.75,
+      "value": 1268594.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-11": 25.0
+      },
+      "latest_price": 25.0,
+      "return_pct": 1.01,
+      "last_snapshot": "2026-05-11"
+    },
+    {
+      "id": "US|TXO|2026-05-08|adams william h iii|12.41",
+      "market": "US",
+      "ticker": "TXO",
+      "yf_symbol": "TXO",
+      "company": "Txo Partners, L.P.",
+      "insider_name": "Adams William H III",
+      "title": "Dir",
+      "trade_date": "2026-05-08",
+      "trade_price": 12.41,
+      "value": 124117.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-11": 12.5
+      },
+      "latest_price": 12.5,
+      "return_pct": 0.73,
+      "last_snapshot": "2026-05-11"
+    },
+    {
+      "id": "US|TXO|2026-05-07|simpson bob r|12.61",
+      "market": "US",
+      "ticker": "TXO",
+      "yf_symbol": "TXO",
+      "company": "Txo Partners, L.P.",
+      "insider_name": "Simpson Bob R",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-07",
+      "trade_price": 12.61,
+      "value": 9456496.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-11": 12.5
+      },
+      "latest_price": 12.5,
+      "return_pct": -0.87,
+      "last_snapshot": "2026-05-11"
+    },
+    {
+      "id": "US|ATRA|2026-05-07|ecor1 capital, llc|9.35",
+      "market": "US",
+      "ticker": "ATRA",
+      "yf_symbol": "ATRA",
+      "company": "Atara Biotherapeutics, Inc.",
+      "insider_name": "Ecor1 Capital, LLC",
+      "title": "10%",
+      "trade_date": "2026-05-07",
+      "trade_price": 9.35,
+      "value": 4744255.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-11": 8.78
+      },
+      "latest_price": 8.78,
+      "return_pct": -6.1,
+      "last_snapshot": "2026-05-11"
+    },
+    {
+      "id": "US|EVTC|2026-05-08|castrillo-salgado joaquin a.|22.74",
+      "market": "US",
+      "ticker": "EVTC",
+      "yf_symbol": "EVTC",
+      "company": "Evertec, Inc.",
+      "insider_name": "Castrillo-Salgado Joaquin A.",
+      "title": "Senior EVP, COO",
+      "trade_date": "2026-05-08",
+      "trade_price": 22.74,
+      "value": 454706.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-11": 23.02
+      },
+      "latest_price": 23.02,
+      "return_pct": 1.23,
+      "last_snapshot": "2026-05-11"
+    },
+    {
+      "id": "US|ACEL|2026-05-11|wardinski bruce d|11.55",
+      "market": "US",
+      "ticker": "ACEL",
+      "yf_symbol": "ACEL",
+      "company": "Accel Entertainment, Inc.",
+      "insider_name": "Wardinski Bruce D",
+      "title": "Dir",
+      "trade_date": "2026-05-11",
+      "trade_price": 11.55,
+      "value": 577500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-11": 11.55
+      },
+      "latest_price": 11.55,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-05-11"
+    },
+    {
+      "id": "US|EVTC|2026-05-07|rodriguez-gonzalez luis a|24.1",
+      "market": "US",
+      "ticker": "EVTC",
+      "yf_symbol": "EVTC",
+      "company": "Evertec, Inc.",
+      "insider_name": "Rodriguez-Gonzalez Luis A",
+      "title": "GC, EVP",
+      "trade_date": "2026-05-07",
+      "trade_price": 24.1,
+      "value": 409775.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-11": 23.02
+      },
+      "latest_price": 23.02,
+      "return_pct": -4.48,
+      "last_snapshot": "2026-05-11"
+    },
+    {
+      "id": "US|PLNT|2026-05-08|rathke frances g|46.21",
+      "market": "US",
+      "ticker": "PLNT",
+      "yf_symbol": "PLNT",
+      "company": "Planet Fitness, Inc.",
+      "insider_name": "Rathke Frances G",
+      "title": "Dir",
+      "trade_date": "2026-05-08",
+      "trade_price": 46.21,
+      "value": 231050.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-11": 48.4
+      },
+      "latest_price": 48.4,
+      "return_pct": 4.74,
+      "last_snapshot": "2026-05-11"
+    },
+    {
+      "id": "US|AVTR|2026-05-08|lucier gregory t|8.32",
+      "market": "US",
+      "ticker": "AVTR",
+      "yf_symbol": "AVTR",
+      "company": "Avantor, Inc.",
+      "insider_name": "Lucier Gregory T",
+      "title": "Dir",
+      "trade_date": "2026-05-08",
+      "trade_price": 8.32,
+      "value": 83200.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-11": 7.97
+      },
+      "latest_price": 7.97,
+      "return_pct": -4.21,
+      "last_snapshot": "2026-05-11"
+    },
+    {
+      "id": "US|LAW|2026-05-08|friedrichsen eric|3.97",
+      "market": "US",
+      "ticker": "LAW",
+      "yf_symbol": "LAW",
+      "company": "Cs Disco, Inc.",
+      "insider_name": "Friedrichsen Eric",
+      "title": "CEO",
+      "trade_date": "2026-05-08",
+      "trade_price": 3.97,
+      "value": 35730.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-11": 3.74
+      },
+      "latest_price": 3.74,
+      "return_pct": -5.79,
+      "last_snapshot": "2026-05-11"
+    },
+    {
+      "id": "US|PSN|2026-05-08|smith carey a.|49.97",
+      "market": "US",
+      "ticker": "PSN",
+      "yf_symbol": "PSN",
+      "company": "Parsons Corp",
+      "insider_name": "Smith Carey A.",
+      "title": "Pres, CEO",
+      "trade_date": "2026-05-08",
+      "trade_price": 49.97,
+      "value": 624645.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-11": 48.74
+      },
+      "latest_price": 48.74,
+      "return_pct": -2.46,
+      "last_snapshot": "2026-05-11"
+    },
+    {
+      "id": "US|SEI|2026-05-08|teague aj|72.98",
+      "market": "US",
+      "ticker": "SEI",
+      "yf_symbol": "SEI",
+      "company": "Solaris Energy Infrastructure, Inc.",
+      "insider_name": "Teague Aj",
+      "title": "Dir",
+      "trade_date": "2026-05-08",
+      "trade_price": 72.98,
+      "value": 450652.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-11": 74.66
+      },
+      "latest_price": 74.66,
+      "return_pct": 2.3,
       "last_snapshot": "2026-05-11"
     }
   ]

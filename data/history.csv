@@ -6331,7 +6331,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-05,17:02,2026-05-01,AWRE,Aware Inc /Ma/,Amlani Ajay K,"Pres, CEO",P - Purchase,1.16,29853,867894,+4%,34550,False
 2026-05-05,16:56,2026-05-05,RRBI,Red River Bancshares Inc,Price Teddy Ray,Dir,P - Purchase,85.79,1285,448880,0%,110243,False
 2026-05-05,16:54,2026-05-05,CLX,Clorox Co /De/,Breber Pierre R,Dir,P - Purchase,85.82,5000,18000,+38%,429124,False
-2026-05-05,19:44,2026-05-01,AVTR,"Avantor, Inc.",Dingemans Simon,Dir,P - Purchase,8.14,25000,31225,+402%,203500,False
+2026-05-05,19:44,2026-05-01,AVTR,"Avantor, Inc.",Dingemans Simon,Dir,P - Purchase,8.14,25000,31225,+402%,203500,True
 2026-05-06,06:16,2026-04-28,SVRE,Saverone 2014 Ltd.,"Visionwave Holdings, Inc.",Dir,P - Purchase,4.00,1538697600,2147483647,+14%,2147483647,False
 2026-05-06,07:56,2026-05-05,PATK,Patrick Industries Inc,Augsburger Blake,Dir,P - Purchase,85.19,400,2125,+23%,34076,True
 2026-05-06,07:55,2026-05-05,PATK,Patrick Industries Inc,Nemeth Andy L,CEO,P - Purchase,88.00,10000,287745,+4%,880000,True
@@ -6418,3 +6418,15 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-11,16:00,2026-05-07,OLED,Universal Display Corp Pa,Abramson Steven V,"Pres, CEO",P - Purchase,93.43,11000,296589,+4%,1027770,True
 2026-05-11,15:49,2026-05-07,AGBK,Agi Inc,Testa Marciano,"COB, CEO",P - Purchase,7.15,28000,28000,New,200264,False
 2026-05-11,14:58,2026-05-11,SOFI,"Sofi Technologies, Inc.",Noto Anthony,CEO,P - Purchase,16.00,15545,11946619,0%,248781,False
+2026-05-11,17:44,2026-05-07,COAG,"Hemab Therapeutics Holdings, Inc.","Ra Capital Management, L.P.",10%,P - Purchase,24.75,51258,7729773,+1%,1268594,False
+2026-05-11,17:39,2026-05-08,TXO,"Txo Partners, L.P.",Adams William H III,Dir,P - Purchase,12.41,10000,128951,+8%,124117,True
+2026-05-11,17:38,2026-05-07,TXO,"Txo Partners, L.P.",Simpson Bob R,"Dir, 10%",P - Purchase,12.61,750000,7500000,+11%,9456496,True
+2026-05-11,17:34,2026-05-07,ATRA,"Atara Biotherapeutics, Inc.","Ecor1 Capital, LLC",10%,P - Purchase,9.35,507407,1552000,+49%,4744255,False
+2026-05-11,17:17,2026-05-08,EVTC,"Evertec, Inc.",Castrillo-Salgado Joaquin A.,"Senior EVP, COO",P - Purchase,22.74,20000,143987,+16%,454706,True
+2026-05-11,17:15,2026-05-11,ACEL,"Accel Entertainment, Inc.",Wardinski Bruce D,Dir,P - Purchase,11.55,50000,50000,New,577500,False
+2026-05-11,17:14,2026-05-07,EVTC,"Evertec, Inc.",Rodriguez-Gonzalez Luis A,"GC, EVP",P - Purchase,24.10,17000,80907,+27%,409775,True
+2026-05-11,16:51,2026-05-08,PLNT,"Planet Fitness, Inc.",Rathke Frances G,Dir,P - Purchase,46.21,5000,33746,+17%,231050,False
+2026-05-11,16:39,2026-05-08,AVTR,"Avantor, Inc.",Lucier Gregory T,Dir,P - Purchase,8.32,10000,94006,+12%,83200,True
+2026-05-11,16:37,2026-05-08,LAW,"Cs Disco, Inc.",Friedrichsen Eric,CEO,P - Purchase,3.97,9000,1517172,+1%,35730,False
+2026-05-11,16:31,2026-05-08,PSN,Parsons Corp,Smith Carey A.,"Pres, CEO",P - Purchase,49.97,12500,580852,+2%,624645,False
+2026-05-11,16:31,2026-05-08,SEI,"Solaris Energy Infrastructure, Inc.",Teague Aj,Dir,P - Purchase,72.98,6175,120950,+5%,450652,False
