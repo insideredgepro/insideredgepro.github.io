@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-11T16:25:19Z",
-  "trade_count": 6398,
+  "last_updated": "2026-05-11T18:51:19Z",
+  "trade_count": 6400,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -102368,6 +102368,38 @@
       "owned": "743525",
       "delta_own": "0%",
       "value": "47005",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-11",
+      "filing_time": "13:28",
+      "trade_date": "2026-05-08",
+      "ticker": "SR",
+      "company": "Spire Inc",
+      "insider_name": "Koonce Paul D",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "85.81",
+      "qty": "2000",
+      "owned": "14965",
+      "delta_own": "+15%",
+      "value": "171620",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-11",
+      "filing_time": "13:03",
+      "trade_date": "2026-05-07",
+      "ticker": "MMSI",
+      "company": "Merit Medical Systems Inc",
+      "insider_name": "Lloyd Brian G.",
+      "title": "GC, Secretary",
+      "trade_type": "P - Purchase",
+      "price": "62.63",
+      "qty": "2000",
+      "owned": "64132",
+      "delta_own": "+3%",
+      "value": "125250",
       "cluster_buy": true
     }
   ]
