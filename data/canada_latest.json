@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-11T19:00:20Z",
-  "trade_count": 2996,
+  "last_updated": "2026-05-11T21:00:20Z",
+  "trade_count": 2997,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -45311,7 +45311,7 @@
       "value": "27500",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4716989",
@@ -45485,6 +45485,22 @@
       "qty": "54000",
       "price": "0.3000",
       "value": "16200",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4717670",
+      "trade_date": "2026-05-11",
+      "filing_date": "2026-05-11",
+      "company": "Zomedica Corp. (formerly Zomedica Pharmaceuticals Corp.)",
+      "ticker": "",
+      "insider_name": "Powers, Johnny",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "391129",
+      "price": "0.1130",
+      "value": "44197",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
