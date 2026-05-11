@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-11T21:00:20Z",
-  "trade_count": 2997,
+  "last_updated": "2026-05-11T23:00:23Z",
+  "trade_count": 3001,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -45504,6 +45504,70 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4717696",
+      "trade_date": "2026-05-11",
+      "filing_date": "2026-05-11",
+      "company": "ACT Energy Technologies Ltd.",
+      "ticker": "ACX",
+      "insider_name": "Adams, Daniel B.",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "7650",
+      "price": "6.5500",
+      "value": "50107",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4717706",
+      "trade_date": "2026-05-11",
+      "filing_date": "2026-05-11",
+      "company": "Ag Growth International Inc.",
+      "ticker": "AFN",
+      "insider_name": "Bhardwaj, Rohit",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "8500",
+      "price": "24.0000",
+      "value": "204000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4717685",
+      "trade_date": "2026-05-11",
+      "filing_date": "2026-05-11",
+      "company": "Fennec Pharmaceuticals Inc.",
+      "ticker": "FRX",
+      "insider_name": "Rallis, Chris Anigeron",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "14344",
+      "price": "2.4400",
+      "value": "34999",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4717705",
+      "trade_date": "2026-05-11",
+      "filing_date": "2026-05-11",
+      "company": "IAMGOLD Corporation",
+      "ticker": "IMG",
+      "insider_name": "Racine, Daniel",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "26.2840",
+      "value": "131420",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
