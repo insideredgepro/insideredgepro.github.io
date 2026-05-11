@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-11T21:58:18Z",
-  "trade_count": 6425,
+  "last_updated": "2026-05-11T22:52:41Z",
+  "trade_count": 6426,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -102800,6 +102800,22 @@
       "owned": "120950",
       "delta_own": "+5%",
       "value": "450652",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-11",
+      "filing_time": "18:36",
+      "trade_date": "2026-05-11",
+      "ticker": "LW",
+      "company": "Lamb Weston Holdings, Inc.",
+      "insider_name": "Gray James D",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "40.92",
+      "qty": "10000",
+      "owned": "84837",
+      "delta_own": "+13%",
+      "value": "409225",
       "cluster_buy": false
     }
   ]

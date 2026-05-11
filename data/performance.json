@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-11",
-  "entry_count": 948,
+  "entry_count": 949,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -40344,6 +40344,26 @@
       },
       "latest_price": 74.66,
       "return_pct": 2.3,
+      "last_snapshot": "2026-05-11"
+    },
+    {
+      "id": "US|LW|2026-05-11|gray james d|40.92",
+      "market": "US",
+      "ticker": "LW",
+      "yf_symbol": "LW",
+      "company": "Lamb Weston Holdings, Inc.",
+      "insider_name": "Gray James D",
+      "title": "CFO",
+      "trade_date": "2026-05-11",
+      "trade_price": 40.92,
+      "value": 409225.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-11": 40.34
+      },
+      "latest_price": 40.34,
+      "return_pct": -1.42,
       "last_snapshot": "2026-05-11"
     }
   ]
