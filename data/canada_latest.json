@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-12T13:00:22Z",
-  "trade_count": 3003,
+  "last_updated": "2026-05-12T15:00:26Z",
+  "trade_count": 3004,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -45597,6 +45597,22 @@
       "qty": "73000",
       "price": "0.3600",
       "value": "26280",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4717827",
+      "trade_date": "2026-05-12",
+      "filing_date": "2026-05-12",
+      "company": "Clarke Inc.",
+      "ticker": "CKI",
+      "insider_name": "Casey, Thomas Patrick Ellis",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "600",
+      "price": "27.0000",
+      "value": "16200",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
