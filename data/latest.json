@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-12T13:57:22Z",
-  "trade_count": 6456,
+  "last_updated": "2026-05-12T16:16:29Z",
+  "trade_count": 6458,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -98176,7 +98176,7 @@
       "owned": "69000",
       "delta_own": "+1%",
       "value": "64800",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-28",
@@ -98528,7 +98528,7 @@
       "owned": "70000",
       "delta_own": "+1%",
       "value": "63548",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-29",
@@ -103296,6 +103296,38 @@
       "owned": "49671",
       "delta_own": "+167%",
       "value": "501426",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-12",
+      "filing_time": "11:29",
+      "trade_date": "2026-05-11",
+      "ticker": "BHRB",
+      "company": "Burke & Herbert Financial Services Corp.",
+      "insider_name": "Barnwell Julian Forrest Jr.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "63.05",
+      "qty": "5000",
+      "owned": "406963",
+      "delta_own": "+1%",
+      "value": "315232",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-12",
+      "filing_time": "11:13",
+      "trade_date": "2026-05-11",
+      "ticker": "POR",
+      "company": "Portland General Electric Co /Or/",
+      "insider_name": "Hoglund Robert N",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "48.80",
+      "qty": "2000",
+      "owned": "2519",
+      "delta_own": "+385%",
+      "value": "97600",
       "cluster_buy": false
     }
   ]

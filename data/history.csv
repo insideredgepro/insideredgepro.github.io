@@ -6139,7 +6139,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-27,19:08,2026-04-23,IMDX,Insight Molecular Diagnostics Inc.,"Broadwood Partners, L.P.",10%,P - Purchase,3.56,570184,25369925,+2%,2032251,False
 2026-04-27,21:56,2026-04-22,GAME,"Gamesquare Holdings, Inc.","Blue & Silver Ventures, Ltd.",See Footnote (1),P - Purchase,0.59,2234364,3861736,+137%,1324436,False
 2026-04-28,11:03,2026-04-27,WSBC,Wesbanco Inc,Robinson Joseph R,Dir,P - Purchase,34.54,1000,19068,+6%,34544,True
-2026-04-28,12:08,2026-04-28,BHRB,Burke & Herbert Financial Services Corp.,McLaughlin Shawn Patrick,Dir,P - Purchase,64.80,1000,69000,+1%,64800,False
+2026-04-28,12:08,2026-04-28,BHRB,Burke & Herbert Financial Services Corp.,McLaughlin Shawn Patrick,Dir,P - Purchase,64.80,1000,69000,+1%,64800,True
 2026-04-28,15:14,2026-04-27,PEBO,Peoples Bancorp Inc,Smith Dwight Eric,Dir,P - Purchase,34.51,1000,9256,+12%,34510,False
 2026-04-28,16:30,2026-04-24,DKI,Darkiris Inc.,Hong Zhifang,"CEO, 10%",P - Purchase,0.35,1428571,6878171,+26%,500000,False
 2026-04-28,16:19,2026-04-28,CHTR,"Charter Communications, Inc. /Mo/",Nair Balan,Dir,P - Purchase,175.46,1000,12029,+9%,175460,True
@@ -6161,7 +6161,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-29,13:14,2026-04-27,SON,Sonoco Products Co,Harrell James A. III,Pres Global Ind. Paper Pkg.,P - Purchase,50.37,6753,70026,+11%,340183,True
 2026-04-29,16:50,2026-04-29,CXIIU,Churchill Capital Corp Xii,Klein Michael Stuart,"See Remarks, 10%",P - Purchase,10.00,350000,350000,New,3500000,False
 2026-04-29,16:46,2026-04-24,CBAN,Colony Bankcorp Inc,Canup Edward G,CHIEF BANKING OFFICER,P - Purchase,19.89,2000,39461,+5%,39770,False
-2026-04-29,16:38,2026-04-29,BHRB,Burke & Herbert Financial Services Corp.,McLaughlin Shawn Patrick,Dir,P - Purchase,63.55,1000,70000,+1%,63548,False
+2026-04-29,16:38,2026-04-29,BHRB,Burke & Herbert Financial Services Corp.,McLaughlin Shawn Patrick,Dir,P - Purchase,63.55,1000,70000,+1%,63548,True
 2026-04-29,16:19,2026-04-27,XE,"X-Energy, Inc.",Hyle Kathleen W,Dir,P - Purchase,23.00,10000,134162,+8%,230000,True
 2026-04-29,16:16,2026-04-28,CHTR,"Charter Communications, Inc. /Mo/",Davis Wade,Dir,P - Purchase,173.72,5728,6925,+479%,995068,True
 2026-04-29,16:16,2026-04-27,XE,"X-Energy, Inc.",Garcia Laura,Chief Accounting Officer,P - Purchase,23.00,1200,196822,+1%,27600,True
@@ -6461,3 +6461,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-12,09:27,2026-05-08,INFU,"Infusystem Holdings, Inc",Steele Barry G,"EVP, CFO",P - Purchase,8.71,7000,186180,+4%,60949,True
 2026-05-12,08:45,2026-05-01,CBKM,Consumers Bancorp Inc /Oh/,Gerzina Joseph A,Dir,P - Purchase,27.00,1500,6533,+30%,40500,False
 2026-05-12,08:22,2026-05-11,CAI,"Caris Life Sciences, Inc.",Vacirca Jeff L,Dir,P - Purchase,16.15,31050,49671,+167%,501426,False
+2026-05-12,11:29,2026-05-11,BHRB,Burke & Herbert Financial Services Corp.,Barnwell Julian Forrest Jr.,Dir,P - Purchase,63.05,5000,406963,+1%,315232,True
+2026-05-12,11:13,2026-05-11,POR,Portland General Electric Co /Or/,Hoglund Robert N,Dir,P - Purchase,48.80,2000,2519,+385%,97600,False
