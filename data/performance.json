@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-12",
-  "entry_count": 977,
+  "entry_count": 984,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -40827,6 +40827,146 @@
       },
       "latest_price": 10.74,
       "return_pct": 0.56,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|NSPR|2026-05-08|stuka paul|1.16",
+      "market": "US",
+      "ticker": "NSPR",
+      "yf_symbol": "NSPR",
+      "company": "Inspiremd, Inc.",
+      "insider_name": "Stuka Paul",
+      "title": "Dir",
+      "trade_date": "2026-05-08",
+      "trade_price": 1.16,
+      "value": 88026.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 1.2
+      },
+      "latest_price": 1.2,
+      "return_pct": 3.45,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|ZTS|2026-05-11|mccallister michael b|77.76",
+      "market": "US",
+      "ticker": "ZTS",
+      "yf_symbol": "ZTS",
+      "company": "Zoetis Inc.",
+      "insider_name": "McCallister Michael B",
+      "title": "Dir",
+      "trade_date": "2026-05-11",
+      "trade_price": 77.76,
+      "value": 233273.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 76.94
+      },
+      "latest_price": 76.94,
+      "return_pct": -1.05,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|MED|2026-05-08|schlackman scott|12.59",
+      "market": "US",
+      "ticker": "MED",
+      "yf_symbol": "MED",
+      "company": "Medifast Inc",
+      "insider_name": "Schlackman Scott",
+      "title": "Dir",
+      "trade_date": "2026-05-08",
+      "trade_price": 12.59,
+      "value": 62950.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 12.57
+      },
+      "latest_price": 12.57,
+      "return_pct": -0.16,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|IBP|2026-05-11|hilsheimer lawrence a.|206.22",
+      "market": "US",
+      "ticker": "IBP",
+      "yf_symbol": "IBP",
+      "company": "Installed Building Products, Inc.",
+      "insider_name": "Hilsheimer Lawrence A.",
+      "title": "Dir",
+      "trade_date": "2026-05-11",
+      "trade_price": 206.22,
+      "value": 97952.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 202.65
+      },
+      "latest_price": 202.65,
+      "return_pct": -1.73,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|IBP|2026-05-11|niswonger jason r|214.8",
+      "market": "US",
+      "ticker": "IBP",
+      "yf_symbol": "IBP",
+      "company": "Installed Building Products, Inc.",
+      "insider_name": "Niswonger Jason R",
+      "title": "Chief Admin., Sustainability",
+      "trade_date": "2026-05-11",
+      "trade_price": 214.8,
+      "value": 97734.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 202.65
+      },
+      "latest_price": 202.65,
+      "return_pct": -5.66,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|IBP|2026-05-11|miller michael thomas|207.82",
+      "market": "US",
+      "ticker": "IBP",
+      "yf_symbol": "IBP",
+      "company": "Installed Building Products, Inc.",
+      "insider_name": "Miller Michael Thomas",
+      "title": "EVP, CFO",
+      "trade_date": "2026-05-11",
+      "trade_price": 207.82,
+      "value": 498771.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 202.65
+      },
+      "latest_price": 202.65,
+      "return_pct": -2.49,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|IBP|2026-05-11|wheeler brad a|209.13",
+      "market": "US",
+      "ticker": "IBP",
+      "yf_symbol": "IBP",
+      "company": "Installed Building Products, Inc.",
+      "insider_name": "Wheeler Brad A",
+      "title": "COO",
+      "trade_date": "2026-05-11",
+      "trade_price": 209.13,
+      "value": 149737.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 202.65
+      },
+      "latest_price": 202.65,
+      "return_pct": -3.1,
       "last_snapshot": "2026-05-12"
     }
   ]
