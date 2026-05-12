@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-12",
-  "entry_count": 922,
+  "entry_count": 923,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -39727,6 +39727,26 @@
       },
       "latest_price": 8.88,
       "return_pct": 4.1,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|MOBI|2026-05-11|tansey casey m|15.0",
+      "market": "US",
+      "ticker": "MOBI",
+      "yf_symbol": "MOBI",
+      "company": "Mobia Medical, Inc.",
+      "insider_name": "Tansey Casey M",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-11",
+      "trade_price": 15.0,
+      "value": 999990.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 12.0
+      },
+      "latest_price": 12.0,
+      "return_pct": -20.0,
       "last_snapshot": "2026-05-12"
     }
   ]
