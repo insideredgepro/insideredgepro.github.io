@@ -6428,7 +6428,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-11,16:51,2026-05-08,PLNT,"Planet Fitness, Inc.",Rathke Frances G,Dir,P - Purchase,46.21,5000,33746,+17%,231050,False
 2026-05-11,16:39,2026-05-08,AVTR,"Avantor, Inc.",Lucier Gregory T,Dir,P - Purchase,8.32,10000,94006,+12%,83200,True
 2026-05-11,16:37,2026-05-08,LAW,"Cs Disco, Inc.",Friedrichsen Eric,CEO,P - Purchase,3.97,9000,1517172,+1%,35730,False
-2026-05-11,16:31,2026-05-08,PSN,Parsons Corp,Smith Carey A.,"Pres, CEO",P - Purchase,49.97,12500,580852,+2%,624645,False
+2026-05-11,16:31,2026-05-08,PSN,Parsons Corp,Smith Carey A.,"Pres, CEO",P - Purchase,49.97,12500,580852,+2%,624645,True
 2026-05-11,16:31,2026-05-08,SEI,"Solaris Energy Infrastructure, Inc.",Teague Aj,Dir,P - Purchase,72.98,6175,120950,+5%,450652,False
 2026-05-11,18:36,2026-05-11,LW,"Lamb Weston Holdings, Inc.",Gray James D,CFO,P - Purchase,40.92,10000,84837,+13%,409225,False
 2026-05-11,19:24,2026-05-07,NCLH,Norwegian Cruise Line Holdings Ltd.,Lansberry Kevin Allen,Dir,P - Purchase,17.28,11400,20312,+128%,196992,True
@@ -6443,7 +6443,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-11,21:21,2026-05-07,WGS,Genedx Holdings Corp.,Meister Keith A.,"Dir, 10%",P - Purchase,38.84,1205147,4786570,+34%,46806729,False
 2026-05-11,21:14,2026-05-11,DXC,Dxc Technology Co,Fernandez Raul J,"Pres, CEO",P - Purchase,8.90,28051,844052,+3%,249512,False
 2026-05-11,21:11,2026-05-11,ODTX,"Odyssey Therapeutics, Inc.","Sr One Capital Management, LLC",10%,P - Purchase,18.00,555555,3794883,+17%,9999990,True
-2026-05-11,20:38,2026-05-11,XRN,Chiron Real Estate Inc.,Crowley Paula,Dir,P - Purchase,34.00,1000,1000,New,34000,False
+2026-05-11,20:38,2026-05-11,XRN,Chiron Real Estate Inc.,Crowley Paula,Dir,P - Purchase,34.00,1000,1000,New,34000,True
 2026-05-11,20:35,2026-05-08,ODTX,"Odyssey Therapeutics, Inc.",Leiden Jeffrey M,Dir,P - Purchase,20.00,5000,301842,+2%,100000,True
 2026-05-11,20:30,2026-05-11,ODTX,"Odyssey Therapeutics, Inc.",Li Nan (Ln),Dir,P - Purchase,18.00,1111111,3333516,+50%,19999998,True
 2026-05-11,20:30,2026-05-11,LZ,"Legalzoom.Com, Inc.",Stibel Jeffrey M,CEO,P - Purchase,6.15,125000,9416736,+1%,768988,False
@@ -6480,3 +6480,28 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-12,16:02,2026-05-08,APTV,Aptiv Plc,Agnevall Hakan,Dir,P - Purchase,57.73,6100,13697,+80%,352153,False
 2026-05-12,16:00,2026-04-06,IOR,Income Opportunity Realty Investors Inc /Tx/,Transcontinental Realty Investors Inc,10%,P - Purchase,17.94,1649,3440529,0%,29583,False
 2026-05-12,14:51,2026-05-12,DMLP,"Dorchester Minerals, L.P.",Ehrman Bradley J,CEO,P - Purchase,26.78,4000,157915,+3%,107120,False
+2026-05-12,18:03,2026-05-11,PTLO,Portillo'S Inc.,Lee Eugene I Jr,Dir,P - Purchase,4.28,70165,559894,+14%,300306,False
+2026-05-12,17:44,2026-05-11,XRN,Chiron Real Estate Inc.,Kiernan Robert J,"CFO, Treasurer",P - Purchase,33.49,3000,6000,+100%,100470,True
+2026-05-12,17:43,2026-05-12,XRN,Chiron Real Estate Inc.,Holley Danica,COO,P - Purchase,33.99,1490,1590,>999%,50645,True
+2026-05-12,17:41,2026-05-12,XRN,Chiron Real Estate Inc.,Decker Mark Okey Jr,"CEO, Pres",P - Purchase,33.94,5000,63178,+9%,169700,True
+2026-05-12,17:37,2026-05-08,ODTX,"Odyssey Therapeutics, Inc.","Dimension Capital Ii, L.P.",Dir,P - Purchase,18.00,1111111,3333516,+50%,19999998,True
+2026-05-12,17:33,2026-05-08,J,Jacobs Solutions Inc.,Fernandez Manuel J,Dir,P - Purchase,121.93,403,12251,+3%,49137,False
+2026-05-12,17:32,2026-05-08,BOBS,"Bob'S Discount Furniture, Inc.",Barton William G,See Remarks,P - Purchase,13.55,22350,22850,>999%,302788,False
+2026-05-12,17:31,2026-05-08,MKTW,"Marketwise, Inc.",Stansberry Frank Porter,"Dir, 10%",P - Purchase,18.97,51375,301756,+21%,974582,False
+2026-05-12,17:29,2026-05-08,LILA,Liberty Latin America Ltd.,Nair Balan,"Pres, CEO",P - Purchase,8.07,20000,3147818,+1%,161490,False
+2026-05-12,17:22,2026-05-11,ADMA,"Adma Biologics, Inc.",Grossman Jerrold B,Dir,P - Purchase,8.01,12500,594091,+2%,100125,False
+2026-05-12,17:20,2026-05-08,AXIA,Axia Energia S.A.,Batista De Lima Filho Pedro,Dir,P - Purchase,11.90,3656500,5823238,+169%,43515365,False
+2026-05-12,17:12,2026-05-11,IRTC,"Irhythm Holdings, Inc.",Talwalkar Abhijit Y,Dir,P - Purchase,10.71,5312,20299,+35%,56892,False
+2026-05-12,17:02,2026-05-08,BSM,"Black Stone Minerals, L.P.",Carter Thomas L Jr,Exec COB,P - Purchase,13.42,67758,3681604,+2%,909335,False
+2026-05-12,17:01,2026-05-11,OPEN,Opendoor Technologies Inc.,Nejatian Kasra,CEO,P - Purchase,4.88,100000,83578299,0%,487800,False
+2026-05-12,16:49,2026-05-11,PSN,Parsons Corp,McMahon Harry T.,Dir,P - Purchase,49.14,10000,61582,+19%,491400,True
+2026-05-12,16:46,2026-05-12,BHRB,Burke & Herbert Financial Services Corp.,Riojas Jose David,Dir,P - Purchase,62.00,1300,31500,+4%,80600,True
+2026-05-12,16:35,2026-05-12,ADT,Adt Inc.,Ahmad Fawad,"EVP, Chief Oper, Cust. Officer",P - Purchase,6.75,7500,302334,+3%,50625,True
+2026-05-12,16:35,2026-05-08,ETN,Eaton Corp Plc,Johnson Gerald,Dir,P - Purchase,406.03,961,1629,+144%,390197,False
+2026-05-12,16:34,2026-05-11,ADT,Adt Inc.,Khan Omar,"EVP, Chief Business Officer",P - Purchase,6.88,7280,7280,New,50080,True
+2026-05-12,16:34,2026-05-08,ADT,Adt Inc.,Houston Daniel Joseph,Dir,P - Purchase,6.87,36450,74812,+95%,250412,True
+2026-05-12,16:34,2026-05-08,POOL,Pool Corp,Whalen David G,Dir,P - Purchase,190.44,525,8936,+6%,99981,True
+2026-05-12,16:33,2026-05-12,CVBF,Cvb Financial Corp,Borba George A Jr,Dir,P - Purchase,19.90,50242,7727576,+1%,999987,False
+2026-05-12,16:31,2026-05-08,OI,"O-I Glass, Inc. /De/",Burns Randolph L,"SVP, Chief Admin, Sus Officer",P - Purchase,9.32,11000,137931,+9%,102467,True
+2026-05-12,16:31,2026-05-11,OI,"O-I Glass, Inc. /De/",Abrahams Darrow A,"SVP, GC, Corporate Secretary",P - Purchase,9.04,2774,246137,+1%,25072,True
+2026-05-12,16:30,2026-05-11,SPOK,"Spok Holdings, Inc",Kelly Vincent D,"Pres, CEO",P - Purchase,10.68,10000,167565,+6%,106820,False

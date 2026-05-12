@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-12",
-  "entry_count": 952,
+  "entry_count": 977,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -25881,8 +25881,8 @@
         "2026-05-11": 1.74,
         "2026-05-12": 1.82
       },
-      "latest_price": 1.95,
-      "return_pct": 40.29,
+      "latest_price": 1.94,
+      "return_pct": 39.57,
       "last_snapshot": "2026-05-12"
     },
     {
@@ -40327,6 +40327,506 @@
       },
       "latest_price": 27.15,
       "return_pct": 1.38,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|PTLO|2026-05-11|lee eugene i jr|4.28",
+      "market": "US",
+      "ticker": "PTLO",
+      "yf_symbol": "PTLO",
+      "company": "Portillo'S Inc.",
+      "insider_name": "Lee Eugene I Jr",
+      "title": "Dir",
+      "trade_date": "2026-05-11",
+      "trade_price": 4.28,
+      "value": 300306.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 4.05
+      },
+      "latest_price": 4.05,
+      "return_pct": -5.37,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|XRN|2026-05-11|kiernan robert j|33.49",
+      "market": "US",
+      "ticker": "XRN",
+      "yf_symbol": "XRN",
+      "company": "Chiron Real Estate Inc.",
+      "insider_name": "Kiernan Robert J",
+      "title": "CFO, Treasurer",
+      "trade_date": "2026-05-11",
+      "trade_price": 33.49,
+      "value": 100470.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 34.11
+      },
+      "latest_price": 34.11,
+      "return_pct": 1.85,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|XRN|2026-05-12|holley danica|33.99",
+      "market": "US",
+      "ticker": "XRN",
+      "yf_symbol": "XRN",
+      "company": "Chiron Real Estate Inc.",
+      "insider_name": "Holley Danica",
+      "title": "COO",
+      "trade_date": "2026-05-12",
+      "trade_price": 33.99,
+      "value": 50645.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 34.11
+      },
+      "latest_price": 34.11,
+      "return_pct": 0.35,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|XRN|2026-05-12|decker mark okey jr|33.94",
+      "market": "US",
+      "ticker": "XRN",
+      "yf_symbol": "XRN",
+      "company": "Chiron Real Estate Inc.",
+      "insider_name": "Decker Mark Okey Jr",
+      "title": "CEO, Pres",
+      "trade_date": "2026-05-12",
+      "trade_price": 33.94,
+      "value": 169700.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 34.11
+      },
+      "latest_price": 34.11,
+      "return_pct": 0.5,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|ODTX|2026-05-08|dimension capital ii, l.p.|18.0",
+      "market": "US",
+      "ticker": "ODTX",
+      "yf_symbol": "ODTX",
+      "company": "Odyssey Therapeutics, Inc.",
+      "insider_name": "Dimension Capital Ii, L.P.",
+      "title": "Dir",
+      "trade_date": "2026-05-08",
+      "trade_price": 18.0,
+      "value": 19999998.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 17.9
+      },
+      "latest_price": 17.9,
+      "return_pct": -0.56,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|J|2026-05-08|fernandez manuel j|121.93",
+      "market": "US",
+      "ticker": "J",
+      "yf_symbol": "J",
+      "company": "Jacobs Solutions Inc.",
+      "insider_name": "Fernandez Manuel J",
+      "title": "Dir",
+      "trade_date": "2026-05-08",
+      "trade_price": 121.93,
+      "value": 49137.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 114.15
+      },
+      "latest_price": 114.15,
+      "return_pct": -6.38,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|BOBS|2026-05-08|barton william g|13.55",
+      "market": "US",
+      "ticker": "BOBS",
+      "yf_symbol": "BOBS",
+      "company": "Bob'S Discount Furniture, Inc.",
+      "insider_name": "Barton William G",
+      "title": "See Remarks",
+      "trade_date": "2026-05-08",
+      "trade_price": 13.55,
+      "value": 302788.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 12.47
+      },
+      "latest_price": 12.47,
+      "return_pct": -7.97,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|MKTW|2026-05-08|stansberry frank porter|18.97",
+      "market": "US",
+      "ticker": "MKTW",
+      "yf_symbol": "MKTW",
+      "company": "Marketwise, Inc.",
+      "insider_name": "Stansberry Frank Porter",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-08",
+      "trade_price": 18.97,
+      "value": 974582.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 18.06
+      },
+      "latest_price": 18.06,
+      "return_pct": -4.8,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|LILA|2026-05-08|nair balan|8.07",
+      "market": "US",
+      "ticker": "LILA",
+      "yf_symbol": "LILA",
+      "company": "Liberty Latin America Ltd.",
+      "insider_name": "Nair Balan",
+      "title": "Pres, CEO",
+      "trade_date": "2026-05-08",
+      "trade_price": 8.07,
+      "value": 161490.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 7.41
+      },
+      "latest_price": 7.41,
+      "return_pct": -8.18,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|ADMA|2026-05-11|grossman jerrold b|8.01",
+      "market": "US",
+      "ticker": "ADMA",
+      "yf_symbol": "ADMA",
+      "company": "Adma Biologics, Inc.",
+      "insider_name": "Grossman Jerrold B",
+      "title": "Dir",
+      "trade_date": "2026-05-11",
+      "trade_price": 8.01,
+      "value": 100125.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 8.41
+      },
+      "latest_price": 8.41,
+      "return_pct": 4.99,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|AXIA|2026-05-08|batista de lima filho pedro|11.9",
+      "market": "US",
+      "ticker": "AXIA",
+      "yf_symbol": "AXIA",
+      "company": "Axia Energia S.A.",
+      "insider_name": "Batista De Lima Filho Pedro",
+      "title": "Dir",
+      "trade_date": "2026-05-08",
+      "trade_price": 11.9,
+      "value": 43515365.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 11.74
+      },
+      "latest_price": 11.74,
+      "return_pct": -1.34,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|IRTC|2026-05-11|talwalkar abhijit y|10.71",
+      "market": "US",
+      "ticker": "IRTC",
+      "yf_symbol": "IRTC",
+      "company": "Irhythm Holdings, Inc.",
+      "insider_name": "Talwalkar Abhijit Y",
+      "title": "Dir",
+      "trade_date": "2026-05-11",
+      "trade_price": 10.71,
+      "value": 56892.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 118.31
+      },
+      "latest_price": 118.31,
+      "return_pct": 1004.67,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|BSM|2026-05-08|carter thomas l jr|13.42",
+      "market": "US",
+      "ticker": "BSM",
+      "yf_symbol": "BSM",
+      "company": "Black Stone Minerals, L.P.",
+      "insider_name": "Carter Thomas L Jr",
+      "title": "Exec COB",
+      "trade_date": "2026-05-08",
+      "trade_price": 13.42,
+      "value": 909335.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 13.52
+      },
+      "latest_price": 13.52,
+      "return_pct": 0.75,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|OPEN|2026-05-11|nejatian kasra|4.88",
+      "market": "US",
+      "ticker": "OPEN",
+      "yf_symbol": "OPEN",
+      "company": "Opendoor Technologies Inc.",
+      "insider_name": "Nejatian Kasra",
+      "title": "CEO",
+      "trade_date": "2026-05-11",
+      "trade_price": 4.88,
+      "value": 487800.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 4.71
+      },
+      "latest_price": 4.71,
+      "return_pct": -3.48,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|PSN|2026-05-11|mcmahon harry t.|49.14",
+      "market": "US",
+      "ticker": "PSN",
+      "yf_symbol": "PSN",
+      "company": "Parsons Corp",
+      "insider_name": "McMahon Harry T.",
+      "title": "Dir",
+      "trade_date": "2026-05-11",
+      "trade_price": 49.14,
+      "value": 491400.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 52.7
+      },
+      "latest_price": 52.7,
+      "return_pct": 7.24,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|BHRB|2026-05-12|riojas jose david|62.0",
+      "market": "US",
+      "ticker": "BHRB",
+      "yf_symbol": "BHRB",
+      "company": "Burke & Herbert Financial Services Corp.",
+      "insider_name": "Riojas Jose David",
+      "title": "Dir",
+      "trade_date": "2026-05-12",
+      "trade_price": 62.0,
+      "value": 80600.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 62.33
+      },
+      "latest_price": 62.33,
+      "return_pct": 0.53,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|ADT|2026-05-12|ahmad fawad|6.75",
+      "market": "US",
+      "ticker": "ADT",
+      "yf_symbol": "ADT",
+      "company": "Adt Inc.",
+      "insider_name": "Ahmad Fawad",
+      "title": "EVP, Chief Oper, Cust. Officer",
+      "trade_date": "2026-05-12",
+      "trade_price": 6.75,
+      "value": 50625.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 6.82
+      },
+      "latest_price": 6.82,
+      "return_pct": 1.04,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|ETN|2026-05-08|johnson gerald|406.03",
+      "market": "US",
+      "ticker": "ETN",
+      "yf_symbol": "ETN",
+      "company": "Eaton Corp Plc",
+      "insider_name": "Johnson Gerald",
+      "title": "Dir",
+      "trade_date": "2026-05-08",
+      "trade_price": 406.03,
+      "value": 390197.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 401.53
+      },
+      "latest_price": 401.53,
+      "return_pct": -1.11,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|ADT|2026-05-11|khan omar|6.88",
+      "market": "US",
+      "ticker": "ADT",
+      "yf_symbol": "ADT",
+      "company": "Adt Inc.",
+      "insider_name": "Khan Omar",
+      "title": "EVP, Chief Business Officer",
+      "trade_date": "2026-05-11",
+      "trade_price": 6.88,
+      "value": 50080.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 6.82
+      },
+      "latest_price": 6.82,
+      "return_pct": -0.87,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|ADT|2026-05-08|houston daniel joseph|6.87",
+      "market": "US",
+      "ticker": "ADT",
+      "yf_symbol": "ADT",
+      "company": "Adt Inc.",
+      "insider_name": "Houston Daniel Joseph",
+      "title": "Dir",
+      "trade_date": "2026-05-08",
+      "trade_price": 6.87,
+      "value": 250412.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 6.82
+      },
+      "latest_price": 6.82,
+      "return_pct": -0.73,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|POOL|2026-05-08|whalen david g|190.44",
+      "market": "US",
+      "ticker": "POOL",
+      "yf_symbol": "POOL",
+      "company": "Pool Corp",
+      "insider_name": "Whalen David G",
+      "title": "Dir",
+      "trade_date": "2026-05-08",
+      "trade_price": 190.44,
+      "value": 99981.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 182.33
+      },
+      "latest_price": 182.33,
+      "return_pct": -4.26,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|CVBF|2026-05-12|borba george a jr|19.9",
+      "market": "US",
+      "ticker": "CVBF",
+      "yf_symbol": "CVBF",
+      "company": "Cvb Financial Corp",
+      "insider_name": "Borba George A Jr",
+      "title": "Dir",
+      "trade_date": "2026-05-12",
+      "trade_price": 19.9,
+      "value": 999987.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 19.84
+      },
+      "latest_price": 19.84,
+      "return_pct": -0.3,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|OI|2026-05-08|burns randolph l|9.32",
+      "market": "US",
+      "ticker": "OI",
+      "yf_symbol": "OI",
+      "company": "O-I Glass, Inc. /De/",
+      "insider_name": "Burns Randolph L",
+      "title": "SVP, Chief Admin, Sus Officer",
+      "trade_date": "2026-05-08",
+      "trade_price": 9.32,
+      "value": 102467.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 8.78
+      },
+      "latest_price": 8.78,
+      "return_pct": -5.79,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|OI|2026-05-11|abrahams darrow a|9.04",
+      "market": "US",
+      "ticker": "OI",
+      "yf_symbol": "OI",
+      "company": "O-I Glass, Inc. /De/",
+      "insider_name": "Abrahams Darrow A",
+      "title": "SVP, GC, Corporate Secretary",
+      "trade_date": "2026-05-11",
+      "trade_price": 9.04,
+      "value": 25072.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 8.78
+      },
+      "latest_price": 8.78,
+      "return_pct": -2.88,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|SPOK|2026-05-11|kelly vincent d|10.68",
+      "market": "US",
+      "ticker": "SPOK",
+      "yf_symbol": "SPOK",
+      "company": "Spok Holdings, Inc",
+      "insider_name": "Kelly Vincent D",
+      "title": "Pres, CEO",
+      "trade_date": "2026-05-11",
+      "trade_price": 10.68,
+      "value": 106820.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 10.74
+      },
+      "latest_price": 10.74,
+      "return_pct": 0.56,
       "last_snapshot": "2026-05-12"
     }
   ]
