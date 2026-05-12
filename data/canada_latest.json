@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-12T01:00:22Z",
-  "trade_count": 3002,
+  "last_updated": "2026-05-12T03:00:23Z",
+  "trade_count": 3003,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -45581,6 +45581,22 @@
       "qty": "200000",
       "price": "0.4500",
       "value": "90000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4717776",
+      "trade_date": "2026-05-11",
+      "filing_date": "2026-05-11",
+      "company": "Comet Lithium Corporation",
+      "ticker": "CLIC",
+      "insider_name": "Champagne, Sylvain",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "73000",
+      "price": "0.3600",
+      "value": "26280",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
