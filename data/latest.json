@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-12T16:16:29Z",
-  "trade_count": 6458,
+  "last_updated": "2026-05-12T18:51:12Z",
+  "trade_count": 6459,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -103328,6 +103328,22 @@
       "owned": "2519",
       "delta_own": "+385%",
       "value": "97600",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-12",
+      "filing_time": "14:05",
+      "trade_date": "2026-05-12",
+      "ticker": "CUBI",
+      "company": "Customers Bancorp, Inc.",
+      "insider_name": "Sidhu Samvir S.",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "72.58",
+      "qty": "1000",
+      "owned": "523949",
+      "delta_own": "0%",
+      "value": "72578",
       "cluster_buy": false
     }
   ]
