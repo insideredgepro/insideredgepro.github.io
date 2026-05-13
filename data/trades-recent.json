@@ -497,7 +497,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS Brokerage Account",
-    "scraped_at": "2026-05-13T12:31:31.656737+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420074+00:00"
   },
   {
     "id": "20003797668",
@@ -518,7 +518,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS IRA Account",
-    "scraped_at": "2026-05-13T12:31:31.656745+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420079+00:00"
   },
   {
     "id": "20003797592",
@@ -560,7 +560,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656698+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420054+00:00"
   },
   {
     "id": "20003797665",
@@ -581,7 +581,7 @@
     "amount": "$5M\u2013$25M",
     "owner": "Spouse",
     "comment": "Description: Spouse awarded RSUs as part of total comp package",
-    "scraped_at": "2026-05-13T12:31:31.656719+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420065+00:00"
   },
   {
     "id": "20003797791",
@@ -749,7 +749,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656877+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420148+00:00"
   },
   {
     "id": "20003797745",
@@ -770,7 +770,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656982+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420216+00:00"
   },
   {
     "id": "20003797772",
@@ -791,7 +791,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657224+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420339+00:00"
   },
   {
     "id": "20003797776",
@@ -812,7 +812,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657296+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420355+00:00"
   },
   {
     "id": "20003797789",
@@ -962,6 +962,216 @@
     "scraped_at": "2026-05-11T11:20:47.629652+00:00"
   },
   {
+    "id": "20003797816",
+    "politician_name": "Charles Fleischmann",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "GLOBAL X DEFENSE TECH ETF",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-28",
+    "trade_published": "2026-05-13",
+    "filed_after_days": "14",
+    "price": "$67.11",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-05-13T15:33:54.419907+00:00"
+  },
+  {
+    "id": "20003797817",
+    "politician_name": "Charles Fleischmann",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "iShares 3-7 Year Treasury Bond ETF",
+    "ticker": "IEI:US",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-28",
+    "trade_published": "2026-05-13",
+    "filed_after_days": "14",
+    "price": "$118.44",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-05-13T15:33:54.419915+00:00"
+  },
+  {
+    "id": "20003797818",
+    "politician_name": "Charles Fleischmann",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "ISHARES BB RAT CORP BOND ETF",
+    "ticker": "HYBB:US",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-28",
+    "trade_published": "2026-05-13",
+    "filed_after_days": "14",
+    "price": "$46.90",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-05-13T15:33:54.419920+00:00"
+  },
+  {
+    "id": "20003797819",
+    "politician_name": "Charles Fleischmann",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "SPDR Portfolio Developed World ex-US ETF",
+    "ticker": "SPDW:US",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-28",
+    "trade_published": "2026-05-13",
+    "filed_after_days": "14",
+    "price": "$48.19",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-05-13T15:33:54.419927+00:00"
+  },
+  {
+    "id": "20003797820",
+    "politician_name": "Charles Fleischmann",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "STATE STREET SPDR MOT BKD BD",
+    "ticker": "SPMB:US",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-28",
+    "trade_published": "2026-05-13",
+    "filed_after_days": "14",
+    "price": "$22.41",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-05-13T15:33:54.419933+00:00"
+  },
+  {
+    "id": "20003797821",
+    "politician_name": "Charles Fleischmann",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "SPDR Portfolio S&P 500 Growth ETF",
+    "ticker": "SPYG:US",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-28",
+    "trade_published": "2026-05-13",
+    "filed_after_days": "14",
+    "price": "$111.82",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-05-13T15:33:54.419938+00:00"
+  },
+  {
+    "id": "20003797822",
+    "politician_name": "Charles Fleischmann",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "SPDR Series Trust - SPDR Portfolio S&P 500 Value ETF",
+    "ticker": "SPYV:US",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-28",
+    "trade_published": "2026-05-13",
+    "filed_after_days": "14",
+    "price": "$58.98",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-05-13T15:33:54.419952+00:00"
+  },
+  {
+    "id": "20003797823",
+    "politician_name": "Charles Fleischmann",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "SPDR S&P 500 ETF Trust",
+    "ticker": "SPY:US",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-28",
+    "trade_published": "2026-05-13",
+    "filed_after_days": "14",
+    "price": "$711.69",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-05-13T15:33:54.419959+00:00"
+  },
+  {
+    "id": "20003797824",
+    "politician_name": "Charles Fleischmann",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "The Select Sector SPDR Trust - The Energy Select Sector SPDR Fund",
+    "ticker": "XLE:US",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-28",
+    "trade_published": "2026-05-13",
+    "filed_after_days": "14",
+    "price": "$57.71",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-05-13T15:33:54.419966+00:00"
+  },
+  {
+    "id": "20003797825",
+    "politician_name": "Charles Fleischmann",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "VANGUARD ALL EQUITY ETF",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-28",
+    "trade_published": "2026-05-13",
+    "filed_after_days": "14",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-05-13T15:33:54.419970+00:00"
+  },
+  {
     "id": "20003797750",
     "politician_name": "Michael McCaul",
     "party": "Republican",
@@ -980,7 +1190,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657027+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420240+00:00"
   },
   {
     "id": "20003797765",
@@ -1001,7 +1211,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657159+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420306+00:00"
   },
   {
     "id": "20003797767",
@@ -1022,7 +1232,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657177+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420318+00:00"
   },
   {
     "id": "20003797771",
@@ -1043,7 +1253,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657215+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420333+00:00"
   },
   {
     "id": "20003797521",
@@ -1085,7 +1295,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656974+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420212+00:00"
   },
   {
     "id": "20003797752",
@@ -1106,7 +1316,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657046+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420249+00:00"
   },
   {
     "id": "20003797753",
@@ -1127,7 +1337,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657053+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420253+00:00"
   },
   {
     "id": "20003797778",
@@ -1148,7 +1358,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657317+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420368+00:00"
   },
   {
     "id": "20003797790",
@@ -1400,7 +1610,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS IRA Account",
-    "scraped_at": "2026-05-13T12:31:31.656802+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420107+00:00"
   },
   {
     "id": "20003797731",
@@ -1421,7 +1631,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656869+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420143+00:00"
   },
   {
     "id": "20003797743",
@@ -1442,7 +1652,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656967+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420208+00:00"
   },
   {
     "id": "20003797770",
@@ -1463,7 +1673,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657206+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420329+00:00"
   },
   {
     "id": "20003797796",
@@ -1631,7 +1841,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656640+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420026+00:00"
   },
   {
     "id": "10000064974",
@@ -1652,7 +1862,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656652+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420032+00:00"
   },
   {
     "id": "10000064975",
@@ -1673,7 +1883,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656666+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420038+00:00"
   },
   {
     "id": "20003797738",
@@ -1694,7 +1904,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656927+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420186+00:00"
   },
   {
     "id": "20003797746",
@@ -1715,7 +1925,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656990+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420221+00:00"
   },
   {
     "id": "20003797751",
@@ -1736,7 +1946,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657038+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420245+00:00"
   },
   {
     "id": "20003797768",
@@ -1757,7 +1967,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657188+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420322+00:00"
   },
   {
     "id": "20003797786",
@@ -1946,7 +2156,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS Brokerage Account",
-    "scraped_at": "2026-05-13T12:31:31.656809+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420112+00:00"
   },
   {
     "id": "20003797676",
@@ -1967,7 +2177,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS IRA Account",
-    "scraped_at": "2026-05-13T12:31:31.656819+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420116+00:00"
   },
   {
     "id": "20003797782",
@@ -2156,7 +2366,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS IRA Account",
-    "scraped_at": "2026-05-13T12:31:31.656786+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420099+00:00"
   },
   {
     "id": "20003797673",
@@ -2177,7 +2387,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS Brokerage Account",
-    "scraped_at": "2026-05-13T12:31:31.656794+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420103+00:00"
   },
   {
     "id": "20003797749",
@@ -2198,7 +2408,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657019+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420236+00:00"
   },
   {
     "id": "20003797754",
@@ -2219,7 +2429,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657063+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420258+00:00"
   },
   {
     "id": "20003797756",
@@ -2240,7 +2450,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657079+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420266+00:00"
   },
   {
     "id": "20003797764",
@@ -2261,7 +2471,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657150+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420302+00:00"
   },
   {
     "id": "20003797766",
@@ -2282,7 +2492,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657168+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420312+00:00"
   },
   {
     "id": "20003797551",
@@ -2348,6 +2558,27 @@
     "scraped_at": "2026-05-01T14:13:21.187429+00:00"
   },
   {
+    "id": "20003797815",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "American Tower Corp",
+    "ticker": "AMT:US",
+    "sector": "real-estate",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-17",
+    "trade_published": "2026-05-13",
+    "filed_after_days": "25",
+    "price": "$182.36",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-05-13T15:33:54.419883+00:00"
+  },
+  {
     "id": "20003797666",
     "politician_name": "Maria Elvira Salazar",
     "party": "Republican",
@@ -2366,7 +2597,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS Brokerage Account",
-    "scraped_at": "2026-05-13T12:31:31.656728+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420069+00:00"
   },
   {
     "id": "20003797670",
@@ -2387,7 +2618,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS Brokerage Account",
-    "scraped_at": "2026-05-13T12:31:31.656768+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420088+00:00"
   },
   {
     "id": "20003797747",
@@ -2408,7 +2639,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656998+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420226+00:00"
   },
   {
     "id": "20003797757",
@@ -2429,7 +2660,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657086+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420272+00:00"
   },
   {
     "id": "20003797761",
@@ -2450,7 +2681,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657124+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420290+00:00"
   },
   {
     "id": "20003797762",
@@ -2471,7 +2702,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657131+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420294+00:00"
   },
   {
     "id": "20003797779",
@@ -2492,7 +2723,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657326+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420374+00:00"
   },
   {
     "id": "20003797800",
@@ -2765,7 +2996,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Thomas Suozzi IRA FBO Thomas Suozzi",
-    "scraped_at": "2026-05-13T12:31:31.656682+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420046+00:00"
   },
   {
     "id": "20003797737",
@@ -2786,7 +3017,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656916+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420182+00:00"
   },
   {
     "id": "20003797702",
@@ -3059,7 +3290,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656884+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420152+00:00"
   },
   {
     "id": "20003797780",
@@ -3080,7 +3311,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657335+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420378+00:00"
   },
   {
     "id": "20003797692",
@@ -3626,7 +3857,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS Brokerage Account",
-    "scraped_at": "2026-05-13T12:31:31.656826+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420122+00:00"
   },
   {
     "id": "20003797758",
@@ -3647,7 +3878,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657096+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420276+00:00"
   },
   {
     "id": "20003797769",
@@ -3668,7 +3899,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657196+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420325+00:00"
   },
   {
     "id": "20003797695",
@@ -4403,7 +4634,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656890+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420156+00:00"
   },
   {
     "id": "20003797784",
@@ -4844,7 +5075,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657305+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420362+00:00"
   },
   {
     "id": "20003797787",
@@ -4991,7 +5222,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Thomas Suozzi IRA FBO Thomas Suozzi",
-    "scraped_at": "2026-05-13T12:31:31.656674+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420042+00:00"
   },
   {
     "id": "20003797728",
@@ -5012,7 +5243,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656844+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420132+00:00"
   },
   {
     "id": "20003797741",
@@ -5033,7 +5264,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656949+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420198+00:00"
   },
   {
     "id": "20003797742",
@@ -5054,7 +5285,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656957+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420203+00:00"
   },
   {
     "id": "20003797774",
@@ -5075,7 +5306,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657241+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420347+00:00"
   },
   {
     "id": "20003797686",
@@ -5411,7 +5642,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656852+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420135+00:00"
   },
   {
     "id": "20003797735",
@@ -5432,7 +5663,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656897+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420160+00:00"
   },
   {
     "id": "20003797739",
@@ -5453,7 +5684,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656935+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420190+00:00"
   },
   {
     "id": "20003797773",
@@ -5474,7 +5705,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657232+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420343+00:00"
   },
   {
     "id": "20003797785",
@@ -5978,7 +6209,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: National Securities- Advisor Discretion Account",
-    "scraped_at": "2026-05-13T12:31:31.656689+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420050+00:00"
   },
   {
     "id": "20003797730",
@@ -5999,7 +6230,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656859+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420139+00:00"
   },
   {
     "id": "20003797736",
@@ -6020,7 +6251,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656904+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420163+00:00"
   },
   {
     "id": "20003797763",
@@ -6041,7 +6272,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657139+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420298+00:00"
   },
   {
     "id": "20003797799",
@@ -6377,7 +6608,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS Brokerage Account",
-    "scraped_at": "2026-05-13T12:31:31.656757+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420084+00:00"
   },
   {
     "id": "20003797671",
@@ -6398,7 +6629,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS Brokerage Account",
-    "scraped_at": "2026-05-13T12:31:31.656777+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420094+00:00"
   },
   {
     "id": "20003797755",
@@ -6419,7 +6650,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657071+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420262+00:00"
   },
   {
     "id": "20003797781",
@@ -6608,7 +6839,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656941+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420194+00:00"
   },
   {
     "id": "20003797759",
@@ -6629,7 +6860,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657108+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420280+00:00"
   },
   {
     "id": "20003797783",
@@ -6776,7 +7007,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656706+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420058+00:00"
   },
   {
     "id": "20003797748",
@@ -6797,7 +7028,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657011+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420232+00:00"
   },
   {
     "id": "20003797760",
@@ -6818,7 +7049,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657116+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420285+00:00"
   },
   {
     "id": "20003797775",
@@ -6839,7 +7070,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.657286+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420351+00:00"
   },
   {
     "id": "20003797792",
@@ -7028,7 +7259,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656834+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420128+00:00"
   },
   {
     "id": "20003797455",
@@ -8099,7 +8330,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "Description: Spouse awarded RSUs as part of total comp package",
-    "scraped_at": "2026-05-13T12:31:31.656503+00:00"
+    "scraped_at": "2026-05-13T15:33:54.419975+00:00"
   },
   {
     "id": "10000064919",
@@ -65744,7 +65975,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656622+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420017+00:00"
   },
   {
     "id": "10000064976",
@@ -65765,7 +65996,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656556+00:00"
+    "scraped_at": "2026-05-13T15:33:54.419992+00:00"
   },
   {
     "id": "10000064977",
@@ -65786,7 +66017,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656567+00:00"
+    "scraped_at": "2026-05-13T15:33:54.419996+00:00"
   },
   {
     "id": "10000064978",
@@ -65807,7 +66038,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656580+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420002+00:00"
   },
   {
     "id": "10000064979",
@@ -65828,7 +66059,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656590+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420007+00:00"
   },
   {
     "id": "20003796426",
@@ -65870,7 +66101,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656611+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420013+00:00"
   },
   {
     "id": "10000064982",
@@ -65891,7 +66122,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656631+00:00"
+    "scraped_at": "2026-05-13T15:33:54.420022+00:00"
   },
   {
     "id": "20003796457",
@@ -66038,7 +66269,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656532+00:00"
+    "scraped_at": "2026-05-13T15:33:54.419981+00:00"
   },
   {
     "id": "10000064984",
@@ -66059,7 +66290,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-05-13T12:31:31.656546+00:00"
+    "scraped_at": "2026-05-13T15:33:54.419987+00:00"
   },
   {
     "id": "20003796424",
