@@ -6506,7 +6506,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-12,16:31,2026-05-11,OI,"O-I Glass, Inc. /De/",Abrahams Darrow A,"SVP, GC, Corporate Secretary",P - Purchase,9.04,2774,246137,+1%,25072,True
 2026-05-12,16:30,2026-05-11,SPOK,"Spok Holdings, Inc",Kelly Vincent D,"Pres, CEO",P - Purchase,10.68,10000,167565,+6%,106820,False
 2026-05-12,19:35,2026-05-08,NSPR,"Inspiremd, Inc.",Stuka Paul,Dir,P - Purchase,1.16,75626,1056575,+8%,88026,True
-2026-05-12,19:26,2026-05-11,ZTS,Zoetis Inc.,McCallister Michael B,Dir,P - Purchase,77.76,3000,31893,+10%,233273,False
+2026-05-12,19:26,2026-05-11,ZTS,Zoetis Inc.,McCallister Michael B,Dir,P - Purchase,77.76,3000,31893,+10%,233273,True
 2026-05-12,19:10,2026-05-08,MED,Medifast Inc,Schlackman Scott,Dir,P - Purchase,12.59,5000,30549,+20%,62950,False
 2026-05-12,18:50,2026-05-11,IBP,"Installed Building Products, Inc.",Hilsheimer Lawrence A.,Dir,P - Purchase,206.22,475,28468,+2%,97952,True
 2026-05-12,18:50,2026-05-11,IBP,"Installed Building Products, Inc.",Niswonger Jason R,"Chief Admin., Sustainability",P - Purchase,214.80,455,17122,+3%,97734,True
@@ -6518,7 +6518,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-12,20:00,2026-05-11,ONT,"Onterris, Inc.",Dicks Allan,CFO,P - Purchase,15.36,6535,218178,+3%,100378,False
 2026-05-13,07:30,2026-05-06,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,24.48,119400,75798260,0%,2922713,False
 2026-05-13,06:03,2026-05-11,EDAP,Edap Tms Sa,Levine Joshua,Dir,P - Purchase,4.22,10000,35000,+40%,42200,False
-2026-05-13,10:03,2026-05-11,MRP,"Millrose Properties, Inc.",Richman Darren,See Remarks,P - Purchase,27.31,235000,500000,+89%,6418320,False
+2026-05-13,10:03,2026-05-11,MRP,"Millrose Properties, Inc.",Richman Darren,See Remarks,P - Purchase,27.31,235000,500000,+89%,6418320,True
 2026-05-13,10:03,2026-05-12,WCN,"Waste Connections, Inc.",Mittelstaedt Ronald J,"Pres, CEO",P - Purchase,152.24,50000,301017,+20%,7611750,False
 2026-05-13,08:51,2026-05-11,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,17.08,17000,18740255,0%,290316,False
 2026-05-13,08:47,2026-04-30,RNTX,"Rein Therapeutics, Inc.",Windsor James Brian,See Remarks,P - Purchase,1.00,25000,27046,>999%,25000,False
@@ -6534,3 +6534,36 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-13,14:57,2026-05-12,RGR,Sturm Ruger & Co Inc,Widman Phillip,Dir,P - Purchase,38.00,5000,45208,+12%,190000,False
 2026-05-13,13:39,2026-05-11,CSPI,Csp Inc /Ma/,Nerges Joseph R,10%,P - Purchase,9.23,4248,1415530,0%,39201,False
 2026-05-13,13:19,2026-05-11,MMSI,Merit Medical Systems Inc,Smith Christian Adam,Chief Commercial Officer,P - Purchase,61.00,1626,32554,+5%,99186,True
+2026-05-13,17:12,2026-05-12,KINS,"Kingstone Companies, Inc.",Newgarden Thomas,Dir,P - Purchase,14.44,30502,85366,+56%,440457,False
+2026-05-13,17:10,2026-05-11,ODTX,"Odyssey Therapeutics, Inc.","Tpg Gp A, LLC",Former 10% Owner,P - Purchase,18.00,1388889,3690146,+60%,25000002,True
+2026-05-13,17:08,2026-05-11,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,10.61,8542,799647,+1%,90631,False
+2026-05-13,17:03,2026-05-11,NOMD,Nomad Foods Ltd,Gottesman Noam,Co-Chair,P - Purchase,9.47,700000,11280101,+7%,6632410,False
+2026-05-13,17:02,2026-05-13,ITIC,Investors Title Co,"Parker, Jr. Elton C.",Dir,P - Purchase,231.00,538,3750,+17%,124278,False
+2026-05-13,17:00,2026-05-12,NSPR,"Inspiremd, Inc.",Slosman Marvin,"CEO, Pres",P - Purchase,1.20,21000,3556658,+1%,25200,True
+2026-05-13,16:47,2026-05-08,NSPR,"Inspiremd, Inc.",Stuka Paul,Dir,P - Purchase,1.16,75626,1056575,+8%,88026,True
+2026-05-13,16:38,2026-05-11,BX,Blackstone Inc.,Porat Ruth,Dir,P - Purchase,122.99,439,50764,+1%,53974,False
+2026-05-13,16:37,2026-05-12,MRP,"Millrose Properties, Inc.",Nitkin Robert,COO,P - Purchase,26.60,1840,5065,+57%,48944,True
+2026-05-13,16:35,2026-05-13,ZTS,Zoetis Inc.,Damelio Frank A,Dir,P - Purchase,75.39,6650,21458,+45%,501344,True
+2026-05-13,16:35,2026-05-13,ZTS,Zoetis Inc.,Bisaro Paul,Dir,P - Purchase,75.88,2000,27862,+8%,151750,True
+2026-05-13,16:32,2026-05-13,TKO,"Tko Group Holdings, Inc.",Emanuel Ariel,CEO,P - Purchase,185.09,10805,154655,+8%,1999875,True
+2026-05-13,16:31,2026-05-11,VRDN,"Viridian Therapeutics, Inc.De",Fairmount Funds Management LLC,"Dir, 10%",P - Purchase,17.00,1176470,5090928,+30%,19999990,False
+2026-05-13,16:30,2026-05-13,TKO,"Tko Group Holdings, Inc.",Shapiro Mark S,See Remarks,P - Purchase,185.05,10807,129207,+9%,1999868,True
+2026-05-13,16:30,2026-05-11,ANNX,"Annexon, Inc.",Carson William H.,Dir,P - Purchase,5.78,8000,78405,+11%,46240,False
+2026-05-13,16:29,2026-05-12,PSN,Parsons Corp,Holdsworth Mark Keith,Dir,P - Purchase,51.27,10000,39918,+33%,512673,True
+2026-05-13,16:29,2026-05-13,TKO,"Tko Group Holdings, Inc.",Schleimer Andrew M,CFO,P - Purchase,185.44,2696,30240,+10%,499953,True
+2026-05-13,16:23,2026-05-13,GRNT,"Granite Ridge Resources, Inc.",Farquharson Tyler,"Pres, CEO",P - Purchase,5.15,10000,344743,+3%,51500,True
+2026-05-13,16:22,2026-05-12,NPB,Northpointe Bancshares Inc,Williams Charles Alan,"COB, CEO, 10%",P - Purchase,17.21,25000,3119445,+1%,430250,False
+2026-05-13,16:20,2026-05-13,APPN,Appian Corp,Dorsey Mark,Chief Revenue Officer,P - Purchase,19.13,5227,13993,+60%,99993,False
+2026-05-13,16:19,2026-05-12,GEHC,Ge Healthcare Technologies Inc.,Hochman Rodney F,Dir,P - Purchase,62.03,1618,21504,+8%,100365,True
+2026-05-13,16:19,2026-05-11,NSIT,Insight Enterprises Inc,Morgado James A.,CFO,P - Purchase,87.26,2290,17246,+15%,199814,False
+2026-05-13,16:18,2026-05-12,CRCT,"Cricut, Inc.",Makler Jason,Dir,P - Purchase,4.34,10001,30000,+50%,43390,False
+2026-05-13,16:16,2026-05-11,MNTK,"Montauk Renewables, Inc.",Copelyn John A,Dir,P - Purchase,1.45,17506,17506,New,25384,False
+2026-05-13,16:16,2026-05-13,GRNT,"Granite Ridge Resources, Inc.",Miller Matthew Reade,Dir,P - Purchase,5.21,18180,1350213,+1%,94718,True
+2026-05-13,16:15,2026-05-11,APLE,"Apple Hospitality Reit, Inc.",Knight Glade M,Exec COB,P - Purchase,13.97,5000,10853080,0%,69825,False
+2026-05-13,16:15,2026-05-12,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,13.85,2000,1652013,0%,27700,False
+2026-05-13,16:15,2026-05-13,STGW,Stagwell Inc,Penn Mark Jeffery,"CEO, 10%",P - Purchase,5.88,20000,25034990,0%,117600,False
+2026-05-13,16:15,2026-05-11,ABR,Arbor Realty Trust Inc,Friedman David Erwin,"CCO, Head of Non-Agcy Prod",P - Purchase,6.84,8840,68478,+15%,60466,False
+2026-05-13,16:15,2026-05-12,SENS,"Senseonics Holdings, Inc.",Roeder Douglas A,Dir,P - Purchase,5.56,22686,144635,+19%,126134,False
+2026-05-13,16:08,2026-05-12,KHC,Kraft Heinz Co,Cahillane Steven A,CEO,P - Purchase,23.46,213106,636701,+50%,4999808,False
+2026-05-13,16:05,2026-05-13,ABSI,Absci Corp,Pangalos Menelas N,Dir,P - Purchase,5.36,37453,232308,+19%,200748,False
+2026-05-13,16:00,2026-05-11,OLED,Universal Display Corp Pa,Elias Richard C,Dir,P - Purchase,92.84,1000,17065,+6%,92840,True
