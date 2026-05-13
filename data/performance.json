@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-13",
-  "entry_count": 980,
+  "entry_count": 984,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -40498,6 +40498,86 @@
       },
       "latest_price": 90.79,
       "return_pct": -2.21,
+      "last_snapshot": "2026-05-13"
+    },
+    {
+      "id": "US|GLND|2026-05-13|swets larry g jr|2.98",
+      "market": "US",
+      "ticker": "GLND",
+      "yf_symbol": "GLND",
+      "company": "Greenland Energy Co",
+      "insider_name": "Swets Larry G Jr",
+      "title": "Dir",
+      "trade_date": "2026-05-13",
+      "trade_price": 2.98,
+      "value": 74500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-13": 2.96
+      },
+      "latest_price": 2.96,
+      "return_pct": -0.67,
+      "last_snapshot": "2026-05-13"
+    },
+    {
+      "id": "US|SMRT|2026-05-12|martell frank|1.18",
+      "market": "US",
+      "ticker": "SMRT",
+      "yf_symbol": "SMRT",
+      "company": "Smartrent, Inc.",
+      "insider_name": "Martell Frank",
+      "title": "CEO",
+      "trade_date": "2026-05-12",
+      "trade_price": 1.18,
+      "value": 117850.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-13": 1.11
+      },
+      "latest_price": 1.11,
+      "return_pct": -5.93,
+      "last_snapshot": "2026-05-13"
+    },
+    {
+      "id": "US|ARTV|2026-05-11|ra capital management, l.p.|11.52",
+      "market": "US",
+      "ticker": "ARTV",
+      "yf_symbol": "ARTV",
+      "company": "Artiva Biotherapeutics, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-11",
+      "trade_price": 11.52,
+      "value": 74999992.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-13": 10.5
+      },
+      "latest_price": 10.5,
+      "return_pct": -8.85,
+      "last_snapshot": "2026-05-13"
+    },
+    {
+      "id": "US|MRP|2026-05-11|presa rachel|27.01",
+      "market": "US",
+      "ticker": "MRP",
+      "yf_symbol": "MRP",
+      "company": "Millrose Properties, Inc.",
+      "insider_name": "Presa Rachel",
+      "title": "GC, Secretary",
+      "trade_date": "2026-05-11",
+      "trade_price": 27.01,
+      "value": 27876.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-13": 26.67
+      },
+      "latest_price": 26.67,
+      "return_pct": -1.26,
       "last_snapshot": "2026-05-13"
     }
   ]

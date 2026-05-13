@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T21:18:41Z",
-  "trade_count": 6562,
+  "last_updated": "2026-05-13T22:57:57Z",
+  "trade_count": 6566,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -104992,6 +104992,70 @@
       "owned": "17065",
       "delta_own": "+6%",
       "value": "92840",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-13",
+      "filing_time": "18:26",
+      "trade_date": "2026-05-13",
+      "ticker": "GLND",
+      "company": "Greenland Energy Co",
+      "insider_name": "Swets Larry G Jr",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.98",
+      "qty": "25000",
+      "owned": "525000",
+      "delta_own": "+5%",
+      "value": "74500",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-13",
+      "filing_time": "17:57",
+      "trade_date": "2026-05-12",
+      "ticker": "SMRT",
+      "company": "Smartrent, Inc.",
+      "insider_name": "Martell Frank",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.18",
+      "qty": "100000",
+      "owned": "3284936",
+      "delta_own": "+3%",
+      "value": "117850",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-13",
+      "filing_time": "17:45",
+      "trade_date": "2026-05-11",
+      "ticker": "ARTV",
+      "company": "Artiva Biotherapeutics, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "11.52",
+      "qty": "6510416",
+      "owned": "16363718",
+      "delta_own": "+66%",
+      "value": "74999992",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-13",
+      "filing_time": "17:26",
+      "trade_date": "2026-05-11",
+      "ticker": "MRP",
+      "company": "Millrose Properties, Inc.",
+      "insider_name": "Presa Rachel",
+      "title": "GC, Secretary",
+      "trade_type": "P - Purchase",
+      "price": "27.01",
+      "qty": "1032",
+      "owned": "2500",
+      "delta_own": "+70%",
+      "value": "27876",
       "cluster_buy": true
     }
   ]
