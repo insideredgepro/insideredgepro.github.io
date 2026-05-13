@@ -132,7 +132,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-02-18,16:02,2026-02-02,SSTI,"Soundthinking, Inc.",Veradace Partners LP,10%,P - Purchase,6.97,578485,1902488,+44%,4029659,False
 2026-02-18,13:41,2026-02-18,STEX,Streamex Corp.,Lekstrom Morgan Lee,"Exec COB, 10%",P - Purchase,2.50,20000,122500,+20%,50000,True
 2026-02-18,09:16,2026-02-17,DKNG,Draftkings Inc.,Sloan Harry,Dir,P - Purchase,21.85,100000,350219,+40%,2185000,False
-2026-02-18,08:45,2026-02-13,APC,Arko Petroleum Corp.,Friedman Avram Z,Dir,P - Purchase,18.00,20000,20000,New,360000,False
+2026-02-18,08:45,2026-02-13,APC,Arko Petroleum Corp.,Friedman Avram Z,Dir,P - Purchase,18.00,20000,20000,New,360000,True
 2026-02-18,06:30,2026-02-13,CHGG,"Chegg, Inc",Rosensweig Daniel,"Pres, CEO, EXEC COB",P - Purchase,0.56,100000,7674917,+1%,56360,False
 2026-02-17,21:57,2026-02-17,CNVS,Cineverse Corp.,Huidor Mark Antonio,"Pres Tech, Chief Product Off",P - Purchase,2.00,37500,190061,+25%,75000,True
 2026-02-17,21:56,2025-10-20,FWRD,Forward Air Corp,"Cetus Capital Vi, L.P.",10%,P - Purchase,17.93,225000,3116546,+8%,4034950,False
@@ -6512,3 +6512,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-12,18:50,2026-05-11,IBP,"Installed Building Products, Inc.",Niswonger Jason R,"Chief Admin., Sustainability",P - Purchase,214.80,455,17122,+3%,97734,True
 2026-05-12,18:49,2026-05-11,IBP,"Installed Building Products, Inc.",Miller Michael Thomas,"EVP, CFO",P - Purchase,207.82,2400,59639,+4%,498771,True
 2026-05-12,18:48,2026-05-11,IBP,"Installed Building Products, Inc.",Wheeler Brad A,COO,P - Purchase,209.13,716,14988,+5%,149737,True
+2026-05-12,21:10,2026-05-08,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,73.82,3413,5709541,0%,251963,False
+2026-05-12,20:32,2026-05-12,FCNCA,First Citizens Bancshares Inc /De/,Holding Frank B Jr,"COB, CEO, 10%",P - Purchase,1726.82,5940,667967,+1%,10257311,False
+2026-05-12,20:28,2026-02-12,APC,Arko Petroleum Corp.,Blackstone Holdings I L.P.,10%,P - Purchase,17.66,100000,125000,+400%,1766000,True
+2026-05-12,20:00,2026-05-11,ONT,"Onterris, Inc.",Dicks Allan,CFO,P - Purchase,15.36,6535,218178,+3%,100378,False

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-12T23:52:13Z",
-  "trade_count": 6507,
+  "last_updated": "2026-05-13T02:14:03Z",
+  "trade_count": 6511,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -2144,7 +2144,7 @@
       "owned": "20000",
       "delta_own": "New",
       "value": "360000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-02-18",
@@ -104113,6 +104113,70 @@
       "delta_own": "+5%",
       "value": "149737",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-12",
+      "filing_time": "21:10",
+      "trade_date": "2026-05-08",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "73.82",
+      "qty": "3413",
+      "owned": "5709541",
+      "delta_own": "0%",
+      "value": "251963",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-12",
+      "filing_time": "20:32",
+      "trade_date": "2026-05-12",
+      "ticker": "FCNCA",
+      "company": "First Citizens Bancshares Inc /De/",
+      "insider_name": "Holding Frank B Jr",
+      "title": "COB, CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1726.82",
+      "qty": "5940",
+      "owned": "667967",
+      "delta_own": "+1%",
+      "value": "10257311",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-12",
+      "filing_time": "20:28",
+      "trade_date": "2026-02-12",
+      "ticker": "APC",
+      "company": "Arko Petroleum Corp.",
+      "insider_name": "Blackstone Holdings I L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "17.66",
+      "qty": "100000",
+      "owned": "125000",
+      "delta_own": "+400%",
+      "value": "1766000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-12",
+      "filing_time": "20:00",
+      "trade_date": "2026-05-11",
+      "ticker": "ONT",
+      "company": "Onterris, Inc.",
+      "insider_name": "Dicks Allan",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "15.36",
+      "qty": "6535",
+      "owned": "218178",
+      "delta_own": "+3%",
+      "value": "100378",
+      "cluster_buy": false
     }
   ]
 }

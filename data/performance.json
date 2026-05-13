@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-12",
-  "entry_count": 984,
+  "entry_count": 987,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -18582,8 +18582,8 @@
         "2026-05-11": 0.41,
         "2026-05-12": 0.42
       },
-      "latest_price": 0.42,
-      "return_pct": 90.91,
+      "latest_price": 0.41,
+      "return_pct": 86.36,
       "last_snapshot": "2026-05-12"
     },
     {
@@ -40967,6 +40967,66 @@
       },
       "latest_price": 202.65,
       "return_pct": -3.1,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|NMM|2026-05-08|frangou angeliki|73.82",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-05-08",
+      "trade_price": 73.82,
+      "value": 251963.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 73.43
+      },
+      "latest_price": 73.43,
+      "return_pct": -0.53,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|FCNCA|2026-05-12|holding frank b jr|1726.82",
+      "market": "US",
+      "ticker": "FCNCA",
+      "yf_symbol": "FCNCA",
+      "company": "First Citizens Bancshares Inc /De/",
+      "insider_name": "Holding Frank B Jr",
+      "title": "COB, CEO, 10%",
+      "trade_date": "2026-05-12",
+      "trade_price": 1726.82,
+      "value": 10257311.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 1918.6899
+      },
+      "latest_price": 1918.6899,
+      "return_pct": 11.11,
+      "last_snapshot": "2026-05-12"
+    },
+    {
+      "id": "US|ONT|2026-05-11|dicks allan|15.36",
+      "market": "US",
+      "ticker": "ONT",
+      "yf_symbol": "ONT",
+      "company": "Onterris, Inc.",
+      "insider_name": "Dicks Allan",
+      "title": "CFO",
+      "trade_date": "2026-05-11",
+      "trade_price": 15.36,
+      "value": 100378.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-12": 15.6
+      },
+      "latest_price": 15.6,
+      "return_pct": 1.56,
       "last_snapshot": "2026-05-12"
     }
   ]
