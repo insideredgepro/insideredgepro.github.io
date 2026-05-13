@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T22:57:57Z",
-  "trade_count": 6566,
+  "last_updated": "2026-05-13T23:56:26Z",
+  "trade_count": 6569,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -105056,6 +105056,54 @@
       "owned": "2500",
       "delta_own": "+70%",
       "value": "27876",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-13",
+      "filing_time": "19:05",
+      "trade_date": "2026-05-12",
+      "ticker": "XRN",
+      "company": "Chiron Real Estate Inc.",
+      "insider_name": "Wittman Lori",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "33.85",
+      "qty": "2940",
+      "owned": "2940",
+      "delta_own": "New",
+      "value": "99515",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-13",
+      "filing_time": "19:03",
+      "trade_date": "2026-05-12",
+      "ticker": "XRN",
+      "company": "Chiron Real Estate Inc.",
+      "insider_name": "Marston Ronald",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "34.07",
+      "qty": "1500",
+      "owned": "3066",
+      "delta_own": "+96%",
+      "value": "51110",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-13",
+      "filing_time": "19:02",
+      "trade_date": "2026-05-12",
+      "ticker": "XRN",
+      "company": "Chiron Real Estate Inc.",
+      "insider_name": "Barber Jamie Allen",
+      "title": "GC, Secretary",
+      "trade_type": "P - Purchase",
+      "price": "33.50",
+      "qty": "1481",
+      "owned": "1481",
+      "delta_own": "New",
+      "value": "49614",
       "cluster_buy": true
     }
   ]

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-13",
-  "entry_count": 984,
+  "entry_count": 987,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -40578,6 +40578,66 @@
       },
       "latest_price": 26.67,
       "return_pct": -1.26,
+      "last_snapshot": "2026-05-13"
+    },
+    {
+      "id": "US|XRN|2026-05-12|wittman lori|33.85",
+      "market": "US",
+      "ticker": "XRN",
+      "yf_symbol": "XRN",
+      "company": "Chiron Real Estate Inc.",
+      "insider_name": "Wittman Lori",
+      "title": "Dir",
+      "trade_date": "2026-05-12",
+      "trade_price": 33.85,
+      "value": 99515.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-13": 34.32
+      },
+      "latest_price": 34.32,
+      "return_pct": 1.39,
+      "last_snapshot": "2026-05-13"
+    },
+    {
+      "id": "US|XRN|2026-05-12|marston ronald|34.07",
+      "market": "US",
+      "ticker": "XRN",
+      "yf_symbol": "XRN",
+      "company": "Chiron Real Estate Inc.",
+      "insider_name": "Marston Ronald",
+      "title": "Dir",
+      "trade_date": "2026-05-12",
+      "trade_price": 34.07,
+      "value": 51110.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-13": 34.32
+      },
+      "latest_price": 34.32,
+      "return_pct": 0.73,
+      "last_snapshot": "2026-05-13"
+    },
+    {
+      "id": "US|XRN|2026-05-12|barber jamie allen|33.5",
+      "market": "US",
+      "ticker": "XRN",
+      "yf_symbol": "XRN",
+      "company": "Chiron Real Estate Inc.",
+      "insider_name": "Barber Jamie Allen",
+      "title": "GC, Secretary",
+      "trade_date": "2026-05-12",
+      "trade_price": 33.5,
+      "value": 49614.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-13": 34.32
+      },
+      "latest_price": 34.32,
+      "return_pct": 2.45,
       "last_snapshot": "2026-05-13"
     }
   ]
