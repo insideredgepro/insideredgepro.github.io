@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T17:09:33Z",
-  "trade_count": 6525,
+  "last_updated": "2026-05-13T19:41:33Z",
+  "trade_count": 6529,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -104401,6 +104401,70 @@
       "delta_own": "+7%",
       "value": "109999",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-13",
+      "filing_time": "15:11",
+      "trade_date": "2026-05-11",
+      "ticker": "FMBM",
+      "company": "F&M Bank Corp",
+      "insider_name": "Withers Dean W",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "34.50",
+      "qty": "2127",
+      "owned": "50000",
+      "delta_own": "+4%",
+      "value": "73382",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-13",
+      "filing_time": "14:57",
+      "trade_date": "2026-05-12",
+      "ticker": "RGR",
+      "company": "Sturm Ruger & Co Inc",
+      "insider_name": "Widman Phillip",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "38.00",
+      "qty": "5000",
+      "owned": "45208",
+      "delta_own": "+12%",
+      "value": "190000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-13",
+      "filing_time": "13:39",
+      "trade_date": "2026-05-11",
+      "ticker": "CSPI",
+      "company": "Csp Inc /Ma/",
+      "insider_name": "Nerges Joseph R",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "9.23",
+      "qty": "4248",
+      "owned": "1415530",
+      "delta_own": "0%",
+      "value": "39201",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-13",
+      "filing_time": "13:19",
+      "trade_date": "2026-05-11",
+      "ticker": "MMSI",
+      "company": "Merit Medical Systems Inc",
+      "insider_name": "Smith Christian Adam",
+      "title": "Chief Commercial Officer",
+      "trade_type": "P - Purchase",
+      "price": "61.00",
+      "qty": "1626",
+      "owned": "32554",
+      "delta_own": "+5%",
+      "value": "99186",
+      "cluster_buy": true
     }
   ]
 }
