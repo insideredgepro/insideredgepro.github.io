@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-13",
-  "entry_count": 930,
+  "entry_count": 932,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -39498,6 +39498,46 @@
       },
       "latest_price": 15.6,
       "return_pct": 1.56,
+      "last_snapshot": "2026-05-13"
+    },
+    {
+      "id": "US|COE|2026-05-06|huang jack jiajia|24.48",
+      "market": "US",
+      "ticker": "COE",
+      "yf_symbol": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "CEO, 10%",
+      "trade_date": "2026-05-06",
+      "trade_price": 24.48,
+      "value": 2922713.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-13": 25.32
+      },
+      "latest_price": 25.32,
+      "return_pct": 3.43,
+      "last_snapshot": "2026-05-13"
+    },
+    {
+      "id": "US|EDAP|2026-05-11|levine joshua|4.22",
+      "market": "US",
+      "ticker": "EDAP",
+      "yf_symbol": "EDAP",
+      "company": "Edap Tms Sa",
+      "insider_name": "Levine Joshua",
+      "title": "Dir",
+      "trade_date": "2026-05-11",
+      "trade_price": 4.22,
+      "value": 42200.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-13": 4.08
+      },
+      "latest_price": 4.08,
+      "return_pct": -3.32,
       "last_snapshot": "2026-05-13"
     }
   ]

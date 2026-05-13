@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T09:36:36Z",
-  "trade_count": 6511,
+  "last_updated": "2026-05-13T11:56:17Z",
+  "trade_count": 6513,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -104176,6 +104176,38 @@
       "owned": "218178",
       "delta_own": "+3%",
       "value": "100378",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-13",
+      "filing_time": "07:30",
+      "trade_date": "2026-05-06",
+      "ticker": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "24.48",
+      "qty": "119400",
+      "owned": "75798260",
+      "delta_own": "0%",
+      "value": "2922713",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-13",
+      "filing_time": "06:03",
+      "trade_date": "2026-05-11",
+      "ticker": "EDAP",
+      "company": "Edap Tms Sa",
+      "insider_name": "Levine Joshua",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.22",
+      "qty": "10000",
+      "owned": "35000",
+      "delta_own": "+40%",
+      "value": "42200",
       "cluster_buy": false
     }
   ]
