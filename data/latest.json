@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-14T13:47:30Z",
-  "trade_count": 6581,
+  "last_updated": "2026-05-14T16:05:50Z",
+  "trade_count": 6583,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -105297,6 +105297,38 @@
       "delta_own": "+4%",
       "value": "1375000",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-14",
+      "filing_time": "10:58",
+      "trade_date": "2026-05-13",
+      "ticker": "BWFG",
+      "company": "Bankwell Financial Group, Inc.",
+      "insider_name": "Seidman Lawrence B",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "50.11",
+      "qty": "1930",
+      "owned": "847885",
+      "delta_own": "0%",
+      "value": "96709",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-14",
+      "filing_time": "10:12",
+      "trade_date": "2026-05-11",
+      "ticker": "CLH",
+      "company": "Clean Harbors Inc",
+      "insider_name": "Polito Karyn",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "295.13",
+      "qty": "460",
+      "owned": "3475",
+      "delta_own": "+15%",
+      "value": "135760",
+      "cluster_buy": false
     }
   ]
 }
