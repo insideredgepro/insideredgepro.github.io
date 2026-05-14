@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T21:54:11Z",
-  "trade_count": 3034,
+  "last_updated": "2026-05-14T02:12:07Z",
+  "trade_count": 3036,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -46096,6 +46096,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4718785",
+      "trade_date": "2026-05-13",
+      "filing_date": "2026-05-13",
+      "company": "Calfrac Well Services Ltd.",
+      "ticker": "CFW",
+      "insider_name": "Dahlseide, Tyler",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "9250",
+      "price": "5.8299",
+      "value": "53926",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4718856",
+      "trade_date": "2026-05-13",
+      "filing_date": "2026-05-13",
+      "company": "NFI Group Inc.",
+      "ticker": "NFI",
+      "insider_name": "Sapp, John Christopher",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "1000",
+      "price": "15.1780",
+      "value": "15178",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
