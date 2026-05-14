@@ -6384,7 +6384,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-07,18:12,2026-05-07,NWN,Northwest Natural Holding Co,Palfreyman Justin,"Pres, CEO",P - Purchase,48.75,1225,28451,+4%,59719,False
 2026-05-07,21:10,2026-05-05,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,73.93,3392,5706118,0%,250776,False
 2026-05-07,20:52,2026-05-07,BETR,Better Home & Finance Holding Co,Garg Vishal,"CEO, 10%",P - Purchase,30.00,6583,71460,+10%,197485,True
-2026-05-08,08:54,2026-05-07,UPST,"Upstart Holdings, Inc.",Girouard Dave,"Dir, 10%",P - Purchase,29.37,170240,10910671,+2%,4999607,False
+2026-05-08,08:54,2026-05-07,UPST,"Upstart Holdings, Inc.",Girouard Dave,"Dir, 10%",P - Purchase,29.37,170240,10910671,+2%,4999607,True
 2026-05-08,11:57,2026-05-07,POOL,Pool Corp,Perez De La Mesa Manuel J,Dir,P - Purchase,190.00,10000,948155,+1%,1900000,True
 2026-05-08,11:55,2026-05-07,POOL,Pool Corp,Stokely John E,Dir,P - Purchase,193.07,1000,16230,+7%,193065,True
 2026-05-08,11:53,2026-05-07,POOL,Pool Corp,Hope James D,Dir,P - Purchase,194.42,464,3678,+14%,90209,True
@@ -6582,3 +6582,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-14,07:29,2026-05-13,FCN,"Fti Consulting, Inc",Nam Eun,CFO,P - Purchase,144.59,2000,21592,+10%,289180,True
 2026-05-14,07:05,2026-05-12,AIJTY,Jianpu Technology Inc.,Lu Jiayan,"Dir, 10%",P - Purchase,0.88,43104,29572413,0%,38106,False
 2026-05-14,07:00,2026-05-12,ADMA,"Adma Biologics, Inc.",Grossman Jerrold B,Dir,P - Purchase,8.01,12500,606591,+2%,100125,False
+2026-05-14,08:56,2026-05-13,CVM,Cel Sci Corp,Kersten Geert R,CEO,P - Purchase,1.19,100000,222497,+82%,119000,False
+2026-05-14,08:50,2026-05-12,STRZ,Starz Entertainment Corp /Cn/,Hirsch Jeffrey,"Pres, CEO",P - Purchase,20.72,10000,462219,+2%,207200,False
+2026-05-14,08:42,2026-05-12,SLNG,"Stabilis Solutions, Inc.",Kuntz Edward L,Dir,P - Purchase,3.88,7667,69839,+12%,29776,False
+2026-05-14,08:24,2026-05-13,UPST,"Upstart Holdings, Inc.",Gu Paul,CEO,P - Purchase,27.50,50000,1297546,+4%,1375000,True
