@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-14",
-  "entry_count": 990,
+  "entry_count": 995,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -41680,6 +41680,106 @@
       },
       "latest_price": 1.46,
       "return_pct": 2.1,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|FCN|2026-05-13|linton paul alderman|144.04",
+      "market": "US",
+      "ticker": "FCN",
+      "yf_symbol": "FCN",
+      "company": "Fti Consulting, Inc",
+      "insider_name": "Linton Paul Alderman",
+      "title": "Chief Strategy, Transf. Office",
+      "trade_date": "2026-05-13",
+      "trade_price": 144.04,
+      "value": 345696.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 144.83
+      },
+      "latest_price": 144.83,
+      "return_pct": 0.55,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|FCN|2026-05-13|gunby steven henry|144.17",
+      "market": "US",
+      "ticker": "FCN",
+      "yf_symbol": "FCN",
+      "company": "Fti Consulting, Inc",
+      "insider_name": "Gunby Steven Henry",
+      "title": "CEO, COB, Pres",
+      "trade_date": "2026-05-13",
+      "trade_price": 144.17,
+      "value": 1441708.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 144.83
+      },
+      "latest_price": 144.83,
+      "return_pct": 0.46,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|FCN|2026-05-13|nam eun|144.59",
+      "market": "US",
+      "ticker": "FCN",
+      "yf_symbol": "FCN",
+      "company": "Fti Consulting, Inc",
+      "insider_name": "Nam Eun",
+      "title": "CFO",
+      "trade_date": "2026-05-13",
+      "trade_price": 144.59,
+      "value": 289180.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 144.83
+      },
+      "latest_price": 144.83,
+      "return_pct": 0.17,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|AIJTY|2026-05-12|lu jiayan|0.88",
+      "market": "US",
+      "ticker": "AIJTY",
+      "yf_symbol": "AIJTY",
+      "company": "Jianpu Technology Inc.",
+      "insider_name": "Lu Jiayan",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-12",
+      "trade_price": 0.88,
+      "value": 38106.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 0.95
+      },
+      "latest_price": 0.95,
+      "return_pct": 7.95,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|ADMA|2026-05-12|grossman jerrold b|8.01",
+      "market": "US",
+      "ticker": "ADMA",
+      "yf_symbol": "ADMA",
+      "company": "Adma Biologics, Inc.",
+      "insider_name": "Grossman Jerrold B",
+      "title": "Dir",
+      "trade_date": "2026-05-12",
+      "trade_price": 8.01,
+      "value": 100125.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 8.5
+      },
+      "latest_price": 8.5,
+      "return_pct": 6.12,
       "last_snapshot": "2026-05-14"
     }
   ]
