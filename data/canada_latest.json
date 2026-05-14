@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-14T13:00:19Z",
-  "trade_count": 3036,
+  "last_updated": "2026-05-14T15:00:19Z",
+  "trade_count": 3038,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -46125,6 +46125,38 @@
       "qty": "1000",
       "price": "15.1780",
       "value": "15178",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4718926",
+      "trade_date": "2026-05-14",
+      "filing_date": "2026-05-14",
+      "company": "Digital Commodities Inc.",
+      "ticker": "DIGI.CN",
+      "insider_name": "Sutton, Brayden Robert",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "500000",
+      "price": "0.0300",
+      "value": "15000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4719034",
+      "trade_date": "2026-05-14",
+      "filing_date": "2026-05-14",
+      "company": "Tourmaline Oil Corp.",
+      "ticker": "TOU",
+      "insider_name": "Rose, Mike",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "65.1986",
+      "value": "325993",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
