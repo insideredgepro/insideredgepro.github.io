@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-13",
-  "entry_count": 987,
+  "entry_count": 990,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -40638,6 +40638,66 @@
       },
       "latest_price": 34.32,
       "return_pct": 2.45,
+      "last_snapshot": "2026-05-13"
+    },
+    {
+      "id": "US|RLYB|2026-05-11|adar1 capital management, llc|14.0",
+      "market": "US",
+      "ticker": "RLYB",
+      "yf_symbol": "RLYB",
+      "company": "Rallybio Corp",
+      "insider_name": "Adar1 Capital Management, LLC",
+      "title": "10%",
+      "trade_date": "2026-05-11",
+      "trade_price": 14.0,
+      "value": 711055.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-13": 14.35
+      },
+      "latest_price": 14.35,
+      "return_pct": 2.5,
+      "last_snapshot": "2026-05-13"
+    },
+    {
+      "id": "US|RSG|2026-05-11|cascade investment, l.l.c.|201.4",
+      "market": "US",
+      "ticker": "RSG",
+      "yf_symbol": "RSG",
+      "company": "Republic Services, Inc.",
+      "insider_name": "Cascade Investment, L.L.C.",
+      "title": "10%",
+      "trade_date": "2026-05-11",
+      "trade_price": 201.4,
+      "value": 100528322.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-13": 203.67
+      },
+      "latest_price": 203.67,
+      "return_pct": 1.13,
+      "last_snapshot": "2026-05-13"
+    },
+    {
+      "id": "US|BLND|2026-05-11|haveli investments, l.p.|1.43",
+      "market": "US",
+      "ticker": "BLND",
+      "yf_symbol": "BLND",
+      "company": "Blend Labs, Inc.",
+      "insider_name": "Haveli Investments, L.P.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-11",
+      "trade_price": 1.43,
+      "value": 2789590.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-13": 1.46
+      },
+      "latest_price": 1.46,
+      "return_pct": 2.1,
       "last_snapshot": "2026-05-13"
     }
   ]
