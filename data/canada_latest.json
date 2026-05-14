@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-14T17:00:19Z",
-  "trade_count": 3040,
+  "last_updated": "2026-05-14T19:00:19Z",
+  "trade_count": 3042,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -46189,6 +46189,38 @@
       "qty": "250000",
       "price": "0.6900",
       "value": "172500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4719138",
+      "trade_date": "2026-05-14",
+      "filing_date": "2026-05-14",
+      "company": "Allied Critical Metals Inc",
+      "ticker": "ACM.CN",
+      "insider_name": "Bonnell, Roy",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "25000",
+      "price": "2.0820",
+      "value": "52049",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4719113",
+      "trade_date": "2026-05-14",
+      "filing_date": "2026-05-14",
+      "company": "Parex Resources Inc.",
+      "ticker": "PXT",
+      "insider_name": "Mohsen, Imad",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "14600",
+      "price": "27.3693",
+      "value": "399591",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
