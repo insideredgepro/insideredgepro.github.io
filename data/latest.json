@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-14T16:05:50Z",
-  "trade_count": 6583,
+  "last_updated": "2026-05-14T18:29:53Z",
+  "trade_count": 6584,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -105328,6 +105328,22 @@
       "owned": "3475",
       "delta_own": "+15%",
       "value": "135760",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-14",
+      "filing_time": "12:35",
+      "trade_date": "2026-05-14",
+      "ticker": "TONX",
+      "company": "Ton Strategy Co",
+      "insider_name": "Olsen Sarah Josephine",
+      "title": "CFO, COO",
+      "trade_type": "P - Purchase",
+      "price": "3.62",
+      "qty": "7440",
+      "owned": "7440",
+      "delta_own": "New",
+      "value": "26933",
       "cluster_buy": false
     }
   ]
