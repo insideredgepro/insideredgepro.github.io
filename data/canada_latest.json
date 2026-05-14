@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-14T21:00:19Z",
-  "trade_count": 3051,
+  "last_updated": "2026-05-14T23:00:22Z",
+  "trade_count": 3054,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -45087,7 +45087,7 @@
       "value": "63000",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4716582",
@@ -46368,6 +46368,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4719307",
+      "trade_date": "2026-05-14",
+      "filing_date": "2026-05-14",
+      "company": "Heritage Mining Ltd.",
+      "ticker": "HML.CN",
+      "insider_name": "Schloo, Peter",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "519000",
+      "price": "0.0350",
+      "value": "18165",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4719369",
+      "trade_date": "2026-05-14",
+      "filing_date": "2026-05-14",
+      "company": "Honey Badger Silver Inc.",
+      "ticker": "TUF",
+      "insider_name": "2176423 Ontario Ltd.",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "8500500",
+      "price": "0.7200",
+      "value": "6120360",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4719365",
+      "trade_date": "2026-05-14",
+      "filing_date": "2026-05-14",
+      "company": "Honey Badger Silver Inc.",
+      "ticker": "TUF",
+      "insider_name": "Sprott, Eric",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "8500500",
+      "price": "0.7200",
+      "value": "6120360",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
