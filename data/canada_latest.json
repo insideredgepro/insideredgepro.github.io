@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-14T15:00:19Z",
-  "trade_count": 3038,
+  "last_updated": "2026-05-14T17:00:19Z",
+  "trade_count": 3040,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -46157,6 +46157,38 @@
       "qty": "5000",
       "price": "65.1986",
       "value": "325993",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4719107",
+      "trade_date": "2026-05-14",
+      "filing_date": "2026-05-14",
+      "company": "Pet Valu Holdings Ltd.",
+      "ticker": "PET",
+      "insider_name": "Fortino, Carmine",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "17.2600",
+      "value": "172600",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4719049",
+      "trade_date": "2026-05-14",
+      "filing_date": "2026-05-14",
+      "company": "Surge Battery Metals Inc.",
+      "ticker": "NILI",
+      "insider_name": "Harris, Graham",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "250000",
+      "price": "0.6900",
+      "value": "172500",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
