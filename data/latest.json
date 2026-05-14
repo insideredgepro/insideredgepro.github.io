@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-14T22:02:16Z",
-  "trade_count": 6618,
+  "last_updated": "2026-05-14T23:46:16Z",
+  "trade_count": 6621,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -101200,7 +101200,7 @@
       "owned": "867894",
       "delta_own": "+4%",
       "value": "34550",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-05",
@@ -105264,7 +105264,7 @@
       "owned": "462219",
       "delta_own": "+2%",
       "value": "207200",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-14",
@@ -105889,6 +105889,54 @@
       "delta_own": "+1%",
       "value": "427030",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-14",
+      "filing_time": "19:41",
+      "trade_date": "2026-05-12",
+      "ticker": "UA",
+      "company": "Under Armour, Inc.",
+      "insider_name": "Watsa V Prem Et Al",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "4.98",
+      "qty": "1178344",
+      "owned": "44179216",
+      "delta_own": "+3%",
+      "value": "5869079",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-14",
+      "filing_time": "18:38",
+      "trade_date": "2026-05-12",
+      "ticker": "STRZ",
+      "company": "Starz Entertainment Corp /Cn/",
+      "insider_name": "Macdonald Scott D",
+      "title": "SEE REMARKS",
+      "trade_type": "P - Purchase",
+      "price": "20.59",
+      "qty": "5000",
+      "owned": "84433",
+      "delta_own": "+6%",
+      "value": "102950",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-14",
+      "filing_time": "18:15",
+      "trade_date": "2026-05-13",
+      "ticker": "AWRE",
+      "company": "Aware Inc /Ma/",
+      "insider_name": "Stafford John S III",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.25",
+      "qty": "80412",
+      "owned": "5221954",
+      "delta_own": "+2%",
+      "value": "100515",
+      "cluster_buy": true
     }
   ]
 }

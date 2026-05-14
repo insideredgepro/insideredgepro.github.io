@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-14",
-  "entry_count": 1036,
+  "entry_count": 1039,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -42600,6 +42600,66 @@
       },
       "latest_price": 17.12,
       "return_pct": 0.23,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|UA|2026-05-12|watsa v prem et al|4.98",
+      "market": "US",
+      "ticker": "UA",
+      "yf_symbol": "UA",
+      "company": "Under Armour, Inc.",
+      "insider_name": "Watsa V Prem Et Al",
+      "title": "10%",
+      "trade_date": "2026-05-12",
+      "trade_price": 4.98,
+      "value": 5869079.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 4.96
+      },
+      "latest_price": 4.96,
+      "return_pct": -0.4,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|STRZ|2026-05-12|macdonald scott d|20.59",
+      "market": "US",
+      "ticker": "STRZ",
+      "yf_symbol": "STRZ",
+      "company": "Starz Entertainment Corp /Cn/",
+      "insider_name": "Macdonald Scott D",
+      "title": "SEE REMARKS",
+      "trade_date": "2026-05-12",
+      "trade_price": 20.59,
+      "value": 102950.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 21.93
+      },
+      "latest_price": 21.93,
+      "return_pct": 6.51,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|AWRE|2026-05-13|stafford john s iii|1.25",
+      "market": "US",
+      "ticker": "AWRE",
+      "yf_symbol": "AWRE",
+      "company": "Aware Inc /Ma/",
+      "insider_name": "Stafford John S III",
+      "title": "Dir",
+      "trade_date": "2026-05-13",
+      "trade_price": 1.25,
+      "value": 100515.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 1.21
+      },
+      "latest_price": 1.21,
+      "return_pct": -3.2,
       "last_snapshot": "2026-05-14"
     }
   ]
