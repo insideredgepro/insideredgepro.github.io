@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-14",
-  "entry_count": 1012,
+  "entry_count": 1036,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -42120,6 +42120,486 @@
       },
       "latest_price": 71.0,
       "return_pct": -0.03,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|JYNT|2026-05-12|jobson charles e|8.57",
+      "market": "US",
+      "ticker": "JYNT",
+      "yf_symbol": "JYNT",
+      "company": "Joint Corp",
+      "insider_name": "Jobson Charles E",
+      "title": "10%",
+      "trade_date": "2026-05-12",
+      "trade_price": 8.57,
+      "value": 1268797.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 8.21
+      },
+      "latest_price": 8.21,
+      "return_pct": -4.2,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|LODE|2026-05-13|pei steven yu-tsung|3.38",
+      "market": "US",
+      "ticker": "LODE",
+      "yf_symbol": "LODE",
+      "company": "Comstock Inc.",
+      "insider_name": "Pei Steven Yu-Tsung",
+      "title": "Dir",
+      "trade_date": "2026-05-13",
+      "trade_price": 3.38,
+      "value": 1436865.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 3.32
+      },
+      "latest_price": 3.32,
+      "return_pct": -1.78,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|JKHY|2026-05-14|adelson gregory r.|133.42",
+      "market": "US",
+      "ticker": "JKHY",
+      "yf_symbol": "JKHY",
+      "company": "Jack Henry & Associates Inc",
+      "insider_name": "Adelson Gregory R.",
+      "title": "Pres, CEO",
+      "trade_date": "2026-05-14",
+      "trade_price": 133.42,
+      "value": 266840.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 134.03
+      },
+      "latest_price": 134.03,
+      "return_pct": 0.46,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|JKHY|2026-05-14|carsley mimi|134.12",
+      "market": "US",
+      "ticker": "JKHY",
+      "yf_symbol": "JKHY",
+      "company": "Jack Henry & Associates Inc",
+      "insider_name": "Carsley Mimi",
+      "title": "CFO, Treasurer",
+      "trade_date": "2026-05-14",
+      "trade_price": 134.12,
+      "value": 50295.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 134.03
+      },
+      "latest_price": 134.03,
+      "return_pct": -0.07,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|TMCI|2026-05-12|treace john t.|2.44",
+      "market": "US",
+      "ticker": "TMCI",
+      "yf_symbol": "TMCI",
+      "company": "Treace Medical Concepts, Inc.",
+      "insider_name": "Treace John T.",
+      "title": "CEO, 10%",
+      "trade_date": "2026-05-12",
+      "trade_price": 2.44,
+      "value": 375505.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 2.77
+      },
+      "latest_price": 2.77,
+      "return_pct": 13.52,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|J|2026-05-13|fernandez manuel j|112.56",
+      "market": "US",
+      "ticker": "J",
+      "yf_symbol": "J",
+      "company": "Jacobs Solutions Inc.",
+      "insider_name": "Fernandez Manuel J",
+      "title": "Dir",
+      "trade_date": "2026-05-13",
+      "trade_price": 112.56,
+      "value": 28478.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 112.76
+      },
+      "latest_price": 112.76,
+      "return_pct": 0.18,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|COAG|2026-05-12|ra capital management, l.p.|24.9",
+      "market": "US",
+      "ticker": "COAG",
+      "yf_symbol": "COAG",
+      "company": "Hemab Therapeutics Holdings, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "10%",
+      "trade_date": "2026-05-12",
+      "trade_price": 24.9,
+      "value": 159036.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 28.37
+      },
+      "latest_price": 28.37,
+      "return_pct": 13.94,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|AMH|2026-05-12|corrigan jack e|23.25",
+      "market": "US",
+      "ticker": "AMH",
+      "yf_symbol": "AMH",
+      "company": "American Homes 4 Rent",
+      "insider_name": "Corrigan Jack E",
+      "title": "Dir",
+      "trade_date": "2026-05-12",
+      "trade_price": 23.25,
+      "value": 37199.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 31.36
+      },
+      "latest_price": 31.36,
+      "return_pct": 34.88,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|AAT|2026-05-12|rady ernest s|21.04",
+      "market": "US",
+      "ticker": "AAT",
+      "yf_symbol": "AAT",
+      "company": "American Assets Trust, Inc.",
+      "insider_name": "Rady Ernest S",
+      "title": "Exec COB, 10%",
+      "trade_date": "2026-05-12",
+      "trade_price": 21.04,
+      "value": 3589826.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 20.85
+      },
+      "latest_price": 20.85,
+      "return_pct": -0.9,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|MYGN|2026-05-14|bisaro paul|3.69",
+      "market": "US",
+      "ticker": "MYGN",
+      "yf_symbol": "MYGN",
+      "company": "Myriad Genetics Inc",
+      "insider_name": "Bisaro Paul",
+      "title": "Dir",
+      "trade_date": "2026-05-14",
+      "trade_price": 3.69,
+      "value": 27638.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 3.62
+      },
+      "latest_price": 3.62,
+      "return_pct": -1.9,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|FUN|2026-05-12|spiegel marilyn g|19.13",
+      "market": "US",
+      "ticker": "FUN",
+      "yf_symbol": "FUN",
+      "company": "Six Flags Entertainment Corporation/New",
+      "insider_name": "Spiegel Marilyn G",
+      "title": "Dir",
+      "trade_date": "2026-05-12",
+      "trade_price": 19.13,
+      "value": 47813.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 20.08
+      },
+      "latest_price": 20.08,
+      "return_pct": 4.97,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|STRT|2026-05-12|pauli matthew|62.53",
+      "market": "US",
+      "ticker": "STRT",
+      "yf_symbol": "STRT",
+      "company": "Strattec Security Corp",
+      "insider_name": "Pauli Matthew",
+      "title": "SVP, CFO",
+      "trade_date": "2026-05-12",
+      "trade_price": 62.53,
+      "value": 125060.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 64.4
+      },
+      "latest_price": 64.4,
+      "return_pct": 2.99,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|STRT|2026-05-12|slater jennifer lynn|62.58",
+      "market": "US",
+      "ticker": "STRT",
+      "yf_symbol": "STRT",
+      "company": "Strattec Security Corp",
+      "insider_name": "Slater Jennifer Lynn",
+      "title": "Pres, CEO",
+      "trade_date": "2026-05-12",
+      "trade_price": 62.58,
+      "value": 100000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 64.4
+      },
+      "latest_price": 64.4,
+      "return_pct": 2.91,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|FUN|2026-05-12|haddrill richard m|19.08",
+      "market": "US",
+      "ticker": "FUN",
+      "yf_symbol": "FUN",
+      "company": "Six Flags Entertainment Corporation/New",
+      "insider_name": "Haddrill Richard M",
+      "title": "Exec Chair",
+      "trade_date": "2026-05-12",
+      "trade_price": 19.08,
+      "value": 190800.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 20.08
+      },
+      "latest_price": 20.08,
+      "return_pct": 5.24,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|ECL|2026-05-13|maclennan david|250.65",
+      "market": "US",
+      "ticker": "ECL",
+      "yf_symbol": "ECL",
+      "company": "Ecolab Inc.",
+      "insider_name": "Maclennan David",
+      "title": "Dir",
+      "trade_date": "2026-05-13",
+      "trade_price": 250.65,
+      "value": 250650.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 248.88
+      },
+      "latest_price": 248.88,
+      "return_pct": -0.71,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|DLHC|2026-05-13|mink brook asset management llc|5.5",
+      "market": "US",
+      "ticker": "DLHC",
+      "yf_symbol": "DLHC",
+      "company": "Dlh Holdings Corp.",
+      "insider_name": "Mink Brook Asset Management LLC",
+      "title": "10%",
+      "trade_date": "2026-05-13",
+      "trade_price": 5.5,
+      "value": 379825.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 5.5
+      },
+      "latest_price": 5.5,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|AGIG|2026-05-12|gillespie edward oliver|1.18",
+      "market": "US",
+      "ticker": "AGIG",
+      "yf_symbol": "AGIG",
+      "company": "Abundia Global Impact Group, Inc.",
+      "insider_name": "Gillespie Edward Oliver",
+      "title": "CEO",
+      "trade_date": "2026-05-12",
+      "trade_price": 1.18,
+      "value": 36982.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 1.17
+      },
+      "latest_price": 1.17,
+      "return_pct": -0.85,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|PLNT|2026-05-12|keating colleen|49.54",
+      "market": "US",
+      "ticker": "PLNT",
+      "yf_symbol": "PLNT",
+      "company": "Planet Fitness, Inc.",
+      "insider_name": "Keating Colleen",
+      "title": "CEO",
+      "trade_date": "2026-05-12",
+      "trade_price": 49.54,
+      "value": 247700.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 51.5
+      },
+      "latest_price": 51.5,
+      "return_pct": 3.96,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|BRBR|2026-05-13|finkelstein david isaiah|9.24",
+      "market": "US",
+      "ticker": "BRBR",
+      "yf_symbol": "BRBR",
+      "company": "Bellring Brands, Inc.",
+      "insider_name": "Finkelstein David Isaiah",
+      "title": "Dir",
+      "trade_date": "2026-05-13",
+      "trade_price": 9.24,
+      "value": 36940.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 9.15
+      },
+      "latest_price": 9.15,
+      "return_pct": -0.97,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|IIIV|2026-05-14|daily gregory s|19.23",
+      "market": "US",
+      "ticker": "IIIV",
+      "yf_symbol": "IIIV",
+      "company": "I3 Verticals, Inc.",
+      "insider_name": "Daily Gregory S",
+      "title": "CEO, 10%",
+      "trade_date": "2026-05-14",
+      "trade_price": 19.23,
+      "value": 961500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 18.69
+      },
+      "latest_price": 18.69,
+      "return_pct": -2.81,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|PSN|2026-05-13|ball george l.|50.0",
+      "market": "US",
+      "ticker": "PSN",
+      "yf_symbol": "PSN",
+      "company": "Parsons Corp",
+      "insider_name": "Ball George L.",
+      "title": "Dir",
+      "trade_date": "2026-05-13",
+      "trade_price": 50.0,
+      "value": 500000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 51.15
+      },
+      "latest_price": 51.15,
+      "return_pct": 2.3,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|STRT|2026-05-12|liebau frederic jack jr|61.37",
+      "market": "US",
+      "ticker": "STRT",
+      "yf_symbol": "STRT",
+      "company": "Strattec Security Corp",
+      "insider_name": "Liebau Frederic Jack Jr",
+      "title": "Dir",
+      "trade_date": "2026-05-12",
+      "trade_price": 61.37,
+      "value": 61370.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 64.4
+      },
+      "latest_price": 64.4,
+      "return_pct": 4.94,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|TONX|2026-05-14|wilson kevin mark|3.66",
+      "market": "US",
+      "ticker": "TONX",
+      "yf_symbol": "TONX",
+      "company": "Ton Strategy Co",
+      "insider_name": "Wilson Kevin Mark",
+      "title": "CEO",
+      "trade_date": "2026-05-14",
+      "trade_price": 3.66,
+      "value": 29353.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 3.58
+      },
+      "latest_price": 3.58,
+      "return_pct": -2.19,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|NPB|2026-05-13|williams charles alan|17.08",
+      "market": "US",
+      "ticker": "NPB",
+      "yf_symbol": "NPB",
+      "company": "Northpointe Bancshares Inc",
+      "insider_name": "Williams Charles Alan",
+      "title": "COB, CEO, 10%",
+      "trade_date": "2026-05-13",
+      "trade_price": 17.08,
+      "value": 427030.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 17.12
+      },
+      "latest_price": 17.12,
+      "return_pct": 0.23,
       "last_snapshot": "2026-05-14"
     }
   ]
