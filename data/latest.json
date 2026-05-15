@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T15:57:22Z",
-  "trade_count": 6639,
+  "last_updated": "2026-05-15T17:25:14Z",
+  "trade_count": 6641,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -106225,6 +106225,38 @@
       "delta_own": "+1%",
       "value": "713403",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-15",
+      "filing_time": "12:38",
+      "trade_date": "2026-05-13",
+      "ticker": "HDSN",
+      "company": "Hudson Technologies Inc /Ny",
+      "insider_name": "Sheriff Alan",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.88",
+      "qty": "5200",
+      "owned": "9265",
+      "delta_own": "+128%",
+      "value": "25350",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-15",
+      "filing_time": "12:36",
+      "trade_date": "2026-05-14",
+      "ticker": "HDSN",
+      "company": "Hudson Technologies Inc /Ny",
+      "insider_name": "Feeler Jeffrey R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.92",
+      "qty": "5100",
+      "owned": "9165",
+      "delta_own": "+125%",
+      "value": "25092",
+      "cluster_buy": true
     }
   ]
 }
