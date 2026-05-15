@@ -6537,7 +6537,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-13,17:12,2026-05-12,KINS,"Kingstone Companies, Inc.",Newgarden Thomas,Dir,P - Purchase,14.44,30502,85366,+56%,440457,False
 2026-05-13,17:10,2026-05-11,ODTX,"Odyssey Therapeutics, Inc.","Tpg Gp A, LLC",Former 10% Owner,P - Purchase,18.00,1388889,3690146,+60%,25000002,True
 2026-05-13,17:08,2026-05-11,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,10.61,8542,799647,+1%,90631,False
-2026-05-13,17:03,2026-05-11,NOMD,Nomad Foods Ltd,Gottesman Noam,Co-Chair,P - Purchase,9.47,700000,11280101,+7%,6632410,False
+2026-05-13,17:03,2026-05-11,NOMD,Nomad Foods Ltd,Gottesman Noam,Co-Chair,P - Purchase,9.47,700000,11280101,+7%,6632410,True
 2026-05-13,17:02,2026-05-13,ITIC,Investors Title Co,"Parker, Jr. Elton C.",Dir,P - Purchase,231.00,538,3750,+17%,124278,False
 2026-05-13,17:00,2026-05-12,NSPR,"Inspiremd, Inc.",Slosman Marvin,"CEO, Pres",P - Purchase,1.20,21000,3556658,+1%,25200,True
 2026-05-13,16:47,2026-05-08,NSPR,"Inspiremd, Inc.",Stuka Paul,Dir,P - Purchase,1.16,75626,1056575,+8%,88026,True
@@ -6648,5 +6648,14 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-15,12:36,2026-05-14,HDSN,Hudson Technologies Inc /Ny,Feeler Jeffrey R,Dir,P - Purchase,4.92,5100,9165,+125%,25092,True
 2026-05-15,14:37,2026-05-14,TFSL,Tfs Financial Corp,Weir Daniel F,Dir,P - Purchase,15.02,7000,78191,+10%,105140,False
 2026-05-15,14:35,2026-05-14,TONX,Ton Strategy Co,Wilson Kevin Mark,CEO,P - Purchase,3.66,8020,8020,New,29353,True
-2026-05-15,13:57,2026-05-13,AVBC,"Avidia Bancorp, Inc.",Cozzone Robert D,"Pres, CEO",P - Purchase,19.77,2023,67325,+3%,39990,False
+2026-05-15,13:57,2026-05-13,AVBC,"Avidia Bancorp, Inc.",Cozzone Robert D,"Pres, CEO",P - Purchase,19.77,2023,67325,+3%,39990,True
 2026-05-15,13:44,2026-05-14,RGR,Sturm Ruger & Co Inc,Pettet Bruce T.,Dir,P - Purchase,39.89,1000,7606,+15%,39890,True
+2026-05-15,16:46,2026-05-13,TXO,"Txo Partners, L.P.",Simpson Bob R,"Dir, 10%",P - Purchase,12.97,301597,7801597,+4%,3911980,True
+2026-05-15,16:37,2026-05-13,NOMD,Nomad Foods Ltd,Ashken Ian G H,Dir,P - Purchase,9.13,100000,610541,+20%,912690,True
+2026-05-15,16:30,2026-05-15,EQPT,Equipmentshare.Com Inc,Bhatia Naveen,Dir,P - Purchase,24.22,10000,312000,+3%,242200,False
+2026-05-15,16:27,2026-05-14,FLS,Flowserve Corp,Savoy Brian D,Dir,P - Purchase,67.34,1000,3573,+39%,67340,False
+2026-05-15,16:24,2026-04-02,SNSE,"Sensei Biotherapeutics, Inc.",Millennium Management LLC,10%,P - Purchase,33.54,4215,133986,+3%,141364,False
+2026-05-15,16:22,2026-03-31,SNSE,"Sensei Biotherapeutics, Inc.",Millennium Management LLC,10%,P - Purchase,31.37,12180,147731,+9%,382100,False
+2026-05-15,16:22,2026-03-26,SNSE,"Sensei Biotherapeutics, Inc.",Millennium Management LLC,10%,P - Purchase,26.75,30585,145678,+27%,818257,False
+2026-05-15,16:15,2026-05-14,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,13.75,2000,1656013,0%,27500,False
+2026-05-15,16:05,2026-05-13,AVBC,"Avidia Bancorp, Inc.",Gilles Michael O,Dir,P - Purchase,19.50,5000,49396,+11%,97496,True
