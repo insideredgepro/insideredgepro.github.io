@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-14",
-  "entry_count": 1039,
+  "entry_count": 1047,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -42660,6 +42660,162 @@
       },
       "latest_price": 1.21,
       "return_pct": -3.2,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|MKTW|2026-05-12|stansberry frank porter|18.25",
+      "market": "US",
+      "ticker": "MKTW",
+      "yf_symbol": "MKTW",
+      "company": "Marketwise, Inc.",
+      "insider_name": "Stansberry Frank Porter",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-12",
+      "trade_price": 18.25,
+      "value": 547400.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 17.27
+      },
+      "latest_price": 17.27,
+      "return_pct": -5.37,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|OSUR|2026-05-12|boyd steven kyle|3.0",
+      "market": "US",
+      "ticker": "OSUR",
+      "yf_symbol": "OSUR",
+      "company": "Orasure Technologies Inc",
+      "insider_name": "Boyd Steven Kyle",
+      "title": "Dir",
+      "trade_date": "2026-05-12",
+      "trade_price": 3.0,
+      "value": 224750.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 2.95
+      },
+      "latest_price": 2.95,
+      "return_pct": -1.67,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|ALKT|2026-05-12|general atlantic genpar (bermuda), l.p.|16.67",
+      "market": "US",
+      "ticker": "ALKT",
+      "yf_symbol": "ALKT",
+      "company": "Alkami Technology, Inc.",
+      "insider_name": "General Atlantic Genpar (Bermuda), L.P.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-12",
+      "trade_price": 16.67,
+      "value": 32929750.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 16.62
+      },
+      "latest_price": 16.62,
+      "return_pct": -0.3,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|CXNU|2026-05-12|onepointtwo capital ventures llc|0.8",
+      "market": "US",
+      "ticker": "CXNU",
+      "yf_symbol": "CXNU",
+      "company": "Conexeu Sciences Inc.",
+      "insider_name": "Onepointtwo Capital Ventures LLC",
+      "title": "10%",
+      "trade_date": "2026-05-12",
+      "trade_price": 0.8,
+      "value": 338000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "US|ALKT|2026-05-12|general atlantic, l.p.|16.67",
+      "market": "US",
+      "ticker": "ALKT",
+      "yf_symbol": "ALKT",
+      "company": "Alkami Technology, Inc.",
+      "insider_name": "General Atlantic, L.P.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-12",
+      "trade_price": 16.67,
+      "value": 32929750.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 16.62
+      },
+      "latest_price": 16.62,
+      "return_pct": -0.3,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|GPGI|2026-05-12|loree rebecca corbin|12.87",
+      "market": "US",
+      "ticker": "GPGI",
+      "yf_symbol": "GPGI",
+      "company": "Gpgi, Inc.",
+      "insider_name": "Loree Rebecca Corbin",
+      "title": "Dir",
+      "trade_date": "2026-05-12",
+      "trade_price": 12.87,
+      "value": 50515.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 12.42
+      },
+      "latest_price": 12.42,
+      "return_pct": -3.5,
+      "last_snapshot": "2026-05-14"
+    },
+    {
+      "id": "US|CXNU|2026-05-12|purcell lynn sebastian|0.8",
+      "market": "US",
+      "ticker": "CXNU",
+      "yf_symbol": "CXNU",
+      "company": "Conexeu Sciences Inc.",
+      "insider_name": "Purcell Lynn Sebastian",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-12",
+      "trade_price": 0.8,
+      "value": 338000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "US|BH|2026-05-12|biglari, sardar|255.15",
+      "market": "US",
+      "ticker": "BH",
+      "yf_symbol": "BH",
+      "company": "Biglari Holdings Inc.",
+      "insider_name": "Biglari, Sardar",
+      "title": "COB, CEO, 10%",
+      "trade_date": "2026-05-12",
+      "trade_price": 255.15,
+      "value": 13439604.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-14": 258.17
+      },
+      "latest_price": 258.17,
+      "return_pct": 1.18,
       "last_snapshot": "2026-05-14"
     }
   ]
