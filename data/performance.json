@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-15",
-  "entry_count": 1079,
+  "entry_count": 1082,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -43945,8 +43945,8 @@
       "snapshots": {
         "2026-05-15": 36.16
       },
-      "latest_price": 37.26,
-      "return_pct": 1.69,
+      "latest_price": 36.84,
+      "return_pct": 0.55,
       "last_snapshot": "2026-05-15"
     },
     {
@@ -43965,8 +43965,8 @@
       "snapshots": {
         "2026-05-15": 36.16
       },
-      "latest_price": 37.26,
-      "return_pct": 1.69,
+      "latest_price": 36.84,
+      "return_pct": 0.55,
       "last_snapshot": "2026-05-15"
     },
     {
@@ -43985,8 +43985,8 @@
       "snapshots": {
         "2026-05-15": 36.16
       },
-      "latest_price": 37.26,
-      "return_pct": 1.69,
+      "latest_price": 36.84,
+      "return_pct": 0.55,
       "last_snapshot": "2026-05-15"
     },
     {
@@ -44467,6 +44467,66 @@
       },
       "latest_price": 33.53,
       "return_pct": -4.53,
+      "last_snapshot": "2026-05-15"
+    },
+    {
+      "id": "US|CVBF|2026-05-14|borba george a jr|19.92",
+      "market": "US",
+      "ticker": "CVBF",
+      "yf_symbol": "CVBF",
+      "company": "Cvb Financial Corp",
+      "insider_name": "Borba George A Jr",
+      "title": "Dir",
+      "trade_date": "2026-05-14",
+      "trade_price": 19.92,
+      "value": 499982.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-15": 19.54
+      },
+      "latest_price": 19.54,
+      "return_pct": -1.91,
+      "last_snapshot": "2026-05-15"
+    },
+    {
+      "id": "US|GSHD|2026-05-15|jones mark e. jr.|37.5",
+      "market": "US",
+      "ticker": "GSHD",
+      "yf_symbol": "GSHD",
+      "company": "Goosehead Insurance, Inc.",
+      "insider_name": "Jones Mark E. Jr.",
+      "title": "Pres, COO, 10%",
+      "trade_date": "2026-05-15",
+      "trade_price": 37.5,
+      "value": 99375.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-15": 37.65
+      },
+      "latest_price": 37.65,
+      "return_pct": 0.4,
+      "last_snapshot": "2026-05-15"
+    },
+    {
+      "id": "US|GSHD|2026-05-14|miller mark|36.89",
+      "market": "US",
+      "ticker": "GSHD",
+      "yf_symbol": "GSHD",
+      "company": "Goosehead Insurance, Inc.",
+      "insider_name": "Miller Mark",
+      "title": "Pres, CEO",
+      "trade_date": "2026-05-14",
+      "trade_price": 36.89,
+      "value": 184450.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-15": 37.65
+      },
+      "latest_price": 37.65,
+      "return_pct": 2.06,
       "last_snapshot": "2026-05-15"
     }
   ]

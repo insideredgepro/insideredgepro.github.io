@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T21:50:59Z",
-  "trade_count": 6663,
+  "last_updated": "2026-05-15T22:44:27Z",
+  "trade_count": 6666,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -106608,6 +106608,54 @@
       "owned": "1690",
       "delta_own": "+526%",
       "value": "49874",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-15",
+      "filing_time": "18:18",
+      "trade_date": "2026-05-14",
+      "ticker": "CVBF",
+      "company": "Cvb Financial Corp",
+      "insider_name": "Borba George A Jr",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "19.92",
+      "qty": "25097",
+      "owned": "7752673",
+      "delta_own": "0%",
+      "value": "499982",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-15",
+      "filing_time": "18:14",
+      "trade_date": "2026-05-15",
+      "ticker": "GSHD",
+      "company": "Goosehead Insurance, Inc.",
+      "insider_name": "Jones Mark E. Jr.",
+      "title": "Pres, COO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "37.50",
+      "qty": "2650",
+      "owned": "7014",
+      "delta_own": "+61%",
+      "value": "99375",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-15",
+      "filing_time": "18:13",
+      "trade_date": "2026-05-14",
+      "ticker": "GSHD",
+      "company": "Goosehead Insurance, Inc.",
+      "insider_name": "Miller Mark",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "36.89",
+      "qty": "5000",
+      "owned": "40000",
+      "delta_own": "+14%",
+      "value": "184450",
       "cluster_buy": true
     }
   ]
