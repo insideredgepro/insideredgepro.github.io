@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T17:00:22Z",
-  "trade_count": 3067,
+  "last_updated": "2026-05-15T19:00:20Z",
+  "trade_count": 3069,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -46621,6 +46621,38 @@
       "qty": "6579",
       "price": "3.8300",
       "value": "25197",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4719924",
+      "trade_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "company": "Copper Giant Resources Corp.",
+      "ticker": "CGNT",
+      "insider_name": "Giustra, Frank",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "200000",
+      "price": "0.6600",
+      "value": "132000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4719926",
+      "trade_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "company": "Superior Plus Corp.",
+      "ticker": "SPB",
+      "insider_name": "Winger, Dale Alan",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "7.6528",
+      "value": "76528",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
