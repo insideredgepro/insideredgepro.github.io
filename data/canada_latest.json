@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T01:00:23Z",
-  "trade_count": 3058,
+  "last_updated": "2026-05-15T03:00:21Z",
+  "trade_count": 3062,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -46480,6 +46480,70 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4719526",
+      "trade_date": "2026-05-14",
+      "filing_date": "2026-05-14",
+      "company": "New Break Resources Ltd.",
+      "ticker": "NBRK",
+      "insider_name": "Quigley, Ross",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "102500",
+      "price": "0.3000",
+      "value": "30750",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4719528",
+      "trade_date": "2026-05-14",
+      "filing_date": "2026-05-14",
+      "company": "New Break Resources Ltd.",
+      "ticker": "NBRK",
+      "insider_name": "Quigley, Ross",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "74000",
+      "price": "0.3100",
+      "value": "22940",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4719530",
+      "trade_date": "2026-05-14",
+      "filing_date": "2026-05-14",
+      "company": "New Break Resources Ltd.",
+      "ticker": "NBRK",
+      "insider_name": "Quigley, Ross",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "67000",
+      "price": "0.3200",
+      "value": "21440",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4719524",
+      "trade_date": "2026-05-14",
+      "filing_date": "2026-05-14",
+      "company": "New Break Resources Ltd.",
+      "ticker": "NBRK",
+      "insider_name": "Quigley, Ross",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "114000",
+      "price": "0.3000",
+      "value": "34200",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
