@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T13:00:20Z",
-  "trade_count": 3062,
+  "last_updated": "2026-05-15T15:00:19Z",
+  "trade_count": 3063,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -46541,6 +46541,22 @@
       "qty": "114000",
       "price": "0.3000",
       "value": "34200",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4719596",
+      "trade_date": "2026-05-15",
+      "filing_date": "2026-05-15",
+      "company": "Canadian National Railway Company",
+      "ticker": "CNR",
+      "insider_name": "Howell, Justin M.",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "350",
+      "price": "111.0500",
+      "value": "38867",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
