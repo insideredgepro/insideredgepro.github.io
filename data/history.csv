@@ -6531,7 +6531,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-13,11:24,2026-05-12,TFSL,Tfs Financial Corp,Weir Daniel F,Dir,P - Purchase,14.91,21000,71191,+42%,313110,False
 2026-05-13,10:36,2026-05-12,ATMU,Atmus Filtration Technologies Inc.,Haggerty Gretchen R,Dir,P - Purchase,55.74,1973,28360,+7%,109999,False
 2026-05-13,15:11,2026-05-11,FMBM,F&M Bank Corp,Withers Dean W,Dir,P - Purchase,34.50,2127,50000,+4%,73382,False
-2026-05-13,14:57,2026-05-12,RGR,Sturm Ruger & Co Inc,Widman Phillip,Dir,P - Purchase,38.00,5000,45208,+12%,190000,False
+2026-05-13,14:57,2026-05-12,RGR,Sturm Ruger & Co Inc,Widman Phillip,Dir,P - Purchase,38.00,5000,45208,+12%,190000,True
 2026-05-13,13:39,2026-05-11,CSPI,Csp Inc /Ma/,Nerges Joseph R,10%,P - Purchase,9.23,4248,1415530,0%,39201,False
 2026-05-13,13:19,2026-05-11,MMSI,Merit Medical Systems Inc,Smith Christian Adam,Chief Commercial Officer,P - Purchase,61.00,1626,32554,+5%,99186,True
 2026-05-13,17:12,2026-05-12,KINS,"Kingstone Companies, Inc.",Newgarden Thomas,Dir,P - Purchase,14.44,30502,85366,+56%,440457,False
@@ -6646,3 +6646,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-15,10:59,2026-05-13,CRESY,Cresud Inc,Elsztain Eduardo S,"Dir, 10%",P - Purchase,10.58,67418,9854101,+1%,713403,False
 2026-05-15,12:38,2026-05-13,HDSN,Hudson Technologies Inc /Ny,Sheriff Alan,Dir,P - Purchase,4.88,5200,9265,+128%,25350,True
 2026-05-15,12:36,2026-05-14,HDSN,Hudson Technologies Inc /Ny,Feeler Jeffrey R,Dir,P - Purchase,4.92,5100,9165,+125%,25092,True
+2026-05-15,14:37,2026-05-14,TFSL,Tfs Financial Corp,Weir Daniel F,Dir,P - Purchase,15.02,7000,78191,+10%,105140,False
+2026-05-15,14:35,2026-05-14,TONX,Ton Strategy Co,Wilson Kevin Mark,CEO,P - Purchase,3.66,8020,8020,New,29353,True
+2026-05-15,13:57,2026-05-13,AVBC,"Avidia Bancorp, Inc.",Cozzone Robert D,"Pres, CEO",P - Purchase,19.77,2023,67325,+3%,39990,False
+2026-05-15,13:44,2026-05-14,RGR,Sturm Ruger & Co Inc,Pettet Bruce T.,Dir,P - Purchase,39.89,1000,7606,+15%,39890,True

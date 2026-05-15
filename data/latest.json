@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T17:25:14Z",
-  "trade_count": 6641,
+  "last_updated": "2026-05-15T19:18:20Z",
+  "trade_count": 6645,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -104432,7 +104432,7 @@
       "owned": "45208",
       "delta_own": "+12%",
       "value": "190000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-13",
@@ -106256,6 +106256,70 @@
       "owned": "9165",
       "delta_own": "+125%",
       "value": "25092",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-15",
+      "filing_time": "14:37",
+      "trade_date": "2026-05-14",
+      "ticker": "TFSL",
+      "company": "Tfs Financial Corp",
+      "insider_name": "Weir Daniel F",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "15.02",
+      "qty": "7000",
+      "owned": "78191",
+      "delta_own": "+10%",
+      "value": "105140",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-15",
+      "filing_time": "14:35",
+      "trade_date": "2026-05-14",
+      "ticker": "TONX",
+      "company": "Ton Strategy Co",
+      "insider_name": "Wilson Kevin Mark",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.66",
+      "qty": "8020",
+      "owned": "8020",
+      "delta_own": "New",
+      "value": "29353",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-15",
+      "filing_time": "13:57",
+      "trade_date": "2026-05-13",
+      "ticker": "AVBC",
+      "company": "Avidia Bancorp, Inc.",
+      "insider_name": "Cozzone Robert D",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "19.77",
+      "qty": "2023",
+      "owned": "67325",
+      "delta_own": "+3%",
+      "value": "39990",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-15",
+      "filing_time": "13:44",
+      "trade_date": "2026-05-14",
+      "ticker": "RGR",
+      "company": "Sturm Ruger & Co Inc",
+      "insider_name": "Pettet Bruce T.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "39.89",
+      "qty": "1000",
+      "owned": "7606",
+      "delta_own": "+15%",
+      "value": "39890",
       "cluster_buy": true
     }
   ]
