@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T09:39:43Z",
-  "trade_count": 6629,
+  "last_updated": "2026-05-15T11:48:04Z",
+  "trade_count": 6632,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -106065,6 +106065,54 @@
       "delta_own": "+3%",
       "value": "13439604",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-15",
+      "filing_time": "07:24",
+      "trade_date": "2026-05-13",
+      "ticker": "CMCL",
+      "company": "Caledonia Mining Corp Plc",
+      "insider_name": "Ndlovu July",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "24.81",
+      "qty": "15000",
+      "owned": "229089",
+      "delta_own": "+7%",
+      "value": "372150",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-15",
+      "filing_time": "07:01",
+      "trade_date": "2026-05-14",
+      "ticker": "HROW",
+      "company": "Harrow, Inc.",
+      "insider_name": "Baum Mark L",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "30.20",
+      "qty": "10000",
+      "owned": "2996130",
+      "delta_own": "0%",
+      "value": "302000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-15",
+      "filing_time": "07:00",
+      "trade_date": "2026-05-14",
+      "ticker": "HROW",
+      "company": "Harrow, Inc.",
+      "insider_name": "Boll Andrew R.",
+      "title": "Pres, CFO",
+      "trade_type": "P - Purchase",
+      "price": "29.90",
+      "qty": "3500",
+      "owned": "814679",
+      "delta_own": "0%",
+      "value": "104650",
+      "cluster_buy": true
     }
   ]
 }

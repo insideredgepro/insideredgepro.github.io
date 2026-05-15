@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-15",
-  "entry_count": 1046,
+  "entry_count": 1049,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -43807,6 +43807,66 @@
       },
       "latest_price": 258.17,
       "return_pct": 1.18,
+      "last_snapshot": "2026-05-15"
+    },
+    {
+      "id": "US|CMCL|2026-05-13|ndlovu july|24.81",
+      "market": "US",
+      "ticker": "CMCL",
+      "yf_symbol": "CMCL",
+      "company": "Caledonia Mining Corp Plc",
+      "insider_name": "Ndlovu July",
+      "title": "Dir",
+      "trade_date": "2026-05-13",
+      "trade_price": 24.81,
+      "value": 372150.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-15": 23.92
+      },
+      "latest_price": 23.92,
+      "return_pct": -3.59,
+      "last_snapshot": "2026-05-15"
+    },
+    {
+      "id": "US|HROW|2026-05-14|baum mark l|30.2",
+      "market": "US",
+      "ticker": "HROW",
+      "yf_symbol": "HROW",
+      "company": "Harrow, Inc.",
+      "insider_name": "Baum Mark L",
+      "title": "CEO",
+      "trade_date": "2026-05-14",
+      "trade_price": 30.2,
+      "value": 302000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-15": 30.86
+      },
+      "latest_price": 30.86,
+      "return_pct": 2.19,
+      "last_snapshot": "2026-05-15"
+    },
+    {
+      "id": "US|HROW|2026-05-14|boll andrew r.|29.9",
+      "market": "US",
+      "ticker": "HROW",
+      "yf_symbol": "HROW",
+      "company": "Harrow, Inc.",
+      "insider_name": "Boll Andrew R.",
+      "title": "Pres, CFO",
+      "trade_date": "2026-05-14",
+      "trade_price": 29.9,
+      "value": 104650.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-15": 30.86
+      },
+      "latest_price": 30.86,
+      "return_pct": 3.21,
       "last_snapshot": "2026-05-15"
     }
   ]
