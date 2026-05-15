@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T22:44:27Z",
-  "trade_count": 6666,
+  "last_updated": "2026-05-15T23:46:21Z",
+  "trade_count": 6671,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -106032,7 +106032,7 @@
       "owned": "63220",
       "delta_own": "+7%",
       "value": "50515",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-14",
@@ -106657,6 +106657,86 @@
       "delta_own": "+14%",
       "value": "184450",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-15",
+      "filing_time": "19:29",
+      "trade_date": "2026-05-13",
+      "ticker": "RHLD",
+      "company": "Resolute Holdings Management, Inc.",
+      "insider_name": "Schoen Kurt",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "108.34",
+      "qty": "450",
+      "owned": "2850",
+      "delta_own": "+19%",
+      "value": "48753",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-15",
+      "filing_time": "19:25",
+      "trade_date": "2026-05-13",
+      "ticker": "GPGI",
+      "company": "Gpgi, Inc.",
+      "insider_name": "Schoen Kurt",
+      "title": "See remarks",
+      "trade_type": "P - Purchase",
+      "price": "12.58",
+      "qty": "4000",
+      "owned": "586317",
+      "delta_own": "+1%",
+      "value": "50320",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-15",
+      "filing_time": "19:25",
+      "trade_date": "2026-05-11",
+      "ticker": "PLSE",
+      "company": "Pulse Biosciences, Inc.",
+      "insider_name": "Duggan Robert W",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "19.69",
+      "qty": "660233",
+      "owned": "49450345",
+      "delta_own": "+1%",
+      "value": "12999988",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-15",
+      "filing_time": "19:10",
+      "trade_date": "2026-05-12",
+      "ticker": "MERC",
+      "company": "Mercer International Inc.",
+      "insider_name": "Kellogg Peter R",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "0.87",
+      "qty": "300000",
+      "owned": "24680929",
+      "delta_own": "+1%",
+      "value": "262398",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-15",
+      "filing_time": "19:07",
+      "trade_date": "2026-05-13",
+      "ticker": "WGS",
+      "company": "Genedx Holdings Corp.",
+      "insider_name": "Meister Keith A.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "39.19",
+      "qty": "351273",
+      "owned": "5137843",
+      "delta_own": "+7%",
+      "value": "13765345",
+      "cluster_buy": false
     }
   ]
 }

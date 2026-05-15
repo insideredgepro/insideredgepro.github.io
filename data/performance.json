@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-15",
-  "entry_count": 1082,
+  "entry_count": 1086,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -42908,8 +42908,8 @@
         "2026-05-14": 7.85,
         "2026-05-15": 7.85
       },
-      "latest_price": 8.71,
-      "return_pct": 10.25,
+      "latest_price": 7.85,
+      "return_pct": -0.63,
       "last_snapshot": "2026-05-15"
     },
     {
@@ -43945,8 +43945,8 @@
       "snapshots": {
         "2026-05-15": 36.16
       },
-      "latest_price": 36.84,
-      "return_pct": 0.55,
+      "latest_price": 37.26,
+      "return_pct": 1.69,
       "last_snapshot": "2026-05-15"
     },
     {
@@ -43965,8 +43965,8 @@
       "snapshots": {
         "2026-05-15": 36.16
       },
-      "latest_price": 36.84,
-      "return_pct": 0.55,
+      "latest_price": 37.26,
+      "return_pct": 1.69,
       "last_snapshot": "2026-05-15"
     },
     {
@@ -43985,8 +43985,8 @@
       "snapshots": {
         "2026-05-15": 36.16
       },
-      "latest_price": 36.84,
-      "return_pct": 0.55,
+      "latest_price": 37.26,
+      "return_pct": 1.69,
       "last_snapshot": "2026-05-15"
     },
     {
@@ -44527,6 +44527,86 @@
       },
       "latest_price": 37.65,
       "return_pct": 2.06,
+      "last_snapshot": "2026-05-15"
+    },
+    {
+      "id": "US|RHLD|2026-05-13|schoen kurt|108.34",
+      "market": "US",
+      "ticker": "RHLD",
+      "yf_symbol": "RHLD",
+      "company": "Resolute Holdings Management, Inc.",
+      "insider_name": "Schoen Kurt",
+      "title": "CFO",
+      "trade_date": "2026-05-13",
+      "trade_price": 108.34,
+      "value": 48753.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-15": 102.8
+      },
+      "latest_price": 102.8,
+      "return_pct": -5.11,
+      "last_snapshot": "2026-05-15"
+    },
+    {
+      "id": "US|GPGI|2026-05-13|schoen kurt|12.58",
+      "market": "US",
+      "ticker": "GPGI",
+      "yf_symbol": "GPGI",
+      "company": "Gpgi, Inc.",
+      "insider_name": "Schoen Kurt",
+      "title": "See remarks",
+      "trade_date": "2026-05-13",
+      "trade_price": 12.58,
+      "value": 50320.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-15": 12.1
+      },
+      "latest_price": 12.1,
+      "return_pct": -3.82,
+      "last_snapshot": "2026-05-15"
+    },
+    {
+      "id": "US|MERC|2026-05-12|kellogg peter r|0.87",
+      "market": "US",
+      "ticker": "MERC",
+      "yf_symbol": "MERC",
+      "company": "Mercer International Inc.",
+      "insider_name": "Kellogg Peter R",
+      "title": "10%",
+      "trade_date": "2026-05-12",
+      "trade_price": 0.87,
+      "value": 262398.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-15": 0.94
+      },
+      "latest_price": 0.94,
+      "return_pct": 8.05,
+      "last_snapshot": "2026-05-15"
+    },
+    {
+      "id": "US|WGS|2026-05-13|meister keith a.|39.19",
+      "market": "US",
+      "ticker": "WGS",
+      "yf_symbol": "WGS",
+      "company": "Genedx Holdings Corp.",
+      "insider_name": "Meister Keith A.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-13",
+      "trade_price": 39.19,
+      "value": 13765345.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-15": 40.75
+      },
+      "latest_price": 40.75,
+      "return_pct": 3.98,
       "last_snapshot": "2026-05-15"
     }
   ]

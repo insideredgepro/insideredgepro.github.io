@@ -6631,7 +6631,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-14,20:21,2026-05-12,ALKT,"Alkami Technology, Inc.","General Atlantic Genpar (Bermuda), L.P.","Dir, 10%",P - Purchase,16.67,1975000,37616988,+6%,32929750,True
 2026-05-14,20:19,2026-05-12,CXNU,Conexeu Sciences Inc.,Onepointtwo Capital Ventures LLC,10%,P - Purchase,0.80,422500,1047500,+68%,338000,True
 2026-05-14,20:19,2026-05-12,ALKT,"Alkami Technology, Inc.","General Atlantic, L.P.","Dir, 10%",P - Purchase,16.67,1975000,37616988,+6%,32929750,True
-2026-05-14,20:14,2026-05-12,GPGI,"Gpgi, Inc.",Loree Rebecca Corbin,Dir,P - Purchase,12.87,3925,63220,+7%,50515,False
+2026-05-14,20:14,2026-05-12,GPGI,"Gpgi, Inc.",Loree Rebecca Corbin,Dir,P - Purchase,12.87,3925,63220,+7%,50515,True
 2026-05-14,20:12,2026-05-12,CXNU,Conexeu Sciences Inc.,Purcell Lynn Sebastian,"Dir, 10%",P - Purchase,0.80,422500,2531740,+20%,338000,True
 2026-05-14,19:58,2026-05-12,BH,Biglari Holdings Inc.,"Biglari, Sardar","COB, CEO, 10%",P - Purchase,255.15,52674,1624435,+3%,13439604,False
 2026-05-15,07:24,2026-05-13,CMCL,Caledonia Mining Corp Plc,Ndlovu July,Dir,P - Purchase,24.81,15000,229089,+7%,372150,False
@@ -6671,3 +6671,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-15,18:18,2026-05-14,CVBF,Cvb Financial Corp,Borba George A Jr,Dir,P - Purchase,19.92,25097,7752673,0%,499982,False
 2026-05-15,18:14,2026-05-15,GSHD,"Goosehead Insurance, Inc.",Jones Mark E. Jr.,"Pres, COO, 10%",P - Purchase,37.50,2650,7014,+61%,99375,True
 2026-05-15,18:13,2026-05-14,GSHD,"Goosehead Insurance, Inc.",Miller Mark,"Pres, CEO",P - Purchase,36.89,5000,40000,+14%,184450,True
+2026-05-15,19:29,2026-05-13,RHLD,"Resolute Holdings Management, Inc.",Schoen Kurt,CFO,P - Purchase,108.34,450,2850,+19%,48753,False
+2026-05-15,19:25,2026-05-13,GPGI,"Gpgi, Inc.",Schoen Kurt,See remarks,P - Purchase,12.58,4000,586317,+1%,50320,True
+2026-05-15,19:25,2026-05-11,PLSE,"Pulse Biosciences, Inc.",Duggan Robert W,"Dir, 10%",P - Purchase,19.69,660233,49450345,+1%,12999988,True
+2026-05-15,19:10,2026-05-12,MERC,Mercer International Inc.,Kellogg Peter R,10%,P - Purchase,0.87,300000,24680929,+1%,262398,False
+2026-05-15,19:07,2026-05-13,WGS,Genedx Holdings Corp.,Meister Keith A.,"Dir, 10%",P - Purchase,39.19,351273,5137843,+7%,13765345,False
