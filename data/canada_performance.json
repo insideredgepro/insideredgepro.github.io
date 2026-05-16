@@ -1806,7 +1806,7 @@
       "id": "CA|FISH|2026-03-25|mckenzie, bryan mark albert|3.55",
       "market": "CA",
       "ticker": "FISH",
-      "yf_symbol": "FISH.V",
+      "yf_symbol": "FISH.NE",
       "company": "Sailfish Royalty Corp.",
       "insider_name": "McKenzie, Bryan Mark Albert",
       "title": "Senior Officer",
@@ -1818,8 +1818,8 @@
       "snapshots": {
         "2026-05-16": 3.75
       },
-      "latest_price": 3.75,
-      "return_pct": 5.63,
+      "latest_price": 3.76,
+      "return_pct": 5.92,
       "last_snapshot": "2026-05-16"
     },
     {
@@ -3006,7 +3006,7 @@
       "id": "CA|LMN|2026-03-31|sharpley, david|22.502",
       "market": "CA",
       "ticker": "LMN",
-      "yf_symbol": "LMN.V",
+      "yf_symbol": "LMN.NE",
       "company": "Lumine Group Inc.",
       "insider_name": "Sharpley, David",
       "title": "Senior Officer",
@@ -3018,8 +3018,8 @@
       "snapshots": {
         "2026-05-16": 19.91
       },
-      "latest_price": 19.91,
-      "return_pct": -11.52,
+      "latest_price": 19.99,
+      "return_pct": -11.16,
       "last_snapshot": "2026-05-16"
     },
     {
@@ -3746,7 +3746,7 @@
       "id": "CA|TWR|2026-04-10|dhami, r. joe|0.17",
       "market": "CA",
       "ticker": "TWR",
-      "yf_symbol": "TWR.V",
+      "yf_symbol": "TWR.NE",
       "company": "Tower Resources Ltd.",
       "insider_name": "Dhami, R. Joe",
       "title": "Director & Senior Officer",
@@ -3758,8 +3758,8 @@
       "snapshots": {
         "2026-05-16": 0.17
       },
-      "latest_price": 0.17,
-      "return_pct": 0.0,
+      "latest_price": 0.165,
+      "return_pct": -2.94,
       "last_snapshot": "2026-05-16"
     },
     {
