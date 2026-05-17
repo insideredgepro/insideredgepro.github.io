@@ -2526,7 +2526,7 @@
       "id": "CA|NFG|2026-03-30|brown, tamara lee|2.42",
       "market": "CA",
       "ticker": "NFG",
-      "yf_symbol": "NFG.NE",
+      "yf_symbol": "NFG.V",
       "company": "New Found Gold Corp.",
       "insider_name": "Brown, Tamara Lee",
       "title": "Director",
@@ -2547,7 +2547,7 @@
       "id": "CA|NFG|2026-03-30|williams, chad|2.43",
       "market": "CA",
       "ticker": "NFG",
-      "yf_symbol": "NFG.NE",
+      "yf_symbol": "NFG.V",
       "company": "New Found Gold Corp.",
       "insider_name": "Williams, Chad",
       "title": "Director",
@@ -2568,7 +2568,7 @@
       "id": "CA|NFG|2026-03-30|williams, chad|2.45",
       "market": "CA",
       "ticker": "NFG",
-      "yf_symbol": "NFG.NE",
+      "yf_symbol": "NFG.V",
       "company": "New Found Gold Corp.",
       "insider_name": "Williams, Chad",
       "title": "Director",
@@ -3649,11 +3649,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-05-16": 0.17
+        "2026-05-16": 0.17,
+        "2026-05-17": 0.17
       },
       "latest_price": 0.17,
       "return_pct": 30.77,
-      "last_snapshot": "2026-05-16"
+      "last_snapshot": "2026-05-17"
     },
     {
       "id": "CA|TRZ|2026-04-08|p\u00e9ladeau, pierre karl|2.54",
@@ -7583,7 +7584,7 @@
       "id": "CA|CAR-UN|2026-05-12|silver, kenneth|34.4497",
       "market": "CA",
       "ticker": "CAR-UN",
-      "yf_symbol": "CAR-UN.NE",
+      "yf_symbol": "CAR-UN.TO",
       "company": "Canadian Apartment Properties Real Estate Investment Trust",
       "insider_name": "Silver, Kenneth",
       "title": "Director",
@@ -7596,15 +7597,15 @@
         "2026-05-16": 33.36,
         "2026-05-17": 33.32
       },
-      "latest_price": 33.32,
-      "return_pct": -3.28,
+      "latest_price": 33.36,
+      "return_pct": -3.16,
       "last_snapshot": "2026-05-17"
     },
     {
       "id": "CA|CAR-UN|2026-05-12|tremblay, ren\u00e9|34.22",
       "market": "CA",
       "ticker": "CAR-UN",
-      "yf_symbol": "CAR-UN.NE",
+      "yf_symbol": "CAR-UN.TO",
       "company": "Canadian Apartment Properties Real Estate Investment Trust",
       "insider_name": "Tremblay, Ren\u00e9",
       "title": "Director",
@@ -7617,8 +7618,8 @@
         "2026-05-16": 33.36,
         "2026-05-17": 33.32
       },
-      "latest_price": 33.32,
-      "return_pct": -2.63,
+      "latest_price": 33.36,
+      "return_pct": -2.51,
       "last_snapshot": "2026-05-17"
     },
     {
@@ -8633,7 +8634,7 @@
       "id": "CA|NBRK|2026-05-14|quigley, ross|0.3",
       "market": "CA",
       "ticker": "NBRK",
-      "yf_symbol": "NBRK.CN",
+      "yf_symbol": "NBRK.NE",
       "company": "New Break Resources Ltd.",
       "insider_name": "Quigley, Ross",
       "title": "10% Holder",
@@ -8646,15 +8647,15 @@
         "2026-05-16": 0.29,
         "2026-05-17": 0.29
       },
-      "latest_price": 0.29,
-      "return_pct": -3.33,
+      "latest_price": 0.3,
+      "return_pct": 0.0,
       "last_snapshot": "2026-05-17"
     },
     {
       "id": "CA|NBRK|2026-05-14|quigley, ross|0.31",
       "market": "CA",
       "ticker": "NBRK",
-      "yf_symbol": "NBRK.CN",
+      "yf_symbol": "NBRK.NE",
       "company": "New Break Resources Ltd.",
       "insider_name": "Quigley, Ross",
       "title": "10% Holder",
@@ -8667,15 +8668,15 @@
         "2026-05-16": 0.29,
         "2026-05-17": 0.29
       },
-      "latest_price": 0.29,
-      "return_pct": -6.45,
+      "latest_price": 0.3,
+      "return_pct": -3.23,
       "last_snapshot": "2026-05-17"
     },
     {
       "id": "CA|NBRK|2026-05-14|quigley, ross|0.32",
       "market": "CA",
       "ticker": "NBRK",
-      "yf_symbol": "NBRK.CN",
+      "yf_symbol": "NBRK.NE",
       "company": "New Break Resources Ltd.",
       "insider_name": "Quigley, Ross",
       "title": "10% Holder",
@@ -8688,8 +8689,8 @@
         "2026-05-16": 0.29,
         "2026-05-17": 0.29
       },
-      "latest_price": 0.29,
-      "return_pct": -9.38,
+      "latest_price": 0.3,
+      "return_pct": -6.25,
       "last_snapshot": "2026-05-17"
     },
     {
