@@ -2586,7 +2586,7 @@
       "id": "CA|HBM|2026-03-30|kukielski, peter gerald jan|26.71",
       "market": "CA",
       "ticker": "HBM",
-      "yf_symbol": "HBM.TO",
+      "yf_symbol": "HBM.NE",
       "company": "Hudbay Minerals Inc.",
       "insider_name": "Kukielski, Peter Gerald Jan",
       "title": "Director & Senior Officer",
@@ -2598,8 +2598,8 @@
       "snapshots": {
         "2026-05-16": 34.35
       },
-      "latest_price": 34.35,
-      "return_pct": 28.6,
+      "latest_price": 34.345,
+      "return_pct": 28.58,
       "last_snapshot": "2026-05-16"
     },
     {
@@ -6084,7 +6084,7 @@
       "id": "CA|ESM|2026-05-05|sboros, grant|0.15",
       "market": "CA",
       "ticker": "ESM",
-      "yf_symbol": "ESM.TO",
+      "yf_symbol": "ESM.NE",
       "company": "Euro Sun Mining Inc.",
       "insider_name": "Sboros, Grant",
       "title": "Director & Senior Officer",
@@ -6096,8 +6096,8 @@
       "snapshots": {
         "2026-05-16": 0.168
       },
-      "latest_price": 0.168,
-      "return_pct": 12.0,
+      "latest_price": 0.17,
+      "return_pct": 13.33,
       "last_snapshot": "2026-05-16"
     },
     {
