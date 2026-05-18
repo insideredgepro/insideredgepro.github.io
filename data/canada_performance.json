@@ -1,343 +1,7 @@
 {
-  "last_updated": "2026-05-17",
-  "entry_count": 432,
+  "last_updated": "2026-05-18",
+  "entry_count": 416,
   "entries": [
-    {
-      "id": "CA|XX|2026-03-18|klopot, robert|1.39",
-      "market": "CA",
-      "ticker": "XX",
-      "yf_symbol": "XX.V",
-      "company": "Avante Corp.",
-      "insider_name": "Klopot, Robert",
-      "title": "Director",
-      "trade_date": "2026-03-18",
-      "trade_price": 1.39,
-      "value": 347500.0,
-      "cluster_buy": true,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-05-16": 1.28,
-        "2026-05-17": 1.28
-      },
-      "latest_price": 1.28,
-      "return_pct": -7.91,
-      "last_snapshot": "2026-05-17"
-    },
-    {
-      "id": "CA|NILI|2026-03-18|reimer, greg|0.56",
-      "market": "CA",
-      "ticker": "NILI",
-      "yf_symbol": "NILI.V",
-      "company": "Surge Battery Metals Inc.",
-      "insider_name": "REIMER, GREG",
-      "title": "Director & Senior Officer",
-      "trade_date": "2026-03-18",
-      "trade_price": 0.56,
-      "value": 29120.0,
-      "cluster_buy": true,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-05-16": 0.65,
-        "2026-05-17": 0.65
-      },
-      "latest_price": 0.65,
-      "return_pct": 16.07,
-      "last_snapshot": "2026-05-17"
-    },
-    {
-      "id": "CA|BDT|2026-03-18|mckibbon, terrance lloyd|36.0",
-      "market": "CA",
-      "ticker": "BDT",
-      "yf_symbol": "BDT.TO",
-      "company": "Bird Construction Inc.",
-      "insider_name": "McKibbon, Terrance Lloyd",
-      "title": "Director & Senior Officer",
-      "trade_date": "2026-03-18",
-      "trade_price": 36.0,
-      "value": 180000.0,
-      "cluster_buy": true,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-05-16": 58.35,
-        "2026-05-17": 58.35
-      },
-      "latest_price": 58.35,
-      "return_pct": 62.08,
-      "last_snapshot": "2026-05-17"
-    },
-    {
-      "id": "CA|HOM-UN|2026-03-18|senst, graham david|15.72",
-      "market": "CA",
-      "ticker": "HOM-UN",
-      "yf_symbol": "HOM-UN.TO",
-      "company": "BSR Real Estate Investment Trust",
-      "insider_name": "Senst, Graham David",
-      "title": "Director",
-      "trade_date": "2026-03-18",
-      "trade_price": 15.72,
-      "value": 15720.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-05-16": 15.57,
-        "2026-05-17": 15.57
-      },
-      "latest_price": 15.57,
-      "return_pct": -0.95,
-      "last_snapshot": "2026-05-17"
-    },
-    {
-      "id": "CA|EPRX|2026-03-18|freedman, joseph stuart|10.9018",
-      "market": "CA",
-      "ticker": "EPRX",
-      "yf_symbol": "EPRX.TO",
-      "company": "Eupraxia Pharmaceuticals Inc.",
-      "insider_name": "Freedman, Joseph Stuart",
-      "title": "Director",
-      "trade_date": "2026-03-18",
-      "trade_price": 10.9018,
-      "value": 18533.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-05-16": 9.54,
-        "2026-05-17": 9.54
-      },
-      "latest_price": 9.54,
-      "return_pct": -12.49,
-      "last_snapshot": "2026-05-17"
-    },
-    {
-      "id": "CA|EPRX|2026-03-18|freedman, joseph stuart|10.1667",
-      "market": "CA",
-      "ticker": "EPRX",
-      "yf_symbol": "EPRX.TO",
-      "company": "Eupraxia Pharmaceuticals Inc.",
-      "insider_name": "Freedman, Joseph Stuart",
-      "title": "Director",
-      "trade_date": "2026-03-18",
-      "trade_price": 10.1667,
-      "value": 39385.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-05-16": 9.54,
-        "2026-05-17": 9.54
-      },
-      "latest_price": 9.54,
-      "return_pct": -6.16,
-      "last_snapshot": "2026-05-17"
-    },
-    {
-      "id": "CA|EPRX|2026-03-18|freedman, joseph stuart|10.91",
-      "market": "CA",
-      "ticker": "EPRX",
-      "yf_symbol": "EPRX.TO",
-      "company": "Eupraxia Pharmaceuticals Inc.",
-      "insider_name": "Freedman, Joseph Stuart",
-      "title": "Director",
-      "trade_date": "2026-03-18",
-      "trade_price": 10.91,
-      "value": 19638.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-05-16": 9.54,
-        "2026-05-17": 9.54
-      },
-      "latest_price": 9.54,
-      "return_pct": -12.56,
-      "last_snapshot": "2026-05-17"
-    },
-    {
-      "id": "CA|EPRX|2026-03-18|freedman, joseph stuart|10.8935",
-      "market": "CA",
-      "ticker": "EPRX",
-      "yf_symbol": "EPRX.TO",
-      "company": "Eupraxia Pharmaceuticals Inc.",
-      "insider_name": "Freedman, Joseph Stuart",
-      "title": "Director",
-      "trade_date": "2026-03-18",
-      "trade_price": 10.8935,
-      "value": 18518.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-05-16": 9.54,
-        "2026-05-17": 9.54
-      },
-      "latest_price": 9.54,
-      "return_pct": -12.42,
-      "last_snapshot": "2026-05-17"
-    },
-    {
-      "id": "CA|EPRX|2026-03-18|freedman, joseph stuart|10.9",
-      "market": "CA",
-      "ticker": "EPRX",
-      "yf_symbol": "EPRX.TO",
-      "company": "Eupraxia Pharmaceuticals Inc.",
-      "insider_name": "Freedman, Joseph Stuart",
-      "title": "Director",
-      "trade_date": "2026-03-18",
-      "trade_price": 10.9,
-      "value": 21026.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-05-16": 9.54,
-        "2026-05-17": 9.54
-      },
-      "latest_price": 9.54,
-      "return_pct": -12.48,
-      "last_snapshot": "2026-05-17"
-    },
-    {
-      "id": "CA|EPRX|2026-03-18|freedman, joseph stuart|10.715",
-      "market": "CA",
-      "ticker": "EPRX",
-      "yf_symbol": "EPRX.TO",
-      "company": "Eupraxia Pharmaceuticals Inc.",
-      "insider_name": "Freedman, Joseph Stuart",
-      "title": "Director",
-      "trade_date": "2026-03-18",
-      "trade_price": 10.715,
-      "value": 45003.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-05-16": 9.54,
-        "2026-05-17": 9.54
-      },
-      "latest_price": 9.54,
-      "return_pct": -10.97,
-      "last_snapshot": "2026-05-17"
-    },
-    {
-      "id": "CA|EPRX|2026-03-18|freedman, joseph stuart|10.6494",
-      "market": "CA",
-      "ticker": "EPRX",
-      "yf_symbol": "EPRX.TO",
-      "company": "Eupraxia Pharmaceuticals Inc.",
-      "insider_name": "Freedman, Joseph Stuart",
-      "title": "Director",
-      "trade_date": "2026-03-18",
-      "trade_price": 10.6494,
-      "value": 19168.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-05-16": 9.54,
-        "2026-05-17": 9.54
-      },
-      "latest_price": 9.54,
-      "return_pct": -10.42,
-      "last_snapshot": "2026-05-17"
-    },
-    {
-      "id": "CA|ILLM|2026-03-18|andrews, david|0.78",
-      "market": "CA",
-      "ticker": "ILLM",
-      "yf_symbol": "ILLM.TO",
-      "company": "illumin Holdings Inc.",
-      "insider_name": "Andrews, David",
-      "title": "Director",
-      "trade_date": "2026-03-18",
-      "trade_price": 0.78,
-      "value": 78000.0,
-      "cluster_buy": true,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-05-16": 0.81,
-        "2026-05-17": 0.81
-      },
-      "latest_price": 0.81,
-      "return_pct": 3.85,
-      "last_snapshot": "2026-05-17"
-    },
-    {
-      "id": "CA|ILLM|2026-03-18|pollack, sheldon|0.78",
-      "market": "CA",
-      "ticker": "ILLM",
-      "yf_symbol": "ILLM.TO",
-      "company": "illumin Holdings Inc.",
-      "insider_name": "Pollack, Sheldon",
-      "title": "Director",
-      "trade_date": "2026-03-18",
-      "trade_price": 0.78,
-      "value": 156000.0,
-      "cluster_buy": true,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-05-16": 0.81,
-        "2026-05-17": 0.81
-      },
-      "latest_price": 0.81,
-      "return_pct": 3.85,
-      "last_snapshot": "2026-05-17"
-    },
-    {
-      "id": "CA|SGML|2026-03-18|freire de paiva, marcelo|10.8",
-      "market": "CA",
-      "ticker": "SGML",
-      "yf_symbol": "SGML.V",
-      "company": "Sigma Lithium Corporation",
-      "insider_name": "Freire de Paiva, Marcelo",
-      "title": "Director",
-      "trade_date": "2026-03-18",
-      "trade_price": 10.8,
-      "value": 54000.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-05-16": 23.28,
-        "2026-05-17": 23.28
-      },
-      "latest_price": 23.28,
-      "return_pct": 115.56,
-      "last_snapshot": "2026-05-17"
-    },
-    {
-      "id": "CA|SGML|2026-03-18|freire de paiva, marcelo|10.51",
-      "market": "CA",
-      "ticker": "SGML",
-      "yf_symbol": "SGML.V",
-      "company": "Sigma Lithium Corporation",
-      "insider_name": "Freire de Paiva, Marcelo",
-      "title": "Director",
-      "trade_date": "2026-03-18",
-      "trade_price": 10.51,
-      "value": 52550.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-05-16": 23.28,
-        "2026-05-17": 23.28
-      },
-      "latest_price": 23.28,
-      "return_pct": 121.5,
-      "last_snapshot": "2026-05-17"
-    },
-    {
-      "id": "CA|STLR|2026-03-18|gagne, james|1.56",
-      "market": "CA",
-      "ticker": "STLR",
-      "yf_symbol": "STLR.TO",
-      "company": "STLLR Gold Inc.",
-      "insider_name": "Gagne, James",
-      "title": "Senior Officer",
-      "trade_date": "2026-03-18",
-      "trade_price": 1.56,
-      "value": 15600.0,
-      "cluster_buy": true,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-05-16": 1.5,
-        "2026-05-17": 1.5
-      },
-      "latest_price": 1.5,
-      "return_pct": -3.85,
-      "last_snapshot": "2026-05-17"
-    },
     {
       "id": "CA|ALS|2026-03-19|raguz, mark|40.2",
       "market": "CA",
@@ -353,11 +17,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 52.84,
-        "2026-05-17": 53.23
+        "2026-05-17": 53.23,
+        "2026-05-18": 53.23
       },
       "latest_price": 53.23,
       "return_pct": 32.41,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|KMP-UN|2026-03-19|walt, manfred|16.0",
@@ -374,11 +39,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 17.94,
-        "2026-05-17": 17.94
+        "2026-05-17": 17.94,
+        "2026-05-18": 17.94
       },
       "latest_price": 17.94,
       "return_pct": 12.13,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TVE|2026-03-19|spitzer, robert|5.44",
@@ -395,11 +61,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.34,
-        "2026-05-17": 13.34
+        "2026-05-17": 13.34,
+        "2026-05-18": 13.34
       },
       "latest_price": 13.34,
       "return_pct": 145.22,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TMQ|2026-03-19|langelaar, olav|4.64",
@@ -437,11 +104,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 141.87,
-        "2026-05-17": 141.87
+        "2026-05-17": 141.87,
+        "2026-05-18": 141.87
       },
       "latest_price": 141.87,
       "return_pct": 1.7,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|KMP-UN|2026-03-19|walt, manfred|16.0589",
@@ -458,11 +126,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 17.94,
-        "2026-05-17": 17.94
+        "2026-05-17": 17.94,
+        "2026-05-18": 17.94
       },
       "latest_price": 17.94,
       "return_pct": 11.71,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TVE|2026-03-19|baker, rocky (rawleen)|10.1",
@@ -479,11 +148,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.34,
-        "2026-05-17": 13.34
+        "2026-05-17": 13.34,
+        "2026-05-18": 13.34
       },
       "latest_price": 13.34,
       "return_pct": 32.08,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TVE|2026-03-19|buytels, steven|10.19",
@@ -500,11 +170,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.34,
-        "2026-05-17": 13.34
+        "2026-05-17": 13.34,
+        "2026-05-18": 13.34
       },
       "latest_price": 13.34,
       "return_pct": 30.91,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TVE|2026-03-19|chrumka, lynne patricia|10.03",
@@ -521,11 +192,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.34,
-        "2026-05-17": 13.34
+        "2026-05-17": 13.34,
+        "2026-05-18": 13.34
       },
       "latest_price": 13.34,
       "return_pct": 33.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TVE|2026-03-19|johnston, kevin james|10.06",
@@ -542,11 +214,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.34,
-        "2026-05-17": 13.34
+        "2026-05-17": 13.34,
+        "2026-05-18": 13.34
       },
       "latest_price": 13.34,
       "return_pct": 32.6,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TVE|2026-03-19|schmidt, brian leslie|9.85",
@@ -563,11 +236,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.34,
-        "2026-05-17": 13.34
+        "2026-05-17": 13.34,
+        "2026-05-18": 13.34
       },
       "latest_price": 13.34,
       "return_pct": 35.43,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TVE|2026-03-19|shimek, scott|10.14",
@@ -584,11 +258,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.34,
-        "2026-05-17": 13.34
+        "2026-05-17": 13.34,
+        "2026-05-18": 13.34
       },
       "latest_price": 13.34,
       "return_pct": 31.56,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TVE|2026-03-19|stoodley, benjamin wayne|10.14",
@@ -605,11 +280,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.34,
-        "2026-05-17": 13.34
+        "2026-05-17": 13.34,
+        "2026-05-18": 13.34
       },
       "latest_price": 13.34,
       "return_pct": 31.56,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|HBFG.CN|2026-03-19|haroun, daniel|1.54",
@@ -626,11 +302,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.45,
-        "2026-05-17": 1.45
+        "2026-05-17": 1.45,
+        "2026-05-18": 1.45
       },
       "latest_price": 1.45,
       "return_pct": -5.84,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ILLM|2026-03-19|barker, bruce william|0.885",
@@ -647,11 +324,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.81,
-        "2026-05-17": 0.81
+        "2026-05-17": 0.81,
+        "2026-05-18": 0.81
       },
       "latest_price": 0.81,
       "return_pct": -8.47,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|OGW|2026-03-19|friedman, alan mark|1.0796",
@@ -668,11 +346,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.4,
-        "2026-05-17": 1.4
+        "2026-05-17": 1.4,
+        "2026-05-18": 1.4
       },
       "latest_price": 1.4,
       "return_pct": 29.68,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|OGN|2026-03-19|locascio, marco|2.03",
@@ -689,11 +368,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 3.41,
-        "2026-05-17": 3.41
+        "2026-05-17": 3.41,
+        "2026-05-18": 3.41
       },
       "latest_price": 3.41,
       "return_pct": 67.98,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|OGN|2026-03-19|locascio, marco|2.02",
@@ -710,11 +390,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 3.41,
-        "2026-05-17": 3.41
+        "2026-05-17": 3.41,
+        "2026-05-18": 3.41
       },
       "latest_price": 3.41,
       "return_pct": 68.81,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SGML|2026-03-19|freire de paiva, marcelo|9.8539",
@@ -731,11 +412,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 23.28,
-        "2026-05-17": 23.28
+        "2026-05-17": 23.28,
+        "2026-05-18": 23.28
       },
       "latest_price": 23.28,
       "return_pct": 136.25,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TIGR|2026-03-19|dolo, keith russell|0.54",
@@ -752,11 +434,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.96,
-        "2026-05-17": 0.96
+        "2026-05-17": 0.96,
+        "2026-05-18": 0.96
       },
       "latest_price": 0.96,
       "return_pct": 77.78,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|WEF|2026-03-19|kernaghan, edward hume|12.3",
@@ -773,11 +456,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.79,
-        "2026-05-17": 13.79
+        "2026-05-17": 13.79,
+        "2026-05-18": 13.79
       },
       "latest_price": 13.79,
       "return_pct": 12.11,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|WEF|2026-03-19|kernaghan, edward hume|12.15",
@@ -794,11 +478,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.79,
-        "2026-05-17": 13.79
+        "2026-05-17": 13.79,
+        "2026-05-18": 13.79
       },
       "latest_price": 13.79,
       "return_pct": 13.5,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|WEF|2026-03-19|kernaghan, elizabeth|12.3",
@@ -815,11 +500,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.79,
-        "2026-05-17": 13.79
+        "2026-05-17": 13.79,
+        "2026-05-18": 13.79
       },
       "latest_price": 13.79,
       "return_pct": 12.11,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|WEF|2026-03-19|kernaghan, elizabeth|12.15",
@@ -836,11 +522,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.79,
-        "2026-05-17": 13.79
+        "2026-05-17": 13.79,
+        "2026-05-18": 13.79
       },
       "latest_price": 13.79,
       "return_pct": 13.5,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|WEF|2026-03-19|kernwood limited|12.3",
@@ -857,11 +544,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.79,
-        "2026-05-17": 13.79
+        "2026-05-17": 13.79,
+        "2026-05-18": 13.79
       },
       "latest_price": 13.79,
       "return_pct": 12.11,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|WEF|2026-03-19|kernwood limited|12.15",
@@ -878,11 +566,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.79,
-        "2026-05-17": 13.79
+        "2026-05-17": 13.79,
+        "2026-05-18": 13.79
       },
       "latest_price": 13.79,
       "return_pct": 13.5,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PSIL.CN|2026-03-20|anthony, todd|1.03",
@@ -899,11 +588,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.29,
-        "2026-05-17": 1.29
+        "2026-05-17": 1.29,
+        "2026-05-18": 1.29
       },
       "latest_price": 1.29,
       "return_pct": 25.24,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BTE|2026-03-20|kalmakoff, chadwick|5.73",
@@ -920,11 +610,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 7.1,
-        "2026-05-17": 7.1
+        "2026-05-17": 7.1,
+        "2026-05-18": 7.1
       },
       "latest_price": 7.1,
       "return_pct": 23.91,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BTE|2026-03-20|maclean, james robert|5.73",
@@ -941,11 +632,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 7.1,
-        "2026-05-17": 7.1
+        "2026-05-17": 7.1,
+        "2026-05-18": 7.1
       },
       "latest_price": 7.1,
       "return_pct": 23.91,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|DII-B|2026-03-20|segel, jeffrey|1.59",
@@ -962,11 +654,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.5,
-        "2026-05-17": 1.5
+        "2026-05-17": 1.5,
+        "2026-05-18": 1.5
       },
       "latest_price": 1.5,
       "return_pct": -5.66,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|DII-B|2026-03-20|segel, jeffrey|1.6",
@@ -983,11 +676,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.5,
-        "2026-05-17": 1.5
+        "2026-05-17": 1.5,
+        "2026-05-18": 1.5
       },
       "latest_price": 1.5,
       "return_pct": -6.25,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|KMP-UN|2026-03-20|walt, manfred|15.8",
@@ -1004,11 +698,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 17.94,
-        "2026-05-17": 17.94
+        "2026-05-17": 17.94,
+        "2026-05-18": 17.94
       },
       "latest_price": 17.94,
       "return_pct": 13.54,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NDM|2026-03-20|kopernik global investors, llc|1.2286",
@@ -1025,11 +720,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.82,
-        "2026-05-17": 2.82
+        "2026-05-17": 2.82,
+        "2026-05-18": 2.82
       },
       "latest_price": 2.82,
       "return_pct": 129.53,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ALS|2026-03-20|raguz, mark|40.978",
@@ -1046,11 +742,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 52.84,
-        "2026-05-17": 53.23
+        "2026-05-17": 53.23,
+        "2026-05-18": 53.23
       },
       "latest_price": 53.23,
       "return_pct": 29.9,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ALS|2026-03-20|raguz, mark|40.877",
@@ -1067,11 +764,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 52.84,
-        "2026-05-17": 53.23
+        "2026-05-17": 53.23,
+        "2026-05-18": 53.23
       },
       "latest_price": 53.23,
       "return_pct": 30.22,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CNR|2026-03-20|monaco, albert|135.6818",
@@ -1088,11 +786,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 153.91,
-        "2026-05-17": 153.91
+        "2026-05-17": 153.91,
+        "2026-05-18": 153.91
       },
       "latest_price": 153.91,
       "return_pct": 13.43,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|EIT-UN|2026-03-20|chernoff, m. bruce|16.0907",
@@ -1109,11 +808,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 17.23,
-        "2026-05-17": 17.23
+        "2026-05-17": 17.23,
+        "2026-05-18": 17.23
       },
       "latest_price": 17.23,
       "return_pct": 7.08,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|OGN|2026-03-20|locascio, marco|2.01",
@@ -1130,11 +830,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 3.41,
-        "2026-05-17": 3.41
+        "2026-05-17": 3.41,
+        "2026-05-18": 3.41
       },
       "latest_price": 3.41,
       "return_pct": 69.65,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PEY|2026-03-20|chetner, stephen jonathan|28.49",
@@ -1151,11 +852,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 26.79,
-        "2026-05-17": 26.77
+        "2026-05-17": 26.77,
+        "2026-05-18": 26.77
       },
       "latest_price": 26.77,
       "return_pct": -6.04,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PRN|2026-03-20|menawat, dr., arun|5.0961",
@@ -1172,11 +874,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 9.51,
-        "2026-05-17": 9.51
+        "2026-05-17": 9.51,
+        "2026-05-18": 9.51
       },
       "latest_price": 9.51,
       "return_pct": 86.61,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SIS|2026-03-20|de montigny, jean-philippe|25.5",
@@ -1193,11 +896,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 27.99,
-        "2026-05-17": 27.99
+        "2026-05-17": 27.99,
+        "2026-05-18": 27.99
       },
       "latest_price": 27.99,
       "return_pct": 9.76,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SGML|2026-03-20|freire de paiva, marcelo|8.9977",
@@ -1214,11 +918,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 23.28,
-        "2026-05-17": 23.28
+        "2026-05-17": 23.28,
+        "2026-05-18": 23.28
       },
       "latest_price": 23.28,
       "return_pct": 158.73,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TI|2026-03-20|adiani, rita|2.61",
@@ -1235,11 +940,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 3.43,
-        "2026-05-17": 3.43
+        "2026-05-17": 3.43,
+        "2026-05-18": 3.43
       },
       "latest_price": 3.43,
       "return_pct": 31.42,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PEY|2026-03-23|frame, riley millar|27.6",
@@ -1256,11 +962,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 26.79,
-        "2026-05-17": 26.77
+        "2026-05-17": 26.77,
+        "2026-05-18": 26.77
       },
       "latest_price": 26.77,
       "return_pct": -3.01,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PEY|2026-03-23|frame, riley millar|27.67",
@@ -1277,11 +984,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 26.79,
-        "2026-05-17": 26.77
+        "2026-05-17": 26.77,
+        "2026-05-18": 26.77
       },
       "latest_price": 26.77,
       "return_pct": -3.25,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NFI|2026-03-23|dewsnup, brian keith|18.39",
@@ -1298,11 +1006,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 20.8,
-        "2026-05-17": 20.8
+        "2026-05-17": 20.8,
+        "2026-05-18": 20.8
       },
       "latest_price": 20.8,
       "return_pct": 13.1,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NEO|2026-03-23|suleman, rahim|20.55",
@@ -1319,11 +1028,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 32.6,
-        "2026-05-17": 32.6
+        "2026-05-17": 32.6,
+        "2026-05-18": 32.6
       },
       "latest_price": 32.6,
       "return_pct": 58.64,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|FF|2026-03-23|neumeyer, keith|0.4",
@@ -1340,11 +1050,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.5,
-        "2026-05-17": 0.5
+        "2026-05-17": 0.5,
+        "2026-05-18": 0.5
       },
       "latest_price": 0.5,
       "return_pct": 25.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LGC|2026-03-23|raykov, rostislav christov|2.0",
@@ -1361,11 +1072,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.97,
-        "2026-05-17": 1.97
+        "2026-05-17": 1.97,
+        "2026-05-18": 1.97
       },
       "latest_price": 1.97,
       "return_pct": -1.5,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|XX|2026-03-24|pollack, jonathan|1.4182",
@@ -1382,11 +1094,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.28,
-        "2026-05-17": 1.28
+        "2026-05-17": 1.28,
+        "2026-05-18": 1.28
       },
       "latest_price": 1.28,
       "return_pct": -9.74,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CLCH|2026-03-24|nix, jon eric|2.3",
@@ -1403,11 +1116,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.25,
-        "2026-05-17": 1.25
+        "2026-05-17": 1.25,
+        "2026-05-18": 1.25
       },
       "latest_price": 1.25,
       "return_pct": -45.65,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|DII-B|2026-03-24|segel, jeffrey|1.7",
@@ -1424,11 +1138,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.5,
-        "2026-05-17": 1.5
+        "2026-05-17": 1.5,
+        "2026-05-18": 1.5
       },
       "latest_price": 1.5,
       "return_pct": -11.76,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|DII-B|2026-03-24|segel, jeffrey|1.73",
@@ -1445,11 +1160,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.5,
-        "2026-05-17": 1.5
+        "2026-05-17": 1.5,
+        "2026-05-18": 1.5
       },
       "latest_price": 1.5,
       "return_pct": -13.29,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CPX|2026-03-24|mclean, pauline kwai sheung|64.11",
@@ -1466,11 +1182,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 63.82,
-        "2026-05-17": 63.82
+        "2026-05-17": 63.82,
+        "2026-05-18": 63.82
       },
       "latest_price": 63.82,
       "return_pct": -0.45,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CPX|2026-03-24|mclean, pauline kwai sheung|64.14",
@@ -1487,11 +1204,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 63.82,
-        "2026-05-17": 63.82
+        "2026-05-17": 63.82,
+        "2026-05-18": 63.82
       },
       "latest_price": 63.82,
       "return_pct": -0.5,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CPX|2026-03-24|mclean, pauline kwai sheung|64.15",
@@ -1508,11 +1226,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 63.82,
-        "2026-05-17": 63.82
+        "2026-05-17": 63.82,
+        "2026-05-18": 63.82
       },
       "latest_price": 63.82,
       "return_pct": -0.51,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CPX|2026-03-24|mclean, pauline kwai sheung|64.2",
@@ -1529,11 +1248,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 63.82,
-        "2026-05-17": 63.82
+        "2026-05-17": 63.82,
+        "2026-05-18": 63.82
       },
       "latest_price": 63.82,
       "return_pct": -0.59,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CPX|2026-03-24|mclean, pauline kwai sheung|64.28",
@@ -1550,11 +1270,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 63.82,
-        "2026-05-17": 63.82
+        "2026-05-17": 63.82,
+        "2026-05-18": 63.82
       },
       "latest_price": 63.82,
       "return_pct": -0.72,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CPX|2026-03-24|mclean, pauline kwai sheung|64.29",
@@ -1571,11 +1292,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 63.82,
-        "2026-05-17": 63.82
+        "2026-05-17": 63.82,
+        "2026-05-18": 63.82
       },
       "latest_price": 63.82,
       "return_pct": -0.73,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CPX|2026-03-24|mclean, pauline kwai sheung|64.31",
@@ -1592,11 +1314,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 63.82,
-        "2026-05-17": 63.82
+        "2026-05-17": 63.82,
+        "2026-05-18": 63.82
       },
       "latest_price": 63.82,
       "return_pct": -0.76,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LGC|2026-03-24|raykov, rostislav christov|1.8",
@@ -1613,11 +1336,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.97,
-        "2026-05-17": 1.97
+        "2026-05-17": 1.97,
+        "2026-05-18": 1.97
       },
       "latest_price": 1.97,
       "return_pct": 9.44,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LGC|2026-03-24|raykov, rostislav christov|1.85",
@@ -1634,11 +1358,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.97,
-        "2026-05-17": 1.97
+        "2026-05-17": 1.97,
+        "2026-05-18": 1.97
       },
       "latest_price": 1.97,
       "return_pct": 6.49,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SYZ|2026-03-24|onemove capital ltd. (formerly seastone invest limited)|3.7987",
@@ -1655,11 +1380,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 3.07,
-        "2026-05-17": 3.07
+        "2026-05-17": 3.07,
+        "2026-05-18": 3.07
       },
       "latest_price": 3.07,
       "return_pct": -19.18,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TOU|2026-03-25|rose, mike|68.4968",
@@ -1676,11 +1402,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 67.5,
-        "2026-05-17": 67.5
+        "2026-05-17": 67.5,
+        "2026-05-18": 67.5
       },
       "latest_price": 67.5,
       "return_pct": -1.46,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CLCH|2026-03-25|nix, jon eric|1.95",
@@ -1697,11 +1424,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.25,
-        "2026-05-17": 1.25
+        "2026-05-17": 1.25,
+        "2026-05-18": 1.25
       },
       "latest_price": 1.25,
       "return_pct": -35.9,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|GRA|2026-03-25|azevedo, pedro azevedo|1.9132",
@@ -1718,11 +1446,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.93,
-        "2026-05-17": 1.93
+        "2026-05-17": 1.93,
+        "2026-05-18": 1.93
       },
       "latest_price": 1.93,
       "return_pct": 0.88,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|GRA|2026-03-25|marinaccio, rocco|1.91",
@@ -1739,11 +1468,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.93,
-        "2026-05-17": 1.93
+        "2026-05-17": 1.93,
+        "2026-05-18": 1.93
       },
       "latest_price": 1.93,
       "return_pct": 1.05,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TCL-A|2026-03-25|boulanger, serge|5.07",
@@ -1760,11 +1490,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 5.31,
-        "2026-05-17": 5.31
+        "2026-05-17": 5.31,
+        "2026-05-18": 5.31
       },
       "latest_price": 5.31,
       "return_pct": 4.73,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|IAU|2026-03-25|young, richard scott|1.9328",
@@ -1781,11 +1512,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.05,
-        "2026-05-17": 2.05
+        "2026-05-17": 2.05,
+        "2026-05-18": 2.05
       },
       "latest_price": 2.05,
       "return_pct": 6.06,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LGC|2026-03-25|lepard, lawrence|1.8952",
@@ -1802,11 +1534,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.97,
-        "2026-05-17": 1.97
+        "2026-05-17": 1.97,
+        "2026-05-18": 1.97
       },
       "latest_price": 1.97,
       "return_pct": 3.95,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|FISH|2026-03-25|mckenzie, bryan mark albert|3.55",
@@ -1823,11 +1556,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 3.75,
-        "2026-05-17": 3.76
+        "2026-05-17": 3.76,
+        "2026-05-18": 3.76
       },
       "latest_price": 3.76,
       "return_pct": 5.92,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|XX|2026-03-25|klopot, robert|1.5",
@@ -1844,11 +1578,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.28,
-        "2026-05-17": 1.28
+        "2026-05-17": 1.28,
+        "2026-05-18": 1.28
       },
       "latest_price": 1.28,
       "return_pct": -14.67,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|XX|2026-03-25|pollack, jonathan|1.5",
@@ -1865,11 +1600,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.28,
-        "2026-05-17": 1.28
+        "2026-05-17": 1.28,
+        "2026-05-18": 1.28
       },
       "latest_price": 1.28,
       "return_pct": -14.67,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|XX|2026-03-25|pollack, jonathan|1.5347",
@@ -1886,11 +1622,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.28,
-        "2026-05-17": 1.28
+        "2026-05-17": 1.28,
+        "2026-05-18": 1.28
       },
       "latest_price": 1.28,
       "return_pct": -16.6,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LGC|2026-03-25|raykov, rostislav christov|1.8",
@@ -1907,11 +1644,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.97,
-        "2026-05-17": 1.97
+        "2026-05-17": 1.97,
+        "2026-05-18": 1.97
       },
       "latest_price": 1.97,
       "return_pct": 9.44,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LGC|2026-03-25|raykov, rostislav christov|1.85",
@@ -1928,11 +1666,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.97,
-        "2026-05-17": 1.97
+        "2026-05-17": 1.97,
+        "2026-05-18": 1.97
       },
       "latest_price": 1.97,
       "return_pct": 6.49,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|AP-UN|2026-03-26|parkit enterprise inc.|6.3",
@@ -1970,11 +1709,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 51.25,
-        "2026-05-17": 51.25
+        "2026-05-17": 51.25,
+        "2026-05-18": 51.25
       },
       "latest_price": 51.25,
       "return_pct": 49.72,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|AFN|2026-03-26|bhardwaj, rohit|17.5",
@@ -1991,11 +1731,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 25.2,
-        "2026-05-17": 25.2
+        "2026-05-17": 25.2,
+        "2026-05-18": 25.2
       },
       "latest_price": 25.2,
       "return_pct": 44.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|AFN|2026-03-26|halyk, daniel kim|17.56",
@@ -2012,11 +1753,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 25.2,
-        "2026-05-17": 25.2
+        "2026-05-17": 25.2,
+        "2026-05-18": 25.2
       },
       "latest_price": 25.2,
       "return_pct": 43.51,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|AFN|2026-03-26|kipp, ryan gordon|17.4",
@@ -2033,11 +1775,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 25.2,
-        "2026-05-17": 25.2
+        "2026-05-17": 25.2,
+        "2026-05-18": 25.2
       },
       "latest_price": 25.2,
       "return_pct": 44.83,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CHE-UN|2026-03-26|bhardwaj, rohit|16.12",
@@ -2054,11 +1797,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 16.87,
-        "2026-05-17": 16.87
+        "2026-05-17": 16.87,
+        "2026-05-18": 16.87
       },
       "latest_price": 16.87,
       "return_pct": 4.65,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|GRA|2026-03-26|moghimian, nima|1.9",
@@ -2075,11 +1819,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.93,
-        "2026-05-17": 1.93
+        "2026-05-17": 1.93,
+        "2026-05-18": 1.93
       },
       "latest_price": 1.93,
       "return_pct": 1.58,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|XX|2026-03-26|pollack, jonathan|1.5",
@@ -2096,11 +1841,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.28,
-        "2026-05-17": 1.28
+        "2026-05-17": 1.28,
+        "2026-05-18": 1.28
       },
       "latest_price": 1.28,
       "return_pct": -14.67,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BAD.CN|2026-03-26|naughty, blair lawrence|0.135",
@@ -2117,11 +1863,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.145,
-        "2026-05-17": 0.145
+        "2026-05-17": 0.145,
+        "2026-05-18": 0.145
       },
       "latest_price": 0.145,
       "return_pct": 7.41,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|DIGI.CN|2026-03-27|sutton, brayden robert|0.03",
@@ -2138,11 +1885,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.03,
-        "2026-05-17": 0.03
+        "2026-05-17": 0.03,
+        "2026-05-18": 0.03
       },
       "latest_price": 0.03,
       "return_pct": 0.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CLCH|2026-03-27|nix, jon eric|1.65",
@@ -2159,11 +1907,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.25,
-        "2026-05-17": 1.25
+        "2026-05-17": 1.25,
+        "2026-05-18": 1.25
       },
       "latest_price": 1.25,
       "return_pct": -24.24,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SIG|2026-03-27|archambeault, louis|0.81",
@@ -2180,11 +1929,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.07,
-        "2026-05-17": 1.07
+        "2026-05-17": 1.07,
+        "2026-05-18": 1.07
       },
       "latest_price": 1.07,
       "return_pct": 32.1,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TOT|2026-03-27|chow, george k.|23.1925",
@@ -2201,11 +1951,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 26.05,
-        "2026-05-17": 26.05
+        "2026-05-17": 26.05,
+        "2026-05-18": 26.05
       },
       "latest_price": 26.05,
       "return_pct": 12.32,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|AIF|2026-03-27|brennan, william|46.97",
@@ -2222,11 +1973,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 41.33,
-        "2026-05-17": 41.33
+        "2026-05-17": 41.33,
+        "2026-05-18": 41.33
       },
       "latest_price": 41.33,
       "return_pct": -12.01,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|DCBO|2026-03-27|merkur, james|23.6547",
@@ -2243,11 +1995,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 23.75,
-        "2026-05-17": 23.75
+        "2026-05-17": 23.75,
+        "2026-05-18": 23.75
       },
       "latest_price": 23.75,
       "return_pct": 0.4,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|EIF|2026-03-27|trainor, justin peter|103.03",
@@ -2264,11 +2017,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 106.74,
-        "2026-05-17": 106.74
+        "2026-05-17": 106.74,
+        "2026-05-18": 106.74
       },
       "latest_price": 106.74,
       "return_pct": 3.6,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|IAG|2026-03-27|martin, jacques|110.12",
@@ -2285,11 +2039,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 170.97,
-        "2026-05-17": 170.97
+        "2026-05-17": 170.97,
+        "2026-05-18": 170.97
       },
       "latest_price": 170.97,
       "return_pct": 55.26,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MATR|2026-03-27|kernaghan, edward hume|8.9",
@@ -2306,11 +2061,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 12.6,
-        "2026-05-17": 12.6
+        "2026-05-17": 12.6,
+        "2026-05-18": 12.6
       },
       "latest_price": 12.6,
       "return_pct": 41.57,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|DSG|2026-03-27|the descartes systems group inc.|96.48",
@@ -2327,11 +2083,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 93.16,
-        "2026-05-17": 93.16
+        "2026-05-17": 93.16,
+        "2026-05-18": 93.16
       },
       "latest_price": 93.16,
       "return_pct": -3.44,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TWM|2026-03-27|toor, nauman (nick)|9.0818",
@@ -2348,11 +2105,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 17.13,
-        "2026-05-17": 17.13
+        "2026-05-17": 17.13,
+        "2026-05-18": 17.13
       },
       "latest_price": 17.13,
       "return_pct": 88.62,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TNR|2026-03-20|evensen, jon christian|0.18",
@@ -2369,11 +2127,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.235,
-        "2026-05-17": 0.235
+        "2026-05-17": 0.235,
+        "2026-05-18": 0.235
       },
       "latest_price": 0.235,
       "return_pct": 30.56,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TNR|2026-03-27|evensen, jon christian|0.18",
@@ -2390,11 +2149,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.235,
-        "2026-05-17": 0.235
+        "2026-05-17": 0.235,
+        "2026-05-18": 0.235
       },
       "latest_price": 0.235,
       "return_pct": 30.56,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|KRY|2026-03-27|daun, heye edmund|3.2439",
@@ -2411,11 +2171,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 3.21,
-        "2026-05-17": 3.21
+        "2026-05-17": 3.21,
+        "2026-05-18": 3.21
       },
       "latest_price": 3.21,
       "return_pct": -1.05,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SIS|2026-03-27|bourassa, marcel|26.03",
@@ -2432,11 +2193,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 27.99,
-        "2026-05-17": 27.99
+        "2026-05-17": 27.99,
+        "2026-05-18": 27.99
       },
       "latest_price": 27.99,
       "return_pct": 7.53,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MTA|2026-03-30|heath, brett|6.19",
@@ -2453,11 +2215,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 9.4,
-        "2026-05-17": 9.4
+        "2026-05-17": 9.4,
+        "2026-05-18": 9.4
       },
       "latest_price": 9.4,
       "return_pct": 51.86,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ACQ|2026-03-30|cochrane, samuel|18.87",
@@ -2474,11 +2237,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 21.47,
-        "2026-05-17": 21.47
+        "2026-05-17": 21.47,
+        "2026-05-18": 21.47
       },
       "latest_price": 21.47,
       "return_pct": 13.78,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BTE|2026-03-30|lundberg, chad|6.15",
@@ -2495,11 +2259,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 7.1,
-        "2026-05-17": 7.1
+        "2026-05-17": 7.1,
+        "2026-05-18": 7.1
       },
       "latest_price": 7.1,
       "return_pct": 15.45,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BTE|2026-03-30|lundberg, chad|6.16",
@@ -2516,11 +2281,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 7.1,
-        "2026-05-17": 7.1
+        "2026-05-17": 7.1,
+        "2026-05-18": 7.1
       },
       "latest_price": 7.1,
       "return_pct": 15.26,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NFG|2026-03-30|brown, tamara lee|2.42",
@@ -2537,11 +2303,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.79,
-        "2026-05-17": 2.79
+        "2026-05-17": 2.79,
+        "2026-05-18": 2.79
       },
       "latest_price": 2.79,
       "return_pct": 15.29,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NFG|2026-03-30|williams, chad|2.43",
@@ -2558,11 +2325,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.79,
-        "2026-05-17": 2.79
+        "2026-05-17": 2.79,
+        "2026-05-18": 2.79
       },
       "latest_price": 2.79,
       "return_pct": 14.81,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NFG|2026-03-30|williams, chad|2.45",
@@ -2579,11 +2347,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.79,
-        "2026-05-17": 2.79
+        "2026-05-17": 2.79,
+        "2026-05-18": 2.79
       },
       "latest_price": 2.79,
       "return_pct": 13.88,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TOT|2026-03-30|dagenais, glenn orval james|23.4749",
@@ -2600,11 +2369,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 26.05,
-        "2026-05-17": 26.05
+        "2026-05-17": 26.05,
+        "2026-05-18": 26.05
       },
       "latest_price": 26.05,
       "return_pct": 10.97,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|VHI|2026-03-30|shen, anthony pius|7.11",
@@ -2621,11 +2391,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 7.0,
-        "2026-05-17": 7.0
+        "2026-05-17": 7.0,
+        "2026-05-18": 7.0
       },
       "latest_price": 7.0,
       "return_pct": -1.55,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|HBM|2026-03-30|kukielski, peter gerald jan|26.71",
@@ -2642,11 +2413,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 34.35,
-        "2026-05-17": 34.345
+        "2026-05-17": 34.345,
+        "2026-05-18": 34.345
       },
       "latest_price": 34.345,
       "return_pct": 28.58,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|EPF|2026-03-30|guebert, david dean|0.465",
@@ -2663,11 +2435,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.6,
-        "2026-05-17": 0.6
+        "2026-05-17": 0.6,
+        "2026-05-18": 0.6
       },
       "latest_price": 0.6,
       "return_pct": 29.03,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PGLD|2026-03-30|ovsenek, joseph j.|0.6189",
@@ -2684,11 +2457,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.78,
-        "2026-05-17": 0.78
+        "2026-05-17": 0.78,
+        "2026-05-18": 0.78
       },
       "latest_price": 0.78,
       "return_pct": 26.03,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MRC|2026-03-31|armoyan, sime|114.75",
@@ -2705,11 +2479,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 125.29,
-        "2026-05-17": 125.29
+        "2026-05-17": 125.29,
+        "2026-05-18": 125.29
       },
       "latest_price": 125.29,
       "return_pct": 9.19,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BYD|2026-03-31|kaner, brian|127.07",
@@ -2726,11 +2501,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 141.87,
-        "2026-05-17": 141.87
+        "2026-05-17": 141.87,
+        "2026-05-18": 141.87
       },
       "latest_price": 141.87,
       "return_pct": 11.65,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|FRU|2026-03-31|strem, colin|17.3696",
@@ -2747,11 +2523,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 17.81,
-        "2026-05-17": 17.81
+        "2026-05-17": 17.81,
+        "2026-05-18": 17.81
       },
       "latest_price": 17.81,
       "return_pct": 2.54,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|AFN|2026-03-31|halyk, daniel kim|18.99",
@@ -2768,11 +2545,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 25.2,
-        "2026-05-17": 25.2
+        "2026-05-17": 25.2,
+        "2026-05-18": 25.2
       },
       "latest_price": 25.2,
       "return_pct": 32.7,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ACQ|2026-03-31|cochrane, samuel|20.25",
@@ -2789,11 +2567,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 21.47,
-        "2026-05-17": 21.47
+        "2026-05-17": 21.47,
+        "2026-05-18": 21.47
       },
       "latest_price": 21.47,
       "return_pct": 6.02,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BYD|2026-03-31|morin, kimberly ann|128.0145",
@@ -2810,11 +2589,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 141.87,
-        "2026-05-17": 141.87
+        "2026-05-17": 141.87,
+        "2026-05-18": 141.87
       },
       "latest_price": 141.87,
       "return_pct": 10.82,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|GWO|2026-03-31|great-west lifeco u.s. holdings, l.p.|63.3804",
@@ -2831,11 +2611,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 77.75,
-        "2026-05-17": 77.75
+        "2026-05-17": 77.75,
+        "2026-05-18": 77.75
       },
       "latest_price": 77.75,
       "return_pct": 22.67,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|H|2026-03-31|mowbray, stacey|57.55",
@@ -2852,11 +2633,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 57.6,
-        "2026-05-17": 57.6
+        "2026-05-17": 57.6,
+        "2026-05-18": 57.6
       },
       "latest_price": 57.6,
       "return_pct": 0.09,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ITR|2026-03-31|salamis, george|3.74",
@@ -2873,11 +2655,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 3.54,
-        "2026-05-17": 3.54
+        "2026-05-17": 3.54,
+        "2026-05-18": 3.54
       },
       "latest_price": 3.54,
       "return_pct": -5.35,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MRE|2026-03-31|cirulis, peter|6.6905",
@@ -2894,11 +2677,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 10.37,
-        "2026-05-17": 10.38
+        "2026-05-17": 10.38,
+        "2026-05-18": 10.37
       },
       "latest_price": 10.37,
       "return_pct": 55.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MRE|2026-03-31|wildeboer, robert peter edward|9.3993",
@@ -2915,11 +2699,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 10.37,
-        "2026-05-17": 10.38
+        "2026-05-17": 10.38,
+        "2026-05-18": 10.37
       },
       "latest_price": 10.37,
       "return_pct": 10.33,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TWM|2026-03-31|toor, nauman (nick)|8.9876",
@@ -2936,11 +2721,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 17.13,
-        "2026-05-17": 17.13
+        "2026-05-17": 17.13,
+        "2026-05-18": 17.13
       },
       "latest_price": 17.13,
       "return_pct": 90.6,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|USA|2026-03-31|goudie, peter james|7.05",
@@ -2957,11 +2743,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 8.96,
-        "2026-05-17": 8.96
+        "2026-05-17": 8.96,
+        "2026-05-18": 8.96
       },
       "latest_price": 8.96,
       "return_pct": 27.09,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|USA|2026-03-31|hand, scott mckee|7.0591",
@@ -2978,11 +2765,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 8.96,
-        "2026-05-17": 8.96
+        "2026-05-17": 8.96,
+        "2026-05-18": 8.96
       },
       "latest_price": 8.96,
       "return_pct": 26.93,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|USA|2026-03-31|hassan, tara|7.205",
@@ -2999,11 +2787,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 8.96,
-        "2026-05-17": 8.96
+        "2026-05-17": 8.96,
+        "2026-05-18": 8.96
       },
       "latest_price": 8.96,
       "return_pct": 24.36,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|USA|2026-03-31|huet, paul andr\u00e3\u00a9|4.99",
@@ -3020,11 +2809,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 8.96,
-        "2026-05-17": 8.96
+        "2026-05-17": 8.96,
+        "2026-05-18": 8.96
       },
       "latest_price": 8.96,
       "return_pct": 79.56,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|USA|2026-03-31|kipp, bradley robert|6.98",
@@ -3041,11 +2831,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 8.96,
-        "2026-05-17": 8.96
+        "2026-05-17": 8.96,
+        "2026-05-18": 8.96
       },
       "latest_price": 8.96,
       "return_pct": 28.37,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|USA|2026-03-31|pridham, gordon e.|7.03",
@@ -3062,11 +2853,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 8.96,
-        "2026-05-17": 8.96
+        "2026-05-17": 8.96,
+        "2026-05-18": 8.96
       },
       "latest_price": 8.96,
       "return_pct": 27.45,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LMN|2026-03-31|sharpley, david|22.502",
@@ -3083,11 +2875,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 19.91,
-        "2026-05-17": 19.99
+        "2026-05-17": 19.99,
+        "2026-05-18": 19.99
       },
       "latest_price": 19.99,
       "return_pct": -11.16,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TOU|2026-04-01|rose, mike|64.7493",
@@ -3104,11 +2897,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 67.5,
-        "2026-05-17": 67.5
+        "2026-05-17": 67.5,
+        "2026-05-18": 67.5
       },
       "latest_price": 67.5,
       "return_pct": 4.25,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TOU|2026-04-01|rose, mike|63.2155",
@@ -3125,11 +2919,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 67.5,
-        "2026-05-17": 67.5
+        "2026-05-17": 67.5,
+        "2026-05-18": 67.5
       },
       "latest_price": 67.5,
       "return_pct": 6.78,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|POU|2026-04-01|sousa, rodrigo|27.75",
@@ -3146,11 +2941,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 32.06,
-        "2026-05-17": 32.06
+        "2026-05-17": 32.06,
+        "2026-05-18": 32.06
       },
       "latest_price": 32.06,
       "return_pct": 15.53,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|FRX|2026-04-01|raykov, rostislav christov|2.45",
@@ -3167,11 +2963,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.31,
-        "2026-05-17": 13.31
+        "2026-05-17": 13.31,
+        "2026-05-18": 13.31
       },
       "latest_price": 13.31,
       "return_pct": 443.27,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TOT|2026-04-01|kirstine, jessica a.|22.1",
@@ -3188,11 +2985,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 26.05,
-        "2026-05-17": 26.05
+        "2026-05-17": 26.05,
+        "2026-05-18": 26.05
       },
       "latest_price": 26.05,
       "return_pct": 17.87,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BTO|2026-04-01|lytle, william|6.42",
@@ -3209,11 +3007,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 6.75,
-        "2026-05-17": 6.75
+        "2026-05-17": 6.75,
+        "2026-05-18": 6.75
       },
       "latest_price": 6.75,
       "return_pct": 5.14,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PEY|2026-04-01|lachance, jean-paul henri|26.25",
@@ -3230,11 +3029,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 26.79,
-        "2026-05-17": 26.77
+        "2026-05-17": 26.77,
+        "2026-05-18": 26.77
       },
       "latest_price": 26.77,
       "return_pct": 1.98,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SLI|2026-04-01|robinson, james andrew charles|4.84",
@@ -3251,11 +3051,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 5.22,
-        "2026-05-17": 5.22
+        "2026-05-17": 5.22,
+        "2026-05-18": 5.22
       },
       "latest_price": 5.22,
       "return_pct": 7.85,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BAD.CN|2026-04-01|naughty, blair lawrence|0.15",
@@ -3272,11 +3073,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.145,
-        "2026-05-17": 0.145
+        "2026-05-17": 0.145,
+        "2026-05-18": 0.145
       },
       "latest_price": 0.145,
       "return_pct": -3.33,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SIG|2026-04-02|archambeault, louis|0.85",
@@ -3293,11 +3095,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.07,
-        "2026-05-17": 1.07
+        "2026-05-17": 1.07,
+        "2026-05-18": 1.07
       },
       "latest_price": 1.07,
       "return_pct": 25.88,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NOA|2026-04-02|saint-laurent, maryse c.|18.42",
@@ -3314,11 +3117,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 21.02,
-        "2026-05-17": 21.02
+        "2026-05-17": 21.02,
+        "2026-05-18": 21.02
       },
       "latest_price": 21.02,
       "return_pct": 14.12,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NAU|2026-04-02|bonifacio, brandon gennaro|1.44",
@@ -3335,11 +3139,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.31,
-        "2026-05-17": 2.31
+        "2026-05-17": 2.31,
+        "2026-05-18": 2.31
       },
       "latest_price": 2.31,
       "return_pct": 60.42,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|RFA|2026-04-02|manji, samir aziz|24.8767",
@@ -3356,11 +3161,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 24.82,
-        "2026-05-17": 24.82
+        "2026-05-17": 24.82,
+        "2026-05-18": 24.82
       },
       "latest_price": 24.82,
       "return_pct": -0.23,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|RFA|2026-04-02|manji, samir aziz|25.4384",
@@ -3377,11 +3183,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 24.82,
-        "2026-05-17": 24.82
+        "2026-05-17": 24.82,
+        "2026-05-18": 24.82
       },
       "latest_price": 24.82,
       "return_pct": -2.43,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NEXM|2026-04-06|whiteford, sean michael|2.46",
@@ -3398,11 +3205,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 4.0,
-        "2026-05-17": 4.0
+        "2026-05-17": 4.0,
+        "2026-05-18": 4.0
       },
       "latest_price": 4.0,
       "return_pct": 62.6,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TNR|2026-04-06|evensen, jon christian|0.2248",
@@ -3419,11 +3227,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.235,
-        "2026-05-17": 0.235
+        "2026-05-17": 0.235,
+        "2026-05-18": 0.235
       },
       "latest_price": 0.235,
       "return_pct": 4.54,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|AGTF|2026-04-07|rein, kenton gerald christian|19.33",
@@ -3440,11 +3249,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 17.05,
-        "2026-05-17": 17.05
+        "2026-05-17": 17.05,
+        "2026-05-18": 17.05
       },
       "latest_price": 17.05,
       "return_pct": -11.8,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TWM|2026-04-07|toor, nauman (nick)|9.5",
@@ -3461,11 +3271,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 17.13,
-        "2026-05-17": 17.13
+        "2026-05-17": 17.13,
+        "2026-05-18": 17.13
       },
       "latest_price": 17.13,
       "return_pct": 80.32,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ABXX|2026-04-07|currie, jeff|53.49",
@@ -3482,11 +3293,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 54.0,
-        "2026-05-17": 54.0
+        "2026-05-17": 54.0,
+        "2026-05-18": 54.0
       },
       "latest_price": 54.0,
       "return_pct": 0.95,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ABXX|2026-04-07|flax, catherine|52.78",
@@ -3503,11 +3315,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 54.0,
-        "2026-05-17": 54.0
+        "2026-05-17": 54.0,
+        "2026-05-18": 54.0
       },
       "latest_price": 54.0,
       "return_pct": 2.31,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TPZ|2026-04-08|rose, mike|29.7412",
@@ -3524,11 +3337,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 33.15,
-        "2026-05-17": 33.15
+        "2026-05-17": 33.15,
+        "2026-05-18": 33.15
       },
       "latest_price": 33.15,
       "return_pct": 11.46,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TVE|2026-04-08|shimek, scott|10.5",
@@ -3545,11 +3359,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.34,
-        "2026-05-17": 13.34
+        "2026-05-17": 13.34,
+        "2026-05-18": 13.34
       },
       "latest_price": 13.34,
       "return_pct": 27.05,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TOU|2026-04-08|rose, mike|59.9561",
@@ -3566,11 +3381,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 67.5,
-        "2026-05-17": 67.5
+        "2026-05-17": 67.5,
+        "2026-05-18": 67.5
       },
       "latest_price": 67.5,
       "return_pct": 12.58,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SYZ|2026-04-08|olsen, errol|3.3",
@@ -3587,11 +3403,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 3.07,
-        "2026-05-17": 3.07
+        "2026-05-17": 3.07,
+        "2026-05-18": 3.07
       },
       "latest_price": 3.07,
       "return_pct": -6.97,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TOU|2026-04-08|toews, travis|61.46",
@@ -3608,11 +3425,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 67.5,
-        "2026-05-17": 67.5
+        "2026-05-17": 67.5,
+        "2026-05-18": 67.5
       },
       "latest_price": 67.5,
       "return_pct": 9.83,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TWM|2026-04-08|toor, nauman (nick)|9.5",
@@ -3629,11 +3447,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 17.13,
-        "2026-05-17": 17.13
+        "2026-05-17": 17.13,
+        "2026-05-18": 17.13
       },
       "latest_price": 17.13,
       "return_pct": 80.32,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CTV|2026-04-08|lee, john|0.13",
@@ -3650,11 +3469,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.17,
-        "2026-05-17": 0.17
+        "2026-05-17": 0.17,
+        "2026-05-18": 0.17
       },
       "latest_price": 0.17,
       "return_pct": 30.77,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TRZ|2026-04-08|p\u00e9ladeau, pierre karl|2.54",
@@ -3671,11 +3491,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.7,
-        "2026-05-17": 2.7
+        "2026-05-17": 2.7,
+        "2026-05-18": 2.7
       },
       "latest_price": 2.7,
       "return_pct": 6.3,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MFG|2026-04-09|annett, kevin|4.41",
@@ -3692,11 +3513,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 3.94,
-        "2026-05-17": 3.94
+        "2026-05-17": 3.94,
+        "2026-05-18": 3.94
       },
       "latest_price": 3.94,
       "return_pct": -10.66,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MFG|2026-04-09|annett, kevin|4.4",
@@ -3713,11 +3535,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 3.94,
-        "2026-05-17": 3.94
+        "2026-05-17": 3.94,
+        "2026-05-18": 3.94
       },
       "latest_price": 3.94,
       "return_pct": -10.45,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BTE|2026-04-09|greager, eric thomas|4.0386",
@@ -3734,11 +3557,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 7.1,
-        "2026-05-17": 7.1
+        "2026-05-17": 7.1,
+        "2026-05-18": 7.1
       },
       "latest_price": 7.1,
       "return_pct": 75.8,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TOU|2026-04-09|rose, mike|60.8",
@@ -3755,11 +3579,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 67.5,
-        "2026-05-17": 67.5
+        "2026-05-17": 67.5,
+        "2026-05-18": 67.5
       },
       "latest_price": 67.5,
       "return_pct": 11.02,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LUCA|2026-04-10|barnholden, daniel|1.5",
@@ -3776,11 +3601,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.28,
-        "2026-05-17": 1.28
+        "2026-05-17": 1.28,
+        "2026-05-18": 1.28
       },
       "latest_price": 1.28,
       "return_pct": -14.67,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PXT|2026-04-10|grainger, cam|26.046",
@@ -3797,11 +3623,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 27.11,
-        "2026-05-17": 27.11
+        "2026-05-17": 27.11,
+        "2026-05-18": 27.11
       },
       "latest_price": 27.11,
       "return_pct": 4.09,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PXT|2026-04-10|grainger, cam|26.0687",
@@ -3818,17 +3645,18 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 27.11,
-        "2026-05-17": 27.11
+        "2026-05-17": 27.11,
+        "2026-05-18": 27.11
       },
       "latest_price": 27.11,
       "return_pct": 3.99,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|IGO|2026-04-10|gestion bouca inc|0.095",
       "market": "CA",
       "ticker": "IGO",
-      "yf_symbol": "IGO.V",
+      "yf_symbol": "IGO.NE",
       "company": "Independence Gold Corp.",
       "insider_name": "Gestion Bouca Inc",
       "title": "10% Holder",
@@ -3839,11 +3667,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.105,
-        "2026-05-17": 0.105
+        "2026-05-17": 0.105,
+        "2026-05-18": 0.105
       },
       "latest_price": 0.105,
       "return_pct": 10.53,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TWR|2026-04-10|dhami, r. joe|0.17",
@@ -3860,11 +3689,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.17,
-        "2026-05-17": 0.165
+        "2026-05-17": 0.165,
+        "2026-05-18": 0.165
       },
       "latest_price": 0.165,
       "return_pct": -2.94,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|RFA|2026-04-10|manji, salim|25.2976",
@@ -3881,11 +3711,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 24.82,
-        "2026-05-17": 24.82
+        "2026-05-17": 24.82,
+        "2026-05-18": 24.82
       },
       "latest_price": 24.82,
       "return_pct": -1.89,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|RFA|2026-04-10|manji, samir aziz|25.2976",
@@ -3902,11 +3733,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 24.82,
-        "2026-05-17": 24.82
+        "2026-05-17": 24.82,
+        "2026-05-18": 24.82
       },
       "latest_price": 24.82,
       "return_pct": -1.89,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CMU|2026-04-13|alfonso, jesus|6.25",
@@ -3923,11 +3755,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 6.0,
-        "2026-05-17": 6.0
+        "2026-05-17": 6.0,
+        "2026-05-18": 6.0
       },
       "latest_price": 6.0,
       "return_pct": -4.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|EMP-A|2026-04-13|zurel, jo mark|48.48",
@@ -3944,11 +3777,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 46.92,
-        "2026-05-17": 46.92
+        "2026-05-17": 46.92,
+        "2026-05-18": 46.92
       },
       "latest_price": 46.92,
       "return_pct": -3.22,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|GENM|2026-04-13|levy, jamie|0.65",
@@ -3965,11 +3799,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.63,
-        "2026-05-17": 0.63
+        "2026-05-17": 0.63,
+        "2026-05-18": 0.63
       },
       "latest_price": 0.63,
       "return_pct": -3.08,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TOT|2026-04-13|chow, george k.|22.5",
@@ -3986,17 +3821,18 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 26.05,
-        "2026-05-17": 26.05
+        "2026-05-17": 26.05,
+        "2026-05-18": 26.05
       },
       "latest_price": 26.05,
       "return_pct": 15.78,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|IGO|2026-04-14|gestion bouca inc|0.1",
       "market": "CA",
       "ticker": "IGO",
-      "yf_symbol": "IGO.V",
+      "yf_symbol": "IGO.NE",
       "company": "Independence Gold Corp.",
       "insider_name": "Gestion Bouca Inc",
       "title": "10% Holder",
@@ -4007,11 +3843,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.105,
-        "2026-05-17": 0.105
+        "2026-05-17": 0.105,
+        "2026-05-18": 0.105
       },
       "latest_price": 0.105,
       "return_pct": 5.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|DMX|2026-04-14|ainsworth, garrett  paul|0.74",
@@ -4028,11 +3865,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.82,
-        "2026-05-17": 0.82
+        "2026-05-17": 0.82,
+        "2026-05-18": 0.82
       },
       "latest_price": 0.82,
       "return_pct": 10.81,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PLY|2026-04-15|brimacombe, alan douglas|0.055",
@@ -4049,11 +3887,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.07,
-        "2026-05-17": 0.07
+        "2026-05-17": 0.07,
+        "2026-05-18": 0.07
       },
       "latest_price": 0.07,
       "return_pct": 27.27,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TVE|2026-04-15|baker, rocky (rawleen)|11.3",
@@ -4070,11 +3909,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.34,
-        "2026-05-17": 13.34
+        "2026-05-17": 13.34,
+        "2026-05-18": 13.34
       },
       "latest_price": 13.34,
       "return_pct": 18.05,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TVE|2026-04-15|baker, rocky (rawleen)|11.17",
@@ -4091,11 +3931,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.34,
-        "2026-05-17": 13.34
+        "2026-05-17": 13.34,
+        "2026-05-18": 13.34
       },
       "latest_price": 13.34,
       "return_pct": 19.43,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ZAU|2026-04-15|richards, brett allan|0.3998",
@@ -4112,11 +3953,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.375,
-        "2026-05-17": 0.375
+        "2026-05-17": 0.375,
+        "2026-05-18": 0.375
       },
       "latest_price": 0.375,
       "return_pct": -6.2,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|FRG|2026-04-15|schmidtke, ralf holger|0.458",
@@ -4133,11 +3975,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.445,
-        "2026-05-17": 0.445
+        "2026-05-17": 0.445,
+        "2026-05-18": 0.445
       },
       "latest_price": 0.445,
       "return_pct": -2.84,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|IPO|2026-04-15|yakiwchuk, kevin|15.3799",
@@ -4154,11 +3997,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 17.73,
-        "2026-05-17": 17.73
+        "2026-05-17": 17.73,
+        "2026-05-18": 17.73
       },
       "latest_price": 17.73,
       "return_pct": 15.28,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TVE|2026-04-15|stoodley, benjamin wayne|11.0875",
@@ -4175,11 +4019,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.34,
-        "2026-05-17": 13.34
+        "2026-05-17": 13.34,
+        "2026-05-18": 13.34
       },
       "latest_price": 13.34,
       "return_pct": 20.32,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PSIL.CN|2026-04-16|anthony, todd|1.28",
@@ -4196,11 +4041,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.29,
-        "2026-05-17": 1.29
+        "2026-05-17": 1.29,
+        "2026-05-18": 1.29
       },
       "latest_price": 1.29,
       "return_pct": 0.78,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PLY|2026-04-16|brimacombe, alan douglas|0.055",
@@ -4217,11 +4063,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.07,
-        "2026-05-17": 0.07
+        "2026-05-17": 0.07,
+        "2026-05-18": 0.07
       },
       "latest_price": 0.07,
       "return_pct": 27.27,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MFG|2026-04-16|annett, kevin|4.41",
@@ -4238,11 +4085,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 3.94,
-        "2026-05-17": 3.94
+        "2026-05-17": 3.94,
+        "2026-05-18": 3.94
       },
       "latest_price": 3.94,
       "return_pct": -10.66,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SIG|2026-04-16|archambeault, louis|0.95",
@@ -4259,11 +4107,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.07,
-        "2026-05-17": 1.07
+        "2026-05-17": 1.07,
+        "2026-05-18": 1.07
       },
       "latest_price": 1.07,
       "return_pct": 12.63,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|FOMO.CN|2026-04-16|varshney, deepak|0.4",
@@ -4280,11 +4129,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.35,
-        "2026-05-17": 0.35
+        "2026-05-17": 0.35,
+        "2026-05-18": 0.35
       },
       "latest_price": 0.35,
       "return_pct": -12.5,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TNR|2026-04-16|evensen, jon christian|0.2532",
@@ -4301,11 +4151,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.235,
-        "2026-05-17": 0.235
+        "2026-05-17": 0.235,
+        "2026-05-18": 0.235
       },
       "latest_price": 0.235,
       "return_pct": -7.19,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TOU|2026-04-17|heard, james william alexander|59.08",
@@ -4322,11 +4173,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 67.5,
-        "2026-05-17": 67.5
+        "2026-05-17": 67.5,
+        "2026-05-18": 67.5
       },
       "latest_price": 67.5,
       "return_pct": 14.25,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|WCP|2026-04-17|fagerheim, grant bradley|13.75",
@@ -4343,11 +4195,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 16.74,
-        "2026-05-17": 16.74
+        "2026-05-17": 16.74,
+        "2026-05-18": 16.74
       },
       "latest_price": 16.74,
       "return_pct": 21.75,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NAU|2026-04-17|bonifacio, brandon gennaro|2.13",
@@ -4364,11 +4217,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.31,
-        "2026-05-17": 2.31
+        "2026-05-17": 2.31,
+        "2026-05-18": 2.31
       },
       "latest_price": 2.31,
       "return_pct": 8.45,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PEY|2026-04-17|frame, riley millar|24.07",
@@ -4385,11 +4239,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 26.79,
-        "2026-05-17": 26.77
+        "2026-05-17": 26.77,
+        "2026-05-18": 26.77
       },
       "latest_price": 26.77,
       "return_pct": 11.22,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PEY|2026-04-17|lachance, jean-paul henri|23.7336",
@@ -4406,11 +4261,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 26.79,
-        "2026-05-17": 26.77
+        "2026-05-17": 26.77,
+        "2026-05-18": 26.77
       },
       "latest_price": 26.77,
       "return_pct": 12.79,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TNZ|2026-04-17|preston, kyle|59.092",
@@ -4427,11 +4283,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 58.97,
-        "2026-05-17": 58.97
+        "2026-05-17": 58.97,
+        "2026-05-18": 58.97
       },
       "latest_price": 58.97,
       "return_pct": -0.21,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CAPR.CN|2026-04-17|guillemette, frank|0.1143",
@@ -4448,11 +4305,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.145,
-        "2026-05-17": 0.11
+        "2026-05-17": 0.11,
+        "2026-05-18": 0.145
       },
       "latest_price": 0.145,
       "return_pct": 26.86,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MTA|2026-04-17|tether international, s.a. de c.v.|7.0919",
@@ -4469,11 +4327,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 9.4,
-        "2026-05-17": 9.4
+        "2026-05-17": 9.4,
+        "2026-05-18": 9.4
       },
       "latest_price": 9.4,
       "return_pct": 32.55,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TNR|2026-04-17|evensen, jon christian|0.2522",
@@ -4490,17 +4349,18 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.235,
-        "2026-05-17": 0.235
+        "2026-05-17": 0.235,
+        "2026-05-18": 0.235
       },
       "latest_price": 0.235,
       "return_pct": -6.82,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|IGO|2026-04-17|gestion bouca inc|0.105",
       "market": "CA",
       "ticker": "IGO",
-      "yf_symbol": "IGO.V",
+      "yf_symbol": "IGO.NE",
       "company": "Independence Gold Corp.",
       "insider_name": "Gestion Bouca Inc",
       "title": "10% Holder",
@@ -4511,11 +4371,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.105,
-        "2026-05-17": 0.105
+        "2026-05-17": 0.105,
+        "2026-05-18": 0.105
       },
       "latest_price": 0.105,
       "return_pct": 0.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|GNG|2026-04-20|rosmus, roger|1.57",
@@ -4532,11 +4393,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.16,
-        "2026-05-17": 0.16
+        "2026-05-17": 0.16,
+        "2026-05-18": 0.16
       },
       "latest_price": 0.16,
       "return_pct": -89.81,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PSIL.CN|2026-04-20|berdegue, fernando jose|1.18",
@@ -4553,11 +4415,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.29,
-        "2026-05-17": 1.29
+        "2026-05-17": 1.29,
+        "2026-05-18": 1.29
       },
       "latest_price": 1.29,
       "return_pct": 9.32,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TOU|2026-04-20|rose, mike|60.2936",
@@ -4574,11 +4437,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 67.5,
-        "2026-05-17": 67.5
+        "2026-05-17": 67.5,
+        "2026-05-18": 67.5
       },
       "latest_price": 67.5,
       "return_pct": 11.95,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|AVCN|2026-04-20|michael kott|0.145",
@@ -4595,11 +4459,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.14,
-        "2026-05-17": 0.14
+        "2026-05-17": 0.14,
+        "2026-05-18": 0.14
       },
       "latest_price": 0.14,
       "return_pct": -3.45,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|OM|2026-04-21|mance, lili|1.51",
@@ -4616,11 +4481,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.64,
-        "2026-05-17": 1.65
+        "2026-05-17": 1.65,
+        "2026-05-18": 1.65
       },
       "latest_price": 1.65,
       "return_pct": 9.27,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|OM|2026-04-21|mance, lili|1.5",
@@ -4637,11 +4503,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.64,
-        "2026-05-17": 1.65
+        "2026-05-17": 1.65,
+        "2026-05-18": 1.65
       },
       "latest_price": 1.65,
       "return_pct": 10.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|OM|2026-04-21|zaritsky, blair david|1.5",
@@ -4658,11 +4525,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.64,
-        "2026-05-17": 1.65
+        "2026-05-17": 1.65,
+        "2026-05-18": 1.65
       },
       "latest_price": 1.65,
       "return_pct": 10.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SIG|2026-04-21|coe, corwin|0.9",
@@ -4679,11 +4547,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.07,
-        "2026-05-17": 1.07
+        "2026-05-17": 1.07,
+        "2026-05-18": 1.07
       },
       "latest_price": 1.07,
       "return_pct": 18.89,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|OM|2026-04-21|zaritsky, blair david|1.48",
@@ -4700,11 +4569,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.64,
-        "2026-05-17": 1.65
+        "2026-05-17": 1.65,
+        "2026-05-18": 1.65
       },
       "latest_price": 1.65,
       "return_pct": 11.49,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TNR|2026-04-21|evensen, jon christian|0.253",
@@ -4721,11 +4591,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.235,
-        "2026-05-17": 0.235
+        "2026-05-17": 0.235,
+        "2026-05-18": 0.235
       },
       "latest_price": 0.235,
       "return_pct": -7.11,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BOGO|2026-04-22|malcolm, kelly james|1.24",
@@ -4742,11 +4613,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.08,
-        "2026-05-17": 1.08
+        "2026-05-17": 1.08,
+        "2026-05-18": 1.08
       },
       "latest_price": 1.08,
       "return_pct": -12.9,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PSK|2026-04-22|phillips, andrew|31.9661",
@@ -4763,11 +4635,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 34.87,
-        "2026-05-17": 34.87
+        "2026-05-17": 34.87,
+        "2026-05-18": 34.87
       },
       "latest_price": 34.87,
       "return_pct": 9.08,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PSK|2026-04-22|phillips, andrew|31.8951",
@@ -4784,11 +4657,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 34.87,
-        "2026-05-17": 34.87
+        "2026-05-17": 34.87,
+        "2026-05-18": 34.87
       },
       "latest_price": 34.87,
       "return_pct": 9.33,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BOGO|2026-04-22|malcolm, kelly james|1.207",
@@ -4805,11 +4679,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.08,
-        "2026-05-17": 1.08
+        "2026-05-17": 1.08,
+        "2026-05-18": 1.08
       },
       "latest_price": 1.08,
       "return_pct": -10.52,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ASHL|2026-04-22|komavli, noah|0.05",
@@ -4826,11 +4701,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.075,
-        "2026-05-17": 0.075
+        "2026-05-17": 0.075,
+        "2026-05-18": 0.075
       },
       "latest_price": 0.075,
       "return_pct": 50.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SGD|2026-04-23|vdovin, victor|14.92",
@@ -4847,11 +4723,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 15.07,
-        "2026-05-17": 15.07
+        "2026-05-17": 15.07,
+        "2026-05-18": 15.07
       },
       "latest_price": 15.07,
       "return_pct": 1.01,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CDPR|2026-04-23|2176423 ontario ltd.|0.72",
@@ -4868,11 +4745,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.66,
-        "2026-05-17": 0.66
+        "2026-05-17": 0.66,
+        "2026-05-18": 0.66
       },
       "latest_price": 0.66,
       "return_pct": -8.33,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CDPR|2026-04-23|sprott, eric|0.72",
@@ -4889,11 +4767,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.66,
-        "2026-05-17": 0.66
+        "2026-05-17": 0.66,
+        "2026-05-18": 0.66
       },
       "latest_price": 0.66,
       "return_pct": -8.33,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MAXX.CN|2026-04-23|2176423 ontario ltd.|1.3899",
@@ -4910,11 +4789,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.58,
-        "2026-05-17": 2.58
+        "2026-05-17": 2.58,
+        "2026-05-18": 2.58
       },
       "latest_price": 2.58,
       "return_pct": 85.62,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MAXX.CN|2026-04-23|sprott, eric|1.3899",
@@ -4931,11 +4811,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.58,
-        "2026-05-17": 2.58
+        "2026-05-17": 2.58,
+        "2026-05-18": 2.58
       },
       "latest_price": 2.58,
       "return_pct": 85.62,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MRZ|2026-04-23|pountney, glenn|0.36",
@@ -4952,11 +4833,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.37,
-        "2026-05-17": 0.37
+        "2026-05-17": 0.37,
+        "2026-05-18": 0.37
       },
       "latest_price": 0.37,
       "return_pct": 2.78,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TNR|2026-04-23|evensen, jon christian|0.255",
@@ -4973,11 +4855,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.235,
-        "2026-05-17": 0.235
+        "2026-05-17": 0.235,
+        "2026-05-18": 0.235
       },
       "latest_price": 0.235,
       "return_pct": -7.84,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|HODL.CN|2026-04-23|guoga, antanas (tony)|1.8931",
@@ -4994,11 +4877,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.86,
-        "2026-05-17": 2.86
+        "2026-05-17": 2.86,
+        "2026-05-18": 2.86
       },
       "latest_price": 2.86,
       "return_pct": 51.07,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MRZ|2026-04-24|pountney, glenn|0.345",
@@ -5015,11 +4899,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.37,
-        "2026-05-17": 0.37
+        "2026-05-17": 0.37,
+        "2026-05-18": 0.37
       },
       "latest_price": 0.37,
       "return_pct": 7.25,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NILI|2026-04-24|jennings, ross|0.63",
@@ -5036,11 +4921,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.65,
-        "2026-05-17": 0.65
+        "2026-05-17": 0.65,
+        "2026-05-18": 0.65
       },
       "latest_price": 0.65,
       "return_pct": 3.17,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|FRG|2026-04-24|schmidtke, ralf holger|0.45",
@@ -5057,11 +4943,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.445,
-        "2026-05-17": 0.445
+        "2026-05-17": 0.445,
+        "2026-05-18": 0.445
       },
       "latest_price": 0.445,
       "return_pct": -1.11,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TOU|2026-04-24|rose, mike|59.4456",
@@ -5078,11 +4965,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 67.5,
-        "2026-05-17": 67.5
+        "2026-05-17": 67.5,
+        "2026-05-18": 67.5
       },
       "latest_price": 67.5,
       "return_pct": 13.55,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NPS-PA|2026-04-24|ninepoint balanced+ fund|15.1939",
@@ -5099,11 +4987,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 10.81,
-        "2026-05-17": 10.81
+        "2026-05-17": 10.81,
+        "2026-05-18": 10.81
       },
       "latest_price": 10.81,
       "return_pct": -28.85,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MATR|2026-04-24|kernaghan, elizabeth|9.45",
@@ -5120,11 +5009,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 12.6,
-        "2026-05-17": 12.6
+        "2026-05-17": 12.6,
+        "2026-05-18": 12.6
       },
       "latest_price": 12.6,
       "return_pct": 33.33,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MATR|2026-04-24|kernaghan, elizabeth|9.4",
@@ -5141,11 +5031,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 12.6,
-        "2026-05-17": 12.6
+        "2026-05-17": 12.6,
+        "2026-05-18": 12.6
       },
       "latest_price": 12.6,
       "return_pct": 34.04,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MTA|2026-04-24|tether international, s.a. de c.v.|6.8453",
@@ -5162,11 +5053,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 9.4,
-        "2026-05-17": 9.4
+        "2026-05-17": 9.4,
+        "2026-05-18": 9.4
       },
       "latest_price": 9.4,
       "return_pct": 37.32,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SCRI|2026-04-24|bures, peter|23.098",
@@ -5183,11 +5075,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 25.0,
-        "2026-05-17": 25.0
+        "2026-05-17": 25.0,
+        "2026-05-18": 25.0
       },
       "latest_price": 25.0,
       "return_pct": 8.23,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SCRI|2026-04-24|bures, peter|23.102",
@@ -5204,11 +5097,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 25.0,
-        "2026-05-17": 25.0
+        "2026-05-17": 25.0,
+        "2026-05-18": 25.0
       },
       "latest_price": 25.0,
       "return_pct": 8.22,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TNR|2026-04-24|evensen, jon christian|0.2521",
@@ -5225,11 +5119,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.235,
-        "2026-05-17": 0.235
+        "2026-05-17": 0.235,
+        "2026-05-18": 0.235
       },
       "latest_price": 0.235,
       "return_pct": -6.78,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ATX|2026-04-24|portmann, hannes philip|3.4",
@@ -5246,11 +5141,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 3.15,
-        "2026-05-17": 3.15
+        "2026-05-17": 3.15,
+        "2026-05-18": 3.15
       },
       "latest_price": 3.15,
       "return_pct": -7.35,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|FRSH|2026-04-24|laurell, nathan|0.698",
@@ -5267,11 +5163,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.95,
-        "2026-05-17": 0.95
+        "2026-05-17": 0.95,
+        "2026-05-18": 0.95
       },
       "latest_price": 0.95,
       "return_pct": 36.1,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BETR|2026-04-27|sangha, steven|0.06",
@@ -5288,11 +5185,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.06,
-        "2026-05-17": 0.06
+        "2026-05-17": 0.06,
+        "2026-05-18": 0.06
       },
       "latest_price": 0.06,
       "return_pct": 0.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SAO|2026-04-27|stow, stephen william canning|0.09",
@@ -5309,11 +5207,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.14,
-        "2026-05-17": 0.14
+        "2026-05-17": 0.14,
+        "2026-05-18": 0.14
       },
       "latest_price": 0.14,
       "return_pct": 55.56,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PEY|2026-04-27|collens, michael richard|24.99",
@@ -5330,11 +5229,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 26.79,
-        "2026-05-17": 26.77
+        "2026-05-17": 26.77,
+        "2026-05-18": 26.77
       },
       "latest_price": 26.77,
       "return_pct": 7.12,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|RML|2026-04-27|agapov, andre vladimir|1.0258",
@@ -5351,17 +5251,18 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.16,
-        "2026-05-17": 1.16
+        "2026-05-17": 1.16,
+        "2026-05-18": 1.16
       },
       "latest_price": 1.16,
       "return_pct": 13.08,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BRC|2026-04-27|pollard, andrew|1.28",
       "market": "CA",
       "ticker": "BRC",
-      "yf_symbol": "BRC.V",
+      "yf_symbol": "BRC.NE",
       "company": "Blackrock Silver Corp.",
       "insider_name": "Pollard, Andrew",
       "title": "Director & Senior Officer",
@@ -5372,11 +5273,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.28,
-        "2026-05-17": 1.28
+        "2026-05-17": 1.28,
+        "2026-05-18": 1.28
       },
       "latest_price": 1.28,
       "return_pct": 0.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LUNR|2026-04-28|d'sa, trevor|22.67",
@@ -5393,11 +5295,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 22.72,
-        "2026-05-17": 22.72
+        "2026-05-17": 22.72,
+        "2026-05-18": 22.72
       },
       "latest_price": 22.72,
       "return_pct": 0.22,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LUNR|2026-04-28|d'sa, trevor|22.95",
@@ -5414,11 +5317,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 22.72,
-        "2026-05-17": 22.72
+        "2026-05-17": 22.72,
+        "2026-05-18": 22.72
       },
       "latest_price": 22.72,
       "return_pct": -1.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LUNR|2026-04-28|d'sa, trevor|22.912",
@@ -5435,11 +5339,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 22.72,
-        "2026-05-17": 22.72
+        "2026-05-17": 22.72,
+        "2026-05-18": 22.72
       },
       "latest_price": 22.72,
       "return_pct": -0.84,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LUNR|2026-04-28|d'sa, trevor|23.104",
@@ -5456,11 +5361,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 22.72,
-        "2026-05-17": 22.72
+        "2026-05-17": 22.72,
+        "2026-05-18": 22.72
       },
       "latest_price": 22.72,
       "return_pct": -1.66,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LUNR|2026-04-28|d'sa, trevor|23.374",
@@ -5477,11 +5383,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 22.72,
-        "2026-05-17": 22.72
+        "2026-05-17": 22.72,
+        "2026-05-18": 22.72
       },
       "latest_price": 22.72,
       "return_pct": -2.8,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LUNR|2026-04-28|d'sa, trevor|23.76",
@@ -5498,11 +5405,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 22.72,
-        "2026-05-17": 22.72
+        "2026-05-17": 22.72,
+        "2026-05-18": 22.72
       },
       "latest_price": 22.72,
       "return_pct": -4.38,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LUNR|2026-04-28|d'sa, trevor|23.99",
@@ -5519,11 +5427,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 22.72,
-        "2026-05-17": 22.72
+        "2026-05-17": 22.72,
+        "2026-05-18": 22.72
       },
       "latest_price": 22.72,
       "return_pct": -5.29,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LUNR|2026-04-28|d'sa, trevor|22.93",
@@ -5540,11 +5449,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 22.72,
-        "2026-05-17": 22.72
+        "2026-05-17": 22.72,
+        "2026-05-18": 22.72
       },
       "latest_price": 22.72,
       "return_pct": -0.92,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|RML|2026-04-28|beruschi, anthony john|1.04",
@@ -5561,11 +5471,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.16,
-        "2026-05-17": 1.16
+        "2026-05-17": 1.16,
+        "2026-05-18": 1.16
       },
       "latest_price": 1.16,
       "return_pct": 11.54,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TNR|2026-04-29|evensen, jon christian|0.2468",
@@ -5582,11 +5493,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.235,
-        "2026-05-17": 0.235
+        "2026-05-17": 0.235,
+        "2026-05-18": 0.235
       },
       "latest_price": 0.235,
       "return_pct": -4.78,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|VMET|2026-04-29|jones, paul|15.65",
@@ -5603,11 +5515,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 15.35,
-        "2026-05-17": 15.35
+        "2026-05-17": 15.35,
+        "2026-05-18": 15.35
       },
       "latest_price": 15.35,
       "return_pct": -1.92,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|DSG|2026-04-29|the descartes systems group inc.|97.63",
@@ -5624,11 +5537,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 93.16,
-        "2026-05-17": 93.16
+        "2026-05-17": 93.16,
+        "2026-05-18": 93.16
       },
       "latest_price": 93.16,
       "return_pct": -4.58,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SNDL|2026-04-30|pinney, bryan daniel|1.3697",
@@ -5645,11 +5559,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.94,
-        "2026-05-17": 1.94
+        "2026-05-17": 1.94,
+        "2026-05-18": 1.94
       },
       "latest_price": 1.94,
       "return_pct": 41.64,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TFII|2026-04-30|tfi international inc.|192.9163",
@@ -5666,11 +5581,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 193.9,
-        "2026-05-17": 193.9
+        "2026-05-17": 193.9,
+        "2026-05-18": 193.9
       },
       "latest_price": 193.9,
       "return_pct": 0.51,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TFII|2026-04-30|tfi international inc.|141.3283",
@@ -5687,11 +5603,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 193.9,
-        "2026-05-17": 193.9
+        "2026-05-17": 193.9,
+        "2026-05-18": 193.9
       },
       "latest_price": 193.9,
       "return_pct": 37.2,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SKE|2026-04-30|coles, jr., walter|29.237",
@@ -5708,11 +5625,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 42.59,
-        "2026-05-17": 42.59
+        "2026-05-17": 42.59,
+        "2026-05-18": 42.59
       },
       "latest_price": 42.59,
       "return_pct": 45.67,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TRZ|2026-04-30|p\u00e9ladeau, pierre karl|2.56",
@@ -5729,11 +5647,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.7,
-        "2026-05-17": 2.7
+        "2026-05-17": 2.7,
+        "2026-05-18": 2.7
       },
       "latest_price": 2.7,
       "return_pct": 5.47,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|GSVR|2026-04-30|trotman, richard bryan|0.629",
@@ -5750,11 +5669,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.61,
-        "2026-05-17": 0.61
+        "2026-05-17": 0.61,
+        "2026-05-18": 0.61
       },
       "latest_price": 0.61,
       "return_pct": -3.02,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SNDL|2026-05-01|mills, james gregory|1.394",
@@ -5771,11 +5691,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.94,
-        "2026-05-17": 1.94
+        "2026-05-17": 1.94,
+        "2026-05-18": 1.94
       },
       "latest_price": 1.94,
       "return_pct": 39.17,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CPX|2026-05-01|dey, avik|64.99",
@@ -5792,11 +5713,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 63.82,
-        "2026-05-17": 63.82
+        "2026-05-17": 63.82,
+        "2026-05-18": 63.82
       },
       "latest_price": 63.82,
       "return_pct": -1.8,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PMZ-UN|2026-05-01|schonfeldt, julian|18.85",
@@ -5813,11 +5735,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 18.89,
-        "2026-05-17": 18.89
+        "2026-05-17": 18.89,
+        "2026-05-18": 18.89
       },
       "latest_price": 18.89,
       "return_pct": 0.21,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SCRI|2026-05-01|bures, peter|24.5",
@@ -5834,11 +5757,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 25.0,
-        "2026-05-17": 25.0
+        "2026-05-17": 25.0,
+        "2026-05-18": 25.0
       },
       "latest_price": 25.0,
       "return_pct": 2.04,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CPX|2026-05-01|perry, barry|64.7495",
@@ -5855,11 +5779,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 63.82,
-        "2026-05-17": 63.82
+        "2026-05-17": 63.82,
+        "2026-05-18": 63.82
       },
       "latest_price": 63.82,
       "return_pct": -1.44,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|GIL|2026-05-01|chandlee, michener|62.385",
@@ -5876,11 +5801,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 77.71,
-        "2026-05-17": 77.71
+        "2026-05-17": 77.71,
+        "2026-05-18": 77.71
       },
       "latest_price": 77.71,
       "return_pct": 24.57,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MATR|2026-05-01|kernaghan, elizabeth|9.45",
@@ -5897,11 +5823,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 12.6,
-        "2026-05-17": 12.6
+        "2026-05-17": 12.6,
+        "2026-05-18": 12.6
       },
       "latest_price": 12.6,
       "return_pct": 33.33,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MATR|2026-05-01|kernaghan, elizabeth|9.43",
@@ -5918,11 +5845,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 12.6,
-        "2026-05-17": 12.6
+        "2026-05-17": 12.6,
+        "2026-05-18": 12.6
       },
       "latest_price": 12.6,
       "return_pct": 33.62,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CTH|2026-05-01|jonker, abraham|1.4616",
@@ -5939,11 +5867,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.48,
-        "2026-05-17": 1.48
+        "2026-05-17": 1.48,
+        "2026-05-18": 1.48
       },
       "latest_price": 1.48,
       "return_pct": 1.26,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|GROY|2026-05-01|tether international, s.a. de c.v.|3.4502",
@@ -5978,11 +5907,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 9.4,
-        "2026-05-17": 9.4
+        "2026-05-17": 9.4,
+        "2026-05-18": 9.4
       },
       "latest_price": 9.4,
       "return_pct": 39.54,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CPKR|2026-05-04|vels, michael harold|18.51",
@@ -5999,11 +5929,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 17.96,
-        "2026-05-17": 17.98
+        "2026-05-17": 17.98,
+        "2026-05-18": 17.96
       },
       "latest_price": 17.96,
       "return_pct": -2.97,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MRE|2026-05-04|di tosto, alfred|10.02",
@@ -6020,11 +5951,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 10.37,
-        "2026-05-17": 10.38
+        "2026-05-17": 10.38,
+        "2026-05-18": 10.37
       },
       "latest_price": 10.37,
       "return_pct": 3.49,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MRE|2026-05-04|di tosto, alfred|10.11",
@@ -6041,11 +5973,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 10.37,
-        "2026-05-17": 10.38
+        "2026-05-17": 10.38,
+        "2026-05-18": 10.37
       },
       "latest_price": 10.37,
       "return_pct": 2.57,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|HODL.CN|2026-05-04|guoga, antanas (tony)|1.4332",
@@ -6062,11 +5995,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.86,
-        "2026-05-17": 2.86
+        "2026-05-17": 2.86,
+        "2026-05-18": 2.86
       },
       "latest_price": 2.86,
       "return_pct": 99.55,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|FFH|2026-05-04|magee, christine|2235.86",
@@ -6083,11 +6017,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2170.8999,
-        "2026-05-17": 2170.8999
+        "2026-05-17": 2170.8999,
+        "2026-05-18": 2170.8999
       },
       "latest_price": 2170.8999,
       "return_pct": -2.91,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|HODL.CN|2026-05-04|guoga, antanas (tony)|1.4477",
@@ -6104,11 +6039,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.86,
-        "2026-05-17": 2.86
+        "2026-05-17": 2.86,
+        "2026-05-18": 2.86
       },
       "latest_price": 2.86,
       "return_pct": 97.55,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|DG|2026-05-04|malhi, kulwant|0.035",
@@ -6125,11 +6061,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.035,
-        "2026-05-17": 0.035
+        "2026-05-17": 0.035,
+        "2026-05-18": 0.035
       },
       "latest_price": 0.035,
       "return_pct": 0.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CTH|2026-05-04|jonker, abraham|1.5176",
@@ -6146,11 +6083,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.48,
-        "2026-05-17": 1.48
+        "2026-05-17": 1.48,
+        "2026-05-18": 1.48
       },
       "latest_price": 1.48,
       "return_pct": -2.48,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ICGH|2026-05-04|elliott, c. fraser|0.53",
@@ -6167,11 +6105,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.51,
-        "2026-05-17": 0.51
+        "2026-05-17": 0.51,
+        "2026-05-18": 0.51
       },
       "latest_price": 0.51,
       "return_pct": -3.77,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TRZ|2026-05-04|p\u00e9ladeau, pierre karl|2.56",
@@ -6188,11 +6127,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.7,
-        "2026-05-17": 2.7
+        "2026-05-17": 2.7,
+        "2026-05-18": 2.7
       },
       "latest_price": 2.7,
       "return_pct": 5.47,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TRZ|2026-05-04|p\u00e9ladeau, pierre karl|2.65",
@@ -6209,11 +6149,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.7,
-        "2026-05-17": 2.7
+        "2026-05-17": 2.7,
+        "2026-05-18": 2.7
       },
       "latest_price": 2.7,
       "return_pct": 1.89,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SKE|2026-05-05|coles, jr., walter|29.5",
@@ -6230,11 +6171,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 42.59,
-        "2026-05-17": 42.59
+        "2026-05-17": 42.59,
+        "2026-05-18": 42.59
       },
       "latest_price": 42.59,
       "return_pct": 44.37,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BGD|2026-05-05|moore, jean-david|0.09",
@@ -6251,11 +6193,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.085,
-        "2026-05-17": 0.085
+        "2026-05-17": 0.085,
+        "2026-05-18": 0.085
       },
       "latest_price": 0.085,
       "return_pct": -5.56,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LMCU|2026-05-05|pandoff, jordan|11.3957",
@@ -6272,11 +6215,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 11.93,
-        "2026-05-17": 11.96
+        "2026-05-17": 11.96,
+        "2026-05-18": 11.96
       },
       "latest_price": 11.96,
       "return_pct": 4.95,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ELD|2026-05-05|myerson, daniel|40.22",
@@ -6293,11 +6237,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 43.51,
-        "2026-05-17": 43.51
+        "2026-05-17": 43.51,
+        "2026-05-18": 43.51
       },
       "latest_price": 43.51,
       "return_pct": 8.18,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ESM|2026-05-05|sboros, grant|0.15",
@@ -6314,11 +6259,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.168,
-        "2026-05-17": 0.17
+        "2026-05-17": 0.17,
+        "2026-05-18": 0.17
       },
       "latest_price": 0.17,
       "return_pct": 13.33,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|RUA|2026-05-05|eckford, robert|1.26",
@@ -6335,11 +6281,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.3,
-        "2026-05-17": 1.3
+        "2026-05-17": 1.3,
+        "2026-05-18": 1.3
       },
       "latest_price": 1.3,
       "return_pct": 3.17,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|HODL.CN|2026-05-05|guoga, antanas (tony)|2.1925",
@@ -6356,11 +6303,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.86,
-        "2026-05-17": 2.86
+        "2026-05-17": 2.86,
+        "2026-05-18": 2.86
       },
       "latest_price": 2.86,
       "return_pct": 30.44,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|HODL.CN|2026-05-05|guoga, antanas (tony)|1.6084",
@@ -6377,11 +6325,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.86,
-        "2026-05-17": 2.86
+        "2026-05-17": 2.86,
+        "2026-05-18": 2.86
       },
       "latest_price": 2.86,
       "return_pct": 77.82,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|QIM.CN|2026-05-05|wahl, sebastian|0.3",
@@ -6398,11 +6347,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.305,
-        "2026-05-17": 0.305
+        "2026-05-17": 0.305,
+        "2026-05-18": 0.305
       },
       "latest_price": 0.305,
       "return_pct": 1.67,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|HODL.CN|2026-05-05|guoga, antanas (tony)|1.6097",
@@ -6419,11 +6369,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.86,
-        "2026-05-17": 2.86
+        "2026-05-17": 2.86,
+        "2026-05-18": 2.86
       },
       "latest_price": 2.86,
       "return_pct": 77.67,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ELD|2026-05-06|ferneyhough, paul anthony|42.16",
@@ -6440,11 +6391,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 43.51,
-        "2026-05-17": 43.51
+        "2026-05-17": 43.51,
+        "2026-05-18": 43.51
       },
       "latest_price": 43.51,
       "return_pct": 3.2,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ELD|2026-05-06|reid, steven paul|43.3348",
@@ -6461,17 +6413,18 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 43.51,
-        "2026-05-17": 43.51
+        "2026-05-17": 43.51,
+        "2026-05-18": 43.51
       },
       "latest_price": 43.51,
       "return_pct": 0.4,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|IGO|2026-05-06|gestion bouca inc|0.1",
       "market": "CA",
       "ticker": "IGO",
-      "yf_symbol": "IGO.V",
+      "yf_symbol": "IGO.NE",
       "company": "Independence Gold Corp.",
       "insider_name": "Gestion Bouca Inc",
       "title": "10% Holder",
@@ -6482,17 +6435,18 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.105,
-        "2026-05-17": 0.105
+        "2026-05-17": 0.105,
+        "2026-05-18": 0.105
       },
       "latest_price": 0.105,
       "return_pct": 5.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|IGO|2026-05-06|gestion bouca inc|0.105",
       "market": "CA",
       "ticker": "IGO",
-      "yf_symbol": "IGO.V",
+      "yf_symbol": "IGO.NE",
       "company": "Independence Gold Corp.",
       "insider_name": "Gestion Bouca Inc",
       "title": "10% Holder",
@@ -6503,11 +6457,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.105,
-        "2026-05-17": 0.105
+        "2026-05-17": 0.105,
+        "2026-05-18": 0.105
       },
       "latest_price": 0.105,
       "return_pct": 0.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|WJX|2026-05-06|smith, david glenson|29.204",
@@ -6524,11 +6479,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 28.52,
-        "2026-05-17": 28.52
+        "2026-05-17": 28.52,
+        "2026-05-18": 28.52
       },
       "latest_price": 28.52,
       "return_pct": -2.34,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|AAV|2026-05-06|festival, john|10.25",
@@ -6545,11 +6501,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 10.05,
-        "2026-05-17": 10.05
+        "2026-05-17": 10.05,
+        "2026-05-18": 10.05
       },
       "latest_price": 10.05,
       "return_pct": -1.95,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|XTRA|2026-05-06|evans, peter michael|0.3249",
@@ -6566,11 +6523,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.495,
-        "2026-05-17": 0.495
+        "2026-05-17": 0.495,
+        "2026-05-18": 0.495
       },
       "latest_price": 0.495,
       "return_pct": 52.35,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CIGI|2026-05-07|waitzer, edward|136.0",
@@ -6587,11 +6545,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 126.77,
-        "2026-05-17": 126.77
+        "2026-05-17": 126.77,
+        "2026-05-18": 126.77
       },
       "latest_price": 126.77,
       "return_pct": -6.79,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|IAG|2026-05-07|jobin, \u00e9ric|159.82",
@@ -6608,11 +6567,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 170.97,
-        "2026-05-17": 170.97
+        "2026-05-17": 170.97,
+        "2026-05-18": 170.97
       },
       "latest_price": 170.97,
       "return_pct": 6.98,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|IAG|2026-05-07|ricard, denis|160.0",
@@ -6629,11 +6589,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 170.97,
-        "2026-05-17": 170.97
+        "2026-05-17": 170.97,
+        "2026-05-18": 170.97
       },
       "latest_price": 170.97,
       "return_pct": 6.86,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BRO|2026-05-07|blasutti, darren john|0.4",
@@ -6650,11 +6611,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.52,
-        "2026-05-17": 0.52
+        "2026-05-17": 0.52,
+        "2026-05-18": 0.52
       },
       "latest_price": 0.52,
       "return_pct": 30.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BETR|2026-05-07|sangha, steven|0.06",
@@ -6671,11 +6633,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.06,
-        "2026-05-17": 0.06
+        "2026-05-17": 0.06,
+        "2026-05-18": 0.06
       },
       "latest_price": 0.06,
       "return_pct": 0.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SGD|2026-05-07|berdahl, james scott|15.28",
@@ -6692,11 +6655,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 15.07,
-        "2026-05-17": 15.07
+        "2026-05-17": 15.07,
+        "2026-05-18": 15.07
       },
       "latest_price": 15.07,
       "return_pct": -1.37,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TRZ|2026-05-07|p\u00e9ladeau, pierre karl|2.68",
@@ -6713,11 +6677,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.7,
-        "2026-05-17": 2.7
+        "2026-05-17": 2.7,
+        "2026-05-18": 2.7
       },
       "latest_price": 2.7,
       "return_pct": 0.75,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|GDP|2026-05-07|mcclay, kathleen|0.33",
@@ -6734,11 +6699,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.32,
-        "2026-05-17": 0.32
+        "2026-05-17": 0.32,
+        "2026-05-18": 0.32
       },
       "latest_price": 0.32,
       "return_pct": -3.03,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|KITS|2026-05-07|hardy, roger|11.37",
@@ -6755,11 +6721,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 10.84,
-        "2026-05-17": 10.84
+        "2026-05-17": 10.84,
+        "2026-05-18": 10.84
       },
       "latest_price": 10.84,
       "return_pct": -4.66,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|KITS|2026-05-07|hardy, roger|11.36",
@@ -6776,11 +6743,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 10.84,
-        "2026-05-17": 10.84
+        "2026-05-17": 10.84,
+        "2026-05-18": 10.84
       },
       "latest_price": 10.84,
       "return_pct": -4.58,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|WJX|2026-05-07|craighead, jane|29.47",
@@ -6797,11 +6765,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 28.52,
-        "2026-05-17": 28.52
+        "2026-05-17": 28.52,
+        "2026-05-18": 28.52
       },
       "latest_price": 28.52,
       "return_pct": -3.22,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|WJX|2026-05-07|craighead, jane|29.485",
@@ -6818,11 +6787,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 28.52,
-        "2026-05-17": 28.52
+        "2026-05-17": 28.52,
+        "2026-05-18": 28.52
       },
       "latest_price": 28.52,
       "return_pct": -3.27,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|WJX|2026-05-07|craighead, jane|29.55",
@@ -6839,11 +6809,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 28.52,
-        "2026-05-17": 28.52
+        "2026-05-17": 28.52,
+        "2026-05-18": 28.52
       },
       "latest_price": 28.52,
       "return_pct": -3.49,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|WJX|2026-05-07|craighead, jane|29.5167",
@@ -6860,11 +6831,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 28.52,
-        "2026-05-17": 28.52
+        "2026-05-17": 28.52,
+        "2026-05-18": 28.52
       },
       "latest_price": 28.52,
       "return_pct": -3.38,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|AEC|2026-05-08|bleak, joshua daniel|5.3",
@@ -6902,11 +6874,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 67.5,
-        "2026-05-17": 67.5
+        "2026-05-17": 67.5,
+        "2026-05-18": 67.5
       },
       "latest_price": 67.5,
       "return_pct": 4.49,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TUF|2026-05-08|williams, chad|0.63",
@@ -6923,11 +6896,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.88,
-        "2026-05-17": 0.88
+        "2026-05-17": 0.88,
+        "2026-05-18": 0.88
       },
       "latest_price": 0.88,
       "return_pct": 39.68,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NTR|2026-05-08|bradley, noralee|94.0",
@@ -6944,11 +6918,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 98.45,
-        "2026-05-17": 98.45
+        "2026-05-17": 98.45,
+        "2026-05-18": 98.45
       },
       "latest_price": 98.45,
       "return_pct": 4.73,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NTR|2026-05-08|regent, aaron william|68.93",
@@ -6965,11 +6940,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 98.45,
-        "2026-05-17": 98.45
+        "2026-05-17": 98.45,
+        "2026-05-18": 98.45
       },
       "latest_price": 98.45,
       "return_pct": 42.83,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NTR|2026-05-08|thompson, mark|94.42",
@@ -6986,11 +6962,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 98.45,
-        "2026-05-17": 98.45
+        "2026-05-17": 98.45,
+        "2026-05-18": 98.45
       },
       "latest_price": 98.45,
       "return_pct": 4.27,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SGD|2026-05-08|berdahl, james scott|15.5",
@@ -7007,11 +6984,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 15.07,
-        "2026-05-17": 15.07
+        "2026-05-17": 15.07,
+        "2026-05-18": 15.07
       },
       "latest_price": 15.07,
       "return_pct": -2.77,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|OZ|2026-05-08|archambeault, louis|0.56",
@@ -7028,11 +7006,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.54,
-        "2026-05-17": 0.54
+        "2026-05-17": 0.54,
+        "2026-05-18": 0.54
       },
       "latest_price": 0.54,
       "return_pct": -3.57,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LMCU|2026-05-08|pandoff, jordan|10.85",
@@ -7049,11 +7028,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 11.93,
-        "2026-05-17": 11.96
+        "2026-05-17": 11.96,
+        "2026-05-18": 11.96
       },
       "latest_price": 11.96,
       "return_pct": 10.23,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NTR|2026-05-08|martell, keith|94.45",
@@ -7070,11 +7050,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 98.45,
-        "2026-05-17": 98.45
+        "2026-05-17": 98.45,
+        "2026-05-18": 98.45
       },
       "latest_price": 98.45,
       "return_pct": 4.24,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ARTG|2026-05-08|andres, dale edwin|34.1",
@@ -7091,11 +7072,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 33.15,
-        "2026-05-17": 33.15
+        "2026-05-17": 33.15,
+        "2026-05-18": 33.15
       },
       "latest_price": 33.15,
       "return_pct": -2.79,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ARTG|2026-05-08|andres, dale edwin|33.85",
@@ -7112,11 +7094,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 33.15,
-        "2026-05-17": 33.15
+        "2026-05-17": 33.15,
+        "2026-05-18": 33.15
       },
       "latest_price": 33.15,
       "return_pct": -2.07,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ARTG|2026-05-08|scott, anthony|34.08",
@@ -7133,11 +7116,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 33.15,
-        "2026-05-17": 33.15
+        "2026-05-17": 33.15,
+        "2026-05-18": 33.15
       },
       "latest_price": 33.15,
       "return_pct": -2.73,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NTR|2026-05-08|kelemen, andrew|94.17",
@@ -7154,11 +7138,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 98.45,
-        "2026-05-17": 98.45
+        "2026-05-17": 98.45,
+        "2026-05-18": 98.45
       },
       "latest_price": 98.45,
       "return_pct": 4.54,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NTR|2026-05-08|perkins, dean stephen|94.2",
@@ -7175,11 +7160,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 98.45,
-        "2026-05-17": 98.45
+        "2026-05-17": 98.45,
+        "2026-05-18": 98.45
       },
       "latest_price": 98.45,
       "return_pct": 4.51,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TAL|2026-05-08|mccomiskey, mark adrian|0.4237",
@@ -7196,11 +7182,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.59,
-        "2026-05-17": 0.59
+        "2026-05-17": 0.59,
+        "2026-05-18": 0.59
       },
       "latest_price": 0.59,
       "return_pct": 39.25,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|AAV|2026-05-08|clague, donald m.|9.919",
@@ -7217,11 +7204,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 10.05,
-        "2026-05-17": 10.05
+        "2026-05-17": 10.05,
+        "2026-05-18": 10.05
       },
       "latest_price": 10.05,
       "return_pct": 1.32,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MTA|2026-05-08|tether international, s.a. de c.v.|7.2761",
@@ -7238,11 +7226,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 9.4,
-        "2026-05-17": 9.4
+        "2026-05-17": 9.4,
+        "2026-05-18": 9.4
       },
       "latest_price": 9.4,
       "return_pct": 29.19,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PMZ-UN|2026-05-08|avery, alexander danial|19.29",
@@ -7259,11 +7248,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 18.89,
-        "2026-05-17": 18.89
+        "2026-05-17": 18.89,
+        "2026-05-18": 18.89
       },
       "latest_price": 18.89,
       "return_pct": -2.07,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|HODL.CN|2026-05-08|guoga, antanas (tony)|1.8088",
@@ -7280,11 +7270,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.86,
-        "2026-05-17": 2.86
+        "2026-05-17": 2.86,
+        "2026-05-18": 2.86
       },
       "latest_price": 2.86,
       "return_pct": 58.12,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ELD|2026-05-11|myerson, daniel|48.25",
@@ -7301,11 +7292,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 43.51,
-        "2026-05-17": 43.51
+        "2026-05-17": 43.51,
+        "2026-05-18": 43.51
       },
       "latest_price": 43.51,
       "return_pct": -9.82,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|FIH-U|2026-05-11|watsa, benjamin p.|17.55",
@@ -7322,11 +7314,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 17.0,
-        "2026-05-17": 17.0
+        "2026-05-17": 17.0,
+        "2026-05-18": 17.0
       },
       "latest_price": 17.0,
       "return_pct": -3.13,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|GIL|2026-05-11|khandelwal, deepak kumar|79.8",
@@ -7343,11 +7336,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 77.71,
-        "2026-05-17": 77.71
+        "2026-05-17": 77.71,
+        "2026-05-18": 77.71
       },
       "latest_price": 77.71,
       "return_pct": -2.62,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|OM|2026-05-11|burzynski, john feliks|1.72",
@@ -7364,11 +7358,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.64,
-        "2026-05-17": 1.65
+        "2026-05-17": 1.65,
+        "2026-05-18": 1.65
       },
       "latest_price": 1.65,
       "return_pct": -4.07,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TAL|2026-05-11|arbelaez hoyos, felipe|32.016",
@@ -7385,11 +7380,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.59,
-        "2026-05-17": 0.59
+        "2026-05-17": 0.59,
+        "2026-05-18": 0.59
       },
       "latest_price": 0.59,
       "return_pct": -98.16,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|QIM.CN|2026-05-11|sanchez, juan fernando|0.3",
@@ -7406,11 +7402,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.305,
-        "2026-05-17": 0.305
+        "2026-05-17": 0.305,
+        "2026-05-18": 0.305
       },
       "latest_price": 0.305,
       "return_pct": 1.67,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ACX|2026-05-11|adams, daniel b.|6.55",
@@ -7427,11 +7424,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 6.67,
-        "2026-05-17": 6.67
+        "2026-05-17": 6.67,
+        "2026-05-18": 6.67
       },
       "latest_price": 6.67,
       "return_pct": 1.83,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|AFN|2026-05-11|bhardwaj, rohit|24.0",
@@ -7448,11 +7446,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 25.2,
-        "2026-05-17": 25.2
+        "2026-05-17": 25.2,
+        "2026-05-18": 25.2
       },
       "latest_price": 25.2,
       "return_pct": 5.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|FRX|2026-05-11|rallis, chris anigeron|2.44",
@@ -7469,11 +7468,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.31,
-        "2026-05-17": 13.31
+        "2026-05-17": 13.31,
+        "2026-05-18": 13.31
       },
       "latest_price": 13.31,
       "return_pct": 445.49,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|IMG|2026-05-11|racine, daniel|26.284",
@@ -7490,11 +7490,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 23.34,
-        "2026-05-17": 23.34
+        "2026-05-17": 23.34,
+        "2026-05-18": 23.34
       },
       "latest_price": 23.34,
       "return_pct": -11.2,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|GQC|2026-05-11|michaels, patrick|0.45",
@@ -7511,11 +7512,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.46,
-        "2026-05-17": 0.46
+        "2026-05-17": 0.46,
+        "2026-05-18": 0.46
       },
       "latest_price": 0.46,
       "return_pct": 2.22,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CLIC|2026-05-11|champagne, sylvain|0.36",
@@ -7532,11 +7534,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.355,
-        "2026-05-17": 0.355
+        "2026-05-17": 0.355,
+        "2026-05-18": 0.355
       },
       "latest_price": 0.355,
       "return_pct": -1.39,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CKI|2026-05-12|casey, thomas patrick ellis|27.0",
@@ -7553,11 +7556,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 27.77,
-        "2026-05-17": 27.77
+        "2026-05-17": 27.77,
+        "2026-05-18": 27.77
       },
       "latest_price": 27.77,
       "return_pct": 2.85,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SKE|2026-05-12|coles, jr., walter|32.522",
@@ -7574,11 +7578,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 42.59,
-        "2026-05-17": 42.59
+        "2026-05-17": 42.59,
+        "2026-05-18": 42.59
       },
       "latest_price": 42.59,
       "return_pct": 30.96,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CAR-UN|2026-05-12|silver, kenneth|34.4497",
@@ -7595,11 +7600,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 33.36,
-        "2026-05-17": 33.32
+        "2026-05-17": 33.32,
+        "2026-05-18": 33.36
       },
       "latest_price": 33.36,
       "return_pct": -3.16,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CAR-UN|2026-05-12|tremblay, ren\u00e9|34.22",
@@ -7616,11 +7622,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 33.36,
-        "2026-05-17": 33.32
+        "2026-05-17": 33.32,
+        "2026-05-18": 33.36
       },
       "latest_price": 33.36,
       "return_pct": -2.51,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MKP|2026-05-12|giovanniello, olga|24.3066",
@@ -7637,11 +7644,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 24.34,
-        "2026-05-17": 24.34
+        "2026-05-17": 24.34,
+        "2026-05-18": 24.34
       },
       "latest_price": 24.34,
       "return_pct": 0.14,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ARTG|2026-05-12|scott, anthony|34.25",
@@ -7658,11 +7666,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 33.15,
-        "2026-05-17": 33.15
+        "2026-05-17": 33.15,
+        "2026-05-18": 33.15
       },
       "latest_price": 33.15,
       "return_pct": -3.21,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ELD|2026-05-12|burns, george raymond|47.344",
@@ -7679,11 +7688,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 43.51,
-        "2026-05-17": 43.51
+        "2026-05-17": 43.51,
+        "2026-05-18": 43.51
       },
       "latest_price": 43.51,
       "return_pct": -8.1,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ELD|2026-05-12|walker, stephen david|48.4",
@@ -7700,11 +7710,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 43.51,
-        "2026-05-17": 43.51
+        "2026-05-17": 43.51,
+        "2026-05-18": 43.51
       },
       "latest_price": 43.51,
       "return_pct": -10.1,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|HODL.CN|2026-05-12|guoga, antanas (tony)|1.9502",
@@ -7721,11 +7732,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.86,
-        "2026-05-17": 2.86
+        "2026-05-17": 2.86,
+        "2026-05-18": 2.86
       },
       "latest_price": 2.86,
       "return_pct": 46.65,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|HODL.CN|2026-05-12|guoga, antanas (tony)|2.6562",
@@ -7742,11 +7754,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.86,
-        "2026-05-17": 2.86
+        "2026-05-17": 2.86,
+        "2026-05-18": 2.86
       },
       "latest_price": 2.86,
       "return_pct": 7.67,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|IMG|2026-05-12|shah, ankit|26.0258",
@@ -7763,11 +7776,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 23.34,
-        "2026-05-17": 23.34
+        "2026-05-17": 23.34,
+        "2026-05-18": 23.34
       },
       "latest_price": 23.34,
       "return_pct": -10.32,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MAXX.CN|2026-05-12|2176423 ontario ltd.|2.0219",
@@ -7784,11 +7798,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.58,
-        "2026-05-17": 2.58
+        "2026-05-17": 2.58,
+        "2026-05-18": 2.58
       },
       "latest_price": 2.58,
       "return_pct": 27.6,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|MAXX.CN|2026-05-12|sprott, eric|2.0219",
@@ -7805,11 +7820,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.58,
-        "2026-05-17": 2.58
+        "2026-05-17": 2.58,
+        "2026-05-18": 2.58
       },
       "latest_price": 2.58,
       "return_pct": 27.6,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NFI|2026-05-12|sapp, john christopher|15.02",
@@ -7826,11 +7842,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 20.8,
-        "2026-05-17": 20.8
+        "2026-05-17": 20.8,
+        "2026-05-18": 20.8
       },
       "latest_price": 20.8,
       "return_pct": 38.48,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SICO|2026-05-12|2176423 ontario ltd.|11.0",
@@ -7847,11 +7864,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 10.36,
-        "2026-05-17": 10.36
+        "2026-05-17": 10.36,
+        "2026-05-18": 10.36
       },
       "latest_price": 10.36,
       "return_pct": -5.82,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SICO|2026-05-12|sprott, eric|11.0",
@@ -7868,11 +7886,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 10.36,
-        "2026-05-17": 10.36
+        "2026-05-17": 10.36,
+        "2026-05-18": 10.36
       },
       "latest_price": 10.36,
       "return_pct": -5.82,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SJ|2026-05-12|albanesi, marco|73.0",
@@ -7889,11 +7908,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 72.94,
-        "2026-05-17": 72.94
+        "2026-05-17": 72.94,
+        "2026-05-18": 72.94
       },
       "latest_price": 72.94,
       "return_pct": -0.08,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SJ|2026-05-12|james, kenner|53.2321",
@@ -7910,11 +7930,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 72.94,
-        "2026-05-17": 72.94
+        "2026-05-17": 72.94,
+        "2026-05-18": 72.94
       },
       "latest_price": 72.94,
       "return_pct": 37.02,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CP|2026-05-13|stevenson, katharine berghuis|118.3688",
@@ -7931,11 +7952,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 117.0,
-        "2026-05-17": 117.0
+        "2026-05-17": 117.0,
+        "2026-05-18": 117.0
       },
       "latest_price": 117.0,
       "return_pct": -1.16,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CAS|2026-05-13|lemaire, laurent|10.52",
@@ -7952,11 +7974,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 10.44,
-        "2026-05-17": 10.44
+        "2026-05-17": 10.44,
+        "2026-05-18": 10.44
       },
       "latest_price": 10.44,
       "return_pct": -0.76,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CIGI|2026-05-13|sullivan, john|133.0",
@@ -7973,11 +7996,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 126.77,
-        "2026-05-17": 126.77
+        "2026-05-17": 126.77,
+        "2026-05-18": 126.77
       },
       "latest_price": 126.77,
       "return_pct": -4.68,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CIGI|2026-05-13|sullivan, john|135.459",
@@ -7994,11 +8018,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 126.77,
-        "2026-05-17": 126.77
+        "2026-05-17": 126.77,
+        "2026-05-18": 126.77
       },
       "latest_price": 126.77,
       "return_pct": -6.41,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CGNT|2026-05-13|giustra, frank|0.8165",
@@ -8015,11 +8040,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.64,
-        "2026-05-17": 0.64
+        "2026-05-17": 0.64,
+        "2026-05-18": 0.64
       },
       "latest_price": 0.64,
       "return_pct": -21.62,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LNF|2026-05-13|leon, lewis mark|24.3983",
@@ -8036,11 +8062,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 24.39,
-        "2026-05-17": 24.39
+        "2026-05-17": 24.39,
+        "2026-05-18": 24.39
       },
       "latest_price": 24.39,
       "return_pct": -0.03,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NXR-UN|2026-05-13|hanczyk, kelly clark|7.71",
@@ -8057,11 +8084,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 7.7,
-        "2026-05-17": 7.7
+        "2026-05-17": 7.7,
+        "2026-05-18": 7.7
       },
       "latest_price": 7.7,
       "return_pct": -0.13,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|OBE|2026-05-13|loukas, stephen|13.1",
@@ -8078,11 +8106,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 18.49,
-        "2026-05-17": 18.49
+        "2026-05-17": 18.49,
+        "2026-05-18": 18.49
       },
       "latest_price": 18.49,
       "return_pct": 41.15,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|POU|2026-05-13|sousa, rodrigo|30.5",
@@ -8099,11 +8128,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 32.06,
-        "2026-05-17": 32.06
+        "2026-05-17": 32.06,
+        "2026-05-18": 32.06
       },
       "latest_price": 32.06,
       "return_pct": 5.11,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|POU|2026-05-13|sousa, rodrigo|30.75",
@@ -8120,11 +8150,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 32.06,
-        "2026-05-17": 32.06
+        "2026-05-17": 32.06,
+        "2026-05-18": 32.06
       },
       "latest_price": 32.06,
       "return_pct": 4.26,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|POU|2026-05-13|sousa, rodrigo|30.6",
@@ -8141,11 +8172,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 32.06,
-        "2026-05-17": 32.06
+        "2026-05-17": 32.06,
+        "2026-05-18": 32.06
       },
       "latest_price": 32.06,
       "return_pct": 4.77,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TFII|2026-05-13|giard, diane|183.86",
@@ -8162,11 +8194,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 193.9,
-        "2026-05-17": 193.9
+        "2026-05-17": 193.9,
+        "2026-05-18": 193.9
       },
       "latest_price": 193.9,
       "return_pct": 5.46,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CFW|2026-05-13|dahlseide, tyler|5.8299",
@@ -8183,11 +8216,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 5.81,
-        "2026-05-17": 5.81
+        "2026-05-17": 5.81,
+        "2026-05-18": 5.81
       },
       "latest_price": 5.81,
       "return_pct": -0.34,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NFI|2026-05-13|sapp, john christopher|15.178",
@@ -8204,11 +8238,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 20.8,
-        "2026-05-17": 20.8
+        "2026-05-17": 20.8,
+        "2026-05-18": 20.8
       },
       "latest_price": 20.8,
       "return_pct": 37.04,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|DIGI.CN|2026-05-14|sutton, brayden robert|0.03",
@@ -8225,11 +8260,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.03,
-        "2026-05-17": 0.03
+        "2026-05-17": 0.03,
+        "2026-05-18": 0.03
       },
       "latest_price": 0.03,
       "return_pct": 0.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TOU|2026-05-14|rose, mike|65.1986",
@@ -8246,11 +8282,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 67.5,
-        "2026-05-17": 67.5
+        "2026-05-17": 67.5,
+        "2026-05-18": 67.5
       },
       "latest_price": 67.5,
       "return_pct": 3.53,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PET|2026-05-14|fortino, carmine|17.26",
@@ -8267,11 +8304,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 17.67,
-        "2026-05-17": 17.64
+        "2026-05-17": 17.64,
+        "2026-05-18": 17.64
       },
       "latest_price": 17.64,
       "return_pct": 2.2,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NILI|2026-05-14|harris, graham|0.69",
@@ -8288,11 +8326,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.65,
-        "2026-05-17": 0.65
+        "2026-05-17": 0.65,
+        "2026-05-18": 0.65
       },
       "latest_price": 0.65,
       "return_pct": -5.8,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ACM.CN|2026-05-14|bonnell, roy|2.082",
@@ -8309,11 +8348,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.0,
-        "2026-05-17": 2.0
+        "2026-05-17": 2.0,
+        "2026-05-18": 2.0
       },
       "latest_price": 2.0,
       "return_pct": -3.94,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|PXT|2026-05-14|mohsen, imad|27.3693",
@@ -8330,11 +8370,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 27.11,
-        "2026-05-17": 27.11
+        "2026-05-17": 27.11,
+        "2026-05-18": 27.11
       },
       "latest_price": 27.11,
       "return_pct": -0.95,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|BOS|2026-05-14|schoch, peter grenville|7.4629",
@@ -8372,11 +8413,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 126.77,
-        "2026-05-17": 126.77
+        "2026-05-17": 126.77,
+        "2026-05-18": 126.77
       },
       "latest_price": 126.77,
       "return_pct": 35.08,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|EXE|2026-05-14|blair, joshua andrew|34.6648",
@@ -8414,11 +8456,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.7,
-        "2026-05-17": 2.7
+        "2026-05-17": 2.7,
+        "2026-05-18": 2.7
       },
       "latest_price": 2.7,
       "return_pct": 0.37,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TRZ|2026-05-14|p\u00e9ladeau, pierre karl|2.67",
@@ -8435,11 +8478,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.7,
-        "2026-05-17": 2.7
+        "2026-05-17": 2.7,
+        "2026-05-18": 2.7
       },
       "latest_price": 2.7,
       "return_pct": 1.12,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TRZ|2026-05-14|p\u00e9ladeau, pierre karl|2.66",
@@ -8456,11 +8500,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.7,
-        "2026-05-17": 2.7
+        "2026-05-17": 2.7,
+        "2026-05-18": 2.7
       },
       "latest_price": 2.7,
       "return_pct": 1.5,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TRZ|2026-05-14|p\u00e9ladeau, pierre karl|2.65",
@@ -8477,11 +8522,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.7,
-        "2026-05-17": 2.7
+        "2026-05-17": 2.7,
+        "2026-05-18": 2.7
       },
       "latest_price": 2.7,
       "return_pct": 1.89,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|HML.CN|2026-05-14|schloo, peter|0.035",
@@ -8498,11 +8544,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.04,
-        "2026-05-17": 0.04
+        "2026-05-17": 0.04,
+        "2026-05-18": 0.04
       },
       "latest_price": 0.04,
       "return_pct": 14.29,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TUF|2026-05-14|2176423 ontario ltd.|0.72",
@@ -8519,11 +8566,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.88,
-        "2026-05-17": 0.88
+        "2026-05-17": 0.88,
+        "2026-05-18": 0.88
       },
       "latest_price": 0.88,
       "return_pct": 22.22,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TUF|2026-05-14|sprott, eric|0.72",
@@ -8540,11 +8588,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.88,
-        "2026-05-17": 0.88
+        "2026-05-17": 0.88,
+        "2026-05-18": 0.88
       },
       "latest_price": 0.88,
       "return_pct": 22.22,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ACT|2026-05-14|vicus, ofer|19.886",
@@ -8561,11 +8610,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 18.92,
-        "2026-05-17": 18.92
+        "2026-05-17": 18.92,
+        "2026-05-18": 18.92
       },
       "latest_price": 18.92,
       "return_pct": -4.86,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CLCH|2026-05-14|losito, david john|1.3",
@@ -8582,11 +8632,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.25,
-        "2026-05-17": 1.25
+        "2026-05-17": 1.25,
+        "2026-05-18": 1.25
       },
       "latest_price": 1.25,
       "return_pct": -3.85,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CLCH|2026-05-14|nix, jon eric|1.32",
@@ -8603,11 +8654,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 1.25,
-        "2026-05-17": 1.25
+        "2026-05-17": 1.25,
+        "2026-05-18": 1.25
       },
       "latest_price": 1.25,
       "return_pct": -5.3,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TUF|2026-05-14|williams, chad|0.8043",
@@ -8624,11 +8676,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.88,
-        "2026-05-17": 0.88
+        "2026-05-17": 0.88,
+        "2026-05-18": 0.88
       },
       "latest_price": 0.88,
       "return_pct": 9.41,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NBRK|2026-05-14|quigley, ross|0.3",
@@ -8645,11 +8698,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.29,
-        "2026-05-17": 0.29
+        "2026-05-17": 0.29,
+        "2026-05-18": 0.3
       },
       "latest_price": 0.3,
       "return_pct": 0.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NBRK|2026-05-14|quigley, ross|0.31",
@@ -8666,11 +8720,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.29,
-        "2026-05-17": 0.29
+        "2026-05-17": 0.29,
+        "2026-05-18": 0.3
       },
       "latest_price": 0.3,
       "return_pct": -3.23,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|NBRK|2026-05-14|quigley, ross|0.32",
@@ -8687,11 +8742,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.29,
-        "2026-05-17": 0.29
+        "2026-05-17": 0.29,
+        "2026-05-18": 0.3
       },
       "latest_price": 0.3,
       "return_pct": -6.25,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CNR|2026-05-15|howell, justin m.|111.05",
@@ -8708,11 +8764,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 153.91,
-        "2026-05-17": 153.91
+        "2026-05-17": 153.91,
+        "2026-05-18": 153.91
       },
       "latest_price": 153.91,
       "return_pct": 38.6,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|EQX|2026-05-15|boggio, lenard|18.58",
@@ -8750,11 +8807,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.08,
-        "2026-05-17": 2.08
+        "2026-05-17": 2.08,
+        "2026-05-18": 2.08
       },
       "latest_price": 2.08,
       "return_pct": -5.45,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|IAU|2026-05-15|yopps, steven wayne|1.47",
@@ -8771,11 +8829,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 2.05,
-        "2026-05-17": 2.05
+        "2026-05-17": 2.05,
+        "2026-05-18": 2.05
       },
       "latest_price": 2.05,
       "return_pct": 39.46,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|RM|2026-05-15|lokhandwala, zeenat kaiser|3.83",
@@ -8792,11 +8851,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 3.94,
-        "2026-05-17": 3.94
+        "2026-05-17": 3.94,
+        "2026-05-18": 3.94
       },
       "latest_price": 3.94,
       "return_pct": 2.87,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CGNT|2026-05-15|giustra, frank|0.66",
@@ -8813,11 +8873,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.64,
-        "2026-05-17": 0.64
+        "2026-05-17": 0.64,
+        "2026-05-18": 0.64
       },
       "latest_price": 0.64,
       "return_pct": -3.03,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|SPB|2026-05-15|winger, dale alan|7.6528",
@@ -8834,11 +8895,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 7.61,
-        "2026-05-17": 7.61
+        "2026-05-17": 7.61,
+        "2026-05-18": 7.61
       },
       "latest_price": 7.61,
       "return_pct": -0.56,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|HML.CN|2026-05-15|schloo, peter|4.0",
@@ -8855,11 +8917,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.04,
-        "2026-05-17": 0.04
+        "2026-05-17": 0.04,
+        "2026-05-18": 0.04
       },
       "latest_price": 0.04,
       "return_pct": -99.0,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TFPM|2026-05-15|merrin, patrick james|45.36",
@@ -8876,11 +8939,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 43.98,
-        "2026-05-17": 43.98
+        "2026-05-17": 43.98,
+        "2026-05-18": 43.98
       },
       "latest_price": 43.98,
       "return_pct": -3.04,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|WPM|2026-05-15|lau, vincent chun yip|176.85",
@@ -8897,11 +8961,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 179.39,
-        "2026-05-17": 179.39
+        "2026-05-17": 179.39,
+        "2026-05-18": 179.39
       },
       "latest_price": 179.39,
       "return_pct": 1.44,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CIGI|2026-05-15|mayer, christian|92.0",
@@ -8918,11 +8983,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 126.77,
-        "2026-05-17": 126.77
+        "2026-05-17": 126.77,
+        "2026-05-18": 126.77
       },
       "latest_price": 126.77,
       "return_pct": 37.79,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|ELD|2026-05-15|myerson, daniel|43.71",
@@ -8939,11 +9005,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 43.51,
-        "2026-05-17": 43.51
+        "2026-05-17": 43.51,
+        "2026-05-18": 43.51
       },
       "latest_price": 43.51,
       "return_pct": -0.46,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|FVI|2026-05-15|ganoza durant, jorge a.|9.66",
@@ -8960,11 +9027,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 13.14,
-        "2026-05-17": 13.14
+        "2026-05-17": 13.14,
+        "2026-05-18": 13.14
       },
       "latest_price": 13.14,
       "return_pct": 36.02,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|JOY|2026-05-15|gilewicz, gerald|6.42",
@@ -8981,11 +9049,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 6.53,
-        "2026-05-17": 6.53
+        "2026-05-17": 6.53,
+        "2026-05-18": 6.53
       },
       "latest_price": 6.53,
       "return_pct": 1.71,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|RFA|2026-05-15|manji, salim|24.8343",
@@ -9002,11 +9071,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 24.82,
-        "2026-05-17": 24.82
+        "2026-05-17": 24.82,
+        "2026-05-18": 24.82
       },
       "latest_price": 24.82,
       "return_pct": -0.06,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|RFA|2026-05-15|manji, samir aziz|24.8343",
@@ -9023,11 +9093,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 24.82,
-        "2026-05-17": 24.82
+        "2026-05-17": 24.82,
+        "2026-05-18": 24.82
       },
       "latest_price": 24.82,
       "return_pct": -0.06,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|TNR|2026-05-15|evensen, jon christian|0.2423",
@@ -9044,11 +9115,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 0.235,
-        "2026-05-17": 0.235
+        "2026-05-17": 0.235,
+        "2026-05-18": 0.235
       },
       "latest_price": 0.235,
       "return_pct": -3.01,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|VMET|2026-05-15|smith, gregory|15.15",
@@ -9065,11 +9137,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-05-16": 15.35,
-        "2026-05-17": 15.35
+        "2026-05-17": 15.35,
+        "2026-05-18": 15.35
       },
       "latest_price": 15.35,
       "return_pct": 1.32,
-      "last_snapshot": "2026-05-17"
+      "last_snapshot": "2026-05-18"
     }
   ]
 }
