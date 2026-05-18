@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-18",
-  "entry_count": 1083,
+  "entry_count": 1086,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -46119,6 +46119,66 @@
       },
       "latest_price": 70.3,
       "return_pct": 1.72,
+      "last_snapshot": "2026-05-18"
+    },
+    {
+      "id": "US|IAUX|2026-05-15|yopps steven w.|1.47",
+      "market": "US",
+      "ticker": "IAUX",
+      "yf_symbol": "IAUX",
+      "company": "I-80 Gold Corp.",
+      "insider_name": "Yopps Steven W.",
+      "title": "Dir",
+      "trade_date": "2026-05-15",
+      "trade_price": 1.47,
+      "value": 73500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-18": 1.46
+      },
+      "latest_price": 1.46,
+      "return_pct": -0.68,
+      "last_snapshot": "2026-05-18"
+    },
+    {
+      "id": "US|PAR|2026-05-14|voss capital, lp|14.59",
+      "market": "US",
+      "ticker": "PAR",
+      "yf_symbol": "PAR",
+      "company": "Par Technology Corp",
+      "insider_name": "Voss Capital, LP",
+      "title": "10%",
+      "trade_date": "2026-05-14",
+      "trade_price": 14.59,
+      "value": 10504712.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-18": 14.0
+      },
+      "latest_price": 14.0,
+      "return_pct": -4.04,
+      "last_snapshot": "2026-05-18"
+    },
+    {
+      "id": "US|BETR|2026-05-18|garg vishal|24.87",
+      "market": "US",
+      "ticker": "BETR",
+      "yf_symbol": "BETR",
+      "company": "Better Home & Finance Holding Co",
+      "insider_name": "Garg Vishal",
+      "title": "CEO, 10%",
+      "trade_date": "2026-05-18",
+      "trade_price": 24.87,
+      "value": 387989.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-18": 25.05
+      },
+      "latest_price": 25.05,
+      "return_pct": 0.72,
       "last_snapshot": "2026-05-18"
     }
   ]

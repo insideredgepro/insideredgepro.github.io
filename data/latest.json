@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18T22:50:39Z",
-  "trade_count": 6731,
+  "last_updated": "2026-05-18T23:57:11Z",
+  "trade_count": 6735,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -107697,6 +107697,70 @@
       "delta_own": ">999%",
       "value": "25000",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-18",
+      "filing_time": "19:43",
+      "trade_date": "2026-05-15",
+      "ticker": "IAUX",
+      "company": "I-80 Gold Corp.",
+      "insider_name": "Yopps Steven W.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.47",
+      "qty": "50000",
+      "owned": "50000",
+      "delta_own": "New",
+      "value": "73500",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-18",
+      "filing_time": "19:05",
+      "trade_date": "2026-05-14",
+      "ticker": "PAR",
+      "company": "Par Technology Corp",
+      "insider_name": "Voss Capital, LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "14.59",
+      "qty": "719900",
+      "owned": "5850000",
+      "delta_own": "+14%",
+      "value": "10504712",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-18",
+      "filing_time": "18:57",
+      "trade_date": "2026-05-18",
+      "ticker": "BETR",
+      "company": "Better Home & Finance Holding Co",
+      "insider_name": "Garg Vishal",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "24.87",
+      "qty": "15600",
+      "owned": "87060",
+      "delta_own": "+22%",
+      "value": "387989",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-18",
+      "filing_time": "18:50",
+      "trade_date": "2026-03-04",
+      "ticker": "TNET",
+      "company": "Trinet Group, Inc.",
+      "insider_name": "Evanko Brian C",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "37.70",
+      "qty": "5000",
+      "owned": "9565",
+      "delta_own": "+110%",
+      "value": "188500",
+      "cluster_buy": false
     }
   ]
 }
