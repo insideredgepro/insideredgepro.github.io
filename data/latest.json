@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18T17:26:00Z",
-  "trade_count": 6690,
+  "last_updated": "2026-05-18T19:25:58Z",
+  "trade_count": 6692,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -107041,6 +107041,38 @@
       "delta_own": "+20%",
       "value": "84600",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-18",
+      "filing_time": "15:12",
+      "trade_date": "2026-05-18",
+      "ticker": "KRO",
+      "company": "Kronos Worldwide Inc",
+      "insider_name": "Kramer Kevin B",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "6.75",
+      "qty": "14601",
+      "owned": "44411",
+      "delta_own": "+49%",
+      "value": "98510",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-18",
+      "filing_time": "14:02",
+      "trade_date": "2026-05-18",
+      "ticker": "NIQ",
+      "company": "Niq Global Intelligence Plc",
+      "insider_name": "Peck James M",
+      "title": "See Remarks",
+      "trade_type": "P - Purchase",
+      "price": "8.43",
+      "qty": "118625",
+      "owned": "10090025",
+      "delta_own": "+1%",
+      "value": "1000009",
+      "cluster_buy": false
     }
   ]
 }
