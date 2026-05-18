@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-18",
-  "entry_count": 1036,
+  "entry_count": 1038,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -45177,6 +45177,46 @@
       },
       "latest_price": 51.01,
       "return_pct": -0.33,
+      "last_snapshot": "2026-05-18"
+    },
+    {
+      "id": "US|J|2026-05-15|pragada robert v|111.09",
+      "market": "US",
+      "ticker": "J",
+      "yf_symbol": "J",
+      "company": "Jacobs Solutions Inc.",
+      "insider_name": "Pragada Robert V",
+      "title": "Chair, CEO",
+      "trade_date": "2026-05-15",
+      "trade_price": 111.09,
+      "value": 400035.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-18": 110.51
+      },
+      "latest_price": 110.51,
+      "return_pct": -0.52,
+      "last_snapshot": "2026-05-18"
+    },
+    {
+      "id": "US|TGLS|2026-05-14|energy holding corp|40.51",
+      "market": "US",
+      "ticker": "TGLS",
+      "yf_symbol": "TGLS",
+      "company": "Tecnoglass Inc.",
+      "insider_name": "Energy Holding Corp",
+      "title": "10%",
+      "trade_date": "2026-05-14",
+      "trade_price": 40.51,
+      "value": 4050577.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-18": 38.61
+      },
+      "latest_price": 38.61,
+      "return_pct": -4.69,
       "last_snapshot": "2026-05-18"
     }
   ]

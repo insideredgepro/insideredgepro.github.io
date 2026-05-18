@@ -6485,7 +6485,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-12,17:43,2026-05-12,XRN,Chiron Real Estate Inc.,Holley Danica,COO,P - Purchase,33.99,1490,1590,>999%,50645,True
 2026-05-12,17:41,2026-05-12,XRN,Chiron Real Estate Inc.,Decker Mark Okey Jr,"CEO, Pres",P - Purchase,33.94,5000,63178,+9%,169700,True
 2026-05-12,17:37,2026-05-08,ODTX,"Odyssey Therapeutics, Inc.","Dimension Capital Ii, L.P.",Dir,P - Purchase,18.00,1111111,3333516,+50%,19999998,True
-2026-05-12,17:33,2026-05-08,J,Jacobs Solutions Inc.,Fernandez Manuel J,Dir,P - Purchase,121.93,403,12251,+3%,49137,False
+2026-05-12,17:33,2026-05-08,J,Jacobs Solutions Inc.,Fernandez Manuel J,Dir,P - Purchase,121.93,403,12251,+3%,49137,True
 2026-05-12,17:32,2026-05-08,BOBS,"Bob'S Discount Furniture, Inc.",Barton William G,See Remarks,P - Purchase,13.55,22350,22850,>999%,302788,False
 2026-05-12,17:31,2026-05-08,MKTW,"Marketwise, Inc.",Stansberry Frank Porter,"Dir, 10%",P - Purchase,18.97,51375,301756,+21%,974582,False
 2026-05-12,17:29,2026-05-08,LILA,Liberty Latin America Ltd.,Nair Balan,"Pres, CEO",P - Purchase,8.07,20000,3147818,+1%,161490,False
@@ -6604,7 +6604,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-14,17:40,2026-05-14,JKHY,Jack Henry & Associates Inc,Adelson Gregory R.,"Pres, CEO",P - Purchase,133.42,2000,21036,+11%,266840,True
 2026-05-14,17:40,2026-05-14,JKHY,Jack Henry & Associates Inc,Carsley Mimi,"CFO, Treasurer",P - Purchase,134.12,375,6007,+7%,50295,True
 2026-05-14,17:33,2026-05-12,TMCI,"Treace Medical Concepts, Inc.",Treace John T.,"CEO, 10%",P - Purchase,2.44,153763,12482442,+1%,375505,False
-2026-05-14,17:31,2026-05-13,J,Jacobs Solutions Inc.,Fernandez Manuel J,Dir,P - Purchase,112.56,253,12504,+2%,28478,False
+2026-05-14,17:31,2026-05-13,J,Jacobs Solutions Inc.,Fernandez Manuel J,Dir,P - Purchase,112.56,253,12504,+2%,28478,True
 2026-05-14,17:21,2026-05-12,COAG,"Hemab Therapeutics Holdings, Inc.","Ra Capital Management, L.P.",10%,P - Purchase,24.90,6387,7736160,0%,159036,False
 2026-05-14,17:18,2026-05-12,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,23.25,1600,236594,+1%,37199,False
 2026-05-14,17:16,2026-05-12,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,21.04,170640,13203723,+1%,3589826,False
@@ -6684,3 +6684,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-15,20:06,2026-05-13,KBR,"Kbr, Inc.",Evans Shad E.,"EVP, CFO",P - Purchase,30.60,8375,43725,+24%,256275,True
 2026-05-15,20:05,2026-05-14,GPGI,"Gpgi, Inc.",Mikkilineni Krishna,Dir,P - Purchase,12.34,8106,75669,+12%,100031,True
 2026-05-15,20:03,2026-05-15,BROS,Dutch Bros Inc.,Penegor Todd Allan,Dir,P - Purchase,51.18,2000,5358,+60%,102350,False
+2026-05-18,06:10,2026-05-15,J,Jacobs Solutions Inc.,Pragada Robert V,"Chair, CEO",P - Purchase,111.09,3601,333755,+1%,400035,True
+2026-05-18,06:07,2026-05-14,TGLS,Tecnoglass Inc.,Energy Holding Corp,10%,P - Purchase,40.51,100000,20831985,0%,4050577,False

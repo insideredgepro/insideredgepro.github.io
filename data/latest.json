@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18T06:46:46Z",
-  "trade_count": 6679,
+  "last_updated": "2026-05-18T10:59:08Z",
+  "trade_count": 6681,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -103696,7 +103696,7 @@
       "owned": "12251",
       "delta_own": "+3%",
       "value": "49137",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-12",
@@ -105600,7 +105600,7 @@
       "owned": "12504",
       "delta_own": "+2%",
       "value": "28478",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-14",
@@ -106864,6 +106864,38 @@
       "owned": "5358",
       "delta_own": "+60%",
       "value": "102350",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-18",
+      "filing_time": "06:10",
+      "trade_date": "2026-05-15",
+      "ticker": "J",
+      "company": "Jacobs Solutions Inc.",
+      "insider_name": "Pragada Robert V",
+      "title": "Chair, CEO",
+      "trade_type": "P - Purchase",
+      "price": "111.09",
+      "qty": "3601",
+      "owned": "333755",
+      "delta_own": "+1%",
+      "value": "400035",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-18",
+      "filing_time": "06:07",
+      "trade_date": "2026-05-14",
+      "ticker": "TGLS",
+      "company": "Tecnoglass Inc.",
+      "insider_name": "Energy Holding Corp",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "40.51",
+      "qty": "100000",
+      "owned": "20831985",
+      "delta_own": "0%",
+      "value": "4050577",
       "cluster_buy": false
     }
   ]
