@@ -6653,7 +6653,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-15,16:46,2026-05-13,TXO,"Txo Partners, L.P.",Simpson Bob R,"Dir, 10%",P - Purchase,12.97,301597,7801597,+4%,3911980,True
 2026-05-15,16:37,2026-05-13,NOMD,Nomad Foods Ltd,Ashken Ian G H,Dir,P - Purchase,9.13,100000,610541,+20%,912690,True
 2026-05-15,16:30,2026-05-15,EQPT,Equipmentshare.Com Inc,Bhatia Naveen,Dir,P - Purchase,24.22,10000,312000,+3%,242200,False
-2026-05-15,16:27,2026-05-14,FLS,Flowserve Corp,Savoy Brian D,Dir,P - Purchase,67.34,1000,3573,+39%,67340,False
+2026-05-15,16:27,2026-05-14,FLS,Flowserve Corp,Savoy Brian D,Dir,P - Purchase,67.34,1000,3573,+39%,67340,True
 2026-05-15,16:24,2026-04-02,SNSE,"Sensei Biotherapeutics, Inc.",Millennium Management LLC,10%,P - Purchase,33.54,4215,133986,+3%,141364,False
 2026-05-15,16:22,2026-03-31,SNSE,"Sensei Biotherapeutics, Inc.",Millennium Management LLC,10%,P - Purchase,31.37,12180,147731,+9%,382100,False
 2026-05-15,16:22,2026-03-26,SNSE,"Sensei Biotherapeutics, Inc.",Millennium Management LLC,10%,P - Purchase,26.75,30585,145678,+27%,818257,False
@@ -6697,3 +6697,31 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-18,11:13,2026-05-14,CSTM,Constellium Se,Soultz Bradley Lee,Dir,P - Purchase,33.84,2500,15000,+20%,84600,True
 2026-05-18,15:12,2026-05-18,KRO,Kronos Worldwide Inc,Kramer Kevin B,Dir,P - Purchase,6.75,14601,44411,+49%,98510,False
 2026-05-18,14:02,2026-05-18,NIQ,Niq Global Intelligence Plc,Peck James M,See Remarks,P - Purchase,8.43,118625,10090025,+1%,1000009,False
+2026-05-18,16:59,2026-05-15,SHAK,Shake Shack Inc.,Silverman Josh,Dir,P - Purchase,60.38,8290,18287,+83%,500525,True
+2026-05-18,16:59,2026-05-15,SHAK,Shake Shack Inc.,Flug Jeffrey,"Dir, 10%",P - Purchase,61.30,1000,5470,+22%,61296,True
+2026-05-18,16:59,2026-05-14,MYO,"Myomo, Inc.",Manko Joseph M. Jr.,Dir,P - Purchase,0.86,201197,2309775,+10%,173908,False
+2026-05-18,16:59,2026-05-15,SHAK,Shake Shack Inc.,Chapman Charles J III,Dir,P - Purchase,61.36,2000,6425,+45%,122726,True
+2026-05-18,16:58,2026-05-15,SHAK,Shake Shack Inc.,Balbale Sumaiya,Dir,P - Purchase,61.42,4068,13407,+44%,249866,True
+2026-05-18,16:58,2026-05-15,SHAK,Shake Shack Inc.,Lynch Robert,CEO,P - Purchase,60.39,5000,77845,+7%,301940,True
+2026-05-18,16:57,2026-05-15,SHAK,Shake Shack Inc.,Meyer Daniel Harris,"Dir, 10%",P - Purchase,61.88,32258,1659236,+2%,1996215,True
+2026-05-18,16:55,2026-05-14,VITL,"Vital Farms, Inc.",Cyr William B.,Dir,P - Purchase,8.52,6000,13794,+77%,51120,True
+2026-05-18,16:55,2026-05-14,VITL,"Vital Farms, Inc.",Pappas Peter Nicholas,"CSO, Pres, Eggs",P - Purchase,8.51,3500,85564,+4%,29785,True
+2026-05-18,16:55,2026-05-14,VITL,"Vital Farms, Inc.",Holland Joseph Michael,Chief Supply Chain Officer,P - Purchase,8.00,12484,38150,+49%,99872,True
+2026-05-18,16:42,2026-05-15,TLSI,"Trisalus Life Sciences, Inc.",Wahlstrom Mats,Dir,P - Purchase,2.53,60000,2962030,+2%,151800,True
+2026-05-18,16:42,2026-05-15,TLSI,"Trisalus Life Sciences, Inc.",Stansky Michael P,Dir,P - Purchase,2.50,610000,1640420,+59%,1525000,True
+2026-05-18,16:42,2026-05-15,TLSI,"Trisalus Life Sciences, Inc.",Szela Mary T,"CEO, Pres",P - Purchase,2.59,39682,1065215,+4%,102776,True
+2026-05-18,16:36,2026-05-15,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,20.94,100528,13304251,+1%,2104922,False
+2026-05-18,16:33,2026-05-15,AMRZ,Amrize Ltd,Jenisch Jan Philipp,"COB, CEO",P - Purchase,49.53,28417,2236999,+1%,1407571,False
+2026-05-18,16:29,2026-05-14,ADT,Adt Inc.,Miller Kimberly,"EVP, CMO, Comm. Officer",P - Purchase,6.91,3625,55984,+7%,25049,True
+2026-05-18,16:28,2026-05-15,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,23.48,3400,55000,+7%,79823,False
+2026-05-18,16:27,2026-05-15,CHTR,"Charter Communications, Inc. /Mo/",Ramos Mauricio,Dir,P - Purchase,140.93,9929,19309,+106%,1399308,False
+2026-05-18,16:27,2026-05-14,NOMD,Nomad Foods Ltd,Baldew Ruben,CFO,P - Purchase,9.71,14731,338882,+5%,143069,True
+2026-05-18,16:27,2026-05-15,NOMD,Nomad Foods Ltd,Brisby Dominic,CEO,P - Purchase,9.79,150000,676794,+28%,1468860,True
+2026-05-18,16:25,2026-05-15,NBBK,"Nb Bancorp, Inc.",Campanelli Joseph P,"Pres, CEO",P - Purchase,19.18,3000,481937,+1%,57547,False
+2026-05-18,16:15,2026-04-28,AMST,Amesite Inc.,Sastry Ann Marie,CEO,P - Purchase,1.44,174216,1049647,+20%,250000,True
+2026-05-18,16:15,2026-04-28,AMST,Amesite Inc.,Parmer George,Dir,P - Purchase,1.44,243902,566962,+75%,349999,True
+2026-05-18,16:15,2026-05-15,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,13.68,2000,1658013,0%,27355,False
+2026-05-18,16:15,2026-05-14,TKO,"Tko Group Holdings, Inc.",Kraft Jonathan,Dir,P - Purchase,189.96,5200,43432,+14%,987797,True
+2026-05-18,16:12,2026-05-14,LMRI,"Lumexa Imaging Holdings, Inc.",Cooper Henry Lee,Dir,P - Purchase,7.44,30000,30000,New,223113,False
+2026-05-18,16:10,2026-05-15,MSCI,Msci Inc.,Fernandez Henry A,"COB, CEO",P - Purchase,562.40,4000,2188937,0%,2249591,False
+2026-05-18,16:01,2026-05-18,FLS,Flowserve Corp,McMurray Michael C.,Dir,P - Purchase,65.71,2500,8172,+44%,164275,True
