@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-18",
-  "entry_count": 416,
+  "entry_count": 417,
   "entries": [
     {
       "id": "CA|ALS|2026-03-19|raguz, mark|40.2",
@@ -4736,7 +4736,7 @@
       "id": "CA|CDPR|2026-04-23|2176423 ontario ltd.|0.72",
       "market": "CA",
       "ticker": "CDPR",
-      "yf_symbol": "CDPR.V",
+      "yf_symbol": "CDPR.NE",
       "company": "Cerro de Pasco Resources Inc",
       "insider_name": "2176423 Ontario Ltd.",
       "title": "10% Holder",
@@ -4750,15 +4750,15 @@
         "2026-05-17": 0.66,
         "2026-05-18": 0.66
       },
-      "latest_price": 0.66,
-      "return_pct": -8.33,
+      "latest_price": 0.67,
+      "return_pct": -6.94,
       "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CDPR|2026-04-23|sprott, eric|0.72",
       "market": "CA",
       "ticker": "CDPR",
-      "yf_symbol": "CDPR.V",
+      "yf_symbol": "CDPR.NE",
       "company": "Cerro de Pasco Resources Inc",
       "insider_name": "Sprott, Eric",
       "title": "10% Holder",
@@ -4772,8 +4772,8 @@
         "2026-05-17": 0.66,
         "2026-05-18": 0.66
       },
-      "latest_price": 0.66,
-      "return_pct": -8.33,
+      "latest_price": 0.67,
+      "return_pct": -6.94,
       "last_snapshot": "2026-05-18"
     },
     {
@@ -5286,7 +5286,7 @@
       "id": "CA|LUNR|2026-04-28|d'sa, trevor|22.67",
       "market": "CA",
       "ticker": "LUNR",
-      "yf_symbol": "LUNR.V",
+      "yf_symbol": "LUNR.NE",
       "company": "LunR Royalties Corp.",
       "insider_name": "D'Sa, Trevor",
       "title": "Senior Officer",
@@ -5300,15 +5300,15 @@
         "2026-05-17": 22.72,
         "2026-05-18": 22.72
       },
-      "latest_price": 22.72,
-      "return_pct": 0.22,
+      "latest_price": 22.26,
+      "return_pct": -1.81,
       "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LUNR|2026-04-28|d'sa, trevor|22.95",
       "market": "CA",
       "ticker": "LUNR",
-      "yf_symbol": "LUNR.V",
+      "yf_symbol": "LUNR.NE",
       "company": "LunR Royalties Corp.",
       "insider_name": "D'Sa, Trevor",
       "title": "Senior Officer",
@@ -5322,15 +5322,15 @@
         "2026-05-17": 22.72,
         "2026-05-18": 22.72
       },
-      "latest_price": 22.72,
-      "return_pct": -1.0,
+      "latest_price": 22.26,
+      "return_pct": -3.01,
       "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LUNR|2026-04-28|d'sa, trevor|22.912",
       "market": "CA",
       "ticker": "LUNR",
-      "yf_symbol": "LUNR.V",
+      "yf_symbol": "LUNR.NE",
       "company": "LunR Royalties Corp.",
       "insider_name": "D'Sa, Trevor",
       "title": "Senior Officer",
@@ -5344,15 +5344,15 @@
         "2026-05-17": 22.72,
         "2026-05-18": 22.72
       },
-      "latest_price": 22.72,
-      "return_pct": -0.84,
+      "latest_price": 22.26,
+      "return_pct": -2.85,
       "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LUNR|2026-04-28|d'sa, trevor|23.104",
       "market": "CA",
       "ticker": "LUNR",
-      "yf_symbol": "LUNR.V",
+      "yf_symbol": "LUNR.NE",
       "company": "LunR Royalties Corp.",
       "insider_name": "D'Sa, Trevor",
       "title": "Senior Officer",
@@ -5366,15 +5366,15 @@
         "2026-05-17": 22.72,
         "2026-05-18": 22.72
       },
-      "latest_price": 22.72,
-      "return_pct": -1.66,
+      "latest_price": 22.26,
+      "return_pct": -3.65,
       "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LUNR|2026-04-28|d'sa, trevor|23.374",
       "market": "CA",
       "ticker": "LUNR",
-      "yf_symbol": "LUNR.V",
+      "yf_symbol": "LUNR.NE",
       "company": "LunR Royalties Corp.",
       "insider_name": "D'Sa, Trevor",
       "title": "Senior Officer",
@@ -5388,15 +5388,15 @@
         "2026-05-17": 22.72,
         "2026-05-18": 22.72
       },
-      "latest_price": 22.72,
-      "return_pct": -2.8,
+      "latest_price": 22.26,
+      "return_pct": -4.77,
       "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LUNR|2026-04-28|d'sa, trevor|23.76",
       "market": "CA",
       "ticker": "LUNR",
-      "yf_symbol": "LUNR.V",
+      "yf_symbol": "LUNR.NE",
       "company": "LunR Royalties Corp.",
       "insider_name": "D'Sa, Trevor",
       "title": "Senior Officer",
@@ -5410,15 +5410,15 @@
         "2026-05-17": 22.72,
         "2026-05-18": 22.72
       },
-      "latest_price": 22.72,
-      "return_pct": -4.38,
+      "latest_price": 22.26,
+      "return_pct": -6.31,
       "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LUNR|2026-04-28|d'sa, trevor|23.99",
       "market": "CA",
       "ticker": "LUNR",
-      "yf_symbol": "LUNR.V",
+      "yf_symbol": "LUNR.NE",
       "company": "LunR Royalties Corp.",
       "insider_name": "D'Sa, Trevor",
       "title": "Senior Officer",
@@ -5432,15 +5432,15 @@
         "2026-05-17": 22.72,
         "2026-05-18": 22.72
       },
-      "latest_price": 22.72,
-      "return_pct": -5.29,
+      "latest_price": 22.26,
+      "return_pct": -7.21,
       "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|LUNR|2026-04-28|d'sa, trevor|22.93",
       "market": "CA",
       "ticker": "LUNR",
-      "yf_symbol": "LUNR.V",
+      "yf_symbol": "LUNR.NE",
       "company": "LunR Royalties Corp.",
       "insider_name": "D'Sa, Trevor",
       "title": "Senior Officer",
@@ -5454,8 +5454,8 @@
         "2026-05-17": 22.72,
         "2026-05-18": 22.72
       },
-      "latest_price": 22.72,
-      "return_pct": -0.92,
+      "latest_price": 22.26,
+      "return_pct": -2.92,
       "last_snapshot": "2026-05-18"
     },
     {
@@ -6998,7 +6998,7 @@
       "id": "CA|OZ|2026-05-08|archambeault, louis|0.56",
       "market": "CA",
       "ticker": "OZ",
-      "yf_symbol": "OZ.V",
+      "yf_symbol": "OZ.NE",
       "company": "VALKEA RESOURCES CORP.",
       "insider_name": "Archambeault, Louis",
       "title": "Director",
@@ -7012,8 +7012,8 @@
         "2026-05-17": 0.54,
         "2026-05-18": 0.54
       },
-      "latest_price": 0.54,
-      "return_pct": -3.57,
+      "latest_price": 0.52,
+      "return_pct": -7.14,
       "last_snapshot": "2026-05-18"
     },
     {
@@ -9148,6 +9148,26 @@
       },
       "latest_price": 15.35,
       "return_pct": 1.32,
+      "last_snapshot": "2026-05-18"
+    },
+    {
+      "id": "CA|SKE|2026-05-18|coles, jr., walter|29.72",
+      "market": "CA",
+      "ticker": "SKE",
+      "yf_symbol": "SKE.TO",
+      "company": "Skeena Resources Limited",
+      "insider_name": "Coles, Jr., Walter",
+      "title": "Director",
+      "trade_date": "2026-05-18",
+      "trade_price": 29.72,
+      "value": 49513.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-18": 42.59
+      },
+      "latest_price": 42.59,
+      "return_pct": 43.3,
       "last_snapshot": "2026-05-18"
     }
   ]
