@@ -6199,7 +6199,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-01,11:38,2026-05-01,GEHC,Ge Healthcare Technologies Inc.,Saccaro James,CFO,P - Purchase,60.60,3310,87471,+4%,200585,True
 2026-05-01,10:39,2026-04-30,FNLC,"First Bancorp, Inc /Me/",Swan Kimberly,Dir,P - Purchase,28.69,1500,21432,+8%,43030,False
 2026-05-01,12:17,2026-04-30,NWWP,New Peoples Bankshares Inc,Cox John D,Dir,P - Purchase,3.88,8570,870359,+1%,33252,False
-2026-05-01,13:45,2026-05-01,CSTM,Constellium Se,Deslarzes Jean-Christophe,Dir,P - Purchase,31.13,1325,42025,+3%,41247,False
+2026-05-01,13:45,2026-05-01,CSTM,Constellium Se,Deslarzes Jean-Christophe,Dir,P - Purchase,31.13,1325,42025,+3%,41247,True
 2026-05-01,13:02,2026-04-14,SUNE,"Sunation Energy, Inc.",Brennan James Robert,CFO,P - Purchase,1.77,123254,123269,>999%,218160,True
 2026-05-01,13:02,2026-04-14,SUNE,"Sunation Energy, Inc.",Maskin Scott,"CEO, 10%",P - Purchase,1.77,554712,554736,>999%,981840,True
 2026-05-01,14:58,2026-04-29,PRU,Prudential Financial Inc,Prudential Insurance Co Of Ame,10% Owner,P - Purchase,30.36,270092,3573699,+8%,8200000,False
@@ -6692,3 +6692,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-18,08:00,2026-05-14,OBIO,"Orchestra Biomed Holdings, Inc.",Fain Eric S,Dir,P - Purchase,4.13,20000,91709,+28%,82600,False
 2026-05-18,07:00,2026-05-14,ADC,Agree Realty Corp,Lehmkuhl Greg,Dir,P - Purchase,75.09,750,34465,+2%,56318,True
 2026-05-18,07:00,2026-05-14,ADC,Agree Realty Corp,Agree Joey,"Pres, CEO",P - Purchase,75.41,13295,679067,+2%,1002576,True
+2026-05-18,13:19,2026-05-14,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,"Dir, 10%",P - Purchase,8.52,26800,11927649,0%,228227,False
+2026-05-18,12:09,2026-05-14,ABCL,Abcellera Biologics Inc.,Montalbano John S.,Dir,P - Purchase,4.77,20000,246000,+9%,95400,False
+2026-05-18,11:13,2026-05-14,CSTM,Constellium Se,Soultz Bradley Lee,Dir,P - Purchase,33.84,2500,15000,+20%,84600,True

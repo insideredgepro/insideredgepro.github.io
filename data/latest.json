@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18T14:30:26Z",
-  "trade_count": 6687,
+  "last_updated": "2026-05-18T17:26:00Z",
+  "trade_count": 6690,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -99136,7 +99136,7 @@
       "owned": "42025",
       "delta_own": "+3%",
       "value": "41247",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-01",
@@ -106992,6 +106992,54 @@
       "owned": "679067",
       "delta_own": "+2%",
       "value": "1002576",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-18",
+      "filing_time": "13:19",
+      "trade_date": "2026-05-14",
+      "ticker": "LEE",
+      "company": "Lee Enterprises, Inc",
+      "insider_name": "Hoffmann David Henry",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "8.52",
+      "qty": "26800",
+      "owned": "11927649",
+      "delta_own": "0%",
+      "value": "228227",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-18",
+      "filing_time": "12:09",
+      "trade_date": "2026-05-14",
+      "ticker": "ABCL",
+      "company": "Abcellera Biologics Inc.",
+      "insider_name": "Montalbano John S.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.77",
+      "qty": "20000",
+      "owned": "246000",
+      "delta_own": "+9%",
+      "value": "95400",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-18",
+      "filing_time": "11:13",
+      "trade_date": "2026-05-14",
+      "ticker": "CSTM",
+      "company": "Constellium Se",
+      "insider_name": "Soultz Bradley Lee",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "33.84",
+      "qty": "2500",
+      "owned": "15000",
+      "delta_own": "+20%",
+      "value": "84600",
       "cluster_buy": true
     }
   ]
