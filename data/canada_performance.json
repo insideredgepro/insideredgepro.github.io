@@ -4736,7 +4736,7 @@
       "id": "CA|CDPR|2026-04-23|2176423 ontario ltd.|0.72",
       "market": "CA",
       "ticker": "CDPR",
-      "yf_symbol": "CDPR.NE",
+      "yf_symbol": "CDPR.V",
       "company": "Cerro de Pasco Resources Inc",
       "insider_name": "2176423 Ontario Ltd.",
       "title": "10% Holder",
@@ -4750,15 +4750,15 @@
         "2026-05-17": 0.66,
         "2026-05-18": 0.66
       },
-      "latest_price": 0.67,
-      "return_pct": -6.94,
+      "latest_price": 0.66,
+      "return_pct": -8.33,
       "last_snapshot": "2026-05-18"
     },
     {
       "id": "CA|CDPR|2026-04-23|sprott, eric|0.72",
       "market": "CA",
       "ticker": "CDPR",
-      "yf_symbol": "CDPR.NE",
+      "yf_symbol": "CDPR.V",
       "company": "Cerro de Pasco Resources Inc",
       "insider_name": "Sprott, Eric",
       "title": "10% Holder",
@@ -4772,8 +4772,8 @@
         "2026-05-17": 0.66,
         "2026-05-18": 0.66
       },
-      "latest_price": 0.67,
-      "return_pct": -6.94,
+      "latest_price": 0.66,
+      "return_pct": -8.33,
       "last_snapshot": "2026-05-18"
     },
     {
