@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-19",
-  "entry_count": 402,
+  "entry_count": 408,
   "entries": [
     {
       "id": "CA|PSIL.CN|2026-03-20|anthony, todd|1.03",
@@ -4782,8 +4782,8 @@
         "2026-05-18": 3.15,
         "2026-05-19": 3.15
       },
-      "latest_price": 2.985,
-      "return_pct": -12.21,
+      "latest_price": 3.0,
+      "return_pct": -11.76,
       "last_snapshot": "2026-05-19"
     },
     {
@@ -5973,8 +5973,8 @@
         "2026-05-18": 1.3,
         "2026-05-19": 1.3
       },
-      "latest_price": 1.26,
-      "return_pct": 0.0,
+      "latest_price": 1.23,
+      "return_pct": -2.38,
       "last_snapshot": "2026-05-19"
     },
     {
@@ -6602,7 +6602,7 @@
       "id": "CA|TUF|2026-05-08|williams, chad|0.63",
       "market": "CA",
       "ticker": "TUF",
-      "yf_symbol": "TUF.V",
+      "yf_symbol": "TUF.NE",
       "company": "Honey Badger Silver Inc.",
       "insider_name": "Williams, Chad",
       "title": "Senior Officer",
@@ -6617,8 +6617,8 @@
         "2026-05-18": 0.88,
         "2026-05-19": 0.88
       },
-      "latest_price": 0.855,
-      "return_pct": 35.71,
+      "latest_price": 0.85,
+      "return_pct": 34.92,
       "last_snapshot": "2026-05-19"
     },
     {
@@ -7882,8 +7882,8 @@
         "2026-05-18": 18.49,
         "2026-05-19": 18.49
       },
-      "latest_price": 17.47,
-      "return_pct": 33.36,
+      "latest_price": 17.59,
+      "return_pct": 34.27,
       "last_snapshot": "2026-05-19"
     },
     {
@@ -8350,7 +8350,7 @@
       "id": "CA|TUF|2026-05-14|2176423 ontario ltd.|0.72",
       "market": "CA",
       "ticker": "TUF",
-      "yf_symbol": "TUF.V",
+      "yf_symbol": "TUF.NE",
       "company": "Honey Badger Silver Inc.",
       "insider_name": "2176423 Ontario Ltd.",
       "title": "10% Holder",
@@ -8365,15 +8365,15 @@
         "2026-05-18": 0.88,
         "2026-05-19": 0.88
       },
-      "latest_price": 0.855,
-      "return_pct": 18.75,
+      "latest_price": 0.85,
+      "return_pct": 18.06,
       "last_snapshot": "2026-05-19"
     },
     {
       "id": "CA|TUF|2026-05-14|sprott, eric|0.72",
       "market": "CA",
       "ticker": "TUF",
-      "yf_symbol": "TUF.V",
+      "yf_symbol": "TUF.NE",
       "company": "Honey Badger Silver Inc.",
       "insider_name": "Sprott, Eric",
       "title": "10% Holder",
@@ -8388,8 +8388,8 @@
         "2026-05-18": 0.88,
         "2026-05-19": 0.88
       },
-      "latest_price": 0.855,
-      "return_pct": 18.75,
+      "latest_price": 0.85,
+      "return_pct": 18.06,
       "last_snapshot": "2026-05-19"
     },
     {
@@ -8465,7 +8465,7 @@
       "id": "CA|TUF|2026-05-14|williams, chad|0.8043",
       "market": "CA",
       "ticker": "TUF",
-      "yf_symbol": "TUF.V",
+      "yf_symbol": "TUF.NE",
       "company": "Honey Badger Silver Inc.",
       "insider_name": "Williams, Chad",
       "title": "Senior Officer",
@@ -8480,8 +8480,8 @@
         "2026-05-18": 0.88,
         "2026-05-19": 0.88
       },
-      "latest_price": 0.855,
-      "return_pct": 6.3,
+      "latest_price": 0.85,
+      "return_pct": 5.68,
       "last_snapshot": "2026-05-19"
     },
     {
@@ -9200,6 +9200,122 @@
       },
       "latest_price": 194.76,
       "return_pct": 1.03,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "CA|GAU|2026-05-19|wright, paul nicholas|2.17",
+      "market": "CA",
+      "ticker": "GAU",
+      "yf_symbol": "GAU.TO",
+      "company": "Galiano Gold Inc. (formerly Asanko Gold Inc.)",
+      "insider_name": "Wright, Paul Nicholas",
+      "title": "Director",
+      "trade_date": "2026-05-19",
+      "trade_price": 2.17,
+      "value": 108500.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-19": 3.09
+      },
+      "latest_price": 3.09,
+      "return_pct": 42.4,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "CA|HSTR|2026-05-19|funk, charles walter|1.971",
+      "market": "CA",
+      "ticker": "HSTR",
+      "yf_symbol": "HSTR.TO",
+      "company": "Heliostar Metals Ltd.",
+      "insider_name": "Funk, Charles Walter",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-05-19",
+      "trade_price": 1.971,
+      "value": 98550.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "CA|PINN|2026-05-19|archer, robert alexander|0.09",
+      "market": "CA",
+      "ticker": "PINN",
+      "yf_symbol": "PINN.TO",
+      "company": "Pinnacle Silver and Gold Corp",
+      "insider_name": "Archer, Robert Alexander",
+      "title": "Director",
+      "trade_date": "2026-05-19",
+      "trade_price": 0.09,
+      "value": 54000.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "CA|TRZ|2026-05-19|p\u00e9ladeau, pierre karl|2.7",
+      "market": "CA",
+      "ticker": "TRZ",
+      "yf_symbol": "TRZ.TO",
+      "company": "Transat A.T. Inc.",
+      "insider_name": "P\u00e9ladeau, Pierre Karl",
+      "title": "10% Holder",
+      "trade_date": "2026-05-19",
+      "trade_price": 2.7,
+      "value": 27000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-19": 2.61
+      },
+      "latest_price": 2.61,
+      "return_pct": -3.33,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "CA|TRZ|2026-05-19|p\u00e9ladeau, pierre karl|2.66",
+      "market": "CA",
+      "ticker": "TRZ",
+      "yf_symbol": "TRZ.TO",
+      "company": "Transat A.T. Inc.",
+      "insider_name": "P\u00e9ladeau, Pierre Karl",
+      "title": "10% Holder",
+      "trade_date": "2026-05-19",
+      "trade_price": 2.66,
+      "value": 26600.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-19": 2.61
+      },
+      "latest_price": 2.61,
+      "return_pct": -1.88,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "CA|TRZ|2026-05-19|p\u00e9ladeau, pierre karl|2.63",
+      "market": "CA",
+      "ticker": "TRZ",
+      "yf_symbol": "TRZ.TO",
+      "company": "Transat A.T. Inc.",
+      "insider_name": "P\u00e9ladeau, Pierre Karl",
+      "title": "10% Holder",
+      "trade_date": "2026-05-19",
+      "trade_price": 2.63,
+      "value": 26300.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-19": 2.61
+      },
+      "latest_price": 2.61,
+      "return_pct": -0.76,
       "last_snapshot": "2026-05-19"
     }
   ]
