@@ -6689,7 +6689,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-18,08:58,2026-05-15,VVV,Valvoline Inc,Slater Jennifer Lynn,Dir,P - Purchase,32.53,1000,1000,New,32530,True
 2026-05-18,08:49,2026-05-14,SMPL,Simply Good Foods Co,Daley Clayton C Jr,Dir,P - Purchase,11.78,10000,111743,+10%,117782,False
 2026-05-18,08:03,2026-05-14,CVM,Cel Sci Corp,Kersten Geert R,CEO,P - Purchase,1.20,300000,522497,+135%,360000,False
-2026-05-18,08:00,2026-05-14,OBIO,"Orchestra Biomed Holdings, Inc.",Fain Eric S,Dir,P - Purchase,4.13,20000,91709,+28%,82600,False
+2026-05-18,08:00,2026-05-14,OBIO,"Orchestra Biomed Holdings, Inc.",Fain Eric S,Dir,P - Purchase,4.13,20000,91709,+28%,82600,True
 2026-05-18,07:00,2026-05-14,ADC,Agree Realty Corp,Lehmkuhl Greg,Dir,P - Purchase,75.09,750,34465,+2%,56318,True
 2026-05-18,07:00,2026-05-14,ADC,Agree Realty Corp,Agree Joey,"Pres, CEO",P - Purchase,75.41,13295,679067,+2%,1002576,True
 2026-05-18,13:19,2026-05-14,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,"Dir, 10%",P - Purchase,8.52,26800,11927649,0%,228227,False
@@ -6752,3 +6752,11 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-18,20:00,2026-05-15,VIDA,Vida Global Inc.,Braverman Alan M,Dir,P - Purchase,3.95,63000,191724,+49%,249083,True
 2026-05-18,20:00,2026-05-15,VIDA,Vida Global Inc.,Pratt Lyle,"CEO, 10%",P - Purchase,3.81,312900,238616,-421%,1192675,True
 2026-05-19,06:28,2026-05-19,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Tien Bor-Zen,VP,P - Purchase,69.91,2000,11346,+21%,139810,False
+2026-05-19,08:40,2026-05-13,JKS,"Jinkosolar Holding Co., Ltd.",Markscheid Stephen,Dir,P - Purchase,25.00,2000,20000,+11%,50000,False
+2026-05-19,08:31,2026-05-15,VANI,"Vivani Medical, Inc.",Williams Gregg,"Dir, 10%",P - Purchase,1.26,1587301,39330985,+4%,1999999,False
+2026-05-19,08:31,2026-05-18,GEL,Genesis Energy LP,Gaspard Garland G,SVP,P - Purchase,16.34,12340,36881,+50%,201636,False
+2026-05-19,08:01,2026-05-11,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,25.42,84180,76019940,0%,2140178,False
+2026-05-19,08:00,2026-05-15,OBIO,"Orchestra Biomed Holdings, Inc.",Aryeh Jason,Dir,P - Purchase,3.90,8971,117453,+8%,34987,True
+2026-05-19,07:56,2026-05-15,IMNM,Immunome Inc.,Bienaime Jean Jacques,Dir,P - Purchase,20.70,5000,43415,+13%,103500,False
+2026-05-19,07:00,2026-05-18,HROW,"Harrow, Inc.",Graves Adrienne L,Dir,P - Purchase,31.07,1000,1000,New,31070,True
+2026-05-19,07:00,2026-05-18,HROW,"Harrow, Inc.",Silvernail Lauren P,Dir,P - Purchase,31.00,1000,1000,New,31000,True
