@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19T13:00:25Z",
-  "trade_count": 3081,
+  "last_updated": "2026-05-19T15:00:27Z",
+  "trade_count": 3082,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -45343,7 +45343,7 @@
       "value": "310849",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4716999",
@@ -46848,6 +46848,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4720628",
+      "trade_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "company": "Metalla Royalty and Streaming Ltd.",
+      "ticker": "MTA",
+      "insider_name": "Heath, Brett",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "6.3400",
+      "value": "31700",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
