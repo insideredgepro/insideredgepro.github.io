@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19T16:45:35Z",
-  "trade_count": 6757,
+  "last_updated": "2026-05-19T18:54:20Z",
+  "trade_count": 6759,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -108112,6 +108112,38 @@
       "owned": "18774255",
       "delta_own": "0%",
       "value": "293182",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-19",
+      "filing_time": "14:28",
+      "trade_date": "2026-05-18",
+      "ticker": "GRWG",
+      "company": "Growgeneration Corp.",
+      "insider_name": "Lampert Darren",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.55",
+      "qty": "64098",
+      "owned": "1904274",
+      "delta_own": "+3%",
+      "value": "99352",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-19",
+      "filing_time": "13:05",
+      "trade_date": "2026-05-15",
+      "ticker": "STNE",
+      "company": "Stoneco Ltd.",
+      "insider_name": "Ventura Salgado Diego",
+      "title": "CFO, IR Officer",
+      "trade_type": "P - Purchase",
+      "price": "9.66",
+      "qty": "22490",
+      "owned": "290695",
+      "delta_own": "+8%",
+      "value": "217163",
       "cluster_buy": false
     }
   ]
