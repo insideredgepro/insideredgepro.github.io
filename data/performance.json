@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-19",
-  "entry_count": 1059,
+  "entry_count": 1060,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -45587,6 +45587,26 @@
       },
       "latest_price": 2.24,
       "return_pct": -41.21,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|TSM|2026-05-19|tien bor-zen|69.91",
+      "market": "US",
+      "ticker": "TSM",
+      "yf_symbol": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider_name": "Tien Bor-Zen",
+      "title": "VP",
+      "trade_date": "2026-05-19",
+      "trade_price": 69.91,
+      "value": 139810.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 395.95
+      },
+      "latest_price": 395.95,
+      "return_pct": 466.37,
       "last_snapshot": "2026-05-19"
     }
   ]
