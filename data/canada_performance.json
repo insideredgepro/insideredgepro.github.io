@@ -3680,7 +3680,7 @@
       "id": "CA|TWR|2026-04-10|dhami, r. joe|0.17",
       "market": "CA",
       "ticker": "TWR",
-      "yf_symbol": "TWR.NE",
+      "yf_symbol": "TWR.V",
       "company": "Tower Resources Ltd.",
       "insider_name": "Dhami, R. Joe",
       "title": "Director & Senior Officer",
@@ -3694,8 +3694,8 @@
         "2026-05-17": 0.165,
         "2026-05-18": 0.165
       },
-      "latest_price": 0.165,
-      "return_pct": -2.94,
+      "latest_price": 0.17,
+      "return_pct": 0.0,
       "last_snapshot": "2026-05-18"
     },
     {
@@ -4120,7 +4120,7 @@
       "id": "CA|FOMO.CN|2026-04-16|varshney, deepak|0.4",
       "market": "CA",
       "ticker": "FOMO.CN",
-      "yf_symbol": "FOMO.CN",
+      "yf_symbol": "FOMO.NE",
       "company": "Formation Metals Inc.",
       "insider_name": "Varshney, Deepak",
       "title": "Director & Senior Officer",
