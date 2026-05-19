@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19T15:00:27Z",
-  "trade_count": 3082,
+  "last_updated": "2026-05-19T17:00:27Z",
+  "trade_count": 3086,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -46191,7 +46191,7 @@
       "value": "172500",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4719138",
@@ -46831,7 +46831,7 @@
       "value": "49995",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4720495",
@@ -46861,6 +46861,70 @@
       "qty": "5000",
       "price": "6.3400",
       "value": "31700",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4720678",
+      "trade_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "company": "Kelso Technologies Inc.",
+      "ticker": "KLS",
+      "insider_name": "Uplenchwar, Sameer Dnyaneshwar",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "203000",
+      "price": "0.1200",
+      "value": "24360",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4720711",
+      "trade_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "company": "North American Construction Group Ltd.",
+      "ticker": "NOA",
+      "insider_name": "Ferron, Martin Robert",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "20.4500",
+      "value": "204500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4720671",
+      "trade_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "company": "Surge Battery Metals Inc.",
+      "ticker": "NILI",
+      "insider_name": "Morrison, Brian",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "100000",
+      "price": "0.6450",
+      "value": "64500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4720714",
+      "trade_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "company": "Versamet Royalties Corporation (previously Sandbox Royalties Corp.)",
+      "ticker": "VMET",
+      "insider_name": "Backens, Mark",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "8500",
+      "price": "14.7900",
+      "value": "125715",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
