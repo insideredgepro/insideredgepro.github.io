@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-19",
-  "entry_count": 1086,
+  "entry_count": 1109,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -35130,8 +35130,8 @@
         "2026-05-18": 0.424,
         "2026-05-19": 0.416
       },
-      "latest_price": 0.4087,
-      "return_pct": -16.59,
+      "latest_price": 0.416,
+      "return_pct": -15.1,
       "last_snapshot": "2026-05-19"
     },
     {
@@ -46127,6 +46127,466 @@
       },
       "latest_price": 1.02,
       "return_pct": -1.92,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|BRCB|2026-05-15|cynosure group, llc|5.35",
+      "market": "US",
+      "ticker": "BRCB",
+      "yf_symbol": "BRCB",
+      "company": "Black Rock Coffee Bar, Inc.",
+      "insider_name": "Cynosure Group, LLC",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-15",
+      "trade_price": 5.35,
+      "value": 72988509.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 6.68
+      },
+      "latest_price": 6.68,
+      "return_pct": 24.86,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|RLI|2026-05-19|klobnak jennifer l|53.42",
+      "market": "US",
+      "ticker": "RLI",
+      "yf_symbol": "RLI",
+      "company": "Rli Corp",
+      "insider_name": "Klobnak Jennifer L",
+      "title": "COO",
+      "trade_date": "2026-05-19",
+      "trade_price": 53.42,
+      "value": 106840.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 52.14
+      },
+      "latest_price": 52.14,
+      "return_pct": -2.4,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|AEBI|2026-05-15|schroeder henning|11.3",
+      "market": "US",
+      "ticker": "AEBI",
+      "yf_symbol": "AEBI",
+      "company": "Aebi Schmidt Holding AG",
+      "insider_name": "Schroeder Henning",
+      "title": "CEO Europe, ROW",
+      "trade_date": "2026-05-15",
+      "trade_price": 11.3,
+      "value": 33900.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 11.3
+      },
+      "latest_price": 11.3,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|AEBI|2026-05-15|portmann marco|11.31",
+      "market": "US",
+      "ticker": "AEBI",
+      "yf_symbol": "AEBI",
+      "company": "Aebi Schmidt Holding AG",
+      "insider_name": "Portmann Marco",
+      "title": "Group CFO",
+      "trade_date": "2026-05-15",
+      "trade_price": 11.31,
+      "value": 56550.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 11.3
+      },
+      "latest_price": 11.3,
+      "return_pct": -0.09,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|AEBI|2026-05-19|schewerda steffen|11.68",
+      "market": "US",
+      "ticker": "AEBI",
+      "yf_symbol": "AEBI",
+      "company": "Aebi Schmidt Holding AG",
+      "insider_name": "Schewerda Steffen",
+      "title": "Pres Vehicle Soln, CEO NA",
+      "trade_date": "2026-05-19",
+      "trade_price": 11.68,
+      "value": 58400.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 11.3
+      },
+      "latest_price": 11.3,
+      "return_pct": -3.25,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|DRS|2026-05-19|jeffery reuben iii|42.77",
+      "market": "US",
+      "ticker": "DRS",
+      "yf_symbol": "DRS",
+      "company": "Leonardo Drs, Inc.",
+      "insider_name": "Jeffery Reuben III",
+      "title": "Dir",
+      "trade_date": "2026-05-19",
+      "trade_price": 42.77,
+      "value": 1069328.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 42.81
+      },
+      "latest_price": 42.81,
+      "return_pct": 0.09,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|AEBI|2026-05-15|schaub patrick francois|11.41",
+      "market": "US",
+      "ticker": "AEBI",
+      "yf_symbol": "AEBI",
+      "company": "Aebi Schmidt Holding AG",
+      "insider_name": "Schaub Patrick Francois",
+      "title": "Dir",
+      "trade_date": "2026-05-15",
+      "trade_price": 11.41,
+      "value": 74165.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 11.3
+      },
+      "latest_price": 11.3,
+      "return_pct": -0.96,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|VITL|2026-05-15|coon stephanie|8.42",
+      "market": "US",
+      "ticker": "VITL",
+      "yf_symbol": "VITL",
+      "company": "Vital Farms, Inc.",
+      "insider_name": "Coon Stephanie",
+      "title": "Chief Strategy Officer",
+      "trade_date": "2026-05-15",
+      "trade_price": 8.42,
+      "value": 49636.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 9.17
+      },
+      "latest_price": 9.17,
+      "return_pct": 8.91,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|VITL|2026-05-13|ruiz gisel|8.13",
+      "market": "US",
+      "ticker": "VITL",
+      "yf_symbol": "VITL",
+      "company": "Vital Farms, Inc.",
+      "insider_name": "Ruiz Gisel",
+      "title": "Dir",
+      "trade_date": "2026-05-13",
+      "trade_price": 8.13,
+      "value": 50008.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 9.17
+      },
+      "latest_price": 9.17,
+      "return_pct": 12.79,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|UUU|2026-05-15|ault milton c iii|5.75",
+      "market": "US",
+      "ticker": "UUU",
+      "yf_symbol": "UUU",
+      "company": "Universal Safety Products, Inc.",
+      "insider_name": "Ault Milton C III",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-15",
+      "trade_price": 5.75,
+      "value": 1063750.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 6.44
+      },
+      "latest_price": 6.44,
+      "return_pct": 12.0,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|ACCS|2026-05-15|rein graeme p.|6.8",
+      "market": "US",
+      "ticker": "ACCS",
+      "yf_symbol": "ACCS",
+      "company": "Access Newswire Inc.",
+      "insider_name": "Rein Graeme P.",
+      "title": "Dir",
+      "trade_date": "2026-05-15",
+      "trade_price": 6.8,
+      "value": 100918.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 6.45
+      },
+      "latest_price": 6.45,
+      "return_pct": -5.15,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|ELAN|2026-05-15|modi rajeev a.|20.35",
+      "market": "US",
+      "ticker": "ELAN",
+      "yf_symbol": "ELAN",
+      "company": "Elanco Animal Health Inc",
+      "insider_name": "Modi Rajeev A.",
+      "title": "SEE REMARKS",
+      "trade_date": "2026-05-15",
+      "trade_price": 20.35,
+      "value": 99939.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 19.8
+      },
+      "latest_price": 19.8,
+      "return_pct": -2.7,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|ELAN|2026-05-15|simmons jeffrey n|20.09",
+      "market": "US",
+      "ticker": "ELAN",
+      "yf_symbol": "ELAN",
+      "company": "Elanco Animal Health Inc",
+      "insider_name": "Simmons Jeffrey N",
+      "title": "Pres, CEO, Dir",
+      "trade_date": "2026-05-15",
+      "trade_price": 20.09,
+      "value": 99843.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 19.8
+      },
+      "latest_price": 19.8,
+      "return_pct": -1.44,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|BXDC|2026-05-15|diverio michael a.|20.0",
+      "market": "US",
+      "ticker": "BXDC",
+      "yf_symbol": "BXDC",
+      "company": "Blackstone Digital Infrastructure Trust Inc.",
+      "insider_name": "Diverio Michael A.",
+      "title": "Dir",
+      "trade_date": "2026-05-15",
+      "trade_price": 20.0,
+      "value": 100000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 22.34
+      },
+      "latest_price": 22.34,
+      "return_pct": 11.7,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|BXDC|2026-05-15|pell nicholas l.|20.0",
+      "market": "US",
+      "ticker": "BXDC",
+      "yf_symbol": "BXDC",
+      "company": "Blackstone Digital Infrastructure Trust Inc.",
+      "insider_name": "Pell Nicholas L.",
+      "title": "See Remarks",
+      "trade_date": "2026-05-15",
+      "trade_price": 20.0,
+      "value": 500000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 22.34
+      },
+      "latest_price": 22.34,
+      "return_pct": 11.7,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|BXDC|2026-05-15|blackstone treasury holdings iii l.l.c.|20.0",
+      "market": "US",
+      "ticker": "BXDC",
+      "yf_symbol": "BXDC",
+      "company": "Blackstone Digital Infrastructure Trust Inc.",
+      "insider_name": "Blackstone Treasury Holdings III L.L.C.",
+      "title": "10%",
+      "trade_date": "2026-05-15",
+      "trade_price": 20.0,
+      "value": 189735900.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 22.34
+      },
+      "latest_price": 22.34,
+      "return_pct": 11.7,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|BXDC|2026-05-15|keenan katharine a|20.0",
+      "market": "US",
+      "ticker": "BXDC",
+      "yf_symbol": "BXDC",
+      "company": "Blackstone Digital Infrastructure Trust Inc.",
+      "insider_name": "Keenan Katharine A",
+      "title": "Dir",
+      "trade_date": "2026-05-15",
+      "trade_price": 20.0,
+      "value": 500000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 22.34
+      },
+      "latest_price": 22.34,
+      "return_pct": 11.7,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|BXDC|2026-05-15|morefield diane m|20.0",
+      "market": "US",
+      "ticker": "BXDC",
+      "yf_symbol": "BXDC",
+      "company": "Blackstone Digital Infrastructure Trust Inc.",
+      "insider_name": "Morefield Diane M",
+      "title": "Dir",
+      "trade_date": "2026-05-15",
+      "trade_price": 20.0,
+      "value": 100000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 22.34
+      },
+      "latest_price": 22.34,
+      "return_pct": 11.7,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|BXDC|2026-05-15|forman michael john|20.0",
+      "market": "US",
+      "ticker": "BXDC",
+      "yf_symbol": "BXDC",
+      "company": "Blackstone Digital Infrastructure Trust Inc.",
+      "insider_name": "Forman Michael John",
+      "title": "Chief Investment Officer",
+      "trade_date": "2026-05-15",
+      "trade_price": 20.0,
+      "value": 100000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 22.34
+      },
+      "latest_price": 22.34,
+      "return_pct": 11.7,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|BXDC|2026-05-15|marone anthony f. jr|20.0",
+      "market": "US",
+      "ticker": "BXDC",
+      "yf_symbol": "BXDC",
+      "company": "Blackstone Digital Infrastructure Trust Inc.",
+      "insider_name": "Marone Anthony F. Jr",
+      "title": "See Remarks",
+      "trade_date": "2026-05-15",
+      "trade_price": 20.0,
+      "value": 200000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 22.34
+      },
+      "latest_price": 22.34,
+      "return_pct": 11.7,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|AVD|2026-05-12|gottschalk patrick e|2.94",
+      "market": "US",
+      "ticker": "AVD",
+      "yf_symbol": "AVD",
+      "company": "American Vanguard Corp",
+      "insider_name": "Gottschalk Patrick E",
+      "title": "Dir",
+      "trade_date": "2026-05-12",
+      "trade_price": 2.94,
+      "value": 117400.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 2.67
+      },
+      "latest_price": 2.67,
+      "return_pct": -9.18,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|MRP|2026-05-18|gorson matthew b.|26.97",
+      "market": "US",
+      "ticker": "MRP",
+      "yf_symbol": "MRP",
+      "company": "Millrose Properties, Inc.",
+      "insider_name": "Gorson Matthew B.",
+      "title": "Dir",
+      "trade_date": "2026-05-18",
+      "trade_price": 26.97,
+      "value": 121343.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 26.65
+      },
+      "latest_price": 26.65,
+      "return_pct": -1.19,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|AMC|2026-05-19|aron adam m|1.38",
+      "market": "US",
+      "ticker": "AMC",
+      "yf_symbol": "AMC",
+      "company": "Amc Entertainment Holdings, Inc.",
+      "insider_name": "Aron Adam M",
+      "title": "COB, CEO, Pres",
+      "trade_date": "2026-05-19",
+      "trade_price": 1.38,
+      "value": 344350.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 1.36
+      },
+      "latest_price": 1.36,
+      "return_pct": -1.45,
       "last_snapshot": "2026-05-19"
     }
   ]
