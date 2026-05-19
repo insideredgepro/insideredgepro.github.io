@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19T13:50:28Z",
-  "trade_count": 6755,
+  "last_updated": "2026-05-19T16:45:35Z",
+  "trade_count": 6757,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -108081,6 +108081,38 @@
       "delta_own": "New",
       "value": "31000",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-19",
+      "filing_time": "11:00",
+      "trade_date": "2026-05-18",
+      "ticker": "SMWB",
+      "company": "Similarweb Ltd.",
+      "insider_name": "Rapaport-Dagim Tamar",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.22",
+      "qty": "40000",
+      "owned": "63584",
+      "delta_own": "+170%",
+      "value": "128880",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-19",
+      "filing_time": "09:55",
+      "trade_date": "2026-05-15",
+      "ticker": "DGICA",
+      "company": "Donegal Group Inc",
+      "insider_name": "Donegal Mutual Insurance Co",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "17.25",
+      "qty": "17000",
+      "owned": "18774255",
+      "delta_own": "0%",
+      "value": "293182",
+      "cluster_buy": false
     }
   ]
 }
