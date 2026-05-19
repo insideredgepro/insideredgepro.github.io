@@ -6745,7 +6745,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-18,20:47,2026-05-14,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10%,P - Purchase,208.69,488000,110803982,0%,101838396,False
 2026-05-18,20:20,2026-05-15,MYO,"Myomo, Inc.",Kirk Thomas F,Dir,P - Purchase,0.91,75006,628863,+14%,68243,True
 2026-05-18,20:11,2026-05-14,SNES,"Senestech, Inc.",Glenbrook Capital Management,10%,P - Purchase,1.67,32120,1834390,+2%,53486,False
-2026-05-18,20:10,2026-05-14,LWAY,"Lifeway Foods, Inc.","Divisadero Street Capital Management, LP",10%,P - Purchase,25.45,165045,2101540,+9%,4200968,False
+2026-05-18,20:10,2026-05-14,LWAY,"Lifeway Foods, Inc.","Divisadero Street Capital Management, LP",10%,P - Purchase,25.45,165045,2101540,+9%,4200968,True
 2026-05-18,20:08,2026-05-18,VIDA,Vida Global Inc.,"Tvp Bitcoin Venture Gp Ii, L.L.C.",10%,P - Purchase,4.00,375000,2924395,+15%,1500000,True
 2026-05-18,20:02,2026-05-14,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.","Dir, 10%",P - Purchase,1.37,1527874,14458382,+12%,2090274,False
 2026-05-18,20:00,2026-05-14,VIDA,Vida Global Inc.,Calicott Christopher Shane,"Dir, 10%",P - Purchase,4.00,375000,3273724,+13%,1500000,True
@@ -6801,3 +6801,10 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-19,16:29,2026-05-12,AVD,American Vanguard Corp,Gottschalk Patrick E,Dir,P - Purchase,2.94,40000,166705,+32%,117400,False
 2026-05-19,16:27,2026-05-18,MRP,"Millrose Properties, Inc.",Gorson Matthew B.,Dir,P - Purchase,26.97,4500,35750,+14%,121343,True
 2026-05-19,16:24,2026-05-19,AMC,"Amc Entertainment Holdings, Inc.",Aron Adam M,"COB, CEO, Pres",P - Purchase,1.38,250000,2437020,+11%,344350,False
+2026-05-19,19:24,2026-05-15,RIVN,"Rivian Automotive, Inc. / De",Gomez Aidan N.,Dir,P - Purchase,13.97,18000,54232,+50%,251460,False
+2026-05-19,18:44,2026-05-15,EROK,"Eaglerock Land, LLC",Nelson James Carl,Dir,P - Purchase,18.50,100000,50000,-200%,1850000,True
+2026-05-19,18:41,2026-05-15,EROK,"Eaglerock Land, LLC",Wallace Michael Wayne,Dir,P - Purchase,18.50,250000,250000,New,4625000,True
+2026-05-19,18:40,2026-05-15,EROK,"Eaglerock Land, LLC",Reed Stephanie L,Dir,P - Purchase,18.50,13513,13513,New,249991,True
+2026-05-19,18:39,2026-05-14,LWAY,"Lifeway Foods, Inc.",Zolezzi William,10%,P - Purchase,25.45,165045,2101540,+9%,4200968,True
+2026-05-19,18:38,2026-05-15,EROK,"Eaglerock Land, LLC",Kumar Raj,Dir,P - Purchase,18.50,5405,5405,New,99993,True
+2026-05-19,18:35,2026-05-15,EROK,"Eaglerock Land, LLC",Lott Jeff Slaughter,Dir,P - Purchase,18.50,250000,250000,New,4625000,True

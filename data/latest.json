@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19T22:08:22Z",
-  "trade_count": 6796,
+  "last_updated": "2026-05-19T23:55:30Z",
+  "trade_count": 6803,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -107856,7 +107856,7 @@
       "owned": "2101540",
       "delta_own": "+9%",
       "value": "4200968",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-18",
@@ -108737,6 +108737,118 @@
       "delta_own": "+11%",
       "value": "344350",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-19",
+      "filing_time": "19:24",
+      "trade_date": "2026-05-15",
+      "ticker": "RIVN",
+      "company": "Rivian Automotive, Inc. / De",
+      "insider_name": "Gomez Aidan N.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "13.97",
+      "qty": "18000",
+      "owned": "54232",
+      "delta_own": "+50%",
+      "value": "251460",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-19",
+      "filing_time": "18:44",
+      "trade_date": "2026-05-15",
+      "ticker": "EROK",
+      "company": "Eaglerock Land, LLC",
+      "insider_name": "Nelson James Carl",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "18.50",
+      "qty": "100000",
+      "owned": "50000",
+      "delta_own": "-200%",
+      "value": "1850000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-19",
+      "filing_time": "18:41",
+      "trade_date": "2026-05-15",
+      "ticker": "EROK",
+      "company": "Eaglerock Land, LLC",
+      "insider_name": "Wallace Michael Wayne",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "18.50",
+      "qty": "250000",
+      "owned": "250000",
+      "delta_own": "New",
+      "value": "4625000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-19",
+      "filing_time": "18:40",
+      "trade_date": "2026-05-15",
+      "ticker": "EROK",
+      "company": "Eaglerock Land, LLC",
+      "insider_name": "Reed Stephanie L",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "18.50",
+      "qty": "13513",
+      "owned": "13513",
+      "delta_own": "New",
+      "value": "249991",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-19",
+      "filing_time": "18:39",
+      "trade_date": "2026-05-14",
+      "ticker": "LWAY",
+      "company": "Lifeway Foods, Inc.",
+      "insider_name": "Zolezzi William",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "25.45",
+      "qty": "165045",
+      "owned": "2101540",
+      "delta_own": "+9%",
+      "value": "4200968",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-19",
+      "filing_time": "18:38",
+      "trade_date": "2026-05-15",
+      "ticker": "EROK",
+      "company": "Eaglerock Land, LLC",
+      "insider_name": "Kumar Raj",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "18.50",
+      "qty": "5405",
+      "owned": "5405",
+      "delta_own": "New",
+      "value": "99993",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-19",
+      "filing_time": "18:35",
+      "trade_date": "2026-05-15",
+      "ticker": "EROK",
+      "company": "Eaglerock Land, LLC",
+      "insider_name": "Lott Jeff Slaughter",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "18.50",
+      "qty": "250000",
+      "owned": "250000",
+      "delta_own": "New",
+      "value": "4625000",
+      "cluster_buy": true
     }
   ]
 }

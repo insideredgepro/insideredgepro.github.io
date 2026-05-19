@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-19",
-  "entry_count": 1109,
+  "entry_count": 1116,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -35130,8 +35130,8 @@
         "2026-05-18": 0.424,
         "2026-05-19": 0.416
       },
-      "latest_price": 0.416,
-      "return_pct": -15.1,
+      "latest_price": 0.4087,
+      "return_pct": -16.59,
       "last_snapshot": "2026-05-19"
     },
     {
@@ -46587,6 +46587,146 @@
       },
       "latest_price": 1.36,
       "return_pct": -1.45,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|RIVN|2026-05-15|gomez aidan n.|13.97",
+      "market": "US",
+      "ticker": "RIVN",
+      "yf_symbol": "RIVN",
+      "company": "Rivian Automotive, Inc. / De",
+      "insider_name": "Gomez Aidan N.",
+      "title": "Dir",
+      "trade_date": "2026-05-15",
+      "trade_price": 13.97,
+      "value": 251460.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 12.9
+      },
+      "latest_price": 12.9,
+      "return_pct": -7.66,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|EROK|2026-05-15|nelson james carl|18.5",
+      "market": "US",
+      "ticker": "EROK",
+      "yf_symbol": "EROK",
+      "company": "Eaglerock Land, LLC",
+      "insider_name": "Nelson James Carl",
+      "title": "Dir",
+      "trade_date": "2026-05-15",
+      "trade_price": 18.5,
+      "value": 1850000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 23.29
+      },
+      "latest_price": 23.29,
+      "return_pct": 25.89,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|EROK|2026-05-15|wallace michael wayne|18.5",
+      "market": "US",
+      "ticker": "EROK",
+      "yf_symbol": "EROK",
+      "company": "Eaglerock Land, LLC",
+      "insider_name": "Wallace Michael Wayne",
+      "title": "Dir",
+      "trade_date": "2026-05-15",
+      "trade_price": 18.5,
+      "value": 4625000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 23.29
+      },
+      "latest_price": 23.29,
+      "return_pct": 25.89,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|EROK|2026-05-15|reed stephanie l|18.5",
+      "market": "US",
+      "ticker": "EROK",
+      "yf_symbol": "EROK",
+      "company": "Eaglerock Land, LLC",
+      "insider_name": "Reed Stephanie L",
+      "title": "Dir",
+      "trade_date": "2026-05-15",
+      "trade_price": 18.5,
+      "value": 249991.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 23.29
+      },
+      "latest_price": 23.29,
+      "return_pct": 25.89,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|LWAY|2026-05-14|zolezzi william|25.45",
+      "market": "US",
+      "ticker": "LWAY",
+      "yf_symbol": "LWAY",
+      "company": "Lifeway Foods, Inc.",
+      "insider_name": "Zolezzi William",
+      "title": "10%",
+      "trade_date": "2026-05-14",
+      "trade_price": 25.45,
+      "value": 4200968.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 25.2
+      },
+      "latest_price": 25.2,
+      "return_pct": -0.98,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|EROK|2026-05-15|kumar raj|18.5",
+      "market": "US",
+      "ticker": "EROK",
+      "yf_symbol": "EROK",
+      "company": "Eaglerock Land, LLC",
+      "insider_name": "Kumar Raj",
+      "title": "Dir",
+      "trade_date": "2026-05-15",
+      "trade_price": 18.5,
+      "value": 99993.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 23.29
+      },
+      "latest_price": 23.29,
+      "return_pct": 25.89,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|EROK|2026-05-15|lott jeff slaughter|18.5",
+      "market": "US",
+      "ticker": "EROK",
+      "yf_symbol": "EROK",
+      "company": "Eaglerock Land, LLC",
+      "insider_name": "Lott Jeff Slaughter",
+      "title": "Dir",
+      "trade_date": "2026-05-15",
+      "trade_price": 18.5,
+      "value": 4625000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 23.29
+      },
+      "latest_price": 23.29,
+      "return_pct": 25.89,
       "last_snapshot": "2026-05-19"
     }
   ]
