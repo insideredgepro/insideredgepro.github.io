@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19T23:00:27Z",
-  "trade_count": 3099,
+  "last_updated": "2026-05-20T01:00:27Z",
+  "trade_count": 3101,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -47133,6 +47133,38 @@
       "qty": "10000",
       "price": "2.6300",
       "value": "26300",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4721130",
+      "trade_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "company": "Copper Giant Resources Corp.",
+      "ticker": "CGNT",
+      "insider_name": "Giustra, Frank",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "300000",
+      "price": "0.6445",
+      "value": "193350",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4721147",
+      "trade_date": "2026-05-19",
+      "filing_date": "2026-05-19",
+      "company": "RB Global, Inc. formerly Ritchie Bros. Auctioneers Incorporated",
+      "ticker": "RBA",
+      "insider_name": "Stein, Deborah Susan",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "425",
+      "price": "142.3600",
+      "value": "60503",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-19",
-  "entry_count": 408,
+  "entry_count": 410,
   "entries": [
     {
       "id": "CA|PSIL.CN|2026-03-20|anthony, todd|1.03",
@@ -2743,7 +2743,7 @@
       "id": "CA|NEXM|2026-04-06|whiteford, sean michael|2.46",
       "market": "CA",
       "ticker": "NEXM",
-      "yf_symbol": "NEXM.V",
+      "yf_symbol": "NEXM.NE",
       "company": "NexMetals Mining Corp",
       "insider_name": "Whiteford, Sean Michael",
       "title": "Director & Senior Officer",
@@ -2758,8 +2758,8 @@
         "2026-05-18": 4.0,
         "2026-05-19": 4.0
       },
-      "latest_price": 3.83,
-      "return_pct": 55.69,
+      "latest_price": 3.81,
+      "return_pct": 54.88,
       "last_snapshot": "2026-05-19"
     },
     {
@@ -4215,7 +4215,7 @@
       "id": "CA|BOGO|2026-04-22|malcolm, kelly james|1.24",
       "market": "CA",
       "ticker": "BOGO",
-      "yf_symbol": "BOGO.V",
+      "yf_symbol": "BOGO.NE",
       "company": "Borealis Mining Company Limited (formerly, 1329300 B.C. Ltd.)",
       "insider_name": "Malcolm, Kelly James",
       "title": "Director",
@@ -4230,8 +4230,8 @@
         "2026-05-18": 1.08,
         "2026-05-19": 1.08
       },
-      "latest_price": 1.11,
-      "return_pct": -10.48,
+      "latest_price": 1.1,
+      "return_pct": -11.29,
       "last_snapshot": "2026-05-19"
     },
     {
@@ -4284,7 +4284,7 @@
       "id": "CA|BOGO|2026-04-22|malcolm, kelly james|1.207",
       "market": "CA",
       "ticker": "BOGO",
-      "yf_symbol": "BOGO.V",
+      "yf_symbol": "BOGO.NE",
       "company": "Borealis Mining Company Limited (formerly, 1329300 B.C. Ltd.)",
       "insider_name": "Malcolm, Kelly James",
       "title": "Director",
@@ -4299,8 +4299,8 @@
         "2026-05-18": 1.08,
         "2026-05-19": 1.08
       },
-      "latest_price": 1.11,
-      "return_pct": -8.04,
+      "latest_price": 1.1,
+      "return_pct": -8.86,
       "last_snapshot": "2026-05-19"
     },
     {
@@ -8074,7 +8074,7 @@
       "id": "CA|PET|2026-05-14|fortino, carmine|17.26",
       "market": "CA",
       "ticker": "PET",
-      "yf_symbol": "PET.NE",
+      "yf_symbol": "PET.TO",
       "company": "Pet Valu Holdings Ltd.",
       "insider_name": "Fortino, Carmine",
       "title": "Director",
@@ -8089,8 +8089,8 @@
         "2026-05-18": 17.64,
         "2026-05-19": 17.64
       },
-      "latest_price": 17.22,
-      "return_pct": -0.23,
+      "latest_price": 17.25,
+      "return_pct": -0.06,
       "last_snapshot": "2026-05-19"
     },
     {
@@ -9316,6 +9316,44 @@
       },
       "latest_price": 2.61,
       "return_pct": -0.76,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "CA|CGNT|2026-05-19|giustra, frank|0.6445",
+      "market": "CA",
+      "ticker": "CGNT",
+      "yf_symbol": "CGNT.TO",
+      "company": "Copper Giant Resources Corp.",
+      "insider_name": "Giustra, Frank",
+      "title": "10% Holder",
+      "trade_date": "2026-05-19",
+      "trade_price": 0.6445,
+      "value": 193350.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "CA|RBA|2026-05-19|stein, deborah susan|142.36",
+      "market": "CA",
+      "ticker": "RBA",
+      "yf_symbol": "RBA.TO",
+      "company": "RB Global, Inc. formerly Ritchie Bros. Auctioneers Incorporated",
+      "insider_name": "Stein, Deborah Susan",
+      "title": "Director",
+      "trade_date": "2026-05-19",
+      "trade_price": 142.36,
+      "value": 60503.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-19": 141.99
+      },
+      "latest_price": 141.99,
+      "return_pct": -0.26,
       "last_snapshot": "2026-05-19"
     }
   ]
