@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T17:00:21Z",
-  "trade_count": 3107,
+  "last_updated": "2026-05-20T19:00:21Z",
+  "trade_count": 3109,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -47261,6 +47261,38 @@
       "qty": "500000",
       "price": "0.0400",
       "value": "20000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4721532",
+      "trade_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "company": "Exchange Income Corporation",
+      "ticker": "EIF",
+      "insider_name": "Gamey, Barbara Lee",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "1000",
+      "price": "108.9000",
+      "value": "108900",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4721530",
+      "trade_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "company": "Vital Infrastructure Property Trust",
+      "ticker": "VITL-UN",
+      "insider_name": "Vaughan, Zachary Bryan",
+      "title": "Senior Officer",
+      "security": "Trust Units",
+      "qty": "18000",
+      "price": "5.3100",
+      "value": "95580",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
