@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-19",
-  "entry_count": 410,
+  "entry_count": 411,
   "entries": [
     {
       "id": "CA|PSIL.CN|2026-03-20|anthony, todd|1.03",
@@ -3571,7 +3571,7 @@
       "id": "CA|IPO|2026-04-15|yakiwchuk, kevin|15.3799",
       "market": "CA",
       "ticker": "IPO",
-      "yf_symbol": "IPO.TO",
+      "yf_symbol": "IPO.NE",
       "company": "InPlay Oil Corp.",
       "insider_name": "Yakiwchuk, Kevin",
       "title": "Senior Officer",
@@ -3586,8 +3586,8 @@
         "2026-05-18": 17.73,
         "2026-05-19": 17.73
       },
-      "latest_price": 18.16,
-      "return_pct": 18.08,
+      "latest_price": 18.25,
+      "return_pct": 18.66,
       "last_snapshot": "2026-05-19"
     },
     {
@@ -5935,7 +5935,7 @@
       "id": "CA|ESM|2026-05-05|sboros, grant|0.15",
       "market": "CA",
       "ticker": "ESM",
-      "yf_symbol": "ESM.TO",
+      "yf_symbol": "ESM.NE",
       "company": "Euro Sun Mining Inc.",
       "insider_name": "Sboros, Grant",
       "title": "Director & Senior Officer",
@@ -8695,7 +8695,7 @@
       "id": "CA|SPB|2026-05-15|winger, dale alan|7.6528",
       "market": "CA",
       "ticker": "SPB",
-      "yf_symbol": "SPB.TO",
+      "yf_symbol": "SPB.NE",
       "company": "Superior Plus Corp.",
       "insider_name": "Winger, Dale Alan",
       "title": "Senior Officer",
@@ -8992,7 +8992,7 @@
       "id": "CA|MTA|2026-05-19|heath, brett|6.34",
       "market": "CA",
       "ticker": "MTA",
-      "yf_symbol": "MTA.TO",
+      "yf_symbol": "MTA.NE",
       "company": "Metalla Royalty and Streaming Ltd.",
       "insider_name": "Heath, Brett",
       "title": "Director & Senior Officer",
@@ -9001,10 +9001,12 @@
       "value": 31700.0,
       "cluster_buy": true,
       "currency": "CAD",
-      "snapshots": {},
-      "latest_price": null,
-      "return_pct": null,
-      "last_snapshot": null
+      "snapshots": {
+        "2026-05-19": 8.99
+      },
+      "latest_price": 8.99,
+      "return_pct": 41.8,
+      "last_snapshot": "2026-05-19"
     },
     {
       "id": "CA|KLS|2026-05-19|uplenchwar, sameer dnyaneshwar|0.12",
@@ -9050,7 +9052,7 @@
       "id": "CA|NILI|2026-05-19|morrison, brian|0.645",
       "market": "CA",
       "ticker": "NILI",
-      "yf_symbol": "NILI.TO",
+      "yf_symbol": "NILI.NE",
       "company": "Surge Battery Metals Inc.",
       "insider_name": "Morrison, Brian",
       "title": "Senior Officer",
@@ -9059,10 +9061,12 @@
       "value": 64500.0,
       "cluster_buy": true,
       "currency": "CAD",
-      "snapshots": {},
-      "latest_price": null,
-      "return_pct": null,
-      "last_snapshot": null
+      "snapshots": {
+        "2026-05-19": 0.61
+      },
+      "latest_price": 0.61,
+      "return_pct": -5.43,
+      "last_snapshot": "2026-05-19"
     },
     {
       "id": "CA|VMET|2026-05-19|backens, mark|14.79",
@@ -9148,7 +9152,7 @@
       "id": "CA|PINN|2026-05-19|michael kott|0.0897",
       "market": "CA",
       "ticker": "PINN",
-      "yf_symbol": "PINN.TO",
+      "yf_symbol": "PINN.V",
       "company": "Pinnacle Silver and Gold Corp",
       "insider_name": "Michael Kott",
       "title": "10% Holder",
@@ -9157,10 +9161,12 @@
       "value": 48034.0,
       "cluster_buy": false,
       "currency": "CAD",
-      "snapshots": {},
-      "latest_price": null,
-      "return_pct": null,
-      "last_snapshot": null
+      "snapshots": {
+        "2026-05-19": 0.09
+      },
+      "latest_price": 0.09,
+      "return_pct": 0.33,
+      "last_snapshot": "2026-05-19"
     },
     {
       "id": "CA|SKE|2026-05-19|coles, jr., walter|29.0055",
@@ -9226,7 +9232,7 @@
       "id": "CA|HSTR|2026-05-19|funk, charles walter|1.971",
       "market": "CA",
       "ticker": "HSTR",
-      "yf_symbol": "HSTR.TO",
+      "yf_symbol": "HSTR.NE",
       "company": "Heliostar Metals Ltd.",
       "insider_name": "Funk, Charles Walter",
       "title": "Director & Senior Officer",
@@ -9235,16 +9241,18 @@
       "value": 98550.0,
       "cluster_buy": true,
       "currency": "CAD",
-      "snapshots": {},
-      "latest_price": null,
-      "return_pct": null,
-      "last_snapshot": null
+      "snapshots": {
+        "2026-05-19": 1.94
+      },
+      "latest_price": 1.94,
+      "return_pct": -1.57,
+      "last_snapshot": "2026-05-19"
     },
     {
       "id": "CA|PINN|2026-05-19|archer, robert alexander|0.09",
       "market": "CA",
       "ticker": "PINN",
-      "yf_symbol": "PINN.TO",
+      "yf_symbol": "PINN.V",
       "company": "Pinnacle Silver and Gold Corp",
       "insider_name": "Archer, Robert Alexander",
       "title": "Director",
@@ -9253,10 +9261,12 @@
       "value": 54000.0,
       "cluster_buy": true,
       "currency": "CAD",
-      "snapshots": {},
-      "latest_price": null,
-      "return_pct": null,
-      "last_snapshot": null
+      "snapshots": {
+        "2026-05-19": 0.09
+      },
+      "latest_price": 0.09,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-05-19"
     },
     {
       "id": "CA|TRZ|2026-05-19|p\u00e9ladeau, pierre karl|2.7",
@@ -9322,7 +9332,7 @@
       "id": "CA|CGNT|2026-05-19|giustra, frank|0.6445",
       "market": "CA",
       "ticker": "CGNT",
-      "yf_symbol": "CGNT.TO",
+      "yf_symbol": "CGNT.NE",
       "company": "Copper Giant Resources Corp.",
       "insider_name": "Giustra, Frank",
       "title": "10% Holder",
@@ -9331,10 +9341,12 @@
       "value": 193350.0,
       "cluster_buy": false,
       "currency": "CAD",
-      "snapshots": {},
-      "latest_price": null,
-      "return_pct": null,
-      "last_snapshot": null
+      "snapshots": {
+        "2026-05-19": 0.65
+      },
+      "latest_price": 0.65,
+      "return_pct": 0.85,
+      "last_snapshot": "2026-05-19"
     },
     {
       "id": "CA|RBA|2026-05-19|stein, deborah susan|142.36",
@@ -9354,6 +9366,26 @@
       },
       "latest_price": 141.99,
       "return_pct": -0.26,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "CA|SMN|2026-05-19|carstensen, andrew brooks|0.12",
+      "market": "CA",
+      "ticker": "SMN",
+      "yf_symbol": "SMN.V",
+      "company": "Sun Summit Minerals Corp.",
+      "insider_name": "Carstensen, Andrew Brooks",
+      "title": "Director",
+      "trade_date": "2026-05-19",
+      "trade_price": 0.12,
+      "value": 15000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-19": 0.155
+      },
+      "latest_price": 0.155,
+      "return_pct": 29.17,
       "last_snapshot": "2026-05-19"
     }
   ]
