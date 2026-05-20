@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-20",
-  "entry_count": 1195,
+  "entry_count": 1200,
   "entries": [
     {
       "id": "US|BETR|2026-03-23|framework ventures iv l.p.|29.6",
@@ -48505,6 +48505,106 @@
       },
       "latest_price": 4.0,
       "return_pct": -99.66,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|EQPT|2026-05-19|hill w bryan|22.89",
+      "market": "US",
+      "ticker": "EQPT",
+      "yf_symbol": "EQPT",
+      "company": "Equipmentshare.Com Inc",
+      "insider_name": "Hill W Bryan",
+      "title": "Director",
+      "trade_date": "2026-05-19",
+      "trade_price": 22.89,
+      "value": 499071.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 20.44
+      },
+      "latest_price": 20.44,
+      "return_pct": -10.7,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|PROP|2026-05-19|frommer richard n.|0.87",
+      "market": "US",
+      "ticker": "PROP",
+      "yf_symbol": "PROP",
+      "company": "Prairie Operating Co.",
+      "insider_name": "Frommer Richard N.",
+      "title": "Director",
+      "trade_date": "2026-05-19",
+      "trade_price": 0.87,
+      "value": 65685.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 0.8338
+      },
+      "latest_price": 0.8338,
+      "return_pct": -4.16,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|WEX|2026-05-18|groch james r|142.95",
+      "market": "US",
+      "ticker": "WEX",
+      "yf_symbol": "WEX",
+      "company": "Wex Inc.",
+      "insider_name": "Groch James R",
+      "title": "Director",
+      "trade_date": "2026-05-18",
+      "trade_price": 142.95,
+      "value": 214425.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 144.24
+      },
+      "latest_price": 144.24,
+      "return_pct": 0.9,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|TXO|2026-05-20|simpson bob r|13.35",
+      "market": "US",
+      "ticker": "TXO",
+      "yf_symbol": "TXO",
+      "company": "Txo Partners, L.P.",
+      "insider_name": "Simpson Bob R",
+      "title": "Director",
+      "trade_date": "2026-05-20",
+      "trade_price": 13.35,
+      "value": 1203655.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 13.23
+      },
+      "latest_price": 13.23,
+      "return_pct": -0.9,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|TXO|2026-05-18|simpson bob r|13.17",
+      "market": "US",
+      "ticker": "TXO",
+      "yf_symbol": "TXO",
+      "company": "Txo Partners, L.P.",
+      "insider_name": "Simpson Bob R",
+      "title": "Director",
+      "trade_date": "2026-05-18",
+      "trade_price": 13.17,
+      "value": 767090.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 13.23
+      },
+      "latest_price": 13.23,
+      "return_pct": 0.46,
       "last_snapshot": "2026-05-20"
     }
   ]

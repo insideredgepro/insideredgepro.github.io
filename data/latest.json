@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T21:45:44Z",
-  "trade_count": 6908,
+  "last_updated": "2026-05-20T23:07:21Z",
+  "trade_count": 6913,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -106368,7 +106368,7 @@
       "owned": "312000",
       "delta_own": "+3%",
       "value": "242200",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-15",
@@ -110529,6 +110529,86 @@
       "delta_own": "+0%",
       "value": "1418481",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-20",
+      "filing_time": "18:55",
+      "trade_date": "2026-05-19",
+      "ticker": "EQPT",
+      "company": "Equipmentshare.Com Inc",
+      "insider_name": "Hill W Bryan",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "22.89",
+      "qty": "21803",
+      "owned": "35794",
+      "delta_own": "+156%",
+      "value": "499071",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-20",
+      "filing_time": "18:12",
+      "trade_date": "2026-05-19",
+      "ticker": "PROP",
+      "company": "Prairie Operating Co.",
+      "insider_name": "Frommer Richard N.",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "0.87",
+      "qty": "75500",
+      "owned": "205372",
+      "delta_own": "+58%",
+      "value": "65685",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-20",
+      "filing_time": "17:54",
+      "trade_date": "2026-05-18",
+      "ticker": "WEX",
+      "company": "Wex Inc.",
+      "insider_name": "Groch James R",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "142.95",
+      "qty": "1500",
+      "owned": "17957",
+      "delta_own": "+9%",
+      "value": "214425",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-20",
+      "filing_time": "17:48",
+      "trade_date": "2026-05-20",
+      "ticker": "TXO",
+      "company": "Txo Partners, L.P.",
+      "insider_name": "Simpson Bob R",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "13.35",
+      "qty": "90152",
+      "owned": "7950000",
+      "delta_own": "+1%",
+      "value": "1203655",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-20",
+      "filing_time": "17:48",
+      "trade_date": "2026-05-18",
+      "ticker": "TXO",
+      "company": "Txo Partners, L.P.",
+      "insider_name": "Simpson Bob R",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "13.17",
+      "qty": "58251",
+      "owned": "7859848",
+      "delta_own": "+1%",
+      "value": "767090",
+      "cluster_buy": true
     }
   ]
 }

@@ -6652,7 +6652,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-15,13:44,2026-05-14,RGR,Sturm Ruger & Co Inc,Pettet Bruce T.,Dir,P - Purchase,39.89,1000,7606,+15%,39890,True
 2026-05-15,16:46,2026-05-13,TXO,"Txo Partners, L.P.",Simpson Bob R,"Dir, 10%",P - Purchase,12.97,301597,7801597,+4%,3911980,True
 2026-05-15,16:37,2026-05-13,NOMD,Nomad Foods Ltd,Ashken Ian G H,Dir,P - Purchase,9.13,100000,610541,+20%,912690,True
-2026-05-15,16:30,2026-05-15,EQPT,Equipmentshare.Com Inc,Bhatia Naveen,Dir,P - Purchase,24.22,10000,312000,+3%,242200,False
+2026-05-15,16:30,2026-05-15,EQPT,Equipmentshare.Com Inc,Bhatia Naveen,Dir,P - Purchase,24.22,10000,312000,+3%,242200,True
 2026-05-15,16:27,2026-05-14,FLS,Flowserve Corp,Savoy Brian D,Dir,P - Purchase,67.34,1000,3573,+39%,67340,True
 2026-05-15,16:24,2026-04-02,SNSE,"Sensei Biotherapeutics, Inc.",Millennium Management LLC,10%,P - Purchase,33.54,4215,133986,+3%,141364,False
 2026-05-15,16:22,2026-03-31,SNSE,"Sensei Biotherapeutics, Inc.",Millennium Management LLC,10%,P - Purchase,31.37,12180,147731,+9%,382100,False
@@ -6913,3 +6913,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-20,16:05,2026-05-18,FRPT,"Freshpet, Inc.",Biegger David,Director,P - Purchase,49.14,1000,8488,+13%,49142,True
 2026-05-20,16:05,2026-05-18,FRPT,"Freshpet, Inc.",Kelley Jacki Sue,Director,P - Purchase,48.05,1000,14496,+7%,48050,True
 2026-05-20,16:02,2026-05-15,KRMD,"KORU Medical Systems, Inc.",Tharby Linda M,Chief Executive Officer,P - Purchase,1191.00,1191,620622,+0%,1418481,False
+2026-05-20,18:55,2026-05-19,EQPT,Equipmentshare.Com Inc,Hill W Bryan,Director,P - Purchase,22.89,21803,35794,+156%,499071,True
+2026-05-20,18:12,2026-05-19,PROP,Prairie Operating Co.,Frommer Richard N.,Director,P - Purchase,0.87,75500,205372,+58%,65685,False
+2026-05-20,17:54,2026-05-18,WEX,Wex Inc.,Groch James R,Director,P - Purchase,142.95,1500,17957,+9%,214425,False
+2026-05-20,17:48,2026-05-20,TXO,"Txo Partners, L.P.",Simpson Bob R,Director,P - Purchase,13.35,90152,7950000,+1%,1203655,True
+2026-05-20,17:48,2026-05-18,TXO,"Txo Partners, L.P.",Simpson Bob R,Director,P - Purchase,13.17,58251,7859848,+1%,767090,True
