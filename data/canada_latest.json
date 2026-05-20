@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T13:00:21Z",
-  "trade_count": 3102,
+  "last_updated": "2026-05-20T15:00:19Z",
+  "trade_count": 3105,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -47184,6 +47184,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4721283",
+      "trade_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "company": "Golden Arrow Resources Corporation",
+      "ticker": "GRG",
+      "insider_name": "PESTANA, DIEGO MARTIN",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "1438726",
+      "price": "0.0800",
+      "value": "115098",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4721289",
+      "trade_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "company": "LunR Royalties Corp.",
+      "ticker": "LUNR",
+      "insider_name": "D'Sa, Trevor",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "1000",
+      "price": "20.4000",
+      "value": "20400",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4721287",
+      "trade_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "company": "LunR Royalties Corp.",
+      "ticker": "LUNR",
+      "insider_name": "Mackay, Connor James",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "2465",
+      "price": "20.6800",
+      "value": "50976",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
