@@ -374,6 +374,27 @@
     "scraped_at": "2026-03-03T06:07:47.231168"
   },
   {
+    "id": "20003798315",
+    "politician_name": "Timothy Moore",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "NC",
+    "company": "AT&T Inc",
+    "ticker": "T:US",
+    "sector": "communication-services",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-18",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "1",
+    "price": "$24.43",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-05-20T14:17:16.565280+00:00"
+  },
+  {
     "id": "20003798222",
     "politician_name": "Dwight Evans",
     "party": "Democrat",
@@ -392,7 +413,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: CETERA",
-    "scraped_at": "2026-05-20T11:41:37.796308+00:00"
+    "scraped_at": "2026-05-20T14:17:16.566009+00:00"
   },
   {
     "id": "20003798240",
@@ -413,7 +434,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "JPMORGAN CHASE &CO NOTE CALL MAKE WHOLE 5.57200% 04/22/2036 [CS] Subholding Of: Bill's IRA Description: 46647PEX0",
-    "scraped_at": "2026-05-20T11:41:37.796190+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565895+00:00"
   },
   {
     "id": "20003798241",
@@ -434,7 +455,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "NORTHROP GRUMMAN CORP NOTE 4.40000% 05/01/2030 CALL MAKE WHOLE [CS] Subholding Of: Bill's IRA Description: 666807BS0",
-    "scraped_at": "2026-05-20T11:41:37.796196+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565901+00:00"
   },
   {
     "id": "20003798243",
@@ -455,7 +476,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "SIMON PPTY GROUP LP NOTE CALL MAKE WHOLE 5.12500% 10/01/2035 [CS] Subholding Of: Bill's IRA Description: 46647PEX0",
-    "scraped_at": "2026-05-20T11:41:37.796206+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565911+00:00"
   },
   {
     "id": "20003798247",
@@ -476,7 +497,49 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "VMWARE LLC NOTE CALL MAKE WHOLE 4.70000% 05/15/2030 [CS] Subholding Of: Bill's IRA Description: 928563AF2",
-    "scraped_at": "2026-05-20T11:41:37.796223+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565930+00:00"
+  },
+  {
+    "id": "20003798316",
+    "politician_name": "Timothy Moore",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "NC",
+    "company": "Intercontinental Hotels Group PLC",
+    "ticker": "IHG:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-07",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "12",
+    "price": "$146.95",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-05-20T14:17:16.565315+00:00"
+  },
+  {
+    "id": "20003798317",
+    "politician_name": "Timothy Moore",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "NC",
+    "company": "Rolls Royce Holdings PLC",
+    "ticker": "RYCEY:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-07",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "12",
+    "price": "$17.16",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-05-20T14:17:16.565330+00:00"
   },
   {
     "id": "20003798224",
@@ -497,7 +560,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: CETERA",
-    "scraped_at": "2026-05-20T11:41:37.796319+00:00"
+    "scraped_at": "2026-05-20T14:17:16.566020+00:00"
   },
   {
     "id": "20003798225",
@@ -518,7 +581,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: CETERA",
-    "scraped_at": "2026-05-20T11:41:37.796323+00:00"
+    "scraped_at": "2026-05-20T14:17:16.566027+00:00"
   },
   {
     "id": "20003798226",
@@ -539,7 +602,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: CETERA",
-    "scraped_at": "2026-05-20T11:41:37.796330+00:00"
+    "scraped_at": "2026-05-20T14:17:16.566031+00:00"
   },
   {
     "id": "20003797569",
@@ -581,7 +644,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "THE CAMPBELLS COMPANY NOTE 5.40000% 03/21/2034 CALL MAKE WHOLE [CS] Subholding Of: Bill's IRA Description: 134429BP3",
-    "scraped_at": "2026-05-20T11:41:37.796214+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565919+00:00"
   },
   {
     "id": "20003797557",
@@ -623,7 +686,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS SEP IRA",
-    "scraped_at": "2026-05-20T11:41:37.796237+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565936+00:00"
   },
   {
     "id": "20003798229",
@@ -644,7 +707,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS SEP IRA",
-    "scraped_at": "2026-05-20T11:41:37.796243+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565940+00:00"
   },
   {
     "id": "20003798230",
@@ -665,7 +728,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS SEP IRA",
-    "scraped_at": "2026-05-20T11:41:37.796247+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565945+00:00"
   },
   {
     "id": "20003798231",
@@ -686,7 +749,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS SEP IRA",
-    "scraped_at": "2026-05-20T11:41:37.796252+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565949+00:00"
   },
   {
     "id": "20003798232",
@@ -707,7 +770,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS SEP IRA",
-    "scraped_at": "2026-05-20T11:41:37.796262+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565958+00:00"
   },
   {
     "id": "20003798233",
@@ -728,7 +791,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS SEP IRA",
-    "scraped_at": "2026-05-20T11:41:37.796269+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565963+00:00"
   },
   {
     "id": "20003798234",
@@ -749,7 +812,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS SEP IRA",
-    "scraped_at": "2026-05-20T11:41:37.796274+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565973+00:00"
   },
   {
     "id": "20003798235",
@@ -770,7 +833,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS SEP IRA",
-    "scraped_at": "2026-05-20T11:41:37.796280+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565980+00:00"
   },
   {
     "id": "20003798236",
@@ -791,7 +854,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS SEP IRA",
-    "scraped_at": "2026-05-20T11:41:37.796285+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565986+00:00"
   },
   {
     "id": "20003798237",
@@ -812,7 +875,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS SEP IRA",
-    "scraped_at": "2026-05-20T11:41:37.796289+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565989+00:00"
   },
   {
     "id": "20003798238",
@@ -833,7 +896,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS SEP IRA",
-    "scraped_at": "2026-05-20T11:41:37.796293+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565996+00:00"
   },
   {
     "id": "20003798239",
@@ -854,7 +917,28 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS SEP IRA",
-    "scraped_at": "2026-05-20T11:41:37.796299+00:00"
+    "scraped_at": "2026-05-20T14:17:16.566001+00:00"
+  },
+  {
+    "id": "20003798288",
+    "politician_name": "Stephen Cohen",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "TN",
+    "company": "US TREASURY BILLS",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-04",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "16",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Not Disclosed",
+    "comment": "US Treas Bill Mat 10/29/2026 DTD 10/30/2025 [GS] Subholding Of: Stephens Advantage Account",
+    "scraped_at": "2026-05-20T14:17:16.565578+00:00"
   },
   {
     "id": "20003797527",
@@ -1001,7 +1085,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796141+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565792+00:00"
   },
   {
     "id": "20003798246",
@@ -1022,7 +1106,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "UNITED STATES TREAS BILLS ZERO CPN 0.00000% 05/28/2026 [GS] Subholding Of: Bill's IRA Description: 912797SW8",
-    "scraped_at": "2026-05-20T11:41:37.796218+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565924+00:00"
   },
   {
     "id": "20003797693",
@@ -1232,7 +1316,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "OTIS WORLDWIDE CORP NOTE CALL MAKE WHOLE 5.25000% 08/16/2028 [CS] Subholding Of: Bill's IRA Description: 68902VAP2",
-    "scraped_at": "2026-05-20T11:41:37.796202+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565907+00:00"
   },
   {
     "id": "20003797732",
@@ -1466,6 +1550,27 @@
     "scraped_at": "2026-05-11T11:20:47.629652+00:00"
   },
   {
+    "id": "20003798289",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "3M Co",
+    "ticker": "MMM:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-28",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "21",
+    "price": "$146.03",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-05-20T14:17:16.565341+00:00"
+  },
+  {
     "id": "20003798249",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -1484,7 +1589,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-05-20T11:41:37.795994+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565595+00:00"
   },
   {
     "id": "20003798251",
@@ -1505,7 +1610,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796012+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565610+00:00"
   },
   {
     "id": "20003797816",
@@ -1821,6 +1926,27 @@
     "owner": "Joint",
     "comment": "Subholding Of: Fidelity Trust",
     "scraped_at": "2026-05-11T11:20:47.629640+00:00"
+  },
+  {
+    "id": "20003798290",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Advanced Micro Devices Inc",
+    "ticker": "AMD:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-27",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "22",
+    "price": "$334.63",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-05-20T14:17:16.565350+00:00"
   },
   {
     "id": "20003797834",
@@ -2180,6 +2306,48 @@
     "scraped_at": "2026-05-11T11:20:47.629378+00:00"
   },
   {
+    "id": "20003798306",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "International Business Machines Corp",
+    "ticker": "IBM:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-24",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "25",
+    "price": "$231.98",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-05-20T14:17:16.565509+00:00"
+  },
+  {
+    "id": "20003798311",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "ServiceNow Inc",
+    "ticker": "NOW:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-24",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "25",
+    "price": "$90.17",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-05-20T14:17:16.565550+00:00"
+  },
+  {
     "id": "20003798257",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -2198,7 +2366,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796056+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565653+00:00"
   },
   {
     "id": "20003798258",
@@ -2219,7 +2387,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796061+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565659+00:00"
   },
   {
     "id": "20003798263",
@@ -2240,7 +2408,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796088+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565701+00:00"
   },
   {
     "id": "20003798272",
@@ -2261,7 +2429,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796124+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565766+00:00"
   },
   {
     "id": "20003798280",
@@ -2282,7 +2450,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796158+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565849+00:00"
   },
   {
     "id": "20003798287",
@@ -2303,7 +2471,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796186+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565891+00:00"
   },
   {
     "id": "20003797674",
@@ -2537,6 +2705,27 @@
     "scraped_at": "2026-05-08T14:21:03.620000+00:00"
   },
   {
+    "id": "20003798291",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Advanced Micro Devices Inc",
+    "ticker": "AMD:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-23",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "26",
+    "price": "$305.33",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-05-20T14:17:16.565359+00:00"
+  },
+  {
     "id": "20003798279",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -2555,7 +2744,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796152+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565839+00:00"
   },
   {
     "id": "10000064973",
@@ -2891,7 +3080,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796095+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565714+00:00"
   },
   {
     "id": "20003798267",
@@ -2912,7 +3101,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796103+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565730+00:00"
   },
   {
     "id": "20003798273",
@@ -2933,7 +3122,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796128+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565772+00:00"
   },
   {
     "id": "20003798278",
@@ -2954,7 +3143,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796149+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565810+00:00"
   },
   {
     "id": "20003797832",
@@ -3122,7 +3311,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796004+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565604+00:00"
   },
   {
     "id": "20003798262",
@@ -3143,7 +3332,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796082+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565695+00:00"
   },
   {
     "id": "20003798264",
@@ -3164,7 +3353,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796091+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565708+00:00"
   },
   {
     "id": "20003798266",
@@ -3185,7 +3374,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796099+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565723+00:00"
   },
   {
     "id": "20003797827",
@@ -3563,7 +3752,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796136+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565785+00:00"
   },
   {
     "id": "20003798244",
@@ -3584,7 +3773,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "T MOBILE USA INC NOTE CALL MAKE WHOLE 5.05000% 07/15/2033 [CS] Subholding Of: Bill's IRA Description: 87264ACY9",
-    "scraped_at": "2026-05-20T11:41:37.796210+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565915+00:00"
   },
   {
     "id": "20003797815",
@@ -4007,6 +4196,27 @@
     "scraped_at": "2026-05-07T12:03:51.988823+00:00"
   },
   {
+    "id": "20003798300",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "The Goldman Sachs Group Inc",
+    "ticker": "GS:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-16",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "33",
+    "price": "$900.00",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-05-20T14:17:16.565458+00:00"
+  },
+  {
     "id": "20003798274",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -4025,7 +4235,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796132+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565779+00:00"
   },
   {
     "id": "20003798281",
@@ -4046,7 +4256,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796162+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565855+00:00"
   },
   {
     "id": "20003797679",
@@ -4341,6 +4551,27 @@
     "owner": "Child",
     "comment": "",
     "scraped_at": "2026-05-11T11:20:47.629537+00:00"
+  },
+  {
+    "id": "20003798299",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Freeport-McMoRan Inc",
+    "ticker": "FCX:US",
+    "sector": "materials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-15",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "34",
+    "price": "$68.70",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-05-20T14:17:16.565448+00:00"
   },
   {
     "id": "20003798216",
@@ -4991,7 +5222,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796041+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565640+00:00"
   },
   {
     "id": "20003797677",
@@ -5771,6 +6002,69 @@
     "scraped_at": "2026-05-07T14:47:41.286524+00:00"
   },
   {
+    "id": "20003798302",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "H D F C Bank Ltd",
+    "ticker": "HDB:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-13",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "36",
+    "price": "$26.80",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-05-20T14:17:16.565476+00:00"
+  },
+  {
+    "id": "20003798304",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Infineon Technologies AG",
+    "ticker": "IFNNY:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-13",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "36",
+    "price": "$50.27",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-05-20T14:17:16.565491+00:00"
+  },
+  {
+    "id": "20003798305",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "INTAPP INC",
+    "ticker": "",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-13",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "36",
+    "price": "$21.11",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-05-20T14:17:16.565501+00:00"
+  },
+  {
     "id": "20003798268",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -5789,7 +6083,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796106+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565736+00:00"
   },
   {
     "id": "20003798277",
@@ -5810,7 +6104,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796145+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565803+00:00"
   },
   {
     "id": "20003798286",
@@ -5831,7 +6125,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796182+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565887+00:00"
   },
   {
     "id": "20003797835",
@@ -8078,7 +8372,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796178+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565883+00:00"
   },
   {
     "id": "20003797777",
@@ -8228,6 +8522,279 @@
     "scraped_at": "2026-05-01T15:15:38.579853+00:00"
   },
   {
+    "id": "20003798292",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Ally Financial Inc",
+    "ticker": "ALLY:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-09",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "$41.80",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
+    "scraped_at": "2026-05-20T14:17:16.565368+00:00"
+  },
+  {
+    "id": "20003798293",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "AT&T Inc",
+    "ticker": "T:US",
+    "sector": "communication-services",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-09",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "$26.84",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
+    "scraped_at": "2026-05-20T14:17:16.565388+00:00"
+  },
+  {
+    "id": "20003798295",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Darden Restaurants Inc",
+    "ticker": "DRI:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-09",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "$196.34",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
+    "scraped_at": "2026-05-20T14:17:16.565407+00:00"
+  },
+  {
+    "id": "20003798296",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Dollar Tree Inc",
+    "ticker": "DLTR:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-09",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "$102.60",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
+    "scraped_at": "2026-05-20T14:17:16.565415+00:00"
+  },
+  {
+    "id": "20003798298",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Ford Motor Co",
+    "ticker": "F:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-09",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "$12.24",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
+    "scraped_at": "2026-05-20T14:17:16.565434+00:00"
+  },
+  {
+    "id": "20003798301",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "The Goldman Sachs Group Inc",
+    "ticker": "GS:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-09",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "$903.72",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
+    "scraped_at": "2026-05-20T14:17:16.565466+00:00"
+  },
+  {
+    "id": "20003798303",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "The Home Depot Inc",
+    "ticker": "HD:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-09",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "$339.58",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
+    "scraped_at": "2026-05-20T14:17:16.565484+00:00"
+  },
+  {
+    "id": "20003798307",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "MarketAxess Holdings Inc",
+    "ticker": "MKTX:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-09",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "$172.77",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
+    "scraped_at": "2026-05-20T14:17:16.565516+00:00"
+  },
+  {
+    "id": "20003798308",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Martin Marietta Materials Inc",
+    "ticker": "MLM:US",
+    "sector": "materials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-09",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "$625.50",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
+    "scraped_at": "2026-05-20T14:17:16.565525+00:00"
+  },
+  {
+    "id": "20003798310",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "PERFORMANCE FOOD GROUP COMPANY",
+    "ticker": "PFGC:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-09",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "$88.81",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
+    "scraped_at": "2026-05-20T14:17:16.565540+00:00"
+  },
+  {
+    "id": "20003798312",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Synchrony Financial",
+    "ticker": "SYF:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-09",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "$72.49",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
+    "scraped_at": "2026-05-20T14:17:16.565558+00:00"
+  },
+  {
+    "id": "20003798313",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Tractor Supply Co",
+    "ticker": "TSCO:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-09",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "$45.64",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
+    "scraped_at": "2026-05-20T14:17:16.565565+00:00"
+  },
+  {
+    "id": "20003798314",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "VALLEY NATIONAL BANCORP",
+    "ticker": "",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-09",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
+    "scraped_at": "2026-05-20T14:17:16.565571+00:00"
+  },
+  {
     "id": "20003798252",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -8246,7 +8813,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796019+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565617+00:00"
   },
   {
     "id": "20003798253",
@@ -8267,7 +8834,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796024+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565623+00:00"
   },
   {
     "id": "20003798254",
@@ -8288,7 +8855,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796029+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565633+00:00"
   },
   {
     "id": "20003798256",
@@ -8309,7 +8876,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796048+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565646+00:00"
   },
   {
     "id": "20003798259",
@@ -8330,7 +8897,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796068+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565665+00:00"
   },
   {
     "id": "20003798284",
@@ -8351,7 +8918,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796175+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565878+00:00"
   },
   {
     "id": "20003797678",
@@ -9401,7 +9968,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796110+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565742+00:00"
   },
   {
     "id": "20003797680",
@@ -9803,6 +10370,69 @@
     "scraped_at": "2026-05-01T14:13:21.187698+00:00"
   },
   {
+    "id": "20003798294",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "CBIZ Inc",
+    "ticker": "CBZ:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-06",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "43",
+    "price": "$28.28",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-05-20T14:17:16.565398+00:00"
+  },
+  {
+    "id": "20003798297",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "FIRST WATCH RESTAURA GRO INC",
+    "ticker": "FWRG:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-06",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "43",
+    "price": "$11.36",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-05-20T14:17:16.565424+00:00"
+  },
+  {
+    "id": "20003798309",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Netease Inc",
+    "ticker": "NTES:US",
+    "sector": "communication-services",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-06",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "43",
+    "price": "$112.63",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-05-20T14:17:16.565533+00:00"
+  },
+  {
     "id": "20003798260",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -9821,7 +10451,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796074+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565681+00:00"
   },
   {
     "id": "20003798283",
@@ -9842,7 +10472,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796171+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565871+00:00"
   },
   {
     "id": "20003797669",
@@ -10115,7 +10745,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.795978+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565588+00:00"
   },
   {
     "id": "20003798261",
@@ -10136,7 +10766,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796078+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565688+00:00"
   },
   {
     "id": "20003798270",
@@ -10157,7 +10787,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796117+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565751+00:00"
   },
   {
     "id": "20003798271",
@@ -10178,7 +10808,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796121+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565758+00:00"
   },
   {
     "id": "20003798282",
@@ -10199,7 +10829,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-20T11:41:37.796167+00:00"
+    "scraped_at": "2026-05-20T14:17:16.565862+00:00"
   },
   {
     "id": "20003798208",
@@ -63287,7 +63917,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Amended. Subholding Of: PERSHING LLC",
-    "scraped_at": "2026-05-20T11:41:37.796314+00:00"
+    "scraped_at": "2026-05-20T14:17:16.566016+00:00"
   },
   {
     "id": "20003796458",
@@ -63728,7 +64358,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity Rollover IRA Description: Sale inadvertently omitted from PTR filed on 9/12/25. Filer and filer's spouse no longer hold any stocks. All stocks were sold in 2025",
-    "scraped_at": "2026-05-20T11:41:37.796304+00:00"
+    "scraped_at": "2026-05-20T14:17:16.566005+00:00"
   },
   {
     "id": "10000064983",
