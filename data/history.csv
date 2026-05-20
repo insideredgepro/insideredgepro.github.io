@@ -6541,7 +6541,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-13,17:02,2026-05-13,ITIC,Investors Title Co,"Parker, Jr. Elton C.",Dir,P - Purchase,231.00,538,3750,+17%,124278,False
 2026-05-13,17:00,2026-05-12,NSPR,"Inspiremd, Inc.",Slosman Marvin,"CEO, Pres",P - Purchase,1.20,21000,3556658,+1%,25200,True
 2026-05-13,16:47,2026-05-08,NSPR,"Inspiremd, Inc.",Stuka Paul,Dir,P - Purchase,1.16,75626,1056575,+8%,88026,True
-2026-05-13,16:38,2026-05-11,BX,Blackstone Inc.,Porat Ruth,Dir,P - Purchase,122.99,439,50764,+1%,53974,False
+2026-05-13,16:38,2026-05-11,BX,Blackstone Inc.,Porat Ruth,Dir,P - Purchase,122.99,439,50764,+1%,53974,True
 2026-05-13,16:37,2026-05-12,MRP,"Millrose Properties, Inc.",Nitkin Robert,COO,P - Purchase,26.60,1840,5065,+57%,48944,True
 2026-05-13,16:35,2026-05-13,ZTS,Zoetis Inc.,Damelio Frank A,Dir,P - Purchase,75.39,6650,21458,+45%,501344,True
 2026-05-13,16:35,2026-05-13,ZTS,Zoetis Inc.,Bisaro Paul,Dir,P - Purchase,75.88,2000,27862,+8%,151750,True
@@ -6614,7 +6614,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-14,17:15,2026-05-12,STRT,Strattec Security Corp,Slater Jennifer Lynn,"Pres, CEO",P - Purchase,62.58,1598,57924,+3%,100000,True
 2026-05-14,17:09,2026-05-12,FUN,Six Flags Entertainment Corporation/New,Haddrill Richard M,Exec Chair,P - Purchase,19.08,10000,230117,+5%,190800,True
 2026-05-14,17:03,2026-05-13,ECL,Ecolab Inc.,Maclennan David,Dir,P - Purchase,250.65,1000,29439,+4%,250650,False
-2026-05-14,16:56,2026-05-13,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.50,69059,2746772,+3%,379825,False
+2026-05-14,16:56,2026-05-13,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.50,69059,2746772,+3%,379825,True
 2026-05-14,16:55,2026-05-12,AGIG,"Abundia Global Impact Group, Inc.",Gillespie Edward Oliver,CEO,P - Purchase,1.18,31220,176258,+22%,36982,False
 2026-05-14,16:51,2026-05-12,PLNT,"Planet Fitness, Inc.",Keating Colleen,CEO,P - Purchase,49.54,5000,141511,+4%,247700,True
 2026-05-14,16:36,2026-05-13,BRBR,"Bellring Brands, Inc.",Finkelstein David Isaiah,Dir,P - Purchase,9.24,4000,13326,+43%,36940,False
@@ -6737,7 +6737,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-18,17:19,2026-03-14,BJDX,"Bluejay Diagnostics, Inc.",Zeidman Fred S,Dir,P - Purchase,2.00,12500,12500,New,25000,True
 2026-05-18,17:18,2026-03-14,BJDX,"Bluejay Diagnostics, Inc.",Dey Svetlana,Dir,P - Purchase,2.00,12500,12628,>999%,25000,True
 2026-05-18,19:43,2026-05-15,IAUX,I-80 Gold Corp.,Yopps Steven W.,Dir,P - Purchase,1.47,50000,50000,New,73500,False
-2026-05-18,19:05,2026-05-14,PAR,Par Technology Corp,"Voss Capital, LP",10%,P - Purchase,14.59,719900,5850000,+14%,10504712,False
+2026-05-18,19:05,2026-05-14,PAR,Par Technology Corp,"Voss Capital, LP",10%,P - Purchase,14.59,719900,5850000,+14%,10504712,True
 2026-05-18,18:57,2026-05-18,BETR,Better Home & Finance Holding Co,Garg Vishal,"CEO, 10%",P - Purchase,24.87,15600,87060,+22%,387989,True
 2026-05-18,18:50,2026-03-04,TNET,"Trinet Group, Inc.",Evanko Brian C,Dir,P - Purchase,37.70,5000,9565,+110%,188500,False
 2026-05-18,21:23,2026-05-18,GSHD,"Goosehead Insurance, Inc.",Thornthwaite Martin Ellis,GC,P - Purchase,41.50,5000,5000,New,207500,True
@@ -6764,7 +6764,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-19,09:55,2026-05-15,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,17.25,17000,18774255,0%,293182,False
 2026-05-19,14:28,2026-05-18,GRWG,Growgeneration Corp.,Lampert Darren,CEO,P - Purchase,1.55,64098,1904274,+3%,99352,False
 2026-05-19,13:05,2026-05-15,STNE,Stoneco Ltd.,Ventura Salgado Diego,"CFO, IR Officer",P - Purchase,9.66,22490,290695,+8%,217163,False
-2026-05-19,16:23,2026-05-18,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.50,7701,2754473,0%,42356,False
+2026-05-19,16:23,2026-05-18,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.50,7701,2754473,0%,42356,True
 2026-05-19,16:21,2026-05-15,CDLX,"Cardlytics, Inc.",Evans David Thomas,CFO,P - Purchase,0.65,200000,317930,+170%,129000,False
 2026-05-19,16:15,2026-05-15,HGTY,"Hagerty, Inc.",Kuczinski Anthony J,Dir,P - Purchase,10.46,9500,68648,+16%,99370,False
 2026-05-19,16:15,2026-05-15,OI,"O-I Glass, Inc. /De/",Chapin Samuel R.,Dir,P - Purchase,8.51,12000,97482,+14%,102070,True
@@ -6822,3 +6822,69 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-20,11:17,2026-05-19,AP,Ampco Pittsburgh Corp,McBrayer Brett,CEO,P - Purchase,9.03,3300,557694,+1%,29792,False
 2026-05-20,10:39,2026-05-18,FOSL,"Fossil Group, Inc.",Schoppert Wendy Lee,Dir,P - Purchase,4.14,24331,120625,+25%,100730,False
 2026-05-20,10:26,2026-05-19,AMRZ,Amrize Ltd,Jenisch Jan Philipp,"COB, CEO",P - Purchase,49.39,19001,2256000,+1%,938451,False
+2026-05-20,15:09,2026-05-19,CCAP,"Crescent Capital BDC, Inc.",Strandberg Steven F.,Director,P - Purchase,11.28,85000,201135,+73%,958486,False
+2026-05-20,14:54,2026-05-20,GWRS,"Global Water Resources, Inc.",Krygier Christopher D,Chief Operating Officer,P - Purchase,6.87,5389,10485,+106%,37000,False
+2026-05-20,14:37,2026-05-19,MTEX,"Mannatech, Incorporated",Robbins Kevin Andrew,Director,P - Purchase,4.17,7100,33333,+27%,29607,False
+2026-05-20,13:34,2026-05-18,AXIA,Axia Energia S.A.,Batista De Lima Filho Pedro,Director,P - Purchase,11.27,49600,15270200,+0%,559144,False
+2026-05-20,12:41,2026-05-19,MERC,Mercer International Inc.,Kellogg Peter R,10% Owner,P - Purchase,0.97,105000,1957000,+6%,102344,False
+2026-05-20,12:41,2026-05-18,MERC,Mercer International Inc.,Kellogg Peter R,10% Owner,P - Purchase,0.96,380000,1852000,+26%,366510,False
+2026-05-20,12:41,2026-05-15,MERC,Mercer International Inc.,Kellogg Peter R,10% Owner,P - Purchase,0.95,215000,1472000,+17%,203584,False
+2026-05-20,10:26,2026-05-19,AMRZ,Amrize Ltd,Jenisch Jan Philipp,Chairman & CEO,P - Purchase,49.96,3000,515000,+1%,149880,False
+2026-05-20,10:26,2026-05-19,AMRZ,Amrize Ltd,Jenisch Jan Philipp,Chairman & CEO,P - Purchase,49.28,16001,1741000,+1%,788571,False
+2026-05-20,09:09,2026-05-19,SMWB,Similarweb Ltd.,Offer Or,Chief Executive Officer,P - Purchase,3.58,53000,4694396,+1%,189650,True
+2026-05-19,21:33,2026-05-18,MKTW,"Marketwise, Inc.",Stansberry Frank Porter,Director,P - Purchase,16.50,3623,335390,+1%,59776,False
+2026-05-19,20:42,2026-05-19,AWR,American States Water Co,Holloway Anne M,Director,P - Purchase,75.92,527,40080,+1%,40000,False
+2026-05-19,18:40,2026-05-15,EROK,"Eaglerock Land, LLC",Reed Stephanie L,Director,P - Purchase,18.50,13513,13513,New,249990,True
+2026-05-19,18:39,2026-05-15,LWAY,"Lifeway Foods, Inc.",Zolezzi William,10% Owner,P - Purchase,25.27,33174,2101540,+2%,838290,True
+2026-05-19,18:39,2026-05-14,LWAY,"Lifeway Foods, Inc.",Zolezzi William,10% Owner,P - Purchase,25.50,131871,2068366,+7%,3362678,True
+2026-05-19,18:38,2026-05-15,EROK,"Eaglerock Land, LLC",Kumar Raj,Director,P - Purchase,18.50,5405,5405,New,99992,True
+2026-05-19,16:43,2026-05-18,ACCS,Access Newswire Inc.,Rein Graeme P.,Director,P - Purchase,6.75,7877,79733,+11%,53145,False
+2026-05-19,16:43,2026-05-15,ACCS,Access Newswire Inc.,Rein Graeme P.,Director,P - Purchase,6.87,6956,71856,+11%,47772,False
+2026-05-19,16:30,2026-05-15,MSIF,"MSC Income Fund, Inc.",Niemann John O. Jr.,Director,P - Purchase,12.10,4922,43648,+13%,59556,False
+2026-05-19,16:30,2026-05-15,BXDC,Blackstone Digital Infrastructure Trust Inc.,Blackstone Treasury Holdings I,10% Owner,P - Purchase,20.00,9486795,9111800,New,189735900,True
+2026-05-19,16:30,2026-05-15,BX,Blackstone Inc.,Blackstone Treasury Holdings I,10% Owner,P - Purchase,20.00,9486795,9111800,New,189735900,True
+2026-05-19,16:29,2026-05-13,AVD,American Vanguard Corp,Gottschalk Patrick E,Director,P - Purchase,2.95,20000,166705,+14%,59000,False
+2026-05-19,16:29,2026-05-12,AVD,American Vanguard Corp,Gottschalk Patrick E,Director,P - Purchase,2.92,20000,146705,+16%,58400,False
+2026-05-19,16:27,2026-05-18,MRP,"Millrose Properties, Inc.",Gorson Matthew B.,Director,P - Purchase,26.96,4500,35750,+14%,121342,True
+2026-05-19,16:24,2026-05-14,AFCG,Advanced Flower Capital Inc.,Tannenbaum Leonard M,Director,P - Purchase,2.84,90600,6516775,+1%,257304,False
+2026-05-19,16:23,2026-05-18,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management Ll,10% Owner,P - Purchase,5.50,5304,2057754,+0%,29172,True
+2026-05-19,16:21,2026-05-18,CDLX,"Cardlytics, Inc.",Evans David Thomas,Chief Financial Officer,P - Purchase,0.63,50000,317930,+19%,31650,False
+2026-05-19,16:21,2026-05-15,CDLX,"Cardlytics, Inc.",Evans David Thomas,Chief Financial Officer,P - Purchase,0.65,150000,267930,+127%,97350,False
+2026-05-19,16:15,2026-05-19,NCLH,Norwegian Cruise Line Holdings Ltd.,Cil Jose E.,Director,P - Purchase,14.91,10000,74295,+16%,149100,True
+2026-05-19,16:15,2026-05-18,NCLH,Norwegian Cruise Line Holdings Ltd.,Cil Jose E.,Director,P - Purchase,15.25,5000,64295,+8%,76250,True
+2026-05-19,16:05,2026-05-18,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10% Owner,P - Purchase,5.69,17395,2505993,+1%,99023,False
+2026-05-19,16:05,2026-05-15,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10% Owner,P - Purchase,5.83,16648,2488598,+1%,96986,False
+2026-05-19,13:05,2026-05-15,STNE,Stoneco Ltd.,Ventura Salgado Diego,CFO and IR Officer,P - Purchase,9.66,10880,52580,+26%,105057,False
+2026-05-19,13:05,2026-05-15,STNE,Stoneco Ltd.,Ventura Salgado Diego,CFO and IR Officer,P - Purchase,9.66,11610,238115,+5%,112106,False
+2026-05-19,10:09,2026-05-18,GF,"The New Germany Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,11.85,22308,3124790,+1%,264350,False
+2026-05-19,10:07,2026-05-18,MXF,"The Mexico Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,21.59,18586,1972223,+1%,401272,False
+2026-05-19,10:05,2026-05-18,HFRO,Highland Funds I - Highland Opportunities and Income Fund,"Saba Capital Management, L.P.",10% Owner,P - Purchase,6.18,16100,5574310,+0%,99498,False
+2026-05-19,09:55,2026-05-18,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10% Owner,P - Purchase,17.33,8500,14022281,+0%,147304,False
+2026-05-19,09:55,2026-05-15,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10% Owner,P - Purchase,17.16,8500,14013781,+0%,145878,False
+2026-05-19,08:01,2026-05-14,COE,51Talk Online Education Group,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,25.22,30000,26313180,+0%,756600,False
+2026-05-19,08:01,2026-05-13,COE,51Talk Online Education Group,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,25.32,19620,26283180,+0%,496778,False
+2026-05-19,08:01,2026-05-12,COE,51Talk Online Education Group,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,25.50,28560,26263560,+0%,728280,False
+2026-05-19,08:01,2026-05-11,COE,51Talk Online Education Group,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,26.42,6000,26235000,+0%,158520,False
+2026-05-18,20:47,2026-05-18,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10% Owner,P - Purchase,213.31,60700,110803982,+0%,12947798,False
+2026-05-18,20:47,2026-05-15,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10% Owner,P - Purchase,208.93,119795,110743282,+0%,25028957,False
+2026-05-18,20:47,2026-05-14,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10% Owner,P - Purchase,207.68,307505,110623487,+0%,63861641,False
+2026-05-18,20:20,2026-05-18,MYO,"Myomo, Inc.",Kirk Thomas F,Director,P - Purchase,0.91,43401,628863,+7%,39495,True
+2026-05-18,20:20,2026-05-15,MYO,"Myomo, Inc.",Kirk Thomas F,Director,P - Purchase,0.91,31605,585462,+6%,28748,True
+2026-05-18,20:11,2026-05-14,SNES,"Senestech, Inc.",Glenbrook Capital Management,10% Owner,P - Purchase,1.72,15000,908635,+2%,25862,False
+2026-05-18,20:10,2026-05-15,LWAY,"Lifeway Foods, Inc.",Divisadero Street Capital Mana,10% Owner,P - Purchase,25.27,33174,2101540,+2%,838290,True
+2026-05-18,20:10,2026-05-14,LWAY,"Lifeway Foods, Inc.",Divisadero Street Capital Mana,10% Owner,P - Purchase,25.50,131871,2068366,+7%,3362678,True
+2026-05-18,20:08,2026-05-18,VIDA,Vida Global Inc.,"Tvp Bitcoin Venture Gp Ii, L.L",10% Owner,P - Purchase,4.00,375000,2011046,+23%,1500000,True
+2026-05-18,20:02,2026-05-15,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.",Director,P - Purchase,1.45,525697,14326205,+4%,761472,False
+2026-05-18,20:02,2026-05-14,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.",Director,P - Purchase,1.33,1000000,13800508,+8%,1325600,False
+2026-05-18,20:00,2026-05-15,VIDA,Vida Global Inc.,Pratt Lyle,Chief Executive Officer,P - Purchase,3.53,125400,364016,+53%,442675,True
+2026-05-18,20:00,2026-05-14,VIDA,Vida Global Inc.,Pratt Lyle,Chief Executive Officer,P - Purchase,4.00,187500,238616,+367%,750000,True
+2026-05-18,19:05,2026-05-15,PAR,Par Technology Corp,"Voss Capital, Lp",10% Owner,P - Purchase,14.62,125000,4775000,+3%,1828090,True
+2026-05-18,19:05,2026-05-14,PAR,Par Technology Corp,"Voss Capital, Lp",10% Owner,P - Purchase,14.59,594900,4675000,+15%,8676622,True
+2026-05-18,19:02,2026-05-14,PDX,PIMCO Dynamic Income Strategy Fund,Sharenow Greg Elliot,,P - Purchase,21.53,5000,26285,+23%,107630,False
+2026-05-18,18:37,2026-05-18,BKKT,"Bakkt Holdings, Inc.",Alfred Michael,Director,P - Purchase,8.20,220000,625000,+54%,1804000,False
+2026-05-18,18:37,2026-05-15,BKKT,"Bakkt Holdings, Inc.",Alfred Michael,Director,P - Purchase,8.34,365000,405000,+912%,3044100,False
+2026-05-18,17:35,2026-05-14,GF,"The New Germany Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,11.94,14082,3102482,+0%,168139,False
+2026-05-18,17:32,2026-05-15,MXF,"The Mexico Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,22.00,8334,1953637,+0%,183348,False
+2026-05-18,17:32,2026-05-14,MXF,"The Mexico Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,22.00,33108,1945303,+2%,728376,False
+2026-05-18,16:59,2026-05-15,MYO,"Myomo, Inc.",Manko Joseph M. Jr.,Director,P - Purchase,0.89,30367,2309775,+1%,26960,True
+2026-05-18,16:59,2026-05-14,MYO,"Myomo, Inc.",Manko Joseph M. Jr.,Director,P - Purchase,0.86,170830,2279408,+8%,146948,True
