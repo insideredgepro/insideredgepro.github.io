@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T15:00:19Z",
-  "trade_count": 3105,
+  "last_updated": "2026-05-20T17:00:21Z",
+  "trade_count": 3107,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -47232,6 +47232,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4721385",
+      "trade_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "company": "Heliostar Metals Ltd.",
+      "ticker": "HSTR",
+      "insider_name": "Ireland, George R.",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "100000",
+      "price": "2.0275",
+      "value": "202750",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4721418",
+      "trade_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "company": "Vortex Metals Inc.",
+      "ticker": "VMS",
+      "insider_name": "Williams, Michael Jeffrey",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "500000",
+      "price": "0.0400",
+      "value": "20000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
