@@ -6760,7 +6760,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-19,07:56,2026-05-15,IMNM,Immunome Inc.,Bienaime Jean Jacques,Dir,P - Purchase,20.70,5000,43415,+13%,103500,False
 2026-05-19,07:00,2026-05-18,HROW,"Harrow, Inc.",Graves Adrienne L,Dir,P - Purchase,31.07,1000,1000,New,31070,True
 2026-05-19,07:00,2026-05-18,HROW,"Harrow, Inc.",Silvernail Lauren P,Dir,P - Purchase,31.00,1000,1000,New,31000,True
-2026-05-19,11:00,2026-05-18,SMWB,Similarweb Ltd.,Rapaport-Dagim Tamar,Dir,P - Purchase,3.22,40000,63584,+170%,128880,False
+2026-05-19,11:00,2026-05-18,SMWB,Similarweb Ltd.,Rapaport-Dagim Tamar,Dir,P - Purchase,3.22,40000,63584,+170%,128880,True
 2026-05-19,09:55,2026-05-15,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,17.25,17000,18774255,0%,293182,False
 2026-05-19,14:28,2026-05-18,GRWG,Growgeneration Corp.,Lampert Darren,CEO,P - Purchase,1.55,64098,1904274,+3%,99352,False
 2026-05-19,13:05,2026-05-15,STNE,Stoneco Ltd.,Ventura Salgado Diego,"CFO, IR Officer",P - Purchase,9.66,22490,290695,+8%,217163,False
@@ -6814,3 +6814,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-19,20:30,2026-05-19,CVBF,Cvb Financial Corp,Borba George A Jr,Dir,P - Purchase,19.85,25187,7777860,0%,500000,False
 2026-05-19,20:09,2026-05-19,AVD,American Vanguard Corp,Gottschalk Patrick E,Dir,P - Purchase,2.70,25000,191705,+15%,67500,False
 2026-05-19,19:54,2026-05-19,RBA,Rb Global Inc.,Stein Deborah,Dir,P - Purchase,103.15,425,1825,+30%,43839,False
+2026-05-20,09:09,2026-05-18,SMWB,Similarweb Ltd.,Offer Or,CEO,P - Purchase,3.56,56105,4694396,+1%,199586,True
+2026-05-20,09:03,2026-05-18,CNSP,"Cns Pharmaceuticals, Inc.",Charles Faith L.,Dir,P - Purchase,4.79,7100,7100,New,34002,False

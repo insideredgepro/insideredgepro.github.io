@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T10:19:56Z",
-  "trade_count": 6809,
+  "last_updated": "2026-05-20T13:32:11Z",
+  "trade_count": 6811,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -108096,7 +108096,7 @@
       "owned": "63584",
       "delta_own": "+170%",
       "value": "128880",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-19",
@@ -108944,6 +108944,38 @@
       "owned": "1825",
       "delta_own": "+30%",
       "value": "43839",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-20",
+      "filing_time": "09:09",
+      "trade_date": "2026-05-18",
+      "ticker": "SMWB",
+      "company": "Similarweb Ltd.",
+      "insider_name": "Offer Or",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.56",
+      "qty": "56105",
+      "owned": "4694396",
+      "delta_own": "+1%",
+      "value": "199586",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-20",
+      "filing_time": "09:03",
+      "trade_date": "2026-05-18",
+      "ticker": "CNSP",
+      "company": "Cns Pharmaceuticals, Inc.",
+      "insider_name": "Charles Faith L.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.79",
+      "qty": "7100",
+      "owned": "7100",
+      "delta_own": "New",
+      "value": "34002",
       "cluster_buy": false
     }
   ]
