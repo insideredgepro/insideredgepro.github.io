@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T19:00:21Z",
-  "trade_count": 3109,
+  "last_updated": "2026-05-20T21:00:22Z",
+  "trade_count": 3113,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -46495,7 +46495,7 @@
       "value": "30750",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4719528",
@@ -46511,7 +46511,7 @@
       "value": "22940",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4719530",
@@ -46527,7 +46527,7 @@
       "value": "21440",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4719524",
@@ -46543,7 +46543,7 @@
       "value": "34200",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4719596",
@@ -47293,6 +47293,70 @@
       "qty": "18000",
       "price": "5.3100",
       "value": "95580",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4721553",
+      "trade_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "company": "Chemtrade Logistics Income Fund",
+      "ticker": "CHE-UN",
+      "insider_name": "Pennington, Suzann Elizabeth",
+      "title": "Director",
+      "security": "Trust Units",
+      "qty": "3088",
+      "price": "16.6300",
+      "value": "51353",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4721607",
+      "trade_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "company": "Mirasol Resources Ltd.",
+      "ticker": "MRZ",
+      "insider_name": "Tognetti, John",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "58500",
+      "price": "0.3640",
+      "value": "21294",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4721625",
+      "trade_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "company": "New Break Resources Ltd.",
+      "ticker": "NBRK",
+      "insider_name": "Farrant, Michael Hugh",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "100000",
+      "price": "0.2300",
+      "value": "23000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4721666",
+      "trade_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "company": "Sierra Madre Gold and Silver Ltd.",
+      "ticker": "SM",
+      "insider_name": "Langer, Alexander",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "10200",
+      "price": "1.9500",
+      "value": "19890",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
