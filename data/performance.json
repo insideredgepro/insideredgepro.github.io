@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-19",
-  "entry_count": 1116,
+  "entry_count": 1121,
   "entries": [
     {
       "id": "US|SBSW|2026-03-20|keyter charl|11.63",
@@ -41841,8 +41841,8 @@
         "2026-05-18": 0.95,
         "2026-05-19": 0.95
       },
-      "latest_price": 0.95,
-      "return_pct": 7.95,
+      "latest_price": 0.89,
+      "return_pct": 1.14,
       "last_snapshot": "2026-05-19"
     },
     {
@@ -46727,6 +46727,106 @@
       },
       "latest_price": 23.29,
       "return_pct": 25.89,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|MKTW|2026-05-15|stansberry frank porter|16.5",
+      "market": "US",
+      "ticker": "MKTW",
+      "yf_symbol": "MKTW",
+      "company": "Marketwise, Inc.",
+      "insider_name": "Stansberry Frank Porter",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-15",
+      "trade_price": 16.5,
+      "value": 59959.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 16.37
+      },
+      "latest_price": 16.37,
+      "return_pct": -0.79,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|XBP|2026-05-19|klein randal t|2.44",
+      "market": "US",
+      "ticker": "XBP",
+      "yf_symbol": "XBP",
+      "company": "Xbp Global Holdings, Inc.",
+      "insider_name": "Klein Randal T",
+      "title": "Dir",
+      "trade_date": "2026-05-19",
+      "trade_price": 2.44,
+      "value": 61100.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 2.47
+      },
+      "latest_price": 2.47,
+      "return_pct": 1.23,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|CVBF|2026-05-19|borba george a jr|19.85",
+      "market": "US",
+      "ticker": "CVBF",
+      "yf_symbol": "CVBF",
+      "company": "Cvb Financial Corp",
+      "insider_name": "Borba George A Jr",
+      "title": "Dir",
+      "trade_date": "2026-05-19",
+      "trade_price": 19.85,
+      "value": 500000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 19.82
+      },
+      "latest_price": 19.82,
+      "return_pct": -0.15,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|AVD|2026-05-19|gottschalk patrick e|2.7",
+      "market": "US",
+      "ticker": "AVD",
+      "yf_symbol": "AVD",
+      "company": "American Vanguard Corp",
+      "insider_name": "Gottschalk Patrick E",
+      "title": "Dir",
+      "trade_date": "2026-05-19",
+      "trade_price": 2.7,
+      "value": 67500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 2.67
+      },
+      "latest_price": 2.67,
+      "return_pct": -1.11,
+      "last_snapshot": "2026-05-19"
+    },
+    {
+      "id": "US|RBA|2026-05-19|stein deborah|103.15",
+      "market": "US",
+      "ticker": "RBA",
+      "yf_symbol": "RBA",
+      "company": "Rb Global Inc.",
+      "insider_name": "Stein Deborah",
+      "title": "Dir",
+      "trade_date": "2026-05-19",
+      "trade_price": 103.15,
+      "value": 43839.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-19": 103.29
+      },
+      "latest_price": 103.29,
+      "return_pct": 0.14,
       "last_snapshot": "2026-05-19"
     }
   ]
