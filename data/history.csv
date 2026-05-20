@@ -6410,7 +6410,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-11,16:15,2026-05-07,GPK,Graphic Packaging Holding Co,Stafeil Jeffrey,Dir,P - Purchase,11.19,17878,17878,New,200001,True
 2026-05-11,16:15,2026-05-08,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,13.52,2000,1648013,0%,27040,False
 2026-05-11,16:14,2026-05-08,TFIN,"Triumph Financial, Inc.",Ritterbusch Todd,"Pres - TBK Bank, SSB",P - Purchase,67.01,7000,43804,+19%,469070,False
-2026-05-11,16:09,2026-05-08,FRPT,"Freshpet, Inc.",George Walter N.,Dir,P - Purchase,54.67,2000,50746,+4%,109340,False
+2026-05-11,16:09,2026-05-08,FRPT,"Freshpet, Inc.",George Walter N.,Dir,P - Purchase,54.67,2000,50746,+4%,109340,True
 2026-05-11,16:05,2026-05-08,GPK,Graphic Packaging Holding Co,Hagemann Robert,Dir,P - Purchase,11.00,14000,97569,+17%,153992,True
 2026-05-11,16:04,2026-05-07,ADP,Automatic Data Processing Inc,Swan Robert Holmes,Dir,P - Purchase,206.05,3619,5187,+231%,745695,False
 2026-05-11,16:00,2026-05-08,ES,Eversource Energy,Mudge W Robert,Trustee,P - Purchase,66.49,750,8660,+9%,49864,False
@@ -6666,7 +6666,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-15,17:19,2026-05-14,OI,"O-I Glass, Inc. /De/",Restrepo Eduardo,"SVP, Business Ops Americas",P - Purchase,8.99,3309,132135,+3%,29731,True
 2026-05-15,17:12,2026-05-14,SSP,E.W. Scripps Co,Granado Geraldine Scripps,10%,P - Purchase,3.54,72798,145018,+101%,257814,False
 2026-05-15,17:10,2026-05-13,WEST,Westrock Coffee Co,Ford Joe T,Dir,P - Purchase,8.46,31500,4389892,+1%,266630,False
-2026-05-15,17:07,2026-05-13,GLP,Global Partners LP,Global Gp LLC,General Partner,P - Purchase,49.09,15000,37400,+67%,736350,False
+2026-05-15,17:07,2026-05-13,GLP,Global Partners LP,Global Gp LLC,General Partner,P - Purchase,49.09,15000,37400,+67%,736350,True
 2026-05-15,17:00,2026-05-14,XRN,Chiron Real Estate Inc.,Cypher Matthew,Dir,P - Purchase,35.12,1420,1690,+526%,49874,True
 2026-05-15,18:18,2026-05-14,CVBF,Cvb Financial Corp,Borba George A Jr,Dir,P - Purchase,19.92,25097,7752673,0%,499982,False
 2026-05-15,18:14,2026-05-15,GSHD,"Goosehead Insurance, Inc.",Jones Mark E. Jr.,"Pres, COO, 10%",P - Purchase,37.50,2650,7014,+61%,99375,True
@@ -6726,7 +6726,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-18,16:10,2026-05-15,MSCI,Msci Inc.,Fernandez Henry A,"COB, CEO",P - Purchase,562.40,4000,2188937,0%,2249591,False
 2026-05-18,16:01,2026-05-18,FLS,Flowserve Corp,McMurray Michael C.,Dir,P - Purchase,65.71,2500,8172,+44%,164275,True
 2026-05-18,18:37,2026-05-15,BKKT,"Bakkt, Inc.",Alfred Michael,Dir,P - Purchase,8.29,585000,653476,+854%,4848100,False
-2026-05-18,17:50,2026-05-14,OPAL,Opal Fuels Inc.,Nisar Nadeem,Dir,P - Purchase,2.00,20000,227785,+10%,39900,False
+2026-05-18,17:50,2026-05-14,OPAL,Opal Fuels Inc.,Nisar Nadeem,Dir,P - Purchase,2.00,20000,227785,+10%,39900,True
 2026-05-18,17:49,2026-05-15,MWA,"Mueller Water Products, Inc.",Healy Brian C.,Dir,P - Purchase,25.75,1166,23763,+5%,30019,False
 2026-05-18,17:34,2026-05-15,ICFI,"Icf International, Inc.",Van Handel Michael J,Dir,P - Purchase,61.39,8000,24254,+49%,491134,False
 2026-05-18,17:25,2026-05-18,GRNT,"Granite Ridge Resources, Inc.",Perry Griffin,Dir,P - Purchase,5.49,100000,1163903,+9%,549000,True
@@ -6888,3 +6888,28 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-18,17:32,2026-05-14,MXF,"The Mexico Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,22.00,33108,1945303,+2%,728376,False
 2026-05-18,16:59,2026-05-15,MYO,"Myomo, Inc.",Manko Joseph M. Jr.,Director,P - Purchase,0.89,30367,2309775,+1%,26960,True
 2026-05-18,16:59,2026-05-14,MYO,"Myomo, Inc.",Manko Joseph M. Jr.,Director,P - Purchase,0.86,170830,2279408,+8%,146948,True
+2026-05-20,17:40,2026-05-20,GLP,Global Partners LP,Global Gp Llc,General Partner,P - Purchase,51.19,10000,62400,+19%,511900,True
+2026-05-20,17:40,2026-05-19,GLP,Global Partners LP,Global Gp Llc,General Partner,P - Purchase,49.27,7500,52400,+17%,369525,True
+2026-05-20,17:40,2026-05-18,GLP,Global Partners LP,Global Gp Llc,General Partner,P - Purchase,48.86,7500,44900,+20%,366450,True
+2026-05-20,17:05,2026-05-18,TEAD,Teads Holding Co.,Spilman Mary,Chief Commercial Officer,P - Purchase,0.99,105000,1505000,+8%,103950,False
+2026-05-20,16:58,2026-05-19,HRTG,"Heritage Insurance Holdings, Inc.",Whiting Paul L,Director,P - Purchase,23.56,16000,103126,+18%,376950,False
+2026-05-20,16:55,2026-05-18,VITL,"Vital Farms, Inc.",Flanagan Glenda J,Director,P - Purchase,8.33,6100,37498,+19%,50813,True
+2026-05-20,16:54,2026-05-19,SWIM,"Latham Group, Inc.",Cline James E,Director,P - Purchase,4.84,50000,100000,+100%,242000,False
+2026-05-20,16:51,2026-05-18,ONMD,Onemednet Corp,Kosasa Thomas,Director,P - Purchase,0.93,268817,16930144,+2%,250000,False
+2026-05-20,16:48,2026-05-19,LMFA,"LM Funding America, Inc.",Russell Richard D.,Chief Financial Officer,P - Purchase,0.22,131600,244147,+117%,29215,False
+2026-05-20,16:37,2026-05-20,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10% Owner,P - Purchase,17.43,8500,14039109,+0%,148143,False
+2026-05-20,16:37,2026-05-19,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10% Owner,P - Purchase,17.48,8328,14030609,+0%,145577,False
+2026-05-20,16:33,2026-05-19,NEOV,NeoVolta Inc.,Bond Steve,Executive Vice President,P - Purchase,2.09,47000,797000,+6%,98131,False
+2026-05-20,16:33,2026-05-19,HUMA,"Humacyte, Inc.",Sebelius Kathleen,Director,P - Purchase,0.88,56818,148025,+62%,50000,False
+2026-05-20,16:30,2026-05-19,ADV,Advantage Solutions Inc.,Peacock David A,Chief Executive Officer,P - Purchase,34.60,800,217164,+0%,27680,False
+2026-05-20,16:17,2026-05-19,OPAL,Opal Fuels Inc.,Dols Scott V.,Director,P - Purchase,2.05,25105,233380,+12%,51465,True
+2026-05-20,16:17,2026-05-18,OPAL,Opal Fuels Inc.,Dols Scott V.,Director,P - Purchase,2.02,12603,208275,+6%,25458,True
+2026-05-20,16:15,2025-05-18,AVIR,"Atea Pharmaceuticals, Inc.",Murphy Polly A.,Director,P - Purchase,4.17,6100,92145,+7%,25446,False
+2026-05-20,16:15,2026-05-06,UCAR,U Power Limited,Jia Li,Chief Executive Officer,P - Purchase,1.64,1829269,1829269,New,3000001,False
+2026-05-20,16:15,2026-05-19,HAO,Haoxi Health Technology Limited,Fan Zhen,CEO & Chairman,P - Purchase,0.02,40000000,40690800,"+5,790%",720000,False
+2026-05-20,16:15,2026-05-19,XZO,"Exzeo Group, Inc.",Patel Paresh,Chief Executive Officer,P - Purchase,13.69,2000,1662013,+0%,27380,False
+2026-05-20,16:12,2026-05-18,CRVS,"Corvus Pharmaceuticals, Inc.",Miller Richard A Md,President and CEO,P - Purchase,12.04,6932,1195035,+1%,83453,False
+2026-05-20,16:06,2026-05-18,FRPT,"Freshpet, Inc.",Mclevish Timothy R,Director,P - Purchase,48.67,3000,39879,+8%,146010,True
+2026-05-20,16:05,2026-05-18,FRPT,"Freshpet, Inc.",Biegger David,Director,P - Purchase,49.14,1000,8488,+13%,49142,True
+2026-05-20,16:05,2026-05-18,FRPT,"Freshpet, Inc.",Kelley Jacki Sue,Director,P - Purchase,48.05,1000,14496,+7%,48050,True
+2026-05-20,16:02,2026-05-15,KRMD,"KORU Medical Systems, Inc.",Tharby Linda M,Chief Executive Officer,P - Purchase,1191.00,1191,620622,+0%,1418481,False
