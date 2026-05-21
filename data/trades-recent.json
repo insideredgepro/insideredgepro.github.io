@@ -392,7 +392,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776142+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902396+00:00"
   },
   {
     "id": "20003798222",
@@ -518,7 +518,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776170+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902402+00:00"
   },
   {
     "id": "20003798317",
@@ -539,7 +539,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776181+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902407+00:00"
   },
   {
     "id": "20003798224",
@@ -938,7 +938,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "US Treas Bill Mat 10/29/2026 DTD 10/30/2025 [GS] Subholding Of: Stephens Advantage Account",
-    "scraped_at": "2026-05-21T08:19:33.776346+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902550+00:00"
   },
   {
     "id": "20003797527",
@@ -1085,7 +1085,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776473+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902685+00:00"
   },
   {
     "id": "20003798246",
@@ -1568,7 +1568,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T08:19:33.776190+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902412+00:00"
   },
   {
     "id": "20003798249",
@@ -1589,7 +1589,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-05-21T08:19:33.776355+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902565+00:00"
   },
   {
     "id": "20003798251",
@@ -1610,7 +1610,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776366+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902573+00:00"
   },
   {
     "id": "20003797816",
@@ -1928,6 +1928,69 @@
     "scraped_at": "2026-05-11T11:20:47.629640+00:00"
   },
   {
+    "id": "10000065021",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "DAYS BETWEEN LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-27",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "21",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902315+00:00"
+  },
+  {
+    "id": "10000065029",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "DAYS BETWEEN LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-27",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "21",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902355+00:00"
+  },
+  {
+    "id": "10000065034",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "DAYS BETWEEN LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-27",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "21",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902377+00:00"
+  },
+  {
     "id": "20003798290",
     "politician_name": "Joshua Gottheimer",
     "party": "Democrat",
@@ -1946,7 +2009,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T08:19:33.776196+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902417+00:00"
   },
   {
     "id": "20003797834",
@@ -2306,6 +2369,27 @@
     "scraped_at": "2026-05-11T11:20:47.629378+00:00"
   },
   {
+    "id": "10000065020",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "ELCM2 LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-24",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902311+00:00"
+  },
+  {
     "id": "20003798306",
     "politician_name": "Joshua Gottheimer",
     "party": "Democrat",
@@ -2324,7 +2408,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T08:19:33.776298+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902502+00:00"
   },
   {
     "id": "20003798311",
@@ -2345,7 +2429,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T08:19:33.776324+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902527+00:00"
   },
   {
     "id": "20003798257",
@@ -2366,7 +2450,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776391+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902600+00:00"
   },
   {
     "id": "20003798258",
@@ -2387,7 +2471,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776394+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902604+00:00"
   },
   {
     "id": "20003798263",
@@ -2408,7 +2492,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776418+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902625+00:00"
   },
   {
     "id": "20003798272",
@@ -2429,7 +2513,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776458+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902666+00:00"
   },
   {
     "id": "20003798280",
@@ -2723,7 +2807,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T08:19:33.776201+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902421+00:00"
   },
   {
     "id": "20003798279",
@@ -3080,7 +3164,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776427+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902634+00:00"
   },
   {
     "id": "20003798267",
@@ -3101,7 +3185,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776435+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902644+00:00"
   },
   {
     "id": "20003798273",
@@ -3122,7 +3206,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776462+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902671+00:00"
   },
   {
     "id": "20003798278",
@@ -3143,7 +3227,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776485+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902694+00:00"
   },
   {
     "id": "20003797832",
@@ -3293,6 +3377,69 @@
     "scraped_at": "2026-05-11T14:01:30.240554+00:00"
   },
   {
+    "id": "10000065019",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "DAYS BETWEEN LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-21",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "27",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902307+00:00"
+  },
+  {
+    "id": "10000065028",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "DAYS BETWEEN LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-21",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "27",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902349+00:00"
+  },
+  {
+    "id": "10000065033",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "DAYS BETWEEN LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-21",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "27",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902373+00:00"
+  },
+  {
     "id": "20003798250",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -3311,7 +3458,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776361+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902569+00:00"
   },
   {
     "id": "20003798262",
@@ -3332,7 +3479,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776414+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902621+00:00"
   },
   {
     "id": "20003798264",
@@ -3353,7 +3500,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776422+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902629+00:00"
   },
   {
     "id": "20003798266",
@@ -3374,7 +3521,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776431+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902640+00:00"
   },
   {
     "id": "20003797827",
@@ -3522,6 +3669,69 @@
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley Smith Barney LLC Brokerage Account Description: Municipal Bond; Maturity Date - 12/01/2039; Coupon Rate - 4%",
     "scraped_at": "2026-05-01T14:13:21.187421+00:00"
+  },
+  {
+    "id": "10000065004",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "KIRKOSWALD GLOBAL MACRO FUND LP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-20",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902221+00:00"
+  },
+  {
+    "id": "10000065009",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "KIRKOSWALD GLOBAL MACRO FUND LP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-20",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902255+00:00"
+  },
+  {
+    "id": "10000065026",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "KIRKOSWALD GLOBAL MACRO FUND LP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-20",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902342+00:00"
   },
   {
     "id": "20003797672",
@@ -3734,6 +3944,90 @@
     "scraped_at": "2026-05-01T14:13:21.187429+00:00"
   },
   {
+    "id": "10000065003",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "COMMODORE CAPITAL DOMESTIC LP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-17",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902213+00:00"
+  },
+  {
+    "id": "10000065008",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "COMMODORE CAPITAL DOMESTIC LP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-17",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902250+00:00"
+  },
+  {
+    "id": "10000065013",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "COMMODORE CAPITAL DOMESTIC LP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-17",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902278+00:00"
+  },
+  {
+    "id": "10000065018",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "COMMODORE CAPITAL DOMESTIC LP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-17",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902300+00:00"
+  },
+  {
     "id": "20003798275",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -3752,7 +4046,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776469+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902681+00:00"
   },
   {
     "id": "20003798244",
@@ -4214,7 +4508,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T08:19:33.776264+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902470+00:00"
   },
   {
     "id": "20003798274",
@@ -4235,7 +4529,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776466+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902674+00:00"
   },
   {
     "id": "20003798281",
@@ -4553,6 +4847,216 @@
     "scraped_at": "2026-05-11T11:20:47.629537+00:00"
   },
   {
+    "id": "10000065001",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "ELCM2 LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-15",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "33",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902198+00:00"
+  },
+  {
+    "id": "10000065002",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "BROKEDOWN PALACE LTD",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-15",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "33",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902207+00:00"
+  },
+  {
+    "id": "10000065006",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "ELCM2 LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-15",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "33",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902232+00:00"
+  },
+  {
+    "id": "10000065007",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "BROKEDOWN PALACE LTD",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-15",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "33",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902243+00:00"
+  },
+  {
+    "id": "10000065012",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "BROKEDOWN PALACE LTD",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-15",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "33",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902273+00:00"
+  },
+  {
+    "id": "10000065017",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "BROKEDOWN PALACE LTD",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-15",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "33",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902296+00:00"
+  },
+  {
+    "id": "10000065023",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "BROKEDOWN PALACE LTD",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-15",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "33",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902327+00:00"
+  },
+  {
+    "id": "10000065025",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "BROKEDOWN PALACE LTD",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-15",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "33",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902336+00:00"
+  },
+  {
+    "id": "10000065030",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "BROKEDOWN PALACE LTD",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-15",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "33",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902359+00:00"
+  },
+  {
+    "id": "10000065032",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "BROKEDOWN PALACE LTD",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-15",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "33",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902369+00:00"
+  },
+  {
     "id": "20003798299",
     "politician_name": "Joshua Gottheimer",
     "party": "Democrat",
@@ -4571,7 +5075,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T08:19:33.776258+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902463+00:00"
   },
   {
     "id": "20003798216",
@@ -5222,7 +5726,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776383+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902592+00:00"
   },
   {
     "id": "20003797677",
@@ -6020,7 +6524,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T08:19:33.776278+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902480+00:00"
   },
   {
     "id": "20003798304",
@@ -6041,7 +6545,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T08:19:33.776289+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902493+00:00"
   },
   {
     "id": "20003798305",
@@ -6062,7 +6566,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T08:19:33.776293+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902498+00:00"
   },
   {
     "id": "20003798268",
@@ -6083,7 +6587,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776439+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902648+00:00"
   },
   {
     "id": "20003798277",
@@ -6104,7 +6608,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776477+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902688+00:00"
   },
   {
     "id": "20003798286",
@@ -8354,6 +8858,90 @@
     "scraped_at": "2026-05-11T11:20:47.629818+00:00"
   },
   {
+    "id": "10000065011",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "LINCOLN GAINE LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-10",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "38",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902267+00:00"
+  },
+  {
+    "id": "10000065016",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "LINCOLN GAINE LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-10",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "38",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902290+00:00"
+  },
+  {
+    "id": "10000065022",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "LINCOLN GAINE LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-10",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "38",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902321+00:00"
+  },
+  {
+    "id": "10000065024",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "LINCOLN GAINE LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-10",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "38",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902331+00:00"
+  },
+  {
     "id": "20003798285",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -8540,7 +9128,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T08:19:33.776207+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902428+00:00"
   },
   {
     "id": "20003798293",
@@ -8561,7 +9149,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T08:19:33.776219+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902434+00:00"
   },
   {
     "id": "20003798295",
@@ -8582,7 +9170,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T08:19:33.776236+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902444+00:00"
   },
   {
     "id": "20003798296",
@@ -8603,7 +9191,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T08:19:33.776242+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902448+00:00"
   },
   {
     "id": "20003798298",
@@ -8624,7 +9212,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T08:19:33.776253+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902459+00:00"
   },
   {
     "id": "20003798301",
@@ -8645,7 +9233,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T08:19:33.776271+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902475+00:00"
   },
   {
     "id": "20003798303",
@@ -8666,7 +9254,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T08:19:33.776284+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902486+00:00"
   },
   {
     "id": "20003798307",
@@ -8687,7 +9275,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T08:19:33.776302+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902507+00:00"
   },
   {
     "id": "20003798308",
@@ -8708,7 +9296,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T08:19:33.776311+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902511+00:00"
   },
   {
     "id": "20003798310",
@@ -8729,7 +9317,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T08:19:33.776319+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902522+00:00"
   },
   {
     "id": "20003798312",
@@ -8750,7 +9338,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T08:19:33.776328+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902532+00:00"
   },
   {
     "id": "20003798313",
@@ -8771,7 +9359,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T08:19:33.776332+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902540+00:00"
   },
   {
     "id": "20003798314",
@@ -8792,7 +9380,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T08:19:33.776342+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902545+00:00"
   },
   {
     "id": "20003798252",
@@ -8813,7 +9401,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776372+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902577+00:00"
   },
   {
     "id": "20003798253",
@@ -8834,7 +9422,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776376+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902580+00:00"
   },
   {
     "id": "20003798254",
@@ -8855,7 +9443,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776379+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902586+00:00"
   },
   {
     "id": "20003798256",
@@ -8876,7 +9464,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776387+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902596+00:00"
   },
   {
     "id": "20003798259",
@@ -8897,7 +9485,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776401+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902608+00:00"
   },
   {
     "id": "20003798284",
@@ -9339,6 +9927,111 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
     "scraped_at": "2026-05-01T14:13:21.187567+00:00"
+  },
+  {
+    "id": "10000065000",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "ELCM2 LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-08",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902173+00:00"
+  },
+  {
+    "id": "10000065005",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "ELCM2 LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-08",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902227+00:00"
+  },
+  {
+    "id": "10000065015",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "DAYS BETWEEN LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-08",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902286+00:00"
+  },
+  {
+    "id": "10000065027",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "DAYS BETWEEN LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-08",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902346+00:00"
+  },
+  {
+    "id": "10000065031",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "DAYS BETWEEN LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-08",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "40",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902363+00:00"
   },
   {
     "id": "20003798219",
@@ -9950,6 +10643,48 @@
     "scraped_at": "2026-05-01T14:13:21.187706+00:00"
   },
   {
+    "id": "10000065010",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-07",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "41",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902262+00:00"
+  },
+  {
+    "id": "10000065014",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-07",
+    "trade_published": "2026-05-20",
+    "filed_after_days": "41",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-05-21T11:41:36.902282+00:00"
+  },
+  {
     "id": "20003798269",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -9968,7 +10703,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776442+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902652+00:00"
   },
   {
     "id": "20003797680",
@@ -10388,7 +11123,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T08:19:33.776227+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902439+00:00"
   },
   {
     "id": "20003798297",
@@ -10409,7 +11144,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T08:19:33.776247+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902453+00:00"
   },
   {
     "id": "20003798309",
@@ -10430,7 +11165,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T08:19:33.776315+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902515+00:00"
   },
   {
     "id": "20003798260",
@@ -10451,7 +11186,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776407+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902613+00:00"
   },
   {
     "id": "20003798283",
@@ -10745,7 +11480,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776350+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902560+00:00"
   },
   {
     "id": "20003798261",
@@ -10766,7 +11501,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776410+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902617+00:00"
   },
   {
     "id": "20003798270",
@@ -10787,7 +11522,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776448+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902656+00:00"
   },
   {
     "id": "20003798271",
@@ -10808,7 +11543,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T08:19:33.776452+00:00"
+    "scraped_at": "2026-05-21T11:41:36.902660+00:00"
   },
   {
     "id": "20003798282",
