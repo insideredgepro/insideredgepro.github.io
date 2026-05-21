@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T16:35:56Z",
-  "trade_count": 6944,
+  "last_updated": "2026-05-21T18:53:41Z",
+  "trade_count": 6947,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -111105,6 +111105,54 @@
       "delta_own": "+8%",
       "value": "34615",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-21",
+      "filing_time": "14:44",
+      "trade_date": "2026-05-19",
+      "ticker": "NAN",
+      "company": "Nuveen New York Quality Municipal Income Fund",
+      "insider_name": "Bank of America Corp /de/",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "11.28",
+      "qty": "3000",
+      "owned": "0",
+      "delta_own": "-100%",
+      "value": "33840",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-21",
+      "filing_time": "13:28",
+      "trade_date": "2026-05-19",
+      "ticker": "LIVE",
+      "company": "Live Ventures Inc",
+      "insider_name": "Isaac Jon",
+      "title": "CEO, Pres, 10%",
+      "trade_type": "P - Purchase",
+      "price": "10.38",
+      "qty": "5302",
+      "owned": "1616700",
+      "delta_own": "0%",
+      "value": "55041",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-21",
+      "filing_time": "12:36",
+      "trade_date": "2026-05-21",
+      "ticker": "AMRZ",
+      "company": "Amrize Ltd",
+      "insider_name": "Brouwer Roald",
+      "title": "CTO",
+      "trade_type": "P - Purchase",
+      "price": "49.84",
+      "qty": "1500",
+      "owned": "19757",
+      "delta_own": "+8%",
+      "value": "74760",
+      "cluster_buy": true
     }
   ]
 }
