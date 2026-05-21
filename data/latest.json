@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T10:32:38Z",
-  "trade_count": 6937,
+  "last_updated": "2026-05-21T13:56:26Z",
+  "trade_count": 6939,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -110992,6 +110992,38 @@
       "owned": "5716452",
       "delta_own": "0%",
       "value": "252536",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-21",
+      "filing_time": "09:46",
+      "trade_date": "2026-05-20",
+      "ticker": "TISI",
+      "company": "Team Inc",
+      "insider_name": "Hill Gary L.",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "16.22",
+      "qty": "5800",
+      "owned": "45437",
+      "delta_own": "+15%",
+      "value": "94076",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-21",
+      "filing_time": "09:35",
+      "trade_date": "2026-05-19",
+      "ticker": "TOI",
+      "company": "Oncology Institute, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "4.07",
+      "qty": "38500",
+      "owned": "10567858",
+      "delta_own": "0%",
+      "value": "156595",
       "cluster_buy": false
     }
   ]
