@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T23:00:24Z",
-  "trade_count": 3113,
+  "last_updated": "2026-05-21T01:00:26Z",
+  "trade_count": 3115,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -47357,6 +47357,38 @@
       "qty": "10200",
       "price": "1.9500",
       "value": "19890",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4721827",
+      "trade_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "company": "Artemis Gold Inc.",
+      "ticker": "ARTG",
+      "insider_name": "Scott, Anthony",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "2000",
+      "price": "30.8880",
+      "value": "61776",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4721819",
+      "trade_date": "2026-05-20",
+      "filing_date": "2026-05-20",
+      "company": "Orezone Gold Corporation",
+      "ticker": "ORE",
+      "insider_name": "Ravenelle, Jean-Francois",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "100000",
+      "price": "2.3095",
+      "value": "230950",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false

@@ -1,12 +1,12 @@
 {
   "last_updated": "2026-05-20",
-  "entry_count": 404,
+  "entry_count": 406,
   "entries": [
     {
       "id": "CA|PEY|2026-03-23|frame, riley millar|27.6",
       "market": "CA",
       "ticker": "PEY",
-      "yf_symbol": "PEY.NE",
+      "yf_symbol": "PEY.TO",
       "company": "Peyto Exploration and Development Corp.",
       "insider_name": "Frame, Riley Millar",
       "title": "Senior Officer",
@@ -22,15 +22,15 @@
         "2026-05-19": 26.77,
         "2026-05-20": 27.37
       },
-      "latest_price": 26.47,
-      "return_pct": -4.09,
+      "latest_price": 26.43,
+      "return_pct": -4.24,
       "last_snapshot": "2026-05-20"
     },
     {
       "id": "CA|PEY|2026-03-23|frame, riley millar|27.67",
       "market": "CA",
       "ticker": "PEY",
-      "yf_symbol": "PEY.NE",
+      "yf_symbol": "PEY.TO",
       "company": "Peyto Exploration and Development Corp.",
       "insider_name": "Frame, Riley Millar",
       "title": "Senior Officer",
@@ -46,8 +46,8 @@
         "2026-05-19": 26.77,
         "2026-05-20": 27.37
       },
-      "latest_price": 26.47,
-      "return_pct": -4.34,
+      "latest_price": 26.43,
+      "return_pct": -4.48,
       "last_snapshot": "2026-05-20"
     },
     {
@@ -2238,7 +2238,7 @@
       "id": "CA|PEY|2026-04-01|lachance, jean-paul henri|26.25",
       "market": "CA",
       "ticker": "PEY",
-      "yf_symbol": "PEY.NE",
+      "yf_symbol": "PEY.TO",
       "company": "Peyto Exploration and Development Corp.",
       "insider_name": "Lachance, Jean-Paul Henri",
       "title": "Director & Senior Officer",
@@ -2254,8 +2254,8 @@
         "2026-05-19": 26.77,
         "2026-05-20": 27.37
       },
-      "latest_price": 26.47,
-      "return_pct": 0.84,
+      "latest_price": 26.43,
+      "return_pct": 0.69,
       "last_snapshot": "2026-05-20"
     },
     {
@@ -3558,7 +3558,7 @@
       "id": "CA|PEY|2026-04-17|frame, riley millar|24.07",
       "market": "CA",
       "ticker": "PEY",
-      "yf_symbol": "PEY.NE",
+      "yf_symbol": "PEY.TO",
       "company": "Peyto Exploration and Development Corp.",
       "insider_name": "Frame, Riley Millar",
       "title": "Senior Officer",
@@ -3574,15 +3574,15 @@
         "2026-05-19": 26.77,
         "2026-05-20": 27.37
       },
-      "latest_price": 26.47,
-      "return_pct": 9.97,
+      "latest_price": 26.43,
+      "return_pct": 9.8,
       "last_snapshot": "2026-05-20"
     },
     {
       "id": "CA|PEY|2026-04-17|lachance, jean-paul henri|23.7336",
       "market": "CA",
       "ticker": "PEY",
-      "yf_symbol": "PEY.NE",
+      "yf_symbol": "PEY.TO",
       "company": "Peyto Exploration and Development Corp.",
       "insider_name": "Lachance, Jean-Paul Henri",
       "title": "Director & Senior Officer",
@@ -3598,8 +3598,8 @@
         "2026-05-19": 26.77,
         "2026-05-20": 27.37
       },
-      "latest_price": 26.47,
-      "return_pct": 11.53,
+      "latest_price": 26.43,
+      "return_pct": 11.36,
       "last_snapshot": "2026-05-20"
     },
     {
@@ -4638,7 +4638,7 @@
       "id": "CA|PEY|2026-04-27|collens, michael richard|24.99",
       "market": "CA",
       "ticker": "PEY",
-      "yf_symbol": "PEY.NE",
+      "yf_symbol": "PEY.TO",
       "company": "Peyto Exploration and Development Corp.",
       "insider_name": "Collens, Michael Richard",
       "title": "Senior Officer",
@@ -4654,8 +4654,8 @@
         "2026-05-19": 26.77,
         "2026-05-20": 27.37
       },
-      "latest_price": 26.47,
-      "return_pct": 5.92,
+      "latest_price": 26.43,
+      "return_pct": 5.76,
       "last_snapshot": "2026-05-20"
     },
     {
@@ -8056,8 +8056,8 @@
         "2026-05-19": 2.0,
         "2026-05-20": 1.78
       },
-      "latest_price": 2.0,
-      "return_pct": -3.94,
+      "latest_price": 1.83,
+      "return_pct": -12.1,
       "last_snapshot": "2026-05-20"
     },
     {
@@ -9569,6 +9569,44 @@
       "latest_price": null,
       "return_pct": null,
       "last_snapshot": null
+    },
+    {
+      "id": "CA|ARTG|2026-05-20|scott, anthony|30.888",
+      "market": "CA",
+      "ticker": "ARTG",
+      "yf_symbol": "ARTG.TO",
+      "company": "Artemis Gold Inc.",
+      "insider_name": "Scott, Anthony",
+      "title": "Senior Officer",
+      "trade_date": "2026-05-20",
+      "trade_price": 30.888,
+      "value": 61776.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "CA|ORE|2026-05-20|ravenelle, jean-francois|2.3095",
+      "market": "CA",
+      "ticker": "ORE",
+      "yf_symbol": "ORE.TO",
+      "company": "Orezone Gold Corporation",
+      "insider_name": "Ravenelle, Jean-Francois",
+      "title": "Senior Officer",
+      "trade_date": "2026-05-20",
+      "trade_price": 2.3095,
+      "value": 230950.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-20": 2.33
+      },
+      "latest_price": 2.33,
+      "return_pct": 0.89,
+      "last_snapshot": "2026-05-20"
     }
   ]
 }
