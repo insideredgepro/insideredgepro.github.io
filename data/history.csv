@@ -6643,7 +6643,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-15,09:00,2026-05-14,ONON,On Holding AG,Bernhard Olivier,Exec Officer,P - Purchase,36.64,60000,5163184,+1%,2198099,True
 2026-05-15,08:59,2026-05-14,ONON,On Holding AG,Coppetti Caspar Felix,"Exec Officer, Co-CEO",P - Purchase,36.64,60000,2375855,+3%,2198102,True
 2026-05-15,08:57,2026-05-14,ONON,On Holding AG,Allemann David Michael,"Exec Officer, Co-CEO",P - Purchase,36.64,60000,2841108,+2%,2198099,True
-2026-05-15,10:59,2026-05-13,CRESY,Cresud Inc,Elsztain Eduardo S,"Dir, 10%",P - Purchase,10.58,67418,9854101,+1%,713403,False
+2026-05-15,10:59,2026-05-13,CRESY,Cresud Inc,Elsztain Eduardo S,"Dir, 10%",P - Purchase,10.58,67418,9854101,+1%,713403,True
 2026-05-15,12:38,2026-05-13,HDSN,Hudson Technologies Inc /Ny,Sheriff Alan,Dir,P - Purchase,4.88,5200,9265,+128%,25350,True
 2026-05-15,12:36,2026-05-14,HDSN,Hudson Technologies Inc /Ny,Feeler Jeffrey R,Dir,P - Purchase,4.92,5100,9165,+125%,25092,True
 2026-05-15,14:37,2026-05-14,TFSL,Tfs Financial Corp,Weir Daniel F,Dir,P - Purchase,15.02,7000,78191,+10%,105140,False
@@ -6722,7 +6722,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-18,16:15,2026-04-28,AMST,Amesite Inc.,Parmer George,Dir,P - Purchase,1.44,243902,566962,+75%,349999,True
 2026-05-18,16:15,2026-05-15,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,13.68,2000,1658013,0%,27355,False
 2026-05-18,16:15,2026-05-14,TKO,"Tko Group Holdings, Inc.",Kraft Jonathan,Dir,P - Purchase,189.96,5200,43432,+14%,987797,True
-2026-05-18,16:12,2026-05-14,LMRI,"Lumexa Imaging Holdings, Inc.",Cooper Henry Lee,Dir,P - Purchase,7.44,30000,30000,New,223113,False
+2026-05-18,16:12,2026-05-14,LMRI,"Lumexa Imaging Holdings, Inc.",Cooper Henry Lee,Dir,P - Purchase,7.44,30000,30000,New,223113,True
 2026-05-18,16:10,2026-05-15,MSCI,Msci Inc.,Fernandez Henry A,"COB, CEO",P - Purchase,562.40,4000,2188937,0%,2249591,False
 2026-05-18,16:01,2026-05-18,FLS,Flowserve Corp,McMurray Michael C.,Dir,P - Purchase,65.71,2500,8172,+44%,164275,True
 2026-05-18,18:37,2026-05-15,BKKT,"Bakkt, Inc.",Alfred Michael,Dir,P - Purchase,8.29,585000,653476,+854%,4848100,False
@@ -6952,3 +6952,20 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-21,14:44,2026-05-19,NAN,Nuveen New York Quality Municipal Income Fund,Bank of America Corp /de/,10%,P - Purchase,11.28,3000,0,-100%,33840,False
 2026-05-21,13:28,2026-05-19,LIVE,Live Ventures Inc,Isaac Jon,"CEO, Pres, 10%",P - Purchase,10.38,5302,1616700,0%,55041,False
 2026-05-21,12:36,2026-05-21,AMRZ,Amrize Ltd,Brouwer Roald,CTO,P - Purchase,49.84,1500,19757,+8%,74760,True
+2026-05-21,16:31,2026-05-20,TRDA,"Entrada Therapeutics, Inc.",Zeiher Bernhardt G,Dir,P - Purchase,5.86,5000,5000,New,29316,False
+2026-05-21,16:31,2026-05-19,PMTS,Cpi Card Group Inc.,Riley H Sanford,Non-Executive Chairman,P - Purchase,16.00,11900,265338,+5%,190400,False
+2026-05-21,16:30,2026-05-21,MAA,Mid America Apartment Communities Inc.,Fischer Tamara D,Dir,P - Purchase,128.55,1100,1100,New,141400,False
+2026-05-21,16:29,2026-05-19,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,21.56,78855,13383106,+1%,1699774,False
+2026-05-21,16:20,2026-05-19,LMRI,"Lumexa Imaging Holdings, Inc.",Brodnax Brett,Dir,P - Purchase,7.25,35000,62027,+130%,253750,True
+2026-05-21,16:20,2026-05-20,LUCD,Lucid Diagnostics Inc.,Matheis Dennis,Dir,P - Purchase,1.00,245000,1033443,+31%,245270,False
+2026-05-21,16:20,2026-05-19,COAG,"Hemab Therapeutics Holdings, Inc.","Ra Capital Management, L.P.",10%,P - Purchase,24.96,4798,7740958,0%,119776,False
+2026-05-21,16:16,2026-05-20,IMKTA,Ingles Markets Inc,Jacobs Dwight L.,Dir,P - Purchase,88.07,500,500,New,44035,False
+2026-05-21,16:15,2026-05-20,NCLH,Norwegian Cruise Line Holdings Ltd.,Cohen Jonathan Z,Dir,P - Purchase,15.83,30000,38912,+337%,474900,True
+2026-05-21,16:15,2026-05-20,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,13.33,2000,1664013,0%,26660,False
+2026-05-21,16:12,2026-05-19,SPCE,"Virgin Galactic Holdings, Inc",Strandberg Diana S.,Dir,P - Purchase,2.49,20000,70930,+39%,49780,False
+2026-05-21,16:03,2026-05-20,KBR,"Kbr, Inc.",Moore Jack B,Dir,P - Purchase,31.44,4000,54352,+8%,125766,True
+2026-05-21,16:02,2026-05-19,KBR,"Kbr, Inc.",Sabater Carlos A.,Dir,P - Purchase,32.47,14500,35705,+68%,470815,True
+2026-05-21,16:01,2026-05-20,WW,"Ww International, Inc.",Sjoqvist Nikolaj H,Dir,P - Purchase,9.55,10000,12385,+419%,95500,True
+2026-05-21,16:01,2026-05-20,WW,"Ww International, Inc.",Hawks Carney,Dir,P - Purchase,10.01,20000,51442,+64%,200256,True
+2026-05-21,15:38,2026-05-20,CRESY,Cresud Inc,Zang Saul,Dir,P - Purchase,10.63,17000,334720,+5%,180783,True
+2026-05-21,15:30,2026-05-18,LEEEF,Leef Brands Inc.,Anderson Micah Payne,"CEO, 10%",P - Purchase,0.25,135870,14667726,+1%,33968,False
