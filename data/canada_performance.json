@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-21",
-  "entry_count": 412,
+  "entry_count": 413,
   "entries": [
     {
       "id": "CA|PEY|2026-03-23|frame, riley millar|27.6",
@@ -10140,6 +10140,26 @@
       },
       "latest_price": 26.42,
       "return_pct": -0.04,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "CA|FORA|2026-05-21|goodridge, christopher michael|2.82",
+      "market": "CA",
+      "ticker": "FORA",
+      "yf_symbol": "FORA.TO",
+      "company": "VerticalScope Holdings Inc.",
+      "insider_name": "Goodridge, Christopher Michael",
+      "title": "Senior Officer",
+      "trade_date": "2026-05-21",
+      "trade_price": 2.82,
+      "value": 36096.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-21": 2.71
+      },
+      "latest_price": 2.71,
+      "return_pct": -3.9,
       "last_snapshot": "2026-05-21"
     }
   ]

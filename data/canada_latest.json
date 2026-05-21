@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T21:00:20Z",
-  "trade_count": 3121,
+  "last_updated": "2026-05-21T23:00:19Z",
+  "trade_count": 3122,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -47485,6 +47485,22 @@
       "qty": "3592",
       "price": "26.4300",
       "value": "94936",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4722318",
+      "trade_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "company": "VerticalScope Holdings Inc.",
+      "ticker": "FORA",
+      "insider_name": "Goodridge, Christopher Michael",
+      "title": "Senior Officer",
+      "security": "Subordinate Voting Shares",
+      "qty": "12800",
+      "price": "2.8200",
+      "value": "36096",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
