@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-21",
-  "entry_count": 1221,
+  "entry_count": 1223,
   "entries": [
     {
       "id": "US|BETR|2026-03-23|framework ventures iv l.p.|29.6",
@@ -50233,6 +50233,46 @@
       },
       "latest_price": 53.0,
       "return_pct": -3.57,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|SMWB|2026-05-20|beit-on harel moshe|3.89",
+      "market": "US",
+      "ticker": "SMWB",
+      "yf_symbol": "SMWB",
+      "company": "Similarweb Ltd.",
+      "insider_name": "Beit-On Harel Moshe",
+      "title": "Dir",
+      "trade_date": "2026-05-20",
+      "trade_price": 3.89,
+      "value": 291750.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 3.82
+      },
+      "latest_price": 3.82,
+      "return_pct": -1.8,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|NMM|2026-05-18|frangou angeliki|73.5",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-05-18",
+      "trade_price": 73.5,
+      "value": 252536.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 75.23
+      },
+      "latest_price": 75.23,
+      "return_pct": 2.35,
       "last_snapshot": "2026-05-21"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T06:43:28Z",
-  "trade_count": 6934,
+  "last_updated": "2026-05-21T10:32:38Z",
+  "trade_count": 6937,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -110945,6 +110945,54 @@
       "delta_own": "0%",
       "value": "266556",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-21",
+      "filing_time": "06:17",
+      "trade_date": "2026-05-20",
+      "ticker": "SMWB",
+      "company": "Similarweb Ltd.",
+      "insider_name": "Beit-On Harel Moshe",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.89",
+      "qty": "75000",
+      "owned": "10885778",
+      "delta_own": "+1%",
+      "value": "291750",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-20",
+      "filing_time": "21:29",
+      "trade_date": "2026-05-19",
+      "ticker": "FBIN",
+      "company": "Fortune Brands Innovations, Inc.",
+      "insider_name": "Garden Edward P",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "33.40",
+      "qty": "408900",
+      "owned": "3567532",
+      "delta_own": "+13%",
+      "value": "13656552",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-20",
+      "filing_time": "21:10",
+      "trade_date": "2026-05-18",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "73.50",
+      "qty": "3436",
+      "owned": "5716452",
+      "delta_own": "0%",
+      "value": "252536",
+      "cluster_buy": false
     }
   ]
 }
