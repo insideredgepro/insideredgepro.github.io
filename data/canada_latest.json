@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T17:00:18Z",
-  "trade_count": 3115,
+  "last_updated": "2026-05-21T19:00:19Z",
+  "trade_count": 3118,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -46175,7 +46175,7 @@
       "value": "172600",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4719049",
@@ -47389,6 +47389,54 @@
       "qty": "100000",
       "price": "2.3095",
       "value": "230950",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4722066",
+      "trade_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "company": "Firan Technology Group Corporation",
+      "ticker": "FTG",
+      "insider_name": "Knight, Raymond Drew",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "1500",
+      "price": "19.9100",
+      "value": "29865",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4722025",
+      "trade_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "company": "Pet Valu Holdings Ltd.",
+      "ticker": "PET",
+      "insider_name": "Ramier, Gregory Mark",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "2800",
+      "price": "17.8900",
+      "value": "50092",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4722046",
+      "trade_date": "2026-05-21",
+      "filing_date": "2026-05-21",
+      "company": "Taseko Mines Limited",
+      "ticker": "TKO",
+      "insider_name": "Morris, Terry James",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "11000",
+      "price": "8.9700",
+      "value": "98670",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
