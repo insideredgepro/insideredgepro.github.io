@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-21",
-  "entry_count": 1250,
+  "entry_count": 1259,
   "entries": [
     {
       "id": "US|BETR|2026-03-23|framework ventures iv l.p.|29.6",
@@ -50813,6 +50813,186 @@
       },
       "latest_price": 0.16,
       "return_pct": -36.0,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|STRR|2026-05-19|eberwein jeffrey e.|10.28",
+      "market": "US",
+      "ticker": "STRR",
+      "yf_symbol": "STRR",
+      "company": "Star Equity Holdings, Inc.",
+      "insider_name": "Eberwein Jeffrey E.",
+      "title": "CEO, 10%",
+      "trade_date": "2026-05-19",
+      "trade_price": 10.28,
+      "value": 189123.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 11.1
+      },
+      "latest_price": 11.1,
+      "return_pct": 7.98,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|FBIN|2026-05-20|garden edward p|34.89",
+      "market": "US",
+      "ticker": "FBIN",
+      "yf_symbol": "FBIN",
+      "company": "Fortune Brands Innovations, Inc.",
+      "insider_name": "Garden Edward P",
+      "title": "Dir",
+      "trade_date": "2026-05-20",
+      "trade_price": 34.89,
+      "value": 2002686.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 36.31
+      },
+      "latest_price": 36.31,
+      "return_pct": 4.07,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|BETA|2026-05-19|stone michael robert|14.59",
+      "market": "US",
+      "ticker": "BETA",
+      "yf_symbol": "BETA",
+      "company": "Beta Technologies, Inc.",
+      "insider_name": "Stone Michael Robert",
+      "title": "Dir",
+      "trade_date": "2026-05-19",
+      "trade_price": 14.59,
+      "value": 250000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 15.97
+      },
+      "latest_price": 15.97,
+      "return_pct": 9.46,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|SKWD|2026-05-21|kuczinski anthony j|47.1",
+      "market": "US",
+      "ticker": "SKWD",
+      "yf_symbol": "SKWD",
+      "company": "Skyward Specialty Insurance Group, Inc.",
+      "insider_name": "Kuczinski Anthony J",
+      "title": "Dir",
+      "trade_date": "2026-05-21",
+      "trade_price": 47.1,
+      "value": 94200.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 47.0
+      },
+      "latest_price": 47.0,
+      "return_pct": -0.21,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|BSX|2026-05-20|pegus cheryl|56.49",
+      "market": "US",
+      "ticker": "BSX",
+      "yf_symbol": "BSX",
+      "company": "Boston Scientific Corp",
+      "insider_name": "Pegus Cheryl",
+      "title": "Dir",
+      "trade_date": "2026-05-20",
+      "trade_price": 56.49,
+      "value": 99987.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 57.15
+      },
+      "latest_price": 57.15,
+      "return_pct": 1.17,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|BSX|2026-05-20|ludwig edward j|56.68",
+      "market": "US",
+      "ticker": "BSX",
+      "yf_symbol": "BSX",
+      "company": "Boston Scientific Corp",
+      "insider_name": "Ludwig Edward J",
+      "title": "Dir",
+      "trade_date": "2026-05-20",
+      "trade_price": 56.68,
+      "value": 202914.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 57.15
+      },
+      "latest_price": 57.15,
+      "return_pct": 0.83,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|BSX|2026-05-19|habiger david c|56.43",
+      "market": "US",
+      "ticker": "BSX",
+      "yf_symbol": "BSX",
+      "company": "Boston Scientific Corp",
+      "insider_name": "Habiger David C",
+      "title": "Dir",
+      "trade_date": "2026-05-19",
+      "trade_price": 56.43,
+      "value": 251098.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 57.15
+      },
+      "latest_price": 57.15,
+      "return_pct": 1.28,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|INM|2026-05-19|adar1 capital management, llc|1.54",
+      "market": "US",
+      "ticker": "INM",
+      "yf_symbol": "INM",
+      "company": "Inmed Pharmaceuticals Inc.",
+      "insider_name": "Adar1 Capital Management, LLC",
+      "title": "10%",
+      "trade_date": "2026-05-19",
+      "trade_price": 1.54,
+      "value": 721548.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 1.73
+      },
+      "latest_price": 1.73,
+      "return_pct": 12.34,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|STEX|2026-05-21|lekstrom morgan lee|1.04",
+      "market": "US",
+      "ticker": "STEX",
+      "yf_symbol": "STEX",
+      "company": "Streamex Corp.",
+      "insider_name": "Lekstrom Morgan Lee",
+      "title": "Interim Exec COB",
+      "trade_date": "2026-05-21",
+      "trade_price": 1.04,
+      "value": 153099.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 1.13
+      },
+      "latest_price": 1.13,
+      "return_pct": 8.65,
       "last_snapshot": "2026-05-21"
     }
   ]
