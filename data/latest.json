@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T22:12:56Z",
-  "trade_count": 6977,
+  "last_updated": "2026-05-21T23:53:11Z",
+  "trade_count": 6981,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -108384,7 +108384,7 @@
       "owned": "21831316",
       "delta_own": "+167%",
       "value": "72988509",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-19",
@@ -111632,6 +111632,70 @@
       "owned": "479241",
       "delta_own": "+44%",
       "value": "153099",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-21",
+      "filing_time": "19:20",
+      "trade_date": "2026-05-20",
+      "ticker": "RGR",
+      "company": "Sturm Ruger & Co Inc",
+      "insider_name": "Seyfert Todd William",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "39.15",
+      "qty": "1500",
+      "owned": "1500",
+      "delta_own": "New",
+      "value": "58725",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-21",
+      "filing_time": "19:08",
+      "trade_date": "2026-05-19",
+      "ticker": "XPOF",
+      "company": "Xponential Fitness, Inc.",
+      "insider_name": "Voss Capital, LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "4.82",
+      "qty": "200005",
+      "owned": "1108658",
+      "delta_own": "+22%",
+      "value": "963887",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-21",
+      "filing_time": "18:37",
+      "trade_date": "2026-05-20",
+      "ticker": "BRCB",
+      "company": "Black Rock Coffee Bar, Inc.",
+      "insider_name": "Schmidt Michael Ryan",
+      "title": "Principal Accounting Officer",
+      "trade_type": "P - Purchase",
+      "price": "6.98",
+      "qty": "7100",
+      "owned": "7100",
+      "delta_own": "New",
+      "value": "49558",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-21",
+      "filing_time": "18:30",
+      "trade_date": "2026-05-18",
+      "ticker": "AVIR",
+      "company": "Atea Pharmaceuticals, Inc.",
+      "insider_name": "Murphy Polly A.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.17",
+      "qty": "6100",
+      "owned": "92145",
+      "delta_own": "+7%",
+      "value": "25446",
       "cluster_buy": false
     }
   ]

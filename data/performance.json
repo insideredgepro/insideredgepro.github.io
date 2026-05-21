@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-21",
-  "entry_count": 1259,
+  "entry_count": 1263,
   "entries": [
     {
       "id": "US|BETR|2026-03-23|framework ventures iv l.p.|29.6",
@@ -50993,6 +50993,86 @@
       },
       "latest_price": 1.13,
       "return_pct": 8.65,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|RGR|2026-05-20|seyfert todd william|39.15",
+      "market": "US",
+      "ticker": "RGR",
+      "yf_symbol": "RGR",
+      "company": "Sturm Ruger & Co Inc",
+      "insider_name": "Seyfert Todd William",
+      "title": "Pres, CEO",
+      "trade_date": "2026-05-20",
+      "trade_price": 39.15,
+      "value": 58725.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 39.34
+      },
+      "latest_price": 39.34,
+      "return_pct": 0.49,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|XPOF|2026-05-19|voss capital, lp|4.82",
+      "market": "US",
+      "ticker": "XPOF",
+      "yf_symbol": "XPOF",
+      "company": "Xponential Fitness, Inc.",
+      "insider_name": "Voss Capital, LP",
+      "title": "10%",
+      "trade_date": "2026-05-19",
+      "trade_price": 4.82,
+      "value": 963887.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 5.58
+      },
+      "latest_price": 5.58,
+      "return_pct": 15.77,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|BRCB|2026-05-20|schmidt michael ryan|6.98",
+      "market": "US",
+      "ticker": "BRCB",
+      "yf_symbol": "BRCB",
+      "company": "Black Rock Coffee Bar, Inc.",
+      "insider_name": "Schmidt Michael Ryan",
+      "title": "Principal Accounting Officer",
+      "trade_date": "2026-05-20",
+      "trade_price": 6.98,
+      "value": 49558.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 6.58
+      },
+      "latest_price": 6.58,
+      "return_pct": -5.73,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|AVIR|2026-05-18|murphy polly a.|4.17",
+      "market": "US",
+      "ticker": "AVIR",
+      "yf_symbol": "AVIR",
+      "company": "Atea Pharmaceuticals, Inc.",
+      "insider_name": "Murphy Polly A.",
+      "title": "Dir",
+      "trade_date": "2026-05-18",
+      "trade_price": 4.17,
+      "value": 25446.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 4.24
+      },
+      "latest_price": 4.24,
+      "return_pct": 1.68,
       "last_snapshot": "2026-05-21"
     }
   ]
