@@ -392,7 +392,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902396+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105479+00:00"
   },
   {
     "id": "20003798222",
@@ -500,6 +500,27 @@
     "scraped_at": "2026-05-21T08:19:33.776559+00:00"
   },
   {
+    "id": "20003798319",
+    "politician_name": "Sara Jacobs",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "CA",
+    "company": "QUALCOMM Inc",
+    "ticker": "QCOM:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-07",
+    "trade_published": "2026-05-21",
+    "filed_after_days": "13",
+    "price": "$202.55",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Sara J Jacobs 1999 Trust > Merrill Lynch - SJ QCOM",
+    "scraped_at": "2026-05-21T14:23:01.105115+00:00"
+  },
+  {
     "id": "20003798316",
     "politician_name": "Timothy Moore",
     "party": "Republican",
@@ -518,7 +539,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902402+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105493+00:00"
   },
   {
     "id": "20003798317",
@@ -539,7 +560,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902407+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105500+00:00"
   },
   {
     "id": "20003798224",
@@ -624,6 +645,27 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Stifel",
     "scraped_at": "2026-05-11T14:01:30.240522+00:00"
+  },
+  {
+    "id": "20003798318",
+    "politician_name": "Sara Jacobs",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "CA",
+    "company": "QUALCOMM Inc",
+    "ticker": "QCOM:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-06",
+    "trade_published": "2026-05-21",
+    "filed_after_days": "14",
+    "price": "$192.57",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Sara J Jacobs 1999 Trust > Merrill Lynch - SJ QCOM",
+    "scraped_at": "2026-05-21T14:23:01.105078+00:00"
   },
   {
     "id": "20003798245",
@@ -938,7 +980,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "US Treas Bill Mat 10/29/2026 DTD 10/30/2025 [GS] Subholding Of: Stephens Advantage Account",
-    "scraped_at": "2026-05-21T11:41:36.902550+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105643+00:00"
   },
   {
     "id": "20003797527",
@@ -1568,7 +1610,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T11:41:36.902412+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105507+00:00"
   },
   {
     "id": "20003798249",
@@ -1589,7 +1631,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-05-21T11:41:36.902565+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105653+00:00"
   },
   {
     "id": "20003798251",
@@ -1610,7 +1652,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902573+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105663+00:00"
   },
   {
     "id": "20003797816",
@@ -1946,7 +1988,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902315+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105361+00:00"
   },
   {
     "id": "10000065029",
@@ -1967,7 +2009,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902355+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105429+00:00"
   },
   {
     "id": "10000065034",
@@ -1988,7 +2030,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902377+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105468+00:00"
   },
   {
     "id": "20003798290",
@@ -2009,7 +2051,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T11:41:36.902417+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105512+00:00"
   },
   {
     "id": "20003797834",
@@ -2369,6 +2411,27 @@
     "scraped_at": "2026-05-11T11:20:47.629378+00:00"
   },
   {
+    "id": "20003798321",
+    "politician_name": "Daniel Meuser",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "PA",
+    "company": "NVIDIA Corporation",
+    "ticker": "NVDA:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-24",
+    "trade_published": "2026-05-21",
+    "filed_after_days": "27",
+    "price": "$208.27",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Schwab Brokerage Account",
+    "scraped_at": "2026-05-21T14:23:01.105056+00:00"
+  },
+  {
     "id": "10000065020",
     "politician_name": "Richard Blumenthal",
     "party": "Democrat",
@@ -2387,7 +2450,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902311+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105354+00:00"
   },
   {
     "id": "20003798306",
@@ -2408,7 +2471,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T11:41:36.902502+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105600+00:00"
   },
   {
     "id": "20003798311",
@@ -2429,7 +2492,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T11:41:36.902527+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105626+00:00"
   },
   {
     "id": "20003798257",
@@ -2450,7 +2513,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902600+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105688+00:00"
   },
   {
     "id": "20003798258",
@@ -2471,7 +2534,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902604+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105692+00:00"
   },
   {
     "id": "20003798263",
@@ -2492,7 +2555,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902625+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105714+00:00"
   },
   {
     "id": "20003798272",
@@ -2513,7 +2576,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902666+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105754+00:00"
   },
   {
     "id": "20003798280",
@@ -2807,7 +2870,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T11:41:36.902421+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105517+00:00"
   },
   {
     "id": "20003798279",
@@ -3164,7 +3227,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902634+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105721+00:00"
   },
   {
     "id": "20003798267",
@@ -3185,7 +3248,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902644+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105731+00:00"
   },
   {
     "id": "20003798273",
@@ -3206,7 +3269,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902671+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105758+00:00"
   },
   {
     "id": "20003798278",
@@ -3395,7 +3458,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902307+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105346+00:00"
   },
   {
     "id": "10000065028",
@@ -3416,7 +3479,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902349+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105421+00:00"
   },
   {
     "id": "10000065033",
@@ -3437,7 +3500,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902373+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105461+00:00"
   },
   {
     "id": "20003798250",
@@ -3458,7 +3521,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902569+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105657+00:00"
   },
   {
     "id": "20003798262",
@@ -3479,7 +3542,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902621+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105710+00:00"
   },
   {
     "id": "20003798264",
@@ -3500,7 +3563,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902629+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105717+00:00"
   },
   {
     "id": "20003798266",
@@ -3521,7 +3584,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902640+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105727+00:00"
   },
   {
     "id": "20003797827",
@@ -3689,7 +3752,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902221+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105182+00:00"
   },
   {
     "id": "10000065009",
@@ -3710,7 +3773,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902255+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105226+00:00"
   },
   {
     "id": "10000065026",
@@ -3731,7 +3794,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902342+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105405+00:00"
   },
   {
     "id": "20003797672",
@@ -3962,7 +4025,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902213+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105166+00:00"
   },
   {
     "id": "10000065008",
@@ -3983,7 +4046,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902250+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105218+00:00"
   },
   {
     "id": "10000065013",
@@ -4004,7 +4067,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902278+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105261+00:00"
   },
   {
     "id": "10000065018",
@@ -4025,7 +4088,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902300+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105339+00:00"
   },
   {
     "id": "20003798275",
@@ -4508,7 +4571,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T11:41:36.902470+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105564+00:00"
   },
   {
     "id": "20003798274",
@@ -4529,7 +4592,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902674+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105761+00:00"
   },
   {
     "id": "20003798281",
@@ -4865,7 +4928,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902198+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105140+00:00"
   },
   {
     "id": "10000065002",
@@ -4886,7 +4949,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902207+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105149+00:00"
   },
   {
     "id": "10000065006",
@@ -4907,7 +4970,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902232+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105199+00:00"
   },
   {
     "id": "10000065007",
@@ -4928,7 +4991,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902243+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105208+00:00"
   },
   {
     "id": "10000065012",
@@ -4949,7 +5012,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902273+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105253+00:00"
   },
   {
     "id": "10000065017",
@@ -4970,7 +5033,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902296+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105292+00:00"
   },
   {
     "id": "10000065023",
@@ -4991,7 +5054,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902327+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105380+00:00"
   },
   {
     "id": "10000065025",
@@ -5012,7 +5075,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902336+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105395+00:00"
   },
   {
     "id": "10000065030",
@@ -5033,7 +5096,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902359+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105439+00:00"
   },
   {
     "id": "10000065032",
@@ -5054,7 +5117,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902369+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105454+00:00"
   },
   {
     "id": "20003798299",
@@ -5075,7 +5138,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T11:41:36.902463+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105557+00:00"
   },
   {
     "id": "20003798216",
@@ -5726,7 +5789,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902592+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105680+00:00"
   },
   {
     "id": "20003797677",
@@ -6524,7 +6587,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T11:41:36.902480+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105574+00:00"
   },
   {
     "id": "20003798304",
@@ -6545,7 +6608,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T11:41:36.902493+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105585+00:00"
   },
   {
     "id": "20003798305",
@@ -6566,7 +6629,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T11:41:36.902498+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105590+00:00"
   },
   {
     "id": "20003798268",
@@ -6587,7 +6650,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902648+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105735+00:00"
   },
   {
     "id": "20003798277",
@@ -8876,7 +8939,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902267+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105243+00:00"
   },
   {
     "id": "10000065016",
@@ -8897,7 +8960,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902290+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105282+00:00"
   },
   {
     "id": "10000065022",
@@ -8918,7 +8981,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902321+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105370+00:00"
   },
   {
     "id": "10000065024",
@@ -8939,7 +9002,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902331+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105388+00:00"
   },
   {
     "id": "20003798285",
@@ -9128,7 +9191,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T11:41:36.902428+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105523+00:00"
   },
   {
     "id": "20003798293",
@@ -9149,7 +9212,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T11:41:36.902434+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105527+00:00"
   },
   {
     "id": "20003798295",
@@ -9170,7 +9233,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T11:41:36.902444+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105536+00:00"
   },
   {
     "id": "20003798296",
@@ -9191,7 +9254,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T11:41:36.902448+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105541+00:00"
   },
   {
     "id": "20003798298",
@@ -9212,7 +9275,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T11:41:36.902459+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105551+00:00"
   },
   {
     "id": "20003798301",
@@ -9233,7 +9296,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T11:41:36.902475+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105569+00:00"
   },
   {
     "id": "20003798303",
@@ -9254,7 +9317,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T11:41:36.902486+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105578+00:00"
   },
   {
     "id": "20003798307",
@@ -9275,7 +9338,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T11:41:36.902507+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105604+00:00"
   },
   {
     "id": "20003798308",
@@ -9296,7 +9359,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T11:41:36.902511+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105609+00:00"
   },
   {
     "id": "20003798310",
@@ -9317,7 +9380,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T11:41:36.902522+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105622+00:00"
   },
   {
     "id": "20003798312",
@@ -9338,7 +9401,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T11:41:36.902532+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105631+00:00"
   },
   {
     "id": "20003798313",
@@ -9359,7 +9422,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T11:41:36.902540+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105635+00:00"
   },
   {
     "id": "20003798314",
@@ -9380,7 +9443,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Active Asset Account # 3",
-    "scraped_at": "2026-05-21T11:41:36.902545+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105639+00:00"
   },
   {
     "id": "20003798252",
@@ -9401,7 +9464,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902577+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105667+00:00"
   },
   {
     "id": "20003798253",
@@ -9422,7 +9485,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902580+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105671+00:00"
   },
   {
     "id": "20003798254",
@@ -9443,7 +9506,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902586+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105677+00:00"
   },
   {
     "id": "20003798256",
@@ -9464,7 +9527,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902596+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105685+00:00"
   },
   {
     "id": "20003798259",
@@ -9485,7 +9548,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902608+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105695+00:00"
   },
   {
     "id": "20003798284",
@@ -9929,6 +9992,27 @@
     "scraped_at": "2026-05-01T14:13:21.187567+00:00"
   },
   {
+    "id": "20003798320",
+    "politician_name": "George Kelly",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "PA",
+    "company": "COLORADO HEALTH FACILITIES AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-04-08",
+    "trade_published": "2026-05-21",
+    "filed_after_days": "42",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Victoria Kelly Trust ICA",
+    "scraped_at": "2026-05-21T14:23:01.105011+00:00"
+  },
+  {
     "id": "10000065000",
     "politician_name": "Richard Blumenthal",
     "party": "Democrat",
@@ -9947,7 +10031,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902173+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105129+00:00"
   },
   {
     "id": "10000065005",
@@ -9968,7 +10052,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902227+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105191+00:00"
   },
   {
     "id": "10000065015",
@@ -9989,7 +10073,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902286+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105275+00:00"
   },
   {
     "id": "10000065027",
@@ -10010,7 +10094,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902346+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105412+00:00"
   },
   {
     "id": "10000065031",
@@ -10031,7 +10115,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902363+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105446+00:00"
   },
   {
     "id": "20003798219",
@@ -10661,7 +10745,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902262+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105233+00:00"
   },
   {
     "id": "10000065014",
@@ -10682,7 +10766,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902282+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105268+00:00"
   },
   {
     "id": "20003798269",
@@ -10703,7 +10787,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902652+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105739+00:00"
   },
   {
     "id": "20003797680",
@@ -11123,7 +11207,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T11:41:36.902439+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105532+00:00"
   },
   {
     "id": "20003798297",
@@ -11144,7 +11228,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T11:41:36.902453+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105545+00:00"
   },
   {
     "id": "20003798309",
@@ -11165,7 +11249,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-05-21T11:41:36.902515+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105615+00:00"
   },
   {
     "id": "20003798260",
@@ -11186,7 +11270,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902613+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105701+00:00"
   },
   {
     "id": "20003798283",
@@ -11480,7 +11564,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902560+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105649+00:00"
   },
   {
     "id": "20003798261",
@@ -11501,7 +11585,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902617+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105706+00:00"
   },
   {
     "id": "20003798270",
@@ -11522,7 +11606,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902656+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105742+00:00"
   },
   {
     "id": "20003798271",
@@ -11543,7 +11627,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-05-21T11:41:36.902660+00:00"
+    "scraped_at": "2026-05-21T14:23:01.105748+00:00"
   },
   {
     "id": "20003798282",
