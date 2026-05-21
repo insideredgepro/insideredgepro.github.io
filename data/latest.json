@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T02:32:39Z",
-  "trade_count": 6930,
+  "last_updated": "2026-05-21T06:43:28Z",
+  "trade_count": 6934,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -110881,6 +110881,70 @@
       "delta_own": "+148%",
       "value": "52390",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-20",
+      "filing_time": "19:45",
+      "trade_date": "2026-05-18",
+      "ticker": "WGS",
+      "company": "Genedx Holdings Corp.",
+      "insider_name": "Casdin Capital, LLC",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "42.92",
+      "qty": "500000",
+      "owned": "3880072",
+      "delta_own": "+15%",
+      "value": "21459736",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-20",
+      "filing_time": "19:41",
+      "trade_date": "2026-05-18",
+      "ticker": "EU",
+      "company": "Encore Energy Corp.",
+      "insider_name": "Sheriff William M",
+      "title": "Exec COB",
+      "trade_type": "P - Purchase",
+      "price": "1.46",
+      "qty": "100000",
+      "owned": "1437169",
+      "delta_own": "+7%",
+      "value": "146000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-20",
+      "filing_time": "15:25",
+      "trade_date": "2026-05-18",
+      "ticker": "UTGN",
+      "company": "Utg Inc",
+      "insider_name": "Correll Jesse T",
+      "title": "COB, CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "54.96",
+      "qty": "4850",
+      "owned": "2052904",
+      "delta_own": "0%",
+      "value": "266556",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-20",
+      "filing_time": "15:04",
+      "trade_date": "2026-05-18",
+      "ticker": "UTGN",
+      "company": "Utg Inc",
+      "insider_name": "First Southern Funding LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "54.96",
+      "qty": "4850",
+      "owned": "1693683",
+      "delta_own": "0%",
+      "value": "266556",
+      "cluster_buy": true
     }
   ]
 }
