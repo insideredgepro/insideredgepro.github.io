@@ -6711,7 +6711,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-18,16:42,2026-05-15,TLSI,"Trisalus Life Sciences, Inc.",Stansky Michael P,Dir,P - Purchase,2.50,610000,1640420,+59%,1525000,True
 2026-05-18,16:42,2026-05-15,TLSI,"Trisalus Life Sciences, Inc.",Szela Mary T,"CEO, Pres",P - Purchase,2.59,39682,1065215,+4%,102776,True
 2026-05-18,16:36,2026-05-15,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,20.94,100528,13304251,+1%,2104922,False
-2026-05-18,16:33,2026-05-15,AMRZ,Amrize Ltd,Jenisch Jan Philipp,"COB, CEO",P - Purchase,49.53,28417,2236999,+1%,1407571,False
+2026-05-18,16:33,2026-05-15,AMRZ,Amrize Ltd,Jenisch Jan Philipp,"COB, CEO",P - Purchase,49.53,28417,2236999,+1%,1407571,True
 2026-05-18,16:29,2026-05-14,ADT,Adt Inc.,Miller Kimberly,"EVP, CMO, Comm. Officer",P - Purchase,6.91,3625,55984,+7%,25049,True
 2026-05-18,16:28,2026-05-15,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,23.48,3400,55000,+7%,79823,False
 2026-05-18,16:27,2026-05-15,CHTR,"Charter Communications, Inc. /Mo/",Ramos Mauricio,Dir,P - Purchase,140.93,9929,19309,+106%,1399308,False
@@ -6821,7 +6821,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-20,12:25,2026-05-19,TOI,"Oncology Institute, Inc.",Chernett Jorey,10%,P - Purchase,4.09,30000,10529358,0%,122700,False
 2026-05-20,11:17,2026-05-19,AP,Ampco Pittsburgh Corp,McBrayer Brett,CEO,P - Purchase,9.03,3300,557694,+1%,29792,False
 2026-05-20,10:39,2026-05-18,FOSL,"Fossil Group, Inc.",Schoppert Wendy Lee,Dir,P - Purchase,4.14,24331,120625,+25%,100730,False
-2026-05-20,10:26,2026-05-19,AMRZ,Amrize Ltd,Jenisch Jan Philipp,"COB, CEO",P - Purchase,49.39,19001,2256000,+1%,938451,False
+2026-05-20,10:26,2026-05-19,AMRZ,Amrize Ltd,Jenisch Jan Philipp,"COB, CEO",P - Purchase,49.39,19001,2256000,+1%,938451,True
 2026-05-20,15:09,2026-05-19,CCAP,"Crescent Capital BDC, Inc.",Strandberg Steven F.,Director,P - Purchase,11.28,85000,201135,+73%,958486,False
 2026-05-20,14:54,2026-05-20,GWRS,"Global Water Resources, Inc.",Krygier Christopher D,Chief Operating Officer,P - Purchase,6.87,5389,10485,+106%,37000,False
 2026-05-20,14:37,2026-05-19,MTEX,"Mannatech, Incorporated",Robbins Kevin Andrew,Director,P - Purchase,4.17,7100,33333,+27%,29607,False
@@ -6829,8 +6829,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-20,12:41,2026-05-19,MERC,Mercer International Inc.,Kellogg Peter R,10% Owner,P - Purchase,0.97,105000,1957000,+6%,102344,False
 2026-05-20,12:41,2026-05-18,MERC,Mercer International Inc.,Kellogg Peter R,10% Owner,P - Purchase,0.96,380000,1852000,+26%,366510,False
 2026-05-20,12:41,2026-05-15,MERC,Mercer International Inc.,Kellogg Peter R,10% Owner,P - Purchase,0.95,215000,1472000,+17%,203584,False
-2026-05-20,10:26,2026-05-19,AMRZ,Amrize Ltd,Jenisch Jan Philipp,Chairman & CEO,P - Purchase,49.96,3000,515000,+1%,149880,False
-2026-05-20,10:26,2026-05-19,AMRZ,Amrize Ltd,Jenisch Jan Philipp,Chairman & CEO,P - Purchase,49.28,16001,1741000,+1%,788571,False
+2026-05-20,10:26,2026-05-19,AMRZ,Amrize Ltd,Jenisch Jan Philipp,Chairman & CEO,P - Purchase,49.96,3000,515000,+1%,149880,True
+2026-05-20,10:26,2026-05-19,AMRZ,Amrize Ltd,Jenisch Jan Philipp,Chairman & CEO,P - Purchase,49.28,16001,1741000,+1%,788571,True
 2026-05-20,09:09,2026-05-19,SMWB,Similarweb Ltd.,Offer Or,Chief Executive Officer,P - Purchase,3.58,53000,4694396,+1%,189650,True
 2026-05-19,21:33,2026-05-18,MKTW,"Marketwise, Inc.",Stansberry Frank Porter,Director,P - Purchase,16.50,3623,335390,+1%,59776,False
 2026-05-19,20:42,2026-05-19,AWR,American States Water Co,Holloway Anne M,Director,P - Purchase,75.92,527,40080,+1%,40000,False
@@ -6894,7 +6894,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-20,17:05,2026-05-18,TEAD,Teads Holding Co.,Spilman Mary,Chief Commercial Officer,P - Purchase,0.99,105000,1505000,+8%,103950,False
 2026-05-20,16:58,2026-05-19,HRTG,"Heritage Insurance Holdings, Inc.",Whiting Paul L,Director,P - Purchase,23.56,16000,103126,+18%,376950,False
 2026-05-20,16:55,2026-05-18,VITL,"Vital Farms, Inc.",Flanagan Glenda J,Director,P - Purchase,8.33,6100,37498,+19%,50813,True
-2026-05-20,16:54,2026-05-19,SWIM,"Latham Group, Inc.",Cline James E,Director,P - Purchase,4.84,50000,100000,+100%,242000,False
+2026-05-20,16:54,2026-05-19,SWIM,"Latham Group, Inc.",Cline James E,Director,P - Purchase,4.84,50000,100000,+100%,242000,True
 2026-05-20,16:51,2026-05-18,ONMD,Onemednet Corp,Kosasa Thomas,Director,P - Purchase,0.93,268817,16930144,+2%,250000,False
 2026-05-20,16:48,2026-05-19,LMFA,"LM Funding America, Inc.",Russell Richard D.,Chief Financial Officer,P - Purchase,0.22,131600,244147,+117%,29215,False
 2026-05-20,16:37,2026-05-20,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10% Owner,P - Purchase,17.43,8500,14039109,+0%,148143,False
@@ -6944,3 +6944,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-20,21:10,2026-05-18,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,73.50,3436,5716452,0%,252536,False
 2026-05-21,09:46,2026-05-20,TISI,Team Inc,Hill Gary L.,CEO,P - Purchase,16.22,5800,45437,+15%,94076,False
 2026-05-21,09:35,2026-05-19,TOI,"Oncology Institute, Inc.",Chernett Jorey,10%,P - Purchase,4.07,38500,10567858,0%,156595,False
+2026-05-21,12:31,2026-05-19,AMRZ,Amrize Ltd,Gross Mario,Chief Supply Chain Officer,P - Purchase,49.01,4000,34747,+13%,196032,True
+2026-05-21,12:24,2026-05-20,SWIM,"Latham Group, Inc.",Gloe Oliver C.,CFO,P - Purchase,4.90,15050,540758,+3%,73745,True
+2026-05-21,12:18,2026-05-19,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,"Dir, 10%",P - Purchase,9.56,31800,11959449,0%,304114,False
+2026-05-21,11:31,2026-05-13,HDSN,Hudson Technologies Inc /Ny,Parrillo Richard,Dir,P - Purchase,4.83,10000,195746,+5%,48257,True
+2026-05-21,11:11,2026-05-20,ROCK,"Gibraltar Industries, Inc.",Lovechio Joseph A,"VP, CFO",P - Purchase,34.62,1000,13390,+8%,34615,False

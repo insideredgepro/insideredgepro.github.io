@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T13:56:26Z",
-  "trade_count": 6939,
+  "last_updated": "2026-05-21T16:35:56Z",
+  "trade_count": 6944,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -107312,7 +107312,7 @@
       "owned": "2236999",
       "delta_own": "+1%",
       "value": "1407571",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-18",
@@ -109072,7 +109072,7 @@
       "owned": "2256000",
       "delta_own": "+1%",
       "value": "938451",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-20",
@@ -109200,7 +109200,7 @@
       "owned": "515000",
       "delta_own": "+1%",
       "value": "149880",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-20",
@@ -109216,7 +109216,7 @@
       "owned": "1741000",
       "delta_own": "+1%",
       "value": "788571",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-20",
@@ -110240,7 +110240,7 @@
       "owned": "100000",
       "delta_own": "+100%",
       "value": "242000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-20",
@@ -111024,6 +111024,86 @@
       "owned": "10567858",
       "delta_own": "0%",
       "value": "156595",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-21",
+      "filing_time": "12:31",
+      "trade_date": "2026-05-19",
+      "ticker": "AMRZ",
+      "company": "Amrize Ltd",
+      "insider_name": "Gross Mario",
+      "title": "Chief Supply Chain Officer",
+      "trade_type": "P - Purchase",
+      "price": "49.01",
+      "qty": "4000",
+      "owned": "34747",
+      "delta_own": "+13%",
+      "value": "196032",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-21",
+      "filing_time": "12:24",
+      "trade_date": "2026-05-20",
+      "ticker": "SWIM",
+      "company": "Latham Group, Inc.",
+      "insider_name": "Gloe Oliver C.",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "4.90",
+      "qty": "15050",
+      "owned": "540758",
+      "delta_own": "+3%",
+      "value": "73745",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-21",
+      "filing_time": "12:18",
+      "trade_date": "2026-05-19",
+      "ticker": "LEE",
+      "company": "Lee Enterprises, Inc",
+      "insider_name": "Hoffmann David Henry",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "9.56",
+      "qty": "31800",
+      "owned": "11959449",
+      "delta_own": "0%",
+      "value": "304114",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-21",
+      "filing_time": "11:31",
+      "trade_date": "2026-05-13",
+      "ticker": "HDSN",
+      "company": "Hudson Technologies Inc /Ny",
+      "insider_name": "Parrillo Richard",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.83",
+      "qty": "10000",
+      "owned": "195746",
+      "delta_own": "+5%",
+      "value": "48257",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-21",
+      "filing_time": "11:11",
+      "trade_date": "2026-05-20",
+      "ticker": "ROCK",
+      "company": "Gibraltar Industries, Inc.",
+      "insider_name": "Lovechio Joseph A",
+      "title": "VP, CFO",
+      "trade_type": "P - Purchase",
+      "price": "34.62",
+      "qty": "1000",
+      "owned": "13390",
+      "delta_own": "+8%",
+      "value": "34615",
       "cluster_buy": false
     }
   ]
