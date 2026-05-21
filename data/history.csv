@@ -6354,7 +6354,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-06,19:16,2026-05-04,COAG,"Hemab Therapeutics Holdings, Inc.","Ra Capital Management, L.P.","Dir, 10%",P - Purchase,18.39,2840429,6314525,+82%,52222946,False
 2026-05-06,19:04,2026-05-06,BRK.B,Berkshire Hathaway Inc,O'Sullivan Michael J.,See Remarks,P - Purchase,467.44,536,663,+422%,250545,False
 2026-05-06,21:38,2026-05-04,CXDO,"Crexendo, Inc.",Gaylor Douglas Walter,COO,P - Purchase,8.15,10000,231413,+5%,81541,False
-2026-05-06,21:32,2026-05-04,RLYB,Rallybio Corp,"Adar1 Capital Management, LLC",10%,P - Purchase,13.97,155905,779784,+25%,2178668,False
+2026-05-06,21:32,2026-05-04,RLYB,Rallybio Corp,"Adar1 Capital Management, LLC",10%,P - Purchase,13.97,155905,779784,+25%,2178668,True
 2026-05-06,21:32,2026-04-28,TLX,Telix Pharmaceuticals Ltd,Behrenbruch Christian,"MD, Group CEO",P - Purchase,14.67,67935,20742935,0%,996738,False
 2026-05-06,21:10,2026-05-04,ALKT,"Alkami Technology, Inc.","General Atlantic Genpar (Bermuda), L.P.","Dir, 10%",P - Purchase,16.77,2066543,33347216,+7%,34664924,True
 2026-05-06,21:08,2026-05-04,ALKT,"Alkami Technology, Inc.","General Atlantic, L.P.","Dir, 10%",P - Purchase,16.77,2066543,33347216,+7%,34664924,True
@@ -6440,7 +6440,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-11,21:36,2026-05-11,MOBI,"Mobia Medical, Inc.",Leavitt Chase C.,See Remarks,P - Purchase,15.00,3000,3000,New,45000,True
 2026-05-11,21:36,2026-05-11,MOBI,"Mobia Medical, Inc.",Mead Dana G Jr.,Dir,P - Purchase,15.00,7000,7000,New,105000,True
 2026-05-11,21:30,2026-05-08,NTRP,"Nexttrip, Inc.",Kaplan Andrew Jay,Dir,P - Purchase,2.75,18182,87832,+26%,50001,False
-2026-05-11,21:21,2026-05-07,WGS,Genedx Holdings Corp.,Meister Keith A.,"Dir, 10%",P - Purchase,38.84,1205147,4786570,+34%,46806729,False
+2026-05-11,21:21,2026-05-07,WGS,Genedx Holdings Corp.,Meister Keith A.,"Dir, 10%",P - Purchase,38.84,1205147,4786570,+34%,46806729,True
 2026-05-11,21:14,2026-05-11,DXC,Dxc Technology Co,Fernandez Raul J,"Pres, CEO",P - Purchase,8.90,28051,844052,+3%,249512,False
 2026-05-11,21:11,2026-05-11,ODTX,"Odyssey Therapeutics, Inc.","Sr One Capital Management, LLC",10%,P - Purchase,18.00,555555,3794883,+17%,9999990,True
 2026-05-11,20:38,2026-05-11,XRN,Chiron Real Estate Inc.,Crowley Paula,Dir,P - Purchase,34.00,1000,1000,New,34000,True
@@ -6574,7 +6574,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-13,19:05,2026-05-12,XRN,Chiron Real Estate Inc.,Wittman Lori,Dir,P - Purchase,33.85,2940,2940,New,99515,True
 2026-05-13,19:03,2026-05-12,XRN,Chiron Real Estate Inc.,Marston Ronald,Dir,P - Purchase,34.07,1500,3066,+96%,51110,True
 2026-05-13,19:02,2026-05-12,XRN,Chiron Real Estate Inc.,Barber Jamie Allen,"GC, Secretary",P - Purchase,33.50,1481,1481,New,49614,True
-2026-05-13,21:22,2026-05-11,RLYB,Rallybio Corp,"Adar1 Capital Management, LLC",10%,P - Purchase,14.00,50800,830584,+7%,711055,False
+2026-05-13,21:22,2026-05-11,RLYB,Rallybio Corp,"Adar1 Capital Management, LLC",10%,P - Purchase,14.00,50800,830584,+7%,711055,True
 2026-05-13,20:55,2026-05-11,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10%,P - Purchase,201.40,499150,110315982,0%,100528322,False
 2026-05-13,20:19,2026-05-11,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.","Dir, 10%",P - Purchase,1.43,1951635,12930508,+18%,2789590,False
 2026-05-14,07:29,2026-05-13,FCN,"Fti Consulting, Inc",Linton Paul Alderman,"Chief Strategy, Transf. Office",P - Purchase,144.04,2400,92824,+3%,345696,True
@@ -6675,9 +6675,9 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-15,19:25,2026-05-13,GPGI,"Gpgi, Inc.",Schoen Kurt,See remarks,P - Purchase,12.58,4000,586317,+1%,50320,True
 2026-05-15,19:25,2026-05-11,PLSE,"Pulse Biosciences, Inc.",Duggan Robert W,"Dir, 10%",P - Purchase,19.69,660233,49450345,+1%,12999988,True
 2026-05-15,19:10,2026-05-12,MERC,Mercer International Inc.,Kellogg Peter R,10%,P - Purchase,0.87,300000,24680929,+1%,262398,False
-2026-05-15,19:07,2026-05-13,WGS,Genedx Holdings Corp.,Meister Keith A.,"Dir, 10%",P - Purchase,39.19,351273,5137843,+7%,13765345,False
+2026-05-15,19:07,2026-05-13,WGS,Genedx Holdings Corp.,Meister Keith A.,"Dir, 10%",P - Purchase,39.19,351273,5137843,+7%,13765345,True
 2026-05-15,21:10,2026-05-13,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,71.73,3475,5713016,0%,249273,False
-2026-05-15,20:49,2026-05-13,RLYB,Rallybio Corp,"Adar1 Capital Management, LLC",10%,P - Purchase,13.99,79559,910143,+10%,1112977,False
+2026-05-15,20:49,2026-05-13,RLYB,Rallybio Corp,"Adar1 Capital Management, LLC",10%,P - Purchase,13.99,79559,910143,+10%,1112977,True
 2026-05-15,20:49,2026-05-12,AMR,"Alpha Metallurgical Resources, Inc.",Courtis Kenneth S.,Dir,P - Purchase,189.22,15000,975394,+2%,2838325,False
 2026-05-15,20:08,2026-05-14,KBR,"Kbr, Inc.",Von Thaer Lewis,Dir,P - Purchase,30.77,3000,10358,+41%,92310,True
 2026-05-15,20:07,2026-05-14,RHLD,"Resolute Holdings Management, Inc.",Mikkilineni Krishna,Dir,P - Purchase,108.52,921,1145,+411%,99990,True
@@ -6918,3 +6918,20 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-20,17:54,2026-05-18,WEX,Wex Inc.,Groch James R,Director,P - Purchase,142.95,1500,17957,+9%,214425,False
 2026-05-20,17:48,2026-05-20,TXO,"Txo Partners, L.P.",Simpson Bob R,Director,P - Purchase,13.35,90152,7950000,+1%,1203655,True
 2026-05-20,17:48,2026-05-18,TXO,"Txo Partners, L.P.",Simpson Bob R,Director,P - Purchase,13.17,58251,7859848,+1%,767090,True
+2026-05-20,21:29,2026-05-20,FBIN,"Fortune Brands Innovations, Inc.",Garden Edward P,Director,P - Purchase,33.28,5900,3562767,+0%,196352,False
+2026-05-20,21:29,2026-05-19,FBIN,"Fortune Brands Innovations, Inc.",Garden Edward P,Director,P - Purchase,33.40,403000,3556867,+13%,13460200,False
+2026-05-20,21:10,2026-05-20,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,75.48,1113,4727380,+0%,84011,False
+2026-05-20,21:10,2026-05-19,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,73.24,1160,4726267,+0%,84963,False
+2026-05-20,21:10,2026-05-18,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,71.85,1163,4725107,+0%,83562,False
+2026-05-20,21:03,2026-05-20,MP,MP Materials Corp.,Rosenthal Michael Stuart,Chief Operating Officer,P - Purchase,56.62,17000,1333673,+1%,962540,False
+2026-05-20,20:51,2026-05-19,LQDA,Liquidia Corporation,Caligan Partners Lp,Director,P - Purchase,59.98,5300,8138951,+0%,317894,False
+2026-05-20,20:45,2026-05-19,RLYB,Rallybio Corp,"Adar1 Capital Management, Llc",10% Owner,P - Purchase,13.98,10200,926352,+1%,142582,True
+2026-05-20,20:45,2026-05-18,RLYB,Rallybio Corp,"Adar1 Capital Management, Llc",10% Owner,P - Purchase,13.98,6009,916152,+1%,83981,True
+2026-05-20,20:31,2026-05-20,BETR,Better Home & Finance Holding Co,Garg Vishal,Chief Executive Officer,P - Purchase,25.00,15600,102660,+18%,389994,True
+2026-05-20,19:45,2026-05-20,WGS,Genedx Holdings Corp.,"Casdin Capital, Llc",Director,P - Purchase,43.81,140000,3507164,+4%,6132854,True
+2026-05-20,19:45,2026-05-19,WGS,Genedx Holdings Corp.,"Casdin Capital, Llc",Director,P - Purchase,42.60,185000,3367164,+6%,7880334,True
+2026-05-20,19:45,2026-05-18,WGS,Genedx Holdings Corp.,"Casdin Capital, Llc",Director,P - Purchase,42.55,175000,3182164,+6%,7446547,True
+2026-05-20,19:41,2026-05-19,EU,Encore Energy Corp.,Sheriff William M,Executive Chairman,P - Purchase,1.39,25000,1412169,+2%,34750,False
+2026-05-20,19:41,2026-05-18,EU,Encore Energy Corp.,Sheriff William M,Executive Chairman,P - Purchase,1.47,25000,25000,New,36750,False
+2026-05-20,19:41,2026-05-18,EU,Encore Energy Corp.,Sheriff William M,Executive Chairman,P - Purchase,1.49,50000,1387169,+4%,74500,False
+2026-05-20,19:30,2026-05-19,GPUS,"Hyperscale Data, Inc.",Ault Milton C Iii,Executive Chairman,P - Purchase,0.13,397500,666300,+148%,52390,False

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-20",
-  "entry_count": 1200,
+  "entry_count": 1217,
   "entries": [
     {
       "id": "US|BETR|2026-03-23|framework ventures iv l.p.|29.6",
@@ -48605,6 +48605,346 @@
       },
       "latest_price": 13.23,
       "return_pct": 0.46,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|FBIN|2026-05-20|garden edward p|33.28",
+      "market": "US",
+      "ticker": "FBIN",
+      "yf_symbol": "FBIN",
+      "company": "Fortune Brands Innovations, Inc.",
+      "insider_name": "Garden Edward P",
+      "title": "Director",
+      "trade_date": "2026-05-20",
+      "trade_price": 33.28,
+      "value": 196352.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 35.02
+      },
+      "latest_price": 35.02,
+      "return_pct": 5.23,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|FBIN|2026-05-19|garden edward p|33.4",
+      "market": "US",
+      "ticker": "FBIN",
+      "yf_symbol": "FBIN",
+      "company": "Fortune Brands Innovations, Inc.",
+      "insider_name": "Garden Edward P",
+      "title": "Director",
+      "trade_date": "2026-05-19",
+      "trade_price": 33.4,
+      "value": 13460200.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 35.02
+      },
+      "latest_price": 35.02,
+      "return_pct": 4.85,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|NMM|2026-05-20|frangou angeliki|75.48",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_date": "2026-05-20",
+      "trade_price": 75.48,
+      "value": 84011.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 75.23
+      },
+      "latest_price": 75.23,
+      "return_pct": -0.33,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|NMM|2026-05-19|frangou angeliki|73.24",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_date": "2026-05-19",
+      "trade_price": 73.24,
+      "value": 84963.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 75.23
+      },
+      "latest_price": 75.23,
+      "return_pct": 2.72,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|NMM|2026-05-18|frangou angeliki|71.85",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_date": "2026-05-18",
+      "trade_price": 71.85,
+      "value": 83562.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 75.23
+      },
+      "latest_price": 75.23,
+      "return_pct": 4.7,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|MP|2026-05-20|rosenthal michael stuart|56.62",
+      "market": "US",
+      "ticker": "MP",
+      "yf_symbol": "MP",
+      "company": "MP Materials Corp.",
+      "insider_name": "Rosenthal Michael Stuart",
+      "title": "Chief Operating Officer",
+      "trade_date": "2026-05-20",
+      "trade_price": 56.62,
+      "value": 962540.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 56.5
+      },
+      "latest_price": 56.5,
+      "return_pct": -0.21,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|LQDA|2026-05-19|caligan partners lp|59.98",
+      "market": "US",
+      "ticker": "LQDA",
+      "yf_symbol": "LQDA",
+      "company": "Liquidia Corporation",
+      "insider_name": "Caligan Partners Lp",
+      "title": "Director",
+      "trade_date": "2026-05-19",
+      "trade_price": 59.98,
+      "value": 317894.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 61.77
+      },
+      "latest_price": 61.77,
+      "return_pct": 2.98,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|RLYB|2026-05-19|adar1 capital management, llc|13.98",
+      "market": "US",
+      "ticker": "RLYB",
+      "yf_symbol": "RLYB",
+      "company": "Rallybio Corp",
+      "insider_name": "Adar1 Capital Management, Llc",
+      "title": "10% Owner",
+      "trade_date": "2026-05-19",
+      "trade_price": 13.98,
+      "value": 142582.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 14.58
+      },
+      "latest_price": 14.58,
+      "return_pct": 4.29,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|RLYB|2026-05-18|adar1 capital management, llc|13.98",
+      "market": "US",
+      "ticker": "RLYB",
+      "yf_symbol": "RLYB",
+      "company": "Rallybio Corp",
+      "insider_name": "Adar1 Capital Management, Llc",
+      "title": "10% Owner",
+      "trade_date": "2026-05-18",
+      "trade_price": 13.98,
+      "value": 83981.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 14.58
+      },
+      "latest_price": 14.58,
+      "return_pct": 4.29,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|BETR|2026-05-20|garg vishal|25.0",
+      "market": "US",
+      "ticker": "BETR",
+      "yf_symbol": "BETR",
+      "company": "Better Home & Finance Holding Co",
+      "insider_name": "Garg Vishal",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-05-20",
+      "trade_price": 25.0,
+      "value": 389994.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 24.34
+      },
+      "latest_price": 24.34,
+      "return_pct": -2.64,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|WGS|2026-05-20|casdin capital, llc|43.81",
+      "market": "US",
+      "ticker": "WGS",
+      "yf_symbol": "WGS",
+      "company": "Genedx Holdings Corp.",
+      "insider_name": "Casdin Capital, Llc",
+      "title": "Director",
+      "trade_date": "2026-05-20",
+      "trade_price": 43.81,
+      "value": 6132854.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 44.73
+      },
+      "latest_price": 44.73,
+      "return_pct": 2.1,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|WGS|2026-05-19|casdin capital, llc|42.6",
+      "market": "US",
+      "ticker": "WGS",
+      "yf_symbol": "WGS",
+      "company": "Genedx Holdings Corp.",
+      "insider_name": "Casdin Capital, Llc",
+      "title": "Director",
+      "trade_date": "2026-05-19",
+      "trade_price": 42.6,
+      "value": 7880334.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 44.73
+      },
+      "latest_price": 44.73,
+      "return_pct": 5.0,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|WGS|2026-05-18|casdin capital, llc|42.55",
+      "market": "US",
+      "ticker": "WGS",
+      "yf_symbol": "WGS",
+      "company": "Genedx Holdings Corp.",
+      "insider_name": "Casdin Capital, Llc",
+      "title": "Director",
+      "trade_date": "2026-05-18",
+      "trade_price": 42.55,
+      "value": 7446547.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 44.73
+      },
+      "latest_price": 44.73,
+      "return_pct": 5.12,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|EU|2026-05-19|sheriff william m|1.39",
+      "market": "US",
+      "ticker": "EU",
+      "yf_symbol": "EU",
+      "company": "Encore Energy Corp.",
+      "insider_name": "Sheriff William M",
+      "title": "Executive Chairman",
+      "trade_date": "2026-05-19",
+      "trade_price": 1.39,
+      "value": 34750.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 1.41
+      },
+      "latest_price": 1.41,
+      "return_pct": 1.44,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|EU|2026-05-18|sheriff william m|1.47",
+      "market": "US",
+      "ticker": "EU",
+      "yf_symbol": "EU",
+      "company": "Encore Energy Corp.",
+      "insider_name": "Sheriff William M",
+      "title": "Executive Chairman",
+      "trade_date": "2026-05-18",
+      "trade_price": 1.47,
+      "value": 36750.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 1.41
+      },
+      "latest_price": 1.41,
+      "return_pct": -4.08,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|EU|2026-05-18|sheriff william m|1.49",
+      "market": "US",
+      "ticker": "EU",
+      "yf_symbol": "EU",
+      "company": "Encore Energy Corp.",
+      "insider_name": "Sheriff William M",
+      "title": "Executive Chairman",
+      "trade_date": "2026-05-18",
+      "trade_price": 1.49,
+      "value": 74500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 1.41
+      },
+      "latest_price": 1.41,
+      "return_pct": -5.37,
+      "last_snapshot": "2026-05-20"
+    },
+    {
+      "id": "US|GPUS|2026-05-19|ault milton c iii|0.13",
+      "market": "US",
+      "ticker": "GPUS",
+      "yf_symbol": "GPUS",
+      "company": "Hyperscale Data, Inc.",
+      "insider_name": "Ault Milton C Iii",
+      "title": "Executive Chairman",
+      "trade_date": "2026-05-19",
+      "trade_price": 0.13,
+      "value": 52390.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-20": 0.1449
+      },
+      "latest_price": 0.1449,
+      "return_pct": 11.46,
       "last_snapshot": "2026-05-20"
     }
   ]
