@@ -6479,7 +6479,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-12,16:03,2026-05-08,GLND,Greenland Energy Co,Furlan Melanie Sue,Dir,P - Purchase,3.02,33330,48104,+226%,100657,True
 2026-05-12,16:02,2026-05-08,APTV,Aptiv Plc,Agnevall Hakan,Dir,P - Purchase,57.73,6100,13697,+80%,352153,False
 2026-05-12,16:00,2026-04-06,IOR,Income Opportunity Realty Investors Inc /Tx/,Transcontinental Realty Investors Inc,10%,P - Purchase,17.94,1649,3440529,0%,29583,False
-2026-05-12,14:51,2026-05-12,DMLP,"Dorchester Minerals, L.P.",Ehrman Bradley J,CEO,P - Purchase,26.78,4000,157915,+3%,107120,False
+2026-05-12,14:51,2026-05-12,DMLP,"Dorchester Minerals, L.P.",Ehrman Bradley J,CEO,P - Purchase,26.78,4000,157915,+3%,107120,True
 2026-05-12,18:03,2026-05-11,PTLO,Portillo'S Inc.,Lee Eugene I Jr,Dir,P - Purchase,4.28,70165,559894,+14%,300306,False
 2026-05-12,17:44,2026-05-11,XRN,Chiron Real Estate Inc.,Kiernan Robert J,"CFO, Treasurer",P - Purchase,33.49,3000,6000,+100%,100470,True
 2026-05-12,17:43,2026-05-12,XRN,Chiron Real Estate Inc.,Holley Danica,COO,P - Purchase,33.99,1490,1590,>999%,50645,True
@@ -7000,3 +7000,16 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-22,10:55,2026-05-20,SKYH,Sky Harbour Group Corp,Gessow Andrew J,Dir,P - Purchase,8.95,5000,17910,+39%,44750,False
 2026-05-22,13:45,2026-05-20,SPB,"Spectrum Brands Holdings, Inc.",Maura David M,"Exec COB, CEO",P - Purchase,72.85,2500,790708,0%,182125,False
 2026-05-22,13:23,2026-05-21,ROCK,"Gibraltar Industries, Inc.",Bolanowski Katherine,"GC, VP, Secretary",P - Purchase,35.63,1400,17389,+9%,49886,True
+2026-05-22,16:23,2026-05-20,ANDG,Andersen Group Inc.,Gunderson Robert V Jr,Dir,P - Purchase,35.82,2367,15000,+19%,84786,False
+2026-05-22,16:20,2026-05-20,ABG,Asbury Automotive Group Inc,Disantis B. Christopher,Dir,P - Purchase,182.31,157,6400,+3%,28623,False
+2026-05-22,16:16,2026-05-22,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,22.67,10000,13393106,0%,226700,False
+2026-05-22,16:15,2026-05-21,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,12.82,2000,1666013,0%,25640,False
+2026-05-22,16:10,2026-05-20,DMLP,"Dorchester Minerals, L.P.",Dorchester Minerals Operating LP,Entity Under Common Control,P - Purchase,28.30,7500,62517,+14%,212280,True
+2026-05-22,16:10,2026-05-20,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10%,P - Purchase,16.40,124989,7150204,+2%,2049539,False
+2026-05-22,16:10,2026-05-20,BA,Boeing Co,Tilden Bradley D,Dir,P - Purchase,218.50,1370,1550,+761%,299345,False
+2026-05-22,16:10,2025-10-31,APCX,Apptech Payments Corp.,Lord Albert L,Dir,P - Purchase,1.00,1000000,1000000,New,1000000,False
+2026-05-22,16:10,2026-05-20,DYN,"Dyne Therapeutics, Inc.",Posner Brian S,Dir,P - Purchase,17.12,2500,18000,+16%,42800,False
+2026-05-22,16:06,2026-05-22,CVBF,Cvb Financial Corp,Borba George A Jr,Dir,P - Purchase,20.45,48894,7830941,+1%,999985,False
+2026-05-22,16:05,2026-05-20,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,5.77,24376,2620369,+1%,140545,False
+2026-05-22,16:05,2026-03-25,TKLF,"Tokyo Lifestyle Co., Ltd.",Kanayama Mei,"Representative Dir (PEO), 10%",P - Purchase,2.24,24760,20953756,0%,55443,False
+2026-05-22,16:05,2026-05-20,SLGL,Sol-Gel Technologies Ltd.,Opaleye Management Inc.,10%,P - Purchase,64.43,1563,505000,0%,100712,False
