@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-22",
-  "entry_count": 424,
+  "entry_count": 426,
   "entries": [
     {
       "id": "CA|PEY|2026-03-23|frame, riley millar|27.6",
@@ -10795,6 +10795,46 @@
       },
       "latest_price": 26.9,
       "return_pct": -0.22,
+      "last_snapshot": "2026-05-22"
+    },
+    {
+      "id": "CA|AIF|2026-05-22|brennan, william|43.0945",
+      "market": "CA",
+      "ticker": "AIF",
+      "yf_symbol": "AIF.TO",
+      "company": "Altus Group Limited",
+      "insider_name": "Brennan, William",
+      "title": "Director",
+      "trade_date": "2026-05-22",
+      "trade_price": 43.0945,
+      "value": 1099944.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-22": 43.13
+      },
+      "latest_price": 43.13,
+      "return_pct": 0.08,
+      "last_snapshot": "2026-05-22"
+    },
+    {
+      "id": "CA|MTA|2026-05-22|tether international, s.a. de c.v.|6.7558",
+      "market": "CA",
+      "ticker": "MTA",
+      "yf_symbol": "MTA.V",
+      "company": "Metalla Royalty and Streaming Ltd.",
+      "insider_name": "Tether International, S.A. de C.V.",
+      "title": "10% Holder",
+      "trade_date": "2026-05-22",
+      "trade_price": 6.7558,
+      "value": 299329.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-22": 9.37
+      },
+      "latest_price": 9.37,
+      "return_pct": 38.7,
       "last_snapshot": "2026-05-22"
     }
   ]

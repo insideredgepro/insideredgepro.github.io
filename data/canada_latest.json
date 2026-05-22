@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T21:00:18Z",
-  "trade_count": 3133,
+  "last_updated": "2026-05-22T23:00:19Z",
+  "trade_count": 3135,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -47677,6 +47677,38 @@
       "qty": "4200",
       "price": "26.9595",
       "value": "113229",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4722891",
+      "trade_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "company": "Altus Group Limited",
+      "ticker": "AIF",
+      "insider_name": "Brennan, William",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "25524",
+      "price": "43.0945",
+      "value": "1099944",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4722960",
+      "trade_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "company": "Metalla Royalty and Streaming Ltd.",
+      "ticker": "MTA",
+      "insider_name": "Tether International, S.A. de C.V.",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "44307",
+      "price": "6.7558",
+      "value": "299329",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
