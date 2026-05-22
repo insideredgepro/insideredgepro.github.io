@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T06:41:04Z",
-  "trade_count": 6987,
+  "last_updated": "2026-05-22T10:17:57Z",
+  "trade_count": 6988,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -111792,6 +111792,22 @@
       "owned": "118260",
       "delta_own": "+15%",
       "value": "388328",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-22",
+      "filing_time": "06:13",
+      "trade_date": "2026-05-21",
+      "ticker": "SMWB",
+      "company": "Similarweb Ltd.",
+      "insider_name": "Eilam Barak",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.86",
+      "qty": "50000",
+      "owned": "101315",
+      "delta_own": "+97%",
+      "value": "193000",
       "cluster_buy": true
     }
   ]

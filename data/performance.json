@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-22",
-  "entry_count": 1267,
+  "entry_count": 1268,
   "entries": [
     {
       "id": "US|BETR|2026-03-23|framework ventures iv l.p.|29.6",
@@ -52302,6 +52302,26 @@
       },
       "latest_price": 25.03,
       "return_pct": 0.56,
+      "last_snapshot": "2026-05-22"
+    },
+    {
+      "id": "US|SMWB|2026-05-21|eilam barak|3.86",
+      "market": "US",
+      "ticker": "SMWB",
+      "yf_symbol": "SMWB",
+      "company": "Similarweb Ltd.",
+      "insider_name": "Eilam Barak",
+      "title": "Dir",
+      "trade_date": "2026-05-21",
+      "trade_price": 3.86,
+      "value": 193000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-22": 3.78
+      },
+      "latest_price": 3.78,
+      "return_pct": -2.07,
       "last_snapshot": "2026-05-22"
     }
   ]
