@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T19:00:21Z",
-  "trade_count": 3130,
+  "last_updated": "2026-05-22T21:00:18Z",
+  "trade_count": 3133,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -47632,6 +47632,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4722804",
+      "trade_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "company": "Avicanna Inc.",
+      "ticker": "AVCN",
+      "insider_name": "Michael Kott",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "162000",
+      "price": "0.1300",
+      "value": "21060",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4722811",
+      "trade_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "company": "RFA Financial Inc.",
+      "ticker": "RFA",
+      "insider_name": "Manji, Salim",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "4200",
+      "price": "26.9595",
+      "value": "113229",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4722806",
+      "trade_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "company": "RFA Financial Inc.",
+      "ticker": "RFA",
+      "insider_name": "Manji, Samir Aziz",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "4200",
+      "price": "26.9595",
+      "value": "113229",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
