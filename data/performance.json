@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-22",
-  "entry_count": 1294,
+  "entry_count": 1300,
   "entries": [
     {
       "id": "US|BETR|2026-03-23|framework ventures iv l.p.|29.6",
@@ -52842,6 +52842,126 @@
       },
       "latest_price": 1.71,
       "return_pct": 4.91,
+      "last_snapshot": "2026-05-22"
+    },
+    {
+      "id": "US|RHEP|2026-05-20|morrison brent|1.79",
+      "market": "US",
+      "ticker": "RHEP",
+      "yf_symbol": "RHEP",
+      "company": "Regional Health Properties, Inc",
+      "insider_name": "Morrison Brent",
+      "title": "CEO, Pres",
+      "trade_date": "2026-05-20",
+      "trade_price": 1.79,
+      "value": 30470.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-22": 1.33
+      },
+      "latest_price": 1.33,
+      "return_pct": -25.7,
+      "last_snapshot": "2026-05-22"
+    },
+    {
+      "id": "US|TWFG|2026-05-20|doak michael|18.65",
+      "market": "US",
+      "ticker": "TWFG",
+      "yf_symbol": "TWFG",
+      "company": "Twfg, Inc.",
+      "insider_name": "Doak Michael",
+      "title": "Dir",
+      "trade_date": "2026-05-20",
+      "trade_price": 18.65,
+      "value": 620652.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-22": 18.86
+      },
+      "latest_price": 18.86,
+      "return_pct": 1.13,
+      "last_snapshot": "2026-05-22"
+    },
+    {
+      "id": "US|GWRS|2026-05-20|liebman michael j|6.89",
+      "market": "US",
+      "ticker": "GWRS",
+      "yf_symbol": "GWRS",
+      "company": "Global Water Resources, Inc.",
+      "insider_name": "Liebman Michael J",
+      "title": "CFO, Corporate Secretary",
+      "trade_date": "2026-05-20",
+      "trade_price": 6.89,
+      "value": 48261.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-22": 7.22
+      },
+      "latest_price": 7.22,
+      "return_pct": 4.79,
+      "last_snapshot": "2026-05-22"
+    },
+    {
+      "id": "US|DBD|2026-05-22|timko thomas s|74.36",
+      "market": "US",
+      "ticker": "DBD",
+      "yf_symbol": "DBD",
+      "company": "Diebold Nixdorf, Inc",
+      "insider_name": "Timko Thomas S",
+      "title": "EVP, CFO",
+      "trade_date": "2026-05-22",
+      "trade_price": 74.36,
+      "value": 49970.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-22": 74.3
+      },
+      "latest_price": 74.3,
+      "return_pct": -0.08,
+      "last_snapshot": "2026-05-22"
+    },
+    {
+      "id": "US|DBD|2026-05-22|myers jonathan|73.41",
+      "market": "US",
+      "ticker": "DBD",
+      "yf_symbol": "DBD",
+      "company": "Diebold Nixdorf, Inc",
+      "insider_name": "Myers Jonathan",
+      "title": "EVP, Chief Revenue Officer",
+      "trade_date": "2026-05-22",
+      "trade_price": 73.41,
+      "value": 99838.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-22": 74.3
+      },
+      "latest_price": 74.3,
+      "return_pct": 1.21,
+      "last_snapshot": "2026-05-22"
+    },
+    {
+      "id": "US|PNBK|2026-05-20|de tomasi mario|1.15",
+      "market": "US",
+      "ticker": "PNBK",
+      "yf_symbol": "PNBK",
+      "company": "Patriot National Bancorp Inc",
+      "insider_name": "De Tomasi Mario",
+      "title": "Dir",
+      "trade_date": "2026-05-20",
+      "trade_price": 1.15,
+      "value": 100877.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-22": 1.07
+      },
+      "latest_price": 1.07,
+      "return_pct": -6.96,
       "last_snapshot": "2026-05-22"
     }
   ]

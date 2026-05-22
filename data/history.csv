@@ -6823,7 +6823,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-20,10:39,2026-05-18,FOSL,"Fossil Group, Inc.",Schoppert Wendy Lee,Dir,P - Purchase,4.14,24331,120625,+25%,100730,False
 2026-05-20,10:26,2026-05-19,AMRZ,Amrize Ltd,Jenisch Jan Philipp,"COB, CEO",P - Purchase,49.39,19001,2256000,+1%,938451,True
 2026-05-20,15:09,2026-05-19,CCAP,"Crescent Capital BDC, Inc.",Strandberg Steven F.,Director,P - Purchase,11.28,85000,201135,+73%,958486,False
-2026-05-20,14:54,2026-05-20,GWRS,"Global Water Resources, Inc.",Krygier Christopher D,Chief Operating Officer,P - Purchase,6.87,5389,10485,+106%,37000,False
+2026-05-20,14:54,2026-05-20,GWRS,"Global Water Resources, Inc.",Krygier Christopher D,Chief Operating Officer,P - Purchase,6.87,5389,10485,+106%,37000,True
 2026-05-20,14:37,2026-05-19,MTEX,"Mannatech, Incorporated",Robbins Kevin Andrew,Director,P - Purchase,4.17,7100,33333,+27%,29607,False
 2026-05-20,13:34,2026-05-18,AXIA,Axia Energia S.A.,Batista De Lima Filho Pedro,Director,P - Purchase,11.27,49600,15270200,+0%,559144,False
 2026-05-20,12:41,2026-05-19,MERC,Mercer International Inc.,Kellogg Peter R,10% Owner,P - Purchase,0.97,105000,1957000,+6%,102344,False
@@ -7020,3 +7020,10 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-22,16:57,2026-05-20,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,10.87,18902,818549,+2%,205465,False
 2026-05-22,16:53,2026-05-20,AXR,Amrep Corp.,Dahl James H,10%,P - Purchase,24.50,5000,990154,+1%,122491,False
 2026-05-22,16:30,2026-05-21,SLNH,"Soluna Holdings, Inc",Picchi Michael,CFO,P - Purchase,1.63,100000,1381250,+8%,163200,False
+2026-05-22,18:29,2025-05-20,RAIN,"Rain Enhancement Technologies Holdco, Inc.",Seidl Randy,CEO,P - Purchase,2.37,42514,644834,+7%,100949,False
+2026-05-22,18:16,2026-05-20,RHEP,"Regional Health Properties, Inc",Morrison Brent,"CEO, Pres",P - Purchase,1.79,17000,328071,+5%,30470,False
+2026-05-22,18:06,2026-05-20,TWFG,"Twfg, Inc.",Doak Michael,Dir,P - Purchase,18.65,33283,631635,+6%,620652,False
+2026-05-22,18:05,2026-05-20,GWRS,"Global Water Resources, Inc.",Liebman Michael J,"CFO, Corporate Secretary",P - Purchase,6.89,7000,96065,+8%,48261,True
+2026-05-22,18:04,2026-05-22,DBD,"Diebold Nixdorf, Inc",Timko Thomas S,"EVP, CFO",P - Purchase,74.36,672,75480,+1%,49970,True
+2026-05-22,18:04,2026-05-22,DBD,"Diebold Nixdorf, Inc",Myers Jonathan,"EVP, Chief Revenue Officer",P - Purchase,73.41,1360,45626,+3%,99838,True
+2026-05-22,18:03,2026-05-20,PNBK,Patriot National Bancorp Inc,De Tomasi Mario,Dir,P - Purchase,1.15,87719,102719,+585%,100877,False
