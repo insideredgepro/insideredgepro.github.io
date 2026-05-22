@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-21",
-  "entry_count": 1263,
+  "entry_count": 1269,
   "entries": [
     {
       "id": "US|BETR|2026-03-23|framework ventures iv l.p.|29.6",
@@ -26903,8 +26903,8 @@
         "2026-05-20": 0.072,
         "2026-05-21": 0.088
       },
-      "latest_price": 0.088,
-      "return_pct": 120.0,
+      "latest_price": 0.091,
+      "return_pct": 127.5,
       "last_snapshot": "2026-05-21"
     },
     {
@@ -26947,8 +26947,8 @@
         "2026-05-20": 0.072,
         "2026-05-21": 0.088
       },
-      "latest_price": 0.088,
-      "return_pct": 120.0,
+      "latest_price": 0.091,
+      "return_pct": 127.5,
       "last_snapshot": "2026-05-21"
     },
     {
@@ -26991,8 +26991,8 @@
         "2026-05-20": 0.072,
         "2026-05-21": 0.088
       },
-      "latest_price": 0.088,
-      "return_pct": 120.0,
+      "latest_price": 0.091,
+      "return_pct": 127.5,
       "last_snapshot": "2026-05-21"
     },
     {
@@ -27695,8 +27695,8 @@
         "2026-05-20": 0.072,
         "2026-05-21": 0.088
       },
-      "latest_price": 0.088,
-      "return_pct": 120.0,
+      "latest_price": 0.091,
+      "return_pct": 127.5,
       "last_snapshot": "2026-05-21"
     },
     {
@@ -50211,8 +50211,8 @@
       "snapshots": {
         "2026-05-21": 53.0
       },
-      "latest_price": 53.0,
-      "return_pct": -3.57,
+      "latest_price": 53.82,
+      "return_pct": -2.07,
       "last_snapshot": "2026-05-21"
     },
     {
@@ -50231,8 +50231,8 @@
       "snapshots": {
         "2026-05-21": 53.0
       },
-      "latest_price": 53.0,
-      "return_pct": -3.57,
+      "latest_price": 53.82,
+      "return_pct": -2.07,
       "last_snapshot": "2026-05-21"
     },
     {
@@ -51073,6 +51073,126 @@
       },
       "latest_price": 4.24,
       "return_pct": 1.68,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|LOGC|2026-05-19|bobbili raja|8.74",
+      "market": "US",
+      "ticker": "LOGC",
+      "yf_symbol": "LOGC",
+      "company": "Contextlogic Holdings Inc.",
+      "insider_name": "Bobbili Raja",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-19",
+      "trade_price": 8.74,
+      "value": 1310960.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 8.55
+      },
+      "latest_price": 8.55,
+      "return_pct": -2.17,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|CSAN|2026-04-10|martins marcelo eduardo|5.9",
+      "market": "US",
+      "ticker": "CSAN",
+      "yf_symbol": "CSAN",
+      "company": "Cosan S.A.",
+      "insider_name": "Martins Marcelo Eduardo",
+      "title": "CEO",
+      "trade_date": "2026-04-10",
+      "trade_price": 5.9,
+      "value": 23820132.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 3.47
+      },
+      "latest_price": 3.47,
+      "return_pct": -41.19,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|BLND|2026-05-19|haveli investments, l.p.|1.49",
+      "market": "US",
+      "ticker": "BLND",
+      "yf_symbol": "BLND",
+      "company": "Blend Labs, Inc.",
+      "insider_name": "Haveli Investments, L.P.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-19",
+      "trade_price": 1.49,
+      "value": 1158140.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 1.52
+      },
+      "latest_price": 1.52,
+      "return_pct": 2.01,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|GOLD|2026-05-19|tether global investments fund, s.i.c.a.f., s.a.|40.43",
+      "market": "US",
+      "ticker": "GOLD",
+      "yf_symbol": "GOLD",
+      "company": "Gold.Com, Inc.",
+      "insider_name": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
+      "title": "10%",
+      "trade_date": "2026-05-19",
+      "trade_price": 40.43,
+      "value": 5719102.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 41.78
+      },
+      "latest_price": 41.78,
+      "return_pct": 3.34,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|ANVS|2026-05-20|hoffman michael b|1.87",
+      "market": "US",
+      "ticker": "ANVS",
+      "yf_symbol": "ANVS",
+      "company": "Annovis Bio, Inc.",
+      "insider_name": "Hoffman Michael B",
+      "title": "Dir",
+      "trade_date": "2026-05-20",
+      "trade_price": 1.87,
+      "value": 142779.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 2.15
+      },
+      "latest_price": 2.15,
+      "return_pct": 14.97,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "US|BETR|2026-05-21|garg vishal|24.89",
+      "market": "US",
+      "ticker": "BETR",
+      "yf_symbol": "BETR",
+      "company": "Better Home & Finance Holding Co",
+      "insider_name": "Garg Vishal",
+      "title": "CEO, 10%",
+      "trade_date": "2026-05-21",
+      "trade_price": 24.89,
+      "value": 388328.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-21": 25.03
+      },
+      "latest_price": 25.03,
+      "return_pct": 0.56,
       "last_snapshot": "2026-05-21"
     }
   ]
