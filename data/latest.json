@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T13:24:26Z",
-  "trade_count": 6990,
+  "last_updated": "2026-05-22T16:15:57Z",
+  "trade_count": 6993,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -111840,6 +111840,54 @@
       "owned": "1045315",
       "delta_own": "+82%",
       "value": "63544",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-22",
+      "filing_time": "11:42",
+      "trade_date": "2026-05-20",
+      "ticker": "NBH",
+      "company": "Neuberger Municipal Fund Inc.",
+      "insider_name": "Bank of America Corp /de/",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "10.26",
+      "qty": "3200",
+      "owned": "0",
+      "delta_own": "-100%",
+      "value": "32832",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-22",
+      "filing_time": "11:19",
+      "trade_date": "2026-05-21",
+      "ticker": "BFH",
+      "company": "Bread Financial Holdings, Inc.",
+      "insider_name": "Fawcett John J.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "86.43",
+      "qty": "698",
+      "owned": "11000",
+      "delta_own": "+7%",
+      "value": "60328",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-22",
+      "filing_time": "10:55",
+      "trade_date": "2026-05-20",
+      "ticker": "SKYH",
+      "company": "Sky Harbour Group Corp",
+      "insider_name": "Gessow Andrew J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "8.95",
+      "qty": "5000",
+      "owned": "17910",
+      "delta_own": "+39%",
+      "value": "44750",
       "cluster_buy": false
     }
   ]
