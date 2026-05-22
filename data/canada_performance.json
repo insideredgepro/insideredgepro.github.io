@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-21",
-  "entry_count": 413,
+  "entry_count": 416,
   "entries": [
     {
       "id": "CA|PEY|2026-03-23|frame, riley millar|27.6",
@@ -10160,6 +10160,66 @@
       },
       "latest_price": 2.71,
       "return_pct": -3.9,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "CA|AIF|2026-05-21|brennan, william|42.7526",
+      "market": "CA",
+      "ticker": "AIF",
+      "yf_symbol": "AIF.TO",
+      "company": "Altus Group Limited",
+      "insider_name": "Brennan, William",
+      "title": "Director",
+      "trade_date": "2026-05-21",
+      "trade_price": 42.7526,
+      "value": 200937.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-21": 43.25
+      },
+      "latest_price": 43.25,
+      "return_pct": 1.16,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "CA|HSTR|2026-05-21|grey, robert|2.14",
+      "market": "CA",
+      "ticker": "HSTR",
+      "yf_symbol": "HSTR.V",
+      "company": "Heliostar Metals Ltd.",
+      "insider_name": "Grey, Robert",
+      "title": "Senior Officer",
+      "trade_date": "2026-05-21",
+      "trade_price": 2.14,
+      "value": 21400.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-21": 2.11
+      },
+      "latest_price": 2.11,
+      "return_pct": -1.4,
+      "last_snapshot": "2026-05-21"
+    },
+    {
+      "id": "CA|OZ|2026-05-21|archambeault, louis|0.45",
+      "market": "CA",
+      "ticker": "OZ",
+      "yf_symbol": "OZ.V",
+      "company": "VALKEA RESOURCES CORP.",
+      "insider_name": "Archambeault, Louis",
+      "title": "Director",
+      "trade_date": "2026-05-21",
+      "trade_price": 0.45,
+      "value": 17100.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-21": 0.45
+      },
+      "latest_price": 0.45,
+      "return_pct": 0.0,
       "last_snapshot": "2026-05-21"
     }
   ]
