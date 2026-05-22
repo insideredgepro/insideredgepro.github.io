@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T16:15:57Z",
-  "trade_count": 6993,
+  "last_updated": "2026-05-22T18:29:09Z",
+  "trade_count": 6995,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -111104,7 +111104,7 @@
       "owned": "13390",
       "delta_own": "+8%",
       "value": "34615",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-21",
@@ -111889,6 +111889,38 @@
       "delta_own": "+39%",
       "value": "44750",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-22",
+      "filing_time": "13:45",
+      "trade_date": "2026-05-20",
+      "ticker": "SPB",
+      "company": "Spectrum Brands Holdings, Inc.",
+      "insider_name": "Maura David M",
+      "title": "Exec COB, CEO",
+      "trade_type": "P - Purchase",
+      "price": "72.85",
+      "qty": "2500",
+      "owned": "790708",
+      "delta_own": "0%",
+      "value": "182125",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-22",
+      "filing_time": "13:23",
+      "trade_date": "2026-05-21",
+      "ticker": "ROCK",
+      "company": "Gibraltar Industries, Inc.",
+      "insider_name": "Bolanowski Katherine",
+      "title": "GC, VP, Secretary",
+      "trade_type": "P - Purchase",
+      "price": "35.63",
+      "qty": "1400",
+      "owned": "17389",
+      "delta_own": "+9%",
+      "value": "49886",
+      "cluster_buy": true
     }
   ]
 }
