@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T10:17:57Z",
-  "trade_count": 6988,
+  "last_updated": "2026-05-22T13:24:26Z",
+  "trade_count": 6990,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -111809,6 +111809,38 @@
       "delta_own": "+97%",
       "value": "193000",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-22",
+      "filing_time": "08:01",
+      "trade_date": "2026-05-20",
+      "ticker": "VCIG",
+      "company": "Vci Global Ltd",
+      "insider_name": "Hoo Voon Him",
+      "title": "CEO, Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.75",
+      "qty": "1200000",
+      "owned": "1571398",
+      "delta_own": "+323%",
+      "value": "900000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-22",
+      "filing_time": "08:00",
+      "trade_date": "2026-05-20",
+      "ticker": "AMZE",
+      "company": "Amaze Holdings, Inc.",
+      "insider_name": "Day Aaron",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.14",
+      "qty": "470000",
+      "owned": "1045315",
+      "delta_own": "+82%",
+      "value": "63544",
+      "cluster_buy": false
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-22",
-  "entry_count": 1268,
+  "entry_count": 1270,
   "entries": [
     {
       "id": "US|BETR|2026-03-23|framework ventures iv l.p.|29.6",
@@ -52322,6 +52322,46 @@
       },
       "latest_price": 3.78,
       "return_pct": -2.07,
+      "last_snapshot": "2026-05-22"
+    },
+    {
+      "id": "US|VCIG|2026-05-20|hoo voon him|0.75",
+      "market": "US",
+      "ticker": "VCIG",
+      "yf_symbol": "VCIG",
+      "company": "Vci Global Ltd",
+      "insider_name": "Hoo Voon Him",
+      "title": "CEO, Dir, 10%",
+      "trade_date": "2026-05-20",
+      "trade_price": 0.75,
+      "value": 900000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-22": 0.807
+      },
+      "latest_price": 0.807,
+      "return_pct": 7.6,
+      "last_snapshot": "2026-05-22"
+    },
+    {
+      "id": "US|AMZE|2026-05-20|day aaron|0.14",
+      "market": "US",
+      "ticker": "AMZE",
+      "yf_symbol": "AMZE",
+      "company": "Amaze Holdings, Inc.",
+      "insider_name": "Day Aaron",
+      "title": "CEO",
+      "trade_date": "2026-05-20",
+      "trade_price": 0.14,
+      "value": 63544.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-22": 0.153
+      },
+      "latest_price": 0.153,
+      "return_pct": 9.29,
       "last_snapshot": "2026-05-22"
     }
   ]
