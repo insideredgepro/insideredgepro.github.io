@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T15:00:20Z",
-  "trade_count": 3125,
+  "last_updated": "2026-05-22T17:00:24Z",
+  "trade_count": 3127,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -47549,6 +47549,38 @@
       "qty": "38000",
       "price": "0.4500",
       "value": "17100",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4722515",
+      "trade_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "company": "LaFleur Minerals Inc. formerly, Quebec Pegmatite Holdings Corp.",
+      "ticker": "LFLR",
+      "insider_name": "Coloured Ties Capital Inc.",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "172500",
+      "price": "0.5586",
+      "value": "96358",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4722537",
+      "trade_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "company": "Whitecap Resources Inc.",
+      "ticker": "WCP",
+      "insider_name": "Tweit, Travis Bjarne",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "3000",
+      "price": "16.9200",
+      "value": "50760",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
