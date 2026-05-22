@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T17:00:24Z",
-  "trade_count": 3127,
+  "last_updated": "2026-05-22T19:00:21Z",
+  "trade_count": 3130,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -46575,7 +46575,7 @@
       "value": "35710",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4719687",
@@ -47581,6 +47581,54 @@
       "qty": "3000",
       "price": "16.9200",
       "value": "50760",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4722635",
+      "trade_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "company": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "insider_name": "King, Ryan",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "3000",
+      "price": "16.9580",
+      "value": "50873",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4722633",
+      "trade_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "company": "Gunnison Copper Corp.",
+      "ticker": "GCU",
+      "insider_name": "Hallworth, Craig James",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "65000",
+      "price": "0.4400",
+      "value": "28600",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4722634",
+      "trade_date": "2026-05-22",
+      "filing_date": "2026-05-22",
+      "company": "Gunnison Copper Corp.",
+      "ticker": "GCU",
+      "insider_name": "Hallworth, Craig James",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "85000",
+      "price": "0.4450",
+      "value": "37825",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
