@@ -8,225 +8,148 @@
   <link rel="icon" href="/favicon.ico" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;600;700;800;900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;600;700;800;900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet" />
 
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --bg:       #04080f;
-      --bg2:      #070d1a;
-      --surf:     #0a1220;
-      --surf2:    #0e1a2e;
-      --border:   rgba(255,255,255,.08);
-      --borderS:  rgba(255,255,255,.04);
-      --cyan:     #1abcdb;
-      --cyan10:   rgba(26,188,219,.10);
-      --cyan20:   rgba(26,188,219,.20);
-      --cyan30:   rgba(26,188,219,.30);
-      --green:    #10d98a;
-      --green10:  rgba(16,217,138,.10);
-      --green20:  rgba(16,217,138,.20);
-      --text:     #e2eaf4;
-      --text2:    #7a97b8;
-      --muted:    #3d5470;
+      --bg:      #04080f;
+      --surf:    #0a1220;
+      --surf2:   #0e1a2e;
+      --border:  rgba(255,255,255,.08);
+      --borderS: rgba(255,255,255,.04);
+      --cyan:    #1abcdb;
+      --cyan10:  rgba(26,188,219,.10);
+      --cyan20:  rgba(26,188,219,.20);
+      --cyan30:  rgba(26,188,219,.30);
+      --green:   #10d98a;
+      --green10: rgba(16,217,138,.10);
+      --green20: rgba(16,217,138,.20);
+      --text:    #e2eaf4;
+      --text2:   #7a97b8;
+      --muted:   #3d5470;
       --fh: 'Geist', sans-serif;
       --fb: 'Inter', sans-serif;
       --fm: 'JetBrains Mono', monospace;
       --ease: cubic-bezier(0.16, 1, 0.3, 1);
     }
 
-    html, body { height: 100%; }
-    body {
-      font-family: var(--fb);
+    html, body {
+      height: 100%;
       background: var(--bg);
       color: var(--text);
-      display: flex;
-      min-height: 100vh;
-      overflow-x: hidden;
+      font-family: var(--fb);
     }
 
-    /* ══════════════════════════════════════
-       LEFT PANEL — branded
-    ══════════════════════════════════════ */
-    .left-panel {
+    body {
       position: relative;
-      width: 52%;
-      flex-shrink: 0;
+      overflow: hidden;
       display: flex;
       flex-direction: column;
-      overflow-y: auto;
-      overflow-x: hidden;
-      background: var(--bg2);
-      border-right: 1px solid var(--border);
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 24px;
+      background:
+        radial-gradient(ellipse 70% 55% at 50% 50%, rgba(26,188,219,.08) 0%, transparent 65%),
+        radial-gradient(ellipse 45% 40% at 80% 90%, rgba(16,217,138,.04) 0%, transparent 60%),
+        var(--bg);
     }
 
-    /* Background layers — all z-index 0 */
-    .lp-glow {
-      position: absolute; inset: 0; z-index: 0; pointer-events: none;
-      background:
-        radial-gradient(ellipse 65% 55% at 40% 35%, rgba(26,188,219,.07) 0%, transparent 65%),
-        radial-gradient(ellipse 45% 40% at 80% 80%, rgba(16,217,138,.04) 0%, transparent 60%);
-    }
-    .lp-grid {
-      position: absolute; inset: 0; z-index: 0; pointer-events: none;
+    /* ── Background grid ── */
+    .bg-grid {
+      position: fixed; inset: 0; z-index: 0; pointer-events: none;
       background-image:
-        linear-gradient(rgba(26,188,219,.032) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(26,188,219,.032) 1px, transparent 1px);
+        linear-gradient(rgba(26,188,219,.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(26,188,219,.03) 1px, transparent 1px);
       background-size: 52px 52px;
-      mask-image: radial-gradient(ellipse 90% 80% at 40% 30%, black, transparent 85%);
-      -webkit-mask-image: radial-gradient(ellipse 90% 80% at 40% 30%, black, transparent 85%);
+      mask-image: radial-gradient(ellipse 80% 70% at 50% 50%, black, transparent 80%);
+      -webkit-mask-image: radial-gradient(ellipse 80% 70% at 50% 50%, black, transparent 80%);
       animation: gridDrift 20s linear infinite;
     }
     @keyframes gridDrift { to { background-position: 52px 52px; } }
 
-    /* Ticker floats: z-index 1, opacity capped at .12 */
+    /* ── Ticker floats: z-index 1, opacity capped at .12 ── */
     .tf {
-      position: absolute; z-index: 1;
+      position: fixed; z-index: 1;
       font-family: var(--fm); font-size: 11px; font-weight: 500;
       color: var(--cyan); pointer-events: none; white-space: nowrap; user-select: none;
       animation: tfUp var(--d, 14s) ease-in-out var(--dl, 0s) infinite;
     }
     @keyframes tfUp {
       0%   { opacity: 0;   transform: translateY(0); }
-      12%  { opacity: .12; }
+      12%  { opacity: .11; }
       80%  { opacity: .05; }
-      100% { opacity: 0;   transform: translateY(-60vh); }
+      100% { opacity: 0;   transform: translateY(-80vh); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .tf, .bg-grid { animation: none !important; }
     }
 
-    /* Left panel content: z-index 10 */
-    .lp-inner {
+    /* ── Card ── */
+    .card {
       position: relative; z-index: 10;
-      display: flex; flex-direction: column;
-      min-height: 100vh; padding: 36px 48px 40px;
-    }
-
-    .lp-back {
-      display: inline-flex; align-items: center; gap: 7px;
-      font-size: 13px; font-weight: 500; color: var(--text2);
-      transition: color .15s; margin-bottom: 36px; flex-shrink: 0;
-    }
-    .lp-back:hover { color: var(--cyan); }
-
-    .lp-content {
-      display: flex; flex-direction: column;
-    }
-
-    .lp-brand {
-      display: flex; align-items: center; gap: 10px; margin-bottom: 28px;
-    }
-    .lp-brand img { width: 36px; height: 36px; object-fit: contain; }
-    .lp-brand-name {
-      font-family: var(--fh); font-size: 17px; font-weight: 800; letter-spacing: -.04em;
-      background: linear-gradient(135deg, #cffafe 0%, var(--cyan) 55%, #0891b2 100%);
-      -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
-    }
-
-    .lp-heading {
-      font-family: var(--fh); font-size: clamp(26px, 2.8vw, 40px); font-weight: 900;
-      letter-spacing: -.05em; line-height: 1.03; margin-bottom: 14px;
-    }
-    .lp-heading em {
-      font-style: normal;
-      background: linear-gradient(135deg, #cffafe 0%, var(--cyan) 45%, #0891b2 100%);
-      -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
-    }
-
-    .lp-desc {
-      font-size: 14px; color: var(--text2); line-height: 1.7; margin-bottom: 24px;
-      max-width: 380px;
-    }
-
-    .lp-features {
-      display: flex; flex-direction: column; gap: 10px; margin-bottom: 28px;
-    }
-    .lp-feat {
-      display: flex; align-items: center; gap: 10px;
-      font-size: 13px; color: var(--text2); font-weight: 500;
-    }
-    .lp-feat-icon {
-      width: 20px; height: 20px; border-radius: 50%;
-      background: var(--green10); border: 1px solid var(--green20);
-      display: flex; align-items: center; justify-content: center;
-      flex-shrink: 0;
-    }
-    .lp-feat-icon svg { color: var(--green); }
-
-    /* Mini terminal preview */
-    .mini-term {
-      background: var(--surf); border: 1px solid var(--border); border-radius: 10px;
-      overflow: hidden; max-width: 380px;
-      box-shadow: 0 16px 48px rgba(0,0,0,.4), 0 0 0 1px rgba(255,255,255,.03);
-    }
-    .mini-term-hdr {
-      display: flex; align-items: center; justify-content: space-between;
-      padding: 8px 12px; background: rgba(12,21,36,.98); border-bottom: 1px solid var(--border);
-    }
-    .mini-dots { display: flex; gap: 5px; }
-    .md { width: 8px; height: 8px; border-radius: 50%; }
-    .md.r { background: #ff5f57; } .md.y { background: #febc2e; } .md.g { background: #28c840; }
-    .mini-live { display: flex; align-items: center; gap: 4px; font-family: var(--fm); font-size: 9px; color: var(--green); font-weight: 600; }
-    .mld { width: 4px; height: 4px; border-radius: 50%; background: var(--green); animation: pulse 1.3s infinite; }
-    @keyframes pulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:.3;transform:scale(.7)} }
-    .mini-term-body { padding: 6px; }
-    .mini-row {
-      display: grid; grid-template-columns: 48px 1fr auto;
-      align-items: center; gap: 8px; padding: 7px 7px;
-      border-radius: 5px; border-bottom: 1px solid var(--borderS);
-    }
-    .mini-row:last-child { border-bottom: none; }
-    .mr-tick { font-family: var(--fm); font-size: 11px; font-weight: 700; color: #6ee7f7; }
-    .mr-name { font-size: 11px; color: var(--text2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-    .mr-val  { font-family: var(--fm); font-size: 11px; font-weight: 700; color: var(--green); white-space: nowrap; }
-
-    .lp-footer-note {
-      font-size: 11px; color: var(--muted); margin-top: 32px;
-    }
-
-    /* ══════════════════════════════════════
-       RIGHT PANEL — sign-in
-    ══════════════════════════════════════ */
-    .right-panel {
-      flex: 1;
-      display: flex; align-items: center; justify-content: center;
-      padding: 40px 48px;
-      background: var(--bg);
-      align-self: flex-start;
-      min-height: 100vh;
-      position: sticky;
-      top: 0;
-    }
-
-    .signin-card {
-      width: 100%; max-width: 380px;
-      animation: cardIn .5s var(--ease) both;
+      width: 100%; max-width: 400px;
+      background: rgba(10,18,32,.88);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 44px 40px 36px;
+      display: flex; flex-direction: column; align-items: center;
+      box-shadow:
+        0 32px 80px rgba(0,0,0,.55),
+        0 0 0 1px rgba(26,188,219,.06),
+        0 0 48px rgba(26,188,219,.04);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      animation: cardIn .45s var(--ease) both;
     }
     @keyframes cardIn { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: translateY(0); } }
 
-    .signin-logo {
-      display: flex; align-items: center; gap: 9px; margin-bottom: 32px;
-    }
-    .signin-logo img { width: 28px; height: 28px; object-fit: contain; }
-    .signin-logo-name {
-      font-family: var(--fh); font-size: 14px; font-weight: 800; letter-spacing: -.04em;
-      background: linear-gradient(135deg, #cffafe 0%, var(--cyan) 55%, #0891b2 100%);
-      -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+    /* Logo */
+    .card-logo {
+      width: 52px; height: 52px; object-fit: contain; margin-bottom: 16px;
     }
 
-    .signin-title {
-      font-family: var(--fh); font-size: 26px; font-weight: 800;
-      letter-spacing: -.045em; line-height: 1.1; margin-bottom: 8px;
+    /* Brand name */
+    .card-brand {
+      font-family: var(--fh); font-size: 13px; font-weight: 800; letter-spacing: -.02em;
+      background: linear-gradient(135deg, #cffafe 0%, var(--cyan) 55%, #0891b2 100%);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+      margin-bottom: 6px;
     }
-    .signin-sub {
-      font-size: 13.5px; color: var(--text2); line-height: 1.6; margin-bottom: 32px;
+
+    /* Title */
+    .card-title {
+      font-family: var(--fh); font-size: 20px; font-weight: 800;
+      letter-spacing: -.04em; line-height: 1.2; text-align: center;
+      color: var(--text); margin-bottom: 8px;
     }
+
+    /* Subtitle */
+    .card-sub {
+      font-size: 13px; color: var(--text2); text-align: center;
+      line-height: 1.6; margin-bottom: 24px; max-width: 300px;
+    }
+
+    /* Trust chips */
+    .chips {
+      display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; margin-bottom: 24px;
+    }
+    .chip {
+      display: inline-flex; align-items: center; gap: 5px;
+      background: var(--surf2); border: 1px solid var(--border);
+      border-radius: 20px; padding: 4px 10px;
+      font-size: 11px; font-weight: 600; color: var(--text2);
+    }
+    .chip svg { color: var(--green); }
 
     /* Google button */
     .google-btn {
       width: 100%; display: flex; align-items: center; justify-content: center; gap: 10px;
       padding: 13px 20px; border-radius: 10px;
       background: #fff; color: #1a1a1a; border: none;
-      font-family: var(--fb); font-size: 14.5px; font-weight: 600;
+      font-family: var(--fb); font-size: 15px; font-weight: 600;
       cursor: pointer; letter-spacing: -.01em;
       box-shadow: 0 2px 12px rgba(0,0,0,.2);
       transition: opacity .15s, transform .15s, box-shadow .15s;
@@ -235,199 +158,118 @@
     .google-btn::after {
       content: ''; position: absolute; inset: 0;
       background: linear-gradient(105deg, transparent 45%, rgba(0,0,0,.04) 55%, transparent 65%);
-      animation: gbShim 3s ease-in-out 1.2s infinite;
+      animation: gbShim 3.5s ease-in-out 1s infinite;
     }
-    @keyframes gbShim { 0%{transform:translateX(-100%)} 30%,100%{transform:translateX(200%)} }
-    .google-btn:hover { opacity: .94; transform: translateY(-1px); box-shadow: 0 8px 24px rgba(0,0,0,.3); }
+    @keyframes gbShim { 0%{transform:translateX(-100%)} 30%,100%{transform:translateX(220%)} }
+    .google-btn:hover { opacity: .93; transform: translateY(-1px); box-shadow: 0 8px 24px rgba(0,0,0,.3); }
     .google-btn:active { transform: translateY(0); opacity: .86; }
     .google-btn:disabled { opacity: .6; cursor: default; transform: none; }
     .google-btn svg { flex-shrink: 0; }
 
+    /* Status */
     .status-msg {
       min-height: 18px; margin-top: 12px;
       font-size: 12.5px; color: var(--text2); text-align: center; line-height: 1.4;
     }
     .status-msg.error { color: #f87171; }
 
-    .signin-divider {
-      height: 1px; background: var(--border); margin: 24px 0;
-    }
+    /* Divider */
+    .divider { width: 100%; height: 1px; background: var(--border); margin: 22px 0; }
 
-    .signin-footer {
-      font-size: 12px; color: var(--muted); text-align: center; line-height: 1.7;
+    /* Footer */
+    .card-footer {
+      font-size: 11.5px; color: var(--muted); text-align: center; line-height: 1.7;
     }
-    .signin-footer a { color: var(--cyan); transition: opacity .15s; }
-    .signin-footer a:hover { opacity: .8; }
+    .card-footer a { color: var(--cyan); transition: opacity .15s; }
+    .card-footer a:hover { opacity: .8; }
 
-    /* Trust chips */
-    .trust-chips {
-      display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 28px;
+    /* Back link above card */
+    .back-link {
+      position: relative; z-index: 10;
+      display: inline-flex; align-items: center; gap: 6px;
+      font-size: 12.5px; font-weight: 500; color: var(--text2);
+      margin-bottom: 20px; transition: color .15s;
     }
-    .chip {
-      display: inline-flex; align-items: center; gap: 5px;
-      background: var(--surf); border: 1px solid var(--border);
-      border-radius: 20px; padding: 4px 11px;
-      font-size: 11px; font-weight: 600; color: var(--text2);
-    }
-    .chip svg { color: var(--green); }
+    .back-link:hover { color: var(--cyan); }
 
-    /* ══════════════════════════════════════
-       RESPONSIVE — mobile: stacked
-    ══════════════════════════════════════ */
-    @media (max-width: 860px) {
-      body { flex-direction: column; }
-      .left-panel { width: 100%; border-right: none; border-bottom: 1px solid var(--border); }
-      .lp-inner { padding: 24px 28px; }
-      .lp-content { padding: 20px 0; }
-      .lp-back { margin-bottom: 0; }
-      .lp-heading { font-size: 28px; }
-      .mini-term { display: none; }
-      .lp-features { display: none; }
-      .lp-desc { margin-bottom: 0; font-size: 13px; }
-      .lp-footer-note { display: none; }
-      .right-panel { padding: 40px 24px; }
-    }
+    /* ── Mobile ── */
     @media (max-width: 480px) {
-      .left-panel { display: none; }
-      .right-panel { min-height: 100vh; padding: 48px 20px; align-items: flex-start; padding-top: 72px; }
+      body { padding: 16px; justify-content: flex-start; padding-top: 48px; }
+      .card { padding: 32px 22px 28px; border-radius: 16px; }
+      .card-logo { width: 44px; height: 44px; }
+      .card-title { font-size: 18px; }
+      .google-btn { font-size: 14px; }
     }
   </style>
 </head>
 <body>
 
-<!-- ══════ LEFT PANEL ══════ -->
-<div class="left-panel">
-  <div class="lp-glow"></div>
-  <div class="lp-grid"></div>
-  <!-- ticker floats injected by JS -->
+<div class="bg-grid"></div>
+<!-- ticker floats injected by JS -->
 
-  <div class="lp-inner">
-    <a href="/" class="lp-back">
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><polyline points="15 18 9 12 15 6"/></svg>
-      Back to InsiderEdgePro
-    </a>
+<a href="/" class="back-link">
+  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><polyline points="15 18 9 12 15 6"/></svg>
+  Back to InsiderEdgePro
+</a>
 
-    <div class="lp-content">
-      <div class="lp-brand">
-        <img src="insideredge_logo_cyan_v2.png" alt="InsiderEdgePro" onerror="this.style.display='none'" />
-        <span class="lp-brand-name">InsiderEdgePro</span>
-      </div>
+<div class="card">
+  <img src="insideredge_logo_cyan_v2.png" alt="InsiderEdgePro" class="card-logo" onerror="this.style.display='none'" />
+  <div class="card-brand">InsiderEdgePro</div>
+  <h1 class="card-title">Institutional Buying Intelligence</h1>
+  <p class="card-sub">Sign in to access real-time insider trades, congressional disclosures, cluster buy signals, and Discord alerts.</p>
 
-      <h2 class="lp-heading">Track <em>Smart Money</em><br>in Real Time</h2>
-      <p class="lp-desc">The only free dashboard combining SEC Form 4 insider trades, congressional STOCK Act disclosures, and Canadian SEDI filings — with live cluster buy signals.</p>
-
-      <div class="lp-features">
-        <div class="lp-feat">
-          <div class="lp-feat-icon"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg></div>
-          SEC Form 4 · STOCK Act · SEDI — all in one place
-        </div>
-        <div class="lp-feat">
-          <div class="lp-feat-icon"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg></div>
-          Cluster buy detection across all three markets
-        </div>
-        <div class="lp-feat">
-          <div class="lp-feat-icon"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg></div>
-          Real-time Discord alerts when insiders buy
-        </div>
-        <div class="lp-feat">
-          <div class="lp-feat-icon"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg></div>
-          100% free — no credit card, no paywall
-        </div>
-      </div>
-
-      <!-- Live mini-terminal preview -->
-      <div class="mini-term">
-        <div class="mini-term-hdr">
-          <div class="mini-dots"><div class="md r"></div><div class="md y"></div><div class="md g"></div></div>
-          <div class="mini-live"><div class="mld"></div>LIVE FEED</div>
-        </div>
-        <div class="mini-term-body" id="mini-body">
-          <div class="mini-row" style="opacity:.9">
-            <span class="mr-tick">NVDA</span><span class="mr-name">NVIDIA Corp.</span><span class="mr-val">$850K</span>
-          </div>
-          <div class="mini-row" style="opacity:.78">
-            <span class="mr-tick">AAPL</span><span class="mr-name">Apple Inc.</span><span class="mr-val">$2.1M</span>
-          </div>
-          <div class="mini-row" style="opacity:.62">
-            <span class="mr-tick">MSFT</span><span class="mr-name">Microsoft Corp.</span><span class="mr-val">$480K</span>
-          </div>
-        </div>
-      </div>
+  <div class="chips">
+    <div class="chip">
+      <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg>
+      100% Free
     </div>
-
-    <p class="lp-footer-note">Data sourced from public SEC EDGAR, STOCK Act, and SEDI filings.</p>
+    <div class="chip">
+      <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg>
+      No credit card
+    </div>
+    <div class="chip">
+      <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg>
+      Live data
+    </div>
   </div>
-</div>
 
-<!-- ══════ RIGHT PANEL ══════ -->
-<div class="right-panel">
-  <div class="signin-card">
+  <button class="google-btn" id="google-btn" onclick="handleGoogleSignIn()">
+    <svg width="20" height="20" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+      <path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/>
+      <path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/>
+      <path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/>
+      <path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.18 1.48-4.97 2.31-8.16 2.31-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/>
+      <path fill="none" d="M0 0h48v48H0z"/>
+    </svg>
+    Continue with Google
+  </button>
 
-    <div class="signin-logo">
-      <img src="insideredge_logo_cyan_v2.png" alt="InsiderEdgePro" onerror="this.style.display='none'" />
-      <span class="signin-logo-name">InsiderEdgePro</span>
-    </div>
+  <p class="status-msg" id="status-msg"></p>
 
-    <h1 class="signin-title">Welcome back</h1>
-    <p class="signin-sub">Sign in to access live insider trades, cluster buy signals, and Discord alerts.</p>
+  <div class="divider"></div>
 
-    <div class="trust-chips">
-      <div class="chip">
-        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg>
-        100% Free
-      </div>
-      <div class="chip">
-        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg>
-        No credit card
-      </div>
-      <div class="chip">
-        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg>
-        Live data
-      </div>
-    </div>
-
-    <button class="google-btn" id="google-btn" onclick="handleGoogleSignIn()">
-      <svg width="19" height="19" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-        <path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/>
-        <path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/>
-        <path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/>
-        <path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.18 1.48-4.97 2.31-8.16 2.31-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/>
-        <path fill="none" d="M0 0h48v48H0z"/>
-      </svg>
-      Continue with Google
-    </button>
-
-    <p class="status-msg" id="status-msg"></p>
-
-    <div class="signin-divider"></div>
-
-    <p class="signin-footer">
-      By signing in you agree to our <a href="#">terms of service</a>.<br/>
-      Your data is fetched in real-time and never stored on our servers.
-    </p>
-  </div>
+  <p class="card-footer">
+    By signing in you agree to our <a href="#">terms of service</a>.<br/>
+    Your trades data is fetched in real-time and never stored.
+  </p>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
 <script src="https://accounts.google.com/gsi/client" async></script>
 <script>
-  /* ── Auth constants ── */
   const SUPABASE_URL = 'https://etkvznyuxjrypxsuomsm.supabase.co';
   const SUPABASE_KEY = 'sb_publishable_0lX_Wpsn1t2lnmJj55WTyg_xSQHuY5C';
   const GOOGLE_CLIENT_ID = '814492956942-ho3bi31s6nktcqcs2go6qojrlgngmas4.apps.googleusercontent.com';
   const sb = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 
-  /* Redirect if already signed in */
   sb.auth.getSession().then(({ data: { session } }) => {
     if (session) window.location.replace('/us.html');
   });
 
-  /* Handle OAuth callback */
   sb.auth.onAuthStateChange((event, session) => {
     if (event === 'SIGNED_IN' && session) window.location.replace('/us.html');
   });
 
-  /* Google One Tap */
   async function handleOneTap(response) {
     const msg = document.getElementById('status-msg');
     msg.textContent = 'Signing you in…';
@@ -448,8 +290,7 @@
     google.accounts.id.prompt();
   });
 
-  /* Fallback: OAuth redirect */
-  const GOOGLE_SVG = `<svg width="19" height="19" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.18 1.48-4.97 2.31-8.16 2.31-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/><path fill="none" d="M0 0h48v48H0z"/></svg>`;
+  const GOOGLE_SVG = `<svg width="20" height="20" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.18 1.48-4.97 2.31-8.16 2.31-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/><path fill="none" d="M0 0h48v48H0z"/></svg>`;
 
   async function handleGoogleSignIn() {
     const btn = document.getElementById('google-btn');
@@ -472,40 +313,22 @@
     }
   }
 
-  /* ── Ticker floats on left panel: z-index 1, opacity capped at .12 ── */
+  /* ── Ticker floats: fixed position, z-index 1, opacity max .11 ── */
   if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
     const tickers = [
-      'AAPL $2.1M','MSFT CEO','NVDA $850K','TSLA Dir','AMZN $1.4M',
-      '⚡ CLUSTER BUY','FORM 4','SEC Filing','SEDI Buy','BRK.B $5M',
-      'AMD Dir','ORCL $1.8M','CRM CEO','GS $4.1M','PLTR CEO',
-      '⚡ CLUSTER BUY','COIN $1.1M','SMCI $3.8M','MU CEO','MSTR $9M'
+      'AAPL $2.1M','MSFT CEO','NVDA $850K','TSLA Dir','AMZN $1.4M','META CFO',
+      'GOOG $3.2M','JPM CEO','⚡ CLUSTER BUY','FORM 4','SEC Filing','SEDI Buy',
+      'BRK.B $5M','AMD Dir','ORCL $1.8M','CRM CEO','GS $4.1M','PLTR CEO',
+      '⚡ CLUSTER BUY','COIN $1.1M','SMCI $3.8M','MU CEO','MSTR $9M','HOOD Dir'
     ];
-    const panel = document.querySelector('.left-panel');
-    if (panel) {
-      tickers.forEach(txt => {
-        const el = document.createElement('div');
-        el.className = 'tf';
-        el.textContent = txt;
-        el.style.cssText = `left:${3 + Math.random() * 88}%;top:${8 + Math.random() * 80}%;--d:${13 + Math.random() * 9}s;--dl:-${Math.random() * 13}s`;
-        panel.appendChild(el);
-      });
-    }
+    tickers.forEach(txt => {
+      const el = document.createElement('div');
+      el.className = 'tf';
+      el.textContent = txt;
+      el.style.cssText = `left:${2 + Math.random() * 92}%;top:${5 + Math.random() * 85}%;--d:${13 + Math.random() * 9}s;--dl:-${Math.random() * 13}s`;
+      document.body.appendChild(el);
+    });
   }
-
-  /* ── Populate mini-terminal from live data ── */
-  fetch('data/latest.json?_=' + Date.now()).then(r => r.json()).then(json => {
-    const all = (json.trades || json || []).filter(t => t.ticker);
-    const top3 = all.slice(0, 3);
-    if (!top3.length) return;
-    function fmt(v) { const n = parseFloat(('' + v).replace(/[^0-9.-]/g, '')); if (isNaN(n)) return '—'; if (n >= 1e6) return '$' + (n / 1e6).toFixed(1) + 'M'; if (n >= 1e3) return '$' + (n / 1e3).toFixed(0) + 'K'; return '$' + n.toFixed(0); }
-    const mb = document.getElementById('mini-body');
-    if (mb) mb.innerHTML = top3.map((t, i) => `
-      <div class="mini-row" style="opacity:${1 - i * 0.15}">
-        <span class="mr-tick">${t.ticker}</span>
-        <span class="mr-name">${(t.company || '').slice(0, 18)}</span>
-        <span class="mr-val">${fmt(t.value)}</span>
-      </div>`).join('');
-  }).catch(() => {});
 </script>
 </body>
 </html>
