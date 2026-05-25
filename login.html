@@ -51,40 +51,80 @@
       justify-content: center;
       min-height: 100vh;
       padding: 24px;
-      background:
-        radial-gradient(ellipse 70% 55% at 50% 50%, rgba(26,188,219,.08) 0%, transparent 65%),
-        radial-gradient(ellipse 45% 40% at 80% 90%, rgba(16,217,138,.04) 0%, transparent 60%),
-        var(--bg);
+      background: var(--bg);
+    }
+
+    /* ── Animated gradient orbs ── */
+    .orb {
+      position: fixed; border-radius: 50%;
+      pointer-events: none; z-index: 0;
+      filter: blur(88px); will-change: transform;
+    }
+    .orb-1 {
+      width: 640px; height: 640px;
+      background: radial-gradient(circle at 40% 40%, rgba(26,188,219,.13), transparent 65%);
+      top: -18%; left: -14%;
+      animation: orb1 22s ease-in-out infinite alternate;
+    }
+    .orb-2 {
+      width: 520px; height: 520px;
+      background: radial-gradient(circle at 55% 45%, rgba(16,217,138,.09), transparent 65%);
+      bottom: -12%; right: -10%;
+      animation: orb2 28s ease-in-out infinite alternate;
+    }
+    .orb-3 {
+      width: 360px; height: 360px;
+      background: radial-gradient(circle at 50% 50%, rgba(139,92,246,.07), transparent 65%);
+      top: 40%; left: 55%;
+      animation: orb3 18s ease-in-out infinite alternate;
+    }
+    @keyframes orb1 {
+      0%   { transform: translate(0px,   0px)  scale(1);    }
+      50%  { transform: translate(60px, -40px) scale(1.08); }
+      100% { transform: translate(30px,  50px) scale(0.95); }
+    }
+    @keyframes orb2 {
+      0%   { transform: translate(0px,   0px)  scale(1.04); }
+      50%  { transform: translate(-50px, 30px) scale(0.94); }
+      100% { transform: translate(40px, -45px) scale(1.06); }
+    }
+    @keyframes orb3 {
+      0%   { transform: translate(-20px, 15px) scale(0.9);  }
+      50%  { transform: translate(35px, -30px) scale(1.12); }
+      100% { transform: translate(-10px, 40px) scale(0.95); }
     }
 
     /* ── Background grid ── */
     .bg-grid {
       position: fixed; inset: 0; z-index: 0; pointer-events: none;
       background-image:
-        linear-gradient(rgba(26,188,219,.03) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(26,188,219,.03) 1px, transparent 1px);
+        linear-gradient(rgba(26,188,219,.035) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(26,188,219,.035) 1px, transparent 1px);
       background-size: 52px 52px;
-      mask-image: radial-gradient(ellipse 80% 70% at 50% 50%, black, transparent 80%);
-      -webkit-mask-image: radial-gradient(ellipse 80% 70% at 50% 50%, black, transparent 80%);
-      animation: gridDrift 20s linear infinite;
+      mask-image: radial-gradient(ellipse 85% 75% at 50% 50%, black, transparent 82%);
+      -webkit-mask-image: radial-gradient(ellipse 85% 75% at 50% 50%, black, transparent 82%);
+      animation: gridDrift 18s linear infinite;
     }
     @keyframes gridDrift { to { background-position: 52px 52px; } }
 
-    /* ── Ticker floats: z-index 1, opacity capped at .12 ── */
+    /* ── Ticker floats ── */
     .tf {
       position: fixed; z-index: 1;
-      font-family: var(--fm); font-size: 11px; font-weight: 500;
-      color: var(--cyan); pointer-events: none; white-space: nowrap; user-select: none;
+      font-family: var(--fm); font-weight: 500;
+      pointer-events: none; white-space: nowrap; user-select: none;
       animation: tfUp var(--d, 14s) ease-in-out var(--dl, 0s) infinite;
     }
+    .tf.green { color: var(--green); }
+    .tf.cyan  { color: var(--cyan);  }
     @keyframes tfUp {
-      0%   { opacity: 0;   transform: translateY(0); }
-      12%  { opacity: .11; }
-      80%  { opacity: .05; }
-      100% { opacity: 0;   transform: translateY(-80vh); }
+      0%   { opacity: 0;   transform: translateY(0) translateX(0); }
+      10%  { opacity: 1;   }
+      75%  { opacity: .4;  }
+      100% { opacity: 0;   transform: translateY(-75vh) translateX(var(--dx, 0px)); }
     }
+
     @media (prefers-reduced-motion: reduce) {
-      .tf, .bg-grid { animation: none !important; }
+      .tf, .bg-grid, .orb { animation: none !important; }
     }
 
     /* ── Card ── */
@@ -205,6 +245,9 @@
 <body>
 
 <div class="bg-grid"></div>
+<div class="orb orb-1"></div>
+<div class="orb orb-2"></div>
+<div class="orb orb-3"></div>
 <!-- ticker floats injected by JS -->
 
 <a href="/" class="back-link">
@@ -312,19 +355,48 @@
     }
   }
 
-  /* ── Ticker floats: fixed position, z-index 1, opacity max .11 ── */
+  /* ── Ticker floats ── */
   if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-    const tickers = [
-      'AAPL $2.1M','MSFT CEO','NVDA $850K','TSLA Dir','AMZN $1.4M','META CFO',
-      'GOOG $3.2M','JPM CEO','⚡ CLUSTER BUY','FORM 4','SEC Filing','SEDI Buy',
-      'BRK.B $5M','AMD Dir','ORCL $1.8M','CRM CEO','GS $4.1M','PLTR CEO',
-      '⚡ CLUSTER BUY','COIN $1.1M','SMCI $3.8M','MU CEO','MSTR $9M','HOOD Dir'
+    const items = [
+      ['AAPL $2.1M',   'cyan',  12],
+      ['MSFT CEO',     'cyan',  11],
+      ['NVDA $850K',   'cyan',  13],
+      ['TSLA Dir',     'cyan',  10],
+      ['AMZN $1.4M',   'cyan',  12],
+      ['META CFO',     'cyan',  11],
+      ['⚡ CLUSTER BUY','green', 13],
+      ['FORM 4',       'cyan',  10],
+      ['SEC Filing',   'cyan',  11],
+      ['SEDI Buy',     'cyan',  10],
+      ['BRK.B $5M',    'cyan',  12],
+      ['AMD Dir',      'cyan',  10],
+      ['ORCL $1.8M',   'cyan',  11],
+      ['⚡ CLUSTER BUY','green', 12],
+      ['GS $4.1M',     'cyan',  12],
+      ['PLTR CEO',     'cyan',  11],
+      ['COIN $1.1M',   'cyan',  12],
+      ['⚡ CLUSTER BUY','green', 11],
+      ['SMCI $3.8M',   'cyan',  13],
+      ['MU CEO',       'cyan',  10],
+      ['MSTR $9M',     'cyan',  13],
+      ['HOOD Dir',     'cyan',  10],
+      ['JPM $4.8M',    'cyan',  12],
+      ['WMT $2.3M',    'cyan',  11],
     ];
-    tickers.forEach(txt => {
+    items.forEach(([txt, col, size]) => {
       const el = document.createElement('div');
-      el.className = 'tf';
+      el.className = `tf ${col}`;
       el.textContent = txt;
-      el.style.cssText = `left:${2 + Math.random() * 92}%;top:${5 + Math.random() * 85}%;--d:${13 + Math.random() * 9}s;--dl:-${Math.random() * 13}s`;
+      const dx = (Math.random() - 0.5) * 40;
+      el.style.cssText = [
+        `left:${3 + Math.random() * 88}%`,
+        `top:${8 + Math.random() * 82}%`,
+        `font-size:${size}px`,
+        `--d:${14 + Math.random() * 10}s`,
+        `--dl:-${Math.random() * 14}s`,
+        `--dx:${dx}px`,
+        `opacity:0`,
+      ].join(';');
       document.body.appendChild(el);
     });
   }
