@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-25",
-  "entry_count": 398,
+  "entry_count": 402,
   "entries": [
     {
       "id": "CA|AP-UN|2026-03-26|parkit enterprise inc.|6.3",
@@ -11253,6 +11253,86 @@
       },
       "latest_price": 25.57,
       "return_pct": -0.08,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "CA|BETR|2026-05-25|sangha, steven|0.06",
+      "market": "CA",
+      "ticker": "BETR",
+      "yf_symbol": "BETR.CN",
+      "company": "BetterLife Pharma Inc.",
+      "insider_name": "Sangha, Steven",
+      "title": "Director",
+      "trade_date": "2026-05-25",
+      "trade_price": 0.06,
+      "value": 239584.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-25": 0.06
+      },
+      "latest_price": 0.06,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "CA|BITK|2026-05-25|sangha, steven|0.06",
+      "market": "CA",
+      "ticker": "BITK",
+      "yf_symbol": "BITK.V",
+      "company": "BlockchainK2 Corp",
+      "insider_name": "Sangha, Steven",
+      "title": "Director",
+      "trade_date": "2026-05-25",
+      "trade_price": 0.06,
+      "value": 178260.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-25": 0.06
+      },
+      "latest_price": 0.06,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "CA|MOLY|2026-05-25|shiffman, ruben|1.53",
+      "market": "CA",
+      "ticker": "MOLY",
+      "yf_symbol": "MOLY.TO",
+      "company": "Greenland Resources Inc.",
+      "insider_name": "Shiffman, Ruben",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-05-25",
+      "trade_price": 1.53,
+      "value": 25245.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-25": 1.54
+      },
+      "latest_price": 1.54,
+      "return_pct": 0.65,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "CA|NFI|2026-05-25|king, stephen|22.7",
+      "market": "CA",
+      "ticker": "NFI",
+      "yf_symbol": "NFI.TO",
+      "company": "NFI Group Inc.",
+      "insider_name": "King, Stephen",
+      "title": "Senior Officer",
+      "trade_date": "2026-05-25",
+      "trade_price": 22.7,
+      "value": 15095.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-25": 22.85
+      },
+      "latest_price": 22.85,
+      "return_pct": 0.66,
       "last_snapshot": "2026-05-25"
     }
   ]

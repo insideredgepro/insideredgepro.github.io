@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-25T21:00:23Z",
-  "trade_count": 3140,
+  "last_updated": "2026-05-25T23:00:22Z",
+  "trade_count": 3144,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -45823,7 +45823,7 @@
       "value": "37550",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4718263",
@@ -46127,7 +46127,7 @@
       "value": "15178",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4718926",
@@ -47792,6 +47792,70 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4723559",
+      "trade_date": "2026-05-25",
+      "filing_date": "2026-05-25",
+      "company": "BetterLife Pharma Inc.",
+      "ticker": "BETR",
+      "insider_name": "Sangha, Steven",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "3993073",
+      "price": "0.0600",
+      "value": "239584",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4723561",
+      "trade_date": "2026-05-25",
+      "filing_date": "2026-05-25",
+      "company": "BlockchainK2 Corp",
+      "ticker": "BITK",
+      "insider_name": "Sangha, Steven",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "2971000",
+      "price": "0.0600",
+      "value": "178260",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4723575",
+      "trade_date": "2026-05-25",
+      "filing_date": "2026-05-25",
+      "company": "Greenland Resources Inc.",
+      "ticker": "MOLY",
+      "insider_name": "Shiffman, Ruben",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "16500",
+      "price": "1.5300",
+      "value": "25245",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4723582",
+      "trade_date": "2026-05-25",
+      "filing_date": "2026-05-25",
+      "company": "NFI Group Inc.",
+      "ticker": "NFI",
+      "insider_name": "King, Stephen",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "665",
+      "price": "22.7000",
+      "value": "15095",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
