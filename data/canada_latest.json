@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-25T15:00:53Z",
-  "trade_count": 3136,
+  "last_updated": "2026-05-25T17:00:19Z",
+  "trade_count": 3138,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -47725,6 +47725,38 @@
       "qty": "2500",
       "price": "65.9750",
       "value": "164937",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4723351",
+      "trade_date": "2026-05-25",
+      "filing_date": "2026-05-25",
+      "company": "Torex Gold Resources Inc.",
+      "ticker": "TXG",
+      "insider_name": "Rollins, Daniel James Thomas",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "825",
+      "price": "60.6300",
+      "value": "50019",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4723259",
+      "trade_date": "2026-05-25",
+      "filing_date": "2026-05-25",
+      "company": "Whitecap Resources Inc.",
+      "ticker": "WCP",
+      "insider_name": "Tweit, Travis Bjarne",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "3000",
+      "price": "16.4200",
+      "value": "49260",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
