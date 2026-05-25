@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-25T19:00:21Z",
-  "trade_count": 3138,
+  "last_updated": "2026-05-25T21:00:23Z",
+  "trade_count": 3140,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -47757,6 +47757,38 @@
       "qty": "3000",
       "price": "16.4200",
       "value": "49260",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4723533",
+      "trade_date": "2026-05-25",
+      "filing_date": "2026-05-25",
+      "company": "Avicanna Inc.",
+      "ticker": "AVCN",
+      "insider_name": "Michael Kott",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "400000",
+      "price": "0.1275",
+      "value": "51000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4723490",
+      "trade_date": "2026-05-25",
+      "filing_date": "2026-05-25",
+      "company": "Total Energy Services Inc.",
+      "ticker": "TOT",
+      "insider_name": "Halyk, Daniel Kim",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "25.5900",
+      "value": "127950",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
