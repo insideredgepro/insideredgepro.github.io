@@ -59,8 +59,8 @@
       --ease: cubic-bezier(0.16, 1, 0.3, 1);
     }
 
-    html { scroll-behavior: smooth; }
-    body { font-family: var(--fb); background: var(--bg); color: var(--text); line-height: 1.6; overflow-x: hidden; }
+    html { scroll-behavior: smooth; overflow-x: hidden; }
+    body { font-family: var(--fb); background: var(--bg); color: var(--text); line-height: 1.6; overflow-x: hidden; max-width: 100vw; }
     a { color: inherit; text-decoration: none; }
     button { font-family: inherit; }
 
@@ -265,7 +265,7 @@
     /* ── TERMINAL (hero bottom) ── */
     .hero-term-wrap {
       position: relative; z-index: 10;
-      max-width: 700px; margin: 52px auto 0; padding: 0 0;
+      max-width: 700px; margin: 52px auto 0; padding: 0 20px;
       animation: fadeUp .8s var(--ease) .58s both;
     }
     .terminal {
@@ -285,8 +285,8 @@
     .ld { width: 5px; height: 5px; border-radius: 50%; background: var(--green); animation: badgePulse 1.3s infinite; }
     .term-body { padding: 8px; }
     .t-row {
-      display: grid; grid-template-columns: 56px 1fr auto auto;
-      align-items: center; gap: 8px; padding: 8px 8px;
+      display: grid; grid-template-columns: 52px 1fr auto auto;
+      align-items: center; gap: 6px; padding: 8px 8px;
       border-radius: 6px; border-bottom: 1px solid var(--borderS);
       transition: background .12s;
     }
@@ -322,7 +322,7 @@
       background: rgba(8,15,28,.7);
     }
     .stats-row {
-      max-width: 1160px; margin: 0 auto;
+      max-width: 1160px; margin: 0 auto; padding: 0 4px;
       display: grid; grid-template-columns: repeat(4, 1fr);
     }
     .stat-cell {
@@ -638,37 +638,107 @@
       .discord-grid, .cluster-grid { grid-template-columns: 1fr; gap: 40px; }
       .footer-grid { grid-template-columns: 1fr 1fr; gap: 36px; }
     }
+
     @media (max-width: 860px) {
       .hnav { display: none; }
       .hamburger { display: flex; }
       .stats-row { grid-template-columns: repeat(2, 1fr); }
       .tcards-grid { grid-template-columns: 1fr; }
       .mcards-grid { grid-template-columns: 1fr 1fr; }
-      .steps-grid { grid-template-columns: 1fr; gap: 16px; }
+      .steps-grid { grid-template-columns: 1fr; gap: 14px; }
+      .section-sub { max-width: 100%; }
     }
+
     @media (max-width: 600px) {
-      .hero { padding: 72px 20px 56px; }
-      .hero h1 { font-size: clamp(30px, 9vw, 44px); }
-      .hero-sub { font-size: 14px; margin-bottom: 28px; }
-      .hero-ctas { gap: 10px; }
-      .cta-p, .cta-s { padding: 12px 18px; font-size: 13px; }
-      .hero-term-wrap { margin-top: 36px; }
+      /* Hero */
+      .hero { padding: 64px 16px 48px; }
+      .hero h1 { font-size: clamp(28px, 8.5vw, 42px); }
+      .hero-sub { font-size: 14px; margin-bottom: 24px; max-width: 100%; }
+      .hero-badge { font-size: 10px; padding: 4px 12px; }
+      .hero-ctas { flex-direction: column; align-items: stretch; gap: 10px; }
+      .cta-p, .cta-s { padding: 13px 18px; font-size: 14px; justify-content: center; }
+      .hero-term-wrap { margin-top: 28px; padding: 0 16px; }
+
+      /* Terminal: hide badge column on small screens */
+      .t-row { grid-template-columns: 48px 1fr auto; }
+      .tbadge, .tcluster { display: none; }
+      .t-name { font-size: 11px; }
+      .t-val { font-size: 11px; }
+
+      /* Wrap */
       .wrap, .wrap--sm { padding: 0 16px; }
-      .stats-row { grid-template-columns: repeat(2, 1fr); }
-      .stat-cell { padding: 18px 20px; }
+
+      /* Stats */
+      .stats-row { grid-template-columns: 1fr 1fr; padding: 0; }
+      .stat-cell { padding: 16px 16px; border-right: 1px solid var(--border); }
+      .stat-cell:nth-child(2) { border-right: none; }
+      .stat-cell:nth-child(3) { border-top: 1px solid var(--border); }
+      .stat-cell:nth-child(4) { border-top: 1px solid var(--border); border-right: none; }
       .stat-val { font-size: 18px; }
-      .section { padding: 60px 0; }
-      .mcards-grid { grid-template-columns: 1fr; }
-      .dpreview { display: none; }
-      .footer-grid { grid-template-columns: 1fr; gap: 28px; padding-bottom: 28px; margin-bottom: 24px; }
-      .footer-bottom { flex-direction: column; text-align: center; }
-      .scroll-top { bottom: 18px; right: 18px; width: 38px; height: 38px; }
+      .stat-lbl { font-size: 9px; }
+
+      /* Trust bar */
       .trust-bar { display: none; }
+
+      /* Sections */
+      .section { padding: 52px 0; }
+      .section-title { font-size: clamp(22px, 6.5vw, 30px); }
+      .section-sub { font-size: 13px; margin-bottom: 28px; max-width: 100%; }
+
+      /* Preview table: hide less important columns */
+      .ptable th:nth-child(3),
+      .ptable td:nth-child(3),
+      .ptable th:nth-child(6),
+      .ptable td:nth-child(6) { display: none; }
+      .ptable { min-width: 320px; }
+      .ptable th { padding: 8px 10px; font-size: 8px; }
+      .ptable td { padding: 10px 10px; font-size: 12px; }
+      .pt-co { max-width: 100px; }
+
+      /* Cards */
+      .mcards-grid { grid-template-columns: 1fr; gap: 12px; }
+      .mcard { padding: 20px 18px; }
+
+      /* Tracker cards */
+      .tcards-grid { gap: 12px; }
+      .tcard { padding: 20px 18px; }
+
+      /* Steps */
+      .step-card { padding: 24px 20px; }
+
+      /* Discord */
+      .dpreview { display: none; }
+      .discord-grid { gap: 0; }
+      .discord-grid h2 { font-size: clamp(20px, 6vw, 28px); }
+      .discord-grid > div > p { font-size: 13px; }
+
+      /* Cluster */
+      .cluster-grid { gap: 28px; }
+      .cluster-grid h2 { font-size: clamp(20px, 6vw, 28px); }
+      .ccard { padding: 18px; }
+
+      /* FAQ */
+      .faq-q { font-size: 14px; }
+
+      /* Footer */
+      .footer { padding: 48px 0 32px; }
+      .footer-grid { grid-template-columns: 1fr; gap: 24px; padding-bottom: 24px; margin-bottom: 20px; }
+      .footer-bottom { flex-direction: column; align-items: center; text-align: center; gap: 8px; }
+      .footer-legal { gap: 14px; }
+
+      /* Scroll top */
+      .scroll-top { bottom: 16px; right: 16px; width: 38px; height: 38px; }
     }
-    @media (max-width: 400px) {
-      .hero h1 { font-size: 28px; }
-      .hero-ctas { flex-direction: column; align-items: stretch; }
+
+    @media (max-width: 380px) {
+      .hero { padding: 56px 14px 40px; }
+      .hero h1 { font-size: 26px; }
+      .wrap, .wrap--sm { padding: 0 14px; }
+      .hero-term-wrap { padding: 0 14px; }
       .stats-row { grid-template-columns: 1fr 1fr; }
+      .stat-cell { padding: 14px 12px; }
+      .stat-val { font-size: 16px; }
+      .mcard h3 { font-size: 15px; }
     }
   </style>
 </head>
