@@ -132,19 +132,59 @@
       position: relative; z-index: 10;
       width: 100%; max-width: 400px;
       background: rgba(10,18,32,.88);
-      border: 1px solid var(--border);
       border-radius: 20px;
       padding: 44px 40px 36px;
       display: flex; flex-direction: column; align-items: center;
-      box-shadow:
-        0 32px 80px rgba(0,0,0,.55),
-        0 0 0 1px rgba(26,188,219,.06),
-        0 0 48px rgba(26,188,219,.04);
       backdrop-filter: blur(20px);
       -webkit-backdrop-filter: blur(20px);
       animation: cardIn .45s var(--ease) both;
+      /* animated border via pseudo-element */
     }
+    .card::before {
+      content: '';
+      position: absolute; inset: -1px; border-radius: 21px; z-index: -1;
+      background: conic-gradient(
+        from var(--angle, 0deg),
+        rgba(26,188,219,.55) 0deg,
+        rgba(16,217,138,.3) 90deg,
+        rgba(139,92,246,.2) 180deg,
+        rgba(26,188,219,.15) 270deg,
+        rgba(26,188,219,.55) 360deg
+      );
+      animation: borderSpin 8s linear infinite, borderGlow 4s ease-in-out infinite alternate;
+      filter: blur(0px);
+    }
+    .card::after {
+      content: '';
+      position: absolute; inset: 0; border-radius: 20px; z-index: -1;
+      background: rgba(10,18,32,.88);
+    }
+    @property --angle {
+      syntax: '<angle>';
+      initial-value: 0deg;
+      inherits: false;
+    }
+    @keyframes borderSpin { to { --angle: 360deg; } }
+    @keyframes borderGlow {
+      0%   { opacity: .55; }
+      100% { opacity: 1; }
+    }
+    .card-inner { position: relative; z-index: 1; width: 100%; display: flex; flex-direction: column; align-items: center; }
     @keyframes cardIn { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: translateY(0); } }
+
+    /* ── Live stat below card ── */
+    .live-stat {
+      position: relative; z-index: 10;
+      margin-top: 18px;
+      display: flex; align-items: center; gap: 7px;
+      font-family: var(--fm); font-size: 11px; color: var(--muted);
+      animation: cardIn .5s var(--ease) .2s both;
+    }
+    .live-stat-dot {
+      width: 5px; height: 5px; border-radius: 50%; background: var(--green);
+      flex-shrink: 0; animation: statPulse 1.8s ease-in-out infinite;
+    }
+    @keyframes statPulse { 0%,100%{opacity:1} 50%{opacity:.3} }
 
     /* Logo */
     .card-logo {
@@ -256,9 +296,10 @@
 </a>
 
 <div class="card">
+  <div class="card-inner">
   <img src="insideredge_logo_cyan_v2.png" alt="InsiderEdgePro" class="card-logo" onerror="this.style.display='none'" />
   <div class="card-brand">InsiderEdgePro</div>
-<p class="card-sub">Sign in to access real-time insider trades, congressional disclosures, cluster buy signals, and Discord alerts.</p>
+  <p class="card-sub">See exactly what CEOs, CFOs, and Congress are buying — before the rest of the market catches on.</p>
 
   <div class="chips">
     <div class="chip">
@@ -294,6 +335,12 @@
     By signing in you agree to our <a href="#">terms of service</a>.<br/>
     Your trades data is fetched in real-time and never stored.
   </p>
+  </div><!-- /.card-inner -->
+</div>
+
+<div class="live-stat" id="live-stat" style="visibility:hidden">
+  <div class="live-stat-dot"></div>
+  <span id="live-stat-text">— insider trades tracked today</span>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
@@ -331,6 +378,18 @@
     });
     google.accounts.id.prompt();
   });
+
+  /* ── Live trade count ── */
+  fetch('data/latest.json?_=' + Date.now()).then(r => r.json()).then(json => {
+    const count = (json.trades || json || []).filter(t => t.ticker).length;
+    if (!count) return;
+    const el = document.getElementById('live-stat');
+    const txt = document.getElementById('live-stat-text');
+    if (el && txt) {
+      txt.textContent = count.toLocaleString() + ' insider trades tracked today';
+      el.style.visibility = 'visible';
+    }
+  }).catch(() => {});
 
   const GOOGLE_SVG = `<svg width="20" height="20" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.18 1.48-4.97 2.31-8.16 2.31-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/><path fill="none" d="M0 0h48v48H0z"/></svg>`;
 
