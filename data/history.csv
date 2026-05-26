@@ -6779,7 +6779,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-19,16:05,2026-05-15,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,5.76,34043,2595993,+1%,196009,False
 2026-05-19,15:10,2026-05-19,BLNE,"Beeline Holdings, Inc.",Liuzza Nicholas Reyland Jr,"CEO, 10%",P - Purchase,1.04,51525,4419964,+1%,53586,False
 2026-05-19,17:59,2026-05-15,BRCB,"Black Rock Coffee Bar, Inc.","Cynosure Group, LLC","Dir, 10%",P - Purchase,5.35,13642712,21831316,+167%,72988509,True
-2026-05-19,17:15,2026-05-19,RLI,Rli Corp,Klobnak Jennifer L,COO,P - Purchase,53.42,2000,102318,+2%,106840,False
+2026-05-19,17:15,2026-05-19,RLI,Rli Corp,Klobnak Jennifer L,COO,P - Purchase,53.42,2000,102318,+2%,106840,True
 2026-05-19,17:07,2026-05-15,AEBI,Aebi Schmidt Holding AG,Schroeder Henning,"CEO Europe, ROW",P - Purchase,11.30,3000,61000,+5%,33900,True
 2026-05-19,17:05,2026-05-15,AEBI,Aebi Schmidt Holding AG,Portmann Marco,Group CFO,P - Purchase,11.31,5000,30000,+20%,56550,True
 2026-05-19,17:04,2026-05-19,AEBI,Aebi Schmidt Holding AG,Schewerda Steffen,"Pres Vehicle Soln, CEO NA",P - Purchase,11.68,5000,75375,+7%,58400,True
@@ -7106,3 +7106,29 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-26,13:36,2026-05-21,GF,"The New Germany Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,11.83,3900,3130789,+0%,46137,False
 2026-05-26,13:34,2026-05-21,MXF,"The Mexico Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,21.67,7166,2006913,+0%,155287,False
 2026-05-26,13:31,2026-05-21,HFRO,Highland Funds I - Highland Opportunities and Income Fund,"Saba Capital Management, L.P.",10% Owner,P - Purchase,6.25,20490,5657776,+0%,128062,False
+2026-05-26,17:18,2026-05-26,INTU,Intuit Inc.,Prabhu Vasant M,Director,P - Purchase,309.71,500,1750,+40%,154858,False
+2026-05-26,17:18,2026-05-22,INTU,Intuit Inc.,Prabhu Vasant M,Director,P - Purchase,309.45,1250,1250,New,386808,False
+2026-05-26,17:11,2026-05-26,EEFT,"Euronet Worldwide, Inc.",Mcdonnell Thomas A,Director,P - Purchase,66.87,3000,100219,+3%,200610,False
+2026-05-26,17:01,2026-05-22,USEA,United Maritime Corporation,Kostopoulos Dimitrios,Director,P - Purchase,2.40,20000,320000,+7%,48000,False
+2026-05-26,17:01,2026-05-22,BETR,Better Home & Finance Holding Co,Talwar Harit,Director,P - Purchase,25.34,5000,44698,+13%,126696,True
+2026-05-26,16:54,2026-05-26,GLP,Global Partners LP,Global Gp Llc,General Partner,P - Purchase,48.92,5000,76584,+7%,244600,True
+2026-05-26,16:54,2026-05-22,GLP,Global Partners LP,Global Gp Llc,General Partner,P - Purchase,50.05,4184,71584,+6%,209409,True
+2026-05-26,16:54,2026-05-21,GLP,Global Partners LP,Global Gp Llc,General Partner,P - Purchase,51.28,5000,67400,+8%,256400,True
+2026-05-26,16:49,2026-05-22,NCLH,Norwegian Cruise Line Holdings Ltd.,Chidsey John,President and CEO,P - Purchase,16.37,153000,1139940,+16%,2504610,True
+2026-05-26,16:48,2026-05-26,HIMS,"Hims & Hers Health, Inc.",Wells David B,Director,P - Purchase,24.23,48400,224417,+27%,1172974,False
+2026-05-26,16:31,2026-05-21,CELH,"Celsius Holdings, Inc.",Hanson Eric,President & COO,P - Purchase,29.04,7500,76392,+11%,217800,True
+2026-05-26,16:30,2026-05-22,CELH,"Celsius Holdings, Inc.",Kravitz Hal,Director,P - Purchase,29.73,8400,227158,+4%,249732,True
+2026-05-26,16:29,2026-05-22,CELH,"Celsius Holdings, Inc.",Fieldly John,Chief Executive Officer,P - Purchase,29.36,8475,937540,+1%,248826,True
+2026-05-26,16:25,2026-05-26,TXO,"Txo Partners, L.P.",Simpson Bob R,Director,P - Purchase,13.27,34408,8334408,+0%,456463,False
+2026-05-26,16:25,2026-05-22,TXO,"Txo Partners, L.P.",Simpson Bob R,Director,P - Purchase,13.77,104451,8300000,+1%,1438656,True
+2026-05-26,16:25,2026-05-21,TXO,"Txo Partners, L.P.",Simpson Bob R,Director,P - Purchase,13.70,245549,8195549,+3%,3363211,True
+2026-05-26,16:18,2026-05-26,ULBI,Ultralife Corp,Whitmore Bradford T,Director,P - Purchase,6.81,67302,2050637,+3%,458576,False
+2026-05-26,16:18,2026-05-22,ULBI,Ultralife Corp,Whitmore Bradford T,Director,P - Purchase,6.33,8700,1983335,+0%,55067,False
+2026-05-26,16:18,2026-05-21,ULBI,Ultralife Corp,Whitmore Bradford T,Director,P - Purchase,6.13,32876,1974635,+2%,201671,False
+2026-05-26,16:16,2026-05-21,FUN,Six Flags Entertainment Corporation/New,Spiegel Marilyn G,Director,P - Purchase,19.10,2500,15161,+20%,47750,True
+2026-05-26,16:15,2026-05-21,RLI,Rli Corp,Kliethermes Craig W,CHIEF EXECUTIVE OFFICER,P - Purchase,52.00,5000,148990,+3%,260000,True
+2026-05-26,16:15,2026-05-22,XZO,"Exzeo Group, Inc.",Patel Paresh,Chief Executive Officer,P - Purchase,12.92,2000,1668013,+0%,25840,False
+2026-05-26,16:10,2026-05-22,AII,"American Integrity Insurance Group, Inc.",Clark David Lewis,Chairman,P - Purchase,17.15,5830,23426,+33%,99984,False
+2026-05-26,16:04,2026-05-22,AOMR,"Angel Oak Mortgage REIT, Inc.",Minami W D,Director,P - Purchase,8.15,10000,80318,+14%,81500,False
+2026-05-26,16:01,2026-05-21,PSEC,Prospect Capital Corporation,Barry John F,CHIEF EXECUTIVE OFFICER,P - Purchase,2.26,200000,86457351,+0%,451790,False
+2026-05-26,16:00,2026-05-21,AMLX,"Amylyx Pharmaceuticals, Inc.",Firestone Karen,Director,P - Purchase,13.51,3800,66900,+6%,51338,False
