@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-25",
-  "entry_count": 402,
+  "entry_count": 404,
   "entries": [
     {
       "id": "CA|AP-UN|2026-03-26|parkit enterprise inc.|6.3",
@@ -6135,8 +6135,8 @@
         "2026-05-24": 0.28,
         "2026-05-25": 0.28
       },
-      "latest_price": 0.28,
-      "return_pct": -6.67,
+      "latest_price": 0.295,
+      "return_pct": -1.67,
       "last_snapshot": "2026-05-25"
     },
     {
@@ -7527,8 +7527,8 @@
         "2026-05-24": 0.28,
         "2026-05-25": 0.28
       },
-      "latest_price": 0.28,
-      "return_pct": -6.67,
+      "latest_price": 0.295,
+      "return_pct": -1.67,
       "last_snapshot": "2026-05-25"
     },
     {
@@ -11333,6 +11333,46 @@
       },
       "latest_price": 22.85,
       "return_pct": 0.66,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "CA|ARTG|2026-05-25|andres, dale edwin|32.4",
+      "market": "CA",
+      "ticker": "ARTG",
+      "yf_symbol": "ARTG.V",
+      "company": "Artemis Gold Inc.",
+      "insider_name": "Andres, Dale Edwin",
+      "title": "Director",
+      "trade_date": "2026-05-25",
+      "trade_price": 32.4,
+      "value": 162000.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-25": 32.27
+      },
+      "latest_price": 32.27,
+      "return_pct": -0.4,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "CA|SWP|2026-05-25|properly investment company ltd.|5.5081",
+      "market": "CA",
+      "ticker": "SWP",
+      "yf_symbol": "SWP.TO",
+      "company": "Swiss Water Decaffeinated Coffee Inc.",
+      "insider_name": "Properly Investment Company Ltd.",
+      "title": "10% Holder",
+      "trade_date": "2026-05-25",
+      "trade_price": 5.5081,
+      "value": 74910.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-25": 5.63
+      },
+      "latest_price": 5.63,
+      "return_pct": 2.21,
       "last_snapshot": "2026-05-25"
     }
   ]

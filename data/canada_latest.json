@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-25T23:00:22Z",
-  "trade_count": 3144,
+  "last_updated": "2026-05-26T01:00:22Z",
+  "trade_count": 3146,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -47856,6 +47856,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4723613",
+      "trade_date": "2026-05-25",
+      "filing_date": "2026-05-25",
+      "company": "Artemis Gold Inc.",
+      "ticker": "ARTG",
+      "insider_name": "Andres, Dale Edwin",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "32.4000",
+      "value": "162000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4723590",
+      "trade_date": "2026-05-25",
+      "filing_date": "2026-05-25",
+      "company": "Swiss Water Decaffeinated Coffee Inc.",
+      "ticker": "SWP",
+      "insider_name": "Properly Investment Company Ltd.",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "13600",
+      "price": "5.5081",
+      "value": "74910",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
