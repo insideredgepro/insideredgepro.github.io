@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T21:41:21Z",
-  "trade_count": 7127,
+  "last_updated": "2026-05-26T23:01:28Z",
+  "trade_count": 7130,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -114032,6 +114032,54 @@
       "owned": "66900",
       "delta_own": "+6%",
       "value": "51338",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-26",
+      "filing_time": "18:44",
+      "trade_date": "2026-05-22",
+      "ticker": "GEHC",
+      "company": "Ge Healthcare Technologies Inc.",
+      "insider_name": "Lobo Kevin",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "64.18",
+      "qty": "10000",
+      "owned": "14363",
+      "delta_own": "+229%",
+      "value": "641800",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-26",
+      "filing_time": "17:46",
+      "trade_date": "2026-05-26",
+      "ticker": "BCML",
+      "company": "Baycom Corp",
+      "insider_name": "Perdue Michael J",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "30.94",
+      "qty": "3000",
+      "owned": "3000",
+      "delta_own": "New",
+      "value": "92820",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-26",
+      "filing_time": "17:46",
+      "trade_date": "2026-05-22",
+      "ticker": "BCML",
+      "company": "Baycom Corp",
+      "insider_name": "Perdue Michael J",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "30.94",
+      "qty": "2000",
+      "owned": "2000",
+      "delta_own": "New",
+      "value": "61880",
       "cluster_buy": false
     }
   ]

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-26",
-  "entry_count": 1323,
+  "entry_count": 1326,
   "entries": [
     {
       "id": "US|TGEN|2026-03-27|hirsch susan b|2.54",
@@ -54194,6 +54194,66 @@
       },
       "latest_price": 13.68,
       "return_pct": 1.26,
+      "last_snapshot": "2026-05-26"
+    },
+    {
+      "id": "US|GEHC|2026-05-22|lobo kevin|64.18",
+      "market": "US",
+      "ticker": "GEHC",
+      "yf_symbol": "GEHC",
+      "company": "Ge Healthcare Technologies Inc.",
+      "insider_name": "Lobo Kevin",
+      "title": "Director",
+      "trade_date": "2026-05-22",
+      "trade_price": 64.18,
+      "value": 641800.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-26": 64.18
+      },
+      "latest_price": 64.18,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-05-26"
+    },
+    {
+      "id": "US|BCML|2026-05-26|perdue michael j|30.94",
+      "market": "US",
+      "ticker": "BCML",
+      "yf_symbol": "BCML",
+      "company": "Baycom Corp",
+      "insider_name": "Perdue Michael J",
+      "title": "Director",
+      "trade_date": "2026-05-26",
+      "trade_price": 30.94,
+      "value": 92820.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-26": 30.77
+      },
+      "latest_price": 30.77,
+      "return_pct": -0.55,
+      "last_snapshot": "2026-05-26"
+    },
+    {
+      "id": "US|BCML|2026-05-22|perdue michael j|30.94",
+      "market": "US",
+      "ticker": "BCML",
+      "yf_symbol": "BCML",
+      "company": "Baycom Corp",
+      "insider_name": "Perdue Michael J",
+      "title": "Director",
+      "trade_date": "2026-05-22",
+      "trade_price": 30.94,
+      "value": 61880.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-26": 30.77
+      },
+      "latest_price": 30.77,
+      "return_pct": -0.55,
       "last_snapshot": "2026-05-26"
     }
   ]
