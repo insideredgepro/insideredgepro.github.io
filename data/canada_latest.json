@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T17:00:22Z",
-  "trade_count": 3150,
+  "last_updated": "2026-05-26T19:00:23Z",
+  "trade_count": 3152,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -47903,7 +47903,7 @@
       "value": "40500",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4723739",
@@ -47952,6 +47952,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4723754",
+      "trade_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "company": "Awale Resources Limited",
+      "ticker": "ARIC",
+      "insider_name": "Keshishian, Ardem",
+      "title": "Senior Officer",
+      "security": "Common Shares Consolidated",
+      "qty": "100000",
+      "price": "0.7522",
+      "value": "75220",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4723809",
+      "trade_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "company": "Intrepid Metals Corp.",
+      "ticker": "INTR",
+      "insider_name": "Barnholden, Daniel",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "0.8100",
+      "value": "16200",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
