@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T13:48:57Z",
-  "trade_count": 7092,
+  "last_updated": "2026-05-26T17:21:39Z",
+  "trade_count": 7094,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -113472,6 +113472,38 @@
       "owned": "26360460",
       "delta_own": "+0%",
       "value": "1245355",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-26",
+      "filing_time": "12:44",
+      "trade_date": "2026-05-26",
+      "ticker": "TMP",
+      "company": "Tompkins Financial Corp",
+      "insider_name": "Rahilly Ita M",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "85.90",
+      "qty": "1164",
+      "owned": "11849",
+      "delta_own": "+11%",
+      "value": "100000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-26",
+      "filing_time": "10:28",
+      "trade_date": "2026-05-21",
+      "ticker": "CIA",
+      "company": "Citizens, Inc.",
+      "insider_name": "Stenberg Jon",
+      "title": "President & CEO",
+      "trade_type": "P - Purchase",
+      "price": "4.82",
+      "qty": "10000",
+      "owned": "327574",
+      "delta_own": "+3%",
+      "value": "48192",
       "cluster_buy": false
     }
   ]
