@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T19:00:23Z",
-  "trade_count": 3152,
+  "last_updated": "2026-05-26T21:00:26Z",
+  "trade_count": 3155,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -47984,6 +47984,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4723960",
+      "trade_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "company": "Avicanna Inc.",
+      "ticker": "AVCN",
+      "insider_name": "Michael Kott",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "150000",
+      "price": "0.1250",
+      "value": "18750",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4723876",
+      "trade_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "company": "Topicus.com Inc.",
+      "ticker": "TOI",
+      "insider_name": "Kennedy, Claire Marie Catherine",
+      "title": "10% Holder",
+      "security": "Subordinate Voting Shares",
+      "qty": "300",
+      "price": "98.3050",
+      "value": "29491",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4723906",
+      "trade_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "company": "Zodiac Gold Inc. (formerly 1329306 B.C. Ltd.)",
+      "ticker": "ZAU",
+      "insider_name": "Richards, Brett Allan",
+      "title": "6 Months before becoming Insider",
+      "security": "Common Shares",
+      "qty": "558162",
+      "price": "0.3583",
+      "value": "199989",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
