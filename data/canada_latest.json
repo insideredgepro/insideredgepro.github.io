@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T21:00:26Z",
-  "trade_count": 3155,
+  "last_updated": "2026-05-26T23:00:24Z",
+  "trade_count": 3159,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48032,6 +48032,70 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4724042",
+      "trade_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "company": "Altus Group Limited",
+      "ticker": "AIF",
+      "insider_name": "Brennan, William",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "2400",
+      "price": "42.5860",
+      "value": "102206",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4724017",
+      "trade_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "company": "Hemlo Mining Corp.",
+      "ticker": "HMMC",
+      "insider_name": "Walsh, Audra Beth",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "3000",
+      "price": "6.1300",
+      "value": "18390",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4724018",
+      "trade_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "company": "Hemlo Mining Corp.",
+      "ticker": "HMMC",
+      "insider_name": "Walsh, Audra Beth",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "15000",
+      "price": "6.1700",
+      "value": "92550",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4724001",
+      "trade_date": "2026-05-26",
+      "filing_date": "2026-05-26",
+      "company": "NFI Group Inc.",
+      "ticker": "NFI",
+      "insider_name": "Gray, Adam L.",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "5200",
+      "price": "22.5458",
+      "value": "117238",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
