@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-25",
-  "entry_count": 1254,
+  "entry_count": 1306,
   "entries": [
     {
       "id": "US|BBSI|2026-03-26|finn mark steven|29.4",
@@ -52774,6 +52774,1046 @@
       },
       "latest_price": 38.48,
       "return_pct": 0.18,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|BRCB|2026-05-21|geyer clay howard|6.51",
+      "market": "US",
+      "ticker": "BRCB",
+      "yf_symbol": "BRCB",
+      "company": "Black Rock Coffee Bar, Inc.",
+      "insider_name": "Geyer Clay Howard",
+      "title": "Chief Operating Officer",
+      "trade_date": "2026-05-21",
+      "trade_price": 6.51,
+      "value": 293471.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 6.81
+      },
+      "latest_price": 6.81,
+      "return_pct": 4.61,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|PAX|2026-05-21|neto olimpio matarazzo|11.14",
+      "market": "US",
+      "ticker": "PAX",
+      "yf_symbol": "PAX",
+      "company": "Patria Investments Ltd",
+      "insider_name": "Neto Olimpio Matarazzo",
+      "title": "Director",
+      "trade_date": "2026-05-21",
+      "trade_price": 11.14,
+      "value": 167100.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 11.02
+      },
+      "latest_price": 11.02,
+      "return_pct": -1.08,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|PAX|2026-05-20|neto olimpio matarazzo|10.99",
+      "market": "US",
+      "ticker": "PAX",
+      "yf_symbol": "PAX",
+      "company": "Patria Investments Ltd",
+      "insider_name": "Neto Olimpio Matarazzo",
+      "title": "Director",
+      "trade_date": "2026-05-20",
+      "trade_price": 10.99,
+      "value": 164850.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 11.02
+      },
+      "latest_price": 11.02,
+      "return_pct": 0.27,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|PAX|2026-05-15|neto olimpio matarazzo|11.4",
+      "market": "US",
+      "ticker": "PAX",
+      "yf_symbol": "PAX",
+      "company": "Patria Investments Ltd",
+      "insider_name": "Neto Olimpio Matarazzo",
+      "title": "Director",
+      "trade_date": "2026-05-15",
+      "trade_price": 11.4,
+      "value": 171000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 11.02
+      },
+      "latest_price": 11.02,
+      "return_pct": -3.33,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|TWFG|2026-05-21|doak michael|18.52",
+      "market": "US",
+      "ticker": "TWFG",
+      "yf_symbol": "TWFG",
+      "company": "Twfg, Inc.",
+      "insider_name": "Doak Michael",
+      "title": "Director",
+      "trade_date": "2026-05-21",
+      "trade_price": 18.52,
+      "value": 324804.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 18.86
+      },
+      "latest_price": 18.86,
+      "return_pct": 1.84,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|TWFG|2026-05-20|doak michael|18.79",
+      "market": "US",
+      "ticker": "TWFG",
+      "yf_symbol": "TWFG",
+      "company": "Twfg, Inc.",
+      "insider_name": "Doak Michael",
+      "title": "Director",
+      "trade_date": "2026-05-20",
+      "trade_price": 18.79,
+      "value": 295849.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 18.86
+      },
+      "latest_price": 18.86,
+      "return_pct": 0.37,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|LND|2026-05-22|elsztain alejandro gustavo|3.8",
+      "market": "US",
+      "ticker": "LND",
+      "yf_symbol": "LND",
+      "company": "Brasilagro - Brazilian Agricultural Real Estate Co",
+      "insider_name": "Elsztain Alejandro Gustavo",
+      "title": "Director",
+      "trade_date": "2026-05-22",
+      "trade_price": 3.8,
+      "value": 51312.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 3.81
+      },
+      "latest_price": 3.81,
+      "return_pct": 0.26,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|LND|2026-05-21|elsztain alejandro gustavo|3.82",
+      "market": "US",
+      "ticker": "LND",
+      "yf_symbol": "LND",
+      "company": "Brasilagro - Brazilian Agricultural Real Estate Co",
+      "insider_name": "Elsztain Alejandro Gustavo",
+      "title": "Director",
+      "trade_date": "2026-05-21",
+      "trade_price": 3.82,
+      "value": 51586.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 3.81
+      },
+      "latest_price": 3.81,
+      "return_pct": -0.26,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|LND|2026-05-20|elsztain alejandro gustavo|3.79",
+      "market": "US",
+      "ticker": "LND",
+      "yf_symbol": "LND",
+      "company": "Brasilagro - Brazilian Agricultural Real Estate Co",
+      "insider_name": "Elsztain Alejandro Gustavo",
+      "title": "Director",
+      "trade_date": "2026-05-20",
+      "trade_price": 3.79,
+      "value": 51219.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 3.81
+      },
+      "latest_price": 3.81,
+      "return_pct": 0.53,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|LND|2026-05-19|elsztain alejandro gustavo|3.74",
+      "market": "US",
+      "ticker": "LND",
+      "yf_symbol": "LND",
+      "company": "Brasilagro - Brazilian Agricultural Real Estate Co",
+      "insider_name": "Elsztain Alejandro Gustavo",
+      "title": "Director",
+      "trade_date": "2026-05-19",
+      "trade_price": 3.74,
+      "value": 50493.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 3.81
+      },
+      "latest_price": 3.81,
+      "return_pct": 1.87,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|BDL|2026-05-18|flanigan james ii|31.76",
+      "market": "US",
+      "ticker": "BDL",
+      "yf_symbol": "BDL",
+      "company": "Flanigans Enterprises Inc",
+      "insider_name": "Flanigan James Ii",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-05-18",
+      "trade_price": 31.76,
+      "value": 60306.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 32.42
+      },
+      "latest_price": 32.42,
+      "return_pct": 2.08,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|CCAP|2026-05-21|chung henry|11.45",
+      "market": "US",
+      "ticker": "CCAP",
+      "yf_symbol": "CCAP",
+      "company": "Crescent Capital BDC, Inc.",
+      "insider_name": "Chung Henry",
+      "title": "President",
+      "trade_date": "2026-05-21",
+      "trade_price": 11.45,
+      "value": 51525.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 11.37
+      },
+      "latest_price": 11.37,
+      "return_pct": -0.7,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|DMLP|2026-05-20|dorchester minerals operating|28.3",
+      "market": "US",
+      "ticker": "DMLP",
+      "yf_symbol": "DMLP",
+      "company": "Dorchester Minerals, L.P.",
+      "insider_name": "Dorchester Minerals Operating",
+      "title": "Entity Under Common Control",
+      "trade_date": "2026-05-20",
+      "trade_price": 28.3,
+      "value": 212280.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 27.47
+      },
+      "latest_price": 27.47,
+      "return_pct": -2.93,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|ENR|2026-05-21|aqua capital, ltd.|16.81",
+      "market": "US",
+      "ticker": "ENR",
+      "yf_symbol": "ENR",
+      "company": "Energizer Holdings, Inc.",
+      "insider_name": "Aqua Capital, Ltd.",
+      "title": "10% Owner",
+      "trade_date": "2026-05-21",
+      "trade_price": 16.81,
+      "value": 729318.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 18.18
+      },
+      "latest_price": 18.18,
+      "return_pct": 8.15,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|ENR|2026-05-20|aqua capital, ltd.|16.18",
+      "market": "US",
+      "ticker": "ENR",
+      "yf_symbol": "ENR",
+      "company": "Energizer Holdings, Inc.",
+      "insider_name": "Aqua Capital, Ltd.",
+      "title": "10% Owner",
+      "trade_date": "2026-05-20",
+      "trade_price": 16.18,
+      "value": 1320221.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 18.18
+      },
+      "latest_price": 18.18,
+      "return_pct": 12.36,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|ACOG|2026-05-21|opaleye management inc.|5.7",
+      "market": "US",
+      "ticker": "ACOG",
+      "yf_symbol": "ACOG",
+      "company": "Alpha Cognition Inc.",
+      "insider_name": "Opaleye Management Inc.",
+      "title": "10% Owner",
+      "trade_date": "2026-05-21",
+      "trade_price": 5.7,
+      "value": 90886.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 5.85
+      },
+      "latest_price": 5.85,
+      "return_pct": 2.63,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|ACOG|2026-05-20|opaleye management inc.|5.89",
+      "market": "US",
+      "ticker": "ACOG",
+      "yf_symbol": "ACOG",
+      "company": "Alpha Cognition Inc.",
+      "insider_name": "Opaleye Management Inc.",
+      "title": "10% Owner",
+      "trade_date": "2026-05-20",
+      "trade_price": 5.89,
+      "value": 49659.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 5.85
+      },
+      "latest_price": 5.85,
+      "return_pct": -0.68,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|TKLF|2026-05-11|kanayama mei|2.25",
+      "market": "US",
+      "ticker": "TKLF",
+      "yf_symbol": "TKLF",
+      "company": "Tokyo Lifestyle Co., Ltd.",
+      "insider_name": "Kanayama Mei",
+      "title": "Representative Director (PEO)",
+      "trade_date": "2026-05-11",
+      "trade_price": 2.25,
+      "value": 45022.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 1.95
+      },
+      "latest_price": 1.95,
+      "return_pct": -13.33,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|STEW|2026-05-21|hemmer jacob e|17.53",
+      "market": "US",
+      "ticker": "STEW",
+      "yf_symbol": "STEW",
+      "company": "SRH Total Return Fund, Inc.",
+      "insider_name": "Hemmer Jacob E",
+      "title": "Director",
+      "trade_date": "2026-05-21",
+      "trade_price": 17.53,
+      "value": 87650.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 17.72
+      },
+      "latest_price": 17.72,
+      "return_pct": 1.08,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|BAC|2026-05-20|bank of america corp /de/|10.26",
+      "market": "US",
+      "ticker": "BAC",
+      "yf_symbol": "BAC",
+      "company": "Bank of America Corporation",
+      "insider_name": "Bank Of America Corp /De/",
+      "title": "10% Owner",
+      "trade_date": "2026-05-20",
+      "trade_price": 10.26,
+      "value": 32832.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 51.8
+      },
+      "latest_price": 51.8,
+      "return_pct": 404.87,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|CSAN|2026-05-19|martins marcelo eduardo|5.14",
+      "market": "US",
+      "ticker": "CSAN",
+      "yf_symbol": "CSAN",
+      "company": "Cosan S.A.",
+      "insider_name": "Martins Marcelo Eduardo",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-05-19",
+      "trade_price": 5.14,
+      "value": 12549454.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 3.36
+      },
+      "latest_price": 3.36,
+      "return_pct": -34.63,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|CSAN|2026-04-10|martins marcelo eduardo|7.05",
+      "market": "US",
+      "ticker": "CSAN",
+      "yf_symbol": "CSAN",
+      "company": "Cosan S.A.",
+      "insider_name": "Martins Marcelo Eduardo",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-04-10",
+      "trade_price": 7.05,
+      "value": 11270678.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 3.36
+      },
+      "latest_price": 3.36,
+      "return_pct": -52.34,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|BLND|2026-05-20|haveli investments, l.p.|1.5",
+      "market": "US",
+      "ticker": "BLND",
+      "yf_symbol": "BLND",
+      "company": "Blend Labs, Inc.",
+      "insider_name": "Haveli Investments, L.P.",
+      "title": "Director",
+      "trade_date": "2026-05-20",
+      "trade_price": 1.5,
+      "value": 278082.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 1.47
+      },
+      "latest_price": 1.47,
+      "return_pct": -2.0,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|GOLD|2026-05-21|tether global investments fund|41.36",
+      "market": "US",
+      "ticker": "GOLD",
+      "yf_symbol": "GOLD",
+      "company": "Gold.Com, Inc.",
+      "insider_name": "Tether Global Investments Fund",
+      "title": "10% Owner",
+      "trade_date": "2026-05-21",
+      "trade_price": 41.36,
+      "value": 1660408.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 43.4
+      },
+      "latest_price": 43.4,
+      "return_pct": 4.93,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|GOLD|2026-05-20|tether global investments fund|40.57",
+      "market": "US",
+      "ticker": "GOLD",
+      "yf_symbol": "GOLD",
+      "company": "Gold.Com, Inc.",
+      "insider_name": "Tether Global Investments Fund",
+      "title": "10% Owner",
+      "trade_date": "2026-05-20",
+      "trade_price": 40.57,
+      "value": 2296128.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 43.4
+      },
+      "latest_price": 43.4,
+      "return_pct": 6.98,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|GOLD|2026-05-19|tether global investments fund|39.4",
+      "market": "US",
+      "ticker": "GOLD",
+      "yf_symbol": "GOLD",
+      "company": "Gold.Com, Inc.",
+      "insider_name": "Tether Global Investments Fund",
+      "title": "10% Owner",
+      "trade_date": "2026-05-19",
+      "trade_price": 39.4,
+      "value": 1762565.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 43.4
+      },
+      "latest_price": 43.4,
+      "return_pct": 10.15,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|XPOF|2026-05-20|voss capital, lp|5.5",
+      "market": "US",
+      "ticker": "XPOF",
+      "yf_symbol": "XPOF",
+      "company": "Xponential Fitness, Inc.",
+      "insider_name": "Voss Capital, Lp",
+      "title": "10% Owner",
+      "trade_date": "2026-05-20",
+      "trade_price": 5.5,
+      "value": 160290.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 5.71
+      },
+      "latest_price": 5.71,
+      "return_pct": 3.82,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|XPOF|2026-05-19|voss capital, lp|4.7",
+      "market": "US",
+      "ticker": "XPOF",
+      "yf_symbol": "XPOF",
+      "company": "Xponential Fitness, Inc.",
+      "insider_name": "Voss Capital, Lp",
+      "title": "10% Owner",
+      "trade_date": "2026-05-19",
+      "trade_price": 4.7,
+      "value": 803597.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 5.71
+      },
+      "latest_price": 5.71,
+      "return_pct": 21.49,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|PDX|2026-05-20|sharenow greg elliot|21.63",
+      "market": "US",
+      "ticker": "PDX",
+      "yf_symbol": "PDX",
+      "company": "PIMCO Dynamic Income Strategy Fund",
+      "insider_name": "Sharenow Greg Elliot",
+      "title": "",
+      "trade_date": "2026-05-20",
+      "trade_price": 21.63,
+      "value": 103240.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 21.75
+      },
+      "latest_price": 21.75,
+      "return_pct": 0.55,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|PDX|2026-05-19|sharenow greg elliot|21.66",
+      "market": "US",
+      "ticker": "PDX",
+      "yf_symbol": "PDX",
+      "company": "PIMCO Dynamic Income Strategy Fund",
+      "insider_name": "Sharenow Greg Elliot",
+      "title": "",
+      "trade_date": "2026-05-19",
+      "trade_price": 21.66,
+      "value": 282576.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 21.75
+      },
+      "latest_price": 21.75,
+      "return_pct": 0.42,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|STRR|2026-05-21|eberwein jeffrey e.|10.9",
+      "market": "US",
+      "ticker": "STRR",
+      "yf_symbol": "STRR",
+      "company": "Star Equity Holdings, Inc.",
+      "insider_name": "Eberwein Jeffrey E.",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-05-21",
+      "trade_price": 10.9,
+      "value": 45758.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 11.48
+      },
+      "latest_price": 11.48,
+      "return_pct": 5.32,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|STRR|2026-05-19|eberwein jeffrey e.|10.09",
+      "market": "US",
+      "ticker": "STRR",
+      "yf_symbol": "STRR",
+      "company": "Star Equity Holdings, Inc.",
+      "insider_name": "Eberwein Jeffrey E.",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-05-19",
+      "trade_price": 10.09,
+      "value": 139232.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 11.48
+      },
+      "latest_price": 11.48,
+      "return_pct": 13.78,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|BSX|2026-05-20|habiger david c|55.92",
+      "market": "US",
+      "ticker": "BSX",
+      "yf_symbol": "BSX",
+      "company": "Boston Scientific Corp",
+      "insider_name": "Habiger David C",
+      "title": "Director",
+      "trade_date": "2026-05-20",
+      "trade_price": 55.92,
+      "value": 125819.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 57.78
+      },
+      "latest_price": 57.78,
+      "return_pct": 3.33,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|BSX|2026-05-19|habiger david c|56.95",
+      "market": "US",
+      "ticker": "BSX",
+      "yf_symbol": "BSX",
+      "company": "Boston Scientific Corp",
+      "insider_name": "Habiger David C",
+      "title": "Director",
+      "trade_date": "2026-05-19",
+      "trade_price": 56.95,
+      "value": 125279.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 57.78
+      },
+      "latest_price": 57.78,
+      "return_pct": 1.46,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|CCAP|2026-05-20|breaux jason|11.19",
+      "market": "US",
+      "ticker": "CCAP",
+      "yf_symbol": "CCAP",
+      "company": "Crescent Capital BDC, Inc.",
+      "insider_name": "Breaux Jason",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-05-20",
+      "trade_price": 11.19,
+      "value": 55950.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 11.37
+      },
+      "latest_price": 11.37,
+      "return_pct": 1.61,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|AAT|2026-05-21|rady ernest s|21.7",
+      "market": "US",
+      "ticker": "AAT",
+      "yf_symbol": "AAT",
+      "company": "American Assets Trust, Inc.",
+      "insider_name": "Rady Ernest S",
+      "title": "Executive Chairman",
+      "trade_date": "2026-05-21",
+      "trade_price": 21.7,
+      "value": 1229435.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 22.78
+      },
+      "latest_price": 22.78,
+      "return_pct": 4.98,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|AAT|2026-05-20|rady ernest s|21.32",
+      "market": "US",
+      "ticker": "AAT",
+      "yf_symbol": "AAT",
+      "company": "American Assets Trust, Inc.",
+      "insider_name": "Rady Ernest S",
+      "title": "Executive Chairman",
+      "trade_date": "2026-05-20",
+      "trade_price": 21.32,
+      "value": 104042.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 22.78
+      },
+      "latest_price": 22.78,
+      "return_pct": 6.85,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|AAT|2026-05-19|rady ernest s|21.15",
+      "market": "US",
+      "ticker": "AAT",
+      "yf_symbol": "AAT",
+      "company": "American Assets Trust, Inc.",
+      "insider_name": "Rady Ernest S",
+      "title": "Executive Chairman",
+      "trade_date": "2026-05-19",
+      "trade_price": 21.15,
+      "value": 366297.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 22.78
+      },
+      "latest_price": 22.78,
+      "return_pct": 7.71,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|COAG|2026-05-19|ra capital management, l.p.|24.97",
+      "market": "US",
+      "ticker": "COAG",
+      "yf_symbol": "COAG",
+      "company": "Hemab Therapeutics Holdings, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "10% Owner",
+      "trade_date": "2026-05-19",
+      "trade_price": 24.97,
+      "value": 94936.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 25.89
+      },
+      "latest_price": 25.89,
+      "return_pct": 3.68,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|BAC|2026-05-19|bank of america corp /de/|11.28",
+      "market": "US",
+      "ticker": "BAC",
+      "yf_symbol": "BAC",
+      "company": "Bank of America Corporation",
+      "insider_name": "Bank Of America Corp /De/",
+      "title": "10% Owner",
+      "trade_date": "2026-05-19",
+      "trade_price": 11.28,
+      "value": 33840.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 51.8
+      },
+      "latest_price": 51.8,
+      "return_pct": 359.22,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|AMRZ|2026-05-20|gross mario|48.63",
+      "market": "US",
+      "ticker": "AMRZ",
+      "yf_symbol": "AMRZ",
+      "company": "Amrize Ltd",
+      "insider_name": "Gross Mario",
+      "title": "Chief Supply Chain Officer",
+      "trade_date": "2026-05-20",
+      "trade_price": 48.63,
+      "value": 58356.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 49.95
+      },
+      "latest_price": 49.95,
+      "return_pct": 2.71,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|AMRZ|2026-05-19|gross mario|49.17",
+      "market": "US",
+      "ticker": "AMRZ",
+      "yf_symbol": "AMRZ",
+      "company": "Amrize Ltd",
+      "insider_name": "Gross Mario",
+      "title": "Chief Supply Chain Officer",
+      "trade_date": "2026-05-19",
+      "trade_price": 49.17,
+      "value": 137676.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 49.95
+      },
+      "latest_price": 49.95,
+      "return_pct": 1.59,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|LEE|2026-05-21|hoffmann david henry|9.96",
+      "market": "US",
+      "ticker": "LEE",
+      "yf_symbol": "LEE",
+      "company": "Lee Enterprises, Inc",
+      "insider_name": "Hoffmann David Henry",
+      "title": "Director",
+      "trade_date": "2026-05-21",
+      "trade_price": 9.96,
+      "value": 105576.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 9.4
+      },
+      "latest_price": 9.4,
+      "return_pct": -5.62,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|LEE|2026-05-20|hoffmann david henry|9.79",
+      "market": "US",
+      "ticker": "LEE",
+      "yf_symbol": "LEE",
+      "company": "Lee Enterprises, Inc",
+      "insider_name": "Hoffmann David Henry",
+      "title": "Director",
+      "trade_date": "2026-05-20",
+      "trade_price": 9.79,
+      "value": 103774.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 9.4
+      },
+      "latest_price": 9.4,
+      "return_pct": -3.98,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|LEE|2026-05-19|hoffmann david henry|8.94",
+      "market": "US",
+      "ticker": "LEE",
+      "yf_symbol": "LEE",
+      "company": "Lee Enterprises, Inc",
+      "insider_name": "Hoffmann David Henry",
+      "title": "Director",
+      "trade_date": "2026-05-19",
+      "trade_price": 8.94,
+      "value": 94764.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 9.4
+      },
+      "latest_price": 9.4,
+      "return_pct": 5.15,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|HFRO|2026-05-20|saba capital management, l.p.|6.23",
+      "market": "US",
+      "ticker": "HFRO",
+      "yf_symbol": "HFRO",
+      "company": "Highland Funds I - Highland Opportunities and Income Fund",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10% Owner",
+      "trade_date": "2026-05-20",
+      "trade_price": 6.23,
+      "value": 252882.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 6.25
+      },
+      "latest_price": 6.25,
+      "return_pct": 0.32,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|HFRO|2026-05-19|saba capital management, l.p.|6.18",
+      "market": "US",
+      "ticker": "HFRO",
+      "yf_symbol": "HFRO",
+      "company": "Highland Funds I - Highland Opportunities and Income Fund",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10% Owner",
+      "trade_date": "2026-05-19",
+      "trade_price": 6.18,
+      "value": 138339.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 6.25
+      },
+      "latest_price": 6.25,
+      "return_pct": 1.13,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|MXF|2026-05-20|saba capital management, l.p.|21.68",
+      "market": "US",
+      "ticker": "MXF",
+      "yf_symbol": "MXF",
+      "company": "The Mexico Fund, Inc.",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10% Owner",
+      "trade_date": "2026-05-20",
+      "trade_price": 21.68,
+      "value": 99945.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 21.7
+      },
+      "latest_price": 21.7,
+      "return_pct": 0.09,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|MXF|2026-05-19|saba capital management, l.p.|21.58",
+      "market": "US",
+      "ticker": "MXF",
+      "yf_symbol": "MXF",
+      "company": "The Mexico Fund, Inc.",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10% Owner",
+      "trade_date": "2026-05-19",
+      "trade_price": 21.58,
+      "value": 494484.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 21.7
+      },
+      "latest_price": 21.7,
+      "return_pct": 0.56,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|TOI|2026-05-20|chernett jorey|4.07",
+      "market": "US",
+      "ticker": "TOI",
+      "yf_symbol": "TOI",
+      "company": "Oncology Institute, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10% Owner",
+      "trade_date": "2026-05-20",
+      "trade_price": 4.07,
+      "value": 136345.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 4.59
+      },
+      "latest_price": 4.59,
+      "return_pct": 12.78,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|OXSQ|2026-05-20|rosenthal saul b|1.15",
+      "market": "US",
+      "ticker": "OXSQ",
+      "yf_symbol": "OXSQ",
+      "company": "Oxford Square Capital Corp.",
+      "insider_name": "Rosenthal Saul B",
+      "title": "President and COO",
+      "trade_date": "2026-05-20",
+      "trade_price": 1.15,
+      "value": 166654.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 1.28
+      },
+      "latest_price": 1.28,
+      "return_pct": 11.3,
+      "last_snapshot": "2026-05-25"
+    },
+    {
+      "id": "US|OXSQ|2026-05-20|cohen jonathan h|1.15",
+      "market": "US",
+      "ticker": "OXSQ",
+      "yf_symbol": "OXSQ",
+      "company": "Oxford Square Capital Corp.",
+      "insider_name": "Cohen Jonathan H",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-05-20",
+      "trade_price": 1.15,
+      "value": 166656.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-25": 1.28
+      },
+      "latest_price": 1.28,
+      "return_pct": 11.3,
       "last_snapshot": "2026-05-25"
     }
   ]

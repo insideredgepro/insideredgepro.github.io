@@ -6379,7 +6379,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-07,16:05,2026-05-05,BCML,Baycom Corp,Black William J,Exec Vice Chair,P - Purchase,30.17,33082,33082,New,998235,False
 2026-05-07,17:04,2026-05-07,OPCH,"Option Care Health, Inc.",Sullivan Timothy P,Dir,P - Purchase,20.69,24154,73383,+49%,499671,True
 2026-05-07,17:02,2026-05-06,PSX,Phillips 66,Meyers Kevin Omar,Dir,P - Purchase,173.13,175,16799,+1%,30297,False
-2026-05-07,16:58,2026-05-05,GOLD,"Gold.Com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A.",10%,P - Purchase,44.50,530338,3370787,+19%,23600041,False
+2026-05-07,16:58,2026-05-05,GOLD,"Gold.Com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A.",10%,P - Purchase,44.50,530338,3370787,+19%,23600041,True
 2026-05-07,18:15,2026-05-05,OFIX,Orthofix Medical Inc.,"Engine Capital Management, LP",10%,P - Purchase,12.08,184896,4575675,+4%,2232927,True
 2026-05-07,18:12,2026-05-07,NWN,Northwest Natural Holding Co,Palfreyman Justin,"Pres, CEO",P - Purchase,48.75,1225,28451,+4%,59719,False
 2026-05-07,21:10,2026-05-05,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,73.93,3392,5706118,0%,250776,False
@@ -6822,7 +6822,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-20,11:17,2026-05-19,AP,Ampco Pittsburgh Corp,McBrayer Brett,CEO,P - Purchase,9.03,3300,557694,+1%,29792,False
 2026-05-20,10:39,2026-05-18,FOSL,"Fossil Group, Inc.",Schoppert Wendy Lee,Dir,P - Purchase,4.14,24331,120625,+25%,100730,False
 2026-05-20,10:26,2026-05-19,AMRZ,Amrize Ltd,Jenisch Jan Philipp,"COB, CEO",P - Purchase,49.39,19001,2256000,+1%,938451,True
-2026-05-20,15:09,2026-05-19,CCAP,"Crescent Capital BDC, Inc.",Strandberg Steven F.,Director,P - Purchase,11.28,85000,201135,+73%,958486,False
+2026-05-20,15:09,2026-05-19,CCAP,"Crescent Capital BDC, Inc.",Strandberg Steven F.,Director,P - Purchase,11.28,85000,201135,+73%,958486,True
 2026-05-20,14:54,2026-05-20,GWRS,"Global Water Resources, Inc.",Krygier Christopher D,Chief Operating Officer,P - Purchase,6.87,5389,10485,+106%,37000,True
 2026-05-20,14:37,2026-05-19,MTEX,"Mannatech, Incorporated",Robbins Kevin Andrew,Director,P - Purchase,4.17,7100,33333,+27%,29607,False
 2026-05-20,13:34,2026-05-18,AXIA,Axia Energia S.A.,Batista De Lima Filho Pedro,Director,P - Purchase,11.27,49600,15270200,+0%,559144,False
@@ -6983,13 +6983,13 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-21,16:55,2026-05-14,VITL,"Vital Farms, Inc.",Holland Joseph Michael,Chief Supply Chain Officer,P - Purchase,8.00,12484,38150,+49%,99872,True
 2026-05-21,16:47,2026-05-21,STEX,Streamex Corp.,Lekstrom Morgan Lee,Interim Exec COB,P - Purchase,1.04,147000,479241,+44%,153099,False
 2026-05-21,19:20,2026-05-20,RGR,Sturm Ruger & Co Inc,Seyfert Todd William,"Pres, CEO",P - Purchase,39.15,1500,1500,New,58725,True
-2026-05-21,19:08,2026-05-19,XPOF,"Xponential Fitness, Inc.","Voss Capital, LP",10%,P - Purchase,4.82,200005,1108658,+22%,963887,False
+2026-05-21,19:08,2026-05-19,XPOF,"Xponential Fitness, Inc.","Voss Capital, LP",10%,P - Purchase,4.82,200005,1108658,+22%,963887,True
 2026-05-21,18:37,2026-05-20,BRCB,"Black Rock Coffee Bar, Inc.",Schmidt Michael Ryan,Principal Accounting Officer,P - Purchase,6.98,7100,7100,New,49558,True
 2026-05-21,18:30,2026-05-18,AVIR,"Atea Pharmaceuticals, Inc.",Murphy Polly A.,Dir,P - Purchase,4.17,6100,92145,+7%,25446,False
 2026-05-21,20:38,2026-05-19,LOGC,Contextlogic Holdings Inc.,Bobbili Raja,"Dir, 10%",P - Purchase,8.74,150000,18769534,+1%,1310960,False
 2026-05-21,20:22,2026-04-10,CSAN,Cosan S.A.,Martins Marcelo Eduardo,CEO,P - Purchase,5.90,4040614,8857266,+84%,23820132,False
 2026-05-21,20:15,2026-05-19,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.","Dir, 10%",P - Purchase,1.49,777178,15235560,+5%,1158140,False
-2026-05-21,20:15,2026-05-19,GOLD,"Gold.Com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A.",10%,P - Purchase,40.43,141464,3512251,+4%,5719102,False
+2026-05-21,20:15,2026-05-19,GOLD,"Gold.Com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A.",10%,P - Purchase,40.43,141464,3512251,+4%,5719102,True
 2026-05-21,20:11,2026-05-20,ANVS,"Annovis Bio, Inc.",Hoffman Michael B,Dir,P - Purchase,1.87,76344,3588240,+2%,142779,False
 2026-05-21,19:55,2026-05-21,BETR,Better Home & Finance Holding Co,Garg Vishal,"CEO, 10%",P - Purchase,24.89,15600,118260,+15%,388328,True
 2026-05-22,06:13,2026-05-21,SMWB,Similarweb Ltd.,Eilam Barak,Dir,P - Purchase,3.86,50000,101315,+97%,193000,True
@@ -7014,7 +7014,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-22,16:05,2026-03-25,TKLF,"Tokyo Lifestyle Co., Ltd.",Kanayama Mei,"Representative Dir (PEO), 10%",P - Purchase,2.24,24760,20953756,0%,55443,False
 2026-05-22,16:05,2026-05-20,SLGL,Sol-Gel Technologies Ltd.,Opaleye Management Inc.,10%,P - Purchase,64.43,1563,505000,0%,100712,False
 2026-05-22,17:49,2026-05-19,LND,Brasilagro - Brazilian Agricultural Real Estate Co,Elsztain Alejandro Gustavo,Dir,P - Purchase,3.79,54000,612370,+10%,204610,False
-2026-05-22,17:09,2026-05-19,BDL,Flanigans Enterprises Inc,Flanigan James II,CEO,P - Purchase,31.72,2000,983996,0%,63447,False
+2026-05-22,17:09,2026-05-19,BDL,Flanigans Enterprises Inc,Flanigan James II,CEO,P - Purchase,31.72,2000,983996,0%,63447,True
 2026-05-22,17:03,2026-05-20,FRPT,"Freshpet, Inc.",Steeneck Craig D.,Dir,P - Purchase,47.83,2000,37500,+6%,95660,True
 2026-05-22,17:00,2026-05-21,GLND,Greenland Energy Co,Swets Larry G Jr,Dir,P - Purchase,2.66,20000,545000,+4%,53152,True
 2026-05-22,16:57,2026-05-20,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,10.87,18902,818549,+2%,205465,False
@@ -7034,3 +7034,60 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-22,20:00,2026-05-21,CGCT,Cartesian Growth Corp III,Cgc III Sponsor LLC,10%,P - Purchase,10.38,6089,1468894,0%,63186,False
 2026-05-22,19:47,2026-05-20,KLRS,"Kalaris Therapeutics, Inc.",Akkaraju Srinivas,"Dir, 10%",P - Purchase,4.83,244300,12915520,+2%,1179969,False
 2026-05-22,19:24,2026-05-21,LTC,Ltc Properties Inc,Gruber David L,Dir,P - Purchase,38.41,4000,44045,+10%,153640,False
+2026-05-22,21:42,2026-05-21,BRCB,"Black Rock Coffee Bar, Inc.",Geyer Clay Howard,Chief Operating Officer,P - Purchase,6.51,45080,57580,+361%,293471,True
+2026-05-22,21:05,2026-05-21,PAX,Patria Investments Ltd,Neto Olimpio Matarazzo,Director,P - Purchase,11.14,15000,45000,+50%,167100,False
+2026-05-22,21:05,2026-05-20,PAX,Patria Investments Ltd,Neto Olimpio Matarazzo,Director,P - Purchase,10.99,15000,30000,+100%,164850,False
+2026-05-22,21:05,2026-05-15,PAX,Patria Investments Ltd,Neto Olimpio Matarazzo,Director,P - Purchase,11.40,15000,15000,New,171000,False
+2026-05-22,18:29,2025-05-21,RAIN,"Rain Enhancement Technologies Holdco, Inc.",Seidl Randy,Chief Executive Officer,P - Purchase,2.53,30000,640834,+5%,75900,False
+2026-05-22,18:06,2026-05-21,TWFG,"Twfg, Inc.",Doak Michael,Director,P - Purchase,18.52,17538,621518,+3%,324804,False
+2026-05-22,18:06,2026-05-20,TWFG,"Twfg, Inc.",Doak Michael,Director,P - Purchase,18.79,15745,603980,+3%,295849,False
+2026-05-22,18:05,2026-05-20,GWRS,"Global Water Resources, Inc.",Liebman Michael J,CFO and Corporate Secretary,P - Purchase,6.89,7000,7000,New,48260,True
+2026-05-22,17:49,2026-05-22,LND,Brasilagro - Brazilian Agricultural Real Estate Co,Elsztain Alejandro Gustavo,Director,P - Purchase,3.80,13500,612370,+2%,51312,False
+2026-05-22,17:49,2026-05-21,LND,Brasilagro - Brazilian Agricultural Real Estate Co,Elsztain Alejandro Gustavo,Director,P - Purchase,3.82,13500,598870,+2%,51586,False
+2026-05-22,17:49,2026-05-20,LND,Brasilagro - Brazilian Agricultural Real Estate Co,Elsztain Alejandro Gustavo,Director,P - Purchase,3.79,13500,585370,+2%,51219,False
+2026-05-22,17:49,2026-05-19,LND,Brasilagro - Brazilian Agricultural Real Estate Co,Elsztain Alejandro Gustavo,Director,P - Purchase,3.74,13500,571870,+2%,50493,False
+2026-05-22,17:09,2026-05-18,BDL,Flanigans Enterprises Inc,Flanigan James Ii,Chief Executive Officer,P - Purchase,31.76,1899,983971,+0%,60306,True
+2026-05-22,16:18,2026-05-21,CCAP,"Crescent Capital BDC, Inc.",Chung Henry,President,P - Purchase,11.45,4500,20722,+28%,51525,True
+2026-05-22,16:10,2026-05-20,DMLP,"Dorchester Minerals, L.P.",Dorchester Minerals Operating,Entity Under Common Control,P - Purchase,28.30,7500,62517,+14%,212280,True
+2026-05-22,16:10,2026-05-21,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10% Owner,P - Purchase,16.81,43380,7150204,+1%,729318,False
+2026-05-22,16:10,2026-05-20,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10% Owner,P - Purchase,16.18,81609,7106824,+1%,1320221,False
+2026-05-22,16:05,2026-05-21,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10% Owner,P - Purchase,5.70,15945,2530369,+1%,90886,False
+2026-05-22,16:05,2026-05-20,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10% Owner,P - Purchase,5.89,8431,2514424,+0%,49659,False
+2026-05-22,16:05,2026-05-11,TKLF,"Tokyo Lifestyle Co., Ltd.",Kanayama Mei,Representative Director (PEO),P - Purchase,2.25,20010,162216,+14%,45022,False
+2026-05-22,11:47,2026-05-21,STEW,"SRH Total Return Fund, Inc.",Hemmer Jacob E,Director,P - Purchase,17.53,5000,10000,+100%,87650,False
+2026-05-22,11:42,2026-05-20,BAC,Bank of America Corporation,Bank Of America Corp /De/,10% Owner,P - Purchase,10.26,3200,3200,New,32832,False
+2026-05-21,20:22,2026-05-19,CSAN,Cosan S.A.,Martins Marcelo Eduardo,Chief Executive Officer,P - Purchase,5.14,2441528,4890286,+100%,12549454,False
+2026-05-21,20:22,2026-04-10,CSAN,Cosan S.A.,Martins Marcelo Eduardo,Chief Executive Officer,P - Purchase,7.05,1599086,3120178,+105%,11270678,False
+2026-05-21,20:15,2026-05-20,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.",Director,P - Purchase,1.50,185611,15097443,+1%,278082,False
+2026-05-21,20:15,2026-05-19,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.",Director,P - Purchase,1.49,583450,14911832,+4%,867882,False
+2026-05-21,20:15,2026-05-21,GOLD,"Gold.Com, Inc.",Tether Global Investments Fund,10% Owner,P - Purchase,41.36,40141,141464,+40%,1660408,True
+2026-05-21,20:15,2026-05-20,GOLD,"Gold.Com, Inc.",Tether Global Investments Fund,10% Owner,P - Purchase,40.57,56590,101323,+127%,2296128,True
+2026-05-21,20:15,2026-05-19,GOLD,"Gold.Com, Inc.",Tether Global Investments Fund,10% Owner,P - Purchase,39.40,44733,44733,New,1762565,True
+2026-05-21,19:08,2026-05-20,XPOF,"Xponential Fitness, Inc.","Voss Capital, Lp",10% Owner,P - Purchase,5.50,29149,924334,+3%,160290,True
+2026-05-21,19:08,2026-05-19,XPOF,"Xponential Fitness, Inc.","Voss Capital, Lp",10% Owner,P - Purchase,4.70,170856,900187,+23%,803597,True
+2026-05-21,18:27,2026-05-20,PDX,PIMCO Dynamic Income Strategy Fund,Sharenow Greg Elliot,,P - Purchase,21.63,4773,44104,+12%,103240,False
+2026-05-21,18:27,2026-05-19,PDX,PIMCO Dynamic Income Strategy Fund,Sharenow Greg Elliot,,P - Purchase,21.66,13046,39331,+50%,282576,False
+2026-05-21,17:55,2026-05-21,STRR,"Star Equity Holdings, Inc.",Eberwein Jeffrey E.,Chief Executive Officer,P - Purchase,10.90,4198,1059384,+0%,45758,False
+2026-05-21,17:55,2026-05-19,STRR,"Star Equity Holdings, Inc.",Eberwein Jeffrey E.,Chief Executive Officer,P - Purchase,10.09,13799,1054780,+1%,139232,False
+2026-05-21,17:20,2026-05-20,BSX,Boston Scientific Corp,Habiger David C,Director,P - Purchase,55.92,2250,13878,+19%,125819,True
+2026-05-21,17:20,2026-05-19,BSX,Boston Scientific Corp,Habiger David C,Director,P - Purchase,56.95,2200,11628,+23%,125279,True
+2026-05-21,16:33,2026-05-20,CCAP,"Crescent Capital BDC, Inc.",Breaux Jason,Chief Executive Officer,P - Purchase,11.19,5000,52636,+10%,55950,True
+2026-05-21,16:31,2026-05-19,PMTS,Cpi Card Group Inc.,Riley H Sanford,Non-Executive Chairman,P - Purchase,16.00,5400,5400,New,86400,False
+2026-05-21,16:31,2026-05-19,PMTS,Cpi Card Group Inc.,Riley H Sanford,Non-Executive Chairman,P - Purchase,16.00,6500,259938,+3%,104000,False
+2026-05-21,16:29,2026-05-21,AAT,"American Assets Trust, Inc.",Rady Ernest S,Executive Chairman,P - Purchase,21.70,56656,8262188,+1%,1229435,False
+2026-05-21,16:29,2026-05-20,AAT,"American Assets Trust, Inc.",Rady Ernest S,Executive Chairman,P - Purchase,21.32,4880,8205532,+0%,104042,False
+2026-05-21,16:29,2026-05-19,AAT,"American Assets Trust, Inc.",Rady Ernest S,Executive Chairman,P - Purchase,21.15,17319,8200652,+0%,366297,False
+2026-05-21,16:20,2026-05-19,COAG,"Hemab Therapeutics Holdings, Inc.","Ra Capital Management, L.P.",10% Owner,P - Purchase,24.97,3802,6375972,+0%,94936,False
+2026-05-21,14:44,2026-05-19,BAC,Bank of America Corporation,Bank Of America Corp /De/,10% Owner,P - Purchase,11.28,3000,3000,New,33840,False
+2026-05-21,12:31,2026-05-20,AMRZ,Amrize Ltd,Gross Mario,Chief Supply Chain Officer,P - Purchase,48.63,1200,34747,+4%,58356,True
+2026-05-21,12:31,2026-05-19,AMRZ,Amrize Ltd,Gross Mario,Chief Supply Chain Officer,P - Purchase,49.17,2800,33747,+9%,137676,True
+2026-05-21,12:18,2026-05-21,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,Director,P - Purchase,9.96,10600,11340549,+0%,105576,False
+2026-05-21,12:18,2026-05-20,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,Director,P - Purchase,9.79,10600,11329949,+0%,103774,False
+2026-05-21,12:18,2026-05-19,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,Director,P - Purchase,8.94,10600,11319349,+0%,94764,False
+2026-05-21,11:14,2026-05-20,HFRO,Highland Funds I - Highland Opportunities and Income Fund,"Saba Capital Management, L.P.",10% Owner,P - Purchase,6.23,40591,5637286,+1%,252882,False
+2026-05-21,11:14,2026-05-19,HFRO,Highland Funds I - Highland Opportunities and Income Fund,"Saba Capital Management, L.P.",10% Owner,P - Purchase,6.18,22385,5596695,+0%,138339,False
+2026-05-21,11:11,2026-05-20,MXF,"The Mexico Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,21.68,4610,1999747,+0%,99945,False
+2026-05-21,11:11,2026-05-19,MXF,"The Mexico Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,21.58,22914,1995137,+1%,494484,False
+2026-05-21,09:35,2026-05-20,TOI,"Oncology Institute, Inc.",Chernett Jorey,10% Owner,P - Purchase,4.07,33500,10567858,+0%,136345,False
+2026-05-21,08:12,2026-05-20,OXSQ,Oxford Square Capital Corp.,Rosenthal Saul B,President and COO,P - Purchase,1.15,144703,2201479,+7%,166654,True
+2026-05-21,08:11,2026-05-20,OXSQ,Oxford Square Capital Corp.,Cohen Jonathan H,Chief Executive Officer,P - Purchase,1.15,144704,2417193,+6%,166656,True
