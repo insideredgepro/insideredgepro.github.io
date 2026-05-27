@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T10:51:29Z",
-  "trade_count": 7141,
+  "last_updated": "2026-05-27T14:21:04Z",
+  "trade_count": 7145,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -114256,6 +114256,70 @@
       "owned": "4186200",
       "delta_own": "+1%",
       "value": "288201",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-27",
+      "filing_time": "09:59",
+      "trade_date": "2026-05-21",
+      "ticker": "HGBL",
+      "company": "Heritage Global Inc.",
+      "insider_name": "Dove Nicholas Kirk",
+      "title": "President, Industrial Assets",
+      "trade_type": "P - Purchase",
+      "price": "1.22",
+      "qty": "26000",
+      "owned": "126000",
+      "delta_own": "+26%",
+      "value": "31590",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-27",
+      "filing_time": "08:00",
+      "trade_date": "2026-05-26",
+      "ticker": "PED",
+      "company": "PEDEVCO Corp.",
+      "insider_name": "Willsher Martyn",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "14.29",
+      "qty": "13428",
+      "owned": "25727",
+      "delta_own": "+109%",
+      "value": "191859",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-27",
+      "filing_time": "08:00",
+      "trade_date": "2026-05-22",
+      "ticker": "PED",
+      "company": "PEDEVCO Corp.",
+      "insider_name": "Willsher Martyn",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "14.74",
+      "qty": "6572",
+      "owned": "12299",
+      "delta_own": "+115%",
+      "value": "96865",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-27",
+      "filing_time": "08:00",
+      "trade_date": "2026-05-26",
+      "ticker": "VCIG",
+      "company": "Vci Global Ltd",
+      "insider_name": "Hoo Voon Him",
+      "title": "CEO and Director",
+      "trade_type": "P - Purchase",
+      "price": "1.33",
+      "qty": "654135",
+      "owned": "2225533",
+      "delta_own": "+42%",
+      "value": "870000",
       "cluster_buy": false
     }
   ]
