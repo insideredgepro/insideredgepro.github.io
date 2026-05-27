@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T19:00:37Z",
-  "trade_count": 3164,
+  "last_updated": "2026-05-27T21:00:19Z",
+  "trade_count": 3166,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48173,6 +48173,38 @@
       "qty": "500",
       "price": "150.0000",
       "value": "75000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4724331",
+      "trade_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "company": "Clinch Resources Ltd.",
+      "ticker": "CLCH",
+      "insider_name": "Losito, David John",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "25000",
+      "price": "1.0500",
+      "value": "26250",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4724396",
+      "trade_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "company": "Visionary Copper and Gold Mines Inc.",
+      "ticker": "VCG",
+      "insider_name": "Jennings, Ross",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "43900",
+      "price": "1.4100",
+      "value": "61899",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
