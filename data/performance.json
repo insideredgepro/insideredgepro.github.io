@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-27",
-  "entry_count": 1355,
+  "entry_count": 1365,
   "entries": [
     {
       "id": "US|TSM|2026-03-29|lin shyue-shyh|55.63",
@@ -13836,8 +13836,8 @@
         "2026-05-26": 2.41,
         "2026-05-27": 2.51
       },
-      "latest_price": 2.58,
-      "return_pct": 50.0,
+      "latest_price": 2.51,
+      "return_pct": 45.93,
       "last_snapshot": "2026-05-27"
     },
     {
@@ -40907,8 +40907,8 @@
         "2026-05-26": 20.02,
         "2026-05-27": 20.0
       },
-      "latest_price": 19.8,
-      "return_pct": 2.96,
+      "latest_price": 20,
+      "return_pct": 4.0,
       "last_snapshot": "2026-05-27"
     },
     {
@@ -49483,8 +49483,8 @@
         "2026-05-26": 54.99,
         "2026-05-27": 54.99
       },
-      "latest_price": 54.0,
-      "return_pct": -1.75,
+      "latest_price": 54.99,
+      "return_pct": 0.05,
       "last_snapshot": "2026-05-27"
     },
     {
@@ -49509,8 +49509,8 @@
         "2026-05-26": 54.99,
         "2026-05-27": 54.99
       },
-      "latest_price": 54.0,
-      "return_pct": -1.75,
+      "latest_price": 54.99,
+      "return_pct": 0.05,
       "last_snapshot": "2026-05-27"
     },
     {
@@ -50263,8 +50263,8 @@
         "2026-05-26": 0.149,
         "2026-05-27": 0.145
       },
-      "latest_price": 0.1489,
-      "return_pct": -40.44,
+      "latest_price": 0.145,
+      "return_pct": -42.0,
       "last_snapshot": "2026-05-27"
     },
     {
@@ -50627,8 +50627,8 @@
         "2026-05-26": 8.55,
         "2026-05-27": 8.84
       },
-      "latest_price": 8.8,
-      "return_pct": 0.69,
+      "latest_price": 8.84,
+      "return_pct": 1.14,
       "last_snapshot": "2026-05-27"
     },
     {
@@ -54846,6 +54846,206 @@
       },
       "latest_price": 13.52,
       "return_pct": -4.11,
+      "last_snapshot": "2026-05-27"
+    },
+    {
+      "id": "US|HCWB|2026-05-22|wong hing c|1.41",
+      "market": "US",
+      "ticker": "HCWB",
+      "yf_symbol": "HCWB",
+      "company": "Hcw Biologics Inc.",
+      "insider_name": "Wong Hing C",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-05-22",
+      "trade_price": 1.41,
+      "value": 160000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-27": 1.94
+      },
+      "latest_price": 1.94,
+      "return_pct": 37.59,
+      "last_snapshot": "2026-05-27"
+    },
+    {
+      "id": "US|HCWB|2026-05-22|garrett scott t|1.41",
+      "market": "US",
+      "ticker": "HCWB",
+      "yf_symbol": "HCWB",
+      "company": "Hcw Biologics Inc.",
+      "insider_name": "Garrett Scott T",
+      "title": "Director",
+      "trade_date": "2026-05-22",
+      "trade_price": 1.41,
+      "value": 250000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-27": 1.94
+      },
+      "latest_price": 1.94,
+      "return_pct": 37.59,
+      "last_snapshot": "2026-05-27"
+    },
+    {
+      "id": "US|STRR|2026-05-27|eberwein jeffrey e.|11.76",
+      "market": "US",
+      "ticker": "STRR",
+      "yf_symbol": "STRR",
+      "company": "Star Equity Holdings, Inc.",
+      "insider_name": "Eberwein Jeffrey E.",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-05-27",
+      "trade_price": 11.76,
+      "value": 26907.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-27": 11.81
+      },
+      "latest_price": 11.81,
+      "return_pct": 0.43,
+      "last_snapshot": "2026-05-27"
+    },
+    {
+      "id": "US|STRR|2026-05-26|eberwein jeffrey e.|11.51",
+      "market": "US",
+      "ticker": "STRR",
+      "yf_symbol": "STRR",
+      "company": "Star Equity Holdings, Inc.",
+      "insider_name": "Eberwein Jeffrey E.",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-05-26",
+      "trade_price": 11.51,
+      "value": 27785.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-27": 11.81
+      },
+      "latest_price": 11.81,
+      "return_pct": 2.61,
+      "last_snapshot": "2026-05-27"
+    },
+    {
+      "id": "US|BOC|2026-05-27|royal jeffrey c|12.82",
+      "market": "US",
+      "ticker": "BOC",
+      "yf_symbol": "BOC",
+      "company": "Boston Omaha Corp",
+      "insider_name": "Royal Jeffrey C",
+      "title": "Director",
+      "trade_date": "2026-05-27",
+      "trade_price": 12.82,
+      "value": 128200.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-27": 12.59
+      },
+      "latest_price": 12.59,
+      "return_pct": -1.79,
+      "last_snapshot": "2026-05-27"
+    },
+    {
+      "id": "US|BOC|2026-05-27|royal jeffrey c|12.72",
+      "market": "US",
+      "ticker": "BOC",
+      "yf_symbol": "BOC",
+      "company": "Boston Omaha Corp",
+      "insider_name": "Royal Jeffrey C",
+      "title": "Director",
+      "trade_date": "2026-05-27",
+      "trade_price": 12.72,
+      "value": 127200.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-27": 12.59
+      },
+      "latest_price": 12.59,
+      "return_pct": -1.02,
+      "last_snapshot": "2026-05-27"
+    },
+    {
+      "id": "US|BOC|2026-05-26|royal jeffrey c|12.82",
+      "market": "US",
+      "ticker": "BOC",
+      "yf_symbol": "BOC",
+      "company": "Boston Omaha Corp",
+      "insider_name": "Royal Jeffrey C",
+      "title": "Director",
+      "trade_date": "2026-05-26",
+      "trade_price": 12.82,
+      "value": 141583.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-27": 12.59
+      },
+      "latest_price": 12.59,
+      "return_pct": -1.79,
+      "last_snapshot": "2026-05-27"
+    },
+    {
+      "id": "US|BOC|2026-05-22|royal jeffrey c|12.4",
+      "market": "US",
+      "ticker": "BOC",
+      "yf_symbol": "BOC",
+      "company": "Boston Omaha Corp",
+      "insider_name": "Royal Jeffrey C",
+      "title": "Director",
+      "trade_date": "2026-05-22",
+      "trade_price": 12.4,
+      "value": 124000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-27": 12.59
+      },
+      "latest_price": 12.59,
+      "return_pct": 1.53,
+      "last_snapshot": "2026-05-27"
+    },
+    {
+      "id": "US|BLND|2026-05-26|haveli investments, l.p.|1.46",
+      "market": "US",
+      "ticker": "BLND",
+      "yf_symbol": "BLND",
+      "company": "Blend Labs, Inc.",
+      "insider_name": "Haveli Investments, L.P.",
+      "title": "Director",
+      "trade_date": "2026-05-26",
+      "trade_price": 1.46,
+      "value": 355736.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-27": 1.56
+      },
+      "latest_price": 1.56,
+      "return_pct": 6.85,
+      "last_snapshot": "2026-05-27"
+    },
+    {
+      "id": "US|BLND|2026-05-22|haveli investments, l.p.|1.48",
+      "market": "US",
+      "ticker": "BLND",
+      "yf_symbol": "BLND",
+      "company": "Blend Labs, Inc.",
+      "insider_name": "Haveli Investments, L.P.",
+      "title": "Director",
+      "trade_date": "2026-05-22",
+      "trade_price": 1.48,
+      "value": 1182088.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-27": 1.56
+      },
+      "latest_price": 1.56,
+      "return_pct": 5.41,
       "last_snapshot": "2026-05-27"
     }
   ]
