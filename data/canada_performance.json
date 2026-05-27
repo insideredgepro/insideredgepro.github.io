@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-27",
-  "entry_count": 401,
+  "entry_count": 403,
   "entries": [
     {
       "id": "CA|MTA|2026-03-30|heath, brett|6.19",
@@ -11879,6 +11879,46 @@
       },
       "latest_price": 1.45,
       "return_pct": 2.84,
+      "last_snapshot": "2026-05-27"
+    },
+    {
+      "id": "CA|AVCN|2026-05-27|kilic, ozgur|0.1366",
+      "market": "CA",
+      "ticker": "AVCN",
+      "yf_symbol": "AVCN.TO",
+      "company": "Avicanna Inc.",
+      "insider_name": "Kilic, Ozgur",
+      "title": "Director",
+      "trade_date": "2026-05-27",
+      "trade_price": 0.1366,
+      "value": 21856.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-27": 0.13
+      },
+      "latest_price": 0.13,
+      "return_pct": -4.83,
+      "last_snapshot": "2026-05-27"
+    },
+    {
+      "id": "CA|NFG|2026-05-27|williams, chad|2.6905",
+      "market": "CA",
+      "ticker": "NFG",
+      "yf_symbol": "NFG.V",
+      "company": "New Found Gold Corp.",
+      "insider_name": "Williams, Chad",
+      "title": "Director",
+      "trade_date": "2026-05-27",
+      "trade_price": 2.6905,
+      "value": 134525.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-27": 2.64
+      },
+      "latest_price": 2.64,
+      "return_pct": -1.88,
       "last_snapshot": "2026-05-27"
     }
   ]

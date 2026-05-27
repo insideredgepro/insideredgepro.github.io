@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T21:00:19Z",
-  "trade_count": 3166,
+  "last_updated": "2026-05-27T23:00:31Z",
+  "trade_count": 3168,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -47455,7 +47455,7 @@
       "value": "50030",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4722192",
@@ -47647,7 +47647,7 @@
       "value": "21060",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4722811",
@@ -47775,7 +47775,7 @@
       "value": "51000",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4723490",
@@ -47999,7 +47999,7 @@
       "value": "18750",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4723876",
@@ -48205,6 +48205,38 @@
       "qty": "43900",
       "price": "1.4100",
       "value": "61899",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4724461",
+      "trade_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "company": "Avicanna Inc.",
+      "ticker": "AVCN",
+      "insider_name": "Kilic, Ozgur",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "160000",
+      "price": "0.1366",
+      "value": "21856",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4724465",
+      "trade_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "company": "New Found Gold Corp.",
+      "ticker": "NFG",
+      "insider_name": "Williams, Chad",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "2.6905",
+      "value": "134525",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
