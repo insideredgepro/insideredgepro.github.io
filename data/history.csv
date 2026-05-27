@@ -6488,7 +6488,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-12,17:33,2026-05-08,J,Jacobs Solutions Inc.,Fernandez Manuel J,Dir,P - Purchase,121.93,403,12251,+3%,49137,True
 2026-05-12,17:32,2026-05-08,BOBS,"Bob'S Discount Furniture, Inc.",Barton William G,See Remarks,P - Purchase,13.55,22350,22850,>999%,302788,False
 2026-05-12,17:31,2026-05-08,MKTW,"Marketwise, Inc.",Stansberry Frank Porter,"Dir, 10%",P - Purchase,18.97,51375,301756,+21%,974582,False
-2026-05-12,17:29,2026-05-08,LILA,Liberty Latin America Ltd.,Nair Balan,"Pres, CEO",P - Purchase,8.07,20000,3147818,+1%,161490,False
+2026-05-12,17:29,2026-05-08,LILA,Liberty Latin America Ltd.,Nair Balan,"Pres, CEO",P - Purchase,8.07,20000,3147818,+1%,161490,True
 2026-05-12,17:22,2026-05-11,ADMA,"Adma Biologics, Inc.",Grossman Jerrold B,Dir,P - Purchase,8.01,12500,594091,+2%,100125,False
 2026-05-12,17:20,2026-05-08,AXIA,Axia Energia S.A.,Batista De Lima Filho Pedro,Dir,P - Purchase,11.90,3656500,5823238,+169%,43515365,False
 2026-05-12,17:12,2026-05-11,IRTC,"Irhythm Holdings, Inc.",Talwalkar Abhijit Y,Dir,P - Purchase,10.71,5312,20299,+35%,56892,False
@@ -7128,7 +7128,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-26,16:16,2026-05-21,FUN,Six Flags Entertainment Corporation/New,Spiegel Marilyn G,Director,P - Purchase,19.10,2500,15161,+20%,47750,True
 2026-05-26,16:15,2026-05-21,RLI,Rli Corp,Kliethermes Craig W,CHIEF EXECUTIVE OFFICER,P - Purchase,52.00,5000,148990,+3%,260000,True
 2026-05-26,16:15,2026-05-22,XZO,"Exzeo Group, Inc.",Patel Paresh,Chief Executive Officer,P - Purchase,12.92,2000,1668013,+0%,25840,False
-2026-05-26,16:10,2026-05-22,AII,"American Integrity Insurance Group, Inc.",Clark David Lewis,Chairman,P - Purchase,17.15,5830,23426,+33%,99984,False
+2026-05-26,16:10,2026-05-22,AII,"American Integrity Insurance Group, Inc.",Clark David Lewis,Chairman,P - Purchase,17.15,5830,23426,+33%,99984,True
 2026-05-26,16:04,2026-05-22,AOMR,"Angel Oak Mortgage REIT, Inc.",Minami W D,Director,P - Purchase,8.15,10000,80318,+14%,81500,False
 2026-05-26,16:01,2026-05-21,PSEC,Prospect Capital Corporation,Barry John F,CHIEF EXECUTIVE OFFICER,P - Purchase,2.26,200000,86457351,+0%,451790,False
 2026-05-26,16:00,2026-05-21,AMLX,"Amylyx Pharmaceuticals, Inc.",Firestone Karen,Director,P - Purchase,13.51,3800,66900,+6%,51338,False
@@ -7159,3 +7159,31 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-27,15:46,2026-05-22,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10% Owner,P - Purchase,17.90,11790,7161994,+0%,211075,False
 2026-05-27,15:29,2026-05-27,OTLK,"Outlook Therapeutics, Inc.",Sukhtian Faisal Ghiath,Director,P - Purchase,0.41,122174,125574,"+3,593%",50006,True
 2026-05-27,15:15,2026-05-26,OTLK,"Outlook Therapeutics, Inc.",Hilzinger Kurt J,Director,P - Purchase,0.44,400000,423655,"+1,691%",176520,True
+2026-05-27,18:18,2026-05-27,TWFG,"Twfg, Inc.",Doak Michael,Director,P - Purchase,18.62,24880,668398,+4%,463266,False
+2026-05-27,18:18,2026-05-26,TWFG,"Twfg, Inc.",Doak Michael,Director,P - Purchase,19.23,11000,643518,+2%,211530,False
+2026-05-27,18:18,2026-05-22,TWFG,"Twfg, Inc.",Doak Michael,Director,P - Purchase,18.89,11000,632518,+2%,207790,False
+2026-05-27,17:59,2026-05-27,GAME,"Gamesquare Holdings, Inc.","Blue & Silver Ventures, Ltd.",,P - Purchase,0.42,144346,5997620,+2%,60308,False
+2026-05-27,17:59,2026-05-26,GAME,"Gamesquare Holdings, Inc.","Blue & Silver Ventures, Ltd.",,P - Purchase,0.43,620100,5853274,+12%,268565,False
+2026-05-27,17:54,2026-05-26,AII,"American Integrity Insurance Group, Inc.",Mathis Steven B,Director,P - Purchase,16.82,3000,6126,+96%,50460,True
+2026-05-27,17:49,2026-05-27,FONR,FONAR Corporation,Shane Hilary,10% Owner,P - Purchase,18.99,71414,98692,+262%,1356152,False
+2026-05-27,17:20,2026-05-22,APURU,Aperture AC,Aperture Sponsor Llc,10% Owner,P - Purchase,10.00,223000,223000,New,2230000,False
+2026-05-27,17:02,2026-05-27,TXO,"Txo Partners, L.P.",Simpson Bob R,Director,P - Purchase,13.20,65592,8400000,+1%,866051,False
+2026-05-27,17:02,2026-05-27,DBD,"Diebold Nixdorf, Inc",Marquez Octavio,President and CEO,P - Purchase,79.56,621,217507,+0%,49408,True
+2026-05-27,17:02,2026-05-26,DBD,"Diebold Nixdorf, Inc",Marquez Octavio,President and CEO,P - Purchase,79.37,629,216886,+0%,49926,True
+2026-05-27,16:55,2026-05-27,WW,"Ww International, Inc.",Davis Eugene I,Director,P - Purchase,14.73,10000,21648,+86%,147329,True
+2026-05-27,16:55,2026-05-22,WW,"Ww International, Inc.",Davis Eugene I,Director,P - Purchase,12.63,10000,10000,New,126251,True
+2026-05-27,16:41,2026-05-22,GRF,"Eagle Capital Growth Fund, Inc.",Sims David C,"CFO, CCO, Secretary, Treasurer",P - Purchase,10.00,10000,220032,+5%,99980,False
+2026-05-27,16:39,2026-05-26,SYY,Sysco Corporation,Hinshaw John M,Director,P - Purchase,75.17,13304,40200,+49%,1000035,False
+2026-05-27,16:39,2026-05-27,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,Director,P - Purchase,10.05,13700,11378549,+0%,137685,False
+2026-05-27,16:39,2026-05-26,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,Director,P - Purchase,9.99,13700,11364849,+0%,136863,False
+2026-05-27,16:39,2026-05-22,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,Director,P - Purchase,9.56,10600,11351149,+0%,101336,False
+2026-05-27,16:34,2026-05-18,MIMI,Mint Incorporation Limited,Chan Hoi Lung,Chief Executive Officer,P - Purchase,3.01,211879,474379,+81%,637756,False
+2026-05-27,16:33,2026-05-22,LILAK,Liberty Latin America Ltd.,Malone John C,Director Emeritus,P - Purchase,8.63,12406463,21173018,+142%,107067776,False
+2026-05-27,16:33,2026-05-22,LILA,Liberty Latin America Ltd.,Malone John C,Director Emeritus,P - Purchase,8.63,12406463,21173018,+142%,107067776,True
+2026-05-27,16:30,2026-05-22,OTF,Blue Owl Technology Finance Corp.,Temple Chris,Director,P - Purchase,10.71,7000,12000,+140%,74970,False
+2026-05-27,16:30,2026-05-22,GOLD,"Gold.Com, Inc.",Tether Global Investments Fund,10% Owner,P - Purchase,43.11,58536,200000,+41%,2523528,True
+2026-05-27,16:15,2026-05-26,XZO,"Exzeo Group, Inc.",Patel Paresh,Chief Executive Officer,P - Purchase,13.26,2000,1670013,+0%,26520,False
+2026-05-27,16:10,2026-05-22,AII,"American Integrity Insurance Group, Inc.",Smathers Steven E,Director,P - Purchase,16.99,2900,177827,+2%,49271,True
+2026-05-27,16:06,2026-05-22,PSEC,Prospect Capital Corporation,Barry John F,CHIEF EXECUTIVE OFFICER,P - Purchase,2.32,232000,86689351,+0%,538534,False
+2026-05-27,16:05,2026-05-26,ASND,Ascendis Pharma A/S,Bienaime Jean Jacques,Director,P - Purchase,237.80,400,400,New,95120,False
+2026-05-27,16:05,2026-05-26,INR,"Infinity Natural Resources, Inc.",Gieselman Scott,Director,P - Purchase,14.10,20000,70900,+39%,282060,False
