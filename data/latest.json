@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T17:52:09Z",
-  "trade_count": 7151,
+  "last_updated": "2026-05-27T20:01:29Z",
+  "trade_count": 7154,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -114417,6 +114417,54 @@
       "delta_own": "New",
       "value": "27388",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-27",
+      "filing_time": "15:46",
+      "trade_date": "2026-05-22",
+      "ticker": "ENR",
+      "company": "Energizer Holdings, Inc.",
+      "insider_name": "Aqua Capital, Ltd.",
+      "title": "10% Owner",
+      "trade_type": "P - Purchase",
+      "price": "17.90",
+      "qty": "11790",
+      "owned": "7161994",
+      "delta_own": "+0%",
+      "value": "211075",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-27",
+      "filing_time": "15:29",
+      "trade_date": "2026-05-27",
+      "ticker": "OTLK",
+      "company": "Outlook Therapeutics, Inc.",
+      "insider_name": "Sukhtian Faisal Ghiath",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "0.41",
+      "qty": "122174",
+      "owned": "125574",
+      "delta_own": "+3,593%",
+      "value": "50006",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-27",
+      "filing_time": "15:15",
+      "trade_date": "2026-05-26",
+      "ticker": "OTLK",
+      "company": "Outlook Therapeutics, Inc.",
+      "insider_name": "Hilzinger Kurt J",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "0.44",
+      "qty": "400000",
+      "owned": "423655",
+      "delta_own": "+1,691%",
+      "value": "176520",
+      "cluster_buy": true
     }
   ]
 }
