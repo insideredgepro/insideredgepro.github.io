@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T15:00:17Z",
-  "trade_count": 3159,
+  "last_updated": "2026-05-27T17:00:22Z",
+  "trade_count": 3163,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48096,6 +48096,70 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4724231",
+      "trade_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "company": "Azimut Exploration Inc.",
+      "ticker": "AZM",
+      "insider_name": "Rosset, Jonathan",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "35000",
+      "price": "0.7000",
+      "value": "24500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4724251",
+      "trade_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "company": "BetterLife Pharma Inc.",
+      "ticker": "BETR",
+      "insider_name": "Sangha, Steven",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "327000",
+      "price": "0.0600",
+      "value": "19620",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4724208",
+      "trade_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "company": "Quarterhill Inc.",
+      "ticker": "QTRH",
+      "insider_name": "East, III, Burland Bland",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "17000",
+      "price": "1.3400",
+      "value": "22780",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4724226",
+      "trade_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "company": "Visionary Copper and Gold Mines Inc.",
+      "ticker": "VCG",
+      "insider_name": "Jennings, Ross",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "99700",
+      "price": "1.3500",
+      "value": "134595",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
