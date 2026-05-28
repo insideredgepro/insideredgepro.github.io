@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28T14:29:42Z",
-  "trade_count": 7201,
+  "last_updated": "2026-05-28T17:57:09Z",
+  "trade_count": 7206,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -115217,6 +115217,86 @@
       "delta_own": "+7%",
       "value": "25500",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-28",
+      "filing_time": "12:05",
+      "trade_date": "2026-05-26",
+      "ticker": "HFRO",
+      "company": "Highland Funds I - Highland Opportunities and Income Fund",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10% Owner",
+      "trade_type": "P - Purchase",
+      "price": "6.27",
+      "qty": "15858",
+      "owned": "5673634",
+      "delta_own": "+0%",
+      "value": "99430",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-28",
+      "filing_time": "12:02",
+      "trade_date": "2026-05-27",
+      "ticker": "MXF",
+      "company": "The Mexico Fund, Inc.",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10% Owner",
+      "trade_type": "P - Purchase",
+      "price": "22.27",
+      "qty": "44608",
+      "owned": "2065923",
+      "delta_own": "+2%",
+      "value": "993420",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-28",
+      "filing_time": "12:02",
+      "trade_date": "2026-05-26",
+      "ticker": "MXF",
+      "company": "The Mexico Fund, Inc.",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10% Owner",
+      "trade_type": "P - Purchase",
+      "price": "21.99",
+      "qty": "14402",
+      "owned": "2021315",
+      "delta_own": "+1%",
+      "value": "316700",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-28",
+      "filing_time": "11:59",
+      "trade_date": "2026-05-27",
+      "ticker": "GF",
+      "company": "The New Germany Fund, Inc.",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10% Owner",
+      "trade_type": "P - Purchase",
+      "price": "11.93",
+      "qty": "241593",
+      "owned": "3375282",
+      "delta_own": "+8%",
+      "value": "2882204",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-28",
+      "filing_time": "11:59",
+      "trade_date": "2026-05-26",
+      "ticker": "GF",
+      "company": "The New Germany Fund, Inc.",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10% Owner",
+      "trade_type": "P - Purchase",
+      "price": "11.82",
+      "qty": "2900",
+      "owned": "3133689",
+      "delta_own": "+0%",
+      "value": "34278",
+      "cluster_buy": false
     }
   ]
 }
