@@ -6569,7 +6569,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-13,16:00,2026-05-11,OLED,Universal Display Corp Pa,Elias Richard C,Dir,P - Purchase,92.84,1000,17065,+6%,92840,True
 2026-05-13,18:26,2026-05-13,GLND,Greenland Energy Co,Swets Larry G Jr,Dir,P - Purchase,2.98,25000,525000,+5%,74500,True
 2026-05-13,17:57,2026-05-12,SMRT,"Smartrent, Inc.",Martell Frank,CEO,P - Purchase,1.18,100000,3284936,+3%,117850,False
-2026-05-13,17:45,2026-05-11,ARTV,"Artiva Biotherapeutics, Inc.","Ra Capital Management, L.P.","Dir, 10%",P - Purchase,11.52,6510416,16363718,+66%,74999992,False
+2026-05-13,17:45,2026-05-11,ARTV,"Artiva Biotherapeutics, Inc.","Ra Capital Management, L.P.","Dir, 10%",P - Purchase,11.52,6510416,16363718,+66%,74999992,True
 2026-05-13,17:26,2026-05-11,MRP,"Millrose Properties, Inc.",Presa Rachel,"GC, Secretary",P - Purchase,27.01,1032,2500,+70%,27876,True
 2026-05-13,19:05,2026-05-12,XRN,Chiron Real Estate Inc.,Wittman Lori,Dir,P - Purchase,33.85,2940,2940,New,99515,True
 2026-05-13,19:03,2026-05-12,XRN,Chiron Real Estate Inc.,Marston Ronald,Dir,P - Purchase,34.07,1500,3066,+96%,51110,True
@@ -7220,3 +7220,27 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-28,14:37,2026-05-27,UBCP,"United Bancorp, Inc.",Glessner Gary W,Director,P - Purchase,14.93,3527,108002,+3%,52658,True
 2026-05-28,14:33,2026-05-28,STEX,Streamex Corp.,Lekstrom Morgan Lee,Interim Executive Chairman,P - Purchase,1.47,34000,309000,+12%,49980,False
 2026-05-28,14:03,2026-05-27,GLOB,Globant S.A.,Aguzin Alejandro Nicolas,Director,P - Purchase,38.87,25000,48158,+108%,971838,False
+2026-05-28,18:19,2026-05-26,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10% Owner,P - Purchase,10.88,23386,841935,+3%,254440,False
+2026-05-28,18:00,2026-05-28,JACK,Jack In the Box Inc,Diaz Guillermo Jr,Director,P - Purchase,11.51,5962,20692,+40%,68623,False
+2026-05-28,17:49,2026-05-26,CDZI,Cadiz Inc.,O'Hara David Mark,Director,P - Purchase,4.58,110865,117841,"+1,589%",507762,False
+2026-05-28,17:35,2026-05-28,DNUT,"Krispy Kreme, Inc.",Hees Bernardo,Director,P - Purchase,3.42,200989,919522,+28%,687503,False
+2026-05-28,17:35,2026-05-27,DNUT,"Krispy Kreme, Inc.",Hees Bernardo,Director,P - Purchase,3.38,22114,718533,+3%,74701,False
+2026-05-28,17:27,2026-05-28,FIP,Ftai Infrastructure Inc.,Fletcher Carl Russell Iv,CFO  and CAO,P - Purchase,4.58,10000,40000,+33%,45800,False
+2026-05-28,17:24,2026-05-26,PSEC,Prospect Capital Corporation,Barry John F,CHIEF EXECUTIVE OFFICER,P - Purchase,2.32,433000,87122376,+0%,1006682,False
+2026-05-28,17:09,2026-05-28,BSM,"Black Stone Minerals, L.P.",Dewalch D Mark,Director,P - Purchase,13.21,37650,431495,+10%,497341,False
+2026-05-28,16:54,2026-05-27,HLNE,Hamilton Lane Inc,Rogers Hartley R.,Executive Co-Chairman,P - Purchase,92.69,466,55466,+1%,43194,False
+2026-05-28,16:54,2026-05-27,HLNE,Hamilton Lane Inc,Rogers Hartley R.,Executive Co-Chairman,P - Purchase,92.76,466,55466,+1%,43226,False
+2026-05-28,16:54,2026-05-26,HLNE,Hamilton Lane Inc,Rogers Hartley R.,Executive Co-Chairman,P - Purchase,90.05,55000,55000,New,4952959,False
+2026-05-28,16:34,2026-05-11,ARTV,"Artiva Biotherapeutics, Inc.",Gc Corp.,10% Owner,P - Purchase,11.52,347222,1607734,+28%,3999997,True
+2026-05-28,16:34,2026-05-11,ARTV,"Artiva Biotherapeutics, Inc.",Gc Corp.,10% Owner,P - Purchase,11.52,1085069,4391969,+33%,12499995,True
+2026-05-28,16:33,2026-05-28,TMCI,"Treace Medical Concepts, Inc.",Treace John T.,Chief Executive Officer,P - Purchase,3.02,61202,7273833,+1%,184824,False
+2026-05-28,16:33,2026-05-27,TMCI,"Treace Medical Concepts, Inc.",Treace John T.,Chief Executive Officer,P - Purchase,2.87,49810,7212631,+1%,143189,False
+2026-05-28,16:32,2026-05-26,NRP,Natural Resource Partners L.P.,Craig Kevin J,Executive Vice President,P - Purchase,102.18,336,47019,+1%,34332,False
+2026-05-28,16:24,2026-05-28,SCHW,The Charles Schwab Corporation,Wurster Richard A,President & CEO,P - Purchase,84.23,21959,218409,+11%,1849512,False
+2026-05-28,16:23,2026-05-28,COR,"Cencora, Inc.",Durcan Dermot Mark,Director,P - Purchase,266.26,4000,27767,+17%,1065040,False
+2026-05-28,16:22,2026-05-26,GTM,ZoomInfo Technologies Inc.,Maida Domenic,Director,P - Purchase,3.60,27500,66342,+71%,98981,False
+2026-05-28,16:15,2026-05-27,XZO,"Exzeo Group, Inc.",Patel Paresh,Chief Executive Officer,P - Purchase,13.67,2000,1672013,+0%,27340,False
+2026-05-28,16:15,2026-05-27,RLI,Rli Corp,Kliethermes Craig W,CHIEF EXECUTIVE OFFICER,P - Purchase,52.00,2000,150990,+1%,104000,True
+2026-05-28,16:15,2026-05-27,RLI,Rli Corp,Klobnak Jennifer L,CHIEF OPERATING OFFICER,P - Purchase,52.72,2000,104318,+2%,105440,True
+2026-05-28,16:14,2026-05-26,GPGI,"Gpgi, Inc.",Moriarty Kevin M,Director,P - Purchase,12.64,3956,71011,+6%,50000,True
+2026-05-28,16:12,2026-05-27,ATYR,Atyr Pharma Inc,Schimmel Paul,Director,P - Purchase,0.50,100000,779143,+15%,49630,False
