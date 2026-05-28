@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28T03:00:19Z",
-  "trade_count": 3173,
+  "last_updated": "2026-05-28T23:00:23Z",
+  "trade_count": 3176,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48320,6 +48320,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4724603",
+      "trade_date": "2026-05-28",
+      "filing_date": "2026-05-28",
+      "company": "Tenaz Energy Corp.",
+      "ticker": "TNZ",
+      "insider_name": "Balkwill, Jonathan",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "2000",
+      "price": "50.2400",
+      "value": "100480",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4724601",
+      "trade_date": "2026-05-28",
+      "filing_date": "2026-05-28",
+      "company": "Tourmaline Oil Corp.",
+      "ticker": "TOU",
+      "insider_name": "Rose, Mike",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "2500",
+      "price": "63.7000",
+      "value": "159250",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4724842",
+      "trade_date": "2026-05-28",
+      "filing_date": "2026-05-28",
+      "company": "Visionary Copper and Gold Mines Inc.",
+      "ticker": "VCG",
+      "insider_name": "Jennings, Ross",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "1.4000",
+      "value": "70000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
