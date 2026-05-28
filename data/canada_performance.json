@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-27",
-  "entry_count": 403,
+  "entry_count": 407,
   "entries": [
     {
       "id": "CA|MTA|2026-03-30|heath, brett|6.19",
@@ -4245,8 +4245,8 @@
         "2026-05-26": 0.13,
         "2026-05-27": 0.125
       },
-      "latest_price": 0.125,
-      "return_pct": 38.89,
+      "latest_price": 0.13,
+      "return_pct": 44.44,
       "last_snapshot": "2026-05-27"
     },
     {
@@ -9037,8 +9037,8 @@
         "2026-05-26": 20.07,
         "2026-05-27": 20.95
       },
-      "latest_price": 20.95,
-      "return_pct": 5.35,
+      "latest_price": 21.53,
+      "return_pct": 8.27,
       "last_snapshot": "2026-05-27"
     },
     {
@@ -11919,6 +11919,86 @@
       },
       "latest_price": 2.64,
       "return_pct": -1.88,
+      "last_snapshot": "2026-05-27"
+    },
+    {
+      "id": "CA|HMMC|2026-05-27|awde, jonathan charles timothy|6.06",
+      "market": "CA",
+      "ticker": "HMMC",
+      "yf_symbol": "HMMC.V",
+      "company": "Hemlo Mining Corp.",
+      "insider_name": "Awde, Jonathan Charles Timothy",
+      "title": "Director",
+      "trade_date": "2026-05-27",
+      "trade_price": 6.06,
+      "value": 18180.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-27": 5.99
+      },
+      "latest_price": 5.99,
+      "return_pct": -1.16,
+      "last_snapshot": "2026-05-27"
+    },
+    {
+      "id": "CA|HMMC|2026-05-27|awde, jonathan charles timothy|6.013",
+      "market": "CA",
+      "ticker": "HMMC",
+      "yf_symbol": "HMMC.V",
+      "company": "Hemlo Mining Corp.",
+      "insider_name": "Awde, Jonathan Charles Timothy",
+      "title": "Director",
+      "trade_date": "2026-05-27",
+      "trade_price": 6.013,
+      "value": 90195.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-27": 5.99
+      },
+      "latest_price": 5.99,
+      "return_pct": -0.38,
+      "last_snapshot": "2026-05-27"
+    },
+    {
+      "id": "CA|HMMC|2026-05-27|awde, jonathan charles timothy|6.066",
+      "market": "CA",
+      "ticker": "HMMC",
+      "yf_symbol": "HMMC.V",
+      "company": "Hemlo Mining Corp.",
+      "insider_name": "Awde, Jonathan Charles Timothy",
+      "title": "Director",
+      "trade_date": "2026-05-27",
+      "trade_price": 6.066,
+      "value": 60660.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-27": 5.99
+      },
+      "latest_price": 5.99,
+      "return_pct": -1.25,
+      "last_snapshot": "2026-05-27"
+    },
+    {
+      "id": "CA|HMMC|2026-05-27|awde, jonathan charles timothy|6.012",
+      "market": "CA",
+      "ticker": "HMMC",
+      "yf_symbol": "HMMC.V",
+      "company": "Hemlo Mining Corp.",
+      "insider_name": "Awde, Jonathan Charles Timothy",
+      "title": "Director",
+      "trade_date": "2026-05-27",
+      "trade_price": 6.012,
+      "value": 72144.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-27": 5.99
+      },
+      "latest_price": 5.99,
+      "return_pct": -0.37,
       "last_snapshot": "2026-05-27"
     }
   ]

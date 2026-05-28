@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T23:00:31Z",
-  "trade_count": 3168,
+  "last_updated": "2026-05-28T01:00:23Z",
+  "trade_count": 3173,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48063,7 +48063,7 @@
       "value": "18390",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4724018",
@@ -48079,7 +48079,7 @@
       "value": "92550",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4724001",
@@ -48240,6 +48240,86 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4724495",
+      "trade_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "company": "Hemlo Mining Corp.",
+      "ticker": "HMMC",
+      "insider_name": "Awde, Jonathan Charles Timothy",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "3000",
+      "price": "6.0600",
+      "value": "18180",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4724496",
+      "trade_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "company": "Hemlo Mining Corp.",
+      "ticker": "HMMC",
+      "insider_name": "Awde, Jonathan Charles Timothy",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "6.0600",
+      "value": "60599",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4724497",
+      "trade_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "company": "Hemlo Mining Corp.",
+      "ticker": "HMMC",
+      "insider_name": "Awde, Jonathan Charles Timothy",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "15000",
+      "price": "6.0130",
+      "value": "90195",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4724498",
+      "trade_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "company": "Hemlo Mining Corp.",
+      "ticker": "HMMC",
+      "insider_name": "Awde, Jonathan Charles Timothy",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "6.0660",
+      "value": "60660",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4724499",
+      "trade_date": "2026-05-27",
+      "filing_date": "2026-05-27",
+      "company": "Hemlo Mining Corp.",
+      "ticker": "HMMC",
+      "insider_name": "Awde, Jonathan Charles Timothy",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "12000",
+      "price": "6.0120",
+      "value": "72144",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
