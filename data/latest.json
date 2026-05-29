@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-29T12:42:05Z",
-  "trade_count": 7284,
+  "last_updated": "2026-05-29T16:36:34Z",
+  "trade_count": 7287,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -116544,6 +116544,54 @@
       "owned": "6708835",
       "delta_own": "+2%",
       "value": "715314",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-29",
+      "filing_time": "08:53",
+      "trade_date": "2026-05-28",
+      "ticker": "DGICA",
+      "company": "Donegal Group Inc",
+      "insider_name": "Donegal Mutual Insurance Co",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "16.98",
+      "qty": "8500",
+      "owned": "18833583",
+      "delta_own": "0%",
+      "value": "144356",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-28",
+      "filing_time": "16:54",
+      "trade_date": "2026-05-26",
+      "ticker": "HLNE",
+      "company": "Hamilton Lane Inc",
+      "insider_name": "Rogers Hartley R.",
+      "title": "Exec Co-COB, 10%",
+      "trade_type": "P - Purchase",
+      "price": "90.08",
+      "qty": "110932",
+      "owned": "6621854",
+      "delta_own": "+2%",
+      "value": "9992338",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-28",
+      "filing_time": "16:33",
+      "trade_date": "2026-05-26",
+      "ticker": "TMCI",
+      "company": "Treace Medical Concepts, Inc.",
+      "insider_name": "Treace John T.",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "2.95",
+      "qty": "115520",
+      "owned": "12597962",
+      "delta_own": "+1%",
+      "value": "340589",
       "cluster_buy": false
     }
   ]
