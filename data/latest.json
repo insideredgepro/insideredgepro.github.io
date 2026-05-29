@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-29T09:37:07Z",
-  "trade_count": 7276,
+  "last_updated": "2026-05-29T12:42:05Z",
+  "trade_count": 7284,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -108544,7 +108544,7 @@
       "owned": "282478",
       "delta_own": "+6%",
       "value": "100918",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-19",
@@ -109344,7 +109344,7 @@
       "owned": "79733",
       "delta_own": "+11%",
       "value": "53145",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-19",
@@ -109360,7 +109360,7 @@
       "owned": "71856",
       "delta_own": "+11%",
       "value": "47772",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-19",
@@ -114400,7 +114400,7 @@
       "owned": "87000",
       "delta_own": "+9%",
       "value": "45830",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-27",
@@ -116416,6 +116416,134 @@
       "owned": "76175160",
       "delta_own": "0%",
       "value": "4185772",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-29",
+      "filing_time": "08:26",
+      "trade_date": "2026-05-27",
+      "ticker": "ACCS",
+      "company": "Access Newswire Inc.",
+      "insider_name": "Balbirnie Brian R",
+      "title": "Dir, CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "6.46",
+      "qty": "10000",
+      "owned": "632917",
+      "delta_own": "+2%",
+      "value": "64634",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-27",
+      "filing_time": "18:42",
+      "trade_date": "2026-05-27",
+      "ticker": "BOC",
+      "company": "Boston Omaha Corp",
+      "insider_name": "Royal Jeffrey C",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "12.69",
+      "qty": "41046",
+      "owned": "100690",
+      "delta_own": "+69%",
+      "value": "520983",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-27",
+      "filing_time": "18:18",
+      "trade_date": "2026-05-22",
+      "ticker": "TWFG",
+      "company": "Twfg, Inc.",
+      "insider_name": "Doak Michael",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "18.83",
+      "qty": "46880",
+      "owned": "678515",
+      "delta_own": "+7%",
+      "value": "882586",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-27",
+      "filing_time": "18:14",
+      "trade_date": "2026-05-26",
+      "ticker": "APCX",
+      "company": "Apptech Payments Corp.",
+      "insider_name": "Lipstein Robert J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.35",
+      "qty": "102000",
+      "owned": "110000",
+      "delta_own": ">999%",
+      "value": "35445",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-27",
+      "filing_time": "17:59",
+      "trade_date": "2026-05-26",
+      "ticker": "GAME",
+      "company": "Gamesquare Holdings, Inc.",
+      "insider_name": "Blue & Silver Ventures, Ltd.",
+      "title": "See Footnote (1)",
+      "trade_type": "P - Purchase",
+      "price": "0.43",
+      "qty": "764446",
+      "owned": "5997620",
+      "delta_own": "+15%",
+      "value": "328873",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-26",
+      "filing_time": "17:46",
+      "trade_date": "2026-05-22",
+      "ticker": "BCML",
+      "company": "Baycom Corp",
+      "insider_name": "Perdue Michael J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "30.94",
+      "qty": "5000",
+      "owned": "5000",
+      "delta_own": "New",
+      "value": "154700",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-26",
+      "filing_time": "17:18",
+      "trade_date": "2026-05-22",
+      "ticker": "INTU",
+      "company": "Intuit Inc.",
+      "insider_name": "Prabhu Vasant M",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "309.52",
+      "qty": "1750",
+      "owned": "1750",
+      "delta_own": "New",
+      "value": "541665",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-26",
+      "filing_time": "16:18",
+      "trade_date": "2026-05-21",
+      "ticker": "ULBI",
+      "company": "Ultralife Corp",
+      "insider_name": "Whitmore Bradford T",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "6.57",
+      "qty": "108878",
+      "owned": "6708835",
+      "delta_own": "+2%",
+      "value": "715314",
       "cluster_buy": false
     }
   ]

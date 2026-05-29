@@ -6788,7 +6788,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-19,16:55,2026-05-15,VITL,"Vital Farms, Inc.",Coon Stephanie,Chief Strategy Officer,P - Purchase,8.42,5895,62814,+10%,49636,True
 2026-05-19,16:55,2026-05-13,VITL,"Vital Farms, Inc.",Ruiz Gisel,Dir,P - Purchase,8.13,6151,46549,+15%,50008,True
 2026-05-19,16:45,2026-05-15,UUU,"Universal Safety Products, Inc.",Ault Milton C III,"Dir, 10%",P - Purchase,5.75,185000,1053452,+21%,1063750,False
-2026-05-19,16:43,2026-05-15,ACCS,Access Newswire Inc.,Rein Graeme P.,Dir,P - Purchase,6.80,14833,282478,+6%,100918,False
+2026-05-19,16:43,2026-05-15,ACCS,Access Newswire Inc.,Rein Graeme P.,Dir,P - Purchase,6.80,14833,282478,+6%,100918,True
 2026-05-19,16:39,2026-05-15,ELAN,Elanco Animal Health Inc,Modi Rajeev A.,SEE REMARKS,P - Purchase,20.35,4911,160812,+3%,99939,True
 2026-05-19,16:38,2026-05-15,ELAN,Elanco Animal Health Inc,Simmons Jeffrey N,"Pres, CEO, Dir",P - Purchase,20.09,4971,2223869,0%,99843,True
 2026-05-19,16:30,2026-05-15,BXDC,Blackstone Digital Infrastructure Trust Inc.,Diverio Michael A.,Dir,P - Purchase,20.00,5000,5000,New,100000,True
@@ -6838,8 +6838,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-19,18:39,2026-05-15,LWAY,"Lifeway Foods, Inc.",Zolezzi William,10% Owner,P - Purchase,25.27,33174,2101540,+2%,838290,True
 2026-05-19,18:39,2026-05-14,LWAY,"Lifeway Foods, Inc.",Zolezzi William,10% Owner,P - Purchase,25.50,131871,2068366,+7%,3362678,True
 2026-05-19,18:38,2026-05-15,EROK,"Eaglerock Land, LLC",Kumar Raj,Director,P - Purchase,18.50,5405,5405,New,99992,True
-2026-05-19,16:43,2026-05-18,ACCS,Access Newswire Inc.,Rein Graeme P.,Director,P - Purchase,6.75,7877,79733,+11%,53145,False
-2026-05-19,16:43,2026-05-15,ACCS,Access Newswire Inc.,Rein Graeme P.,Director,P - Purchase,6.87,6956,71856,+11%,47772,False
+2026-05-19,16:43,2026-05-18,ACCS,Access Newswire Inc.,Rein Graeme P.,Director,P - Purchase,6.75,7877,79733,+11%,53145,True
+2026-05-19,16:43,2026-05-15,ACCS,Access Newswire Inc.,Rein Graeme P.,Director,P - Purchase,6.87,6956,71856,+11%,47772,True
 2026-05-19,16:30,2026-05-15,MSIF,"MSC Income Fund, Inc.",Niemann John O. Jr.,Director,P - Purchase,12.10,4922,43648,+13%,59556,False
 2026-05-19,16:30,2026-05-15,BXDC,Blackstone Digital Infrastructure Trust Inc.,Blackstone Treasury Holdings I,10% Owner,P - Purchase,20.00,9486795,9111800,New,189735900,True
 2026-05-19,16:30,2026-05-15,BX,Blackstone Inc.,Blackstone Treasury Holdings I,10% Owner,P - Purchase,20.00,9486795,9111800,New,189735900,True
@@ -7154,7 +7154,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-27,13:19,2026-05-22,NIVF,NewGenIvf Group Limited,Hrt Financial Lp,10% Owner,P - Purchase,0.99,137541,111885,New,136166,True
 2026-05-27,12:00,2026-05-26,ROCK,"Gibraltar Industries, Inc.",Bosway William T,President and CEO,P - Purchase,37.44,19735,250320,+9%,738833,True
 2026-05-27,11:12,2026-05-26,SBMT,Silver Bow Mining Corp.,Black Wade Newton,Chief Financial Officer,P - Purchase,8.50,5000,7500,+200%,42502,False
-2026-05-27,11:06,2026-05-26,ACCS,Access Newswire Inc.,Rein Graeme P.,Director,P - Purchase,6.31,7267,87000,+9%,45830,False
+2026-05-27,11:06,2026-05-26,ACCS,Access Newswire Inc.,Rein Graeme P.,Director,P - Purchase,6.31,7267,87000,+9%,45830,True
 2026-05-27,10:49,2026-05-22,AFB,"AllianceBernstein National Municipal Income Fund, Inc.",Gerken R Jay,Director,P - Purchase,10.96,2500,2500,New,27388,False
 2026-05-27,15:46,2026-05-22,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10% Owner,P - Purchase,17.90,11790,7161994,+0%,211075,False
 2026-05-27,15:29,2026-05-27,OTLK,"Outlook Therapeutics, Inc.",Sukhtian Faisal Ghiath,Director,P - Purchase,0.41,122174,125574,"+3,593%",50006,True
@@ -7281,3 +7281,11 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-26,14:44,2026-05-21,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,17.44,17000,18808083,0%,296510,False
 2026-05-26,12:12,2026-05-22,HSHP,Himalaya Shipping Ltd.,Svensen Lars-Christian,Contracted CEO,P - Purchase,14.20,4000,23186,+21%,56800,False
 2026-05-26,07:29,2026-05-15,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,26.97,155220,76175160,0%,4185772,False
+2026-05-29,08:26,2026-05-27,ACCS,Access Newswire Inc.,Balbirnie Brian R,"Dir, CEO, 10%",P - Purchase,6.46,10000,632917,+2%,64634,True
+2026-05-27,18:42,2026-05-27,BOC,Boston Omaha Corp,Royal Jeffrey C,Dir,P - Purchase,12.69,41046,100690,+69%,520983,False
+2026-05-27,18:18,2026-05-22,TWFG,"Twfg, Inc.",Doak Michael,Dir,P - Purchase,18.83,46880,678515,+7%,882586,False
+2026-05-27,18:14,2026-05-26,APCX,Apptech Payments Corp.,Lipstein Robert J,Dir,P - Purchase,0.35,102000,110000,>999%,35445,False
+2026-05-27,17:59,2026-05-26,GAME,"Gamesquare Holdings, Inc.","Blue & Silver Ventures, Ltd.",See Footnote (1),P - Purchase,0.43,764446,5997620,+15%,328873,False
+2026-05-26,17:46,2026-05-22,BCML,Baycom Corp,Perdue Michael J,Dir,P - Purchase,30.94,5000,5000,New,154700,False
+2026-05-26,17:18,2026-05-22,INTU,Intuit Inc.,Prabhu Vasant M,Dir,P - Purchase,309.52,1750,1750,New,541665,False
+2026-05-26,16:18,2026-05-21,ULBI,Ultralife Corp,Whitmore Bradford T,"Dir, 10%",P - Purchase,6.57,108878,6708835,+2%,715314,False

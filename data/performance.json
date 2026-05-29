@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-29",
-  "entry_count": 1442,
+  "entry_count": 1448,
   "entries": [
     {
       "id": "US|HPP|2026-03-30|ferguson t ritson|5.97",
@@ -59285,6 +59285,126 @@
       },
       "latest_price": 25.8,
       "return_pct": -4.34,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|ACCS|2026-05-27|balbirnie brian r|6.46",
+      "market": "US",
+      "ticker": "ACCS",
+      "yf_symbol": "ACCS",
+      "company": "Access Newswire Inc.",
+      "insider_name": "Balbirnie Brian R",
+      "title": "Dir, CEO, 10%",
+      "trade_date": "2026-05-27",
+      "trade_price": 6.46,
+      "value": 64634.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 6.32
+      },
+      "latest_price": 6.32,
+      "return_pct": -2.17,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|BOC|2026-05-27|royal jeffrey c|12.69",
+      "market": "US",
+      "ticker": "BOC",
+      "yf_symbol": "BOC",
+      "company": "Boston Omaha Corp",
+      "insider_name": "Royal Jeffrey C",
+      "title": "Dir",
+      "trade_date": "2026-05-27",
+      "trade_price": 12.69,
+      "value": 520983.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 13.38
+      },
+      "latest_price": 13.38,
+      "return_pct": 5.44,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|TWFG|2026-05-22|doak michael|18.83",
+      "market": "US",
+      "ticker": "TWFG",
+      "yf_symbol": "TWFG",
+      "company": "Twfg, Inc.",
+      "insider_name": "Doak Michael",
+      "title": "Dir",
+      "trade_date": "2026-05-22",
+      "trade_price": 18.83,
+      "value": 882586.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 18.76
+      },
+      "latest_price": 18.76,
+      "return_pct": -0.37,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|APCX|2026-05-26|lipstein robert j|0.35",
+      "market": "US",
+      "ticker": "APCX",
+      "yf_symbol": "APCX",
+      "company": "Apptech Payments Corp.",
+      "insider_name": "Lipstein Robert J",
+      "title": "Dir",
+      "trade_date": "2026-05-26",
+      "trade_price": 0.35,
+      "value": 35445.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 0.347
+      },
+      "latest_price": 0.347,
+      "return_pct": -0.86,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|INTU|2026-05-22|prabhu vasant m|309.52",
+      "market": "US",
+      "ticker": "INTU",
+      "yf_symbol": "INTU",
+      "company": "Intuit Inc.",
+      "insider_name": "Prabhu Vasant M",
+      "title": "Dir",
+      "trade_date": "2026-05-22",
+      "trade_price": 309.52,
+      "value": 541665.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 313.0
+      },
+      "latest_price": 313.0,
+      "return_pct": 1.12,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|ULBI|2026-05-21|whitmore bradford t|6.57",
+      "market": "US",
+      "ticker": "ULBI",
+      "yf_symbol": "ULBI",
+      "company": "Ultralife Corp",
+      "insider_name": "Whitmore Bradford T",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-21",
+      "trade_price": 6.57,
+      "value": 715314.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 7.76
+      },
+      "latest_price": 7.76,
+      "return_pct": 18.11,
       "last_snapshot": "2026-05-29"
     }
   ]
