@@ -1928,7 +1928,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2025-09-22,10:31,2025-09-19,AROC,"Archrock, Inc.",Rebrook Jason C,Dir,P - Purchase,24.16,10000,74511,+16%,241580,False
 2025-09-22,08:33,2025-09-19,HAIN,Hain Celestial Group Inc,Campbell Neil,Dir,P - Purchase,1.52,62640,125569,+100%,95307,True
 2025-09-22,08:30,2025-09-18,HAIN,Hain Celestial Group Inc,Lewis Alison,"Interim Pres, CEO",P - Purchase,1.50,74895,97911,+325%,112104,True
-2025-09-19,17:26,2025-09-17,AWHL,Aspira Women'S Health Inc.,Schuler Jack W,10%,P - Purchase,0.45,1111111,3830365,+41%,500000,False
+2025-09-19,17:26,2025-09-17,AWHL,Aspira Women'S Health Inc.,Schuler Jack W,10%,P - Purchase,0.45,1111111,3830365,+41%,500000,True
 2025-09-19,16:31,2025-09-17,NMZ,Nuveen Municipal High Income Opportunity Fund,Bank of America Corp /de/,10%,P - Purchase,10.65,10784,0,-100%,114796,False
 2025-09-19,12:35,2025-09-19,NRGV,"Energy Vault Holdings, Inc.",Piconi Robert,"CEO, 10%",P - Purchase,3.02,17500,28815776,0%,52875,False
 2025-09-19,10:31,2025-09-17,BDSX,Biodesix Inc,Schuler Jack W,"Dir, 10%",P - Purchase,6.06,18373,1988700,+1%,111425,False
@@ -6770,7 +6770,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-19,16:15,2026-05-15,OI,"O-I Glass, Inc. /De/",Chapin Samuel R.,Dir,P - Purchase,8.51,12000,97482,+14%,102070,True
 2026-05-19,16:15,2026-05-18,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,13.93,2000,1660013,0%,27860,False
 2026-05-19,16:15,2026-05-18,NCLH,Norwegian Cruise Line Holdings Ltd.,Cil Jose E.,Dir,P - Purchase,15.02,15000,99045,+18%,225350,True
-2026-05-19,16:13,2026-05-18,CDW,Cdw Corp,Leahy Christine A,See Remarks,P - Purchase,103.40,4830,210607,+2%,499398,False
+2026-05-19,16:13,2026-05-18,CDW,Cdw Corp,Leahy Christine A,See Remarks,P - Purchase,103.40,4830,210607,+2%,499398,True
 2026-05-19,16:10,2026-05-18,AZTA,"Azenta, Inc.",Cornog William L,Dir,P - Purchase,16.38,10000,19703,+103%,163800,False
 2026-05-19,16:08,2026-05-18,CTEV,Claritev Corp,Kim Michael,"EVP, Chief Digital Officer",P - Purchase,16.65,3000,185878,+2%,49950,True
 2026-05-19,16:07,2026-05-19,CTEV,Claritev Corp,Prince John Michael,Dir,P - Purchase,16.00,10000,31662,+46%,160000,True
@@ -7267,7 +7267,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-27,13:19,2026-05-22,NIVF,Newgenivf Group Ltd,Hrt Financial LP,10%,P - Purchase,0.98,165534,139878,-645%,161919,True
 2026-05-27,11:52,2026-05-27,OTAI,Starlink Ai Acquisition Corp,Jkapital Ltd.,10%,P - Purchase,10.00,4750,3101250,0%,47500,False
 2026-05-27,11:12,2026-05-26,SBMT,Silver Bow Mining Corp.,Black Wade Newton,CFO,P - Purchase,8.50,5000,32500,+18%,42503,False
-2026-05-27,09:01,2026-05-26,PFBX,Peoples Financial Corp /Ms/,Stilwell Joseph,10%,P - Purchase,21.25,1717,747530,0%,36486,False
+2026-05-27,09:01,2026-05-26,PFBX,Peoples Financial Corp /Ms/,Stilwell Joseph,10%,P - Purchase,21.25,1717,747530,0%,36486,True
 2026-05-27,08:00,2026-05-22,PED,Pedevco Corp,Willsher Martyn,Dir,P - Purchase,14.44,20000,25727,+349%,288724,False
 2026-05-26,21:10,2026-05-21,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,75.24,3341,5719793,0%,251367,False
 2026-05-26,19:01,2026-05-22,GTE,Gran Tierra Energy Inc.,Lm Asset Management Inc.,10%,P - Purchase,8.32,75000,4739750,+2%,623716,False
@@ -7303,3 +7303,19 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-28,08:24,2026-05-26,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,17.24,17000,18825083,0%,293068,False
 2026-05-28,07:00,2026-05-26,NAKA,Nakamoto Inc.,Bailey David F,"CEO, 10%",P - Purchase,5.01,136333,3120361,+5%,683112,False
 2026-05-28,06:48,2026-05-26,BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,2.57,20000,1453872,+1%,51300,True
+2026-05-29,17:36,2026-05-27,GLP,Global Partners LP,Global Gp LLC,General Partner,P - Purchase,48.17,15000,91584,+20%,722550,True
+2026-05-29,17:23,2026-05-28,FONR,Fonar Corp,Shane Hilary,10%,P - Purchase,19.05,267339,1383091,+24%,5092808,False
+2026-05-29,17:22,2026-05-29,AZO,Autozone Inc,Hannasch Brian,Dir,P - Purchase,2987.00,165,1219,+16%,492855,False
+2026-05-29,17:21,2026-05-28,ANNX,"Annexon, Inc.",Satter Muneer A,Dir,P - Purchase,5.41,613497,10342134,+6%,3319019,False
+2026-05-29,17:15,2026-05-27,CDNL,Cardinal Infrastructure Group Inc.,Wood Benjamin,COO,P - Purchase,51.30,20000,20000,New,1025900,False
+2026-05-29,17:08,2026-05-28,TWFG,"Twfg, Inc.",Doak Michael,Dir,P - Purchase,18.87,22330,700845,+3%,421367,False
+2026-05-29,17:02,2026-05-29,AXR,Amrep Corp.,Dahl James H,10%,P - Purchase,26.16,4000,994154,0%,104646,False
+2026-05-29,16:16,2026-05-27,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,22.72,106337,13499443,+1%,2415798,False
+2026-05-29,16:15,2026-05-28,RLI,Rli Corp,Duclos David B.,Dir,P - Purchase,51.99,2500,9780,+34%,129975,True
+2026-05-29,16:13,2026-05-27,BDCO,Blue Dolphin Energy Co,"Lazarus Energy Holdings, LLC",10%,P - Purchase,3.93,20000,8567500,0%,78650,False
+2026-05-29,16:08,2026-05-28,GSHD,"Goosehead Insurance, Inc.",Martin John Arthur,CFO,P - Purchase,34.73,5000,5000,New,173650,True
+2026-05-29,16:05,2025-09-17,AWHL,Aspira Women'S Health Inc.,Cohen Jeffrey K,Dir,P - Purchase,0.45,55556,445916,+14%,25000,True
+2026-05-29,16:03,2026-05-27,CDW,Cdw Corp,Nelms David W,Dir,P - Purchase,111.43,18000,51025,+55%,2005740,True
+2026-05-29,16:02,2026-05-27,CURI,Curiositystream Inc.,Stinchcomb Clinton Larry,"Pres, CEO",P - Purchase,2.74,94256,2945516,+3%,258638,False
+2026-05-29,16:02,2026-05-27,ALRS,Alerus Financial Corp,Bolton Jeffrey,Dir,P - Purchase,28.72,1000,14163,+8%,28715,False
+2026-05-29,15:56,2026-05-29,PFBX,Peoples Financial Corp /Ms/,Sliman George J III,Dir,P - Purchase,21.25,2000,5000,+67%,42500,True
