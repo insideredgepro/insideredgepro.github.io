@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-29T19:00:18Z",
-  "trade_count": 3184,
+  "last_updated": "2026-05-29T21:00:17Z",
+  "trade_count": 3189,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -47487,7 +47487,7 @@
       "value": "94936",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4722318",
@@ -47583,7 +47583,7 @@
       "value": "50760",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4722635",
@@ -47759,7 +47759,7 @@
       "value": "49260",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4723533",
@@ -47791,7 +47791,7 @@
       "value": "127950",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4723559",
@@ -48496,6 +48496,86 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4725466",
+      "trade_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "company": "RFA Financial Inc.",
+      "ticker": "RFA",
+      "insider_name": "Manji, Salim",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "2500",
+      "price": "26.8000",
+      "value": "67000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4725442",
+      "trade_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "company": "RFA Financial Inc.",
+      "ticker": "RFA",
+      "insider_name": "Manji, Samir Aziz",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "2500",
+      "price": "26.8000",
+      "value": "67000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4725395",
+      "trade_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "company": "Titan Logix Corp.",
+      "ticker": "TLA",
+      "insider_name": "Morrison, Robert John",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "48000",
+      "price": "0.5437",
+      "value": "26097",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4725351",
+      "trade_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "company": "Total Energy Services Inc.",
+      "ticker": "TOT",
+      "insider_name": "MULLEN, Kenneth Brandon",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "1570",
+      "price": "24.2700",
+      "value": "38103",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4725400",
+      "trade_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "company": "Whitecap Resources Inc.",
+      "ticker": "WCP",
+      "insider_name": "WONG, JOSEPH ADAM",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "7500",
+      "price": "15.7300",
+      "value": "117975",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
