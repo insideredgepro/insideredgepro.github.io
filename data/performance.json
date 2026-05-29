@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-28",
-  "entry_count": 1411,
+  "entry_count": 1416,
   "entries": [
     {
       "id": "US|TSM|2026-03-29|lin shyue-shyh|55.63",
@@ -57323,6 +57323,106 @@
       },
       "latest_price": 0.4874,
       "return_pct": -2.52,
+      "last_snapshot": "2026-05-28"
+    },
+    {
+      "id": "US|PAX|2026-05-27|neto olimpio matarazzo|11.48",
+      "market": "US",
+      "ticker": "PAX",
+      "yf_symbol": "PAX",
+      "company": "Patria Investments Ltd",
+      "insider_name": "Neto Olimpio Matarazzo",
+      "title": "Director",
+      "trade_date": "2026-05-27",
+      "trade_price": 11.48,
+      "value": 172200.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-28": 11.43
+      },
+      "latest_price": 11.43,
+      "return_pct": -0.44,
+      "last_snapshot": "2026-05-28"
+    },
+    {
+      "id": "US|PAX|2026-05-26|neto olimpio matarazzo|11.31",
+      "market": "US",
+      "ticker": "PAX",
+      "yf_symbol": "PAX",
+      "company": "Patria Investments Ltd",
+      "insider_name": "Neto Olimpio Matarazzo",
+      "title": "Director",
+      "trade_date": "2026-05-26",
+      "trade_price": 11.31,
+      "value": 169650.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-28": 11.43
+      },
+      "latest_price": 11.43,
+      "return_pct": 1.06,
+      "last_snapshot": "2026-05-28"
+    },
+    {
+      "id": "US|PLYX|2026-05-27|yang alex keun mo|4.07",
+      "market": "US",
+      "ticker": "PLYX",
+      "yf_symbol": "PLYX",
+      "company": "Polaryx Therapeutics, Inc.",
+      "insider_name": "Yang Alex Keun Mo",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-05-27",
+      "trade_price": 4.07,
+      "value": 360004.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-28": 3.05
+      },
+      "latest_price": 3.05,
+      "return_pct": -25.06,
+      "last_snapshot": "2026-05-28"
+    },
+    {
+      "id": "US|NAKA|2026-05-28|bailey david f|5.62",
+      "market": "US",
+      "ticker": "NAKA",
+      "yf_symbol": "NAKA",
+      "company": "Nakamoto Inc.",
+      "insider_name": "Bailey David F",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-05-28",
+      "trade_price": 5.62,
+      "value": 309516.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-28": 5.6
+      },
+      "latest_price": 5.6,
+      "return_pct": -0.36,
+      "last_snapshot": "2026-05-28"
+    },
+    {
+      "id": "US|WATT|2026-05-27|burak mallorie sara|26.47",
+      "market": "US",
+      "ticker": "WATT",
+      "yf_symbol": "WATT",
+      "company": "Energous Corp",
+      "insider_name": "Burak Mallorie Sara",
+      "title": "CEO & CFO",
+      "trade_date": "2026-05-27",
+      "trade_price": 26.47,
+      "value": 49419.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-28": 27.45
+      },
+      "latest_price": 27.45,
+      "return_pct": 3.7,
       "last_snapshot": "2026-05-28"
     }
   ]
