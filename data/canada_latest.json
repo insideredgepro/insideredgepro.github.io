@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-29T17:00:18Z",
-  "trade_count": 3183,
+  "last_updated": "2026-05-29T19:00:18Z",
+  "trade_count": 3184,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48477,6 +48477,22 @@
       "qty": "5000",
       "price": "63.7880",
       "value": "318940",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4725222",
+      "trade_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "company": "Marwest Apartment Real Estate Investment Trust",
+      "ticker": "MAR-UN",
+      "insider_name": "Martens, Armin",
+      "title": "Director",
+      "security": "Units",
+      "qty": "53500",
+      "price": "0.7906",
+      "value": "42297",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
