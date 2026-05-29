@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-29T00:03:45Z",
-  "trade_count": 7244,
+  "last_updated": "2026-05-29T05:06:40Z",
+  "trade_count": 7246,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -115904,6 +115904,38 @@
       "owned": "26999",
       "delta_own": "+7%",
       "value": "49419",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-28",
+      "filing_time": "21:05",
+      "trade_date": "2026-05-27",
+      "ticker": "AUNA",
+      "company": "Auna SA",
+      "insider_name": "Zamora Leon Jesus",
+      "title": "President",
+      "trade_type": "P - Purchase",
+      "price": "4.20",
+      "qty": "23273",
+      "owned": "62710",
+      "delta_own": "+59%",
+      "value": "97702",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-05-28",
+      "filing_time": "21:05",
+      "trade_date": "2026-05-26",
+      "ticker": "AUNA",
+      "company": "Auna SA",
+      "insider_name": "Zamora Leon Jesus",
+      "title": "President",
+      "trade_type": "P - Purchase",
+      "price": "4.24",
+      "qty": "8727",
+      "owned": "39437",
+      "delta_own": "+28%",
+      "value": "36993",
       "cluster_buy": false
     }
   ]
