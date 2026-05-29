@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-28",
-  "entry_count": 413,
+  "entry_count": 414,
   "entries": [
     {
       "id": "CA|MTA|2026-03-30|heath, brett|6.19",
@@ -12525,6 +12525,26 @@
       },
       "latest_price": 0.58,
       "return_pct": 27.28,
+      "last_snapshot": "2026-05-28"
+    },
+    {
+      "id": "CA|MBX|2026-05-28|marino, martin|0.275",
+      "market": "CA",
+      "ticker": "MBX",
+      "yf_symbol": "MBX.TO",
+      "company": "Microbix Biosystems Inc.",
+      "insider_name": "Marino, Martin",
+      "title": "Director",
+      "trade_date": "2026-05-28",
+      "trade_price": 0.275,
+      "value": 31625.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-28": 0.275
+      },
+      "latest_price": 0.275,
+      "return_pct": 0.0,
       "last_snapshot": "2026-05-28"
     }
   ]

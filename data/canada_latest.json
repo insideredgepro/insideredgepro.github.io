@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-29T01:00:21Z",
-  "trade_count": 3179,
+  "last_updated": "2026-05-29T03:00:21Z",
+  "trade_count": 3180,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48413,6 +48413,22 @@
       "qty": "250000",
       "price": "0.4557",
       "value": "113925",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4724986",
+      "trade_date": "2026-05-28",
+      "filing_date": "2026-05-28",
+      "company": "Microbix Biosystems Inc.",
+      "ticker": "MBX",
+      "insider_name": "Marino, Martin",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "115000",
+      "price": "0.2750",
+      "value": "31625",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
