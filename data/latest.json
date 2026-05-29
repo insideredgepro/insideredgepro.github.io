@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-29T21:45:32Z",
-  "trade_count": 7314,
+  "last_updated": "2026-05-29T23:04:57Z",
+  "trade_count": 7315,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -117025,6 +117025,22 @@
       "delta_own": "+67%",
       "value": "42500",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-05-29",
+      "filing_time": "18:22",
+      "trade_date": "2026-05-28",
+      "ticker": "DC",
+      "company": "Dakota Gold Corp.",
+      "insider_name": "Kenner Todd J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "5.60",
+      "qty": "17921",
+      "owned": "17921",
+      "delta_own": "New",
+      "value": "100358",
+      "cluster_buy": false
     }
   ]
 }
