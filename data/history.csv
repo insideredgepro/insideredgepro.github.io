@@ -7150,8 +7150,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-27,08:00,2026-05-26,PED,PEDEVCO Corp.,Willsher Martyn,Director,P - Purchase,14.29,13428,25727,+109%,191859,False
 2026-05-27,08:00,2026-05-22,PED,PEDEVCO Corp.,Willsher Martyn,Director,P - Purchase,14.74,6572,12299,+115%,96865,False
 2026-05-27,08:00,2026-05-26,VCIG,Vci Global Ltd,Hoo Voon Him,CEO and Director,P - Purchase,1.33,654135,2225533,+42%,870000,False
-2026-05-27,13:19,2026-05-26,NIVF,NewGenIvf Group Limited,Hrt Financial Lp,10% Owner,P - Purchase,0.92,27993,139878,+25%,25754,False
-2026-05-27,13:19,2026-05-22,NIVF,NewGenIvf Group Limited,Hrt Financial Lp,10% Owner,P - Purchase,0.99,137541,111885,New,136166,False
+2026-05-27,13:19,2026-05-26,NIVF,NewGenIvf Group Limited,Hrt Financial Lp,10% Owner,P - Purchase,0.92,27993,139878,+25%,25754,True
+2026-05-27,13:19,2026-05-22,NIVF,NewGenIvf Group Limited,Hrt Financial Lp,10% Owner,P - Purchase,0.99,137541,111885,New,136166,True
 2026-05-27,12:00,2026-05-26,ROCK,"Gibraltar Industries, Inc.",Bosway William T,President and CEO,P - Purchase,37.44,19735,250320,+9%,738833,True
 2026-05-27,11:12,2026-05-26,SBMT,Silver Bow Mining Corp.,Black Wade Newton,Chief Financial Officer,P - Purchase,8.50,5000,7500,+200%,42502,False
 2026-05-27,11:06,2026-05-26,ACCS,Access Newswire Inc.,Rein Graeme P.,Director,P - Purchase,6.31,7267,87000,+9%,45830,False
@@ -7251,3 +7251,33 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-28,18:49,2026-05-27,WATT,Energous Corp,Burak Mallorie Sara,CEO & CFO,P - Purchase,26.47,1867,26999,+7%,49419,False
 2026-05-28,21:05,2026-05-27,AUNA,Auna SA,Zamora Leon Jesus,President,P - Purchase,4.20,23273,62710,+59%,97702,False
 2026-05-28,21:05,2026-05-26,AUNA,Auna SA,Zamora Leon Jesus,President,P - Purchase,4.24,8727,39437,+28%,36993,False
+2026-05-28,21:43,2026-01-23,STEX,Streamex Corp.,Lekstrom Morgan Lee,Interim Exec COB,P - Purchase,3.13,47000,54000,+671%,147289,True
+2026-05-28,21:07,2026-05-26,LOGC,Contextlogic Holdings Inc.,Bobbili Raja,"Dir, 10%",P - Purchase,8.72,130201,18899735,+1%,1134825,False
+2026-05-28,21:05,2026-05-26,AUNA,Auna S.A.,Zamora Leon Jesus,Pres,P - Purchase,4.21,32000,32091726,0%,134695,False
+2026-05-27,18:55,2026-05-22,STRR,"Star Equity Holdings, Inc.",Eberwein Jeffrey E.,"CEO, 10%",P - Purchase,11.56,5396,1064780,+1%,62368,False
+2026-05-27,18:38,2026-05-22,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.","Dir, 10%",P - Purchase,1.48,1043628,16279188,+7%,1540215,False
+2026-05-27,17:20,2026-05-22,APUR,Aperture Ac,Aperture Sponsor LLC,10%,P - Purchase,10.00,223000,223000,New,2230000,False
+2026-05-27,17:02,2026-05-26,DBD,"Diebold Nixdorf, Inc",Marquez Octavio,"Pres, CEO",P - Purchase,79.47,1250,217507,+1%,99334,True
+2026-05-27,16:55,2026-05-22,WW,"Ww International, Inc.",Davis Eugene I,Dir,P - Purchase,13.66,21648,21648,New,295798,True
+2026-05-27,16:39,2026-05-22,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,"Dir, 10%",P - Purchase,9.89,38000,11997449,0%,375884,False
+2026-05-27,16:30,2026-05-26,UTHR,United Therapeutics Corp,Rothblatt Martine A,"CHAIRPERSON, CEO",P - Purchase,575.97,1500,668728,0%,863947,False
+2026-05-27,16:30,2026-05-22,GOLD,"Gold.Com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A.",10%,P - Purchase,43.11,58536,3570787,+2%,2523528,True
+2026-05-27,16:05,2026-05-26,ASND,Ascendis Pharma A/S,Bienaime Jean Jacques,Dir,P - Purchase,237.80,400,400,New,95121,False
+2026-05-27,16:05,2026-05-22,INR,"Infinity Natural Resources, Inc.",Gieselman Scott,Dir,P - Purchase,14.11,20900,84829,+33%,294966,False
+2026-05-27,13:19,2026-05-22,NIVF,Newgenivf Group Ltd,Hrt Financial LP,10%,P - Purchase,0.98,165534,139878,-645%,161919,True
+2026-05-27,11:52,2026-05-27,OTAI,Starlink Ai Acquisition Corp,Jkapital Ltd.,10%,P - Purchase,10.00,4750,3101250,0%,47500,False
+2026-05-27,11:12,2026-05-26,SBMT,Silver Bow Mining Corp.,Black Wade Newton,CFO,P - Purchase,8.50,5000,32500,+18%,42503,False
+2026-05-27,09:01,2026-05-26,PFBX,Peoples Financial Corp /Ms/,Stilwell Joseph,10%,P - Purchase,21.25,1717,747530,0%,36486,False
+2026-05-27,08:00,2026-05-22,PED,Pedevco Corp,Willsher Martyn,Dir,P - Purchase,14.44,20000,25727,+349%,288724,False
+2026-05-26,21:10,2026-05-21,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,75.24,3341,5719793,0%,251367,False
+2026-05-26,19:01,2026-05-22,GTE,Gran Tierra Energy Inc.,Lm Asset Management Inc.,10%,P - Purchase,8.32,75000,4739750,+2%,623716,False
+2026-05-26,17:16,2026-05-22,CWGL,"Crimson Wine Group, Ltd",Steinberg Joseph S,"Dir, 10%",P - Purchase,4.05,7474,3396140,0%,30270,False
+2026-05-26,16:54,2026-05-21,GLP,Global Partners LP,Global Gp LLC,General Partner,P - Purchase,50.09,14184,76584,+23%,710409,True
+2026-05-26,16:52,2026-05-21,OAK.P,"Brookfield Oaktree Holdings, LLC",Gilbert Steven J,Dir,P - Purchase,20.77,1354,20565,+7%,28123,False
+2026-05-26,16:26,2026-05-21,SER,"Serina Therapeutics, Inc.",Wilson Karen J,Dir,P - Purchase,1.85,20000,20000,New,37000,False
+2026-05-26,16:25,2026-05-21,TXO,"Txo Partners, L.P.",Simpson Bob R,"Dir, 10%",P - Purchase,13.68,384408,8334408,+5%,5258330,True
+2026-05-26,16:18,2026-05-22,PETV,"Petvivo Holdings, Inc.","A.L. Sarroff Fund, LLC",10%,P - Purchase,0.40,250000,10452229,+2%,100000,False
+2026-05-26,16:10,2026-05-22,AII,"American Integrity Insurance Group, Inc.",Clark David Lewis,COB,P - Purchase,17.15,5830,484889,+1%,99985,True
+2026-05-26,14:44,2026-05-21,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,17.44,17000,18808083,0%,296510,False
+2026-05-26,12:12,2026-05-22,HSHP,Himalaya Shipping Ltd.,Svensen Lars-Christian,Contracted CEO,P - Purchase,14.20,4000,23186,+21%,56800,False
+2026-05-26,07:29,2026-05-15,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,26.97,155220,76175160,0%,4185772,False

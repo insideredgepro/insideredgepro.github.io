@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-29",
-  "entry_count": 1417,
+  "entry_count": 1442,
   "entries": [
     {
       "id": "US|HPP|2026-03-30|ferguson t ritson|5.97",
@@ -58791,6 +58791,500 @@
       },
       "latest_price": 4.19,
       "return_pct": -1.18,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|LOGC|2026-05-26|bobbili raja|8.72",
+      "market": "US",
+      "ticker": "LOGC",
+      "yf_symbol": "LOGC",
+      "company": "Contextlogic Holdings Inc.",
+      "insider_name": "Bobbili Raja",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-26",
+      "trade_price": 8.72,
+      "value": 1134825.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 8.8
+      },
+      "latest_price": 8.8,
+      "return_pct": 0.92,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|AUNA|2026-05-26|zamora leon jesus|4.21",
+      "market": "US",
+      "ticker": "AUNA",
+      "yf_symbol": "AUNA",
+      "company": "Auna S.A.",
+      "insider_name": "Zamora Leon Jesus",
+      "title": "Pres",
+      "trade_date": "2026-05-26",
+      "trade_price": 4.21,
+      "value": 134695.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 4.19
+      },
+      "latest_price": 4.19,
+      "return_pct": -0.48,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|STRR|2026-05-22|eberwein jeffrey e.|11.56",
+      "market": "US",
+      "ticker": "STRR",
+      "yf_symbol": "STRR",
+      "company": "Star Equity Holdings, Inc.",
+      "insider_name": "Eberwein Jeffrey E.",
+      "title": "CEO, 10%",
+      "trade_date": "2026-05-22",
+      "trade_price": 11.56,
+      "value": 62368.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 11.55
+      },
+      "latest_price": 11.55,
+      "return_pct": -0.09,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|APUR|2026-05-22|aperture sponsor llc|10.0",
+      "market": "US",
+      "ticker": "APUR",
+      "yf_symbol": "APUR",
+      "company": "Aperture Ac",
+      "insider_name": "Aperture Sponsor LLC",
+      "title": "10%",
+      "trade_date": "2026-05-22",
+      "trade_price": 10.0,
+      "value": 2230000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "US|DBD|2026-05-26|marquez octavio|79.47",
+      "market": "US",
+      "ticker": "DBD",
+      "yf_symbol": "DBD",
+      "company": "Diebold Nixdorf, Inc",
+      "insider_name": "Marquez Octavio",
+      "title": "Pres, CEO",
+      "trade_date": "2026-05-26",
+      "trade_price": 79.47,
+      "value": 99334.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 81.04
+      },
+      "latest_price": 81.04,
+      "return_pct": 1.98,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|WW|2026-05-22|davis eugene i|13.66",
+      "market": "US",
+      "ticker": "WW",
+      "yf_symbol": "WW",
+      "company": "Ww International, Inc.",
+      "insider_name": "Davis Eugene I",
+      "title": "Dir",
+      "trade_date": "2026-05-22",
+      "trade_price": 13.66,
+      "value": 295798.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 17.1
+      },
+      "latest_price": 17.1,
+      "return_pct": 25.18,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|LEE|2026-05-22|hoffmann david henry|9.89",
+      "market": "US",
+      "ticker": "LEE",
+      "yf_symbol": "LEE",
+      "company": "Lee Enterprises, Inc",
+      "insider_name": "Hoffmann David Henry",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-22",
+      "trade_price": 9.89,
+      "value": 375884.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 11.76
+      },
+      "latest_price": 11.76,
+      "return_pct": 18.91,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|UTHR|2026-05-26|rothblatt martine a|575.97",
+      "market": "US",
+      "ticker": "UTHR",
+      "yf_symbol": "UTHR",
+      "company": "United Therapeutics Corp",
+      "insider_name": "Rothblatt Martine A",
+      "title": "CHAIRPERSON, CEO",
+      "trade_date": "2026-05-26",
+      "trade_price": 575.97,
+      "value": 863947.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 562.09
+      },
+      "latest_price": 562.09,
+      "return_pct": -2.41,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|GOLD|2026-05-22|tether global investments fund, s.i.c.a.f., s.a.|43.11",
+      "market": "US",
+      "ticker": "GOLD",
+      "yf_symbol": "GOLD",
+      "company": "Gold.Com, Inc.",
+      "insider_name": "Tether Global Investments Fund, S.I.C.A.F., S.A.",
+      "title": "10%",
+      "trade_date": "2026-05-22",
+      "trade_price": 43.11,
+      "value": 2523528.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 42.83
+      },
+      "latest_price": 42.83,
+      "return_pct": -0.65,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|INR|2026-05-22|gieselman scott|14.11",
+      "market": "US",
+      "ticker": "INR",
+      "yf_symbol": "INR",
+      "company": "Infinity Natural Resources, Inc.",
+      "insider_name": "Gieselman Scott",
+      "title": "Dir",
+      "trade_date": "2026-05-22",
+      "trade_price": 14.11,
+      "value": 294966.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 13.79
+      },
+      "latest_price": 13.79,
+      "return_pct": -2.27,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|NIVF|2026-05-22|hrt financial lp|0.98",
+      "market": "US",
+      "ticker": "NIVF",
+      "yf_symbol": "NIVF",
+      "company": "Newgenivf Group Ltd",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_date": "2026-05-22",
+      "trade_price": 0.98,
+      "value": 161919.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 1.03
+      },
+      "latest_price": 1.03,
+      "return_pct": 5.1,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|OTAI|2026-05-27|jkapital ltd.|10.0",
+      "market": "US",
+      "ticker": "OTAI",
+      "yf_symbol": "OTAI",
+      "company": "Starlink Ai Acquisition Corp",
+      "insider_name": "Jkapital Ltd.",
+      "title": "10%",
+      "trade_date": "2026-05-27",
+      "trade_price": 10.0,
+      "value": 47500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "US|PFBX|2026-05-26|stilwell joseph|21.25",
+      "market": "US",
+      "ticker": "PFBX",
+      "yf_symbol": "PFBX",
+      "company": "Peoples Financial Corp /Ms/",
+      "insider_name": "Stilwell Joseph",
+      "title": "10%",
+      "trade_date": "2026-05-26",
+      "trade_price": 21.25,
+      "value": 36486.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 21.25
+      },
+      "latest_price": 21.25,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|PED|2026-05-22|willsher martyn|14.44",
+      "market": "US",
+      "ticker": "PED",
+      "yf_symbol": "PED",
+      "company": "Pedevco Corp",
+      "insider_name": "Willsher Martyn",
+      "title": "Dir",
+      "trade_date": "2026-05-22",
+      "trade_price": 14.44,
+      "value": 288724.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 13.36
+      },
+      "latest_price": 13.36,
+      "return_pct": -7.48,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|NMM|2026-05-21|frangou angeliki|75.24",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-05-21",
+      "trade_price": 75.24,
+      "value": 251367.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 69.66
+      },
+      "latest_price": 69.66,
+      "return_pct": -7.42,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|GTE|2026-05-22|lm asset management inc.|8.32",
+      "market": "US",
+      "ticker": "GTE",
+      "yf_symbol": "GTE",
+      "company": "Gran Tierra Energy Inc.",
+      "insider_name": "Lm Asset Management Inc.",
+      "title": "10%",
+      "trade_date": "2026-05-22",
+      "trade_price": 8.32,
+      "value": 623716.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 8.04
+      },
+      "latest_price": 8.04,
+      "return_pct": -3.37,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|CWGL|2026-05-22|steinberg joseph s|4.05",
+      "market": "US",
+      "ticker": "CWGL",
+      "yf_symbol": "CWGL",
+      "company": "Crimson Wine Group, Ltd",
+      "insider_name": "Steinberg Joseph S",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-22",
+      "trade_price": 4.05,
+      "value": 30270.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 4.5
+      },
+      "latest_price": 4.5,
+      "return_pct": 11.11,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|GLP|2026-05-21|global gp llc|50.09",
+      "market": "US",
+      "ticker": "GLP",
+      "yf_symbol": "GLP",
+      "company": "Global Partners LP",
+      "insider_name": "Global Gp LLC",
+      "title": "General Partner",
+      "trade_date": "2026-05-21",
+      "trade_price": 50.09,
+      "value": 710409.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 48.1
+      },
+      "latest_price": 48.1,
+      "return_pct": -3.97,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|OAK.P|2026-05-21|gilbert steven j|20.77",
+      "market": "US",
+      "ticker": "OAK.P",
+      "yf_symbol": "OAK.P",
+      "company": "Brookfield Oaktree Holdings, LLC",
+      "insider_name": "Gilbert Steven J",
+      "title": "Dir",
+      "trade_date": "2026-05-21",
+      "trade_price": 20.77,
+      "value": 28123.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "US|SER|2026-05-21|wilson karen j|1.85",
+      "market": "US",
+      "ticker": "SER",
+      "yf_symbol": "SER",
+      "company": "Serina Therapeutics, Inc.",
+      "insider_name": "Wilson Karen J",
+      "title": "Dir",
+      "trade_date": "2026-05-21",
+      "trade_price": 1.85,
+      "value": 37000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 1.95
+      },
+      "latest_price": 1.95,
+      "return_pct": 5.41,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|TXO|2026-05-21|simpson bob r|13.68",
+      "market": "US",
+      "ticker": "TXO",
+      "yf_symbol": "TXO",
+      "company": "Txo Partners, L.P.",
+      "insider_name": "Simpson Bob R",
+      "title": "Dir, 10%",
+      "trade_date": "2026-05-21",
+      "trade_price": 13.68,
+      "value": 5258330.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 12.96
+      },
+      "latest_price": 12.96,
+      "return_pct": -5.26,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|PETV|2026-05-22|a.l. sarroff fund, llc|0.4",
+      "market": "US",
+      "ticker": "PETV",
+      "yf_symbol": "PETV",
+      "company": "Petvivo Holdings, Inc.",
+      "insider_name": "A.L. Sarroff Fund, LLC",
+      "title": "10%",
+      "trade_date": "2026-05-22",
+      "trade_price": 0.4,
+      "value": 100000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 0.798
+      },
+      "latest_price": 0.798,
+      "return_pct": 99.5,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|DGICA|2026-05-21|donegal mutual insurance co|17.44",
+      "market": "US",
+      "ticker": "DGICA",
+      "yf_symbol": "DGICA",
+      "company": "Donegal Group Inc",
+      "insider_name": "Donegal Mutual Insurance Co",
+      "title": "10%",
+      "trade_date": "2026-05-21",
+      "trade_price": 17.44,
+      "value": 296510.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 17.07
+      },
+      "latest_price": 17.07,
+      "return_pct": -2.12,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|HSHP|2026-05-22|svensen lars-christian|14.2",
+      "market": "US",
+      "ticker": "HSHP",
+      "yf_symbol": "HSHP",
+      "company": "Himalaya Shipping Ltd.",
+      "insider_name": "Svensen Lars-Christian",
+      "title": "Contracted CEO",
+      "trade_date": "2026-05-22",
+      "trade_price": 14.2,
+      "value": 56800.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 14.63
+      },
+      "latest_price": 14.63,
+      "return_pct": 3.03,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "US|COE|2026-05-15|huang jack jiajia|26.97",
+      "market": "US",
+      "ticker": "COE",
+      "yf_symbol": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "CEO, 10%",
+      "trade_date": "2026-05-15",
+      "trade_price": 26.97,
+      "value": 4185772.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-05-29": 25.8
+      },
+      "latest_price": 25.8,
+      "return_pct": -4.34,
       "last_snapshot": "2026-05-29"
     }
   ]
