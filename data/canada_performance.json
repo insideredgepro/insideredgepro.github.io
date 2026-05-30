@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-29",
-  "entry_count": 426,
+  "entry_count": 427,
   "entries": [
     {
       "id": "CA|MTA|2026-03-30|heath, brett|6.19",
@@ -13198,6 +13198,26 @@
       },
       "latest_price": 6.4,
       "return_pct": 1.11,
+      "last_snapshot": "2026-05-29"
+    },
+    {
+      "id": "CA|MTA|2026-05-29|tether international, s.a. de c.v.|7.8015",
+      "market": "CA",
+      "ticker": "MTA",
+      "yf_symbol": "MTA.V",
+      "company": "Metalla Royalty and Streaming Ltd.",
+      "insider_name": "Tether International, S.A. de C.V.",
+      "title": "10% Holder",
+      "trade_date": "2026-05-29",
+      "trade_price": 7.8015,
+      "value": 584652.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-05-29": 10.85
+      },
+      "latest_price": 10.85,
+      "return_pct": 39.08,
       "last_snapshot": "2026-05-29"
     }
   ]

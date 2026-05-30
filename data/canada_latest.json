@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-30T01:00:21Z",
-  "trade_count": 3192,
+  "last_updated": "2026-05-30T03:00:20Z",
+  "trade_count": 3193,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48621,6 +48621,22 @@
       "qty": "15000",
       "price": "6.3300",
       "value": "94950",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4725693",
+      "trade_date": "2026-05-29",
+      "filing_date": "2026-05-29",
+      "company": "Metalla Royalty and Streaming Ltd.",
+      "ticker": "MTA",
+      "insider_name": "Tether International, S.A. de C.V.",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "74941",
+      "price": "7.8015",
+      "value": "584652",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
