@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-01T08:25:59Z",
-  "trade_count": 7320,
+  "last_updated": "2026-06-01T14:51:51Z",
+  "trade_count": 7326,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -115136,7 +115136,7 @@
       "owned": "6997",
       "delta_own": "+201%",
       "value": "244783",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-28",
@@ -117121,6 +117121,102 @@
       "delta_own": "+3%",
       "value": "434714",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-01",
+      "filing_time": "08:59",
+      "trade_date": "2026-05-29",
+      "ticker": "L",
+      "company": "Loews Corp",
+      "insider_name": "Robusto Dino",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "104.74",
+      "qty": "5000",
+      "owned": "10235",
+      "delta_own": "+96%",
+      "value": "523700",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-01",
+      "filing_time": "07:54",
+      "trade_date": "2026-05-28",
+      "ticker": "KINS",
+      "company": "Kingstone Companies, Inc.",
+      "insider_name": "Newgarden Thomas",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "15.21",
+      "qty": "14000",
+      "owned": "99366",
+      "delta_own": "+16%",
+      "value": "212958",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-01",
+      "filing_time": "07:53",
+      "trade_date": "2026-05-28",
+      "ticker": "BZUN",
+      "company": "Baozun Inc.",
+      "insider_name": "Wu Junhua",
+      "title": "Chief Strategy Officer",
+      "trade_type": "P - Purchase",
+      "price": "2.56",
+      "qty": "19500",
+      "owned": "168270",
+      "delta_own": "+13%",
+      "value": "49920",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-01",
+      "filing_time": "07:46",
+      "trade_date": "2026-05-28",
+      "ticker": "BZUN",
+      "company": "Baozun Inc.",
+      "insider_name": "Qiu Wenbin",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.57",
+      "qty": "20000",
+      "owned": "1473872",
+      "delta_own": "+1%",
+      "value": "51300",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-01",
+      "filing_time": "07:28",
+      "trade_date": "2026-05-22",
+      "ticker": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "26.49",
+      "qty": "183000",
+      "owned": "76358160",
+      "delta_own": "0%",
+      "value": "4847653",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-01",
+      "filing_time": "07:27",
+      "trade_date": "2026-05-28",
+      "ticker": "MTDR",
+      "company": "Matador Resources Co",
+      "insider_name": "Stetson Glenn W",
+      "title": "EVP, COO",
+      "trade_type": "P - Purchase",
+      "price": "53.94",
+      "qty": "500",
+      "owned": "94970",
+      "delta_own": "+1%",
+      "value": "26970",
+      "cluster_buy": true
     }
   ]
 }

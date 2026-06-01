@@ -7200,7 +7200,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-28,10:05,2026-05-27,NWBI,"Northwest Bancshares, Inc.",Hunter Timothy M,Director,P - Purchase,13.97,10000,199751,+5%,139675,False
 2026-05-28,08:24,2026-05-27,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10% Owner,P - Purchase,17.15,8500,14073109,+0%,145761,False
 2026-05-28,08:24,2026-05-26,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10% Owner,P - Purchase,17.33,8500,14064609,+0%,147307,False
-2026-05-28,07:24,2026-05-27,MTDR,Matador Resources Co,Foran Joseph Wm,Chairman and CEO,P - Purchase,52.36,4675,6997,+201%,244783,False
+2026-05-28,07:24,2026-05-27,MTDR,Matador Resources Co,Foran Joseph Wm,Chairman and CEO,P - Purchase,52.36,4675,6997,+201%,244783,True
 2026-05-28,07:00,2026-05-27,NAKA,Nakamoto Inc.,Bailey David F,Chief Executive Officer,P - Purchase,4.84,104833,3120361,+3%,507342,False
 2026-05-28,07:00,2026-05-26,NAKA,Nakamoto Inc.,Bailey David F,Chief Executive Officer,P - Purchase,5.58,31500,3015528,+1%,175770,False
 2026-05-28,06:48,2026-05-27,BZUN,Baozun Inc.,Qiu Wenbin,Chief Executive Officer,P - Purchase,2.58,10000,1453872,+1%,25800,True
@@ -7325,3 +7325,9 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-29,21:10,2026-05-27,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,70.92,3498,5723291,0%,248066,False
 2026-05-29,19:34,2026-05-29,ADSK,"Autodesk, Inc.",Smith Stacy J,Dir,P - Purchase,231.17,3435,26517,+15%,794054,False
 2026-05-29,19:21,2026-05-27,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,5.90,73738,2694107,+3%,434714,False
+2026-06-01,08:59,2026-05-29,L,Loews Corp,Robusto Dino,Dir,P - Purchase,104.74,5000,10235,+96%,523700,False
+2026-06-01,07:54,2026-05-28,KINS,"Kingstone Companies, Inc.",Newgarden Thomas,Dir,P - Purchase,15.21,14000,99366,+16%,212958,False
+2026-06-01,07:53,2026-05-28,BZUN,Baozun Inc.,Wu Junhua,Chief Strategy Officer,P - Purchase,2.56,19500,168270,+13%,49920,True
+2026-06-01,07:46,2026-05-28,BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,2.57,20000,1473872,+1%,51300,True
+2026-06-01,07:28,2026-05-22,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,26.49,183000,76358160,0%,4847653,False
+2026-06-01,07:27,2026-05-28,MTDR,Matador Resources Co,Stetson Glenn W,"EVP, COO",P - Purchase,53.94,500,94970,+1%,26970,True
