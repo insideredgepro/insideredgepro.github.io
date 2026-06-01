@@ -7185,7 +7185,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-27,16:15,2026-05-26,XZO,"Exzeo Group, Inc.",Patel Paresh,Chief Executive Officer,P - Purchase,13.26,2000,1670013,+0%,26520,False
 2026-05-27,16:10,2026-05-22,AII,"American Integrity Insurance Group, Inc.",Smathers Steven E,Director,P - Purchase,16.99,2900,177827,+2%,49271,True
 2026-05-27,16:06,2026-05-22,PSEC,Prospect Capital Corporation,Barry John F,CHIEF EXECUTIVE OFFICER,P - Purchase,2.32,232000,86689351,+0%,538534,False
-2026-05-27,16:05,2026-05-26,ASND,Ascendis Pharma A/S,Bienaime Jean Jacques,Director,P - Purchase,237.80,400,400,New,95120,False
+2026-05-27,16:05,2026-05-26,ASND,Ascendis Pharma A/S,Bienaime Jean Jacques,Director,P - Purchase,237.80,400,400,New,95120,True
 2026-05-27,16:05,2026-05-26,INR,"Infinity Natural Resources, Inc.",Gieselman Scott,Director,P - Purchase,14.10,20000,70900,+39%,282060,False
 2026-05-27,19:26,2026-05-22,HCWB,Hcw Biologics Inc.,Wong Hing C,Chief Executive Officer,P - Purchase,1.41,113879,615790,+23%,160000,True
 2026-05-27,19:25,2026-05-22,HCWB,Hcw Biologics Inc.,Garrett Scott T,Director,P - Purchase,1.41,177936,203441,+698%,250000,True
@@ -7262,7 +7262,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-27,16:39,2026-05-22,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,"Dir, 10%",P - Purchase,9.89,38000,11997449,0%,375884,False
 2026-05-27,16:30,2026-05-26,UTHR,United Therapeutics Corp,Rothblatt Martine A,"CHAIRPERSON, CEO",P - Purchase,575.97,1500,668728,0%,863947,False
 2026-05-27,16:30,2026-05-22,GOLD,"Gold.Com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A.",10%,P - Purchase,43.11,58536,3570787,+2%,2523528,True
-2026-05-27,16:05,2026-05-26,ASND,Ascendis Pharma A/S,Bienaime Jean Jacques,Dir,P - Purchase,237.80,400,400,New,95121,False
+2026-05-27,16:05,2026-05-26,ASND,Ascendis Pharma A/S,Bienaime Jean Jacques,Dir,P - Purchase,237.80,400,400,New,95121,True
 2026-05-27,16:05,2026-05-22,INR,"Infinity Natural Resources, Inc.",Gieselman Scott,Dir,P - Purchase,14.11,20900,84829,+33%,294966,False
 2026-05-27,13:19,2026-05-22,NIVF,Newgenivf Group Ltd,Hrt Financial LP,10%,P - Purchase,0.98,165534,139878,-645%,161919,True
 2026-05-27,11:52,2026-05-27,OTAI,Starlink Ai Acquisition Corp,Jkapital Ltd.,10%,P - Purchase,10.00,4750,3101250,0%,47500,False
@@ -7334,3 +7334,20 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-01,13:43,2026-05-29,AVBC,"Avidia Bancorp, Inc.",Cozzone Robert D,"Pres, CEO",P - Purchase,18.80,2128,69453,+3%,40006,False
 2026-06-01,11:37,2026-05-29,TFSL,Tfs Financial Corp,Weir Daniel F,Dir,P - Purchase,15.85,7000,85191,+9%,110950,False
 2026-06-01,11:06,2026-05-28,BFS,"Saul Centers, Inc.",Pearson David Todd,"Pres, COO",P - Purchase,34.75,2600,81778,+3%,90337,False
+2026-06-01,18:28,2026-05-28,PAX,Patria Investments Ltd,Neto Olimpio Matarazzo,Dir,P - Purchase,11.48,30000,530724,+6%,344400,False
+2026-06-01,17:58,2026-05-20,LSF,"Laird Superfood, Inc.",Lamontagne Grant J,Dir,P - Purchase,3.29,30786,115294,+36%,101137,False
+2026-06-01,17:46,2026-05-28,STRR,"Star Equity Holdings, Inc.",Eberwein Jeffrey E.,"CEO, 10%",P - Purchase,11.74,16656,1081936,+2%,195612,False
+2026-06-01,17:35,2026-05-29,GSHD,"Goosehead Insurance, Inc.",Langston Patrick Ryan,"Member of 10% owner group, 10%",P - Purchase,35.56,2800,7800,+56%,99568,True
+2026-06-01,17:23,2026-05-28,KWY,Kingsway Corp,Horowitz Joshua,Dir,P - Purchase,9.92,4500,404500,+1%,44625,False
+2026-06-01,17:06,2026-05-28,HUBC,Hub Cyber Security Ltd.,Hrt Financial LP,10%,P - Purchase,0.12,599115,33962,-106%,71894,False
+2026-06-01,17:02,2026-05-27,PRIM,Primoris Services Corp,Vadlamudi Koti,"Pres, CEO",P - Purchase,127.96,7815,7815,New,1000004,False
+2026-06-01,17:02,2026-05-28,WOK,Work Medical Technology Group Ltd,Hrt Financial LP,10%,P - Purchase,0.09,1535850,0,-100%,138227,False
+2026-06-01,16:44,2026-05-28,HOOD,"Robinhood Markets, Inc.",Malka Meyer,Dir,P - Purchase,80.39,249000,7572855,+3%,20018206,False
+2026-06-01,16:38,2026-06-01,TMCI,"Treace Medical Concepts, Inc.",Treace John T.,"CEO, 10%",P - Purchase,3.56,50000,12647962,0%,177915,False
+2026-06-01,16:37,2026-05-28,VTS,"Vitesse Energy, Inc.",Steinberg Joseph S,Dir,P - Purchase,17.00,59118,2726567,+2%,1005006,False
+2026-06-01,16:30,2026-06-01,RLI,Rli Corp,Kellogg Clark C,Dir,P - Purchase,50.90,3000,4502,+200%,152700,True
+2026-06-01,16:11,2026-05-29,ASND,Ascendis Pharma A/S,Bienaime Jean Jacques,Dir,P - Purchase,223.12,500,900,+125%,111562,True
+2026-06-01,16:10,2026-05-29,ASND,Ascendis Pharma A/S,Smith Scott Thomas,"EVP, CFO",P - Purchase,223.32,250,4267,+6%,55830,True
+2026-06-01,16:05,2026-05-28,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,"Dir, 10%",P - Purchase,11.12,45600,12043049,0%,507074,False
+2026-06-01,16:04,2026-05-28,CURI,Curiositystream Inc.,Stinchcomb Clinton Larry,"Pres, CEO",P - Purchase,2.78,25744,2971260,+1%,71491,False
+2026-06-01,16:01,2026-05-26,IPWR,Ideal Power Inc.,Turmelle Michael C,Dir,P - Purchase,7.60,5250,83582,+7%,39900,False
