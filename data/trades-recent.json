@@ -392,7 +392,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642276+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973543+00:00"
   },
   {
     "id": "10000065039",
@@ -413,7 +413,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642280+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973547+00:00"
   },
   {
     "id": "10000065040",
@@ -434,7 +434,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642285+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973551+00:00"
   },
   {
     "id": "10000065041",
@@ -455,7 +455,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642291+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973555+00:00"
   },
   {
     "id": "10000065042",
@@ -476,7 +476,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642295+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973560+00:00"
   },
   {
     "id": "20003798323",
@@ -497,7 +497,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity Brokerage - MG Description: RSU distribution",
-    "scraped_at": "2026-06-01T08:23:48.642503+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973775+00:00"
   },
   {
     "id": "20003798324",
@@ -518,7 +518,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity Brokerage - MG Description: RSU distribution",
-    "scraped_at": "2026-06-01T08:23:48.642510+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973782+00:00"
   },
   {
     "id": "20003798315",
@@ -542,6 +542,27 @@
     "scraped_at": "2026-05-29T10:33:49.256360+00:00"
   },
   {
+    "id": "20003798350",
+    "politician_name": "Max Miller",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "ALPINE INVESTORS IX LP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-15",
+    "trade_published": "2026-06-01",
+    "filed_after_days": "14",
+    "price": "N/A",
+    "value": 4321,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: 2012 Trust Description: Capital call of $4,321.10",
+    "scraped_at": "2026-06-01T14:30:26.973384+00:00"
+  },
+  {
     "id": "20003798337",
     "politician_name": "David Taylor",
     "party": "Republican",
@@ -560,7 +581,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-01T08:23:48.642150+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973444+00:00"
   },
   {
     "id": "20003798338",
@@ -581,7 +602,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-06-01T08:23:48.642179+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973451+00:00"
   },
   {
     "id": "20003798339",
@@ -602,7 +623,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-06-01T08:23:48.642189+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973459+00:00"
   },
   {
     "id": "20003798340",
@@ -623,7 +644,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-01T08:23:48.642196+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973465+00:00"
   },
   {
     "id": "20003798341",
@@ -644,7 +665,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-01T08:23:48.642202+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973478+00:00"
   },
   {
     "id": "20003798342",
@@ -665,7 +686,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-06-01T08:23:48.642209+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973486+00:00"
   },
   {
     "id": "20003798343",
@@ -686,7 +707,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-01T08:23:48.642217+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973495+00:00"
   },
   {
     "id": "20003798344",
@@ -707,7 +728,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-06-01T08:23:48.642229+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973500+00:00"
   },
   {
     "id": "20003798345",
@@ -728,7 +749,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-01T08:23:48.642239+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973508+00:00"
   },
   {
     "id": "20003798346",
@@ -749,7 +770,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-06-01T08:23:48.642246+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973518+00:00"
   },
   {
     "id": "20003798347",
@@ -770,7 +791,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-01T08:23:48.642251+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973523+00:00"
   },
   {
     "id": "20003798348",
@@ -791,7 +812,28 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-06-01T08:23:48.642259+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973527+00:00"
+  },
+  {
+    "id": "20003798349",
+    "politician_name": "Edward Case",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "HI",
+    "company": "Apple Inc",
+    "ticker": "AAPL:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-14",
+    "trade_published": "2026-06-01",
+    "filed_after_days": "17",
+    "price": "$298.21",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Description: Automatic stock dividend reinvestment",
+    "scraped_at": "2026-06-01T14:30:26.973437+00:00"
   },
   {
     "id": "10000065043",
@@ -812,7 +854,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642299+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973568+00:00"
   },
   {
     "id": "10000065044",
@@ -833,7 +875,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642303+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973572+00:00"
   },
   {
     "id": "10000065045",
@@ -854,7 +896,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642307+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973576+00:00"
   },
   {
     "id": "10000065046",
@@ -875,7 +917,28 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642314+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973580+00:00"
+  },
+  {
+    "id": "20003798351",
+    "politician_name": "Max Miller",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "GLAS FUNDS LP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-11",
+    "trade_published": "2026-06-01",
+    "filed_after_days": "18",
+    "price": "N/A",
+    "value": 9887,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: 2012 Trust Description: Return of capital - $9,887.40",
+    "scraped_at": "2026-06-01T14:30:26.973412+00:00"
   },
   {
     "id": "10000065047",
@@ -896,7 +959,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642320+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973584+00:00"
   },
   {
     "id": "10000065048",
@@ -917,7 +980,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642324+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973588+00:00"
   },
   {
     "id": "20003798222",
@@ -959,7 +1022,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642267+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973532+00:00"
   },
   {
     "id": "20003798240",
@@ -1064,7 +1127,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sara J Jacobs 1999 Trust > Merrill Lynch - SJ QCOM",
-    "scraped_at": "2026-06-01T08:23:48.642544+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973810+00:00"
   },
   {
     "id": "20003798316",
@@ -1211,7 +1274,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642272+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973538+00:00"
   },
   {
     "id": "10000065049",
@@ -1232,7 +1295,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642328+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973594+00:00"
   },
   {
     "id": "10000065050",
@@ -1253,7 +1316,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642332+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973598+00:00"
   },
   {
     "id": "10000065051",
@@ -1274,7 +1337,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642336+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973602+00:00"
   },
   {
     "id": "10000065052",
@@ -1295,7 +1358,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642342+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973606+00:00"
   },
   {
     "id": "10000065035",
@@ -1316,7 +1379,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642517+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973787+00:00"
   },
   {
     "id": "20003798318",
@@ -1337,7 +1400,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Sara J Jacobs 1999 Trust > Merrill Lynch - SJ QCOM",
-    "scraped_at": "2026-06-01T08:23:48.642534+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973803+00:00"
   },
   {
     "id": "20003798245",
@@ -1400,7 +1463,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642345+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973612+00:00"
   },
   {
     "id": "10000065054",
@@ -1421,7 +1484,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642349+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973617+00:00"
   },
   {
     "id": "20003798228",
@@ -1694,7 +1757,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642354+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973623+00:00"
   },
   {
     "id": "10000065056",
@@ -1715,7 +1778,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642360+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973626+00:00"
   },
   {
     "id": "20003798330",
@@ -1736,7 +1799,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642469+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973727+00:00"
   },
   {
     "id": "20003798331",
@@ -1757,7 +1820,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642473+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973731+00:00"
   },
   {
     "id": "20003798322",
@@ -1778,7 +1841,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Investment Fund 1 Description: Data Centers, Redmond, WA",
-    "scraped_at": "2026-06-01T08:23:48.642521+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973791+00:00"
   },
   {
     "id": "20003798288",
@@ -1946,7 +2009,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642364+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973630+00:00"
   },
   {
     "id": "10000065058",
@@ -1967,7 +2030,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642370+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973634+00:00"
   },
   {
     "id": "10000065059",
@@ -1988,7 +2051,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642374+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973638+00:00"
   },
   {
     "id": "10000065060",
@@ -2009,7 +2072,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642378+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973641+00:00"
   },
   {
     "id": "10000065061",
@@ -2030,7 +2093,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642382+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973647+00:00"
   },
   {
     "id": "10000065062",
@@ -2051,7 +2114,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642386+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973651+00:00"
   },
   {
     "id": "10000065063",
@@ -2072,7 +2135,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642390+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973657+00:00"
   },
   {
     "id": "10000065064",
@@ -2093,7 +2156,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642396+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973661+00:00"
   },
   {
     "id": "10000065065",
@@ -2114,7 +2177,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642401+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973665+00:00"
   },
   {
     "id": "10000065066",
@@ -2135,7 +2198,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642407+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973668+00:00"
   },
   {
     "id": "10000065067",
@@ -2156,7 +2219,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642411+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973675+00:00"
   },
   {
     "id": "10000065068",
@@ -2177,7 +2240,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642415+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973678+00:00"
   },
   {
     "id": "10000065069",
@@ -2198,7 +2261,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642419+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973682+00:00"
   },
   {
     "id": "10000065070",
@@ -2219,7 +2282,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642425+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973686+00:00"
   },
   {
     "id": "10000065071",
@@ -2240,7 +2303,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642429+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973689+00:00"
   },
   {
     "id": "20003798276",
@@ -2492,7 +2555,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-06-01T08:23:48.642478+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973738+00:00"
   },
   {
     "id": "20003798242",
@@ -2765,7 +2828,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642434+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973693+00:00"
   },
   {
     "id": "20003798289",
@@ -3164,7 +3227,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642642+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973908+00:00"
   },
   {
     "id": "10000065029",
@@ -3605,7 +3668,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley SEP IRA",
-    "scraped_at": "2026-06-01T08:23:48.642439+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973703+00:00"
   },
   {
     "id": "20003798336",
@@ -3626,7 +3689,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley Trust Account",
-    "scraped_at": "2026-06-01T08:23:48.642464+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973723+00:00"
   },
   {
     "id": "20003798321",
@@ -3647,7 +3710,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Schwab Brokerage Account",
-    "scraped_at": "2026-06-01T08:23:48.642530+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973799+00:00"
   },
   {
     "id": "10000065020",
@@ -3668,7 +3731,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642638+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973902+00:00"
   },
   {
     "id": "20003798306",
@@ -4676,7 +4739,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-06-01T08:23:48.642494+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973766+00:00"
   },
   {
     "id": "10000065019",
@@ -4697,7 +4760,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642634+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973894+00:00"
   },
   {
     "id": "10000065028",
@@ -4991,7 +5054,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley Trust Account",
-    "scraped_at": "2026-06-01T08:23:48.642446+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973710+00:00"
   },
   {
     "id": "20003798334",
@@ -5012,7 +5075,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley Trust Account",
-    "scraped_at": "2026-06-01T08:23:48.642451+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973714+00:00"
   },
   {
     "id": "10000065004",
@@ -5033,7 +5096,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642567+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973831+00:00"
   },
   {
     "id": "10000065009",
@@ -5054,7 +5117,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642588+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973852+00:00"
   },
   {
     "id": "10000065026",
@@ -5306,7 +5369,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642562+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973828+00:00"
   },
   {
     "id": "10000065008",
@@ -5327,7 +5390,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642585+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973849+00:00"
   },
   {
     "id": "10000065013",
@@ -5348,7 +5411,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642608+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973872+00:00"
   },
   {
     "id": "10000065018",
@@ -5369,7 +5432,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642628+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973890+00:00"
   },
   {
     "id": "20003798275",
@@ -6209,7 +6272,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Morgan Stanley - Rollover IRA",
-    "scraped_at": "2026-06-01T08:23:48.642460+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973719+00:00"
   },
   {
     "id": "20003798327",
@@ -6230,7 +6293,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-06-01T08:23:48.642490+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973759+00:00"
   },
   {
     "id": "10000065001",
@@ -6251,7 +6314,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642552+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973820+00:00"
   },
   {
     "id": "10000065002",
@@ -6272,7 +6335,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642556+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973824+00:00"
   },
   {
     "id": "10000065006",
@@ -6293,7 +6356,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642576+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973841+00:00"
   },
   {
     "id": "10000065007",
@@ -6314,7 +6377,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642580+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973845+00:00"
   },
   {
     "id": "10000065012",
@@ -6335,7 +6398,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642601+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973866+00:00"
   },
   {
     "id": "10000065017",
@@ -6356,7 +6419,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642624+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973887+00:00"
   },
   {
     "id": "10000065023",
@@ -6377,7 +6440,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642654+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973915+00:00"
   },
   {
     "id": "10000065025",
@@ -7112,7 +7175,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-06-01T08:23:48.642485+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973743+00:00"
   },
   {
     "id": "20003798329",
@@ -7133,7 +7196,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-06-01T08:23:48.642499+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973771+00:00"
   },
   {
     "id": "20003798255",
@@ -10304,7 +10367,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642596+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973862+00:00"
   },
   {
     "id": "10000065016",
@@ -10325,7 +10388,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642620+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973883+00:00"
   },
   {
     "id": "10000065022",
@@ -10346,7 +10409,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642646+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973912+00:00"
   },
   {
     "id": "10000065024",
@@ -11375,7 +11438,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Subholding Of: Victoria Kelly Trust ICA",
-    "scraped_at": "2026-06-01T08:23:48.642525+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973794+00:00"
   },
   {
     "id": "10000065000",
@@ -11396,7 +11459,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642548+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973816+00:00"
   },
   {
     "id": "10000065005",
@@ -11417,7 +11480,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642570+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973835+00:00"
   },
   {
     "id": "10000065015",
@@ -11438,7 +11501,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642616+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973879+00:00"
   },
   {
     "id": "10000065027",
@@ -12110,7 +12173,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642592+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973858+00:00"
   },
   {
     "id": "10000065014",
@@ -12131,7 +12194,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-01T08:23:48.642612+00:00"
+    "scraped_at": "2026-06-01T14:30:26.973876+00:00"
   },
   {
     "id": "20003798269",
