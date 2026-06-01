@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-01T17:00:51Z",
-  "trade_count": 3193,
+  "last_updated": "2026-06-01T19:00:52Z",
+  "trade_count": 3194,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48640,6 +48640,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4726241",
+      "trade_date": "2026-06-01",
+      "filing_date": "2026-06-01",
+      "company": "Baytex Energy Corp.",
+      "ticker": "BTE",
+      "insider_name": "Bly, Mark",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "5.0350",
+      "value": "50350",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
