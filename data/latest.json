@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-01T14:51:51Z",
-  "trade_count": 7326,
+  "last_updated": "2026-06-01T19:52:22Z",
+  "trade_count": 7329,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -117217,6 +117217,54 @@
       "delta_own": "+1%",
       "value": "26970",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-01",
+      "filing_time": "13:43",
+      "trade_date": "2026-05-29",
+      "ticker": "AVBC",
+      "company": "Avidia Bancorp, Inc.",
+      "insider_name": "Cozzone Robert D",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "18.80",
+      "qty": "2128",
+      "owned": "69453",
+      "delta_own": "+3%",
+      "value": "40006",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-01",
+      "filing_time": "11:37",
+      "trade_date": "2026-05-29",
+      "ticker": "TFSL",
+      "company": "Tfs Financial Corp",
+      "insider_name": "Weir Daniel F",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "15.85",
+      "qty": "7000",
+      "owned": "85191",
+      "delta_own": "+9%",
+      "value": "110950",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-01",
+      "filing_time": "11:06",
+      "trade_date": "2026-05-28",
+      "ticker": "BFS",
+      "company": "Saul Centers, Inc.",
+      "insider_name": "Pearson David Todd",
+      "title": "Pres, COO",
+      "trade_type": "P - Purchase",
+      "price": "34.75",
+      "qty": "2600",
+      "owned": "81778",
+      "delta_own": "+3%",
+      "value": "90337",
+      "cluster_buy": false
     }
   ]
 }
