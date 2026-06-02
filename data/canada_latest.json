@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-02T17:00:21Z",
-  "trade_count": 3195,
+  "last_updated": "2026-06-02T19:00:23Z",
+  "trade_count": 3197,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48672,6 +48672,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4727058",
+      "trade_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "company": "Minera Alamos Inc.",
+      "ticker": "MAI",
+      "insider_name": "Blasutti, Darren John",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "15000",
+      "price": "6.6190",
+      "value": "99285",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4727069",
+      "trade_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "company": "Minera Alamos Inc.",
+      "ticker": "MAI",
+      "insider_name": "Stewart, David Rodger",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "15500",
+      "price": "6.5000",
+      "value": "100750",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
