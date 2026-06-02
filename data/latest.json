@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-02T14:44:11Z",
-  "trade_count": 7361,
+  "last_updated": "2026-06-02T18:32:46Z",
+  "trade_count": 7364,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -117776,6 +117776,54 @@
       "owned": "2041208",
       "delta_own": "+1%",
       "value": "50001",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-02",
+      "filing_time": "13:02",
+      "trade_date": "2026-05-29",
+      "ticker": "HTO",
+      "company": "H2O America",
+      "insider_name": "Atlas Infrastructure Partners (Uk) Ltd.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "57.62",
+      "qty": "31001",
+      "owned": "4612035",
+      "delta_own": "+1%",
+      "value": "1786402",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-02",
+      "filing_time": "11:44",
+      "trade_date": "2026-05-29",
+      "ticker": "DGICA",
+      "company": "Donegal Group Inc",
+      "insider_name": "Donegal Mutual Insurance Co",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "16.93",
+      "qty": "17000",
+      "owned": "18850583",
+      "delta_own": "0%",
+      "value": "287807",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-02",
+      "filing_time": "11:06",
+      "trade_date": "2026-06-01",
+      "ticker": "BWFG",
+      "company": "Bankwell Financial Group, Inc.",
+      "insider_name": "Seidman Lawrence B",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "51.87",
+      "qty": "3381",
+      "owned": "851436",
+      "delta_own": "0%",
+      "value": "175371",
       "cluster_buy": false
     }
   ]
