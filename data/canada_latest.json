@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-02T19:00:23Z",
-  "trade_count": 3197,
+  "last_updated": "2026-06-02T21:00:22Z",
+  "trade_count": 3198,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48415,7 +48415,7 @@
       "value": "113925",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4724986",
@@ -48701,6 +48701,22 @@
       "qty": "15500",
       "price": "6.5000",
       "value": "100750",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4727547",
+      "trade_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "company": "Verdera Energy Corp.",
+      "ticker": "V",
+      "insider_name": "Sheriff, William Morris",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "0.5000",
+      "value": "25000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
