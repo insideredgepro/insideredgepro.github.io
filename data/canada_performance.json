@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-02",
-  "entry_count": 387,
+  "entry_count": 388,
   "entries": [
     {
       "id": "CA|NEXM|2026-04-06|whiteford, sean michael|2.46",
@@ -13359,6 +13359,26 @@
       },
       "latest_price": 0.48,
       "return_pct": -4.0,
+      "last_snapshot": "2026-06-02"
+    },
+    {
+      "id": "CA|ABXX|2026-06-02|leckie, william scott|54.0",
+      "market": "CA",
+      "ticker": "ABXX",
+      "yf_symbol": "ABXX.TO",
+      "company": "Abaxx Technologies Inc.",
+      "insider_name": "Leckie, William Scott",
+      "title": "Director",
+      "trade_date": "2026-06-02",
+      "trade_price": 54.0,
+      "value": 54000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-06-02": 53.5
+      },
+      "latest_price": 53.5,
+      "return_pct": -0.93,
       "last_snapshot": "2026-06-02"
     }
   ]

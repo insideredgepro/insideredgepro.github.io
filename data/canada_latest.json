@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-02T21:00:22Z",
-  "trade_count": 3198,
+  "last_updated": "2026-06-02T23:00:22Z",
+  "trade_count": 3199,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48720,6 +48720,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4727671",
+      "trade_date": "2026-06-02",
+      "filing_date": "2026-06-02",
+      "company": "Abaxx Technologies Inc.",
+      "ticker": "ABXX",
+      "insider_name": "Leckie, William Scott",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "1000",
+      "price": "54.0000",
+      "value": "54000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
