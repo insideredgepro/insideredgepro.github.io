@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-02",
-  "entry_count": 1438,
+  "entry_count": 1444,
   "entries": [
     {
       "id": "US|AIRS|2026-04-03|chernett jorey|2.82",
@@ -24707,8 +24707,8 @@
         "2026-06-01": 1.05,
         "2026-06-02": 1.01
       },
-      "latest_price": 1.0,
-      "return_pct": -0.99,
+      "latest_price": 1.01,
+      "return_pct": 0.0,
       "last_snapshot": "2026-06-02"
     },
     {
@@ -59039,6 +59039,126 @@
       },
       "latest_price": 10.61,
       "return_pct": 2.12,
+      "last_snapshot": "2026-06-02"
+    },
+    {
+      "id": "US|MBC|2026-06-01|banyard r david|8.43",
+      "market": "US",
+      "ticker": "MBC",
+      "yf_symbol": "MBC",
+      "company": "Masterbrand, Inc.",
+      "insider_name": "Banyard R David",
+      "title": "CEO, Pres",
+      "trade_date": "2026-06-01",
+      "trade_price": 8.43,
+      "value": 505800.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-02": 8.48
+      },
+      "latest_price": 8.48,
+      "return_pct": 0.59,
+      "last_snapshot": "2026-06-02"
+    },
+    {
+      "id": "US|ALHC|2026-06-02|kent mark d.|13.31",
+      "market": "US",
+      "ticker": "ALHC",
+      "yf_symbol": "ALHC",
+      "company": "Alignment Healthcare, Inc.",
+      "insider_name": "Kent Mark D.",
+      "title": "Pres - MSO",
+      "trade_date": "2026-06-02",
+      "trade_price": 13.31,
+      "value": 197627.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-02": 13.64
+      },
+      "latest_price": 13.64,
+      "return_pct": 2.48,
+      "last_snapshot": "2026-06-02"
+    },
+    {
+      "id": "US|PAHC|2026-05-29|corcoran e thomas|31.77",
+      "market": "US",
+      "ticker": "PAHC",
+      "yf_symbol": "PAHC",
+      "company": "Phibro Animal Health Corp",
+      "insider_name": "Corcoran E Thomas",
+      "title": "Dir",
+      "trade_date": "2026-05-29",
+      "trade_price": 31.77,
+      "value": 317700.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-02": 28.52
+      },
+      "latest_price": 28.52,
+      "return_pct": -10.23,
+      "last_snapshot": "2026-06-02"
+    },
+    {
+      "id": "US|AXIA|2026-05-29|batista de lima filho pedro|10.78",
+      "market": "US",
+      "ticker": "AXIA",
+      "yf_symbol": "AXIA",
+      "company": "Axia Energia S.A.",
+      "insider_name": "Batista De Lima Filho Pedro",
+      "title": "Dir",
+      "trade_date": "2026-05-29",
+      "trade_price": 10.78,
+      "value": 13309862.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-02": 10.35
+      },
+      "latest_price": 10.35,
+      "return_pct": -3.99,
+      "last_snapshot": "2026-06-02"
+    },
+    {
+      "id": "US|HYPD|2026-06-01|jung hyunsu|3.7",
+      "market": "US",
+      "ticker": "HYPD",
+      "yf_symbol": "HYPD",
+      "company": "Hyperion Defi, Inc.",
+      "insider_name": "Jung Hyunsu",
+      "title": "See Remarks",
+      "trade_date": "2026-06-01",
+      "trade_price": 3.7,
+      "value": 29580.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-02": 3.7
+      },
+      "latest_price": 3.7,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-06-02"
+    },
+    {
+      "id": "US|RDN|2026-06-01|weinbach michael s|33.93",
+      "market": "US",
+      "ticker": "RDN",
+      "yf_symbol": "RDN",
+      "company": "Radian Group Inc",
+      "insider_name": "Weinbach Michael S",
+      "title": "CEO- Elect",
+      "trade_date": "2026-06-01",
+      "trade_price": 33.93,
+      "value": 5768292.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-02": 33.79
+      },
+      "latest_price": 33.79,
+      "return_pct": -0.41,
       "last_snapshot": "2026-06-02"
     }
   ]
