@@ -7191,10 +7191,10 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-27,19:25,2026-05-22,HCWB,Hcw Biologics Inc.,Garrett Scott T,Director,P - Purchase,1.41,177936,203441,+698%,250000,True
 2026-05-27,18:55,2026-05-27,STRR,"Star Equity Holdings, Inc.",Eberwein Jeffrey E.,Chief Executive Officer,P - Purchase,11.76,2288,1064780,+0%,26907,False
 2026-05-27,18:55,2026-05-26,STRR,"Star Equity Holdings, Inc.",Eberwein Jeffrey E.,Chief Executive Officer,P - Purchase,11.51,2414,1062492,+0%,27785,False
-2026-05-27,18:42,2026-05-27,BOC,Boston Omaha Corp,Royal Jeffrey C,Director,P - Purchase,12.82,10000,31046,+48%,128200,False
-2026-05-27,18:42,2026-05-27,BOC,Boston Omaha Corp,Royal Jeffrey C,Director,P - Purchase,12.72,10000,69644,+17%,127200,False
-2026-05-27,18:42,2026-05-26,BOC,Boston Omaha Corp,Royal Jeffrey C,Director,P - Purchase,12.82,11046,21046,+110%,141583,False
-2026-05-27,18:42,2026-05-22,BOC,Boston Omaha Corp,Royal Jeffrey C,Director,P - Purchase,12.40,10000,10000,New,124000,False
+2026-05-27,18:42,2026-05-27,BOC,Boston Omaha Corp,Royal Jeffrey C,Director,P - Purchase,12.82,10000,31046,+48%,128200,True
+2026-05-27,18:42,2026-05-27,BOC,Boston Omaha Corp,Royal Jeffrey C,Director,P - Purchase,12.72,10000,69644,+17%,127200,True
+2026-05-27,18:42,2026-05-26,BOC,Boston Omaha Corp,Royal Jeffrey C,Director,P - Purchase,12.82,11046,21046,+110%,141583,True
+2026-05-27,18:42,2026-05-22,BOC,Boston Omaha Corp,Royal Jeffrey C,Director,P - Purchase,12.40,10000,10000,New,124000,True
 2026-05-27,18:38,2026-05-26,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.",Director,P - Purchase,1.46,243805,16147588,+2%,355736,False
 2026-05-27,18:38,2026-05-22,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.",Director,P - Purchase,1.48,798223,15903783,+5%,1182088,False
 2026-05-28,10:05,2026-05-27,NWBI,"Northwest Bancshares, Inc.",Hunter Timothy M,Director,P - Purchase,13.97,10000,199751,+5%,139675,False
@@ -7282,7 +7282,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-26,12:12,2026-05-22,HSHP,Himalaya Shipping Ltd.,Svensen Lars-Christian,Contracted CEO,P - Purchase,14.20,4000,23186,+21%,56800,False
 2026-05-26,07:29,2026-05-15,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,26.97,155220,76175160,0%,4185772,False
 2026-05-29,08:26,2026-05-27,ACCS,Access Newswire Inc.,Balbirnie Brian R,"Dir, CEO, 10%",P - Purchase,6.46,10000,632917,+2%,64634,True
-2026-05-27,18:42,2026-05-27,BOC,Boston Omaha Corp,Royal Jeffrey C,Dir,P - Purchase,12.69,41046,100690,+69%,520983,False
+2026-05-27,18:42,2026-05-27,BOC,Boston Omaha Corp,Royal Jeffrey C,Dir,P - Purchase,12.69,41046,100690,+69%,520983,True
 2026-05-27,18:18,2026-05-22,TWFG,"Twfg, Inc.",Doak Michael,Dir,P - Purchase,18.83,46880,678515,+7%,882586,False
 2026-05-27,18:14,2026-05-26,APCX,Apptech Payments Corp.,Lipstein Robert J,Dir,P - Purchase,0.35,102000,110000,>999%,35445,False
 2026-05-27,17:59,2026-05-26,GAME,"Gamesquare Holdings, Inc.","Blue & Silver Ventures, Ltd.",See Footnote (1),P - Purchase,0.43,764446,5997620,+15%,328873,False
@@ -7351,3 +7351,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-01,16:05,2026-05-28,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,"Dir, 10%",P - Purchase,11.12,45600,12043049,0%,507074,False
 2026-06-01,16:04,2026-05-28,CURI,Curiositystream Inc.,Stinchcomb Clinton Larry,"Pres, CEO",P - Purchase,2.78,25744,2971260,+1%,71491,False
 2026-06-01,16:01,2026-05-26,IPWR,Ideal Power Inc.,Turmelle Michael C,Dir,P - Purchase,7.60,5250,83582,+7%,39900,False
+2026-06-01,21:30,2026-05-28,OTLK,"Outlook Therapeutics, Inc.",Sukhtian Ghiath M.,"Dir, 10%",P - Purchase,0.59,8539709,22092068,+63%,5000000,True
+2026-06-01,21:15,2026-05-28,QTTB,Q32 Bio Inc.,Xu Diyong,"Dir, 10%",P - Purchase,8.00,1875000,625000,-150%,15000000,True
+2026-06-01,21:13,2026-05-28,QTTB,Q32 Bio Inc.,Orbimed Advisors LLC,"Dir, 10%",P - Purchase,8.00,1875000,625000,-150%,15000000,True
+2026-06-01,20:48,2026-05-29,AUNA,Auna S.A.,Zamora Leon Jesus,Pres,P - Purchase,4.32,51454,32153280,0%,222314,False
+2026-06-01,20:19,2026-05-28,BOC,Boston Omaha Corp,Kenan Frank H. II,Dir,P - Purchase,13.23,50752,441477,+13%,671250,True
