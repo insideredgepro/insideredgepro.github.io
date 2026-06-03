@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T15:00:24Z",
-  "trade_count": 3199,
+  "last_updated": "2026-06-03T17:00:24Z",
+  "trade_count": 3200,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48733,6 +48733,22 @@
       "qty": "1000",
       "price": "54.0000",
       "value": "54000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4728120",
+      "trade_date": "2026-06-03",
+      "filing_date": "2026-06-03",
+      "company": "Pizza Pizza Royalty Corp.",
+      "ticker": "PZA",
+      "insider_name": "Nash, Edward Peter Howard",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "1500",
+      "price": "12.7500",
+      "value": "19125",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
