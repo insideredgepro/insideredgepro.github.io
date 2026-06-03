@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T19:00:22Z",
-  "trade_count": 3201,
+  "last_updated": "2026-06-03T21:00:23Z",
+  "trade_count": 3203,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48765,6 +48765,38 @@
       "qty": "10000",
       "price": "106.7400",
       "value": "1067400",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4728476",
+      "trade_date": "2026-06-03",
+      "filing_date": "2026-06-03",
+      "company": "Endeavour Silver Corp.",
+      "ticker": "EDR",
+      "insider_name": "Paspalas, George Nickolas",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "12.7200",
+      "value": "63600",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4728514",
+      "trade_date": "2026-06-03",
+      "filing_date": "2026-06-03",
+      "company": "North American Construction Group Ltd.",
+      "ticker": "NOA",
+      "insider_name": "Ferron, Martin Robert",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "18.8900",
+      "value": "94450",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
