@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T21:00:23Z",
-  "trade_count": 3203,
+  "last_updated": "2026-06-03T23:00:26Z",
+  "trade_count": 3205,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48797,6 +48797,38 @@
       "qty": "5000",
       "price": "18.8900",
       "value": "94450",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4728556",
+      "trade_date": "2026-06-03",
+      "filing_date": "2026-06-03",
+      "company": "Abaxx Technologies Inc.",
+      "ticker": "ABXX",
+      "insider_name": "Leckie, William Scott",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "1000",
+      "price": "50.0000",
+      "value": "50000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4728639",
+      "trade_date": "2026-06-03",
+      "filing_date": "2026-06-03",
+      "company": "Koryx Copper S.A. (formerly Koryx Copper Inc.)",
+      "ticker": "KRY",
+      "insider_name": "Daun, Heye Edmund",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "100000",
+      "price": "3.2880",
+      "value": "328800",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
