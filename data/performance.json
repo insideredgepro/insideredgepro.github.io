@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-03",
-  "entry_count": 1468,
+  "entry_count": 1474,
   "entries": [
     {
       "id": "US|ALT|2026-04-06|gill john|3.41",
@@ -61016,6 +61016,126 @@
       },
       "latest_price": 0.6496,
       "return_pct": 1199.2,
+      "last_snapshot": "2026-06-03"
+    },
+    {
+      "id": "US|HOOD|2026-06-03|malka meyer|83.45",
+      "market": "US",
+      "ticker": "HOOD",
+      "yf_symbol": "HOOD",
+      "company": "Robinhood Markets, Inc.",
+      "insider_name": "Malka Meyer",
+      "title": "Dir",
+      "trade_date": "2026-06-03",
+      "trade_price": 83.45,
+      "value": 15103853.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-03": 82.85
+      },
+      "latest_price": 82.85,
+      "return_pct": -0.72,
+      "last_snapshot": "2026-06-03"
+    },
+    {
+      "id": "US|LODE|2026-06-03|spence robert|3.97",
+      "market": "US",
+      "ticker": "LODE",
+      "yf_symbol": "LODE",
+      "company": "Comstock Inc.",
+      "insider_name": "Spence Robert",
+      "title": "Dir",
+      "trade_date": "2026-06-03",
+      "trade_price": 3.97,
+      "value": 96908.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-03": 3.92
+      },
+      "latest_price": 3.92,
+      "return_pct": -1.26,
+      "last_snapshot": "2026-06-03"
+    },
+    {
+      "id": "US|LODE|2026-06-01|pei steven yu-tsung|4.02",
+      "market": "US",
+      "ticker": "LODE",
+      "yf_symbol": "LODE",
+      "company": "Comstock Inc.",
+      "insider_name": "Pei Steven Yu-Tsung",
+      "title": "Dir",
+      "trade_date": "2026-06-01",
+      "trade_price": 4.02,
+      "value": 1446677.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-03": 3.92
+      },
+      "latest_price": 3.92,
+      "return_pct": -2.49,
+      "last_snapshot": "2026-06-03"
+    },
+    {
+      "id": "US|LODE|2026-06-03|degasperis corrado|3.98",
+      "market": "US",
+      "ticker": "LODE",
+      "yf_symbol": "LODE",
+      "company": "Comstock Inc.",
+      "insider_name": "Degasperis Corrado",
+      "title": "CEO",
+      "trade_date": "2026-06-03",
+      "trade_price": 3.98,
+      "value": 42461.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-03": 3.92
+      },
+      "latest_price": 3.92,
+      "return_pct": -1.51,
+      "last_snapshot": "2026-06-03"
+    },
+    {
+      "id": "US|LODE|2026-06-03|drozdoff leo m|4.11",
+      "market": "US",
+      "ticker": "LODE",
+      "yf_symbol": "LODE",
+      "company": "Comstock Inc.",
+      "insider_name": "Drozdoff Leo M",
+      "title": "Dir",
+      "trade_date": "2026-06-03",
+      "trade_price": 4.11,
+      "value": 28770.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-03": 3.92
+      },
+      "latest_price": 3.92,
+      "return_pct": -4.62,
+      "last_snapshot": "2026-06-03"
+    },
+    {
+      "id": "US|PSNY|2026-06-01|vahland winfried|19.72",
+      "market": "US",
+      "ticker": "PSNY",
+      "yf_symbol": "PSNY",
+      "company": "Polestar Automotive Holding Uk Plc",
+      "insider_name": "Vahland Winfried",
+      "title": "Dir",
+      "trade_date": "2026-06-01",
+      "trade_price": 19.72,
+      "value": 132124.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-03": 18.87
+      },
+      "latest_price": 18.87,
+      "return_pct": -4.31,
       "last_snapshot": "2026-06-03"
     }
   ]
