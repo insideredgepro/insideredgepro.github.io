@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T08:08:20Z",
-  "trade_count": 7391,
+  "last_updated": "2026-06-03T13:08:06Z",
+  "trade_count": 7393,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -118256,6 +118256,38 @@
       "owned": "1553437",
       "delta_own": "+3%",
       "value": "53250",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-03",
+      "filing_time": "06:30",
+      "trade_date": "2026-06-01",
+      "ticker": "BZUN",
+      "company": "Baozun Inc.",
+      "insider_name": "Wu Junhua",
+      "title": "Chief Strategy Officer",
+      "trade_type": "P - Purchase",
+      "price": "2.70",
+      "qty": "20000",
+      "owned": "188270",
+      "delta_own": "+12%",
+      "value": "54000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-03",
+      "filing_time": "06:26",
+      "trade_date": "2026-06-01",
+      "ticker": "BZUN",
+      "company": "Baozun Inc.",
+      "insider_name": "Qiu Wenbin",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.71",
+      "qty": "20000",
+      "owned": "1493872",
+      "delta_own": "+1%",
+      "value": "54200",
       "cluster_buy": true
     }
   ]
