@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T13:08:06Z",
-  "trade_count": 7393,
+  "last_updated": "2026-06-03T18:17:18Z",
+  "trade_count": 7394,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -118289,6 +118289,22 @@
       "delta_own": "+1%",
       "value": "54200",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-03",
+      "filing_time": "12:41",
+      "trade_date": "2026-06-02",
+      "ticker": "PRTA",
+      "company": "Prothena Corp Public Ltd Co",
+      "insider_name": "Scully William P",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "9.43",
+      "qty": "50000",
+      "owned": "1018000",
+      "delta_own": "+5%",
+      "value": "471300",
+      "cluster_buy": false
     }
   ]
 }
