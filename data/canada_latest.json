@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T17:00:24Z",
-  "trade_count": 3200,
+  "last_updated": "2026-06-03T19:00:22Z",
+  "trade_count": 3201,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48749,6 +48749,22 @@
       "qty": "1500",
       "price": "12.7500",
       "value": "19125",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4728209",
+      "trade_date": "2026-06-03",
+      "filing_date": "2026-06-03",
+      "company": "ONEX CORPORATION",
+      "ticker": "ONEX",
+      "insider_name": "Popatia, Tawfiq",
+      "title": "Senior Officer",
+      "security": "Subordinate Voting Shares",
+      "qty": "10000",
+      "price": "106.7400",
+      "value": "1067400",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
