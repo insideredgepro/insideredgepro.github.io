@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-02",
-  "entry_count": 1444,
+  "entry_count": 1446,
   "entries": [
     {
       "id": "US|AIRS|2026-04-03|chernett jorey|2.82",
@@ -13295,8 +13295,8 @@
         "2026-06-01": 0.03,
         "2026-06-02": 0.03
       },
-      "latest_price": 0.03,
-      "return_pct": 0.0,
+      "latest_price": 0.046,
+      "return_pct": 53.33,
       "last_snapshot": "2026-06-02"
     },
     {
@@ -24707,8 +24707,8 @@
         "2026-06-01": 1.05,
         "2026-06-02": 1.01
       },
-      "latest_price": 1.01,
-      "return_pct": 0.0,
+      "latest_price": 1.0,
+      "return_pct": -0.99,
       "last_snapshot": "2026-06-02"
     },
     {
@@ -33634,8 +33634,8 @@
         "2026-06-01": 4.32,
         "2026-06-02": 4.779
       },
-      "latest_price": 4.779,
-      "return_pct": 13.25,
+      "latest_price": 4.755,
+      "return_pct": 12.68,
       "last_snapshot": "2026-06-02"
     },
     {
@@ -57086,8 +57086,8 @@
         "2026-06-01": 43.51,
         "2026-06-02": 43.51
       },
-      "latest_price": 43.51,
-      "return_pct": -1.36,
+      "latest_price": 42.0,
+      "return_pct": -4.78,
       "last_snapshot": "2026-06-02"
     },
     {
@@ -59159,6 +59159,46 @@
       },
       "latest_price": 33.79,
       "return_pct": -0.41,
+      "last_snapshot": "2026-06-02"
+    },
+    {
+      "id": "US|AUPH|2026-05-29|tang kevin|15.29",
+      "market": "US",
+      "ticker": "AUPH",
+      "yf_symbol": "AUPH",
+      "company": "Aurinia Pharmaceuticals Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "CEO, 10%",
+      "trade_date": "2026-05-29",
+      "trade_price": 15.29,
+      "value": 12455227.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-02": 15.39
+      },
+      "latest_price": 15.39,
+      "return_pct": 0.65,
+      "last_snapshot": "2026-06-02"
+    },
+    {
+      "id": "US|TEAD|2026-05-29|kostman david|1.15",
+      "market": "US",
+      "ticker": "TEAD",
+      "yf_symbol": "TEAD",
+      "company": "Teads Holding Co.",
+      "insider_name": "Kostman David",
+      "title": "CEO",
+      "trade_date": "2026-05-29",
+      "trade_price": 1.15,
+      "value": 53250.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-02": 1.075
+      },
+      "latest_price": 1.075,
+      "return_pct": -6.52,
       "last_snapshot": "2026-06-02"
     }
   ]

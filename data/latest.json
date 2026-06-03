@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-02T23:27:47Z",
-  "trade_count": 7389,
+  "last_updated": "2026-06-03T02:52:32Z",
+  "trade_count": 7391,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -110192,7 +110192,7 @@
       "owned": "1505000",
       "delta_own": "+8%",
       "value": "103950",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-20",
@@ -118225,6 +118225,38 @@
       "delta_own": "New",
       "value": "5768292",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-02",
+      "filing_time": "21:54",
+      "trade_date": "2026-05-29",
+      "ticker": "AUPH",
+      "company": "Aurinia Pharmaceuticals Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "15.29",
+      "qty": "814606",
+      "owned": "13044106",
+      "delta_own": "+7%",
+      "value": "12455227",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-02",
+      "filing_time": "20:42",
+      "trade_date": "2026-05-29",
+      "ticker": "TEAD",
+      "company": "Teads Holding Co.",
+      "insider_name": "Kostman David",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.15",
+      "qty": "46500",
+      "owned": "1553437",
+      "delta_own": "+3%",
+      "value": "53250",
+      "cluster_buy": true
     }
   ]
 }
