@@ -6986,7 +6986,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-21,19:08,2026-05-19,XPOF,"Xponential Fitness, Inc.","Voss Capital, LP",10%,P - Purchase,4.82,200005,1108658,+22%,963887,True
 2026-05-21,18:37,2026-05-20,BRCB,"Black Rock Coffee Bar, Inc.",Schmidt Michael Ryan,Principal Accounting Officer,P - Purchase,6.98,7100,7100,New,49558,True
 2026-05-21,18:30,2026-05-18,AVIR,"Atea Pharmaceuticals, Inc.",Murphy Polly A.,Dir,P - Purchase,4.17,6100,92145,+7%,25446,False
-2026-05-21,20:38,2026-05-19,LOGC,Contextlogic Holdings Inc.,Bobbili Raja,"Dir, 10%",P - Purchase,8.74,150000,18769534,+1%,1310960,False
+2026-05-21,20:38,2026-05-19,LOGC,Contextlogic Holdings Inc.,Bobbili Raja,"Dir, 10%",P - Purchase,8.74,150000,18769534,+1%,1310960,True
 2026-05-21,20:22,2026-04-10,CSAN,Cosan S.A.,Martins Marcelo Eduardo,CEO,P - Purchase,5.90,4040614,8857266,+84%,23820132,False
 2026-05-21,20:15,2026-05-19,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.","Dir, 10%",P - Purchase,1.49,777178,15235560,+5%,1158140,False
 2026-05-21,20:15,2026-05-19,GOLD,"Gold.Com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A.",10%,P - Purchase,40.43,141464,3512251,+4%,5719102,True
@@ -7252,7 +7252,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-28,21:05,2026-05-27,AUNA,Auna SA,Zamora Leon Jesus,President,P - Purchase,4.20,23273,62710,+59%,97702,False
 2026-05-28,21:05,2026-05-26,AUNA,Auna SA,Zamora Leon Jesus,President,P - Purchase,4.24,8727,39437,+28%,36993,False
 2026-05-28,21:43,2026-01-23,STEX,Streamex Corp.,Lekstrom Morgan Lee,Interim Exec COB,P - Purchase,3.13,47000,54000,+671%,147289,True
-2026-05-28,21:07,2026-05-26,LOGC,Contextlogic Holdings Inc.,Bobbili Raja,"Dir, 10%",P - Purchase,8.72,130201,18899735,+1%,1134825,False
+2026-05-28,21:07,2026-05-26,LOGC,Contextlogic Holdings Inc.,Bobbili Raja,"Dir, 10%",P - Purchase,8.72,130201,18899735,+1%,1134825,True
 2026-05-28,21:05,2026-05-26,AUNA,Auna S.A.,Zamora Leon Jesus,Pres,P - Purchase,4.21,32000,32091726,0%,134695,False
 2026-05-27,18:55,2026-05-22,STRR,"Star Equity Holdings, Inc.",Eberwein Jeffrey E.,"CEO, 10%",P - Purchase,11.56,5396,1064780,+1%,62368,False
 2026-05-27,18:38,2026-05-22,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.","Dir, 10%",P - Purchase,1.48,1043628,16279188,+7%,1540215,False
@@ -7399,3 +7399,24 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-03,06:30,2026-06-01,BZUN,Baozun Inc.,Wu Junhua,Chief Strategy Officer,P - Purchase,2.70,20000,188270,+12%,54000,True
 2026-06-03,06:26,2026-06-01,BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,2.71,20000,1493872,+1%,54200,True
 2026-06-03,12:41,2026-06-02,PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,9.43,50000,1018000,+5%,471300,False
+2026-06-03,17:36,2026-06-02,CRBP,"Corbus Pharmaceuticals Holdings, Inc.",Saxena Nishant C,Chief Business Officer,P - Purchase,7.50,13500,75300,+22%,101219,False
+2026-06-03,17:17,2026-04-13,DOMO,"Domo, Inc.",Rpd Fund Management LLC,See Footnote (1),P - Purchase,2.57,924709,4187809,+28%,2376502,False
+2026-06-03,17:17,2026-06-01,PAX,Patria Investments Ltd,Neto Olimpio Matarazzo,Dir,P - Purchase,11.67,30000,560724,+6%,349950,False
+2026-06-03,17:16,2026-05-27,EDBL,Edible Garden AG Inc,Wolinsky Scott,10%,P - Purchase,0.22,1050000,800000,-420%,233500,False
+2026-06-03,17:13,2026-06-02,BSBR,Banco Santander (Brasil) S.A.,Leao Mario Roberto Opice,CEO,P - Purchase,5.49,36500,658788,+6%,200385,False
+2026-06-03,17:03,2026-06-01,GLP,Global Partners LP,Global Gp LLC,General Partner,P - Purchase,49.01,15000,106584,+16%,735100,True
+2026-06-03,16:59,2026-06-01,AMG,"Affiliated Managers Group, Inc.",Franqui Annette,Dir,P - Purchase,304.88,750,1962,+62%,228660,False
+2026-06-03,16:39,2026-06-02,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.50,7494,2766894,0%,41217,False
+2026-06-03,16:30,2026-06-01,RCEL,"Avita Medical, Inc.",Woody Joseph Fralin,Dir,P - Purchase,4.25,20000,20000,New,84937,False
+2026-06-03,16:21,2026-06-02,PGY,Pagaya Technologies Ltd.,Krubiner Gal,CEO,P - Purchase,15.09,16600,539676,+3%,250550,False
+2026-06-03,16:19,2026-06-03,PODD,Insulet Corp,Weatherman Elizabeth H,Dir,P - Purchase,144.20,3450,10352,+50%,497490,False
+2026-06-03,16:16,2026-06-02,INR,"Infinity Natural Resources, Inc.",Gieselman Scott,Dir,P - Purchase,13.36,14100,98929,+17%,188336,False
+2026-06-03,16:16,2026-06-01,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,23.40,10000,13509443,0%,234000,False
+2026-06-03,16:15,2026-06-02,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,"Dir, 10%",P - Purchase,10.74,36400,12092817,0%,390936,False
+2026-06-03,16:15,2026-06-01,NCLH,Norwegian Cruise Line Holdings Ltd.,Pagliuca Stephen G,Dir,P - Purchase,18.11,1380000,1388912,>999%,24992300,True
+2026-06-03,16:15,2026-06-02,GLND,Greenland Energy Co,Swets Larry G Jr,Dir,P - Purchase,3.05,15000,560000,+3%,45705,False
+2026-06-03,16:14,2026-06-02,JHX,James Hardie Industries Plc,Rowland Suzanne B,Dir,P - Purchase,22.91,3000,15225,+25%,68730,False
+2026-06-03,16:10,2026-05-27,RLI,Rli Corp,Kliethermes Craig W,CEO,P - Purchase,52.00,5000,153990,+3%,260000,True
+2026-06-03,16:05,2026-06-01,LOGC,Contextlogic Holdings Inc.,Levy Paul S,Dir,P - Purchase,9.04,25693,525758,+5%,232344,True
+2026-06-03,14:34,2026-06-01,WOK,Work Medical Technology Group Ltd,Hrt Financial LP,10%,P - Purchase,0.14,2746332,0,-100%,378994,False
+2026-06-03,14:23,2026-06-01,HUBC,Hub Cyber Security Ltd.,Hrt Financial LP,10%,P - Purchase,0.05,619931,24478,-104%,30377,False
