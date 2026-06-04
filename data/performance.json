@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-04",
-  "entry_count": 1503,
+  "entry_count": 1513,
   "entries": [
     {
       "id": "US|ALT|2026-04-06|gill john|3.41",
@@ -63025,6 +63025,206 @@
       },
       "latest_price": 10.815,
       "return_pct": 2.8,
+      "last_snapshot": "2026-06-04"
+    },
+    {
+      "id": "US|TWFG|2026-06-03|doak michael|18.77",
+      "market": "US",
+      "ticker": "TWFG",
+      "yf_symbol": "TWFG",
+      "company": "Twfg, Inc.",
+      "insider_name": "Doak Michael",
+      "title": "Dir",
+      "trade_date": "2026-06-03",
+      "trade_price": 18.77,
+      "value": 638138.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-04": 18.95
+      },
+      "latest_price": 18.95,
+      "return_pct": 0.96,
+      "last_snapshot": "2026-06-04"
+    },
+    {
+      "id": "US|SMMT|2026-06-04|duggan robert w|14.6",
+      "market": "US",
+      "ticker": "SMMT",
+      "yf_symbol": "SMMT",
+      "company": "Summit Therapeutics Inc.",
+      "insider_name": "Duggan Robert W",
+      "title": "Co-CEO, 10%",
+      "trade_date": "2026-06-04",
+      "trade_price": 14.6,
+      "value": 1460000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-04": 14.84
+      },
+      "latest_price": 14.84,
+      "return_pct": 1.64,
+      "last_snapshot": "2026-06-04"
+    },
+    {
+      "id": "US|AVR|2026-06-02|knight susan elizabeth|9.29",
+      "market": "US",
+      "ticker": "AVR",
+      "yf_symbol": "AVR",
+      "company": "Anteris Technologies Global Corp.",
+      "insider_name": "Knight Susan Elizabeth",
+      "title": "Dir",
+      "trade_date": "2026-06-02",
+      "trade_price": 9.29,
+      "value": 102229.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-04": 9.65
+      },
+      "latest_price": 9.65,
+      "return_pct": 3.88,
+      "last_snapshot": "2026-06-04"
+    },
+    {
+      "id": "US|AADX|2026-06-04|lynch susan d|20.0",
+      "market": "US",
+      "ticker": "AADX",
+      "yf_symbol": "AADX",
+      "company": "Applied Aerospace & Defense, Inc.",
+      "insider_name": "Lynch Susan D",
+      "title": "Dir",
+      "trade_date": "2026-06-04",
+      "trade_price": 20.0,
+      "value": 160000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-04": 18.6
+      },
+      "latest_price": 18.6,
+      "return_pct": -7.0,
+      "last_snapshot": "2026-06-04"
+    },
+    {
+      "id": "US|AADX|2026-06-04|mcrae jeffrey l.|20.0",
+      "market": "US",
+      "ticker": "AADX",
+      "yf_symbol": "AADX",
+      "company": "Applied Aerospace & Defense, Inc.",
+      "insider_name": "McRae Jeffrey L.",
+      "title": "CFO",
+      "trade_date": "2026-06-04",
+      "trade_price": 20.0,
+      "value": 500000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-04": 18.6
+      },
+      "latest_price": 18.6,
+      "return_pct": -7.0,
+      "last_snapshot": "2026-06-04"
+    },
+    {
+      "id": "US|AADX|2026-06-04|katzman james c|20.0",
+      "market": "US",
+      "ticker": "AADX",
+      "yf_symbol": "AADX",
+      "company": "Applied Aerospace & Defense, Inc.",
+      "insider_name": "Katzman James C",
+      "title": "Dir",
+      "trade_date": "2026-06-04",
+      "trade_price": 20.0,
+      "value": 500000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-04": 18.6
+      },
+      "latest_price": 18.6,
+      "return_pct": -7.0,
+      "last_snapshot": "2026-06-04"
+    },
+    {
+      "id": "US|HBAN|2026-06-02|rollins james d iii|18.24",
+      "market": "US",
+      "ticker": "HBAN",
+      "yf_symbol": "HBAN",
+      "company": "Huntington Bancshares Inc /Md/",
+      "insider_name": "Rollins James D III",
+      "title": "Dir",
+      "trade_date": "2026-06-02",
+      "trade_price": 18.24,
+      "value": 401225.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-04": 16.53
+      },
+      "latest_price": 16.53,
+      "return_pct": -9.37,
+      "last_snapshot": "2026-06-04"
+    },
+    {
+      "id": "US|SMMT|2026-06-04|zanganeh mahkam|14.6",
+      "market": "US",
+      "ticker": "SMMT",
+      "yf_symbol": "SMMT",
+      "company": "Summit Therapeutics Inc.",
+      "insider_name": "Zanganeh Mahkam",
+      "title": "Co-CEO, 10%",
+      "trade_date": "2026-06-04",
+      "trade_price": 14.6,
+      "value": 1460000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-04": 14.84
+      },
+      "latest_price": 14.84,
+      "return_pct": 1.64,
+      "last_snapshot": "2026-06-04"
+    },
+    {
+      "id": "US|STRR|2026-06-02|eberwein jeffrey e.|11.59",
+      "market": "US",
+      "ticker": "STRR",
+      "yf_symbol": "STRR",
+      "company": "Star Equity Holdings, Inc.",
+      "insider_name": "Eberwein Jeffrey E.",
+      "title": "CEO, 10%",
+      "trade_date": "2026-06-02",
+      "trade_price": 11.59,
+      "value": 74290.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-04": 11.65
+      },
+      "latest_price": 11.65,
+      "return_pct": 0.52,
+      "last_snapshot": "2026-06-04"
+    },
+    {
+      "id": "US|TEO|2026-06-02|urricelqui alejandro alberto|13.43",
+      "market": "US",
+      "ticker": "TEO",
+      "yf_symbol": "TEO",
+      "company": "Telecom Argentina Sa",
+      "insider_name": "Urricelqui Alejandro Alberto",
+      "title": "Dir",
+      "trade_date": "2026-06-02",
+      "trade_price": 13.43,
+      "value": 522293.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-04": 13.23
+      },
+      "latest_price": 13.23,
+      "return_pct": -1.49,
       "last_snapshot": "2026-06-04"
     }
   ]
