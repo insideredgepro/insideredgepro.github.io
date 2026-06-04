@@ -392,7 +392,28 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "DESCRIPTION: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings calls to prevent insider trading. COMMENTS: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings calls to prevent insider trading.",
-    "scraped_at": "2026-06-04T13:45:31.466098+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794974+00:00"
+  },
+  {
+    "id": "20003798396",
+    "politician_name": "Timothy Walberg",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MI",
+    "company": "FS SPECIALTY LENDING FUND",
+    "ticker": "FSSL:US",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-01",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "2",
+    "price": "$11.83",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-06-04T16:42:22.794753+00:00"
   },
   {
     "id": "20003798355",
@@ -413,7 +434,91 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "DESCRIPTION: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings calls to prevent insider trading. COMMENTS: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings calls to prevent insider trading.",
-    "scraped_at": "2026-06-04T13:45:31.466094+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794970+00:00"
+  },
+  {
+    "id": "20003798367",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Abbott Laboratories",
+    "ticker": "ABT:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-27",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "7",
+    "price": "$85.68",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-06-04T16:42:22.794792+00:00"
+  },
+  {
+    "id": "20003798374",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Intuit Inc",
+    "ticker": "INTU:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-22",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "12",
+    "price": "$319.94",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1 Description: 5/26/26 full sale less than $1,000",
+    "scraped_at": "2026-06-04T16:42:22.794829+00:00"
+  },
+  {
+    "id": "20003798375",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Lumentum Holdings Inc",
+    "ticker": "LITE:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-22",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "12",
+    "price": "$946.90",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-06-04T16:42:22.794836+00:00"
+  },
+  {
+    "id": "20003798376",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Micron Technology Inc",
+    "ticker": "MU:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-21",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "13",
+    "price": "$762.10",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-06-04T16:42:22.794841+00:00"
   },
   {
     "id": "10000065038",
@@ -434,7 +539,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466198+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795075+00:00"
   },
   {
     "id": "10000065039",
@@ -455,7 +560,112 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466202+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795080+00:00"
+  },
+  {
+    "id": "20003798370",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Analog Devices Inc",
+    "ticker": "ADI:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-19",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "15",
+    "price": "$414.31",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-06-04T16:42:22.794808+00:00"
+  },
+  {
+    "id": "20003798377",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Microsoft Corp",
+    "ticker": "MSFT:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-19",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "15",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Portfolio Management Active Assets Account Description: Call options; Strike price $340; Expires 10/16/2026",
+    "scraped_at": "2026-06-04T16:42:22.794847+00:00"
+  },
+  {
+    "id": "20003798378",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Microsoft Corp",
+    "ticker": "MSFT:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-19",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "15",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Portfolio Management Active Assets Account Description: Call options; Strike price $330; Expires 10/16/2026",
+    "scraped_at": "2026-06-04T16:42:22.794851+00:00"
+  },
+  {
+    "id": "20003798379",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Microsoft Corp",
+    "ticker": "MSFT:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-19",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "15",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Portfolio Management Active Assets Account Description: Call options; Strike price $325; Expires 06/18/2026",
+    "scraped_at": "2026-06-04T16:42:22.794855+00:00"
+  },
+  {
+    "id": "20003798380",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Microsoft Corp",
+    "ticker": "MSFT:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-19",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "15",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Portfolio Management Active Assets Account Description: Call options; Strike price $325; Expires 06/18/2026",
+    "scraped_at": "2026-06-04T16:42:22.794859+00:00"
   },
   {
     "id": "10000065040",
@@ -476,7 +686,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466206+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795084+00:00"
   },
   {
     "id": "10000065041",
@@ -497,7 +707,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466210+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795088+00:00"
   },
   {
     "id": "10000065042",
@@ -518,7 +728,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466214+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795092+00:00"
   },
   {
     "id": "20003798323",
@@ -584,6 +794,27 @@
     "scraped_at": "2026-05-29T10:33:49.256360+00:00"
   },
   {
+    "id": "20003798385",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Tri Pointe Homes Inc",
+    "ticker": "TPH:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-15",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "19",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-06-04T16:42:22.794887+00:00"
+  },
+  {
     "id": "20003798360",
     "politician_name": "Virginia Foxx",
     "party": "Republican",
@@ -602,7 +833,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466036+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794931+00:00"
   },
   {
     "id": "20003798350",
@@ -623,7 +854,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 2012 Trust Description: Capital call of $4,321.10",
-    "scraped_at": "2026-06-04T13:45:31.466114+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794990+00:00"
   },
   {
     "id": "20003798337",
@@ -644,7 +875,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-04T13:45:31.466128+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795003+00:00"
   },
   {
     "id": "20003798338",
@@ -665,7 +896,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-06-04T13:45:31.466132+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795008+00:00"
   },
   {
     "id": "20003798339",
@@ -686,7 +917,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-06-04T13:45:31.466138+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795014+00:00"
   },
   {
     "id": "20003798340",
@@ -707,7 +938,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-04T13:45:31.466144+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795018+00:00"
   },
   {
     "id": "20003798341",
@@ -728,7 +959,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-04T13:45:31.466149+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795023+00:00"
   },
   {
     "id": "20003798342",
@@ -749,7 +980,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-06-04T13:45:31.466154+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795029+00:00"
   },
   {
     "id": "20003798343",
@@ -770,7 +1001,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-04T13:45:31.466158+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795033+00:00"
   },
   {
     "id": "20003798344",
@@ -791,7 +1022,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-06-04T13:45:31.466162+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795040+00:00"
   },
   {
     "id": "20003798345",
@@ -812,7 +1043,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-04T13:45:31.466169+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795045+00:00"
   },
   {
     "id": "20003798346",
@@ -833,7 +1064,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-06-04T13:45:31.466173+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795050+00:00"
   },
   {
     "id": "20003798347",
@@ -854,7 +1085,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-04T13:45:31.466178+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795054+00:00"
   },
   {
     "id": "20003798348",
@@ -875,7 +1106,70 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-06-04T13:45:31.466182+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795059+00:00"
+  },
+  {
+    "id": "20003798381",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Nestle SA, Cham Und Vevey",
+    "ticker": "NSRGY:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-14",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "20",
+    "price": "$98.18",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-06-04T16:42:22.794868+00:00"
+  },
+  {
+    "id": "20003798383",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Palo Alto Networks Inc",
+    "ticker": "PANW:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-14",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "20",
+    "price": "$238.21",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-06-04T16:42:22.794878+00:00"
+  },
+  {
+    "id": "20003798366",
+    "politician_name": "Cleo Fields",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "LA",
+    "company": "Apple Inc",
+    "ticker": "AAPL:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-14",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "20",
+    "price": "$298.21",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
+    "scraped_at": "2026-06-04T16:42:22.794898+00:00"
   },
   {
     "id": "20003798349",
@@ -896,7 +1190,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Description: Automatic stock dividend reinvestment",
-    "scraped_at": "2026-06-04T13:45:31.466123+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794999+00:00"
   },
   {
     "id": "10000065043",
@@ -917,7 +1211,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466219+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795097+00:00"
   },
   {
     "id": "10000065044",
@@ -938,7 +1232,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466223+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795102+00:00"
   },
   {
     "id": "10000065045",
@@ -959,7 +1253,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466227+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795105+00:00"
   },
   {
     "id": "10000065046",
@@ -980,7 +1274,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466232+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795109+00:00"
   },
   {
     "id": "20003798351",
@@ -1001,7 +1295,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 2012 Trust Description: Return of capital - $9,887.40",
-    "scraped_at": "2026-06-04T13:45:31.466118+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794994+00:00"
   },
   {
     "id": "10000065047",
@@ -1022,7 +1316,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466236+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795113+00:00"
   },
   {
     "id": "10000065048",
@@ -1043,7 +1337,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466240+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795117+00:00"
   },
   {
     "id": "20003798222",
@@ -1085,7 +1379,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation Description: merged with DVN Energy Corp.",
-    "scraped_at": "2026-06-04T13:45:31.465971+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794902+00:00"
   },
   {
     "id": "20003798362",
@@ -1106,7 +1400,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA Description: Coterra merged into Devon",
-    "scraped_at": "2026-06-04T13:45:31.465994+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794906+00:00"
   },
   {
     "id": "20003798363",
@@ -1127,7 +1421,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA Description: Coterra merged into Devon",
-    "scraped_at": "2026-06-04T13:45:31.466015+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794911+00:00"
   },
   {
     "id": "20003798364",
@@ -1148,7 +1442,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation Description: CRTA Merged into DVN",
-    "scraped_at": "2026-06-04T13:45:31.466022+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794915+00:00"
   },
   {
     "id": "10000065074",
@@ -1169,7 +1463,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466057+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794941+00:00"
   },
   {
     "id": "10000065075",
@@ -1190,7 +1484,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466065+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794945+00:00"
   },
   {
     "id": "10000065036",
@@ -1211,7 +1505,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466188+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795063+00:00"
   },
   {
     "id": "20003798240",
@@ -1298,6 +1592,27 @@
     "scraped_at": "2026-05-21T08:19:33.776559+00:00"
   },
   {
+    "id": "20003798384",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "SANDISK CORP",
+    "ticker": "SNDK:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-07",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "27",
+    "price": "$1,339.96",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-06-04T16:42:22.794883+00:00"
+  },
+  {
     "id": "10000065073",
     "politician_name": "Sheldon Whitehouse",
     "party": "Democrat",
@@ -1316,7 +1631,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466043+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794936+00:00"
   },
   {
     "id": "20003798319",
@@ -1484,7 +1799,7 @@
     "amount": "$1M\u2013$5M",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Hern Family Charitable Remainder Trust Description: Note redeemed by the issuer.",
-    "scraped_at": "2026-06-04T13:45:31.466029+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794919+00:00"
   },
   {
     "id": "10000065037",
@@ -1505,7 +1820,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466192+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795070+00:00"
   },
   {
     "id": "10000065049",
@@ -1526,7 +1841,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466245+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795124+00:00"
   },
   {
     "id": "10000065050",
@@ -1547,7 +1862,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466249+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795128+00:00"
   },
   {
     "id": "10000065051",
@@ -1568,7 +1883,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466253+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795132+00:00"
   },
   {
     "id": "10000065052",
@@ -1589,7 +1904,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466257+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795136+00:00"
   },
   {
     "id": "10000065035",
@@ -1676,6 +1991,69 @@
     "scraped_at": "2026-05-11T11:20:47.629383+00:00"
   },
   {
+    "id": "20003798368",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "AbbVie Inc",
+    "ticker": "ABBV:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-05",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "29",
+    "price": "$206.11",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-06-04T16:42:22.794797+00:00"
+  },
+  {
+    "id": "20003798369",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Advanced Micro Devices Inc",
+    "ticker": "AMD:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-05",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "29",
+    "price": "$355.26",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-06-04T16:42:22.794803+00:00"
+  },
+  {
+    "id": "20003798382",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Nestle SA, Cham Und Vevey",
+    "ticker": "NSRGY:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-05",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "29",
+    "price": "$99.22",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-06-04T16:42:22.794872+00:00"
+  },
+  {
     "id": "10000065053",
     "politician_name": "David McCormick",
     "party": "Republican",
@@ -1694,7 +2072,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466261+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795140+00:00"
   },
   {
     "id": "10000065054",
@@ -1715,7 +2093,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466264+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795146+00:00"
   },
   {
     "id": "20003798228",
@@ -1970,6 +2348,69 @@
     "scraped_at": "2026-05-21T08:19:33.776619+00:00"
   },
   {
+    "id": "20003798371",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Berkshire Hathaway Inc",
+    "ticker": "BRK/B:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-04",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "30",
+    "price": "$468.52",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-06-04T16:42:22.794812+00:00"
+  },
+  {
+    "id": "20003798372",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Berkshire Hathaway Inc",
+    "ticker": "BRK/B:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-04",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "30",
+    "price": "$468.52",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-06-04T16:42:22.794817+00:00"
+  },
+  {
+    "id": "20003798386",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Twilio Inc",
+    "ticker": "TWLO:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-04",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "30",
+    "price": "$189.67",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-06-04T16:42:22.794892+00:00"
+  },
+  {
     "id": "10000065055",
     "politician_name": "David McCormick",
     "party": "Republican",
@@ -1988,7 +2429,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466271+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795150+00:00"
   },
   {
     "id": "10000065056",
@@ -2009,7 +2450,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466277+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795154+00:00"
   },
   {
     "id": "20003798330",
@@ -2159,6 +2600,27 @@
     "scraped_at": "2026-05-11T11:20:47.629610+00:00"
   },
   {
+    "id": "20003798373",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "FABRINET",
+    "ticker": "FN:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-01",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "33",
+    "price": "$706.53",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-06-04T16:42:22.794824+00:00"
+  },
+  {
     "id": "20003797667",
     "politician_name": "Maria Elvira Salazar",
     "party": "Republican",
@@ -2240,7 +2702,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466281+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795157+00:00"
   },
   {
     "id": "10000065058",
@@ -2261,7 +2723,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466285+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795161+00:00"
   },
   {
     "id": "10000065059",
@@ -2282,7 +2744,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466289+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795167+00:00"
   },
   {
     "id": "10000065060",
@@ -2303,7 +2765,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466293+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795173+00:00"
   },
   {
     "id": "10000065061",
@@ -2324,7 +2786,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466298+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795177+00:00"
   },
   {
     "id": "10000065062",
@@ -2345,7 +2807,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466302+00:00"
+    "scraped_at": "2026-06-04T16:42:22.795181+00:00"
   },
   {
     "id": "10000065063",
@@ -45164,7 +45626,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "DESCRIPTION: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings calls to prevent insider trading. COMMENTS: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings calls to prevent insider trading.",
-    "scraped_at": "2026-06-04T13:45:31.466108+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794986+00:00"
   },
   {
     "id": "20003795786",
@@ -47852,7 +48314,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "DESCRIPTION: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings calls to prevent insider trading. COMMENTS: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings calls to prevent insider trading.",
-    "scraped_at": "2026-06-04T13:45:31.466103+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794980+00:00"
   },
   {
     "id": "20003795757",
@@ -54113,6 +54575,27 @@
     "scraped_at": "2026-04-18T23:44:10.189321+00:00"
   },
   {
+    "id": "20003798401",
+    "politician_name": "Timothy Walberg",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MI",
+    "company": "Under Armour Inc",
+    "ticker": "UAA:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-02-10",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "113",
+    "price": "$6.84",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-06-04T16:42:22.794782+00:00"
+  },
+  {
     "id": "20003798352",
     "politician_name": "Christian Menefee",
     "party": "Democrat",
@@ -54131,7 +54614,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466076+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794956+00:00"
   },
   {
     "id": "20003798353",
@@ -54152,7 +54635,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466083+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794961+00:00"
   },
   {
     "id": "20003798354",
@@ -54173,7 +54656,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466089+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794965+00:00"
   },
   {
     "id": "20003795749",
@@ -64169,7 +64652,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Portfolio",
-    "scraped_at": "2026-06-04T13:45:31.466071+00:00"
+    "scraped_at": "2026-06-04T16:42:22.794950+00:00"
   },
   {
     "id": "20003796216",
@@ -64254,6 +64737,300 @@
     "owner": "Spouse",
     "comment": "",
     "scraped_at": "2026-04-18T23:44:08.234853+00:00"
+  },
+  {
+    "id": "20003798387",
+    "politician_name": "Timothy Walberg",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MI",
+    "company": "Amazon.com Inc",
+    "ticker": "AMZN:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2025-02-07",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "481",
+    "price": "$229.15",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-06-04T16:42:22.794663+00:00"
+  },
+  {
+    "id": "20003798388",
+    "politician_name": "Timothy Walberg",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MI",
+    "company": "Apple Inc",
+    "ticker": "AAPL:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2025-02-07",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "481",
+    "price": "$227.63",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-06-04T16:42:22.794687+00:00"
+  },
+  {
+    "id": "20003798389",
+    "politician_name": "Timothy Walberg",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MI",
+    "company": "Bank of America Corp",
+    "ticker": "BAC:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2025-02-07",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "481",
+    "price": "$47.40",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-06-04T16:42:22.794700+00:00"
+  },
+  {
+    "id": "20003798390",
+    "politician_name": "Timothy Walberg",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MI",
+    "company": "Boeing Co",
+    "ticker": "BA:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2025-02-07",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "481",
+    "price": "$181.49",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-06-04T16:42:22.794706+00:00"
+  },
+  {
+    "id": "20003798391",
+    "politician_name": "Timothy Walberg",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MI",
+    "company": "Caterpillar Inc",
+    "ticker": "CAT:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2025-02-07",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "481",
+    "price": "$363.88",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-06-04T16:42:22.794712+00:00"
+  },
+  {
+    "id": "20003798392",
+    "politician_name": "Timothy Walberg",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MI",
+    "company": "Chevron Corp",
+    "ticker": "CVX:US",
+    "sector": "energy",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2025-02-07",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "481",
+    "price": "$152.62",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-06-04T16:42:22.794718+00:00"
+  },
+  {
+    "id": "20003798393",
+    "politician_name": "Timothy Walberg",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MI",
+    "company": "Eaton Corp PLC",
+    "ticker": "ETN:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2025-02-07",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "481",
+    "price": "$313.05",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-06-04T16:42:22.794724+00:00"
+  },
+  {
+    "id": "20003798394",
+    "politician_name": "Timothy Walberg",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MI",
+    "company": "Exxon Mobil Corp",
+    "ticker": "XOM:US",
+    "sector": "energy",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2025-02-07",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "481",
+    "price": "$108.89",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-06-04T16:42:22.794738+00:00"
+  },
+  {
+    "id": "20003798395",
+    "politician_name": "Timothy Walberg",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MI",
+    "company": "FS SPECIALTY LENDING FUND",
+    "ticker": "FSSL:US",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2025-02-07",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "481",
+    "price": "$2.52",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-06-04T16:42:22.794746+00:00"
+  },
+  {
+    "id": "20003798397",
+    "politician_name": "Timothy Walberg",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MI",
+    "company": "Jacobs Engineering Group Inc",
+    "ticker": "J:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2025-02-07",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "481",
+    "price": "$133.93",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-06-04T16:42:22.794759+00:00"
+  },
+  {
+    "id": "20003798398",
+    "politician_name": "Timothy Walberg",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MI",
+    "company": "L3Harris Technologies Inc",
+    "ticker": "LHX:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2025-02-07",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "481",
+    "price": "$206.13",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-06-04T16:42:22.794764+00:00"
+  },
+  {
+    "id": "20003798399",
+    "politician_name": "Timothy Walberg",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MI",
+    "company": "Lockheed Martin Corp",
+    "ticker": "LMT:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2025-02-07",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "481",
+    "price": "$444.39",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-06-04T16:42:22.794771+00:00"
+  },
+  {
+    "id": "20003798400",
+    "politician_name": "Timothy Walberg",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MI",
+    "company": "Under Armour Inc",
+    "ticker": "UAA:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2025-02-07",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "481",
+    "price": "$6.70",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-06-04T16:42:22.794778+00:00"
+  },
+  {
+    "id": "20003798402",
+    "politician_name": "Timothy Walberg",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MI",
+    "company": "Wells Fargo & Co",
+    "ticker": "WFC:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2025-02-07",
+    "trade_published": "2026-06-04",
+    "filed_after_days": "481",
+    "price": "$80.67",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-06-04T16:42:22.794787+00:00"
   },
   {
     "id": "20003796423",
