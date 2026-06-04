@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04T07:16:38Z",
-  "trade_count": 7424,
+  "last_updated": "2026-06-04T10:55:24Z",
+  "trade_count": 7425,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -118784,6 +118784,22 @@
       "owned": "338852",
       "delta_own": "+6%",
       "value": "1536938",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-04",
+      "filing_time": "06:01",
+      "trade_date": "2026-06-02",
+      "ticker": "FONR",
+      "company": "Fonar Corp",
+      "insider_name": "Shane Hilary",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "19.10",
+      "qty": "215336",
+      "owned": "1529486",
+      "delta_own": "+16%",
+      "value": "4113298",
       "cluster_buy": false
     }
   ]
