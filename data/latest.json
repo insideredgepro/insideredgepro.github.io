@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04T13:53:57Z",
-  "trade_count": 7431,
+  "last_updated": "2026-06-04T16:45:35Z",
+  "trade_count": 7434,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -118896,6 +118896,54 @@
       "owned": "4332",
       "delta_own": "+288%",
       "value": "99888",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-04",
+      "filing_time": "11:07",
+      "trade_date": "2026-06-02",
+      "ticker": "ERIE",
+      "company": "Erie Indemnity Co",
+      "insider_name": "Vorsheck Elizabeth A",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "204.79",
+      "qty": "7000",
+      "owned": "3967946",
+      "delta_own": "0%",
+      "value": "1433500",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-04",
+      "filing_time": "10:21",
+      "trade_date": "2026-06-02",
+      "ticker": "GROW",
+      "company": "U S Global Investors Inc",
+      "insider_name": "Pilecki Derek Steven",
+      "title": "Control Person",
+      "trade_type": "P - Purchase",
+      "price": "2.59",
+      "qty": "20826",
+      "owned": "1121593",
+      "delta_own": "+2%",
+      "value": "54035",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-04",
+      "filing_time": "10:18",
+      "trade_date": "2026-06-02",
+      "ticker": "GROW",
+      "company": "U S Global Investors Inc",
+      "insider_name": "Gator Capital Management, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.59",
+      "qty": "20826",
+      "owned": "1121593",
+      "delta_own": "+2%",
+      "value": "54035",
       "cluster_buy": true
     }
   ]
