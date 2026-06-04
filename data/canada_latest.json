@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04T21:00:23Z",
-  "trade_count": 3210,
+  "last_updated": "2026-06-04T23:00:25Z",
+  "trade_count": 3211,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48909,6 +48909,22 @@
       "qty": "5000",
       "price": "14.0900",
       "value": "70450",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4729454",
+      "trade_date": "2026-06-04",
+      "filing_date": "2026-06-04",
+      "company": "CoTec Holdings Corp.",
+      "ticker": "CTH",
+      "insider_name": "Jonker, Abraham",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "33500",
+      "price": "1.4080",
+      "value": "47168",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false

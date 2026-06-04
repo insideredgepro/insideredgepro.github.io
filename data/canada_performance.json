@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-04",
-  "entry_count": 399,
+  "entry_count": 400,
   "entries": [
     {
       "id": "CA|NEXM|2026-04-06|whiteford, sean michael|2.46",
@@ -14379,6 +14379,26 @@
       },
       "latest_price": 14.03,
       "return_pct": -0.43,
+      "last_snapshot": "2026-06-04"
+    },
+    {
+      "id": "CA|CTH|2026-06-04|jonker, abraham|1.408",
+      "market": "CA",
+      "ticker": "CTH",
+      "yf_symbol": "CTH.V",
+      "company": "CoTec Holdings Corp.",
+      "insider_name": "Jonker, Abraham",
+      "title": "Senior Officer",
+      "trade_date": "2026-06-04",
+      "trade_price": 1.408,
+      "value": 47168.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-06-04": 1.41
+      },
+      "latest_price": 1.41,
+      "return_pct": 0.14,
       "last_snapshot": "2026-06-04"
     }
   ]
