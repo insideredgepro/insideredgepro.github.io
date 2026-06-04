@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-03",
-  "entry_count": 1474,
+  "entry_count": 1477,
   "entries": [
     {
       "id": "US|ALT|2026-04-06|gill john|3.41",
@@ -7179,8 +7179,8 @@
         "2026-06-02": 9.91,
         "2026-06-03": 9.72
       },
-      "latest_price": 10.0,
-      "return_pct": 2.46,
+      "latest_price": 9.72,
+      "return_pct": -0.41,
       "last_snapshot": "2026-06-03"
     },
     {
@@ -7249,8 +7249,8 @@
         "2026-06-02": 9.91,
         "2026-06-03": 9.72
       },
-      "latest_price": 10.0,
-      "return_pct": 0.2,
+      "latest_price": 9.72,
+      "return_pct": -2.61,
       "last_snapshot": "2026-06-03"
     },
     {
@@ -34165,8 +34165,8 @@
         "2026-06-02": 4.779,
         "2026-06-03": 4.755
       },
-      "latest_price": 4.755,
-      "return_pct": 12.68,
+      "latest_price": 4.58,
+      "return_pct": 8.53,
       "last_snapshot": "2026-06-03"
     },
     {
@@ -61136,6 +61136,66 @@
       },
       "latest_price": 18.87,
       "return_pct": -4.31,
+      "last_snapshot": "2026-06-03"
+    },
+    {
+      "id": "US|TXO|2026-06-02|simpson bob r|13.72",
+      "market": "US",
+      "ticker": "TXO",
+      "yf_symbol": "TXO",
+      "company": "Txo Partners, L.P.",
+      "insider_name": "Simpson Bob R",
+      "title": "Dir, 10%",
+      "trade_date": "2026-06-02",
+      "trade_price": 13.72,
+      "value": 8231772.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-03": 13.44
+      },
+      "latest_price": 13.44,
+      "return_pct": -2.04,
+      "last_snapshot": "2026-06-03"
+    },
+    {
+      "id": "US|NMM|2026-06-01|frangou angeliki|71.91",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-06-01",
+      "trade_price": 71.91,
+      "value": 252904.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-03": 71.41
+      },
+      "latest_price": 71.41,
+      "return_pct": -0.7,
+      "last_snapshot": "2026-06-03"
+    },
+    {
+      "id": "US|CECO|2026-06-01|wallman richard f|76.85",
+      "market": "US",
+      "ticker": "CECO",
+      "yf_symbol": "CECO",
+      "company": "Ceco Environmental Corp",
+      "insider_name": "Wallman Richard F",
+      "title": "Dir",
+      "trade_date": "2026-06-01",
+      "trade_price": 76.85,
+      "value": 1536938.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-03": 79.47
+      },
+      "latest_price": 79.47,
+      "return_pct": 3.41,
       "last_snapshot": "2026-06-03"
     }
   ]

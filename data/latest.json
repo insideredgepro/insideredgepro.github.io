@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T23:26:59Z",
-  "trade_count": 7421,
+  "last_updated": "2026-06-04T02:47:56Z",
+  "trade_count": 7424,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -118736,6 +118736,54 @@
       "owned": "31979",
       "delta_own": "+27%",
       "value": "132124",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-03",
+      "filing_time": "21:22",
+      "trade_date": "2026-06-02",
+      "ticker": "TXO",
+      "company": "Txo Partners, L.P.",
+      "insider_name": "Simpson Bob R",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "13.72",
+      "qty": "600000",
+      "owned": "9000000",
+      "delta_own": "+7%",
+      "value": "8231772",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-03",
+      "filing_time": "21:10",
+      "trade_date": "2026-06-01",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "71.91",
+      "qty": "3517",
+      "owned": "5726808",
+      "delta_own": "0%",
+      "value": "252904",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-03",
+      "filing_time": "19:35",
+      "trade_date": "2026-06-01",
+      "ticker": "CECO",
+      "company": "Ceco Environmental Corp",
+      "insider_name": "Wallman Richard F",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "76.85",
+      "qty": "20000",
+      "owned": "338852",
+      "delta_own": "+6%",
+      "value": "1536938",
       "cluster_buy": false
     }
   ]
