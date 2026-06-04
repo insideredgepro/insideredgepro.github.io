@@ -7284,7 +7284,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-29,08:26,2026-05-27,ACCS,Access Newswire Inc.,Balbirnie Brian R,"Dir, CEO, 10%",P - Purchase,6.46,10000,632917,+2%,64634,True
 2026-05-27,18:42,2026-05-27,BOC,Boston Omaha Corp,Royal Jeffrey C,Dir,P - Purchase,12.69,41046,100690,+69%,520983,True
 2026-05-27,18:18,2026-05-22,TWFG,"Twfg, Inc.",Doak Michael,Dir,P - Purchase,18.83,46880,678515,+7%,882586,False
-2026-05-27,18:14,2026-05-26,APCX,Apptech Payments Corp.,Lipstein Robert J,Dir,P - Purchase,0.35,102000,110000,>999%,35445,False
+2026-05-27,18:14,2026-05-26,APCX,Apptech Payments Corp.,Lipstein Robert J,Dir,P - Purchase,0.35,102000,110000,>999%,35445,True
 2026-05-27,17:59,2026-05-26,GAME,"Gamesquare Holdings, Inc.","Blue & Silver Ventures, Ltd.",See Footnote (1),P - Purchase,0.43,764446,5997620,+15%,328873,False
 2026-05-26,17:46,2026-05-22,BCML,Baycom Corp,Perdue Michael J,Dir,P - Purchase,30.94,5000,5000,New,154700,False
 2026-05-26,17:18,2026-05-22,INTU,Intuit Inc.,Prabhu Vasant M,Dir,P - Purchase,309.52,1750,1750,New,541665,False
@@ -7363,7 +7363,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-02,08:01,2026-05-29,MNSO,Miniso Group Holding Ltd,Ye Guofu,CEO,P - Purchase,3.29,2100000,791641061,0%,6901010,True
 2026-06-02,07:46,2026-06-01,SMWB,Similarweb Ltd.,Offer Or,CEO,P - Purchase,4.15,50000,4744396,+1%,207500,True
 2026-06-02,07:32,2026-05-29,MTDR,Matador Resources Co,Calvert Christopher P,"EVP, CFO",P - Purchase,53.24,1500,126812,+1%,79860,True
-2026-06-02,07:30,2026-06-01,MDWD,Mediwound Ltd.,Fox David Morton,Dir,P - Purchase,14.11,3537,23033,+18%,49901,False
+2026-06-02,07:30,2026-06-01,MDWD,Mediwound Ltd.,Fox David Morton,Dir,P - Purchase,14.11,3537,23033,+18%,49901,True
 2026-06-02,07:28,2026-05-29,MTDR,Matador Resources Co,Foran Joseph Wm,"COB, CEO",P - Purchase,52.70,482,5456137,0%,25401,True
 2026-06-02,06:50,2026-05-29,GRNQ,Greenpro Capital Corp.,Lee Chong Kuang,"CEO, 10%",P - Purchase,1.73,28949,2041208,+1%,50001,False
 2026-06-02,13:02,2026-05-29,HTO,H2O America,Atlas Infrastructure Partners (Uk) Ltd.,10%,P - Purchase,57.62,31001,4612035,+1%,1786402,False
@@ -7409,7 +7409,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-03,16:39,2026-06-02,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.50,7494,2766894,0%,41217,False
 2026-06-03,16:30,2026-06-01,RCEL,"Avita Medical, Inc.",Woody Joseph Fralin,Dir,P - Purchase,4.25,20000,20000,New,84937,False
 2026-06-03,16:21,2026-06-02,PGY,Pagaya Technologies Ltd.,Krubiner Gal,CEO,P - Purchase,15.09,16600,539676,+3%,250550,False
-2026-06-03,16:19,2026-06-03,PODD,Insulet Corp,Weatherman Elizabeth H,Dir,P - Purchase,144.20,3450,10352,+50%,497490,False
+2026-06-03,16:19,2026-06-03,PODD,Insulet Corp,Weatherman Elizabeth H,Dir,P - Purchase,144.20,3450,10352,+50%,497490,True
 2026-06-03,16:16,2026-06-02,INR,"Infinity Natural Resources, Inc.",Gieselman Scott,Dir,P - Purchase,13.36,14100,98929,+17%,188336,False
 2026-06-03,16:16,2026-06-01,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,23.40,10000,13509443,0%,234000,False
 2026-06-03,16:15,2026-06-02,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,"Dir, 10%",P - Purchase,10.74,36400,12092817,0%,390936,False
@@ -7439,3 +7439,23 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-04,11:07,2026-06-02,ERIE,Erie Indemnity Co,Vorsheck Elizabeth A,"Dir, 10%",P - Purchase,204.79,7000,3967946,0%,1433500,False
 2026-06-04,10:21,2026-06-02,GROW,U S Global Investors Inc,Pilecki Derek Steven,Control Person,P - Purchase,2.59,20826,1121593,+2%,54035,True
 2026-06-04,10:18,2026-06-02,GROW,U S Global Investors Inc,"Gator Capital Management, LLC",10%,P - Purchase,2.59,20826,1121593,+2%,54035,True
+2026-06-04,17:20,2026-06-02,APCX,Apptech Payments Corp.,Lord Albert L,Dir,P - Purchase,0.45,210000,3510000,+6%,95221,True
+2026-06-04,17:09,2026-06-01,SR,Spire Inc,Koonce Paul D,Dir,P - Purchase,80.50,500,15465,+3%,40250,False
+2026-06-04,17:00,2026-06-04,SMBK,Smartfinancial Inc.,Ackermann Cathy G,Dir,P - Purchase,42.12,3000,32431,+10%,126360,False
+2026-06-04,16:49,2026-05-05,IOR,Income Opportunity Realty Investors Inc /Tx/,Transcontinental Realty Investors Inc,10%,P - Purchase,17.91,8575,3449104,0%,153575,False
+2026-06-04,16:48,2026-06-03,XMTR,"Xometry, Inc.",Biewald Lukas Alexander,Dir,P - Purchase,85.00,47058,55134,+583%,3999930,False
+2026-06-04,16:40,2026-06-04,SMMT,Summit Therapeutics Inc.,Soni Manmeet Singh,"COO, CFO",P - Purchase,14.45,50000,3123603,+2%,722250,False
+2026-06-04,16:35,2026-06-03,GLIBK,Liberty Capital Corp/Nv,Duncan Ronald A,"Pres, CEO",P - Purchase,21.04,67500,226442,+42%,1420517,False
+2026-06-04,16:29,2026-06-03,SRI,Stoneridge Inc,Kaplan IRA C.,Dir,P - Purchase,7.54,5000,149718,+3%,37700,False
+2026-06-04,16:25,2026-06-03,PODD,Insulet Corp,Stonesifer Timothy C.,Dir,P - Purchase,143.51,2790,9041,+45%,400393,True
+2026-06-04,16:22,2026-06-02,ITW,Illinois Tool Works Inc,Scanlon Jennifer F.,Dir,P - Purchase,247.99,806,1652,+95%,199880,False
+2026-06-04,16:22,2026-06-03,NSP,"Insperity, Inc.",Sarvadi Paul J,"COB, CEO",P - Purchase,34.05,233000,1805582,+15%,7933650,False
+2026-06-04,16:15,2026-06-04,EXE,Expand Energy Corp,Wichterich Michael,"Interim Pres, CEO",P - Purchase,93.36,1000,84498,+1%,93360,True
+2026-06-04,16:11,2026-06-02,OPAL,Opal Fuels Inc.,Nisar Nadeem,Dir,P - Purchase,2.30,15000,247785,+6%,34450,True
+2026-06-04,16:11,2026-06-04,EXE,Expand Energy Corp,Teunissen Marcel,"EVP, CFO",P - Purchase,92.88,2000,11144,+22%,185760,True
+2026-06-04,16:10,2026-06-02,AXR,Amrep Corp.,Dahl James H,10%,P - Purchase,26.62,1500,995654,0%,39934,False
+2026-06-04,16:08,2026-06-02,NIVF,Newgenivf Group Ltd,Hrt Financial LP,10%,P - Purchase,0.92,34756,83079,+72%,32000,True
+2026-06-04,16:06,2026-06-02,INTG,Intergroup Corp,Kaplan Andrew J,Dir,P - Purchase,37.36,1002,1002,New,37430,False
+2026-06-04,16:05,2026-06-03,MDWD,Mediwound Ltd.,Shamir Nachum,Dir,P - Purchase,14.00,6000,57015,+12%,83996,True
+2026-06-04,16:01,2026-06-02,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,10.52,5748,861622,+1%,60469,False
+2026-06-04,15:40,2025-06-30,GIPL,Global Innovative Platforms Inc.,Brown David A B,10%,P - Purchase,0.03,6682800,3775612,-230%,202000,False
