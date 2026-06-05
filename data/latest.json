@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T20:45:49Z",
-  "trade_count": 7492,
+  "last_updated": "2026-06-05T22:09:59Z",
+  "trade_count": 7496,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -119873,6 +119873,70 @@
       "delta_own": "+17%",
       "value": "70000",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "18:00",
+      "trade_date": "2026-06-03",
+      "ticker": "ONT",
+      "company": "Onterris, Inc.",
+      "insider_name": "Graham Peter",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "15.94",
+      "qty": "4860",
+      "owned": "231549",
+      "delta_own": "+2%",
+      "value": "77468",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "17:40",
+      "trade_date": "2026-06-04",
+      "ticker": "GEN",
+      "company": "Gen Digital Inc.",
+      "insider_name": "Chrystal John C",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "27.06",
+      "qty": "3000",
+      "owned": "31419",
+      "delta_own": "+11%",
+      "value": "81171",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "17:10",
+      "trade_date": "2026-06-03",
+      "ticker": "LOGC",
+      "company": "Contextlogic Holdings Inc.",
+      "insider_name": "Levy Paul S",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "9.05",
+      "qty": "99428",
+      "owned": "625186",
+      "delta_own": "+19%",
+      "value": "899618",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "17:00",
+      "trade_date": "2026-06-03",
+      "ticker": "RCEL",
+      "company": "Avita Medical, Inc.",
+      "insider_name": "Woody Joseph Fralin",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.09",
+      "qty": "10000",
+      "owned": "92761",
+      "delta_own": "+12%",
+      "value": "40949",
+      "cluster_buy": false
     }
   ]
 }

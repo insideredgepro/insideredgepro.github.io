@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-05",
-  "entry_count": 1541,
+  "entry_count": 1545,
   "entries": [
     {
       "id": "US|ALT|2026-04-06|gill john|3.41",
@@ -65290,6 +65290,86 @@
       },
       "latest_price": 72.6,
       "return_pct": 3.71,
+      "last_snapshot": "2026-06-05"
+    },
+    {
+      "id": "US|ONT|2026-06-03|graham peter|15.94",
+      "market": "US",
+      "ticker": "ONT",
+      "yf_symbol": "ONT",
+      "company": "Onterris, Inc.",
+      "insider_name": "Graham Peter",
+      "title": "Dir",
+      "trade_date": "2026-06-03",
+      "trade_price": 15.94,
+      "value": 77468.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-05": 17.15
+      },
+      "latest_price": 17.15,
+      "return_pct": 7.59,
+      "last_snapshot": "2026-06-05"
+    },
+    {
+      "id": "US|GEN|2026-06-04|chrystal john c|27.06",
+      "market": "US",
+      "ticker": "GEN",
+      "yf_symbol": "GEN",
+      "company": "Gen Digital Inc.",
+      "insider_name": "Chrystal John C",
+      "title": "Dir",
+      "trade_date": "2026-06-04",
+      "trade_price": 27.06,
+      "value": 81171.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-05": 26.28
+      },
+      "latest_price": 26.28,
+      "return_pct": -2.88,
+      "last_snapshot": "2026-06-05"
+    },
+    {
+      "id": "US|LOGC|2026-06-03|levy paul s|9.05",
+      "market": "US",
+      "ticker": "LOGC",
+      "yf_symbol": "LOGC",
+      "company": "Contextlogic Holdings Inc.",
+      "insider_name": "Levy Paul S",
+      "title": "Dir",
+      "trade_date": "2026-06-03",
+      "trade_price": 9.05,
+      "value": 899618.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-05": 9.15
+      },
+      "latest_price": 9.15,
+      "return_pct": 1.1,
+      "last_snapshot": "2026-06-05"
+    },
+    {
+      "id": "US|RCEL|2026-06-03|woody joseph fralin|4.09",
+      "market": "US",
+      "ticker": "RCEL",
+      "yf_symbol": "RCEL",
+      "company": "Avita Medical, Inc.",
+      "insider_name": "Woody Joseph Fralin",
+      "title": "Dir",
+      "trade_date": "2026-06-03",
+      "trade_price": 4.09,
+      "value": 40949.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-05": 4.18
+      },
+      "latest_price": 4.18,
+      "return_pct": 2.2,
       "last_snapshot": "2026-06-05"
     }
   ]
