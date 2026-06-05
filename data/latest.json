@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T10:49:47Z",
-  "trade_count": 7468,
+  "last_updated": "2026-06-05T13:48:54Z",
+  "trade_count": 7472,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -119489,6 +119489,70 @@
       "delta_own": "+1%",
       "value": "53000",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "09:38",
+      "trade_date": "2026-06-04",
+      "ticker": "TOI",
+      "company": "Oncology Institute, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "4.75",
+      "qty": "12000",
+      "owned": "10579858",
+      "delta_own": "0%",
+      "value": "57000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "09:13",
+      "trade_date": "2026-06-04",
+      "ticker": "BCBP",
+      "company": "Bcb Bancorp Inc",
+      "insider_name": "Werdann Gerald",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "11.28",
+      "qty": "4400",
+      "owned": "16435",
+      "delta_own": "+37%",
+      "value": "49632",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "08:40",
+      "trade_date": "2026-06-03",
+      "ticker": "BHRB",
+      "company": "Burke & Herbert Financial Services Corp.",
+      "insider_name": "Barnwell Julian Forrest Jr.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "62.76",
+      "qty": "5000",
+      "owned": "411963",
+      "delta_own": "+1%",
+      "value": "313796",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "08:20",
+      "trade_date": "2026-06-04",
+      "ticker": "FF",
+      "company": "Futurefuel Corp.",
+      "insider_name": "Polet Roeland",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "4.28",
+      "qty": "10000",
+      "owned": "35000",
+      "delta_own": "+40%",
+      "value": "42800",
+      "cluster_buy": false
     }
   ]
 }
