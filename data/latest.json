@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T18:54:51Z",
-  "trade_count": 7480,
+  "last_updated": "2026-06-05T20:45:49Z",
+  "trade_count": 7492,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -114912,7 +114912,7 @@
       "owned": "70900",
       "delta_own": "+39%",
       "value": "282060",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-27",
@@ -116144,7 +116144,7 @@
       "owned": "84829",
       "delta_own": "+33%",
       "value": "294966",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-27",
@@ -118144,7 +118144,7 @@
       "owned": "1831788",
       "delta_own": "+3%",
       "value": "505800",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-02",
@@ -118496,7 +118496,7 @@
       "owned": "98929",
       "delta_own": "+17%",
       "value": "188336",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-03",
@@ -119681,6 +119681,198 @@
       "delta_own": "+5%",
       "value": "465295",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "16:37",
+      "trade_date": "2026-06-03",
+      "ticker": "OPAD",
+      "company": "Offerpad Solutions Inc.",
+      "insider_name": "Bair Brian",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.79",
+      "qty": "122920",
+      "owned": "2267989",
+      "delta_own": "+6%",
+      "value": "97402",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "16:36",
+      "trade_date": "2026-06-04",
+      "ticker": "MBC",
+      "company": "Masterbrand, Inc.",
+      "insider_name": "Simon Andrea Helen",
+      "title": "EVP, CFO",
+      "trade_type": "P - Purchase",
+      "price": "8.56",
+      "qty": "5000",
+      "owned": "497341",
+      "delta_own": "+1%",
+      "value": "42800",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "16:32",
+      "trade_date": "2026-06-04",
+      "ticker": "SMRT",
+      "company": "Smartrent, Inc.",
+      "insider_name": "Martell Frank",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.15",
+      "qty": "60260",
+      "owned": "3225526",
+      "delta_own": "+2%",
+      "value": "69081",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "16:19",
+      "trade_date": "2026-06-03",
+      "ticker": "ALDX",
+      "company": "Aldeyra Therapeutics, Inc.",
+      "insider_name": "Brady Todd C",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.67",
+      "qty": "250000",
+      "owned": "1721298",
+      "delta_own": "+17%",
+      "value": "418450",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "16:17",
+      "trade_date": "2026-06-05",
+      "ticker": "CRESY",
+      "company": "Cresud Inc",
+      "insider_name": "Elsztain Alejandro Gustavo",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "10.95",
+      "qty": "18200",
+      "owned": "1225764",
+      "delta_own": "+2%",
+      "value": "199290",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "16:15",
+      "trade_date": "2026-06-04",
+      "ticker": "ABR",
+      "company": "Arbor Realty Trust Inc",
+      "insider_name": "Tsunis George",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "5.58",
+      "qty": "26700",
+      "owned": "34000",
+      "delta_own": "+366%",
+      "value": "148986",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "16:15",
+      "trade_date": "2026-06-03",
+      "ticker": "VTR",
+      "company": "Ventas, Inc.",
+      "insider_name": "Embler Michael J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "78.81",
+      "qty": "2500",
+      "owned": "19202",
+      "delta_own": "+15%",
+      "value": "197025",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "16:10",
+      "trade_date": "2026-06-03",
+      "ticker": "DYN",
+      "company": "Dyne Therapeutics, Inc.",
+      "insider_name": "Posner Brian S",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "17.48",
+      "qty": "2500",
+      "owned": "22500",
+      "delta_own": "+13%",
+      "value": "43700",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "16:09",
+      "trade_date": "2026-06-05",
+      "ticker": "EDBL",
+      "company": "Edible Garden AG Inc",
+      "insider_name": "Wolinsky Scott",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "0.19",
+      "qty": "150000",
+      "owned": "950000",
+      "delta_own": "+19%",
+      "value": "29100",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "16:05",
+      "trade_date": "2026-06-03",
+      "ticker": "INR",
+      "company": "Infinity Natural Resources, Inc.",
+      "insider_name": "Quinn William J",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "13.20",
+      "qty": "10503",
+      "owned": "28905235",
+      "delta_own": "0%",
+      "value": "138640",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "16:02",
+      "trade_date": "2026-06-05",
+      "ticker": "SOPH",
+      "company": "Sophia Genetics Sa",
+      "insider_name": "Cardoza George",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "4.95",
+      "qty": "20000",
+      "owned": "311458",
+      "delta_own": "+7%",
+      "value": "99000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "16:00",
+      "trade_date": "2026-06-03",
+      "ticker": "CAVA",
+      "company": "Cava Group, Inc.",
+      "insider_name": "Kadow Joseph John",
+      "title": "CLO, Secretary",
+      "trade_type": "P - Purchase",
+      "price": "70.00",
+      "qty": "1000",
+      "owned": "6974",
+      "delta_own": "+17%",
+      "value": "70000",
+      "cluster_buy": true
     }
   ]
 }
