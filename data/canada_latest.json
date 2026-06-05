@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T15:00:24Z",
-  "trade_count": 3212,
+  "last_updated": "2026-06-05T17:00:22Z",
+  "trade_count": 3214,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48941,6 +48941,38 @@
       "qty": "5000",
       "price": "63.9641",
       "value": "319820",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4729958",
+      "trade_date": "2026-06-05",
+      "filing_date": "2026-06-05",
+      "company": "Hemlo Mining Corp.",
+      "ticker": "HMMC",
+      "insider_name": "Awde, Jonathan Charles Timothy",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "35000",
+      "price": "6.4057",
+      "value": "224199",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4729863",
+      "trade_date": "2026-06-05",
+      "filing_date": "2026-06-05",
+      "company": "Snowline Gold Corp.",
+      "ticker": "SGD",
+      "insider_name": "Berdahl, James Scott",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "7500",
+      "price": "12.8800",
+      "value": "96600",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
