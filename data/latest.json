@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T16:26:22Z",
-  "trade_count": 7477,
+  "last_updated": "2026-06-05T18:54:51Z",
+  "trade_count": 7480,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -119632,6 +119632,54 @@
       "owned": "254129",
       "delta_own": "-139%",
       "value": "594094",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "14:15",
+      "trade_date": "2026-06-03",
+      "ticker": "ENR",
+      "company": "Energizer Holdings, Inc.",
+      "insider_name": "Aqua Capital, Ltd.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "18.44",
+      "qty": "35686",
+      "owned": "7235686",
+      "delta_own": "0%",
+      "value": "658146",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "13:50",
+      "trade_date": "2026-06-03",
+      "ticker": "JMSB",
+      "company": "John Marshall Bancorp, Inc.",
+      "insider_name": "Kinney Jonathan Craig",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "21.03",
+      "qty": "2300",
+      "owned": "613194",
+      "delta_own": "0%",
+      "value": "48369",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "13:46",
+      "trade_date": "2026-06-04",
+      "ticker": "PRTA",
+      "company": "Prothena Corp Public Ltd Co",
+      "insider_name": "Scully William P",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "9.31",
+      "qty": "50000",
+      "owned": "1068000",
+      "delta_own": "+5%",
+      "value": "465295",
       "cluster_buy": false
     }
   ]
