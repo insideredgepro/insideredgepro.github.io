@@ -7033,7 +7033,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-22,21:04,2026-05-20,MKTW,"Marketwise, Inc.",Stansberry Frank Porter,"Dir, 10%",P - Purchase,17.21,20100,355490,+6%,345921,False
 2026-05-22,20:00,2026-05-21,CGCT,Cartesian Growth Corp III,Cgc III Sponsor LLC,10%,P - Purchase,10.38,6089,1468894,0%,63186,False
 2026-05-22,19:47,2026-05-20,KLRS,"Kalaris Therapeutics, Inc.",Akkaraju Srinivas,"Dir, 10%",P - Purchase,4.83,244300,12915520,+2%,1179969,False
-2026-05-22,19:24,2026-05-21,LTC,Ltc Properties Inc,Gruber David L,Dir,P - Purchase,38.41,4000,44045,+10%,153640,False
+2026-05-22,19:24,2026-05-21,LTC,Ltc Properties Inc,Gruber David L,Dir,P - Purchase,38.41,4000,44045,+10%,153640,True
 2026-05-22,21:42,2026-05-21,BRCB,"Black Rock Coffee Bar, Inc.",Geyer Clay Howard,Chief Operating Officer,P - Purchase,6.51,45080,57580,+361%,293471,True
 2026-05-22,21:05,2026-05-21,PAX,Patria Investments Ltd,Neto Olimpio Matarazzo,Director,P - Purchase,11.14,15000,45000,+50%,167100,False
 2026-05-22,21:05,2026-05-20,PAX,Patria Investments Ltd,Neto Olimpio Matarazzo,Director,P - Purchase,10.99,15000,30000,+100%,164850,False
@@ -7469,3 +7469,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-04,17:45,2026-06-04,SMMT,Summit Therapeutics Inc.,Zanganeh Mahkam,"Co-CEO, 10%",P - Purchase,14.60,100000,606205809,0%,1460000,True
 2026-06-04,17:43,2026-06-02,STRR,"Star Equity Holdings, Inc.",Eberwein Jeffrey E.,"CEO, 10%",P - Purchase,11.59,6412,1087538,+1%,74290,False
 2026-06-04,17:43,2026-06-02,TEO,Telecom Argentina Sa,Urricelqui Alejandro Alberto,Dir,P - Purchase,13.43,38890,399348,+11%,522293,False
+2026-06-04,20:43,2026-06-01,DNUT,"Krispy Kreme, Inc.",Hees Bernardo,Dir,P - Purchase,3.36,630111,2252361,+39%,2116727,False
+2026-06-04,19:47,2026-06-02,OPAD,Offerpad Solutions Inc.,Bair Brian,CEO,P - Purchase,0.82,125000,2236236,+6%,102600,False
+2026-06-04,19:00,2026-06-04,LTC,Ltc Properties Inc,Boitano David M,"EVP, CIO",P - Purchase,34.77,10000,46160,+28%,347700,True

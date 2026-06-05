@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04T23:01:40Z",
-  "trade_count": 7464,
+  "last_updated": "2026-06-05T02:34:49Z",
+  "trade_count": 7467,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -112464,7 +112464,7 @@
       "owned": "44045",
       "delta_own": "+10%",
       "value": "153640",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-22",
@@ -119425,6 +119425,54 @@
       "delta_own": "+11%",
       "value": "522293",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-04",
+      "filing_time": "20:43",
+      "trade_date": "2026-06-01",
+      "ticker": "DNUT",
+      "company": "Krispy Kreme, Inc.",
+      "insider_name": "Hees Bernardo",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.36",
+      "qty": "630111",
+      "owned": "2252361",
+      "delta_own": "+39%",
+      "value": "2116727",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-04",
+      "filing_time": "19:47",
+      "trade_date": "2026-06-02",
+      "ticker": "OPAD",
+      "company": "Offerpad Solutions Inc.",
+      "insider_name": "Bair Brian",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.82",
+      "qty": "125000",
+      "owned": "2236236",
+      "delta_own": "+6%",
+      "value": "102600",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-04",
+      "filing_time": "19:00",
+      "trade_date": "2026-06-04",
+      "ticker": "LTC",
+      "company": "Ltc Properties Inc",
+      "insider_name": "Boitano David M",
+      "title": "EVP, CIO",
+      "trade_type": "P - Purchase",
+      "price": "34.77",
+      "qty": "10000",
+      "owned": "46160",
+      "delta_own": "+28%",
+      "value": "347700",
+      "cluster_buy": true
     }
   ]
 }
