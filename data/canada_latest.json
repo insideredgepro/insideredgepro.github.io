@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T13:00:24Z",
-  "trade_count": 3211,
+  "last_updated": "2026-06-05T15:00:24Z",
+  "trade_count": 3212,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48925,6 +48925,22 @@
       "qty": "33500",
       "price": "1.4080",
       "value": "47168",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4729781",
+      "trade_date": "2026-06-05",
+      "filing_date": "2026-06-05",
+      "company": "Tourmaline Oil Corp.",
+      "ticker": "TOU",
+      "insider_name": "Rose, Mike",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "63.9641",
+      "value": "319820",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
