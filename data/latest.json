@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T23:59:45Z",
-  "trade_count": 7498,
+  "last_updated": "2026-06-06T10:53:48Z",
+  "trade_count": 7499,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -119968,6 +119968,22 @@
       "owned": "1626713",
       "delta_own": "0%",
       "value": "658793",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "20:49",
+      "trade_date": "2026-06-03",
+      "ticker": "PAX",
+      "company": "Patria Investments Ltd",
+      "insider_name": "Neto Olimpio Matarazzo",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "11.29",
+      "qty": "100000",
+      "owned": "660724",
+      "delta_own": "+18%",
+      "value": "1129250",
       "cluster_buy": false
     }
   ]
