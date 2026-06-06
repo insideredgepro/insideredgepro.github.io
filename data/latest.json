@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T22:09:59Z",
-  "trade_count": 7496,
+  "last_updated": "2026-06-05T23:59:45Z",
+  "trade_count": 7498,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -119936,6 +119936,38 @@
       "owned": "92761",
       "delta_own": "+12%",
       "value": "40949",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "19:41",
+      "trade_date": "2026-06-03",
+      "ticker": "BLND",
+      "company": "Blend Labs, Inc.",
+      "insider_name": "Haveli Investments, L.P.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.57",
+      "qty": "268606",
+      "owned": "16547794",
+      "delta_own": "+2%",
+      "value": "421335",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-05",
+      "filing_time": "18:46",
+      "trade_date": "2026-06-04",
+      "ticker": "BH",
+      "company": "Biglari Holdings Inc.",
+      "insider_name": "Biglari, Sardar",
+      "title": "COB, CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "289.20",
+      "qty": "2278",
+      "owned": "1626713",
+      "delta_own": "0%",
+      "value": "658793",
       "cluster_buy": false
     }
   ]
