@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-08T01:00:52Z",
-  "trade_count": 3220,
+  "last_updated": "2026-06-08T16:01:05Z",
+  "trade_count": 3222,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -49069,6 +49069,38 @@
       "qty": "1500",
       "price": "11.2400",
       "value": "16860",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4731361",
+      "trade_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "company": "Diversified Royalty Corp.",
+      "ticker": "DIV",
+      "insider_name": "Ciampi, Johnny",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "147004",
+      "price": "4.7700",
+      "value": "701209",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4731286",
+      "trade_date": "2026-06-08",
+      "filing_date": "2026-06-08",
+      "company": "Sigma Lithium Corporation",
+      "ticker": "SGML",
+      "insider_name": "Freire de Paiva, Marcelo",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "13.3000",
+      "value": "66500",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
