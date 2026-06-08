@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-08T16:43:35Z",
-  "trade_count": 7504,
+  "last_updated": "2026-06-08T19:16:02Z",
+  "trade_count": 7508,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -120064,6 +120064,70 @@
       "owned": "4291216",
       "delta_own": "+1%",
       "value": "199980",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-08",
+      "filing_time": "15:04",
+      "trade_date": "2026-06-05",
+      "ticker": "PICS",
+      "company": "Pics N.V.",
+      "insider_name": "Batista Costa Jose Antonio",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "9.16",
+      "qty": "21833",
+      "owned": "4313049",
+      "delta_own": "+1%",
+      "value": "199990",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-08",
+      "filing_time": "15:01",
+      "trade_date": "2026-06-05",
+      "ticker": "BHM",
+      "company": "Bluerock Homes Trust, Inc.",
+      "insider_name": "Vohs Christopher J.",
+      "title": "CFO, Treasurer",
+      "trade_type": "P - Purchase",
+      "price": "22.50",
+      "qty": "2400",
+      "owned": "2400",
+      "delta_own": "New",
+      "value": "54000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-08",
+      "filing_time": "12:50",
+      "trade_date": "2026-06-05",
+      "ticker": "ARDT",
+      "company": "Ardent Health, Inc.",
+      "insider_name": "Demichiei Robert",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "8.73",
+      "qty": "11260",
+      "owned": "35564",
+      "delta_own": "+46%",
+      "value": "98300",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-08",
+      "filing_time": "12:50",
+      "trade_date": "2026-06-05",
+      "ticker": "ARDT",
+      "company": "Ardent Health, Inc.",
+      "insider_name": "Lumsdaine Alfred",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "8.81",
+      "qty": "10000",
+      "owned": "329183",
+      "delta_own": "+3%",
+      "value": "88100",
       "cluster_buy": true
     }
   ]
