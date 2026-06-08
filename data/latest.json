@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-08T12:24:40Z",
-  "trade_count": 7503,
+  "last_updated": "2026-06-08T16:43:35Z",
+  "trade_count": 7504,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -120000,7 +120000,7 @@
       "owned": "25000",
       "delta_own": "New",
       "value": "227500",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-08",
@@ -120049,6 +120049,22 @@
       "delta_own": "+1%",
       "value": "357050",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-08",
+      "filing_time": "11:11",
+      "trade_date": "2026-06-04",
+      "ticker": "PICS",
+      "company": "Pics N.V.",
+      "insider_name": "Batista Costa Jose Antonio",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "9.09",
+      "qty": "22000",
+      "owned": "4291216",
+      "delta_own": "+1%",
+      "value": "199980",
+      "cluster_buy": true
     }
   ]
 }
