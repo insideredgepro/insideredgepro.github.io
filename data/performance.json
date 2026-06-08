@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-08",
-  "entry_count": 1486,
+  "entry_count": 1490,
   "entries": [
     {
       "id": "US|BETR|2026-04-10|framework ventures iv l.p.|32.96",
@@ -65255,6 +65255,86 @@
       },
       "latest_price": 11.15,
       "return_pct": -1.24,
+      "last_snapshot": "2026-06-08"
+    },
+    {
+      "id": "US|PICS|2026-06-05|pruett william rodney|9.1",
+      "market": "US",
+      "ticker": "PICS",
+      "yf_symbol": "PICS",
+      "company": "Pics N.V.",
+      "insider_name": "Pruett William Rodney",
+      "title": "Dir",
+      "trade_date": "2026-06-05",
+      "trade_price": 9.1,
+      "value": 227500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-08": 9.18
+      },
+      "latest_price": 9.18,
+      "return_pct": 0.88,
+      "last_snapshot": "2026-06-08"
+    },
+    {
+      "id": "US|RYAN|2026-06-05|ryan patrick g|32.5",
+      "market": "US",
+      "ticker": "RYAN",
+      "yf_symbol": "RYAN",
+      "company": "Ryan Specialty Holdings, Inc.",
+      "insider_name": "Ryan Patrick G",
+      "title": "Exec COB, 10%",
+      "trade_date": "2026-06-05",
+      "trade_price": 32.5,
+      "value": 3899736.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-08": 32.56
+      },
+      "latest_price": 32.56,
+      "return_pct": 0.18,
+      "last_snapshot": "2026-06-08"
+    },
+    {
+      "id": "US|CLIK|2026-06-04|chan chun sing|1.87",
+      "market": "US",
+      "ticker": "CLIK",
+      "yf_symbol": "CLIK",
+      "company": "Click Holdings Ltd.",
+      "insider_name": "Chan Chun Sing",
+      "title": "CEO, 10%",
+      "trade_date": "2026-06-04",
+      "trade_price": 1.87,
+      "value": 97100.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-08": 1.7
+      },
+      "latest_price": 1.7,
+      "return_pct": -9.09,
+      "last_snapshot": "2026-06-08"
+    },
+    {
+      "id": "US|ADC|2026-06-04|agree richard|71.41",
+      "market": "US",
+      "ticker": "ADC",
+      "yf_symbol": "ADC",
+      "company": "Agree Realty Corp",
+      "insider_name": "Agree Richard",
+      "title": "Exec COB",
+      "trade_date": "2026-06-04",
+      "trade_price": 71.41,
+      "value": 357050.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-08": 73.41
+      },
+      "latest_price": 73.41,
+      "return_pct": 2.8,
       "last_snapshot": "2026-06-08"
     }
   ]
