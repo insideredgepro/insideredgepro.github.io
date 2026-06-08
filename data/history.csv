@@ -247,7 +247,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-02-10,19:24,2026-02-06,VRNS,Varonis Systems Inc,Gavin John J Jr,Dir,P - Purchase,22.54,5000,273666,+2%,112700,True
 2026-02-10,19:22,2026-02-06,VRNS,Varonis Systems Inc,Kess Avrohom J.,Dir,P - Purchase,22.29,17800,49403,+56%,396762,True
 2026-02-10,19:09,2024-04-25,GL,Globe Life Inc.,Blinn Mark A,Dir,P - Purchase,76.77,2000,6518,+44%,153540,False
-2026-02-10,19:00,2026-02-06,CING,Cingulate Inc.,Werth Peter J.,Dir,P - Purchase,5.04,19455,117541,+20%,98053,False
+2026-02-10,19:00,2026-02-06,CING,Cingulate Inc.,Werth Peter J.,Dir,P - Purchase,5.04,19455,117541,+20%,98053,True
 2026-02-10,18:34,2026-02-06,TBBK,"Bancorp, Inc.",Canuso Dominic C,"EVP, CFO",P - Purchase,60.93,3000,16169,+23%,182777,True
 2026-02-10,18:09,2026-02-09,SGP,"Spyglass Pharma, Inc.",Nielsen Kirk G.,Dir,P - Purchase,16.00,165000,3310619,+5%,2640000,True
 2026-02-10,18:08,2026-02-09,SGP,"Spyglass Pharma, Inc.","Vensana Capital I Gp, LLC",10%,P - Purchase,16.00,165000,3310619,+5%,2640000,True
@@ -7540,3 +7540,18 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-08,16:00,2026-06-05,INIO,Innio N.V.,Giadrossi Nicoletta,Dir,P - Purchase,27.00,2222,11852,+23%,59994,True
 2026-06-08,16:00,2026-06-05,INIO,Innio N.V.,Banks Lee C,Dir,P - Purchase,27.00,37037,81482,+83%,999999,True
 2026-06-08,16:00,2026-06-05,INIO,Innio N.V.,Yetman Christopher,Dir,P - Purchase,27.00,37037,81482,+83%,999999,True
+2026-06-08,19:03,2026-06-05,FCNCA,First Citizens Bancshares Inc /De/,Holding Frank B Jr,"COB, CEO, 10%",P - Purchase,2018.73,137,669217,0%,276566,False
+2026-06-08,19:02,2026-02-13,CING,Cingulate Inc.,Hargroves Thomas Jeffrey,Dir,P - Purchase,5.04,97276,97468,>999%,490271,True
+2026-06-08,19:01,2026-06-05,FCNCA,First Citizens Bancshares Inc /De/,Holding Frank B Jr,"COB, CEO, 10%",P - Purchase,1920.80,335,669080,0%,643467,False
+2026-06-08,18:59,2026-06-04,FCNCA,First Citizens Bancshares Inc /De/,Holding Frank B Jr,"COB, CEO, 10%",P - Purchase,1812.54,553,668745,0%,1002336,False
+2026-06-08,18:58,2026-06-04,FCNCA,First Citizens Bancshares Inc /De/,Holding Frank B Jr,"COB, CEO, 10%",P - Purchase,1751.95,225,668192,0%,394189,False
+2026-06-08,18:51,2026-06-05,SSMR,Sunshine Silver Mining & Refining Co,Shepston Michelle H,GC,P - Purchase,13.50,5065,5065,New,68378,True
+2026-06-08,18:48,2026-06-05,SSMR,Sunshine Silver Mining & Refining Co,White Heather Eileen,CEO,P - Purchase,13.50,2000,52000,+4%,27000,True
+2026-06-08,18:40,2026-06-05,SSMR,Sunshine Silver Mining & Refining Co,Radford Lawrence P,Dir,P - Purchase,13.50,2500,11429,+28%,33750,True
+2026-06-08,18:34,2026-06-05,SSMR,Sunshine Silver Mining & Refining Co,Groh Douglas,Dir,P - Purchase,13.50,10000,143929,+7%,135000,True
+2026-06-08,18:29,2026-06-05,SSMR,Sunshine Silver Mining & Refining Co,El-Erian Anna,Dir,P - Purchase,13.50,40000,48929,+448%,540000,True
+2026-06-08,18:19,2026-06-04,ADTX,"Aditxt, Inc.",Hrt Financial LP,10%,P - Purchase,0.08,843622,0,-100%,64115,False
+2026-06-08,18:13,2026-06-04,SNES,"Senestech, Inc.",Glenbrook Capital Management,10%,P - Purchase,1.60,28389,1888129,+2%,45536,False
+2026-06-08,18:01,2026-06-05,TWFG,"Twfg, Inc.",Doak Michael,Dir,P - Purchase,19.45,7865,775704,+1%,152974,False
+2026-06-08,17:54,2026-06-05,DNUT,"Krispy Kreme, Inc.",Hees Bernardo,Dir,P - Purchase,3.49,25002,2277363,+1%,87167,False
+2026-06-08,17:45,2026-06-04,MTDR,Matador Resources Co,Foran Joseph Wm,"COB, CEO",P - Purchase,56.25,2000,5458137,0%,112500,True
