@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09T13:38:23Z",
-  "trade_count": 7556,
+  "last_updated": "2026-06-09T16:26:33Z",
+  "trade_count": 7560,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -112832,7 +112832,7 @@
       "owned": "4890286",
       "delta_own": "+100%",
       "value": "12549454",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-21",
@@ -120896,6 +120896,70 @@
       "owned": "2693703",
       "delta_own": "+3%",
       "value": "50000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-09",
+      "filing_time": "11:33",
+      "trade_date": "2026-06-02",
+      "ticker": "LSF",
+      "company": "Laird Superfood, Inc.",
+      "insider_name": "Lamontagne Grant J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.29",
+      "qty": "59950",
+      "owned": "175244",
+      "delta_own": "+52%",
+      "value": "197217",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-09",
+      "filing_time": "10:54",
+      "trade_date": "2026-05-18",
+      "ticker": "CSAN",
+      "company": "Cosan Ltd.",
+      "insider_name": "Cordes Burkhard Otto",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.38",
+      "qty": "159000",
+      "owned": "2408942",
+      "delta_own": "+7%",
+      "value": "696030",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-09",
+      "filing_time": "10:48",
+      "trade_date": "2026-06-08",
+      "ticker": "KRNY",
+      "company": "Kearny Financial Corp.",
+      "insider_name": "Fields Curtland E",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "8.40",
+      "qty": "3000",
+      "owned": "24900",
+      "delta_own": "+14%",
+      "value": "25201",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-09",
+      "filing_time": "09:39",
+      "trade_date": "2026-06-05",
+      "ticker": "UFCS",
+      "company": "United Fire Group Inc",
+      "insider_name": "Milligan George D",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "45.23",
+      "qty": "4500",
+      "owned": "90034",
+      "delta_own": "+5%",
+      "value": "203535",
       "cluster_buy": false
     }
   ]

@@ -7056,7 +7056,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-22,16:05,2026-05-11,TKLF,"Tokyo Lifestyle Co., Ltd.",Kanayama Mei,Representative Director (PEO),P - Purchase,2.25,20010,162216,+14%,45022,False
 2026-05-22,11:47,2026-05-21,STEW,"SRH Total Return Fund, Inc.",Hemmer Jacob E,Director,P - Purchase,17.53,5000,10000,+100%,87650,False
 2026-05-22,11:42,2026-05-20,BAC,Bank of America Corporation,Bank Of America Corp /De/,10% Owner,P - Purchase,10.26,3200,3200,New,32832,False
-2026-05-21,20:22,2026-05-19,CSAN,Cosan S.A.,Martins Marcelo Eduardo,Chief Executive Officer,P - Purchase,5.14,2441528,4890286,+100%,12549454,False
+2026-05-21,20:22,2026-05-19,CSAN,Cosan S.A.,Martins Marcelo Eduardo,Chief Executive Officer,P - Purchase,5.14,2441528,4890286,+100%,12549454,True
 2026-05-21,20:22,2026-04-10,CSAN,Cosan S.A.,Martins Marcelo Eduardo,Chief Executive Officer,P - Purchase,7.05,1599086,3120178,+105%,11270678,False
 2026-05-21,20:15,2026-05-20,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.",Director,P - Purchase,1.50,185611,15097443,+1%,278082,False
 2026-05-21,20:15,2026-05-19,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.",Director,P - Purchase,1.49,583450,14911832,+4%,867882,False
@@ -7562,3 +7562,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-09,06:04,2026-06-02,DBGI,"Digital Brands Group, Inc.",Davis John Hilburn IV,CEO,P - Purchase,0.70,70127,70128,>999%,49096,False
 2026-06-09,09:13,2026-06-05,BWFG,"Bankwell Financial Group, Inc.",Dale Eric J,Dir,P - Purchase,53.70,588,83415,+1%,31576,True
 2026-06-09,09:10,2026-06-05,WKSP,Worksport Ltd,Rossi Steven F.,"COB, CEO, Pres",P - Purchase,0.63,79618,2693703,+3%,50000,False
+2026-06-09,11:33,2026-06-02,LSF,"Laird Superfood, Inc.",Lamontagne Grant J,Dir,P - Purchase,3.29,59950,175244,+52%,197217,False
+2026-06-09,10:54,2026-05-18,CSAN,Cosan Ltd.,Cordes Burkhard Otto,Dir,P - Purchase,4.38,159000,2408942,+7%,696030,True
+2026-06-09,10:48,2026-06-08,KRNY,Kearny Financial Corp.,Fields Curtland E,Dir,P - Purchase,8.40,3000,24900,+14%,25201,False
+2026-06-09,09:39,2026-06-05,UFCS,United Fire Group Inc,Milligan George D,Dir,P - Purchase,45.23,4500,90034,+5%,203535,False
