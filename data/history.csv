@@ -7368,7 +7368,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-02,06:50,2026-05-29,GRNQ,Greenpro Capital Corp.,Lee Chong Kuang,"CEO, 10%",P - Purchase,1.73,28949,2041208,+1%,50001,False
 2026-06-02,13:02,2026-05-29,HTO,H2O America,Atlas Infrastructure Partners (Uk) Ltd.,10%,P - Purchase,57.62,31001,4612035,+1%,1786402,False
 2026-06-02,11:44,2026-05-29,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,16.93,17000,18850583,0%,287807,False
-2026-06-02,11:06,2026-06-01,BWFG,"Bankwell Financial Group, Inc.",Seidman Lawrence B,Dir,P - Purchase,51.87,3381,851436,0%,175371,False
+2026-06-02,11:06,2026-06-01,BWFG,"Bankwell Financial Group, Inc.",Seidman Lawrence B,Dir,P - Purchase,51.87,3381,851436,0%,175371,True
 2026-06-02,17:22,2026-06-01,IFF,International Flavors & Fragrances Inc,Fribourg Paul J,Dir,P - Purchase,74.29,273500,2726339,+11%,20317855,False
 2026-06-02,17:04,2026-06-01,DMLP,"Dorchester Minerals, L.P.",Dorchester Minerals Operating LP,Entity Under Common Control,P - Purchase,27.56,7500,70017,+12%,206720,True
 2026-06-02,17:01,2026-06-01,TWFG,"Twfg, Inc.",Doak Michael,Dir,P - Purchase,19.29,33000,733845,+5%,636570,False
@@ -7560,3 +7560,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-08,19:53,2026-06-05,INR,"Infinity Natural Resources, Inc.",Quinn William J,"Dir, 10%",P - Purchase,13.19,44000,28949235,0%,580206,True
 2026-06-09,06:20,2026-06-05,BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,2.71,20000,1533872,+1%,54200,True
 2026-06-09,06:04,2026-06-02,DBGI,"Digital Brands Group, Inc.",Davis John Hilburn IV,CEO,P - Purchase,0.70,70127,70128,>999%,49096,False
+2026-06-09,09:13,2026-06-05,BWFG,"Bankwell Financial Group, Inc.",Dale Eric J,Dir,P - Purchase,53.70,588,83415,+1%,31576,True
+2026-06-09,09:10,2026-06-05,WKSP,Worksport Ltd,Rossi Steven F.,"COB, CEO, Pres",P - Purchase,0.63,79618,2693703,+3%,50000,False

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09T10:29:16Z",
-  "trade_count": 7554,
+  "last_updated": "2026-06-09T13:38:23Z",
+  "trade_count": 7556,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -117824,7 +117824,7 @@
       "owned": "851436",
       "delta_own": "0%",
       "value": "175371",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-02",
@@ -120864,6 +120864,38 @@
       "owned": "70128",
       "delta_own": ">999%",
       "value": "49096",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-09",
+      "filing_time": "09:13",
+      "trade_date": "2026-06-05",
+      "ticker": "BWFG",
+      "company": "Bankwell Financial Group, Inc.",
+      "insider_name": "Dale Eric J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "53.70",
+      "qty": "588",
+      "owned": "83415",
+      "delta_own": "+1%",
+      "value": "31576",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-09",
+      "filing_time": "09:10",
+      "trade_date": "2026-06-05",
+      "ticker": "WKSP",
+      "company": "Worksport Ltd",
+      "insider_name": "Rossi Steven F.",
+      "title": "COB, CEO, Pres",
+      "trade_type": "P - Purchase",
+      "price": "0.63",
+      "qty": "79618",
+      "owned": "2693703",
+      "delta_own": "+3%",
+      "value": "50000",
       "cluster_buy": false
     }
   ]
