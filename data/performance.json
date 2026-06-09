@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-08",
-  "entry_count": 1535,
+  "entry_count": 1538,
   "entries": [
     {
       "id": "US|BETR|2026-04-10|framework ventures iv l.p.|32.96",
@@ -12539,8 +12539,8 @@
         "2026-06-07": 21.25,
         "2026-06-08": 21.25
       },
-      "latest_price": 21.25,
-      "return_pct": -1.16,
+      "latest_price": 21.26,
+      "return_pct": -1.12,
       "last_snapshot": "2026-06-08"
     },
     {
@@ -15590,8 +15590,8 @@
         "2026-06-07": 21.25,
         "2026-06-08": 21.25
       },
-      "latest_price": 21.25,
-      "return_pct": -1.16,
+      "latest_price": 21.26,
+      "return_pct": -1.12,
       "last_snapshot": "2026-06-08"
     },
     {
@@ -24929,8 +24929,8 @@
         "2026-06-07": 21.25,
         "2026-06-08": 21.25
       },
-      "latest_price": 21.25,
-      "return_pct": 0.0,
+      "latest_price": 21.26,
+      "return_pct": 0.05,
       "last_snapshot": "2026-06-08"
     },
     {
@@ -26844,8 +26844,8 @@
         "2026-06-07": 21.25,
         "2026-06-08": 21.25
       },
-      "latest_price": 21.25,
-      "return_pct": 0.0,
+      "latest_price": 21.26,
+      "return_pct": 0.05,
       "last_snapshot": "2026-06-08"
     },
     {
@@ -59339,8 +59339,8 @@
         "2026-06-07": 21.25,
         "2026-06-08": 21.25
       },
-      "latest_price": 21.25,
-      "return_pct": 0.0,
+      "latest_price": 21.26,
+      "return_pct": 0.05,
       "last_snapshot": "2026-06-08"
     },
     {
@@ -59459,8 +59459,8 @@
         "2026-06-07": 4.43,
         "2026-06-08": 4.43
       },
-      "latest_price": 4.43,
-      "return_pct": 9.38,
+      "latest_price": 4.44,
+      "return_pct": 9.63,
       "last_snapshot": "2026-06-08"
     },
     {
@@ -60674,8 +60674,8 @@
         "2026-06-07": 21.25,
         "2026-06-08": 21.25
       },
-      "latest_price": 21.25,
-      "return_pct": 0.0,
+      "latest_price": 21.26,
+      "return_pct": 0.05,
       "last_snapshot": "2026-06-08"
     },
     {
@@ -66233,6 +66233,66 @@
       },
       "latest_price": 55.31,
       "return_pct": -1.67,
+      "last_snapshot": "2026-06-08"
+    },
+    {
+      "id": "US|NMM|2026-06-04|frangou angeliki|71.48",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-06-04",
+      "trade_price": 71.48,
+      "value": 249830.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-08": 70.91
+      },
+      "latest_price": 70.91,
+      "return_pct": -0.8,
+      "last_snapshot": "2026-06-08"
+    },
+    {
+      "id": "US|GLND|2026-06-08|swets larry g jr|2.77",
+      "market": "US",
+      "ticker": "GLND",
+      "yf_symbol": "GLND",
+      "company": "Greenland Energy Co",
+      "insider_name": "Swets Larry G Jr",
+      "title": "Dir",
+      "trade_date": "2026-06-08",
+      "trade_price": 2.77,
+      "value": 27699.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-08": 2.8
+      },
+      "latest_price": 2.8,
+      "return_pct": 1.08,
+      "last_snapshot": "2026-06-08"
+    },
+    {
+      "id": "US|INR|2026-06-05|quinn william j|13.19",
+      "market": "US",
+      "ticker": "INR",
+      "yf_symbol": "INR",
+      "company": "Infinity Natural Resources, Inc.",
+      "insider_name": "Quinn William J",
+      "title": "Dir, 10%",
+      "trade_date": "2026-06-05",
+      "trade_price": 13.19,
+      "value": 580206.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-08": 13.58
+      },
+      "latest_price": 13.58,
+      "return_pct": 2.96,
       "last_snapshot": "2026-06-08"
     }
   ]

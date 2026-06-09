@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-08T23:08:11Z",
-  "trade_count": 7549,
+  "last_updated": "2026-06-09T02:11:40Z",
+  "trade_count": 7552,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -120784,6 +120784,54 @@
       "owned": "5458137",
       "delta_own": "0%",
       "value": "112500",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-08",
+      "filing_time": "21:10",
+      "trade_date": "2026-06-04",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "71.48",
+      "qty": "3495",
+      "owned": "5730303",
+      "delta_own": "0%",
+      "value": "249830",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-08",
+      "filing_time": "20:50",
+      "trade_date": "2026-06-08",
+      "ticker": "GLND",
+      "company": "Greenland Energy Co",
+      "insider_name": "Swets Larry G Jr",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.77",
+      "qty": "10000",
+      "owned": "570000",
+      "delta_own": "+2%",
+      "value": "27699",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-08",
+      "filing_time": "19:53",
+      "trade_date": "2026-06-05",
+      "ticker": "INR",
+      "company": "Infinity Natural Resources, Inc.",
+      "insider_name": "Quinn William J",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "13.19",
+      "qty": "44000",
+      "owned": "28949235",
+      "delta_own": "0%",
+      "value": "580206",
       "cluster_buy": true
     }
   ]
