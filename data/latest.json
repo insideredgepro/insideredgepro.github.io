@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09T21:41:43Z",
-  "trade_count": 7585,
+  "last_updated": "2026-06-09T23:12:23Z",
+  "trade_count": 7587,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -121360,6 +121360,38 @@
       "owned": "26936",
       "delta_own": "-171%",
       "value": "59628",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-09",
+      "filing_time": "17:43",
+      "trade_date": "2026-06-08",
+      "ticker": "HWH",
+      "company": "Hwh International Inc.",
+      "insider_name": "Chan Heng Fai Ambrose",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "2.00",
+      "qty": "250000",
+      "owned": "5261719",
+      "delta_own": "+5%",
+      "value": "500000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-09",
+      "filing_time": "17:40",
+      "trade_date": "2026-06-05",
+      "ticker": "IMNM",
+      "company": "Immunome Inc.",
+      "insider_name": "Bienaime Jean Jacques",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "19.45",
+      "qty": "10500",
+      "owned": "43415",
+      "delta_own": "+32%",
+      "value": "204260",
       "cluster_buy": false
     }
   ]
