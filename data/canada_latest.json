@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09T03:45:26Z",
-  "trade_count": 3230,
+  "last_updated": "2026-06-09T16:00:22Z",
+  "trade_count": 3231,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -49229,6 +49229,22 @@
       "qty": "1000",
       "price": "27.5000",
       "value": "27500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4732084",
+      "trade_date": "2026-06-09",
+      "filing_date": "2026-06-09",
+      "company": "South Bow Corporation",
+      "ticker": "SOBO",
+      "insider_name": "Muratta, Lori Michelle",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "1100",
+      "price": "36.0000",
+      "value": "39600",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
