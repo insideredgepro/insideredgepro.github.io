@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-09",
-  "entry_count": 1554,
+  "entry_count": 1557,
   "entries": [
     {
       "id": "US|BETR|2026-04-10|framework ventures iv l.p.|32.96",
@@ -31431,8 +31431,8 @@
         "2026-06-08": 4.59,
         "2026-06-09": 4.6
       },
-      "latest_price": 4.6,
-      "return_pct": 9.0,
+      "latest_price": 4.645,
+      "return_pct": 10.07,
       "last_snapshot": "2026-06-09"
     },
     {
@@ -67162,6 +67162,66 @@
       },
       "latest_price": 18.39,
       "return_pct": -5.45,
+      "last_snapshot": "2026-06-09"
+    },
+    {
+      "id": "US|LFTO|2026-06-05|general atlantic genpar, l.p.|23.0",
+      "market": "US",
+      "ticker": "LFTO",
+      "yf_symbol": "LFTO",
+      "company": "Liftoff Mobile, Inc.",
+      "insider_name": "General Atlantic Genpar, L.P.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-06-05",
+      "trade_price": 23.0,
+      "value": 29999981.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-09": 25.77
+      },
+      "latest_price": 25.77,
+      "return_pct": 12.04,
+      "last_snapshot": "2026-06-09"
+    },
+    {
+      "id": "US|LFTO|2026-06-05|general atlantic (lft), l.p.|23.0",
+      "market": "US",
+      "ticker": "LFTO",
+      "yf_symbol": "LFTO",
+      "company": "Liftoff Mobile, Inc.",
+      "insider_name": "General Atlantic (Lft), L.P.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-06-05",
+      "trade_price": 23.0,
+      "value": 29999981.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-09": 25.77
+      },
+      "latest_price": 25.77,
+      "return_pct": 12.04,
+      "last_snapshot": "2026-06-09"
+    },
+    {
+      "id": "US|GTE|2026-06-05|lm asset management inc.|7.38",
+      "market": "US",
+      "ticker": "GTE",
+      "yf_symbol": "GTE",
+      "company": "Gran Tierra Energy Inc.",
+      "insider_name": "Lm Asset Management Inc.",
+      "title": "10%",
+      "trade_date": "2026-06-05",
+      "trade_price": 7.38,
+      "value": 634841.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-09": 7.41
+      },
+      "latest_price": 7.41,
+      "return_pct": 0.41,
       "last_snapshot": "2026-06-09"
     }
   ]

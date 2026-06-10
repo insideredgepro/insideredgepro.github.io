@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09T23:12:23Z",
-  "trade_count": 7587,
+  "last_updated": "2026-06-10T02:35:12Z",
+  "trade_count": 7590,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -121392,6 +121392,54 @@
       "owned": "43415",
       "delta_own": "+32%",
       "value": "204260",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-09",
+      "filing_time": "20:45",
+      "trade_date": "2026-06-05",
+      "ticker": "LFTO",
+      "company": "Liftoff Mobile, Inc.",
+      "insider_name": "General Atlantic Genpar, L.P.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "23.00",
+      "qty": "1304347",
+      "owned": "25315646",
+      "delta_own": "+5%",
+      "value": "29999981",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-09",
+      "filing_time": "20:43",
+      "trade_date": "2026-06-05",
+      "ticker": "LFTO",
+      "company": "Liftoff Mobile, Inc.",
+      "insider_name": "General Atlantic (Lft), L.P.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "23.00",
+      "qty": "1304347",
+      "owned": "25315646",
+      "delta_own": "+5%",
+      "value": "29999981",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-09",
+      "filing_time": "19:45",
+      "trade_date": "2026-06-05",
+      "ticker": "GTE",
+      "company": "Gran Tierra Energy Inc.",
+      "insider_name": "Lm Asset Management Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "7.38",
+      "qty": "86000",
+      "owned": "4825750",
+      "delta_own": "+2%",
+      "value": "634841",
       "cluster_buy": false
     }
   ]
