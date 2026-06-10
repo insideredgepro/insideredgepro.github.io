@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T14:54:40Z",
-  "trade_count": 7594,
+  "last_updated": "2026-06-10T17:52:16Z",
+  "trade_count": 7596,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -121504,6 +121504,38 @@
       "owned": "76523400",
       "delta_own": "0%",
       "value": "4128862",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-10",
+      "filing_time": "12:36",
+      "trade_date": "2026-06-08",
+      "ticker": "PICS",
+      "company": "Pics N.V.",
+      "insider_name": "Batista Costa Jose Antonio",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "9.42",
+      "qty": "21130",
+      "owned": "4355309",
+      "delta_own": "0%",
+      "value": "199045",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-10",
+      "filing_time": "11:48",
+      "trade_date": "2026-06-08",
+      "ticker": "FLO",
+      "company": "Flowers Foods Inc",
+      "insider_name": "Scaglione Diego Anthony",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "7.51",
+      "qty": "5000",
+      "owned": "194180",
+      "delta_own": "+3%",
+      "value": "37542",
       "cluster_buy": false
     }
   ]
