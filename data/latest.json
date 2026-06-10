@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T20:13:24Z",
-  "trade_count": 7598,
+  "last_updated": "2026-06-10T22:48:05Z",
+  "trade_count": 7606,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -118992,7 +118992,7 @@
       "owned": "32431",
       "delta_own": "+10%",
       "value": "126360",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-04",
@@ -119728,7 +119728,7 @@
       "owned": "3225526",
       "delta_own": "+2%",
       "value": "69081",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-05",
@@ -121569,6 +121569,134 @@
       "delta_own": "0%",
       "value": "202384",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-10",
+      "filing_time": "18:41",
+      "trade_date": "2023-05-12",
+      "ticker": "CZR",
+      "company": "Caesars Entertainment, Inc.",
+      "insider_name": "Pegram Michael E",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "42.52",
+      "qty": "5200",
+      "owned": "46309",
+      "delta_own": "+13%",
+      "value": "221129",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-10",
+      "filing_time": "18:36",
+      "trade_date": "2026-06-08",
+      "ticker": "USPH",
+      "company": "U S Physical Therapy Inc /Nv",
+      "insider_name": "Minan Peter Francis",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "62.53",
+      "qty": "780",
+      "owned": "3211",
+      "delta_own": "+32%",
+      "value": "48777",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-10",
+      "filing_time": "17:48",
+      "trade_date": "2026-06-08",
+      "ticker": "LOGC",
+      "company": "Contextlogic Holdings Inc.",
+      "insider_name": "Levy Paul S",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "9.17",
+      "qty": "12926",
+      "owned": "638112",
+      "delta_own": "+2%",
+      "value": "118548",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-10",
+      "filing_time": "17:10",
+      "trade_date": "2026-06-10",
+      "ticker": "SMRT",
+      "company": "Smartrent, Inc.",
+      "insider_name": "Bohjalian Thomas N",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.11",
+      "qty": "75000",
+      "owned": "721062",
+      "delta_own": "+12%",
+      "value": "83250",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-10",
+      "filing_time": "17:00",
+      "trade_date": "2026-06-10",
+      "ticker": "SMBK",
+      "company": "Smartfinancial Inc.",
+      "insider_name": "Barrett Victor Lynn",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "43.78",
+      "qty": "3000",
+      "owned": "160850",
+      "delta_own": "+2%",
+      "value": "131340",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-10",
+      "filing_time": "17:00",
+      "trade_date": "2026-06-09",
+      "ticker": "BRO",
+      "company": "Brown & Brown, Inc.",
+      "insider_name": "Johnson Joia M",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "58.05",
+      "qty": "860",
+      "owned": "3294",
+      "delta_own": "+35%",
+      "value": "49923",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-10",
+      "filing_time": "16:30",
+      "trade_date": "2026-06-09",
+      "ticker": "VFC",
+      "company": "V F Corp",
+      "insider_name": "Carucci Richard",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "17.17",
+      "qty": "30000",
+      "owned": "336043",
+      "delta_own": "+10%",
+      "value": "515010",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-10",
+      "filing_time": "16:30",
+      "trade_date": "2026-06-08",
+      "ticker": "VNO",
+      "company": "Vornado Realty Trust",
+      "insider_name": "Wight Russell B Jr",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "16.94",
+      "qty": "4000",
+      "owned": "29673",
+      "delta_own": "+16%",
+      "value": "67754",
+      "cluster_buy": false
     }
   ]
 }

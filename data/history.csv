@@ -7441,7 +7441,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-04,10:18,2026-06-02,GROW,U S Global Investors Inc,"Gator Capital Management, LLC",10%,P - Purchase,2.59,20826,1121593,+2%,54035,True
 2026-06-04,17:20,2026-06-02,APCX,Apptech Payments Corp.,Lord Albert L,Dir,P - Purchase,0.45,210000,3510000,+6%,95221,True
 2026-06-04,17:09,2026-06-01,SR,Spire Inc,Koonce Paul D,Dir,P - Purchase,80.50,500,15465,+3%,40250,False
-2026-06-04,17:00,2026-06-04,SMBK,Smartfinancial Inc.,Ackermann Cathy G,Dir,P - Purchase,42.12,3000,32431,+10%,126360,False
+2026-06-04,17:00,2026-06-04,SMBK,Smartfinancial Inc.,Ackermann Cathy G,Dir,P - Purchase,42.12,3000,32431,+10%,126360,True
 2026-06-04,16:49,2026-05-05,IOR,Income Opportunity Realty Investors Inc /Tx/,Transcontinental Realty Investors Inc,10%,P - Purchase,17.91,8575,3449104,0%,153575,False
 2026-06-04,16:48,2026-06-03,XMTR,"Xometry, Inc.",Biewald Lukas Alexander,Dir,P - Purchase,85.00,47058,55134,+583%,3999930,False
 2026-06-04,16:40,2026-06-04,SMMT,Summit Therapeutics Inc.,Soni Manmeet Singh,"COO, CFO",P - Purchase,14.45,50000,3123603,+2%,722250,True
@@ -7487,7 +7487,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-05,13:46,2026-06-04,PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,9.31,50000,1068000,+5%,465295,False
 2026-06-05,16:37,2026-06-03,OPAD,Offerpad Solutions Inc.,Bair Brian,CEO,P - Purchase,0.79,122920,2267989,+6%,97402,False
 2026-06-05,16:36,2026-06-04,MBC,"Masterbrand, Inc.",Simon Andrea Helen,"EVP, CFO",P - Purchase,8.56,5000,497341,+1%,42800,True
-2026-06-05,16:32,2026-06-04,SMRT,"Smartrent, Inc.",Martell Frank,CEO,P - Purchase,1.15,60260,3225526,+2%,69081,False
+2026-06-05,16:32,2026-06-04,SMRT,"Smartrent, Inc.",Martell Frank,CEO,P - Purchase,1.15,60260,3225526,+2%,69081,True
 2026-06-05,16:19,2026-06-03,ALDX,"Aldeyra Therapeutics, Inc.",Brady Todd C,"Pres, CEO",P - Purchase,1.67,250000,1721298,+17%,418450,False
 2026-06-05,16:17,2026-06-05,CRESY,Cresud Inc,Elsztain Alejandro Gustavo,Dir,P - Purchase,10.95,18200,1225764,+2%,199290,False
 2026-06-05,16:15,2026-06-04,ABR,Arbor Realty Trust Inc,Tsunis George,Dir,P - Purchase,5.58,26700,34000,+366%,148986,False
@@ -7604,3 +7604,11 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-10,11:48,2026-06-08,FLO,Flowers Foods Inc,Scaglione Diego Anthony,CFO,P - Purchase,7.51,5000,194180,+3%,37542,False
 2026-06-10,15:38,2026-06-08,CSPI,Csp Inc /Ma/,Nerges Joseph R,10%,P - Purchase,8.57,3370,1418900,0%,28878,False
 2026-06-10,15:27,2026-06-09,PICS,Pics N.V.,Batista Costa Jose Antonio,Dir,P - Purchase,9.73,20800,4376109,0%,202384,True
+2026-06-10,18:41,2023-05-12,CZR,"Caesars Entertainment, Inc.",Pegram Michael E,Dir,P - Purchase,42.52,5200,46309,+13%,221129,False
+2026-06-10,18:36,2026-06-08,USPH,U S Physical Therapy Inc /Nv,Minan Peter Francis,Dir,P - Purchase,62.53,780,3211,+32%,48777,False
+2026-06-10,17:48,2026-06-08,LOGC,Contextlogic Holdings Inc.,Levy Paul S,Dir,P - Purchase,9.17,12926,638112,+2%,118548,True
+2026-06-10,17:10,2026-06-10,SMRT,"Smartrent, Inc.",Bohjalian Thomas N,Dir,P - Purchase,1.11,75000,721062,+12%,83250,True
+2026-06-10,17:00,2026-06-10,SMBK,Smartfinancial Inc.,Barrett Victor Lynn,Dir,P - Purchase,43.78,3000,160850,+2%,131340,True
+2026-06-10,17:00,2026-06-09,BRO,"Brown & Brown, Inc.",Johnson Joia M,Dir,P - Purchase,58.05,860,3294,+35%,49923,False
+2026-06-10,16:30,2026-06-09,VFC,V F Corp,Carucci Richard,Dir,P - Purchase,17.17,30000,336043,+10%,515010,False
+2026-06-10,16:30,2026-06-08,VNO,Vornado Realty Trust,Wight Russell B Jr,Dir,P - Purchase,16.94,4000,29673,+16%,67754,False
