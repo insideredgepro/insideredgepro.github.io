@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T11:31:11Z",
-  "trade_count": 7591,
+  "last_updated": "2026-06-10T14:54:40Z",
+  "trade_count": 7594,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -121456,6 +121456,54 @@
       "owned": "269000",
       "delta_own": "+2%",
       "value": "57640",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-10",
+      "filing_time": "09:01",
+      "trade_date": "2026-06-09",
+      "ticker": "MP",
+      "company": "Mp Materials Corp. / De",
+      "insider_name": "Rosenthal Michael Stuart",
+      "title": "COO",
+      "trade_type": "P - Purchase",
+      "price": "54.30",
+      "qty": "10000",
+      "owned": "1470295",
+      "delta_own": "+1%",
+      "value": "543000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-10",
+      "filing_time": "08:13",
+      "trade_date": "2026-06-09",
+      "ticker": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Troim Tor Olav",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.70",
+      "qty": "1063000",
+      "owned": "27267808",
+      "delta_own": "+4%",
+      "value": "4996100",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-10",
+      "filing_time": "07:39",
+      "trade_date": "2026-05-29",
+      "ticker": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "24.99",
+      "qty": "165240",
+      "owned": "76523400",
+      "delta_own": "0%",
+      "value": "4128862",
       "cluster_buy": false
     }
   ]
