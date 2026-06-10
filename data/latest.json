@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T17:52:16Z",
-  "trade_count": 7596,
+  "last_updated": "2026-06-10T20:13:24Z",
+  "trade_count": 7598,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -121537,6 +121537,38 @@
       "delta_own": "+3%",
       "value": "37542",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-10",
+      "filing_time": "15:38",
+      "trade_date": "2026-06-08",
+      "ticker": "CSPI",
+      "company": "Csp Inc /Ma/",
+      "insider_name": "Nerges Joseph R",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "8.57",
+      "qty": "3370",
+      "owned": "1418900",
+      "delta_own": "0%",
+      "value": "28878",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-10",
+      "filing_time": "15:27",
+      "trade_date": "2026-06-09",
+      "ticker": "PICS",
+      "company": "Pics N.V.",
+      "insider_name": "Batista Costa Jose Antonio",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "9.73",
+      "qty": "20800",
+      "owned": "4376109",
+      "delta_own": "0%",
+      "value": "202384",
+      "cluster_buy": true
     }
   ]
 }
