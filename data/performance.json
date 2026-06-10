@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-10",
-  "entry_count": 1537,
+  "entry_count": 1538,
   "entries": [
     {
       "id": "US|MNR|2026-04-13|ward tom l.|13.05",
@@ -67299,6 +67299,26 @@
       },
       "latest_price": 7.61,
       "return_pct": 3.12,
+      "last_snapshot": "2026-06-10"
+    },
+    {
+      "id": "US|QFIN|2026-06-09|chen xiaohuan|14.41",
+      "market": "US",
+      "ticker": "QFIN",
+      "yf_symbol": "QFIN",
+      "company": "Qfin Holdings, Inc.",
+      "insider_name": "Chen Xiaohuan",
+      "title": "Dir",
+      "trade_date": "2026-06-09",
+      "trade_price": 14.41,
+      "value": 57640.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-10": 14.27
+      },
+      "latest_price": 14.27,
+      "return_pct": -0.97,
       "last_snapshot": "2026-06-10"
     }
   ]
