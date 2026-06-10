@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-09",
-  "entry_count": 414,
+  "entry_count": 416,
   "entries": [
     {
       "id": "CA|LUCA|2026-04-10|barnholden, daniel|1.5",
@@ -3352,8 +3352,8 @@
         "2026-06-08": 19.93,
         "2026-06-09": 21.5
       },
-      "latest_price": 21.5,
-      "return_pct": -5.16,
+      "latest_price": 20.2,
+      "return_pct": -10.9,
       "last_snapshot": "2026-06-09"
     },
     {
@@ -3395,8 +3395,8 @@
         "2026-06-08": 19.93,
         "2026-06-09": 21.5
       },
-      "latest_price": 21.5,
-      "return_pct": -6.32,
+      "latest_price": 20.2,
+      "return_pct": -11.98,
       "last_snapshot": "2026-06-09"
     },
     {
@@ -3438,8 +3438,8 @@
         "2026-06-08": 19.93,
         "2026-06-09": 21.5
       },
-      "latest_price": 21.5,
-      "return_pct": -6.16,
+      "latest_price": 20.2,
+      "return_pct": -11.84,
       "last_snapshot": "2026-06-09"
     },
     {
@@ -3481,8 +3481,8 @@
         "2026-06-08": 19.93,
         "2026-06-09": 21.5
       },
-      "latest_price": 21.5,
-      "return_pct": -6.94,
+      "latest_price": 20.2,
+      "return_pct": -12.57,
       "last_snapshot": "2026-06-09"
     },
     {
@@ -3524,8 +3524,8 @@
         "2026-06-08": 19.93,
         "2026-06-09": 21.5
       },
-      "latest_price": 21.5,
-      "return_pct": -8.02,
+      "latest_price": 20.2,
+      "return_pct": -13.58,
       "last_snapshot": "2026-06-09"
     },
     {
@@ -3567,8 +3567,8 @@
         "2026-06-08": 19.93,
         "2026-06-09": 21.5
       },
-      "latest_price": 21.5,
-      "return_pct": -9.51,
+      "latest_price": 20.2,
+      "return_pct": -14.98,
       "last_snapshot": "2026-06-09"
     },
     {
@@ -3610,8 +3610,8 @@
         "2026-06-08": 19.93,
         "2026-06-09": 21.5
       },
-      "latest_price": 21.5,
-      "return_pct": -10.38,
+      "latest_price": 20.2,
+      "return_pct": -15.8,
       "last_snapshot": "2026-06-09"
     },
     {
@@ -3653,8 +3653,8 @@
         "2026-06-08": 19.93,
         "2026-06-09": 21.5
       },
-      "latest_price": 21.5,
-      "return_pct": -6.24,
+      "latest_price": 20.2,
+      "return_pct": -11.91,
       "last_snapshot": "2026-06-09"
     },
     {
@@ -9820,8 +9820,8 @@
         "2026-06-08": 19.52,
         "2026-06-09": 20.13
       },
-      "latest_price": 20.13,
-      "return_pct": 1.23,
+      "latest_price": 23.46,
+      "return_pct": 17.97,
       "last_snapshot": "2026-06-09"
     },
     {
@@ -11769,8 +11769,8 @@
         "2026-06-08": 19.93,
         "2026-06-09": 21.5
       },
-      "latest_price": 21.5,
-      "return_pct": 5.39,
+      "latest_price": 20.2,
+      "return_pct": -0.98,
       "last_snapshot": "2026-06-09"
     },
     {
@@ -11807,8 +11807,8 @@
         "2026-06-08": 19.93,
         "2026-06-09": 21.5
       },
-      "latest_price": 21.5,
-      "return_pct": 3.97,
+      "latest_price": 20.2,
+      "return_pct": -2.32,
       "last_snapshot": "2026-06-09"
     },
     {
@@ -15898,6 +15898,46 @@
       },
       "latest_price": 16.45,
       "return_pct": 0.55,
+      "last_snapshot": "2026-06-09"
+    },
+    {
+      "id": "CA|HML.CN|2026-06-09|schloo, peter|0.025",
+      "market": "CA",
+      "ticker": "HML.CN",
+      "yf_symbol": "HML.CN",
+      "company": "Heritage Mining Ltd.",
+      "insider_name": "Schloo, Peter",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-06-09",
+      "trade_price": 0.025,
+      "value": 25000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-06-09": 0.025
+      },
+      "latest_price": 0.025,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-06-09"
+    },
+    {
+      "id": "CA|RKR|2026-06-09|mirko, john martin|0.035",
+      "market": "CA",
+      "ticker": "RKR",
+      "yf_symbol": "RKR.V",
+      "company": "Rokmaster Resources Corp.",
+      "insider_name": "Mirko, John Martin",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-06-09",
+      "trade_price": 0.035,
+      "value": 18480.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-06-09": 0.035
+      },
+      "latest_price": 0.035,
+      "return_pct": 0.0,
       "last_snapshot": "2026-06-09"
     }
   ]

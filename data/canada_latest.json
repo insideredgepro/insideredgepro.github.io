@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09T22:00:27Z",
-  "trade_count": 3243,
+  "last_updated": "2026-06-10T03:45:24Z",
+  "trade_count": 3245,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -49440,6 +49440,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4732775",
+      "trade_date": "2026-06-09",
+      "filing_date": "2026-06-09",
+      "company": "Heritage Mining Ltd.",
+      "ticker": "HML.CN",
+      "insider_name": "Schloo, Peter",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "1000000",
+      "price": "0.0250",
+      "value": "25000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4732803",
+      "trade_date": "2026-06-09",
+      "filing_date": "2026-06-09",
+      "company": "Rokmaster Resources Corp.",
+      "ticker": "RKR",
+      "insider_name": "Mirko, John Martin",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "528000",
+      "price": "0.0350",
+      "value": "18480",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
