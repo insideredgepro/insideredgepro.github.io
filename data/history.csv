@@ -6977,7 +6977,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-21,17:21,2026-05-20,BSX,Boston Scientific Corp,Ludwig Edward J,Dir,P - Purchase,56.68,3580,25359,+16%,202914,True
 2026-05-21,17:20,2026-05-19,BSX,Boston Scientific Corp,Habiger David C,Dir,P - Purchase,56.43,4450,13878,+47%,251098,True
 2026-05-21,17:11,2023-03-06,EQH,"Equitable Holdings, Inc.",Hondal Francis,Dir,P - Purchase,40.09,1144,30331,+4%,45851,False
-2026-05-21,17:08,2026-05-19,INM,Inmed Pharmaceuticals Inc.,"Adar1 Capital Management, LLC",10%,P - Purchase,1.54,468551,800000,+141%,721548,False
+2026-05-21,17:08,2026-05-19,INM,Inmed Pharmaceuticals Inc.,"Adar1 Capital Management, LLC",10%,P - Purchase,1.54,468551,800000,+141%,721548,True
 2026-05-21,16:55,2026-05-18,VITL,"Vital Farms, Inc.",Flanagan Glenda J,Dir,P - Purchase,8.33,6100,37498,+19%,50813,True
 2026-05-21,16:55,2026-05-14,VITL,"Vital Farms, Inc.",Cyr William B.,Dir,P - Purchase,8.52,6000,13794,+77%,51120,True
 2026-05-21,16:55,2026-05-14,VITL,"Vital Farms, Inc.",Holland Joseph Michael,Chief Supply Chain Officer,P - Purchase,8.00,12484,38150,+49%,99872,True
@@ -7613,3 +7613,4 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-10,16:30,2026-06-09,VFC,V F Corp,Carucci Richard,Dir,P - Purchase,17.17,30000,336043,+10%,515010,False
 2026-06-10,16:30,2026-06-08,VNO,Vornado Realty Trust,Wight Russell B Jr,Dir,P - Purchase,16.94,4000,29673,+16%,67754,False
 2026-06-10,18:51,2026-06-08,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.","Dir, 10%",P - Purchase,1.68,1118935,17666729,+7%,1882391,False
+2026-06-10,21:14,2026-05-20,INM,Inmed Pharmaceuticals Inc.,"Vivo Opportunity, LLC",10%,P - Purchase,1.57,249227,790979,+46%,391555,True

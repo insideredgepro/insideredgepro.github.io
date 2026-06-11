@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11T00:09:39Z",
-  "trade_count": 7607,
+  "last_updated": "2026-06-11T05:22:06Z",
+  "trade_count": 7608,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -111568,7 +111568,7 @@
       "owned": "800000",
       "delta_own": "+141%",
       "value": "721548",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-21",
@@ -121713,6 +121713,22 @@
       "delta_own": "+7%",
       "value": "1882391",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-10",
+      "filing_time": "21:14",
+      "trade_date": "2026-05-20",
+      "ticker": "INM",
+      "company": "Inmed Pharmaceuticals Inc.",
+      "insider_name": "Vivo Opportunity, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "1.57",
+      "qty": "249227",
+      "owned": "790979",
+      "delta_own": "+46%",
+      "value": "391555",
+      "cluster_buy": true
     }
   ]
 }
