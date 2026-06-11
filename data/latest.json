@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11T14:30:54Z",
-  "trade_count": 7612,
+  "last_updated": "2026-06-11T18:07:07Z",
+  "trade_count": 7615,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -121793,6 +121793,54 @@
       "delta_own": "+1%",
       "value": "53600",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-11",
+      "filing_time": "13:44",
+      "trade_date": "2026-06-10",
+      "ticker": "CLST",
+      "company": "Catalyst Bancorp, Inc.",
+      "insider_name": "Kleiser Kirk E.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "16.11",
+      "qty": "6200",
+      "owned": "53529",
+      "delta_own": "+13%",
+      "value": "99893",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-11",
+      "filing_time": "11:27",
+      "trade_date": "2026-06-10",
+      "ticker": "BRC",
+      "company": "Brady Corp",
+      "insider_name": "Nargolwala Vineet A",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "76.86",
+      "qty": "13011",
+      "owned": "78393",
+      "delta_own": "+20%",
+      "value": "1000025",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-11",
+      "filing_time": "10:55",
+      "trade_date": "2026-06-10",
+      "ticker": "KRNY",
+      "company": "Kearny Financial Corp.",
+      "insider_name": "Fields Curtland E",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "8.61",
+      "qty": "4800",
+      "owned": "29700",
+      "delta_own": "+19%",
+      "value": "41327",
+      "cluster_buy": false
     }
   ]
 }
