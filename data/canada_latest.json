@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T22:00:24Z",
-  "trade_count": 3250,
+  "last_updated": "2026-06-11T03:45:26Z",
+  "trade_count": 3251,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -49549,6 +49549,22 @@
       "qty": "80000",
       "price": "0.6100",
       "value": "48800",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4734046",
+      "trade_date": "2026-06-10",
+      "filing_date": "2026-06-10",
+      "company": "Honey Badger Silver Inc.",
+      "ticker": "TUF",
+      "insider_name": "Williams, Chad",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "100000",
+      "price": "0.6500",
+      "value": "65000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false

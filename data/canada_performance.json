@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-10",
-  "entry_count": 414,
+  "entry_count": 415,
   "entries": [
     {
       "id": "CA|CMU|2026-04-13|alfonso, jesus|6.25",
@@ -3122,8 +3122,8 @@
         "2026-06-09": 21.5,
         "2026-06-10": 20.2
       },
-      "latest_price": 20.2,
-      "return_pct": -10.9,
+      "latest_price": 20.6,
+      "return_pct": -9.13,
       "last_snapshot": "2026-06-10"
     },
     {
@@ -3166,8 +3166,8 @@
         "2026-06-09": 21.5,
         "2026-06-10": 20.2
       },
-      "latest_price": 20.2,
-      "return_pct": -11.98,
+      "latest_price": 20.6,
+      "return_pct": -10.24,
       "last_snapshot": "2026-06-10"
     },
     {
@@ -3210,8 +3210,8 @@
         "2026-06-09": 21.5,
         "2026-06-10": 20.2
       },
-      "latest_price": 20.2,
-      "return_pct": -11.84,
+      "latest_price": 20.6,
+      "return_pct": -10.09,
       "last_snapshot": "2026-06-10"
     },
     {
@@ -3254,8 +3254,8 @@
         "2026-06-09": 21.5,
         "2026-06-10": 20.2
       },
-      "latest_price": 20.2,
-      "return_pct": -12.57,
+      "latest_price": 20.6,
+      "return_pct": -10.84,
       "last_snapshot": "2026-06-10"
     },
     {
@@ -3298,8 +3298,8 @@
         "2026-06-09": 21.5,
         "2026-06-10": 20.2
       },
-      "latest_price": 20.2,
-      "return_pct": -13.58,
+      "latest_price": 20.6,
+      "return_pct": -11.87,
       "last_snapshot": "2026-06-10"
     },
     {
@@ -3342,8 +3342,8 @@
         "2026-06-09": 21.5,
         "2026-06-10": 20.2
       },
-      "latest_price": 20.2,
-      "return_pct": -14.98,
+      "latest_price": 20.6,
+      "return_pct": -13.3,
       "last_snapshot": "2026-06-10"
     },
     {
@@ -3386,8 +3386,8 @@
         "2026-06-09": 21.5,
         "2026-06-10": 20.2
       },
-      "latest_price": 20.2,
-      "return_pct": -15.8,
+      "latest_price": 20.6,
+      "return_pct": -14.13,
       "last_snapshot": "2026-06-10"
     },
     {
@@ -3430,8 +3430,8 @@
         "2026-06-09": 21.5,
         "2026-06-10": 20.2
       },
-      "latest_price": 20.2,
-      "return_pct": -11.91,
+      "latest_price": 20.6,
+      "return_pct": -10.16,
       "last_snapshot": "2026-06-10"
     },
     {
@@ -9608,8 +9608,8 @@
         "2026-06-09": 0.03,
         "2026-06-10": 0.025
       },
-      "latest_price": 0.025,
-      "return_pct": -28.57,
+      "latest_price": 0.03,
+      "return_pct": -14.29,
       "last_snapshot": "2026-06-10"
     },
     {
@@ -9740,8 +9740,8 @@
         "2026-06-09": 20.13,
         "2026-06-10": 23.46
       },
-      "latest_price": 23.46,
-      "return_pct": 17.97,
+      "latest_price": 21.53,
+      "return_pct": 8.27,
       "last_snapshot": "2026-06-10"
     },
     {
@@ -10356,8 +10356,8 @@
         "2026-06-09": 0.03,
         "2026-06-10": 0.025
       },
-      "latest_price": 0.025,
-      "return_pct": -99.38,
+      "latest_price": 0.03,
+      "return_pct": -99.25,
       "last_snapshot": "2026-06-10"
     },
     {
@@ -11736,8 +11736,8 @@
         "2026-06-09": 21.5,
         "2026-06-10": 20.2
       },
-      "latest_price": 20.2,
-      "return_pct": -0.98,
+      "latest_price": 20.6,
+      "return_pct": 0.98,
       "last_snapshot": "2026-06-10"
     },
     {
@@ -11775,8 +11775,8 @@
         "2026-06-09": 21.5,
         "2026-06-10": 20.2
       },
-      "latest_price": 20.2,
-      "return_pct": -2.32,
+      "latest_price": 20.6,
+      "return_pct": -0.39,
       "last_snapshot": "2026-06-10"
     },
     {
@@ -16022,8 +16022,8 @@
         "2026-06-09": 0.025,
         "2026-06-10": 0.025
       },
-      "latest_price": 0.025,
-      "return_pct": 0.0,
+      "latest_price": 0.03,
+      "return_pct": 20.0,
       "last_snapshot": "2026-06-10"
     },
     {
@@ -16144,6 +16144,26 @@
         "2026-06-10": 0.61
       },
       "latest_price": 0.61,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-06-10"
+    },
+    {
+      "id": "CA|TUF|2026-06-10|williams, chad|0.65",
+      "market": "CA",
+      "ticker": "TUF",
+      "yf_symbol": "TUF.V",
+      "company": "Honey Badger Silver Inc.",
+      "insider_name": "Williams, Chad",
+      "title": "Senior Officer",
+      "trade_date": "2026-06-10",
+      "trade_price": 0.65,
+      "value": 65000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-06-10": 0.65
+      },
+      "latest_price": 0.65,
       "return_pct": 0.0,
       "last_snapshot": "2026-06-10"
     }
