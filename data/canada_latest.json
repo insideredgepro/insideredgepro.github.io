@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11T03:45:26Z",
-  "trade_count": 3251,
+  "last_updated": "2026-06-11T16:00:20Z",
+  "trade_count": 3253,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -49565,6 +49565,38 @@
       "qty": "100000",
       "price": "0.6500",
       "value": "65000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4734110",
+      "trade_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "company": "Pacifica Silver Corp.",
+      "ticker": "PSIL.CN",
+      "insider_name": "Anthony, Todd",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "1.0100",
+      "value": "50500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4734153",
+      "trade_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "company": "Transcontinental Inc",
+      "ticker": "TCL-A",
+      "insider_name": "LeCavalier, Donald",
+      "title": "Senior Officer",
+      "security": "Subordinate Voting Shares Cat\u00e9gorie A",
+      "qty": "20000",
+      "price": "4.9490",
+      "value": "98980",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
