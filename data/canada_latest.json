@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11T16:00:20Z",
-  "trade_count": 3253,
+  "last_updated": "2026-06-11T22:00:21Z",
+  "trade_count": 3257,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -48911,7 +48911,7 @@
       "value": "70450",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4729454",
@@ -48975,7 +48975,7 @@
       "value": "96600",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4730223",
@@ -49597,6 +49597,70 @@
       "qty": "20000",
       "price": "4.9490",
       "value": "98980",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4734219",
+      "trade_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "company": "Mayfair Gold Corp.",
+      "ticker": "MFG",
+      "insider_name": "Lakhani, Zayem",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "25362",
+      "price": "3.6900",
+      "value": "93585",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4734189",
+      "trade_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "company": "Pacifica Silver Corp.",
+      "ticker": "PSIL.CN",
+      "insider_name": "Anthony, Todd",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "20200",
+      "price": "1.0100",
+      "value": "20402",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4734234",
+      "trade_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "company": "Snowline Gold Corp.",
+      "ticker": "SGD",
+      "insider_name": "Hart, Craig Joseph Ronald",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "11.6900",
+      "value": "58450",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4734413",
+      "trade_date": "2026-06-11",
+      "filing_date": "2026-06-11",
+      "company": "Valor Gold Corp.",
+      "ticker": "VGC",
+      "insider_name": "Edwards, Alan R.",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "2.2500",
+      "value": "22500",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
