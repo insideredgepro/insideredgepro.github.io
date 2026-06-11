@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T22:48:05Z",
-  "trade_count": 7606,
+  "last_updated": "2026-06-11T00:09:39Z",
+  "trade_count": 7607,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -121696,6 +121696,22 @@
       "owned": "29673",
       "delta_own": "+16%",
       "value": "67754",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-10",
+      "filing_time": "18:51",
+      "trade_date": "2026-06-08",
+      "ticker": "BLND",
+      "company": "Blend Labs, Inc.",
+      "insider_name": "Haveli Investments, L.P.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.68",
+      "qty": "1118935",
+      "owned": "17666729",
+      "delta_own": "+7%",
+      "value": "1882391",
       "cluster_buy": false
     }
   ]
