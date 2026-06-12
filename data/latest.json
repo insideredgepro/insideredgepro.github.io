@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T07:14:40Z",
-  "trade_count": 7644,
+  "last_updated": "2026-06-12T11:36:26Z",
+  "trade_count": 7648,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -122304,6 +122304,70 @@
       "owned": "17391440",
       "delta_own": "+6%",
       "value": "7650148",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "07:29",
+      "trade_date": "2026-06-08",
+      "ticker": "CLIK",
+      "company": "Click Holdings Ltd.",
+      "insider_name": "Chan Chun Sing",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.67",
+      "qty": "34000",
+      "owned": "4586000",
+      "delta_own": "+1%",
+      "value": "56790",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "07:01",
+      "trade_date": "2026-06-11",
+      "ticker": "ESEA",
+      "company": "Euroseas Ltd.",
+      "insider_name": "Pittas Aristeidis P",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "67.18",
+      "qty": "500",
+      "owned": "58050",
+      "delta_own": "+1%",
+      "value": "33590",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "06:21",
+      "trade_date": "2026-06-11",
+      "ticker": "GOTU",
+      "company": "Gaotu Techedu Inc.",
+      "insider_name": "Chen Xiangdong",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.24",
+      "qty": "200000",
+      "owned": "7714529",
+      "delta_own": "+3%",
+      "value": "447000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "06:20",
+      "trade_date": "2026-06-10",
+      "ticker": "COSM",
+      "company": "Cosmos Health Inc.",
+      "insider_name": "Siokas Grigorios",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.23",
+      "qty": "701447",
+      "owned": "13263361",
+      "delta_own": "+6%",
+      "value": "160000",
       "cluster_buy": false
     }
   ]

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-12",
-  "entry_count": 1590,
+  "entry_count": 1594,
   "entries": [
     {
       "id": "US|MNR|2026-04-13|ward tom l.|13.05",
@@ -71473,6 +71473,86 @@
       },
       "latest_price": 8.0,
       "return_pct": 7.53,
+      "last_snapshot": "2026-06-12"
+    },
+    {
+      "id": "US|CLIK|2026-06-08|chan chun sing|1.67",
+      "market": "US",
+      "ticker": "CLIK",
+      "yf_symbol": "CLIK",
+      "company": "Click Holdings Ltd.",
+      "insider_name": "Chan Chun Sing",
+      "title": "CEO, 10%",
+      "trade_date": "2026-06-08",
+      "trade_price": 1.67,
+      "value": 56790.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-12": 1.61
+      },
+      "latest_price": 1.61,
+      "return_pct": -3.59,
+      "last_snapshot": "2026-06-12"
+    },
+    {
+      "id": "US|ESEA|2026-06-11|pittas aristeidis p|67.18",
+      "market": "US",
+      "ticker": "ESEA",
+      "yf_symbol": "ESEA",
+      "company": "Euroseas Ltd.",
+      "insider_name": "Pittas Aristeidis P",
+      "title": "Dir",
+      "trade_date": "2026-06-11",
+      "trade_price": 67.18,
+      "value": 33590.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-12": 67.83
+      },
+      "latest_price": 67.83,
+      "return_pct": 0.97,
+      "last_snapshot": "2026-06-12"
+    },
+    {
+      "id": "US|GOTU|2026-06-11|chen xiangdong|2.24",
+      "market": "US",
+      "ticker": "GOTU",
+      "yf_symbol": "GOTU",
+      "company": "Gaotu Techedu Inc.",
+      "insider_name": "Chen Xiangdong",
+      "title": "CEO",
+      "trade_date": "2026-06-11",
+      "trade_price": 2.24,
+      "value": 447000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-12": 1.47
+      },
+      "latest_price": 1.47,
+      "return_pct": -34.38,
+      "last_snapshot": "2026-06-12"
+    },
+    {
+      "id": "US|COSM|2026-06-10|siokas grigorios|0.23",
+      "market": "US",
+      "ticker": "COSM",
+      "yf_symbol": "COSM",
+      "company": "Cosmos Health Inc.",
+      "insider_name": "Siokas Grigorios",
+      "title": "CEO, 10%",
+      "trade_date": "2026-06-10",
+      "trade_price": 0.23,
+      "value": 160000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-12": 0.206
+      },
+      "latest_price": 0.206,
+      "return_pct": -10.43,
       "last_snapshot": "2026-06-12"
     }
   ]
