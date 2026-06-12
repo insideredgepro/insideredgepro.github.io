@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T17:31:53Z",
-  "trade_count": 7657,
+  "last_updated": "2026-06-12T19:54:56Z",
+  "trade_count": 7660,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -122512,6 +122512,54 @@
       "owned": "15965",
       "delta_own": "+3%",
       "value": "39230",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "15:39",
+      "trade_date": "2026-06-11",
+      "ticker": "RDGT",
+      "company": "Ridgetech Inc.",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "1.61",
+      "qty": "19373",
+      "owned": "134368",
+      "delta_own": "+17%",
+      "value": "31152",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "14:35",
+      "trade_date": "2026-06-12",
+      "ticker": "SMMT",
+      "company": "Summit Therapeutics Inc.",
+      "insider_name": "Zanganeh Mahkam",
+      "title": "Co-CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "13.12",
+      "qty": "3810000",
+      "owned": "610015809",
+      "delta_own": "+1%",
+      "value": "49987200",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "14:31",
+      "trade_date": "2026-06-10",
+      "ticker": "DBGI",
+      "company": "Digital Brands Group, Inc.",
+      "insider_name": "Davis John Hilburn IV",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.13",
+      "qty": "618333",
+      "owned": "688461",
+      "delta_own": "+882%",
+      "value": "698716",
       "cluster_buy": false
     }
   ]
