@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T11:36:26Z",
-  "trade_count": 7648,
+  "last_updated": "2026-06-12T14:37:10Z",
+  "trade_count": 7652,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -119072,7 +119072,7 @@
       "owned": "149718",
       "delta_own": "+3%",
       "value": "37700",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-04",
@@ -122368,6 +122368,70 @@
       "owned": "13263361",
       "delta_own": "+6%",
       "value": "160000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "10:30",
+      "trade_date": "2026-06-12",
+      "ticker": "SRI",
+      "company": "Stoneridge Inc",
+      "insider_name": "Lasky William M",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "7.46",
+      "qty": "5000",
+      "owned": "192666",
+      "delta_own": "+3%",
+      "value": "37300",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "10:30",
+      "trade_date": "2026-06-10",
+      "ticker": "MZTI",
+      "company": "Marzetti Co",
+      "insider_name": "Pigott, Thomas K.",
+      "title": "VP, CFO, Asst. Secretary",
+      "trade_type": "P - Purchase",
+      "price": "109.01",
+      "qty": "900",
+      "owned": "17779",
+      "delta_own": "+5%",
+      "value": "98109",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "09:26",
+      "trade_date": "2026-06-10",
+      "ticker": "TMCI",
+      "company": "Treace Medical Concepts, Inc.",
+      "insider_name": "Treace John T.",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "4.03",
+      "qty": "24606",
+      "owned": "12672568",
+      "delta_own": "0%",
+      "value": "99196",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "08:27",
+      "trade_date": "2026-06-11",
+      "ticker": "NRDY",
+      "company": "Nerdy Inc.",
+      "insider_name": "Cohn Charles K.",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.97",
+      "qty": "258204",
+      "owned": "58615745",
+      "delta_own": "0%",
+      "value": "250458",
       "cluster_buy": false
     }
   ]

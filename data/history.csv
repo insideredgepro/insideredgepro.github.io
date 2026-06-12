@@ -7446,7 +7446,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-04,16:48,2026-06-03,XMTR,"Xometry, Inc.",Biewald Lukas Alexander,Dir,P - Purchase,85.00,47058,55134,+583%,3999930,False
 2026-06-04,16:40,2026-06-04,SMMT,Summit Therapeutics Inc.,Soni Manmeet Singh,"COO, CFO",P - Purchase,14.45,50000,3123603,+2%,722250,True
 2026-06-04,16:35,2026-06-03,GLIBK,Liberty Capital Corp/Nv,Duncan Ronald A,"Pres, CEO",P - Purchase,21.04,67500,226442,+42%,1420517,False
-2026-06-04,16:29,2026-06-03,SRI,Stoneridge Inc,Kaplan IRA C.,Dir,P - Purchase,7.54,5000,149718,+3%,37700,False
+2026-06-04,16:29,2026-06-03,SRI,Stoneridge Inc,Kaplan IRA C.,Dir,P - Purchase,7.54,5000,149718,+3%,37700,True
 2026-06-04,16:25,2026-06-03,PODD,Insulet Corp,Stonesifer Timothy C.,Dir,P - Purchase,143.51,2790,9041,+45%,400393,True
 2026-06-04,16:22,2026-06-02,ITW,Illinois Tool Works Inc,Scanlon Jennifer F.,Dir,P - Purchase,247.99,806,1652,+95%,199880,False
 2026-06-04,16:22,2026-06-03,NSP,"Insperity, Inc.",Sarvadi Paul J,"COB, CEO",P - Purchase,34.05,233000,1805582,+15%,7933650,False
@@ -7654,3 +7654,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-12,07:01,2026-06-11,ESEA,Euroseas Ltd.,Pittas Aristeidis P,Dir,P - Purchase,67.18,500,58050,+1%,33590,False
 2026-06-12,06:21,2026-06-11,GOTU,Gaotu Techedu Inc.,Chen Xiangdong,CEO,P - Purchase,2.24,200000,7714529,+3%,447000,False
 2026-06-12,06:20,2026-06-10,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.23,701447,13263361,+6%,160000,False
+2026-06-12,10:30,2026-06-12,SRI,Stoneridge Inc,Lasky William M,Dir,P - Purchase,7.46,5000,192666,+3%,37300,True
+2026-06-12,10:30,2026-06-10,MZTI,Marzetti Co,"Pigott, Thomas K.","VP, CFO, Asst. Secretary",P - Purchase,109.01,900,17779,+5%,98109,False
+2026-06-12,09:26,2026-06-10,TMCI,"Treace Medical Concepts, Inc.",Treace John T.,"CEO, 10%",P - Purchase,4.03,24606,12672568,0%,99196,False
+2026-06-12,08:27,2026-06-11,NRDY,Nerdy Inc.,Cohn Charles K.,"CEO, 10%",P - Purchase,0.97,258204,58615745,0%,250458,False
