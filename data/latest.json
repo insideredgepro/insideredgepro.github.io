@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11T23:14:40Z",
-  "trade_count": 7639,
+  "last_updated": "2026-06-12T02:41:16Z",
+  "trade_count": 7644,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -122225,6 +122225,86 @@
       "delta_own": "+7%",
       "value": "263732",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-11",
+      "filing_time": "21:35",
+      "trade_date": "2026-06-10",
+      "ticker": "INR",
+      "company": "Infinity Natural Resources, Inc.",
+      "insider_name": "Poole David P",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "13.82",
+      "qty": "11500",
+      "owned": "53785",
+      "delta_own": "+27%",
+      "value": "158963",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-11",
+      "filing_time": "21:10",
+      "trade_date": "2026-06-09",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "72.53",
+      "qty": "3484",
+      "owned": "5733787",
+      "delta_own": "0%",
+      "value": "252704",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-11",
+      "filing_time": "20:08",
+      "trade_date": "2026-06-11",
+      "ticker": "BETR",
+      "company": "Better Home & Finance Holding Co",
+      "insider_name": "Frater Hugh R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "24.34",
+      "qty": "5150",
+      "owned": "6326",
+      "delta_own": "+438%",
+      "value": "125351",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-11",
+      "filing_time": "20:02",
+      "trade_date": "2026-06-09",
+      "ticker": "NUVB",
+      "company": "Nuvation Bio Inc.",
+      "insider_name": "Mashal Robert",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.73",
+      "qty": "25000",
+      "owned": "225000",
+      "delta_own": "+13%",
+      "value": "118250",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-11",
+      "filing_time": "19:36",
+      "trade_date": "2026-06-09",
+      "ticker": "ARTV",
+      "company": "Artiva Biotherapeutics, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "7.44",
+      "qty": "1027722",
+      "owned": "17391440",
+      "delta_own": "+6%",
+      "value": "7650148",
+      "cluster_buy": false
     }
   ]
 }
