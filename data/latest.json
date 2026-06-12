@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T14:37:10Z",
-  "trade_count": 7652,
+  "last_updated": "2026-06-12T17:31:53Z",
+  "trade_count": 7657,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -120944,7 +120944,7 @@
       "owned": "24900",
       "delta_own": "+14%",
       "value": "25201",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-09",
@@ -121840,7 +121840,7 @@
       "owned": "29700",
       "delta_own": "+19%",
       "value": "41327",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-11",
@@ -122432,6 +122432,86 @@
       "owned": "58615745",
       "delta_own": "0%",
       "value": "250458",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "13:22",
+      "trade_date": "2026-06-11",
+      "ticker": "COSM",
+      "company": "Cosmos Health Inc.",
+      "insider_name": "Siokas Grigorios",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.21",
+      "qty": "218447",
+      "owned": "13481808",
+      "delta_own": "+2%",
+      "value": "45000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "13:05",
+      "trade_date": "2026-06-11",
+      "ticker": "KRNY",
+      "company": "Kearny Financial Corp.",
+      "insider_name": "Wong-Zaza Melvina",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "8.58",
+      "qty": "3500",
+      "owned": "33910",
+      "delta_own": "+12%",
+      "value": "30013",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "13:00",
+      "trade_date": "2026-06-11",
+      "ticker": "MSA",
+      "company": "Msa Safety Inc",
+      "insider_name": "Beck Julie A",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "158.69",
+      "qty": "448",
+      "owned": "3825",
+      "delta_own": "+13%",
+      "value": "71093",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "12:28",
+      "trade_date": "2026-06-12",
+      "ticker": "SMMT",
+      "company": "Summit Therapeutics Inc.",
+      "insider_name": "Duggan Robert W",
+      "title": "Co-CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "13.12",
+      "qty": "3810000",
+      "owned": "610015809",
+      "delta_own": "+1%",
+      "value": "49987200",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "10:46",
+      "trade_date": "2026-06-11",
+      "ticker": "SR",
+      "company": "Spire Inc",
+      "insider_name": "Koonce Paul D",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "78.46",
+      "qty": "500",
+      "owned": "15965",
+      "delta_own": "+3%",
+      "value": "39230",
       "cluster_buy": false
     }
   ]

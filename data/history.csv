@@ -7564,7 +7564,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-09,09:10,2026-06-05,WKSP,Worksport Ltd,Rossi Steven F.,"COB, CEO, Pres",P - Purchase,0.63,79618,2693703,+3%,50000,False
 2026-06-09,11:33,2026-06-02,LSF,"Laird Superfood, Inc.",Lamontagne Grant J,Dir,P - Purchase,3.29,59950,175244,+52%,197217,False
 2026-06-09,10:54,2026-05-18,CSAN,Cosan Ltd.,Cordes Burkhard Otto,Dir,P - Purchase,4.38,159000,2408942,+7%,696030,True
-2026-06-09,10:48,2026-06-08,KRNY,Kearny Financial Corp.,Fields Curtland E,Dir,P - Purchase,8.40,3000,24900,+14%,25201,False
+2026-06-09,10:48,2026-06-08,KRNY,Kearny Financial Corp.,Fields Curtland E,Dir,P - Purchase,8.40,3000,24900,+14%,25201,True
 2026-06-09,09:39,2026-06-05,UFCS,United Fire Group Inc,Milligan George D,Dir,P - Purchase,45.23,4500,90034,+5%,203535,False
 2026-06-09,15:00,2026-06-05,GBFH,Gbank Financial Holdings Inc.,Griege Charles William Jr.,Dir,P - Purchase,29.00,28000,486075,+6%,812000,False
 2026-06-09,13:50,2026-06-09,GRNT,"Granite Ridge Resources, Inc.",Miller Matthew Reade,Dir,P - Purchase,4.75,10600,1360813,+1%,50350,True
@@ -7620,7 +7620,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-11,06:15,2026-06-09,BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,2.68,20000,1553872,+1%,53600,True
 2026-06-11,13:44,2026-06-10,CLST,"Catalyst Bancorp, Inc.",Kleiser Kirk E.,Dir,P - Purchase,16.11,6200,53529,+13%,99893,False
 2026-06-11,11:27,2026-06-10,BRC,Brady Corp,Nargolwala Vineet A,"Pres, CEO",P - Purchase,76.86,13011,78393,+20%,1000025,False
-2026-06-11,10:55,2026-06-10,KRNY,Kearny Financial Corp.,Fields Curtland E,Dir,P - Purchase,8.61,4800,29700,+19%,41327,False
+2026-06-11,10:55,2026-06-10,KRNY,Kearny Financial Corp.,Fields Curtland E,Dir,P - Purchase,8.61,4800,29700,+19%,41327,True
 2026-06-11,17:04,2026-06-10,GUTS,"Fractyl Health, Inc.",Bradley William,Dir,P - Purchase,0.73,68493,84622,+425%,50329,True
 2026-06-11,17:04,2026-06-09,GLP,Global Partners LP,Global Gp LLC,General Partner,P - Purchase,49.81,10000,126584,+9%,498050,True
 2026-06-11,17:00,2026-06-10,GUTS,"Fractyl Health, Inc.",Sheffield Ian,Dir,P - Purchase,0.73,35000,35000,New,25529,True
@@ -7658,3 +7658,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-12,10:30,2026-06-10,MZTI,Marzetti Co,"Pigott, Thomas K.","VP, CFO, Asst. Secretary",P - Purchase,109.01,900,17779,+5%,98109,False
 2026-06-12,09:26,2026-06-10,TMCI,"Treace Medical Concepts, Inc.",Treace John T.,"CEO, 10%",P - Purchase,4.03,24606,12672568,0%,99196,False
 2026-06-12,08:27,2026-06-11,NRDY,Nerdy Inc.,Cohn Charles K.,"CEO, 10%",P - Purchase,0.97,258204,58615745,0%,250458,False
+2026-06-12,13:22,2026-06-11,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.21,218447,13481808,+2%,45000,False
+2026-06-12,13:05,2026-06-11,KRNY,Kearny Financial Corp.,Wong-Zaza Melvina,Dir,P - Purchase,8.58,3500,33910,+12%,30013,True
+2026-06-12,13:00,2026-06-11,MSA,Msa Safety Inc,Beck Julie A,CFO,P - Purchase,158.69,448,3825,+13%,71093,False
+2026-06-12,12:28,2026-06-12,SMMT,Summit Therapeutics Inc.,Duggan Robert W,"Co-CEO, 10%",P - Purchase,13.12,3810000,610015809,+1%,49987200,True
+2026-06-12,10:46,2026-06-11,SR,Spire Inc,Koonce Paul D,Dir,P - Purchase,78.46,500,15965,+3%,39230,False
