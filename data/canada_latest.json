@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T03:45:29Z",
-  "trade_count": 3261,
+  "last_updated": "2026-06-12T16:00:23Z",
+  "trade_count": 3262,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -49725,6 +49725,22 @@
       "qty": "28000",
       "price": "0.7050",
       "value": "19740",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4734775",
+      "trade_date": "2026-06-12",
+      "filing_date": "2026-06-12",
+      "company": "Tudor Gold Corp.",
+      "ticker": "TUD",
+      "insider_name": "Stoeferle, Ronald",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "21000",
+      "price": "0.8600",
+      "value": "18060",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
