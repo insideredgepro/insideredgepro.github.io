@@ -7562,7 +7562,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-09,06:04,2026-06-02,DBGI,"Digital Brands Group, Inc.",Davis John Hilburn IV,CEO,P - Purchase,0.70,70127,70128,>999%,49096,False
 2026-06-09,09:13,2026-06-05,BWFG,"Bankwell Financial Group, Inc.",Dale Eric J,Dir,P - Purchase,53.70,588,83415,+1%,31576,True
 2026-06-09,09:10,2026-06-05,WKSP,Worksport Ltd,Rossi Steven F.,"COB, CEO, Pres",P - Purchase,0.63,79618,2693703,+3%,50000,False
-2026-06-09,11:33,2026-06-02,LSF,"Laird Superfood, Inc.",Lamontagne Grant J,Dir,P - Purchase,3.29,59950,175244,+52%,197217,False
+2026-06-09,11:33,2026-06-02,LSF,"Laird Superfood, Inc.",Lamontagne Grant J,Dir,P - Purchase,3.29,59950,175244,+52%,197217,True
 2026-06-09,10:54,2026-05-18,CSAN,Cosan Ltd.,Cordes Burkhard Otto,Dir,P - Purchase,4.38,159000,2408942,+7%,696030,True
 2026-06-09,10:48,2026-06-08,KRNY,Kearny Financial Corp.,Fields Curtland E,Dir,P - Purchase,8.40,3000,24900,+14%,25201,True
 2026-06-09,09:39,2026-06-05,UFCS,United Fire Group Inc,Milligan George D,Dir,P - Purchase,45.23,4500,90034,+5%,203535,False
@@ -7683,3 +7683,9 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-12,16:05,2026-06-11,NEOV,Neovolta Inc.,Hass John A,Dir,P - Purchase,1.92,25000,101190,+33%,48000,True
 2026-06-12,16:01,2026-06-10,CTSH,Cognizant Technology Solutions Corp,Rohleder Stephen J,Dir,P - Purchase,52.00,4034,4034,New,209768,False
 2026-06-12,15:58,2026-06-10,WOK,Work Medical Technology Group Ltd,Hrt Financial LP,10%,P - Purchase,0.10,3794711,2978988,-465%,363500,False
+2026-06-12,17:59,2026-06-11,PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,8.17,125000,1193000,+12%,1021225,False
+2026-06-12,17:59,2026-06-10,LSF,"Laird Superfood, Inc.",Graves Gregory B,Dir,P - Purchase,3.45,15000,75089,+25%,51750,True
+2026-06-12,17:49,2026-06-11,PICS,Pics N.V.,Augusto Cazotto Andre,"IR, Strategy, M, A Officer",P - Purchase,9.41,49500,57700,+604%,465795,True
+2026-06-12,17:44,2026-06-12,INR,"Infinity Natural Resources, Inc.",Gray Steven D,Dir,P - Purchase,12.81,25000,107411,+30%,320175,True
+2026-06-12,17:36,2026-06-12,OXM,Oxford Industries Inc,Chubb Thomas Caldecot III,"CEO, Pres",P - Purchase,36.90,2500,171166,+1%,92250,False
+2026-06-12,17:24,2026-06-10,HTLD,Heartland Express Inc,Spalding David P,Dir,P - Purchase,15.69,2000,2000,New,31380,False

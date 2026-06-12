@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T21:25:23Z",
-  "trade_count": 7677,
+  "last_updated": "2026-06-12T23:08:26Z",
+  "trade_count": 7683,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -120912,7 +120912,7 @@
       "owned": "175244",
       "delta_own": "+52%",
       "value": "197217",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-09",
@@ -122832,6 +122832,102 @@
       "owned": "2978988",
       "delta_own": "-465%",
       "value": "363500",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "17:59",
+      "trade_date": "2026-06-11",
+      "ticker": "PRTA",
+      "company": "Prothena Corp Public Ltd Co",
+      "insider_name": "Scully William P",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "8.17",
+      "qty": "125000",
+      "owned": "1193000",
+      "delta_own": "+12%",
+      "value": "1021225",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "17:59",
+      "trade_date": "2026-06-10",
+      "ticker": "LSF",
+      "company": "Laird Superfood, Inc.",
+      "insider_name": "Graves Gregory B",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.45",
+      "qty": "15000",
+      "owned": "75089",
+      "delta_own": "+25%",
+      "value": "51750",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "17:49",
+      "trade_date": "2026-06-11",
+      "ticker": "PICS",
+      "company": "Pics N.V.",
+      "insider_name": "Augusto Cazotto Andre",
+      "title": "IR, Strategy, M, A Officer",
+      "trade_type": "P - Purchase",
+      "price": "9.41",
+      "qty": "49500",
+      "owned": "57700",
+      "delta_own": "+604%",
+      "value": "465795",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "17:44",
+      "trade_date": "2026-06-12",
+      "ticker": "INR",
+      "company": "Infinity Natural Resources, Inc.",
+      "insider_name": "Gray Steven D",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "12.81",
+      "qty": "25000",
+      "owned": "107411",
+      "delta_own": "+30%",
+      "value": "320175",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "17:36",
+      "trade_date": "2026-06-12",
+      "ticker": "OXM",
+      "company": "Oxford Industries Inc",
+      "insider_name": "Chubb Thomas Caldecot III",
+      "title": "CEO, Pres",
+      "trade_type": "P - Purchase",
+      "price": "36.90",
+      "qty": "2500",
+      "owned": "171166",
+      "delta_own": "+1%",
+      "value": "92250",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-12",
+      "filing_time": "17:24",
+      "trade_date": "2026-06-10",
+      "ticker": "HTLD",
+      "company": "Heartland Express Inc",
+      "insider_name": "Spalding David P",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "15.69",
+      "qty": "2000",
+      "owned": "2000",
+      "delta_own": "New",
+      "value": "31380",
       "cluster_buy": false
     }
   ]

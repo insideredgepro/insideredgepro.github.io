@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-12",
-  "entry_count": 1621,
+  "entry_count": 1627,
   "entries": [
     {
       "id": "US|MNR|2026-04-13|ward tom l.|13.05",
@@ -72091,6 +72091,126 @@
       },
       "latest_price": 0.0753,
       "return_pct": -24.7,
+      "last_snapshot": "2026-06-12"
+    },
+    {
+      "id": "US|PRTA|2026-06-11|scully william p|8.17",
+      "market": "US",
+      "ticker": "PRTA",
+      "yf_symbol": "PRTA",
+      "company": "Prothena Corp Public Ltd Co",
+      "insider_name": "Scully William P",
+      "title": "10%",
+      "trade_date": "2026-06-11",
+      "trade_price": 8.17,
+      "value": 1021225.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-12": 8.25
+      },
+      "latest_price": 8.25,
+      "return_pct": 0.98,
+      "last_snapshot": "2026-06-12"
+    },
+    {
+      "id": "US|LSF|2026-06-10|graves gregory b|3.45",
+      "market": "US",
+      "ticker": "LSF",
+      "yf_symbol": "LSF",
+      "company": "Laird Superfood, Inc.",
+      "insider_name": "Graves Gregory B",
+      "title": "Dir",
+      "trade_date": "2026-06-10",
+      "trade_price": 3.45,
+      "value": 51750.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-12": 3.7
+      },
+      "latest_price": 3.7,
+      "return_pct": 7.25,
+      "last_snapshot": "2026-06-12"
+    },
+    {
+      "id": "US|PICS|2026-06-11|augusto cazotto andre|9.41",
+      "market": "US",
+      "ticker": "PICS",
+      "yf_symbol": "PICS",
+      "company": "Pics N.V.",
+      "insider_name": "Augusto Cazotto Andre",
+      "title": "IR, Strategy, M, A Officer",
+      "trade_date": "2026-06-11",
+      "trade_price": 9.41,
+      "value": 465795.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-12": 10.82
+      },
+      "latest_price": 10.82,
+      "return_pct": 14.98,
+      "last_snapshot": "2026-06-12"
+    },
+    {
+      "id": "US|INR|2026-06-12|gray steven d|12.81",
+      "market": "US",
+      "ticker": "INR",
+      "yf_symbol": "INR",
+      "company": "Infinity Natural Resources, Inc.",
+      "insider_name": "Gray Steven D",
+      "title": "Dir",
+      "trade_date": "2026-06-12",
+      "trade_price": 12.81,
+      "value": 320175.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-12": 13.13
+      },
+      "latest_price": 13.13,
+      "return_pct": 2.5,
+      "last_snapshot": "2026-06-12"
+    },
+    {
+      "id": "US|OXM|2026-06-12|chubb thomas caldecot iii|36.9",
+      "market": "US",
+      "ticker": "OXM",
+      "yf_symbol": "OXM",
+      "company": "Oxford Industries Inc",
+      "insider_name": "Chubb Thomas Caldecot III",
+      "title": "CEO, Pres",
+      "trade_date": "2026-06-12",
+      "trade_price": 36.9,
+      "value": 92250.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-12": 37.24
+      },
+      "latest_price": 37.24,
+      "return_pct": 0.92,
+      "last_snapshot": "2026-06-12"
+    },
+    {
+      "id": "US|HTLD|2026-06-10|spalding david p|15.69",
+      "market": "US",
+      "ticker": "HTLD",
+      "yf_symbol": "HTLD",
+      "company": "Heartland Express Inc",
+      "insider_name": "Spalding David P",
+      "title": "Dir",
+      "trade_date": "2026-06-10",
+      "trade_price": 15.69,
+      "value": 31380.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-12": 16.11
+      },
+      "latest_price": 16.11,
+      "return_pct": 2.68,
       "last_snapshot": "2026-06-12"
     }
   ]
