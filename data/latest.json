@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-15T14:56:39Z",
-  "trade_count": 7697,
+  "last_updated": "2026-06-15T19:01:18Z",
+  "trade_count": 7700,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -123152,6 +123152,54 @@
       "owned": "17088874",
       "delta_own": "+1%",
       "value": "100000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-15",
+      "filing_time": "14:33",
+      "trade_date": "2026-06-11",
+      "ticker": "FFIN",
+      "company": "First Financial Bankshares Inc",
+      "insider_name": "Edwards Murray Hamilton",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "33.18",
+      "qty": "1000",
+      "owned": "277121",
+      "delta_own": "0%",
+      "value": "33180",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-15",
+      "filing_time": "13:29",
+      "trade_date": "2026-06-11",
+      "ticker": "VIRC",
+      "company": "Virco Mfg Corporation",
+      "insider_name": "Virtue Robert A",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "6.22",
+      "qty": "4300",
+      "owned": "506124",
+      "delta_own": "+1%",
+      "value": "26758",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-15",
+      "filing_time": "13:21",
+      "trade_date": "2026-06-12",
+      "ticker": "STEX",
+      "company": "Streamex Corp.",
+      "insider_name": "Lekstrom Morgan Lee",
+      "title": "Interim Exec COB",
+      "trade_type": "P - Purchase",
+      "price": "1.00",
+      "qty": "50000",
+      "owned": "446741",
+      "delta_own": "+13%",
+      "value": "49750",
       "cluster_buy": false
     }
   ]
