@@ -395,6 +395,153 @@
     "scraped_at": "2026-06-08T16:10:02.025205+00:00"
   },
   {
+    "id": "20003800614",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Alphabet Inc",
+    "ticker": "GOOGL:US",
+    "sector": "communication-services",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-05",
+    "trade_published": "2026-06-15",
+    "filed_after_days": "7",
+    "price": "$368.53",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-06-15T16:10:02.839899+00:00"
+  },
+  {
+    "id": "20003800615",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Amazon.com Inc",
+    "ticker": "AMZN:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-05",
+    "trade_published": "2026-06-15",
+    "filed_after_days": "7",
+    "price": "$246.03",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-06-15T16:10:02.839949+00:00"
+  },
+  {
+    "id": "20003800616",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "American Electric Power Co Inc",
+    "ticker": "AEP:US",
+    "sector": "utilities",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-05",
+    "trade_published": "2026-06-15",
+    "filed_after_days": "7",
+    "price": "$129.14",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-06-15T16:10:02.839959+00:00"
+  },
+  {
+    "id": "20003800617",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Amgen Inc",
+    "ticker": "AMGN:US",
+    "sector": "health-care",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-05",
+    "trade_published": "2026-06-15",
+    "filed_after_days": "7",
+    "price": "$349.58",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-06-15T16:10:02.839967+00:00"
+  },
+  {
+    "id": "20003800618",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "AT&T Inc",
+    "ticker": "T:US",
+    "sector": "communication-services",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-05",
+    "trade_published": "2026-06-15",
+    "filed_after_days": "7",
+    "price": "$22.75",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-06-15T16:10:02.839973+00:00"
+  },
+  {
+    "id": "20003800619",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "The Kroger Co",
+    "ticker": "KR:US",
+    "sector": "consumer-staples",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-05",
+    "trade_published": "2026-06-15",
+    "filed_after_days": "7",
+    "price": "$63.57",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-06-15T16:10:02.839978+00:00"
+  },
+  {
+    "id": "20003800620",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Lam Research Corp",
+    "ticker": "LRCX:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-05",
+    "trade_published": "2026-06-15",
+    "filed_after_days": "7",
+    "price": "$303.28",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-06-15T16:10:02.839983+00:00"
+  },
+  {
     "id": "10000065076",
     "politician_name": "James Banks",
     "party": "Republican",
@@ -434,7 +581,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Merrill Lynch SEP IRA",
-    "scraped_at": "2026-06-13T03:55:03.500302+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840034+00:00"
   },
   {
     "id": "20003799857",
@@ -455,7 +602,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Merrill Lynch SEP IRA",
-    "scraped_at": "2026-06-13T03:55:03.500307+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840039+00:00"
   },
   {
     "id": "20003799725",
@@ -1589,7 +1736,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Southeast Energy Authority A C Ser E Rev Call 7/1/30 - 5% due 10/1/30 [GS] Subholding Of: Victoria Kelly Trust ICA",
-    "scraped_at": "2026-06-13T03:55:03.500291+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840024+00:00"
   },
   {
     "id": "20003799877",
@@ -1610,7 +1757,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-06-13T03:55:03.500406+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840143+00:00"
   },
   {
     "id": "20003799853",
@@ -1736,7 +1883,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-06-13T03:55:03.500392+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840129+00:00"
   },
   {
     "id": "20003799878",
@@ -1757,7 +1904,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-06-13T03:55:03.500411+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840147+00:00"
   },
   {
     "id": "10000065111",
@@ -2450,7 +2597,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-06-13T03:55:03.500297+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840029+00:00"
   },
   {
     "id": "20003799872",
@@ -2471,7 +2618,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-06-13T03:55:03.500380+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840117+00:00"
   },
   {
     "id": "20003799842",
@@ -3143,7 +3290,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-13T03:55:03.500323+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840057+00:00"
   },
   {
     "id": "20003799757",
@@ -3458,7 +3605,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-13T03:55:03.500327+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840062+00:00"
   },
   {
     "id": "20003799733",
@@ -4487,7 +4634,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-06-13T03:55:03.500386+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840122+00:00"
   },
   {
     "id": "20003799735",
@@ -4805,6 +4952,27 @@
     "scraped_at": "2026-06-08T16:10:02.025229+00:00"
   },
   {
+    "id": "20003800611",
+    "politician_name": "Nicholas Begich III",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "AK",
+    "company": "LISTEN VENTRUES IV",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-13",
+    "trade_published": "2026-06-15",
+    "filed_after_days": "30",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-06-15T16:10:02.840001+00:00"
+  },
+  {
     "id": "20003799858",
     "politician_name": "Charles Roy",
     "party": "Republican",
@@ -4823,7 +4991,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-13T03:55:03.500313+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840044+00:00"
   },
   {
     "id": "10000065078",
@@ -5183,6 +5351,48 @@
     "scraped_at": "2026-06-08T16:10:02.025345+00:00"
   },
   {
+    "id": "20003800612",
+    "politician_name": "Julie Johnson",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Abbott Laboratories",
+    "ticker": "ABT:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-12",
+    "trade_published": "2026-06-15",
+    "filed_after_days": "31",
+    "price": "$84.35",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Merrill Lynch Tax Efficient Core",
+    "scraped_at": "2026-06-15T16:10:02.839989+00:00"
+  },
+  {
+    "id": "20003800613",
+    "politician_name": "Julie Johnson",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Accenture PLC",
+    "ticker": "ACN:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-12",
+    "trade_published": "2026-06-15",
+    "filed_after_days": "31",
+    "price": "$169.77",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Merrill Lynch Tax Efficient Core",
+    "scraped_at": "2026-06-15T16:10:02.839994+00:00"
+  },
+  {
     "id": "20003799875",
     "politician_name": "Rohit Khanna",
     "party": "Democrat",
@@ -5201,7 +5411,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-06-13T03:55:03.500396+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840133+00:00"
   },
   {
     "id": "20003799837",
@@ -5390,7 +5600,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-06-13T03:55:03.500401+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840138+00:00"
   },
   {
     "id": "20003799836",
@@ -6209,7 +6419,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Victoria Kelly Trust ICA",
-    "scraped_at": "2026-06-13T03:55:03.500272+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840012+00:00"
   },
   {
     "id": "20003800609",
@@ -6230,7 +6440,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Victoria Kelly Trust ICA",
-    "scraped_at": "2026-06-13T03:55:03.500285+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840019+00:00"
   },
   {
     "id": "20003799759",
@@ -6692,7 +6902,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Rate/Coupon: 5.5% Matures: 2036-04-15",
-    "scraped_at": "2026-06-13T03:55:03.500238+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840007+00:00"
   },
   {
     "id": "10000065077",
@@ -7931,7 +8141,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-13T03:55:03.500318+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840049+00:00"
   },
   {
     "id": "20003799862",
@@ -7952,7 +8162,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-13T03:55:03.500332+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840067+00:00"
   },
   {
     "id": "20003799863",
@@ -7973,7 +8183,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-13T03:55:03.500339+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840073+00:00"
   },
   {
     "id": "20003799864",
@@ -7994,7 +8204,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-13T03:55:03.500344+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840077+00:00"
   },
   {
     "id": "20003799865",
@@ -8015,7 +8225,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-13T03:55:03.500349+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840082+00:00"
   },
   {
     "id": "20003799866",
@@ -8036,7 +8246,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-13T03:55:03.500353+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840086+00:00"
   },
   {
     "id": "20003799867",
@@ -8057,7 +8267,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-13T03:55:03.500357+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840091+00:00"
   },
   {
     "id": "20003799868",
@@ -8078,7 +8288,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-13T03:55:03.500362+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840096+00:00"
   },
   {
     "id": "20003799869",
@@ -8099,7 +8309,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-13T03:55:03.500367+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840101+00:00"
   },
   {
     "id": "20003799870",
@@ -8120,7 +8330,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-13T03:55:03.500371+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840106+00:00"
   },
   {
     "id": "20003799871",
@@ -8141,7 +8351,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-13T03:55:03.500376+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840112+00:00"
   },
   {
     "id": "20003799879",
@@ -8162,7 +8372,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500416+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840152+00:00"
   },
   {
     "id": "20003799880",
@@ -8183,7 +8393,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500421+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840157+00:00"
   },
   {
     "id": "20003799881",
@@ -8204,7 +8414,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500425+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840163+00:00"
   },
   {
     "id": "20003799882",
@@ -8225,7 +8435,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500430+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840167+00:00"
   },
   {
     "id": "20003799883",
@@ -8246,7 +8456,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500435+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840173+00:00"
   },
   {
     "id": "20003799884",
@@ -8267,7 +8477,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500440+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840178+00:00"
   },
   {
     "id": "20003799885",
@@ -8288,7 +8498,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500446+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840183+00:00"
   },
   {
     "id": "20003799886",
@@ -8309,7 +8519,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500451+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840187+00:00"
   },
   {
     "id": "20003799887",
@@ -8330,7 +8540,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500455+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840192+00:00"
   },
   {
     "id": "20003799888",
@@ -8351,7 +8561,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500460+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840197+00:00"
   },
   {
     "id": "20003799889",
@@ -8372,7 +8582,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500464+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840203+00:00"
   },
   {
     "id": "20003799890",
@@ -8393,7 +8603,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500469+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840208+00:00"
   },
   {
     "id": "20003799891",
@@ -8414,7 +8624,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500474+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840213+00:00"
   },
   {
     "id": "20003799892",
@@ -8435,7 +8645,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500481+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840221+00:00"
   },
   {
     "id": "20003799893",
@@ -8456,7 +8666,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500487+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840227+00:00"
   },
   {
     "id": "20003799894",
@@ -8477,7 +8687,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500492+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840232+00:00"
   },
   {
     "id": "20003799895",
@@ -8498,7 +8708,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500497+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840237+00:00"
   },
   {
     "id": "20003799896",
@@ -8519,7 +8729,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500502+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840241+00:00"
   },
   {
     "id": "20003799897",
@@ -8540,7 +8750,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500507+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840246+00:00"
   },
   {
     "id": "20003799898",
@@ -8561,7 +8771,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500511+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840250+00:00"
   },
   {
     "id": "20003799899",
@@ -8582,7 +8792,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500516+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840255+00:00"
   },
   {
     "id": "20003799900",
@@ -8603,7 +8813,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500520+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840259+00:00"
   },
   {
     "id": "20003799901",
@@ -8624,7 +8834,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500524+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840264+00:00"
   },
   {
     "id": "20003799902",
@@ -8645,7 +8855,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500529+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840268+00:00"
   },
   {
     "id": "20003799903",
@@ -8666,7 +8876,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500534+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840278+00:00"
   },
   {
     "id": "20003799904",
@@ -8687,7 +8897,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500539+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840282+00:00"
   },
   {
     "id": "20003799905",
@@ -8708,7 +8918,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500544+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840287+00:00"
   },
   {
     "id": "20003799906",
@@ -8729,7 +8939,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500550+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840292+00:00"
   },
   {
     "id": "20003799907",
@@ -8750,7 +8960,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500555+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840297+00:00"
   },
   {
     "id": "20003799908",
@@ -8771,7 +8981,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500560+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840301+00:00"
   },
   {
     "id": "20003799909",
@@ -8792,7 +9002,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500564+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840306+00:00"
   },
   {
     "id": "20003799910",
@@ -8813,7 +9023,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500569+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840311+00:00"
   },
   {
     "id": "20003799911",
@@ -8834,7 +9044,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500574+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840315+00:00"
   },
   {
     "id": "20003799912",
@@ -8855,7 +9065,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500578+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840320+00:00"
   },
   {
     "id": "20003799913",
@@ -8876,7 +9086,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500584+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840328+00:00"
   },
   {
     "id": "20003799914",
@@ -8897,7 +9107,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500588+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840333+00:00"
   },
   {
     "id": "20003799915",
@@ -8918,7 +9128,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500593+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840337+00:00"
   },
   {
     "id": "20003799916",
@@ -8939,7 +9149,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500598+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840342+00:00"
   },
   {
     "id": "20003799917",
@@ -8960,7 +9170,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500604+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840348+00:00"
   },
   {
     "id": "20003799918",
@@ -8981,7 +9191,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500609+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840353+00:00"
   },
   {
     "id": "20003799919",
@@ -9002,7 +9212,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500614+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840358+00:00"
   },
   {
     "id": "20003799920",
@@ -9023,7 +9233,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500618+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840363+00:00"
   },
   {
     "id": "20003799921",
@@ -9044,7 +9254,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500624+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840367+00:00"
   },
   {
     "id": "20003799922",
@@ -9065,7 +9275,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500629+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840372+00:00"
   },
   {
     "id": "20003799923",
@@ -9086,7 +9296,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500634+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840378+00:00"
   },
   {
     "id": "20003799924",
@@ -9107,7 +9317,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500639+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840384+00:00"
   },
   {
     "id": "20003799925",
@@ -9128,7 +9338,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500644+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840389+00:00"
   },
   {
     "id": "20003799926",
@@ -9149,7 +9359,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500649+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840394+00:00"
   },
   {
     "id": "20003799927",
@@ -9170,7 +9380,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500654+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840398+00:00"
   },
   {
     "id": "20003799928",
@@ -9191,7 +9401,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500660+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840403+00:00"
   },
   {
     "id": "20003799929",
@@ -9212,7 +9422,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500664+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840408+00:00"
   },
   {
     "id": "20003799930",
@@ -9233,7 +9443,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500669+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840412+00:00"
   },
   {
     "id": "20003799931",
@@ -9254,7 +9464,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500674+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840418+00:00"
   },
   {
     "id": "20003799932",
@@ -9275,7 +9485,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500678+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840423+00:00"
   },
   {
     "id": "20003799933",
@@ -9296,7 +9506,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500684+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840429+00:00"
   },
   {
     "id": "20003799934",
@@ -9317,7 +9527,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500688+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840434+00:00"
   },
   {
     "id": "20003799935",
@@ -9338,7 +9548,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500694+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840440+00:00"
   },
   {
     "id": "20003799936",
@@ -9359,7 +9569,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-13T03:55:03.500699+00:00"
+    "scraped_at": "2026-06-15T16:10:02.840445+00:00"
   },
   {
     "id": "20003799937",
@@ -45230,195 +45440,6 @@
     "scraped_at": "2026-04-18T23:43:46.503540+00:00"
   },
   {
-    "id": "10000064735",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "NOT FADE AWAY LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-04",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "9",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878713+00:00"
-  },
-  {
-    "id": "10000064742",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "NOT FADE AWAY LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-04",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "9",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878744+00:00"
-  },
-  {
-    "id": "10000064749",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "NOT FADE AWAY LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-04",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "9",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878777+00:00"
-  },
-  {
-    "id": "10000064755",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "NOT FADE AWAY LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-04",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "9",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503801+00:00"
-  },
-  {
-    "id": "10000064760",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "NOT FADE AWAY LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-04",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "9",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503827+00:00"
-  },
-  {
-    "id": "10000064767",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "ELCM2 LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-04",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "9",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503862+00:00"
-  },
-  {
-    "id": "10000064773",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "NOT FADE AWAY LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-04",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "9",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503899+00:00"
-  },
-  {
-    "id": "10000064782",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "ELCM2 LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-04",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "9",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503951+00:00"
-  },
-  {
-    "id": "10000064783",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "NOT FADE AWAY LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-04",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "9",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503956+00:00"
-  },
-  {
     "id": "20003797382",
     "politician_name": "Sheri Biggs",
     "party": "Republican",
@@ -46427,132 +46448,6 @@
     "scraped_at": "2026-03-29T22:04:19.475072+00:00"
   },
   {
-    "id": "10000064764",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "ELCM2 LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-03",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "10",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503847+00:00"
-  },
-  {
-    "id": "10000064765",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "ELCM2 LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-03",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "10",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503852+00:00"
-  },
-  {
-    "id": "10000064766",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH FOUR WINDS LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-03",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "10",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503857+00:00"
-  },
-  {
-    "id": "10000064779",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "ELCM2 LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-03",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "10",
-    "price": "N/A",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503935+00:00"
-  },
-  {
-    "id": "10000064780",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "ELCM2 LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-03",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "10",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503941+00:00"
-  },
-  {
-    "id": "10000064781",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH FOUR WINDS LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-03",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "10",
-    "price": "N/A",
-    "value": 175000,
-    "amount": "$100K\u2013$250K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503946+00:00"
-  },
-  {
     "id": "20003797258",
     "politician_name": "Michael McCaul",
     "party": "Republican",
@@ -46845,174 +46740,6 @@
     "owner": "Child",
     "comment": "",
     "scraped_at": "2026-04-18T23:43:40.595599+00:00"
-  },
-  {
-    "id": "10000064729",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH FOUR WINDS LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "11",
-    "price": "N/A",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878688+00:00"
-  },
-  {
-    "id": "10000064734",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH FOUR WINDS LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "11",
-    "price": "N/A",
-    "value": 175000,
-    "amount": "$100K\u2013$250K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878707+00:00"
-  },
-  {
-    "id": "10000064741",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH FOUR WINDS LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "11",
-    "price": "N/A",
-    "value": 750000,
-    "amount": "$500K\u2013$1M",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878740+00:00"
-  },
-  {
-    "id": "10000064748",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH FOUR WINDS LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "11",
-    "price": "N/A",
-    "value": 750000,
-    "amount": "$500K\u2013$1M",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878773+00:00"
-  },
-  {
-    "id": "10000064754",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH FOUR WINDS LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "11",
-    "price": "N/A",
-    "value": 175000,
-    "amount": "$100K\u2013$250K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503796+00:00"
-  },
-  {
-    "id": "10000064763",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "ELCM2 LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "11",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503842+00:00"
-  },
-  {
-    "id": "10000064772",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH FOUR WINDS LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "11",
-    "price": "N/A",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503893+00:00"
-  },
-  {
-    "id": "10000064778",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "ELCM2 LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-02",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "11",
-    "price": "N/A",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503930+00:00"
   },
   {
     "id": "10000064784",
@@ -47496,195 +47223,6 @@
     "owner": "Joint",
     "comment": "",
     "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
-    "id": "10000064728",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-23",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "18",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878685+00:00"
-  },
-  {
-    "id": "10000064733",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-23",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "18",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878704+00:00"
-  },
-  {
-    "id": "10000064740",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-23",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "18",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878734+00:00"
-  },
-  {
-    "id": "10000064747",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-23",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "18",
-    "price": "N/A",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878765+00:00"
-  },
-  {
-    "id": "10000064753",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-23",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "18",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503790+00:00"
-  },
-  {
-    "id": "10000064759",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-23",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "18",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503822+00:00"
-  },
-  {
-    "id": "10000064762",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-23",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "18",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503837+00:00"
-  },
-  {
-    "id": "10000064771",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-23",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "18",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503888+00:00"
-  },
-  {
-    "id": "10000064777",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-23",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "18",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503922+00:00"
   },
   {
     "id": "10000064806",
@@ -48275,69 +47813,6 @@
     "scraped_at": "2026-03-29T22:04:19.476076+00:00"
   },
   {
-    "id": "20003795582",
-    "politician_name": "Jefferson Shreve",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "IN",
-    "company": "PRUDENTIAL RILA",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-17",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "25",
-    "price": "N/A",
-    "value": 3000000,
-    "amount": "$1M\u2013$5M",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Registered Index Linked Annuity (RILA) Description: Buffered Indexed Annuity Exchange",
-    "scraped_at": "2026-04-18T23:43:50.503979+00:00"
-  },
-  {
-    "id": "20003795583",
-    "politician_name": "Jefferson Shreve",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "IN",
-    "company": "PRUDENTIAL RILA",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-17",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "25",
-    "price": "N/A",
-    "value": 3000000,
-    "amount": "$1M\u2013$5M",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Registered Index Linked Annuity (RILA) Description: Buffered Indexed Annuity Exchange",
-    "scraped_at": "2026-04-18T23:43:50.503984+00:00"
-  },
-  {
-    "id": "20003795584",
-    "politician_name": "Jefferson Shreve",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "IN",
-    "company": "PRUDENTIAL RILA",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-17",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "25",
-    "price": "N/A",
-    "value": 3000000,
-    "amount": "$1M\u2013$5M",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Registered Index Linked Annuity (RILA)",
-    "scraped_at": "2026-04-18T23:43:50.503989+00:00"
-  },
-  {
     "id": "20003795756",
     "politician_name": "Sheri Biggs",
     "party": "Republican",
@@ -48590,216 +48065,6 @@
     "scraped_at": "2026-03-29T22:04:19.476076+00:00"
   },
   {
-    "id": "20003795578",
-    "politician_name": "Edward Case",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "HI",
-    "company": "Apple Inc",
-    "ticker": "AAPL:US",
-    "sector": "information-technology",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-12",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "30",
-    "price": "$261.73",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "Description: Automatic stock dividend reinvestment.",
-    "scraped_at": "2026-04-18T23:43:50.503995+00:00"
-  },
-  {
-    "id": "10000064727",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-11",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "30",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878675+00:00"
-  },
-  {
-    "id": "10000064732",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-11",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "30",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878699+00:00"
-  },
-  {
-    "id": "10000064739",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-11",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "30",
-    "price": "N/A",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878730+00:00"
-  },
-  {
-    "id": "10000064746",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-11",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "30",
-    "price": "N/A",
-    "value": 175000,
-    "amount": "$100K\u2013$250K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878761+00:00"
-  },
-  {
-    "id": "10000064752",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-11",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "30",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503784+00:00"
-  },
-  {
-    "id": "10000064758",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-11",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "30",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503816+00:00"
-  },
-  {
-    "id": "10000064761",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-11",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "30",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503832+00:00"
-  },
-  {
-    "id": "10000064770",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-11",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "30",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503883+00:00"
-  },
-  {
-    "id": "10000064776",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-11",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "30",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503916+00:00"
-  },
-  {
     "id": "20003798401",
     "politician_name": "Timothy Walberg",
     "party": "Republican",
@@ -48903,216 +48168,6 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Roth IRA",
     "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
-    "id": "10000064726",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "NOT FADE AWAY LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-09",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "32",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878671+00:00"
-  },
-  {
-    "id": "10000064731",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "NOT FADE AWAY LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-09",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "32",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878696+00:00"
-  },
-  {
-    "id": "10000064738",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "NOT FADE AWAY LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-09",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "32",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878727+00:00"
-  },
-  {
-    "id": "10000064745",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "NOT FADE AWAY LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-09",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "32",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878755+00:00"
-  },
-  {
-    "id": "10000064751",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "NOT FADE AWAY LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-09",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "32",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878784+00:00"
-  },
-  {
-    "id": "10000064757",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "NOT FADE AWAY LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-09",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "32",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503811+00:00"
-  },
-  {
-    "id": "10000064769",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "NOT FADE AWAY LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-09",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "32",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503872+00:00"
-  },
-  {
-    "id": "10000064775",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "NOT FADE AWAY LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-09",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "32",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503909+00:00"
-  },
-  {
-    "id": "20003795580",
-    "politician_name": "Jefferson Shreve",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "IN",
-    "company": "BRIGHTHOUSE BUFFERED ANNUITY",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-09",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "33",
-    "price": "N/A",
-    "value": 15000000,
-    "amount": "$5M\u2013$25M",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Registered Index Linked Annuity (RILA) Description: Buffered Indexed Annuity Exchange",
-    "scraped_at": "2026-04-18T23:43:50.503968+00:00"
-  },
-  {
-    "id": "20003795581",
-    "politician_name": "Jefferson Shreve",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "IN",
-    "company": "BRIGHTHOUSE BUFFERED ANNUITY",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-09",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "33",
-    "price": "N/A",
-    "value": 15000000,
-    "amount": "$5M\u2013$25M",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Registered Index Linked Annuity (RILA) Description: Buffered Indexed Annuity Exchange",
-    "scraped_at": "2026-04-18T23:43:50.503974+00:00"
   },
   {
     "id": "20003795754",
@@ -49239,216 +48294,6 @@
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
     "scraped_at": "2026-03-24T01:37:02.878642+00:00"
-  },
-  {
-    "id": "10000064725",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-05",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "36",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878665+00:00"
-  },
-  {
-    "id": "10000064730",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-05",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "36",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878692+00:00"
-  },
-  {
-    "id": "10000064736",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-05",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "36",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878719+00:00"
-  },
-  {
-    "id": "10000064737",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-05",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "36",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878723+00:00"
-  },
-  {
-    "id": "10000064743",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-05",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "36",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878747+00:00"
-  },
-  {
-    "id": "10000064744",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-05",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "36",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878752+00:00"
-  },
-  {
-    "id": "10000064750",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-05",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "36",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-03-24T01:37:02.878781+00:00"
-  },
-  {
-    "id": "10000064756",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-05",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "36",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503806+00:00"
-  },
-  {
-    "id": "10000064768",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-05",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "36",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503867+00:00"
-  },
-  {
-    "id": "10000064774",
-    "politician_name": "Richard Blumenthal",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "CT",
-    "company": "MH BUILT TO LAST LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-05",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "36",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:50.503904+00:00"
   },
   {
     "id": "20003795750",
@@ -50793,27 +49638,6 @@
     "owner": "Spouse",
     "comment": "Description: Automatic dividend reinvestment.",
     "scraped_at": "2026-04-18T23:43:46.503551+00:00"
-  },
-  {
-    "id": "20003795579",
-    "politician_name": "Pramila Jayapal",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "WA",
-    "company": "Newell Brands Inc",
-    "ticker": "NWL:US",
-    "sector": "consumer-discretionary",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2023-10-31",
-    "trade_published": "2026-03-16",
-    "filed_after_days": "866",
-    "price": "$6.72",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Personal Account Description: All Shares sold",
-    "scraped_at": "2026-04-18T23:43:50.503962+00:00"
   },
   {
     "politician_name": "Steve Cohen",
