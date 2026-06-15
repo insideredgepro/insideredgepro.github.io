@@ -7480,7 +7480,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-05,11:20,2026-06-03,VMAR,Vision Marine Technologies Inc.,Hrt Financial LP,10%,P - Purchase,0.43,124448,106323,-687%,53886,False
 2026-06-05,11:12,2026-06-03,DXST,Decent Holding Inc.,Hrt Financial LP,10%,P - Purchase,4.71,65073,59694,-1210%,306754,False
 2026-06-05,10:52,2026-06-03,AXIA,Axia Energia S.A.,Batista De Lima Filho Pedro,Dir,P - Purchase,10.60,45000,4783192,+1%,477000,False
-2026-06-05,10:52,2026-06-05,NHI,National Health Investors Inc,Mendelsohn D. Eric,"CEO, Pres",P - Purchase,68.84,1500,133316,+1%,103260,False
+2026-06-05,10:52,2026-06-05,NHI,National Health Investors Inc,Mendelsohn D. Eric,"CEO, Pres",P - Purchase,68.84,1500,133316,+1%,103260,True
 2026-06-05,10:43,2026-06-03,HUBC,Hub Cyber Security Ltd.,Hrt Financial LP,10%,P - Purchase,0.66,904252,254129,-139%,594094,False
 2026-06-05,14:15,2026-06-03,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10%,P - Purchase,18.44,35686,7235686,0%,658146,False
 2026-06-05,13:50,2026-06-03,JMSB,"John Marshall Bancorp, Inc.",Kinney Jonathan Craig,Dir,P - Purchase,21.03,2300,613194,0%,48369,False
@@ -7629,7 +7629,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-11,16:50,2026-06-09,BKKT,"Bakkt, Inc.",Alfred Michael,Dir,P - Purchase,7.75,280000,933476,+43%,2170800,False
 2026-06-11,16:45,2026-06-09,EU,Encore Energy Corp.,Little Richard H,CEO,P - Purchase,1.28,50000,50000,New,64000,False
 2026-06-11,16:43,2026-06-10,SGHT,"Sight Sciences, Inc.",Encrantz Staffan,"Dir, 10%",P - Purchase,4.88,14100,7153659,0%,68794,False
-2026-06-11,16:30,2026-06-10,ECL,Ecolab Inc.,Doukeris Michel D,Dir,P - Purchase,258.00,7750,8326,>999%,1999500,False
+2026-06-11,16:30,2026-06-10,ECL,Ecolab Inc.,Doukeris Michel D,Dir,P - Purchase,258.00,7750,8326,>999%,1999500,True
 2026-06-11,16:27,2026-06-11,OUT,Outfront Media Inc.,Norton James Michael,"EVP, CRO, Enterprise",P - Purchase,30.81,4130,4130,New,127245,False
 2026-06-11,16:14,2026-06-11,YEXT,"Yext, Inc.",Waugh Seth H.,Dir,P - Purchase,3.75,133000,319411,+71%,498218,False
 2026-06-11,16:05,2026-06-09,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,5.98,30728,2734889,+1%,183692,False
@@ -7706,3 +7706,31 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-15,14:33,2026-06-11,FFIN,First Financial Bankshares Inc,Edwards Murray Hamilton,Dir,P - Purchase,33.18,1000,277121,0%,33180,False
 2026-06-15,13:29,2026-06-11,VIRC,Virco Mfg Corporation,Virtue Robert A,CEO,P - Purchase,6.22,4300,506124,+1%,26758,False
 2026-06-15,13:21,2026-06-12,STEX,Streamex Corp.,Lekstrom Morgan Lee,Interim Exec COB,P - Purchase,1.00,50000,446741,+13%,49750,False
+2026-06-15,17:40,2026-06-12,LOGC,Contextlogic Holdings Inc.,Stewart Scott Matthew,"CFO, COO",P - Purchase,9.76,10000,60000,+20%,97600,True
+2026-06-15,17:37,2026-06-11,CRVO,Cervomed Inc.,Boger Joshua S,"Dir, 10%",P - Purchase,3.14,955414,2012682,+90%,3000000,False
+2026-06-15,17:27,2026-06-11,PBLS,"Parabilis Medicines, Inc.",Sebulsky Alan,Dir,P - Purchase,20.00,12500,12500,New,250000,False
+2026-06-15,17:25,2026-06-11,PTHS,Pelthos Therapeutics Inc.,Davis Todd C,Dir,P - Purchase,27.82,35948,1575834,+2%,999983,False
+2026-06-15,17:21,2026-06-15,NHI,National Health Investors Inc,McCabe Robert A Jr,Dir,P - Purchase,71.65,890,44159,+2%,63767,True
+2026-06-15,17:12,2026-06-11,CRVS,"Corvus Pharmaceuticals, Inc.",Moore David Scott,Dir,P - Purchase,11.53,21700,21700,New,250236,False
+2026-06-15,17:11,2026-06-11,AVGO,Broadcom Inc.,You Harry L.,Dir,P - Purchase,373.57,1000,38466,+3%,373570,False
+2026-06-15,17:06,2026-06-12,XRAY,Dentsply Sirona Inc.,McKeon Brian P,Dir,P - Purchase,10.12,10000,38887,+35%,101200,True
+2026-06-15,17:05,2026-06-15,XRAY,Dentsply Sirona Inc.,Gladden Brian T,Dir,P - Purchase,10.02,9985,61849,+19%,100000,True
+2026-06-15,17:01,2026-06-11,XRAY,Dentsply Sirona Inc.,Holden Betsy D,Dir,P - Purchase,9.88,10086,87528,+13%,99692,True
+2026-06-15,17:01,2026-06-12,AVO,"Mission Produce, Inc.",Taylor Bruce C.,Dir,P - Purchase,11.16,165842,6091540,+3%,1850597,True
+2026-06-15,16:59,2026-06-11,XRAY,Dentsply Sirona Inc.,Barber Michael J,Dir,P - Purchase,9.89,15175,55943,+37%,150005,True
+2026-06-15,16:58,2026-06-15,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,24.21,10000,13549443,0%,242100,False
+2026-06-15,16:45,2026-06-11,AVO,"Mission Produce, Inc.",Pack Jay A,Dir,P - Purchase,11.03,37450,1702847,+2%,413195,True
+2026-06-15,16:41,2026-06-12,EXE,Expand Energy Corp,Wichterich Michael,"Interim Pres, CEO",P - Purchase,88.90,1000,85498,+1%,88900,True
+2026-06-15,16:41,2026-06-12,GVA,Granite Construction Inc,Romer John Timothy,Dir,P - Purchase,142.72,750,2801,+37%,107040,False
+2026-06-15,16:39,2026-06-12,GGB,Gerdau S.A.,Da Cunha Gustavo Werneck,"CEO, Board Member",P - Purchase,4.73,165224,165224,New,781510,False
+2026-06-15,16:36,2026-06-12,PEB,Pebblebrook Hotel Trust,Bortz Jon E,"COB, CEO",P - Purchase,18.18,20000,1875110,+1%,363600,False
+2026-06-15,16:34,2026-06-11,KRMD,"Koru Medical Systems, Inc.",Kalbermatten Adam R,Pres-Chief Commercial Off,P - Purchase,3.94,12500,617500,+2%,49275,False
+2026-06-15,16:32,2026-06-11,RYAN,"Ryan Specialty Holdings, Inc.",Kuczinski Anthony J,Dir,P - Purchase,34.99,3000,13072,+30%,104960,True
+2026-06-15,16:30,2026-06-11,ECL,Ecolab Inc.,Clark Benjamin M.,EVP - Global Supply Chain,P - Purchase,263.83,1000,1083,>999%,263831,True
+2026-06-15,16:30,2026-06-11,NDAQ,"Nasdaq, Inc.",Investor Ab,10%,P - Purchase,85.98,56782,58439208,0%,4882116,False
+2026-06-15,16:15,2026-06-11,HLNE,Hamilton Lane Inc,Rogers Hartley R.,"Exec Co-COB, 10%",P - Purchase,78.49,38290,6660144,+1%,3005339,True
+2026-06-15,16:14,2026-06-11,HLNE,Hamilton Lane Inc,Kramer Andrea Anigati,"COO, 10%",P - Purchase,77.46,1283,223320,+1%,99381,True
+2026-06-15,16:13,2026-06-11,HLNE,Hamilton Lane Inc,Berkman David J,Dir,P - Purchase,76.27,15000,50000,+43%,1144050,True
+2026-06-15,16:07,2026-06-12,PAR,Par Technology Corp,Pascal Keith,Dir,P - Purchase,15.16,13000,41749,+45%,197080,False
+2026-06-15,16:05,2026-06-11,INR,"Infinity Natural Resources, Inc.",Quinn William J,"Dir, 10%",P - Purchase,13.20,11497,28960732,0%,151750,True
+2026-06-15,15:28,2025-12-31,GIPL,Global Innovative Platforms Inc.,Brown Andrew Nicholas,"CEO, CFO, 10%",P - Purchase,0.06,500000,1081055,+86%,30500,False
