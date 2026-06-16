@@ -7627,7 +7627,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-11,17:00,2026-06-09,STTK,"Shattuck Labs, Inc.",Siegall Clay B,Dir,P - Purchase,4.00,62500,318608,+24%,250000,False
 2026-06-11,16:52,2026-06-10,TMCI,"Treace Medical Concepts, Inc.",Treace John T.,"CEO, 10%",P - Purchase,4.03,52317,12700279,0%,210968,False
 2026-06-11,16:50,2026-06-09,BKKT,"Bakkt, Inc.",Alfred Michael,Dir,P - Purchase,7.75,280000,933476,+43%,2170800,False
-2026-06-11,16:45,2026-06-09,EU,Encore Energy Corp.,Little Richard H,CEO,P - Purchase,1.28,50000,50000,New,64000,False
+2026-06-11,16:45,2026-06-09,EU,Encore Energy Corp.,Little Richard H,CEO,P - Purchase,1.28,50000,50000,New,64000,True
 2026-06-11,16:43,2026-06-10,SGHT,"Sight Sciences, Inc.",Encrantz Staffan,"Dir, 10%",P - Purchase,4.88,14100,7153659,0%,68794,False
 2026-06-11,16:30,2026-06-10,ECL,Ecolab Inc.,Doukeris Michel D,Dir,P - Purchase,258.00,7750,8326,>999%,1999500,True
 2026-06-11,16:27,2026-06-11,OUT,Outfront Media Inc.,Norton James Michael,"EVP, CRO, Enterprise",P - Purchase,30.81,4130,4130,New,127245,False
@@ -7708,7 +7708,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-15,13:21,2026-06-12,STEX,Streamex Corp.,Lekstrom Morgan Lee,Interim Exec COB,P - Purchase,1.00,50000,446741,+13%,49750,False
 2026-06-15,17:40,2026-06-12,LOGC,Contextlogic Holdings Inc.,Stewart Scott Matthew,"CFO, COO",P - Purchase,9.76,10000,60000,+20%,97600,True
 2026-06-15,17:37,2026-06-11,CRVO,Cervomed Inc.,Boger Joshua S,"Dir, 10%",P - Purchase,3.14,955414,2012682,+90%,3000000,False
-2026-06-15,17:27,2026-06-11,PBLS,"Parabilis Medicines, Inc.",Sebulsky Alan,Dir,P - Purchase,20.00,12500,12500,New,250000,False
+2026-06-15,17:27,2026-06-11,PBLS,"Parabilis Medicines, Inc.",Sebulsky Alan,Dir,P - Purchase,20.00,12500,12500,New,250000,True
 2026-06-15,17:25,2026-06-11,PTHS,Pelthos Therapeutics Inc.,Davis Todd C,Dir,P - Purchase,27.82,35948,1575834,+2%,999983,False
 2026-06-15,17:21,2026-06-15,NHI,National Health Investors Inc,McCabe Robert A Jr,Dir,P - Purchase,71.65,890,44159,+2%,63767,True
 2026-06-15,17:12,2026-06-11,CRVS,"Corvus Pharmaceuticals, Inc.",Moore David Scott,Dir,P - Purchase,11.53,21700,21700,New,250236,False
@@ -7734,3 +7734,13 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-15,16:07,2026-06-12,PAR,Par Technology Corp,Pascal Keith,Dir,P - Purchase,15.16,13000,41749,+45%,197080,False
 2026-06-15,16:05,2026-06-11,INR,"Infinity Natural Resources, Inc.",Quinn William J,"Dir, 10%",P - Purchase,13.20,11497,28960732,0%,151750,True
 2026-06-15,15:28,2025-12-31,GIPL,Global Innovative Platforms Inc.,Brown Andrew Nicholas,"CEO, CFO, 10%",P - Purchase,0.06,500000,1081055,+86%,30500,False
+2026-06-15,20:10,2026-06-11,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,5.96,7685,2742574,0%,45773,False
+2026-06-15,19:53,2026-06-11,LODE,Comstock Inc.,Pei Steven Yu-Tsung,Dir,P - Purchase,4.10,250000,1868323,+15%,1024225,True
+2026-06-15,19:30,2026-06-12,ENPH,"Enphase Energy, Inc.",Trivedi Shanker,Dir,P - Purchase,53.91,1000,5551,+22%,53910,False
+2026-06-15,18:57,2026-06-11,PBLS,"Parabilis Medicines, Inc.","Ra Capital Management, L.P.","Dir, 10%",P - Purchase,20.00,21188750,2648278,-114%,423775000,True
+2026-06-15,18:41,2026-06-15,ADSK,"Autodesk, Inc.",Moorjani Janesh,"EVP, CFO",P - Purchase,197.67,2500,50993,+5%,494175,False
+2026-06-15,18:38,2026-06-11,FDP,Del Monte Corp,Abu-Ghazaleh Ahmad,Dir,P - Purchase,29.41,4000,97177,+4%,117620,False
+2026-06-15,18:26,2026-06-11,MELI,Mercadolibre Inc,Melamud Marcelo,SVP - Chief Accounting Officer,P - Purchase,1604.62,125,237,+111%,200000,False
+2026-06-15,18:24,2026-06-12,CTSO,Cytosorbents Corp,Chan Phillip P.,CEO,P - Purchase,0.40,261469,1744432,+18%,104898,False
+2026-06-15,18:17,2026-06-11,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.","Dir, 10%",P - Purchase,1.72,1156928,18823657,+7%,1991366,False
+2026-06-15,18:15,2026-06-11,EU,Encore Energy Corp.,Pelizza Mark S,Dir,P - Purchase,1.37,99905,681570,+17%,136884,True
