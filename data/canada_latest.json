@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T03:45:22Z",
-  "trade_count": 3281,
+  "last_updated": "2026-06-16T16:00:20Z",
+  "trade_count": 3283,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -50048,6 +50048,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4735902",
+      "trade_date": "2026-06-16",
+      "filing_date": "2026-06-16",
+      "company": "VALKEA RESOURCES CORP.",
+      "ticker": "OZ",
+      "insider_name": "Credland, Thomas",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "1000000",
+      "price": "0.4000",
+      "value": "400000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4736034",
+      "trade_date": "2026-06-16",
+      "filing_date": "2026-06-16",
+      "company": "West Point Gold Corp.",
+      "ticker": "WPG",
+      "insider_name": "Nest, Conrad",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "16000",
+      "price": "1.2500",
+      "value": "20000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
