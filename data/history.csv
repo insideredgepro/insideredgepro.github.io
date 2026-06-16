@@ -7702,7 +7702,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-15,06:21,2026-06-11,BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,2.70,20000,1573872,+1%,53900,True
 2026-06-15,06:19,2026-06-11,BZUN,Baozun Inc.,Wu Junhua,Chief Strategy Officer,P - Purchase,2.69,18000,206270,+10%,48420,True
 2026-06-15,06:15,2026-05-13,GDTC,Cytomed Therapeutics Ltd,Choo Chee Kong,"Dir, 10%",P - Purchase,1.15,112000,430324,+35%,128778,False
-2026-06-15,06:09,2026-06-12,ONMD,Onemednet Corp,Kosasa Thomas,"Dir, 10%",P - Purchase,0.63,158730,17088874,+1%,100000,False
+2026-06-15,06:09,2026-06-12,ONMD,Onemednet Corp,Kosasa Thomas,"Dir, 10%",P - Purchase,0.63,158730,17088874,+1%,100000,True
 2026-06-15,14:33,2026-06-11,FFIN,First Financial Bankshares Inc,Edwards Murray Hamilton,Dir,P - Purchase,33.18,1000,277121,0%,33180,False
 2026-06-15,13:29,2026-06-11,VIRC,Virco Mfg Corporation,Virtue Robert A,CEO,P - Purchase,6.22,4300,506124,+1%,26758,False
 2026-06-15,13:21,2026-06-12,STEX,Streamex Corp.,Lekstrom Morgan Lee,Interim Exec COB,P - Purchase,1.00,50000,446741,+13%,49750,False
@@ -7741,10 +7741,13 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-15,18:41,2026-06-15,ADSK,"Autodesk, Inc.",Moorjani Janesh,"EVP, CFO",P - Purchase,197.67,2500,50993,+5%,494175,False
 2026-06-15,18:38,2026-06-11,FDP,Del Monte Corp,Abu-Ghazaleh Ahmad,Dir,P - Purchase,29.41,4000,97177,+4%,117620,False
 2026-06-15,18:26,2026-06-11,MELI,Mercadolibre Inc,Melamud Marcelo,SVP - Chief Accounting Officer,P - Purchase,1604.62,125,237,+111%,200000,False
-2026-06-15,18:24,2026-06-12,CTSO,Cytosorbents Corp,Chan Phillip P.,CEO,P - Purchase,0.40,261469,1744432,+18%,104898,False
+2026-06-15,18:24,2026-06-12,CTSO,Cytosorbents Corp,Chan Phillip P.,CEO,P - Purchase,0.40,261469,1744432,+18%,104898,True
 2026-06-15,18:17,2026-06-11,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.","Dir, 10%",P - Purchase,1.72,1156928,18823657,+7%,1991366,False
 2026-06-15,18:15,2026-06-11,EU,Encore Energy Corp.,Pelizza Mark S,Dir,P - Purchase,1.37,99905,681570,+17%,136884,True
 2026-06-15,21:30,2026-06-12,FLD,"Fold Holdings, Inc.",Kirkwood Jonathan,"Dir, 10%",P - Purchase,0.61,105000,3873394,+3%,64365,False
 2026-06-15,21:05,2026-06-11,BGDE,"Big Digital Energy, Inc.","Endeavor Blockchain, LLC",10%,P - Purchase,7.15,69670,1558000,+5%,498295,False
 2026-06-15,21:00,2026-06-11,ENOV,Enovis Corp,Engert Oliver,Chief Administrative Officer,P - Purchase,21.62,1200,51840,+2%,25948,False
 2026-06-15,20:23,2026-06-11,PAR,Par Technology Corp,"Voss Capital, LP",10%,P - Purchase,14.46,350000,6200000,+6%,5060760,True
+2026-06-16,07:00,2026-06-15,CTSO,Cytosorbents Corp,Mariani Peter J,CFO,P - Purchase,0.44,100000,638113,+19%,44000,True
+2026-06-16,06:06,2026-06-15,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Yuan Lipen,VP,P - Purchase,75.26,1000,6828,+17%,75260,False
+2026-06-16,06:04,2026-06-12,ONMD,Onemednet Corp,Green Aaron,CEO,P - Purchase,0.55,55622,1859725,+3%,30697,True

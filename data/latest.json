@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T06:25:35Z",
-  "trade_count": 7742,
+  "last_updated": "2026-06-16T12:04:46Z",
+  "trade_count": 7745,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -123152,7 +123152,7 @@
       "owned": "17088874",
       "delta_own": "+1%",
       "value": "100000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-15",
@@ -123776,7 +123776,7 @@
       "owned": "1744432",
       "delta_own": "+18%",
       "value": "104898",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-15",
@@ -123872,6 +123872,54 @@
       "owned": "6200000",
       "delta_own": "+6%",
       "value": "5060760",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-16",
+      "filing_time": "07:00",
+      "trade_date": "2026-06-15",
+      "ticker": "CTSO",
+      "company": "Cytosorbents Corp",
+      "insider_name": "Mariani Peter J",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "0.44",
+      "qty": "100000",
+      "owned": "638113",
+      "delta_own": "+19%",
+      "value": "44000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-16",
+      "filing_time": "06:06",
+      "trade_date": "2026-06-15",
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider_name": "Yuan Lipen",
+      "title": "VP",
+      "trade_type": "P - Purchase",
+      "price": "75.26",
+      "qty": "1000",
+      "owned": "6828",
+      "delta_own": "+17%",
+      "value": "75260",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-16",
+      "filing_time": "06:04",
+      "trade_date": "2026-06-12",
+      "ticker": "ONMD",
+      "company": "Onemednet Corp",
+      "insider_name": "Green Aaron",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.55",
+      "qty": "55622",
+      "owned": "1859725",
+      "delta_own": "+3%",
+      "value": "30697",
       "cluster_buy": true
     }
   ]

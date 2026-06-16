@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-16",
-  "entry_count": 1607,
+  "entry_count": 1610,
   "entries": [
     {
       "id": "US|AIRS|2026-04-17|chernett jorey|2.54",
@@ -67051,8 +67051,8 @@
         "2026-06-15": 0.325,
         "2026-06-16": 0.272
       },
-      "latest_price": 0.272,
-      "return_pct": -36.74,
+      "latest_price": 0.325,
+      "return_pct": -24.42,
       "last_snapshot": "2026-06-16"
     },
     {
@@ -73704,6 +73704,66 @@
       },
       "latest_price": 14.9,
       "return_pct": 3.04,
+      "last_snapshot": "2026-06-16"
+    },
+    {
+      "id": "US|CTSO|2026-06-15|mariani peter j|0.44",
+      "market": "US",
+      "ticker": "CTSO",
+      "yf_symbol": "CTSO",
+      "company": "Cytosorbents Corp",
+      "insider_name": "Mariani Peter J",
+      "title": "CFO",
+      "trade_date": "2026-06-15",
+      "trade_price": 0.44,
+      "value": 44000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-16": 0.432
+      },
+      "latest_price": 0.432,
+      "return_pct": -1.82,
+      "last_snapshot": "2026-06-16"
+    },
+    {
+      "id": "US|TSM|2026-06-15|yuan lipen|75.26",
+      "market": "US",
+      "ticker": "TSM",
+      "yf_symbol": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider_name": "Yuan Lipen",
+      "title": "VP",
+      "trade_date": "2026-06-15",
+      "trade_price": 75.26,
+      "value": 75260.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-16": 441.4
+      },
+      "latest_price": 441.4,
+      "return_pct": 486.5,
+      "last_snapshot": "2026-06-16"
+    },
+    {
+      "id": "US|ONMD|2026-06-12|green aaron|0.55",
+      "market": "US",
+      "ticker": "ONMD",
+      "yf_symbol": "ONMD",
+      "company": "Onemednet Corp",
+      "insider_name": "Green Aaron",
+      "title": "CEO",
+      "trade_date": "2026-06-12",
+      "trade_price": 0.55,
+      "value": 30697.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-16": 0.558
+      },
+      "latest_price": 0.558,
+      "return_pct": 1.45,
       "last_snapshot": "2026-06-16"
     }
   ]
