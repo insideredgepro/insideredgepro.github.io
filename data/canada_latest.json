@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-15T22:00:23Z",
-  "trade_count": 3280,
+  "last_updated": "2026-06-16T03:45:22Z",
+  "trade_count": 3281,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -49791,7 +49791,7 @@
       "value": "314000",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4734872",
@@ -50032,6 +50032,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4735862",
+      "trade_date": "2026-06-15",
+      "filing_date": "2026-06-15",
+      "company": "Maple Leaf Foods Inc.",
+      "ticker": "MFI",
+      "insider_name": "Aziz, William Elias",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "900",
+      "price": "30.9300",
+      "value": "27837",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
