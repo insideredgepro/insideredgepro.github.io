@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-16",
-  "entry_count": 1633,
+  "entry_count": 1647,
   "entries": [
     {
       "id": "US|AIRS|2026-04-17|chernett jorey|2.54",
@@ -74224,6 +74224,286 @@
       },
       "latest_price": 4.376,
       "return_pct": -0.32,
+      "last_snapshot": "2026-06-16"
+    },
+    {
+      "id": "US|SKIL|2026-06-12|frankola jim|6.05",
+      "market": "US",
+      "ticker": "SKIL",
+      "yf_symbol": "SKIL",
+      "company": "Skillsoft Corp.",
+      "insider_name": "Frankola Jim",
+      "title": "Dir",
+      "trade_date": "2026-06-12",
+      "trade_price": 6.05,
+      "value": 302730.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-16": 6.11
+      },
+      "latest_price": 6.11,
+      "return_pct": 0.99,
+      "last_snapshot": "2026-06-16"
+    },
+    {
+      "id": "US|PBLS|2026-06-12|sebulsky alan|27.06",
+      "market": "US",
+      "ticker": "PBLS",
+      "yf_symbol": "PBLS",
+      "company": "Parabilis Medicines, Inc.",
+      "insider_name": "Sebulsky Alan",
+      "title": "Dir",
+      "trade_date": "2026-06-12",
+      "trade_price": 27.06,
+      "value": 473529.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-16": 26.59
+      },
+      "latest_price": 26.59,
+      "return_pct": -1.74,
+      "last_snapshot": "2026-06-16"
+    },
+    {
+      "id": "US|ARTV|2026-06-12|ra capital management, l.p.|8.66",
+      "market": "US",
+      "ticker": "ARTV",
+      "yf_symbol": "ARTV",
+      "company": "Artiva Biotherapeutics, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-06-12",
+      "trade_price": 8.66,
+      "value": 4599903.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-16": 8.91
+      },
+      "latest_price": 8.91,
+      "return_pct": 2.89,
+      "last_snapshot": "2026-06-16"
+    },
+    {
+      "id": "US|KNOP|2026-06-15|seglem trygve|20.0",
+      "market": "US",
+      "ticker": "KNOP",
+      "yf_symbol": "KNOP",
+      "company": "Knot Offshore Partners LP",
+      "insider_name": "Seglem Trygve",
+      "title": "Dir",
+      "trade_date": "2026-06-15",
+      "trade_price": 20.0,
+      "value": 25000000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-16": 10.37
+      },
+      "latest_price": 10.37,
+      "return_pct": -48.15,
+      "last_snapshot": "2026-06-16"
+    },
+    {
+      "id": "US|LULU|2026-06-15|bergh charles v|117.05",
+      "market": "US",
+      "ticker": "LULU",
+      "yf_symbol": "LULU",
+      "company": "Lululemon Athletica Inc.",
+      "insider_name": "Bergh Charles V",
+      "title": "Dir",
+      "trade_date": "2026-06-15",
+      "trade_price": 117.05,
+      "value": 500384.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-16": 115.5
+      },
+      "latest_price": 115.5,
+      "return_pct": -1.32,
+      "last_snapshot": "2026-06-16"
+    },
+    {
+      "id": "US|VIA|2026-06-12|ramot daniel|14.46",
+      "market": "US",
+      "ticker": "VIA",
+      "yf_symbol": "VIA",
+      "company": "Via Transportation, Inc.",
+      "insider_name": "Ramot Daniel",
+      "title": "CEO",
+      "trade_date": "2026-06-12",
+      "trade_price": 14.46,
+      "value": 99805.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-16": 14.19
+      },
+      "latest_price": 14.19,
+      "return_pct": -1.87,
+      "last_snapshot": "2026-06-16"
+    },
+    {
+      "id": "US|GLP|2026-06-12|global gp llc|46.6",
+      "market": "US",
+      "ticker": "GLP",
+      "yf_symbol": "GLP",
+      "company": "Global Partners LP",
+      "insider_name": "Global Gp LLC",
+      "title": "General Partner",
+      "trade_date": "2026-06-12",
+      "trade_price": 46.6,
+      "value": 465950.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-16": 43.19
+      },
+      "latest_price": 43.19,
+      "return_pct": -7.32,
+      "last_snapshot": "2026-06-16"
+    },
+    {
+      "id": "US|BSBR|2026-06-16|leao mario roberto opice|5.38",
+      "market": "US",
+      "ticker": "BSBR",
+      "yf_symbol": "BSBR",
+      "company": "Banco Santander (Brasil) S.A.",
+      "insider_name": "Leao Mario Roberto Opice",
+      "title": "CEO",
+      "trade_date": "2026-06-16",
+      "trade_price": 5.38,
+      "value": 1489458.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-16": 5.41
+      },
+      "latest_price": 5.41,
+      "return_pct": 0.56,
+      "last_snapshot": "2026-06-16"
+    },
+    {
+      "id": "US|XRAY|2026-06-15|hosein clyde|9.99",
+      "market": "US",
+      "ticker": "XRAY",
+      "yf_symbol": "XRAY",
+      "company": "Dentsply Sirona Inc.",
+      "insider_name": "Hosein Clyde",
+      "title": "Dir",
+      "trade_date": "2026-06-15",
+      "trade_price": 9.99,
+      "value": 64903.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-16": 10.45
+      },
+      "latest_price": 10.45,
+      "return_pct": 4.6,
+      "last_snapshot": "2026-06-16"
+    },
+    {
+      "id": "US|DINO|2026-06-16|hardy rhoman j|66.32",
+      "market": "US",
+      "ticker": "DINO",
+      "yf_symbol": "DINO",
+      "company": "Hf Sinclair Corp",
+      "insider_name": "Hardy Rhoman J",
+      "title": "Dir",
+      "trade_date": "2026-06-16",
+      "trade_price": 66.32,
+      "value": 100011.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-16": 66.58
+      },
+      "latest_price": 66.58,
+      "return_pct": 0.39,
+      "last_snapshot": "2026-06-16"
+    },
+    {
+      "id": "US|REI|2026-06-15|mckinney paul d.|1.19",
+      "market": "US",
+      "ticker": "REI",
+      "yf_symbol": "REI",
+      "company": "Ring Energy, Inc.",
+      "insider_name": "McKinney Paul D.",
+      "title": "CEO, COB",
+      "trade_date": "2026-06-15",
+      "trade_price": 1.19,
+      "value": 59500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-16": 1.12
+      },
+      "latest_price": 1.12,
+      "return_pct": -5.88,
+      "last_snapshot": "2026-06-16"
+    },
+    {
+      "id": "US|REI|2026-06-15|johl sundip singh|1.21",
+      "market": "US",
+      "ticker": "REI",
+      "yf_symbol": "REI",
+      "company": "Ring Energy, Inc.",
+      "insider_name": "Johl Sundip Singh",
+      "title": "EVP, CFO",
+      "trade_date": "2026-06-15",
+      "trade_price": 1.21,
+      "value": 278840.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-16": 1.12
+      },
+      "latest_price": 1.12,
+      "return_pct": -7.44,
+      "last_snapshot": "2026-06-16"
+    },
+    {
+      "id": "US|EU|2026-06-12|heili wayne w.|1.44",
+      "market": "US",
+      "ticker": "EU",
+      "yf_symbol": "EU",
+      "company": "Encore Energy Corp.",
+      "insider_name": "Heili Wayne W.",
+      "title": "Dir",
+      "trade_date": "2026-06-12",
+      "trade_price": 1.44,
+      "value": 50400.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-16": 1.67
+      },
+      "latest_price": 1.67,
+      "return_pct": 15.97,
+      "last_snapshot": "2026-06-16"
+    },
+    {
+      "id": "US|BDCO|2026-06-12|lazarus energy holdings, llc|3.54",
+      "market": "US",
+      "ticker": "BDCO",
+      "yf_symbol": "BDCO",
+      "company": "Blue Dolphin Energy Co",
+      "insider_name": "Lazarus Energy Holdings, LLC",
+      "title": "10%",
+      "trade_date": "2026-06-12",
+      "trade_price": 3.54,
+      "value": 35400.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-16": 3.61
+      },
+      "latest_price": 3.61,
+      "return_pct": 1.98,
       "last_snapshot": "2026-06-16"
     }
   ]

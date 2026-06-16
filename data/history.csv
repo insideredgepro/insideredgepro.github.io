@@ -7642,7 +7642,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-11,18:52,2026-06-03,STI,Solidion Technology Inc.,Ikezi Henry,10%,P - Purchase,24.77,26000,3507313,+1%,643965,False
 2026-06-11,18:33,2026-06-05,AII,"American Integrity Insurance Group, Inc.",Sowell James E,10%,P - Purchase,16.88,136356,4610180,+3%,2301242,True
 2026-06-11,18:31,2026-06-11,STEP,Stepstone Group Inc.,McCabe Michael I,Head of Strategy,P - Purchase,41.85,120000,3398945,+4%,5022072,False
-2026-06-11,18:12,2026-06-09,VIA,"Via Transportation, Inc.",Peres Nechemia Jacob,Dir,P - Purchase,14.70,25000,5162551,0%,367500,False
+2026-06-11,18:12,2026-06-09,VIA,"Via Transportation, Inc.",Peres Nechemia Jacob,Dir,P - Purchase,14.70,25000,5162551,0%,367500,True
 2026-06-11,17:59,2026-06-03,MBBC,"Marathon Bancorp, Inc. /Md/",Spatz Nora,"EVP, CAO",P - Purchase,14.35,3819,66897,+6%,54797,False
 2026-06-11,17:57,2026-06-10,RYAN,"Ryan Specialty Holdings, Inc.",Rogers John W Jr,Dir,P - Purchase,35.16,7500,117933,+7%,263732,True
 2026-06-11,21:35,2026-06-10,INR,"Infinity Natural Resources, Inc.",Poole David P,Dir,P - Purchase,13.82,11500,53785,+27%,158963,True
@@ -7774,3 +7774,17 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-16,16:05,2026-06-12,CXT,"Crane Nxt, Co.",Saak Aaron W,CEO,P - Purchase,42.13,24000,64595,+59%,1011120,True
 2026-06-16,16:05,2026-06-12,CXT,"Crane Nxt, Co.",Cristiano Christina,"SVP, CFO",P - Purchase,41.96,3550,14663,+32%,148958,True
 2026-06-16,15:37,2026-06-15,NWPP,New Peoples Bankshares Inc,Keene Harold L,"Dir, 10%",P - Purchase,4.39,16514,4642492,0%,72496,False
+2026-06-16,18:35,2026-06-12,SKIL,Skillsoft Corp.,Frankola Jim,Dir,P - Purchase,6.05,50000,95306,+110%,302730,False
+2026-06-16,18:19,2026-06-12,PBLS,"Parabilis Medicines, Inc.",Sebulsky Alan,Dir,P - Purchase,27.06,17500,30000,+140%,473529,True
+2026-06-16,18:08,2026-06-12,ARTV,"Artiva Biotherapeutics, Inc.","Ra Capital Management, L.P.","Dir, 10%",P - Purchase,8.66,531326,17922766,+3%,4599903,False
+2026-06-16,18:00,2026-06-15,KNOP,Knot Offshore Partners LP,Seglem Trygve,Dir,P - Purchase,20.00,1250000,11462361,+12%,25000000,False
+2026-06-16,17:55,2026-06-15,LULU,Lululemon Athletica Inc.,Bergh Charles V,Dir,P - Purchase,117.05,4275,10637,+67%,500384,False
+2026-06-16,17:40,2026-06-12,VIA,"Via Transportation, Inc.",Ramot Daniel,CEO,P - Purchase,14.46,6904,2420957,0%,99805,True
+2026-06-16,17:34,2026-06-12,GLP,Global Partners LP,Global Gp LLC,General Partner,P - Purchase,46.60,10000,136584,+8%,465950,False
+2026-06-16,17:13,2026-06-16,BSBR,Banco Santander (Brasil) S.A.,Leao Mario Roberto Opice,CEO,P - Purchase,5.38,276851,658788,+72%,1489458,False
+2026-06-16,17:03,2026-06-15,XRAY,Dentsply Sirona Inc.,Hosein Clyde,Dir,P - Purchase,9.99,6500,70575,+10%,64903,True
+2026-06-16,17:01,2026-06-16,DINO,Hf Sinclair Corp,Hardy Rhoman J,Dir,P - Purchase,66.32,1508,15037,+11%,100011,False
+2026-06-16,16:46,2026-06-15,REI,"Ring Energy, Inc.",McKinney Paul D.,"CEO, COB",P - Purchase,1.19,50000,4158463,+1%,59500,True
+2026-06-16,16:45,2026-06-15,REI,"Ring Energy, Inc.",Johl Sundip Singh,"EVP, CFO",P - Purchase,1.21,231000,548460,+73%,278840,True
+2026-06-16,16:45,2026-06-12,EU,Encore Energy Corp.,Heili Wayne W.,Dir,P - Purchase,1.44,35000,35000,New,50400,True
+2026-06-16,16:42,2026-06-12,BDCO,Blue Dolphin Energy Co,"Lazarus Energy Holdings, LLC",10%,P - Purchase,3.54,10000,8577500,0%,35400,False
