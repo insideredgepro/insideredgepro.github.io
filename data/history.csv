@@ -7731,7 +7731,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-15,16:15,2026-06-11,HLNE,Hamilton Lane Inc,Rogers Hartley R.,"Exec Co-COB, 10%",P - Purchase,78.49,38290,6660144,+1%,3005339,True
 2026-06-15,16:14,2026-06-11,HLNE,Hamilton Lane Inc,Kramer Andrea Anigati,"COO, 10%",P - Purchase,77.46,1283,223320,+1%,99381,True
 2026-06-15,16:13,2026-06-11,HLNE,Hamilton Lane Inc,Berkman David J,Dir,P - Purchase,76.27,15000,50000,+43%,1144050,True
-2026-06-15,16:07,2026-06-12,PAR,Par Technology Corp,Pascal Keith,Dir,P - Purchase,15.16,13000,41749,+45%,197080,False
+2026-06-15,16:07,2026-06-12,PAR,Par Technology Corp,Pascal Keith,Dir,P - Purchase,15.16,13000,41749,+45%,197080,True
 2026-06-15,16:05,2026-06-11,INR,"Infinity Natural Resources, Inc.",Quinn William J,"Dir, 10%",P - Purchase,13.20,11497,28960732,0%,151750,True
 2026-06-15,15:28,2025-12-31,GIPL,Global Innovative Platforms Inc.,Brown Andrew Nicholas,"CEO, CFO, 10%",P - Purchase,0.06,500000,1081055,+86%,30500,False
 2026-06-15,20:10,2026-06-11,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,5.96,7685,2742574,0%,45773,False
@@ -7744,3 +7744,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-15,18:24,2026-06-12,CTSO,Cytosorbents Corp,Chan Phillip P.,CEO,P - Purchase,0.40,261469,1744432,+18%,104898,False
 2026-06-15,18:17,2026-06-11,BLND,"Blend Labs, Inc.","Haveli Investments, L.P.","Dir, 10%",P - Purchase,1.72,1156928,18823657,+7%,1991366,False
 2026-06-15,18:15,2026-06-11,EU,Encore Energy Corp.,Pelizza Mark S,Dir,P - Purchase,1.37,99905,681570,+17%,136884,True
+2026-06-15,21:30,2026-06-12,FLD,"Fold Holdings, Inc.",Kirkwood Jonathan,"Dir, 10%",P - Purchase,0.61,105000,3873394,+3%,64365,False
+2026-06-15,21:05,2026-06-11,BGDE,"Big Digital Energy, Inc.","Endeavor Blockchain, LLC",10%,P - Purchase,7.15,69670,1558000,+5%,498295,False
+2026-06-15,21:00,2026-06-11,ENOV,Enovis Corp,Engert Oliver,Chief Administrative Officer,P - Purchase,21.62,1200,51840,+2%,25948,False
+2026-06-15,20:23,2026-06-11,PAR,Par Technology Corp,"Voss Capital, LP",10%,P - Purchase,14.46,350000,6200000,+6%,5060760,True

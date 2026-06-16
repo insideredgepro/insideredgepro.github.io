@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T00:23:45Z",
-  "trade_count": 7738,
+  "last_updated": "2026-06-16T06:25:35Z",
+  "trade_count": 7742,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -123616,7 +123616,7 @@
       "owned": "41749",
       "delta_own": "+45%",
       "value": "197080",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-15",
@@ -123808,6 +123808,70 @@
       "owned": "681570",
       "delta_own": "+17%",
       "value": "136884",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-15",
+      "filing_time": "21:30",
+      "trade_date": "2026-06-12",
+      "ticker": "FLD",
+      "company": "Fold Holdings, Inc.",
+      "insider_name": "Kirkwood Jonathan",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.61",
+      "qty": "105000",
+      "owned": "3873394",
+      "delta_own": "+3%",
+      "value": "64365",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-15",
+      "filing_time": "21:05",
+      "trade_date": "2026-06-11",
+      "ticker": "BGDE",
+      "company": "Big Digital Energy, Inc.",
+      "insider_name": "Endeavor Blockchain, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "7.15",
+      "qty": "69670",
+      "owned": "1558000",
+      "delta_own": "+5%",
+      "value": "498295",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-15",
+      "filing_time": "21:00",
+      "trade_date": "2026-06-11",
+      "ticker": "ENOV",
+      "company": "Enovis Corp",
+      "insider_name": "Engert Oliver",
+      "title": "Chief Administrative Officer",
+      "trade_type": "P - Purchase",
+      "price": "21.62",
+      "qty": "1200",
+      "owned": "51840",
+      "delta_own": "+2%",
+      "value": "25948",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-15",
+      "filing_time": "20:23",
+      "trade_date": "2026-06-11",
+      "ticker": "PAR",
+      "company": "Par Technology Corp",
+      "insider_name": "Voss Capital, LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "14.46",
+      "qty": "350000",
+      "owned": "6200000",
+      "delta_own": "+6%",
+      "value": "5060760",
       "cluster_buy": true
     }
   ]
