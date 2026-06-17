@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T03:45:23Z",
-  "trade_count": 3295,
+  "last_updated": "2026-06-17T16:00:18Z",
+  "trade_count": 3296,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -50239,7 +50239,7 @@
       "value": "34669",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4736493",
@@ -50269,6 +50269,22 @@
       "qty": "5000",
       "price": "24.2640",
       "value": "121320",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4736589",
+      "trade_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "company": "Total Energy Services Inc.",
+      "ticker": "TOT",
+      "insider_name": "Halyk, Daniel Kim",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "22.0000",
+      "value": "110000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
