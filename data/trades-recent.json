@@ -374,6 +374,279 @@
     "scraped_at": "2026-03-03T06:07:47.231168"
   },
   {
+    "id": "20003800627",
+    "politician_name": "Matthew Van Epps",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "Alphabet Inc",
+    "ticker": "GOOGL:US",
+    "sector": "communication-services",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-16",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "1",
+    "price": "$373.25",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Schwab One Account",
+    "scraped_at": "2026-06-17T16:10:03.172292+00:00"
+  },
+  {
+    "id": "20003800628",
+    "politician_name": "Matthew Van Epps",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "Amazon.com Inc",
+    "ticker": "AMZN:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-16",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "1",
+    "price": "$246.00",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Schwab One Account",
+    "scraped_at": "2026-06-17T16:10:03.172321+00:00"
+  },
+  {
+    "id": "20003800629",
+    "politician_name": "Matthew Van Epps",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "Apple Inc",
+    "ticker": "AAPL:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-16",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "1",
+    "price": "$299.24",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Schwab One Account",
+    "scraped_at": "2026-06-17T16:10:03.172332+00:00"
+  },
+  {
+    "id": "20003800630",
+    "politician_name": "Matthew Van Epps",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "Exxon Mobil Corp",
+    "ticker": "XOM:US",
+    "sector": "energy",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-16",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "1",
+    "price": "$141.86",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Schwab One Account",
+    "scraped_at": "2026-06-17T16:10:03.172339+00:00"
+  },
+  {
+    "id": "20003800631",
+    "politician_name": "Matthew Van Epps",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "General Electric Co",
+    "ticker": "GE:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-16",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "1",
+    "price": "$351.73",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Schwab One Account",
+    "scraped_at": "2026-06-17T16:10:03.172344+00:00"
+  },
+  {
+    "id": "20003800632",
+    "politician_name": "Matthew Van Epps",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "GE VERNOVA INC",
+    "ticker": "GEV:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-16",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "1",
+    "price": "$982.35",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Schwab One Account",
+    "scraped_at": "2026-06-17T16:10:03.172349+00:00"
+  },
+  {
+    "id": "20003800633",
+    "politician_name": "Matthew Van Epps",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "Intel Corp",
+    "ticker": "INTC:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-16",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "1",
+    "price": "$117.05",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Schwab One Account",
+    "scraped_at": "2026-06-17T16:10:03.172355+00:00"
+  },
+  {
+    "id": "20003800634",
+    "politician_name": "Matthew Van Epps",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "International Business Machines Corp",
+    "ticker": "IBM:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-16",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "1",
+    "price": "$270.81",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Schwab One Account",
+    "scraped_at": "2026-06-17T16:10:03.172360+00:00"
+  },
+  {
+    "id": "20003800635",
+    "politician_name": "Matthew Van Epps",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "Meta Platforms Inc",
+    "ticker": "META:US",
+    "sector": "communication-services",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-16",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "1",
+    "price": "$600.21",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Schwab One Account",
+    "scraped_at": "2026-06-17T16:10:03.172365+00:00"
+  },
+  {
+    "id": "20003800636",
+    "politician_name": "Matthew Van Epps",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "Microsoft Corp",
+    "ticker": "MSFT:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-16",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "1",
+    "price": "$393.83",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Schwab One Account",
+    "scraped_at": "2026-06-17T16:10:03.172370+00:00"
+  },
+  {
+    "id": "20003800637",
+    "politician_name": "Matthew Van Epps",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "NVIDIA Corporation",
+    "ticker": "NVDA:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-16",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "1",
+    "price": "$207.41",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Schwab One Account",
+    "scraped_at": "2026-06-17T16:10:03.172375+00:00"
+  },
+  {
+    "id": "20003800638",
+    "politician_name": "Matthew Van Epps",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "Southwest Airlines Co",
+    "ticker": "LUV:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-16",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "1",
+    "price": "$47.43",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Schwab One Account",
+    "scraped_at": "2026-06-17T16:10:03.172380+00:00"
+  },
+  {
+    "id": "20003800639",
+    "politician_name": "Matthew Van Epps",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "Tapestry Inc",
+    "ticker": "TPR:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-16",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "1",
+    "price": "$149.39",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Schwab One Account",
+    "scraped_at": "2026-06-17T16:10:03.172386+00:00"
+  },
+  {
     "id": "20003798356",
     "politician_name": "Christian Menefee",
     "party": "Democrat",
@@ -413,7 +686,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-17T03:55:03.277062+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172592+00:00"
   },
   {
     "id": "20003800615",
@@ -434,7 +707,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-17T03:55:03.277067+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172596+00:00"
   },
   {
     "id": "20003800616",
@@ -455,7 +728,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-17T03:55:03.277072+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172601+00:00"
   },
   {
     "id": "20003800617",
@@ -476,7 +749,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-17T03:55:03.277077+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172606+00:00"
   },
   {
     "id": "20003800618",
@@ -497,7 +770,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-17T03:55:03.277081+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172610+00:00"
   },
   {
     "id": "20003800619",
@@ -518,7 +791,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-17T03:55:03.277087+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172615+00:00"
   },
   {
     "id": "20003800620",
@@ -539,7 +812,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-06-17T03:55:03.277093+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172621+00:00"
   },
   {
     "id": "10000065076",
@@ -581,7 +854,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Merrill Lynch SEP IRA",
-    "scraped_at": "2026-06-17T03:55:03.277138+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172667+00:00"
   },
   {
     "id": "20003799857",
@@ -602,7 +875,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Merrill Lynch SEP IRA",
-    "scraped_at": "2026-06-17T03:55:03.277143+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172673+00:00"
   },
   {
     "id": "20003799725",
@@ -1718,6 +1991,27 @@
     "scraped_at": "2026-06-08T16:10:02.025200+00:00"
   },
   {
+    "id": "20003800625",
+    "politician_name": "Stephen Cohen",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "TN",
+    "company": "US TREASURY BILLS",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-27",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "21",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Stephens Advantage Account",
+    "scraped_at": "2026-06-17T16:10:03.172397+00:00"
+  },
+  {
     "id": "10000065187",
     "politician_name": "John Boozman",
     "party": "Republican",
@@ -1736,7 +2030,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276847+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172424+00:00"
   },
   {
     "id": "10000065188",
@@ -1757,7 +2051,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276875+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172429+00:00"
   },
   {
     "id": "10000065189",
@@ -1778,7 +2072,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276886+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172433+00:00"
   },
   {
     "id": "10000065190",
@@ -1799,7 +2093,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276893+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172439+00:00"
   },
   {
     "id": "10000065192",
@@ -1820,7 +2114,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276903+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172447+00:00"
   },
   {
     "id": "10000065194",
@@ -1841,7 +2135,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276914+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172458+00:00"
   },
   {
     "id": "10000065195",
@@ -1862,7 +2156,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276919+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172463+00:00"
   },
   {
     "id": "10000065196",
@@ -1883,7 +2177,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276925+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172468+00:00"
   },
   {
     "id": "10000065200",
@@ -1904,7 +2198,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276947+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172490+00:00"
   },
   {
     "id": "10000065201",
@@ -1925,7 +2219,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276952+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172495+00:00"
   },
   {
     "id": "10000065202",
@@ -1946,7 +2240,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276963+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172500+00:00"
   },
   {
     "id": "10000065154",
@@ -1967,7 +2261,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276980+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172515+00:00"
   },
   {
     "id": "10000065156",
@@ -1988,7 +2282,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276990+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172526+00:00"
   },
   {
     "id": "10000065157",
@@ -2009,7 +2303,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276995+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172531+00:00"
   },
   {
     "id": "10000065158",
@@ -2030,7 +2324,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.277001+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172536+00:00"
   },
   {
     "id": "10000065159",
@@ -2051,7 +2345,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.277007+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172541+00:00"
   },
   {
     "id": "10000065160",
@@ -2072,7 +2366,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.277011+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172546+00:00"
   },
   {
     "id": "10000065161",
@@ -2093,7 +2387,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.277016+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172551+00:00"
   },
   {
     "id": "10000065162",
@@ -2114,7 +2408,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.277021+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172555+00:00"
   },
   {
     "id": "10000065163",
@@ -2135,7 +2429,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.277027+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172560+00:00"
   },
   {
     "id": "10000065165",
@@ -2156,7 +2450,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.277040+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172572+00:00"
   },
   {
     "id": "10000065167",
@@ -2177,7 +2471,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.277050+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172581+00:00"
   },
   {
     "id": "20003800610",
@@ -2198,7 +2492,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Southeast Energy Authority A C Ser E Rev Call 7/1/30 - 5% due 10/1/30 [GS] Subholding Of: Victoria Kelly Trust ICA",
-    "scraped_at": "2026-06-17T03:55:03.277128+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172657+00:00"
   },
   {
     "id": "20003799877",
@@ -2219,7 +2513,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-06-17T03:55:03.277248+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172772+00:00"
   },
   {
     "id": "20003799853",
@@ -2345,7 +2639,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-06-17T03:55:03.277231+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172756+00:00"
   },
   {
     "id": "20003799878",
@@ -2366,7 +2660,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-06-17T03:55:03.277252+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172778+00:00"
   },
   {
     "id": "10000065111",
@@ -3059,7 +3353,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.277132+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172662+00:00"
   },
   {
     "id": "20003799872",
@@ -3080,7 +3374,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-06-17T03:55:03.277221+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172747+00:00"
   },
   {
     "id": "20003799842",
@@ -3503,6 +3797,27 @@
     "scraped_at": "2026-06-08T16:10:02.025319+00:00"
   },
   {
+    "id": "20003800624",
+    "politician_name": "Richard Allen",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "US TREASURY NOTE",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-19",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: SCH1",
+    "scraped_at": "2026-06-17T16:10:03.172419+00:00"
+  },
+  {
     "id": "20003799840",
     "politician_name": "Maria Elvira Salazar",
     "party": "Republican",
@@ -3752,7 +4067,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-17T03:55:03.277160+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172687+00:00"
   },
   {
     "id": "20003799757",
@@ -4067,7 +4382,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276968+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172504+00:00"
   },
   {
     "id": "10000065204",
@@ -4088,7 +4403,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276975+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172509+00:00"
   },
   {
     "id": "10000065155",
@@ -4109,7 +4424,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276985+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172521+00:00"
   },
   {
     "id": "10000065168",
@@ -4130,7 +4445,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.277056+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172586+00:00"
   },
   {
     "id": "20003799861",
@@ -4151,7 +4466,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-17T03:55:03.277165+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172694+00:00"
   },
   {
     "id": "20003799733",
@@ -5180,7 +5495,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-06-17T03:55:03.277226+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172751+00:00"
   },
   {
     "id": "20003799735",
@@ -5516,7 +5831,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276899+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172443+00:00"
   },
   {
     "id": "10000065193",
@@ -5537,7 +5852,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276909+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172452+00:00"
   },
   {
     "id": "10000065197",
@@ -5558,7 +5873,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276930+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172472+00:00"
   },
   {
     "id": "10000065198",
@@ -5579,7 +5894,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276936+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172477+00:00"
   },
   {
     "id": "10000065199",
@@ -5600,7 +5915,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.276942+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172482+00:00"
   },
   {
     "id": "10000065164",
@@ -5621,7 +5936,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.277035+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172566+00:00"
   },
   {
     "id": "10000065166",
@@ -5642,7 +5957,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.277045+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172576+00:00"
   },
   {
     "id": "20003800611",
@@ -5663,7 +5978,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.277109+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172635+00:00"
   },
   {
     "id": "20003799858",
@@ -5684,7 +5999,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-17T03:55:03.277148+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172678+00:00"
   },
   {
     "id": "10000065078",
@@ -6044,6 +6359,27 @@
     "scraped_at": "2026-06-08T16:10:02.025345+00:00"
   },
   {
+    "id": "20003800626",
+    "politician_name": "Jonathan Jackson",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "IL",
+    "company": "Microsoft Corp",
+    "ticker": "MSFT:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-12",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "35",
+    "price": "$407.77",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley Trust Account",
+    "scraped_at": "2026-06-17T16:10:03.172391+00:00"
+  },
+  {
     "id": "20003800612",
     "politician_name": "Julie Johnson",
     "party": "Democrat",
@@ -6062,7 +6398,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Tax Efficient Core",
-    "scraped_at": "2026-06-17T03:55:03.277098+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172626+00:00"
   },
   {
     "id": "20003800613",
@@ -6083,7 +6419,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Tax Efficient Core",
-    "scraped_at": "2026-06-17T03:55:03.277103+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172631+00:00"
   },
   {
     "id": "20003799875",
@@ -6104,7 +6440,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-06-17T03:55:03.277235+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172760+00:00"
   },
   {
     "id": "20003799837",
@@ -6293,7 +6629,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-06-17T03:55:03.277240+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172765+00:00"
   },
   {
     "id": "20003799836",
@@ -6693,6 +7029,69 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: CETERA",
     "scraped_at": "2026-05-21T08:19:33.776630+00:00"
+  },
+  {
+    "id": "20003800621",
+    "politician_name": "Richard Allen",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Accenture PLC",
+    "ticker": "ACN:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-08",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "39",
+    "price": "$180.42",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: LIVTR",
+    "scraped_at": "2026-06-17T16:10:03.172402+00:00"
+  },
+  {
+    "id": "20003800622",
+    "politician_name": "Richard Allen",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "American Express Co",
+    "ticker": "AXP:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-08",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "39",
+    "price": "$316.03",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: LIVTR",
+    "scraped_at": "2026-06-17T16:10:03.172408+00:00"
+  },
+  {
+    "id": "20003800623",
+    "politician_name": "Richard Allen",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+    "ticker": "TSM:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-08",
+    "trade_published": "2026-06-17",
+    "filed_after_days": "39",
+    "price": "$411.68",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: LIVTR",
+    "scraped_at": "2026-06-17T16:10:03.172414+00:00"
   },
   {
     "id": "20003799854",
@@ -7112,7 +7511,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Victoria Kelly Trust ICA",
-    "scraped_at": "2026-06-17T03:55:03.277119+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172647+00:00"
   },
   {
     "id": "20003800609",
@@ -7133,7 +7532,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Victoria Kelly Trust ICA",
-    "scraped_at": "2026-06-17T03:55:03.277123+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172652+00:00"
   },
   {
     "id": "20003799759",
@@ -7595,7 +7994,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Rate/Coupon: 5.5% Matures: 2036-04-15",
-    "scraped_at": "2026-06-17T03:55:03.277113+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172641+00:00"
   },
   {
     "id": "10000065077",
@@ -8834,7 +9233,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-17T03:55:03.277153+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172683+00:00"
   },
   {
     "id": "20003799862",
@@ -8855,7 +9254,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-17T03:55:03.277171+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172698+00:00"
   },
   {
     "id": "20003799863",
@@ -8876,7 +9275,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-17T03:55:03.277176+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172703+00:00"
   },
   {
     "id": "20003799864",
@@ -8897,7 +9296,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-17T03:55:03.277181+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172707+00:00"
   },
   {
     "id": "20003799865",
@@ -8918,7 +9317,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-17T03:55:03.277185+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172711+00:00"
   },
   {
     "id": "20003799866",
@@ -8939,7 +9338,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-17T03:55:03.277191+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172716+00:00"
   },
   {
     "id": "20003799867",
@@ -8960,7 +9359,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-17T03:55:03.277195+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172723+00:00"
   },
   {
     "id": "20003799868",
@@ -8981,7 +9380,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-17T03:55:03.277200+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172728+00:00"
   },
   {
     "id": "20003799869",
@@ -9002,7 +9401,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-17T03:55:03.277205+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172732+00:00"
   },
   {
     "id": "20003799870",
@@ -9023,7 +9422,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-17T03:55:03.277211+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172737+00:00"
   },
   {
     "id": "20003799871",
@@ -9044,7 +9443,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-06-17T03:55:03.277216+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172743+00:00"
   },
   {
     "id": "20003799879",
@@ -9065,7 +9464,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-17T03:55:03.277257+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172782+00:00"
   },
   {
     "id": "20003799880",
@@ -9086,7 +9485,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-17T03:55:03.277263+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172787+00:00"
   },
   {
     "id": "20003799881",
@@ -9107,7 +9506,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-17T03:55:03.277268+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172794+00:00"
   },
   {
     "id": "20003799882",
@@ -9128,7 +9527,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-17T03:55:03.277272+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172799+00:00"
   },
   {
     "id": "20003799883",
@@ -9149,7 +9548,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-17T03:55:03.277277+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172803+00:00"
   },
   {
     "id": "20003799884",
@@ -9170,7 +9569,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "2020 Trust FBO Khanna Children",
-    "scraped_at": "2026-06-17T03:55:03.277281+00:00"
+    "scraped_at": "2026-06-17T16:10:03.172808+00:00"
   },
   {
     "id": "20003799885",
@@ -42185,48 +42584,6 @@
     "scraped_at": "2026-03-29T22:04:19.476076+00:00"
   },
   {
-    "id": "20003795729",
-    "politician_name": "Cleo Fields",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "LA",
-    "company": "Microsoft Corp",
-    "ticker": "MSFT:US",
-    "sector": "information-technology",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-12",
-    "trade_published": "2026-03-18",
-    "filed_after_days": "5",
-    "price": "$401.86",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
-    "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
-    "id": "20003795730",
-    "politician_name": "Cleo Fields",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "LA",
-    "company": "Microsoft Corp",
-    "ticker": "MSFT:US",
-    "sector": "information-technology",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-12",
-    "trade_published": "2026-03-18",
-    "filed_after_days": "5",
-    "price": "$401.86",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
-    "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
     "id": "20003797308",
     "politician_name": "Michael McCaul",
     "party": "Republican",
@@ -48086,174 +48443,6 @@
     "scraped_at": "2026-03-29T22:04:19.476076+00:00"
   },
   {
-    "id": "20003795733",
-    "politician_name": "Thomas Kean Jr",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "NJ",
-    "company": "Linde PLC",
-    "ticker": "LIN:US",
-    "sector": "materials",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-18",
-    "trade_published": "2026-03-18",
-    "filed_after_days": "239",
-    "price": "$485.28",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
-    "id": "20003795734",
-    "politician_name": "Thomas Kean Jr",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "NJ",
-    "company": "US TREASURY NOTE",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-18",
-    "trade_published": "2026-03-18",
-    "filed_after_days": "239",
-    "price": "N/A",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Kean Family Partnership Description: 0.750%, 4/30/2026",
-    "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
-    "id": "20003795735",
-    "politician_name": "Thomas Kean Jr",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "NJ",
-    "company": "US TREASURY NOTE",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-18",
-    "trade_published": "2026-03-18",
-    "filed_after_days": "239",
-    "price": "N/A",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Kean Family Partnership Description: 4.625%, 10/15/2026",
-    "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
-    "id": "20003795737",
-    "politician_name": "Thomas Suozzi",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "NY",
-    "company": "Advanced Micro Devices Inc",
-    "ticker": "AMD:US",
-    "sector": "information-technology",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-18",
-    "trade_published": "2026-03-18",
-    "filed_after_days": "27",
-    "price": "$200.12",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Thomas Suozzi IRA FBO Thomas Suozzi",
-    "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
-    "id": "20003795738",
-    "politician_name": "Thomas Suozzi",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "NY",
-    "company": "Apple Inc",
-    "ticker": "AAPL:US",
-    "sector": "information-technology",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-18",
-    "trade_published": "2026-03-18",
-    "filed_after_days": "27",
-    "price": "$264.35",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Thomas Suozzi IRA FBO Thomas Suozzi",
-    "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
-    "id": "20003795739",
-    "politician_name": "Thomas Suozzi",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "NY",
-    "company": "Palantir Technologies Inc",
-    "ticker": "PLTR:US",
-    "sector": "information-technology",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-18",
-    "trade_published": "2026-03-18",
-    "filed_after_days": "27",
-    "price": "$135.38",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Thomas Suozzi IRA FBO Thomas Suozzi",
-    "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
-    "id": "20003795740",
-    "politician_name": "Thomas Suozzi",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "NY",
-    "company": "United Rentals Inc",
-    "ticker": "URI:US",
-    "sector": "industrials",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-18",
-    "trade_published": "2026-03-18",
-    "filed_after_days": "27",
-    "price": "$880.18",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Thomas Suozzi IRA FBO Thomas Suozzi",
-    "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
-    "id": "20003795741",
-    "politician_name": "Thomas Suozzi",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "NY",
-    "company": "US TREASURY BILLS",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-18",
-    "trade_published": "2026-03-18",
-    "filed_after_days": "27",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: National Securities- Advisor Discretion Account",
-    "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
     "id": "20003798357",
     "politician_name": "Christian Menefee",
     "party": "Democrat",
@@ -48293,27 +48482,6 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > UBS Financial Services Inc 35 Description: Professionally managed account.",
-    "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
-    "id": "20003795742",
-    "politician_name": "Thomas Suozzi",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "NY",
-    "company": "US TREASURY BILLS",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-17",
-    "trade_published": "2026-03-18",
-    "filed_after_days": "28",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: National Securities- Advisor Discretion Account",
     "scraped_at": "2026-03-29T22:04:19.476076+00:00"
   },
   {
@@ -48548,27 +48716,6 @@
     "scraped_at": "2026-03-29T22:04:19.476076+00:00"
   },
   {
-    "id": "20003795736",
-    "politician_name": "Thomas Kean Jr",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "NJ",
-    "company": "Waters Corp",
-    "ticker": "WAT:US",
-    "sector": "health-care",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-13",
-    "trade_published": "2026-03-18",
-    "filed_after_days": "244",
-    "price": "$323.37",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
     "id": "20003798401",
     "politician_name": "Timothy Walberg",
     "party": "Republican",
@@ -48695,48 +48842,6 @@
     "scraped_at": "2026-03-29T22:04:19.476076+00:00"
   },
   {
-    "id": "20003795731",
-    "politician_name": "Thomas Kean Jr",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "NJ",
-    "company": "Alphabet Inc",
-    "ticker": "GOOGL:US",
-    "sector": "communication-services",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-05",
-    "trade_published": "2026-03-18",
-    "filed_after_days": "252",
-    "price": "$331.25",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
-    "id": "20003795732",
-    "politician_name": "Thomas Kean Jr",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "NJ",
-    "company": "First Citizens BancShares Inc",
-    "ticker": "FCNCA:US",
-    "sector": "financials",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-05",
-    "trade_published": "2026-03-18",
-    "filed_after_days": "252",
-    "price": "$2,122.95",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
     "id": "20003795750",
     "politician_name": "Sheri Biggs",
     "party": "Republican",
@@ -48839,48 +48944,6 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Description: Venture Capital Fund",
-    "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
-    "id": "20003795727",
-    "politician_name": "Neal Dunn",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "FL",
-    "company": "Cadence Bank",
-    "ticker": "CADE:US",
-    "sector": "financials",
-    "transaction_type": "EXCHANGE",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-02",
-    "trade_published": "2026-03-18",
-    "filed_after_days": "43",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: IRA #3 Description: Received Huntington Banc Shares Series-L in exchange for asset listed above due to corporate action.",
-    "scraped_at": "2026-03-29T22:04:19.476076+00:00"
-  },
-  {
-    "id": "20003795728",
-    "politician_name": "Neal Dunn",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "FL",
-    "company": "Huntington Bancshares Inc",
-    "ticker": "HBAN:US",
-    "sector": "financials",
-    "transaction_type": "EXCHANGE",
-    "tx_type_extended": "",
-    "traded_on": "2026-02-02",
-    "trade_published": "2026-03-18",
-    "filed_after_days": "43",
-    "price": "$17.88",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: IRA #3 Description: Received asset listed above in exchange for Cadence Bank Preferred Shares due to corporate action.",
     "scraped_at": "2026-03-29T22:04:19.476076+00:00"
   },
   {
