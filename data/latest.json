@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T06:01:39Z",
-  "trade_count": 7789,
+  "last_updated": "2026-06-17T11:28:46Z",
+  "trade_count": 7790,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -124624,6 +124624,22 @@
       "owned": "985394",
       "delta_own": "+1%",
       "value": "2007296",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-17",
+      "filing_time": "06:02",
+      "trade_date": "2026-06-16",
+      "ticker": "GOTU",
+      "company": "Gaotu Techedu Inc.",
+      "insider_name": "Chen Xiangdong",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.28",
+      "qty": "73801",
+      "owned": "7788330",
+      "delta_own": "+1%",
+      "value": "167949",
       "cluster_buy": false
     }
   ]
