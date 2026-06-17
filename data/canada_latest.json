@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T22:00:18Z",
-  "trade_count": 3293,
+  "last_updated": "2026-06-17T03:45:23Z",
+  "trade_count": 3295,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -49807,7 +49807,7 @@
       "value": "19414",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4734983",
@@ -50240,6 +50240,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4736493",
+      "trade_date": "2026-06-16",
+      "filing_date": "2026-06-16",
+      "company": "Independence Gold Corp.",
+      "ticker": "IGO",
+      "insider_name": "Gestion Bouca Inc",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "478000",
+      "price": "0.0950",
+      "value": "45410",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4736445",
+      "trade_date": "2026-06-16",
+      "filing_date": "2026-06-16",
+      "company": "Stack Capital Group Inc.",
+      "ticker": "STCK",
+      "insider_name": "Bell, John K.",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "24.2640",
+      "value": "121320",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
