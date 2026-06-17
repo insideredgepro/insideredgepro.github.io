@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T17:45:47Z",
-  "trade_count": 7793,
+  "last_updated": "2026-06-17T20:01:23Z",
+  "trade_count": 7797,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -124689,6 +124689,70 @@
       "delta_own": "+2%",
       "value": "100000",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-17",
+      "filing_time": "15:12",
+      "trade_date": "2026-06-09",
+      "ticker": "TGS",
+      "company": "Gas Transporter of the South Inc",
+      "insider_name": "Fallo Luis Alberto",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "29.26",
+      "qty": "4680",
+      "owned": "6016",
+      "delta_own": "+350%",
+      "value": "136915",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-17",
+      "filing_time": "14:18",
+      "trade_date": "2026-06-16",
+      "ticker": "EML",
+      "company": "Eastern Co",
+      "insider_name": "Mitarotonda James A",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "21.40",
+      "qty": "1679",
+      "owned": "696190",
+      "delta_own": "0%",
+      "value": "35931",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-17",
+      "filing_time": "14:08",
+      "trade_date": "2026-06-16",
+      "ticker": "EML",
+      "company": "Eastern Co",
+      "insider_name": "Scott Peggy",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "21.40",
+      "qty": "1176",
+      "owned": "26262",
+      "delta_own": "+5%",
+      "value": "25166",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-17",
+      "filing_time": "13:51",
+      "trade_date": "2026-06-15",
+      "ticker": "UAMY",
+      "company": "United States Antimony Corp",
+      "insider_name": "Marinelli Jon R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "7.45",
+      "qty": "12500",
+      "owned": "12500",
+      "delta_own": "New",
+      "value": "93125",
+      "cluster_buy": false
     }
   ]
 }
