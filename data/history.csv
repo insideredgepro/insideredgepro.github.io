@@ -7738,7 +7738,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-15,19:53,2026-06-11,LODE,Comstock Inc.,Pei Steven Yu-Tsung,Dir,P - Purchase,4.10,250000,1868323,+15%,1024225,True
 2026-06-15,19:30,2026-06-12,ENPH,"Enphase Energy, Inc.",Trivedi Shanker,Dir,P - Purchase,53.91,1000,5551,+22%,53910,False
 2026-06-15,18:57,2026-06-11,PBLS,"Parabilis Medicines, Inc.","Ra Capital Management, L.P.","Dir, 10%",P - Purchase,20.00,21188750,2648278,-114%,423775000,True
-2026-06-15,18:41,2026-06-15,ADSK,"Autodesk, Inc.",Moorjani Janesh,"EVP, CFO",P - Purchase,197.67,2500,50993,+5%,494175,False
+2026-06-15,18:41,2026-06-15,ADSK,"Autodesk, Inc.",Moorjani Janesh,"EVP, CFO",P - Purchase,197.67,2500,50993,+5%,494175,True
 2026-06-15,18:38,2026-06-11,FDP,Del Monte Corp,Abu-Ghazaleh Ahmad,Dir,P - Purchase,29.41,4000,97177,+4%,117620,False
 2026-06-15,18:26,2026-06-11,MELI,Mercadolibre Inc,Melamud Marcelo,SVP - Chief Accounting Officer,P - Purchase,1604.62,125,237,+111%,200000,False
 2026-06-15,18:24,2026-06-12,CTSO,Cytosorbents Corp,Chan Phillip P.,CEO,P - Purchase,0.40,261469,1744432,+18%,104898,True
@@ -7803,3 +7803,24 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-17,14:18,2026-06-16,EML,Eastern Co,Mitarotonda James A,"Dir, 10%",P - Purchase,21.40,1679,696190,0%,35931,True
 2026-06-17,14:08,2026-06-16,EML,Eastern Co,Scott Peggy,Dir,P - Purchase,21.40,1176,26262,+5%,25166,True
 2026-06-17,13:51,2026-06-15,UAMY,United States Antimony Corp,Marinelli Jon R,Dir,P - Purchase,7.45,12500,12500,New,93125,False
+2026-06-17,18:24,2026-06-15,COAG,"Hemab Therapeutics Holdings, Inc.","Ra Capital Management, L.P.",10%,P - Purchase,24.97,67669,7808627,+1%,1689818,False
+2026-06-17,18:06,2026-06-15,CTNT,Cheetah Net Supply Chain Service Inc.,Liu Huan,"See Remarks, 10%",P - Purchase,2.00,200000,203456,>999%,400000,False
+2026-06-17,16:59,2026-06-15,VTS,"Vitesse Energy, Inc.",Steinberg Joseph S,Dir,P - Purchase,16.16,40882,2774515,+1%,660530,False
+2026-06-17,16:58,2026-06-15,EQPT,Equipmentshare.Com Inc,Schlacks Jabbok,"Co-Founder, CEO",P - Purchase,21.12,50000,14356548,0%,1056039,True
+2026-06-17,16:56,2026-06-15,EQPT,Equipmentshare.Com Inc,Schlacks William J.,"Co-Founder, Pres",P - Purchase,21.47,50000,14356548,0%,1073500,True
+2026-06-17,16:45,2026-06-15,MTDR,Matador Resources Co,Baty Robert Gaines,Dir,P - Purchase,51.44,500,77538,+1%,25720,True
+2026-06-17,16:42,2026-06-16,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.50,6592,2775319,0%,36256,False
+2026-06-17,16:31,2026-06-15,STRR,"Star Equity Holdings, Inc.",Eberwein Jeffrey E.,"CEO, 10%",P - Purchase,11.21,5000,1110714,0%,56049,False
+2026-06-17,16:30,2026-06-16,SPOK,"Spok Holdings, Inc",Stein Todd J,Dir,P - Purchase,10.41,35211,1148047,+3%,366705,False
+2026-06-17,16:30,2026-06-16,NRSN,Neurosense Therapeutics Ltd.,Eisenberg Or,CFO,P - Purchase,0.80,250000,1504050,+20%,200000,True
+2026-06-17,16:30,2026-06-16,NRSN,Neurosense Therapeutics Ltd.,Ben-Noon Alon,CEO,P - Purchase,0.80,250000,4534233,+6%,200000,True
+2026-06-17,16:28,2026-06-16,EML,Eastern Co,Everets John,Dir,P - Purchase,21.40,1310,142504,+1%,28034,True
+2026-06-17,16:23,2026-06-15,ADTX,"Aditxt, Inc.",Hrt Financial LP,10%,P - Purchase,0.01,2114344,344964,-119%,29601,False
+2026-06-17,16:18,2026-06-15,WOK,Work Medical Technology Group Ltd,Hrt Financial LP,10%,P - Purchase,0.10,268927,391456,+219%,25548,False
+2026-06-17,16:17,2026-06-16,HNRG,Hallador Energy Co,Wesley Charles Ray IV,Dir,P - Purchase,16.69,15000,432331,+4%,250314,False
+2026-06-17,16:13,2026-06-15,OCGN,"Ocugen, Inc.",Johnson-Greene Treerita Essalima,CFO,P - Purchase,1.23,21000,521350,+4%,25830,False
+2026-06-17,16:11,2026-06-15,ERII,"Energy Recovery, Inc.",Sabol Colin R,Dir,P - Purchase,8.88,11180,58671,+24%,99267,False
+2026-06-17,16:05,2026-06-15,AVO,"Mission Produce, Inc.",Pack Jay A,Dir,P - Purchase,11.34,188550,1891397,+11%,2138157,True
+2026-06-17,16:05,2026-06-16,ADSK,"Autodesk, Inc.",Anagnost Andrew,"Pres, CEO",P - Purchase,202.66,2460,202963,+1%,498544,True
+2026-06-17,16:05,2026-06-15,AVO,"Mission Produce, Inc.",Taylor Bruce C.,Dir,P - Purchase,11.29,313590,6405130,+5%,3541926,True
+2026-06-17,16:03,2026-06-17,FISV,Fiserv Inc,Mamilli Wafaa,Dir,P - Purchase,50.59,2960,15386,+24%,149746,True
