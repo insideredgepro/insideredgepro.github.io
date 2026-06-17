@@ -7653,12 +7653,12 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-12,07:29,2026-06-08,CLIK,Click Holdings Ltd.,Chan Chun Sing,"CEO, 10%",P - Purchase,1.67,34000,4586000,+1%,56790,False
 2026-06-12,07:01,2026-06-11,ESEA,Euroseas Ltd.,Pittas Aristeidis P,Dir,P - Purchase,67.18,500,58050,+1%,33590,False
 2026-06-12,06:21,2026-06-11,GOTU,Gaotu Techedu Inc.,Chen Xiangdong,CEO,P - Purchase,2.24,200000,7714529,+3%,447000,False
-2026-06-12,06:20,2026-06-10,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.23,701447,13263361,+6%,160000,False
+2026-06-12,06:20,2026-06-10,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.23,701447,13263361,+6%,160000,True
 2026-06-12,10:30,2026-06-12,SRI,Stoneridge Inc,Lasky William M,Dir,P - Purchase,7.46,5000,192666,+3%,37300,True
 2026-06-12,10:30,2026-06-10,MZTI,Marzetti Co,"Pigott, Thomas K.","VP, CFO, Asst. Secretary",P - Purchase,109.01,900,17779,+5%,98109,False
 2026-06-12,09:26,2026-06-10,TMCI,"Treace Medical Concepts, Inc.",Treace John T.,"CEO, 10%",P - Purchase,4.03,24606,12672568,0%,99196,False
 2026-06-12,08:27,2026-06-11,NRDY,Nerdy Inc.,Cohn Charles K.,"CEO, 10%",P - Purchase,0.97,258204,58615745,0%,250458,False
-2026-06-12,13:22,2026-06-11,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.21,218447,13481808,+2%,45000,False
+2026-06-12,13:22,2026-06-11,COSM,Cosmos Health Inc.,Siokas Grigorios,"CEO, 10%",P - Purchase,0.21,218447,13481808,+2%,45000,True
 2026-06-12,13:05,2026-06-11,KRNY,Kearny Financial Corp.,Wong-Zaza Melvina,Dir,P - Purchase,8.58,3500,33910,+12%,30013,True
 2026-06-12,13:00,2026-06-11,MSA,Msa Safety Inc,Beck Julie A,CFO,P - Purchase,158.69,448,3825,+13%,71093,False
 2026-06-12,12:28,2026-06-12,SMMT,Summit Therapeutics Inc.,Duggan Robert W,"Co-CEO, 10%",P - Purchase,13.12,3810000,610015809,+1%,49987200,True
@@ -7796,3 +7796,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-16,21:05,2026-06-12,VRA,"Vera Bradley, Inc.",Meslow Andrew,Dir,P - Purchase,3.73,24926,650000,+4%,92974,True
 2026-06-16,20:41,2026-06-12,AMR,"Alpha Metallurgical Resources, Inc.",Courtis Kenneth S.,Dir,P - Purchase,200.73,10000,985394,+1%,2007296,False
 2026-06-17,06:02,2026-06-16,GOTU,Gaotu Techedu Inc.,Chen Xiangdong,CEO,P - Purchase,2.28,73801,7788330,+1%,167949,False
+2026-06-17,09:15,2026-06-16,COSM,Cosmos Health Inc.,Terzis Georgios,CFO,P - Purchase,0.25,168135,2235398,+8%,42000,True
+2026-06-17,07:49,2026-06-15,BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,2.76,20000,1593872,+1%,55100,True
+2026-06-17,07:38,2026-06-16,ONMD,Onemednet Corp,Yu Jeffrey,"Chief Medical Officer, 10%",P - Purchase,0.58,172414,9933650,+2%,100000,True

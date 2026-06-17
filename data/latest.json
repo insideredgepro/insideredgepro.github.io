@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T11:28:46Z",
-  "trade_count": 7790,
+  "last_updated": "2026-06-17T14:52:48Z",
+  "trade_count": 7793,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -122368,7 +122368,7 @@
       "owned": "13263361",
       "delta_own": "+6%",
       "value": "160000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-12",
@@ -122448,7 +122448,7 @@
       "owned": "13481808",
       "delta_own": "+2%",
       "value": "45000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-12",
@@ -124641,6 +124641,54 @@
       "delta_own": "+1%",
       "value": "167949",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-17",
+      "filing_time": "09:15",
+      "trade_date": "2026-06-16",
+      "ticker": "COSM",
+      "company": "Cosmos Health Inc.",
+      "insider_name": "Terzis Georgios",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "0.25",
+      "qty": "168135",
+      "owned": "2235398",
+      "delta_own": "+8%",
+      "value": "42000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-17",
+      "filing_time": "07:49",
+      "trade_date": "2026-06-15",
+      "ticker": "BZUN",
+      "company": "Baozun Inc.",
+      "insider_name": "Qiu Wenbin",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.76",
+      "qty": "20000",
+      "owned": "1593872",
+      "delta_own": "+1%",
+      "value": "55100",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-17",
+      "filing_time": "07:38",
+      "trade_date": "2026-06-16",
+      "ticker": "ONMD",
+      "company": "Onemednet Corp",
+      "insider_name": "Yu Jeffrey",
+      "title": "Chief Medical Officer, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.58",
+      "qty": "172414",
+      "owned": "9933650",
+      "delta_own": "+2%",
+      "value": "100000",
+      "cluster_buy": true
     }
   ]
 }
