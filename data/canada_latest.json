@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T16:00:18Z",
-  "trade_count": 3296,
+  "last_updated": "2026-06-17T22:01:02Z",
+  "trade_count": 3300,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -50288,6 +50288,70 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4736670",
+      "trade_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "company": "Element Fleet Management Corp. (formerly Element Financial Corporation)",
+      "ticker": "EFN",
+      "insider_name": "Taylor, Kathleen",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "28.4760",
+      "value": "142380",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4736782",
+      "trade_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "company": "Elevate Service Group Inc.",
+      "ticker": "SERV",
+      "insider_name": "Unger, Aaron Isaac",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "1.8997",
+      "value": "37994",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4736783",
+      "trade_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "company": "illumin Holdings Inc.",
+      "ticker": "ILLM",
+      "insider_name": "Barker, Bruce William",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "0.7300",
+      "value": "36500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4736632",
+      "trade_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "company": "Pacifica Silver Corp.",
+      "ticker": "PSIL.CN",
+      "insider_name": "Anthony, Todd",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "25000",
+      "price": "1.1900",
+      "value": "29750",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
