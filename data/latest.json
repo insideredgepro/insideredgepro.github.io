@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T10:06:24Z",
-  "trade_count": 7819,
+  "last_updated": "2026-06-18T13:56:39Z",
+  "trade_count": 7821,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -125104,6 +125104,38 @@
       "owned": "116854",
       "delta_own": "+51%",
       "value": "491612",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-18",
+      "filing_time": "06:58",
+      "trade_date": "2026-06-08",
+      "ticker": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "21.13",
+      "qty": "216300",
+      "owned": "76739700",
+      "delta_own": "0%",
+      "value": "4570570",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-18",
+      "filing_time": "06:11",
+      "trade_date": "2026-06-17",
+      "ticker": "GOTU",
+      "company": "Gaotu Techedu Inc.",
+      "insider_name": "Chen Xiangdong",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.42",
+      "qty": "59148",
+      "owned": "7847478",
+      "delta_own": "+1%",
+      "value": "142919",
       "cluster_buy": false
     }
   ]
