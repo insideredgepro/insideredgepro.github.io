@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T16:52:58Z",
-  "trade_count": 7822,
+  "last_updated": "2026-06-18T19:18:23Z",
+  "trade_count": 7823,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -125153,6 +125153,22 @@
       "delta_own": "+2%",
       "value": "157990",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-18",
+      "filing_time": "13:21",
+      "trade_date": "2026-06-17",
+      "ticker": "KRNY",
+      "company": "Kearny Financial Corp.",
+      "insider_name": "Fields Curtland E",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "8.37",
+      "qty": "8550",
+      "owned": "43200",
+      "delta_own": "+25%",
+      "value": "71526",
+      "cluster_buy": true
     }
   ]
 }
