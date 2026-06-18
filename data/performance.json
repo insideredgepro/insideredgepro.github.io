@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-18",
-  "entry_count": 1676,
+  "entry_count": 1678,
   "entries": [
     {
       "id": "US|KLRA|2026-04-20|bain capital investors llc|16.0",
@@ -2896,8 +2896,8 @@
         "2026-06-17": 0.052,
         "2026-06-18": 0.08
       },
-      "latest_price": 0.06,
-      "return_pct": 50.0,
+      "latest_price": 0.08,
+      "return_pct": 100.0,
       "last_snapshot": "2026-06-18"
     },
     {
@@ -2968,8 +2968,8 @@
         "2026-06-17": 0.052,
         "2026-06-18": 0.08
       },
-      "latest_price": 0.06,
-      "return_pct": 50.0,
+      "latest_price": 0.08,
+      "return_pct": 100.0,
       "last_snapshot": "2026-06-18"
     },
     {
@@ -3040,8 +3040,8 @@
         "2026-06-17": 0.052,
         "2026-06-18": 0.08
       },
-      "latest_price": 0.06,
-      "return_pct": 50.0,
+      "latest_price": 0.08,
+      "return_pct": 100.0,
       "last_snapshot": "2026-06-18"
     },
     {
@@ -4192,8 +4192,8 @@
         "2026-06-17": 0.052,
         "2026-06-18": 0.08
       },
-      "latest_price": 0.06,
-      "return_pct": 50.0,
+      "latest_price": 0.08,
+      "return_pct": 100.0,
       "last_snapshot": "2026-06-18"
     },
     {
@@ -8975,8 +8975,8 @@
         "2026-06-17": 0.097,
         "2026-06-18": 0.112
       },
-      "latest_price": 0.106,
-      "return_pct": 32.5,
+      "latest_price": 0.112,
+      "return_pct": 40.0,
       "last_snapshot": "2026-06-18"
     },
     {
@@ -14918,8 +14918,8 @@
         "2026-06-17": 1.0,
         "2026-06-18": 1.07
       },
-      "latest_price": 1.07,
-      "return_pct": 5.94,
+      "latest_price": 1.0099,
+      "return_pct": -0.01,
       "last_snapshot": "2026-06-18"
     },
     {
@@ -20764,8 +20764,8 @@
         "2026-06-17": 0.09,
         "2026-06-18": 0.082
       },
-      "latest_price": 0.077,
-      "return_pct": -30.0,
+      "latest_price": 0.082,
+      "return_pct": -25.45,
       "last_snapshot": "2026-06-18"
     },
     {
@@ -30979,8 +30979,8 @@
         "2026-06-17": 0.09,
         "2026-06-18": 0.082
       },
-      "latest_price": 0.077,
-      "return_pct": -30.0,
+      "latest_price": 0.082,
+      "return_pct": -25.45,
       "last_snapshot": "2026-06-18"
     },
     {
@@ -49038,8 +49038,8 @@
         "2026-06-17": 0.175,
         "2026-06-18": 0.174
       },
-      "latest_price": 0.175,
-      "return_pct": -30.0,
+      "latest_price": 0.174,
+      "return_pct": -30.4,
       "last_snapshot": "2026-06-18"
     },
     {
@@ -61454,8 +61454,8 @@
         "2026-06-17": 0.85,
         "2026-06-18": 0.78
       },
-      "latest_price": 0.8,
-      "return_pct": 100.0,
+      "latest_price": 0.78,
+      "return_pct": 95.0,
       "last_snapshot": "2026-06-18"
     },
     {
@@ -61734,8 +61734,8 @@
         "2026-06-17": 0.405,
         "2026-06-18": 0.385
       },
-      "latest_price": 0.3949,
-      "return_pct": 12.83,
+      "latest_price": 0.385,
+      "return_pct": 10.0,
       "last_snapshot": "2026-06-18"
     },
     {
@@ -67126,8 +67126,8 @@
         "2026-06-17": 0.405,
         "2026-06-18": 0.385
       },
-      "latest_price": 0.3949,
-      "return_pct": -12.24,
+      "latest_price": 0.385,
+      "return_pct": -14.44,
       "last_snapshot": "2026-06-18"
     },
     {
@@ -71294,8 +71294,8 @@
         "2026-06-17": 0.5,
         "2026-06-18": 0.52
       },
-      "latest_price": 0.49,
-      "return_pct": 8.89,
+      "latest_price": 0.52,
+      "return_pct": 15.56,
       "last_snapshot": "2026-06-18"
     },
     {
@@ -76449,8 +76449,8 @@
         "2026-06-17": 0.175,
         "2026-06-18": 0.174
       },
-      "latest_price": 0.175,
-      "return_pct": -23.91,
+      "latest_price": 0.174,
+      "return_pct": -24.35,
       "last_snapshot": "2026-06-18"
     },
     {
@@ -77386,6 +77386,46 @@
       },
       "latest_price": 47.86,
       "return_pct": -3.7,
+      "last_snapshot": "2026-06-18"
+    },
+    {
+      "id": "US|VMAR|2026-06-16|hrt financial lp|0.29",
+      "market": "US",
+      "ticker": "VMAR",
+      "yf_symbol": "VMAR",
+      "company": "Vision Marine Technologies Inc.",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_date": "2026-06-16",
+      "trade_price": 0.29,
+      "value": 68967.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-18": 2.97
+      },
+      "latest_price": 2.97,
+      "return_pct": 924.14,
+      "last_snapshot": "2026-06-18"
+    },
+    {
+      "id": "US|XRAY|2026-06-12|mazelsky jonathan jay|10.14",
+      "market": "US",
+      "ticker": "XRAY",
+      "yf_symbol": "XRAY",
+      "company": "Dentsply Sirona Inc.",
+      "insider_name": "Mazelsky Jonathan Jay",
+      "title": "Dir",
+      "trade_date": "2026-06-12",
+      "trade_price": 10.14,
+      "value": 101400.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-18": 10.33
+      },
+      "latest_price": 10.33,
+      "return_pct": 1.87,
       "last_snapshot": "2026-06-18"
     }
   ]

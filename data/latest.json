@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T21:58:24Z",
-  "trade_count": 7829,
+  "last_updated": "2026-06-18T23:44:56Z",
+  "trade_count": 7832,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -125265,6 +125265,54 @@
       "delta_own": "+6%",
       "value": "499982",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-18",
+      "filing_time": "18:55",
+      "trade_date": "2026-06-16",
+      "ticker": "VMAR",
+      "company": "Vision Marine Technologies Inc.",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "0.29",
+      "qty": "234583",
+      "owned": "202475",
+      "delta_own": "-731%",
+      "value": "68967",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-18",
+      "filing_time": "18:23",
+      "trade_date": "2026-06-12",
+      "ticker": "XRAY",
+      "company": "Dentsply Sirona Inc.",
+      "insider_name": "Mazelsky Jonathan Jay",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "10.14",
+      "qty": "10000",
+      "owned": "61669",
+      "delta_own": "+19%",
+      "value": "101400",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-18",
+      "filing_time": "18:20",
+      "trade_date": "2025-05-25",
+      "ticker": "HMMR",
+      "company": "Hammer Technology Holdings Corp.",
+      "insider_name": "Sevell Michael",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.25",
+      "qty": "10754542",
+      "owned": "18822778",
+      "delta_own": "+133%",
+      "value": "2740799",
+      "cluster_buy": false
     }
   ]
 }
