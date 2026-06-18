@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T22:01:02Z",
-  "trade_count": 3300,
+  "last_updated": "2026-06-18T03:45:39Z",
+  "trade_count": 3301,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -50349,6 +50349,22 @@
       "qty": "25000",
       "price": "1.1900",
       "value": "29750",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4736840",
+      "trade_date": "2026-06-17",
+      "filing_date": "2026-06-17",
+      "company": "Arizona Eagle Mining Corp. (formerly Core Nickel Corp.)",
+      "ticker": "AZEM",
+      "insider_name": "Reid, Paul Gregory",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "14000",
+      "price": "1.1000",
+      "value": "15400",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
