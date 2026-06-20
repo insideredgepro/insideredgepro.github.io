@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T22:00:29Z",
-  "trade_count": 3324,
+  "last_updated": "2026-06-20T03:45:18Z",
+  "trade_count": 3325,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -50736,6 +50736,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4738169",
+      "trade_date": "2026-06-19",
+      "filing_date": "2026-06-19",
+      "company": "Happy Belly Food Group Inc.",
+      "ticker": "HBFG.CN",
+      "insider_name": "Thomas, Ian Andrew",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "1.6823",
+      "value": "33646",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
