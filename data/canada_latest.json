@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T03:45:18Z",
-  "trade_count": 3325,
+  "last_updated": "2026-06-22T16:00:49Z",
+  "trade_count": 3326,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -50749,6 +50749,22 @@
       "qty": "20000",
       "price": "1.6823",
       "value": "33646",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4738429",
+      "trade_date": "2026-06-22",
+      "filing_date": "2026-06-22",
+      "company": "West Red Lake Gold Mines Ltd.",
+      "ticker": "WRLG",
+      "insider_name": "Williams, Shane",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "0.7000",
+      "value": "35000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
