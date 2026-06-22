@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-22",
-  "entry_count": 1714,
+  "entry_count": 1730,
   "entries": [
     {
       "id": "US|TNL|2026-04-23|hoag erik d|65.67",
@@ -82817,6 +82817,326 @@
       },
       "latest_price": 21.09,
       "return_pct": 0.48,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|FCBM|2026-06-18|deaton steven g|12.5",
+      "market": "US",
+      "ticker": "FCBM",
+      "yf_symbol": "FCBM",
+      "company": "First Carolina Financial Services, Inc.",
+      "insider_name": "Deaton Steven G",
+      "title": "CFO, Chief Risk Officer",
+      "trade_date": "2026-06-18",
+      "trade_price": 12.5,
+      "value": 50000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 12.58
+      },
+      "latest_price": 12.58,
+      "return_pct": 0.64,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|FCBM|2026-06-18|boone sandra bell|12.5",
+      "market": "US",
+      "ticker": "FCBM",
+      "yf_symbol": "FCBM",
+      "company": "First Carolina Financial Services, Inc.",
+      "insider_name": "Boone Sandra Bell",
+      "title": "Dir",
+      "trade_date": "2026-06-18",
+      "trade_price": 12.5,
+      "value": 87500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 12.58
+      },
+      "latest_price": 12.58,
+      "return_pct": 0.64,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|FCBM|2026-06-18|shannon kevin meek|12.5",
+      "market": "US",
+      "ticker": "FCBM",
+      "yf_symbol": "FCBM",
+      "company": "First Carolina Financial Services, Inc.",
+      "insider_name": "Shannon Kevin Meek",
+      "title": "Dir",
+      "trade_date": "2026-06-18",
+      "trade_price": 12.5,
+      "value": 50000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 12.58
+      },
+      "latest_price": 12.58,
+      "return_pct": 0.64,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|FCBM|2026-06-18|robbins charles austin jr|12.5",
+      "market": "US",
+      "ticker": "FCBM",
+      "yf_symbol": "FCBM",
+      "company": "First Carolina Financial Services, Inc.",
+      "insider_name": "Robbins Charles Austin Jr",
+      "title": "Dir",
+      "trade_date": "2026-06-18",
+      "trade_price": 12.5,
+      "value": 175000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 12.58
+      },
+      "latest_price": 12.58,
+      "return_pct": 0.64,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|FCBM|2026-06-18|paul charles albert iii|12.5",
+      "market": "US",
+      "ticker": "FCBM",
+      "yf_symbol": "FCBM",
+      "company": "First Carolina Financial Services, Inc.",
+      "insider_name": "Paul Charles Albert III",
+      "title": "Dir",
+      "trade_date": "2026-06-18",
+      "trade_price": 12.5,
+      "value": 87500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 12.58
+      },
+      "latest_price": 12.58,
+      "return_pct": 0.64,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|FCBM|2026-06-18|lucas james a jr|12.5",
+      "market": "US",
+      "ticker": "FCBM",
+      "yf_symbol": "FCBM",
+      "company": "First Carolina Financial Services, Inc.",
+      "insider_name": "Lucas James A Jr",
+      "title": "Dir",
+      "trade_date": "2026-06-18",
+      "trade_price": 12.5,
+      "value": 239750.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 12.58
+      },
+      "latest_price": 12.58,
+      "return_pct": 0.64,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|FCBM|2026-06-18|gussenhoven john walter|12.5",
+      "market": "US",
+      "ticker": "FCBM",
+      "yf_symbol": "FCBM",
+      "company": "First Carolina Financial Services, Inc.",
+      "insider_name": "Gussenhoven John Walter",
+      "title": "Dir",
+      "trade_date": "2026-06-18",
+      "trade_price": 12.5,
+      "value": 200000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 12.58
+      },
+      "latest_price": 12.58,
+      "return_pct": 0.64,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|FCBM|2026-06-18|floyd gregory everette|12.5",
+      "market": "US",
+      "ticker": "FCBM",
+      "yf_symbol": "FCBM",
+      "company": "First Carolina Financial Services, Inc.",
+      "insider_name": "Floyd Gregory Everette",
+      "title": "Dir",
+      "trade_date": "2026-06-18",
+      "trade_price": 12.5,
+      "value": 357813.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 12.58
+      },
+      "latest_price": 12.58,
+      "return_pct": 0.64,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|FCBM|2026-06-18|ferebee john jethro jr|12.5",
+      "market": "US",
+      "ticker": "FCBM",
+      "yf_symbol": "FCBM",
+      "company": "First Carolina Financial Services, Inc.",
+      "insider_name": "Ferebee John Jethro Jr",
+      "title": "Dir",
+      "trade_date": "2026-06-18",
+      "trade_price": 12.5,
+      "value": 176300.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 12.58
+      },
+      "latest_price": 12.58,
+      "return_pct": 0.64,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|FCBM|2026-06-18|andracchio vincent charles ii|12.5",
+      "market": "US",
+      "ticker": "FCBM",
+      "yf_symbol": "FCBM",
+      "company": "First Carolina Financial Services, Inc.",
+      "insider_name": "Andracchio Vincent Charles II",
+      "title": "Dir",
+      "trade_date": "2026-06-18",
+      "trade_price": 12.5,
+      "value": 100000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 12.58
+      },
+      "latest_price": 12.58,
+      "return_pct": 0.64,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|FCBM|2026-06-18|ford douglas iv|12.5",
+      "market": "US",
+      "ticker": "FCBM",
+      "yf_symbol": "FCBM",
+      "company": "First Carolina Financial Services, Inc.",
+      "insider_name": "Ford Douglas IV",
+      "title": "Chief Banking Officer of Bank",
+      "trade_date": "2026-06-18",
+      "trade_price": 12.5,
+      "value": 50000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 12.58
+      },
+      "latest_price": 12.58,
+      "return_pct": 0.64,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|FCBM|2026-06-18|day ronald arvin|12.5",
+      "market": "US",
+      "ticker": "FCBM",
+      "yf_symbol": "FCBM",
+      "company": "First Carolina Financial Services, Inc.",
+      "insider_name": "Day Ronald Arvin",
+      "title": "COB, Pres, CEO",
+      "trade_date": "2026-06-18",
+      "trade_price": 12.5,
+      "value": 50000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 12.58
+      },
+      "latest_price": 12.58,
+      "return_pct": 0.64,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|BZFD|2026-06-17|hill terence|1.44",
+      "market": "US",
+      "ticker": "BZFD",
+      "yf_symbol": "BZFD",
+      "company": "Buzzfeed, Inc.",
+      "insider_name": "Hill Terence",
+      "title": "Dir",
+      "trade_date": "2026-06-17",
+      "trade_price": 1.44,
+      "value": 30000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 1.42
+      },
+      "latest_price": 1.42,
+      "return_pct": -1.39,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|BZFD|2026-06-17|malone chris|1.44",
+      "market": "US",
+      "ticker": "BZFD",
+      "yf_symbol": "BZFD",
+      "company": "Buzzfeed, Inc.",
+      "insider_name": "Malone Chris",
+      "title": "Dir",
+      "trade_date": "2026-06-17",
+      "trade_price": 1.44,
+      "value": 25000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 1.42
+      },
+      "latest_price": 1.42,
+      "return_pct": -1.39,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|BZFD|2026-06-17|gould eric|1.44",
+      "market": "US",
+      "ticker": "BZFD",
+      "yf_symbol": "BZFD",
+      "company": "Buzzfeed, Inc.",
+      "insider_name": "Gould Eric",
+      "title": "Dir",
+      "trade_date": "2026-06-17",
+      "trade_price": 1.44,
+      "value": 47520.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 1.42
+      },
+      "latest_price": 1.42,
+      "return_pct": -1.39,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|GO|2026-06-18|miller paul blaine|9.37",
+      "market": "US",
+      "ticker": "GO",
+      "yf_symbol": "GO",
+      "company": "Grocery Outlet Holding Corp.",
+      "insider_name": "Miller Paul Blaine",
+      "title": "See Remarks",
+      "trade_date": "2026-06-18",
+      "trade_price": 9.37,
+      "value": 93700.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 9.36
+      },
+      "latest_price": 9.36,
+      "return_pct": -0.11,
       "last_snapshot": "2026-06-22"
     }
   ]
