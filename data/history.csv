@@ -7598,7 +7598,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-09,19:45,2026-06-05,GTE,Gran Tierra Energy Inc.,Lm Asset Management Inc.,10%,P - Purchase,7.38,86000,4825750,+2%,634841,False
 2026-06-10,07:15,2026-06-09,QFIN,"Qfin Holdings, Inc.",Chen Xiaohuan,Dir,P - Purchase,14.41,4000,269000,+2%,57640,False
 2026-06-10,09:01,2026-06-09,MP,Mp Materials Corp. / De,Rosenthal Michael Stuart,COO,P - Purchase,54.30,10000,1470295,+1%,543000,False
-2026-06-10,08:13,2026-06-09,BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,4.70,1063000,27267808,+4%,4996100,False
+2026-06-10,08:13,2026-06-09,BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,4.70,1063000,27267808,+4%,4996100,True
 2026-06-10,07:39,2026-05-29,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,24.99,165240,76523400,0%,4128862,False
 2026-06-10,12:36,2026-06-08,PICS,Pics N.V.,Batista Costa Jose Antonio,Dir,P - Purchase,9.42,21130,4355309,0%,199045,True
 2026-06-10,11:48,2026-06-08,FLO,Flowers Foods Inc,Scaglione Diego Anthony,CFO,P - Purchase,7.51,5000,194180,+3%,37542,False
@@ -7906,3 +7906,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-22,06:25,2026-05-26,VENU,Venu Holding Corp,Finke Thomas M,Dir,P - Purchase,3.74,15000,44961,+50%,56100,False
 2026-06-22,06:09,2026-06-18,GOTU,Gaotu Techedu Inc.,Chen Xiangdong,CEO,P - Purchase,2.50,167051,8014529,+2%,418045,False
 2026-06-22,06:01,2026-06-18,ESOA,Energy Services of America Corp,Reynolds Douglas V,"Pres, 10%",P - Purchase,16.26,6000,1931593,0%,97560,False
+2026-06-22,11:27,2026-06-17,BORR,Borr Drilling Ltd,Schorn Patrick,Dir,P - Purchase,1.66,1200000,3535000,+51%,1992000,True
+2026-06-22,11:26,2026-06-17,BORR,Borr Drilling Ltd,Morand De Oliveira Bruno,CEO,P - Purchase,1.66,275000,969828,+40%,456500,True
+2026-06-22,10:30,2026-06-17,KTTA,Pasithea Therapeutics Corp.,Coastlands Capital LP,10%,P - Purchase,0.53,100000,3835035,+3%,53000,False

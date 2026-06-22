@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-22T14:27:39Z",
-  "trade_count": 7900,
+  "last_updated": "2026-06-22T18:40:59Z",
+  "trade_count": 7903,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -121488,7 +121488,7 @@
       "owned": "27267808",
       "delta_own": "+4%",
       "value": "4996100",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-10",
@@ -126400,6 +126400,54 @@
       "owned": "1931593",
       "delta_own": "0%",
       "value": "97560",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-22",
+      "filing_time": "11:27",
+      "trade_date": "2026-06-17",
+      "ticker": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Schorn Patrick",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.66",
+      "qty": "1200000",
+      "owned": "3535000",
+      "delta_own": "+51%",
+      "value": "1992000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-22",
+      "filing_time": "11:26",
+      "trade_date": "2026-06-17",
+      "ticker": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Morand De Oliveira Bruno",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.66",
+      "qty": "275000",
+      "owned": "969828",
+      "delta_own": "+40%",
+      "value": "456500",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-22",
+      "filing_time": "10:30",
+      "trade_date": "2026-06-17",
+      "ticker": "KTTA",
+      "company": "Pasithea Therapeutics Corp.",
+      "insider_name": "Coastlands Capital LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "0.53",
+      "qty": "100000",
+      "owned": "3835035",
+      "delta_own": "+3%",
+      "value": "53000",
       "cluster_buy": false
     }
   ]
