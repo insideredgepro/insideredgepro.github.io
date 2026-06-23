@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-22",
-  "entry_count": 1730,
+  "entry_count": 1733,
   "entries": [
     {
       "id": "US|TNL|2026-04-23|hoag erik d|65.67",
@@ -5002,8 +5002,8 @@
         "2026-06-21": 6.4,
         "2026-06-22": 6.4
       },
-      "latest_price": 6.4,
-      "return_pct": 28.0,
+      "latest_price": 6.0,
+      "return_pct": 20.0,
       "last_snapshot": "2026-06-22"
     },
     {
@@ -83137,6 +83137,66 @@
       },
       "latest_price": 9.36,
       "return_pct": -0.11,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|NMM|2026-06-17|frangou angeliki|71.93",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-06-17",
+      "trade_price": 71.93,
+      "value": 249163.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 71.84
+      },
+      "latest_price": 71.84,
+      "return_pct": -0.13,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|MSTR|2026-06-22|le phong|90.8",
+      "market": "US",
+      "ticker": "MSTR",
+      "yf_symbol": "MSTR",
+      "company": "Strategy Inc",
+      "insider_name": "Le Phong",
+      "title": "Pres, CEO",
+      "trade_date": "2026-06-22",
+      "trade_price": 90.8,
+      "value": 998756.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 109.46
+      },
+      "latest_price": 109.46,
+      "return_pct": 20.55,
+      "last_snapshot": "2026-06-22"
+    },
+    {
+      "id": "US|CNTM|2026-06-08|choudhury mahesh|13.11",
+      "market": "US",
+      "ticker": "CNTM",
+      "yf_symbol": "CNTM",
+      "company": "Connectm Technology Solutions, Inc.",
+      "insider_name": "Choudhury Mahesh",
+      "title": "Principal Financial Officer",
+      "trade_date": "2026-06-08",
+      "trade_price": 13.11,
+      "value": 34582.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-22": 8.5
+      },
+      "latest_price": 8.5,
+      "return_pct": -35.16,
       "last_snapshot": "2026-06-22"
     }
   ]

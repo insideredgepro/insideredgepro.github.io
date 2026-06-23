@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-22T23:12:42Z",
-  "trade_count": 7927,
+  "last_updated": "2026-06-23T02:26:51Z",
+  "trade_count": 7930,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -126832,6 +126832,54 @@
       "owned": "1050000",
       "delta_own": "+14%",
       "value": "1309813",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-22",
+      "filing_time": "21:10",
+      "trade_date": "2026-06-17",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "71.93",
+      "qty": "3464",
+      "owned": "5740611",
+      "delta_own": "0%",
+      "value": "249163",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-22",
+      "filing_time": "19:57",
+      "trade_date": "2026-06-22",
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "insider_name": "Le Phong",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "90.80",
+      "qty": "11000",
+      "owned": "156018",
+      "delta_own": "+8%",
+      "value": "998756",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-22",
+      "filing_time": "19:14",
+      "trade_date": "2026-06-08",
+      "ticker": "CNTM",
+      "company": "Connectm Technology Solutions, Inc.",
+      "insider_name": "Choudhury Mahesh",
+      "title": "Principal Financial Officer",
+      "trade_type": "P - Purchase",
+      "price": "13.11",
+      "qty": "2637",
+      "owned": "37192",
+      "delta_own": "+8%",
+      "value": "34582",
       "cluster_buy": false
     }
   ]
