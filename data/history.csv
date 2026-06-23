@@ -7809,7 +7809,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-17,16:58,2026-06-15,EQPT,Equipmentshare.Com Inc,Schlacks Jabbok,"Co-Founder, CEO",P - Purchase,21.12,50000,14356548,0%,1056039,True
 2026-06-17,16:56,2026-06-15,EQPT,Equipmentshare.Com Inc,Schlacks William J.,"Co-Founder, Pres",P - Purchase,21.47,50000,14356548,0%,1073500,True
 2026-06-17,16:45,2026-06-15,MTDR,Matador Resources Co,Baty Robert Gaines,Dir,P - Purchase,51.44,500,77538,+1%,25720,True
-2026-06-17,16:42,2026-06-16,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.50,6592,2775319,0%,36256,False
+2026-06-17,16:42,2026-06-16,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.50,6592,2775319,0%,36256,True
 2026-06-17,16:31,2026-06-15,STRR,"Star Equity Holdings, Inc.",Eberwein Jeffrey E.,"CEO, 10%",P - Purchase,11.21,5000,1110714,0%,56049,False
 2026-06-17,16:30,2026-06-16,SPOK,"Spok Holdings, Inc",Stein Todd J,Dir,P - Purchase,10.41,35211,1148047,+3%,366705,False
 2026-06-17,16:30,2026-06-16,NRSN,Neurosense Therapeutics Ltd.,Eisenberg Or,CFO,P - Purchase,0.80,250000,1504050,+20%,200000,True
@@ -7899,7 +7899,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-22,09:06,2026-06-18,NTST,Netstreit Corp.,Manheimer Mark,"Pres, CEO, Secretary",P - Purchase,19.19,5000,415260,+1%,95950,False
 2026-06-22,09:00,2026-06-18,CRDF,"Cardiff Oncology, Inc.",Mohindru Mani,CEO,P - Purchase,1.21,24703,24703,New,29891,True
 2026-06-22,09:00,2026-06-18,CRDF,"Cardiff Oncology, Inc.",Pace Gary W,Dir,P - Purchase,1.22,30000,1356376,+2%,36600,True
-2026-06-22,08:33,2026-06-18,ICCC,Immucell Corp /De/,Te Boekhorst Paul Francis Olivier,"Pres, CEO",P - Purchase,9.50,8000,17785,+82%,75960,False
+2026-06-22,08:33,2026-06-18,ICCC,Immucell Corp /De/,Te Boekhorst Paul Francis Olivier,"Pres, CEO",P - Purchase,9.50,8000,17785,+82%,75960,True
 2026-06-22,07:07,2026-06-17,AVO,"Mission Produce, Inc.",Taylor Bruce C.,Dir,P - Purchase,11.27,286410,6691540,+4%,3227841,True
 2026-06-22,06:33,2026-06-17,BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,2.80,20000,1613872,+1%,56000,True
 2026-06-22,06:27,2026-06-17,BZUN,Baozun Inc.,Wu Junhua,Chief Strategy Officer,P - Purchase,2.84,18500,224770,+9%,52540,True
@@ -7911,7 +7911,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-22,10:30,2026-06-17,KTTA,Pasithea Therapeutics Corp.,Coastlands Capital LP,10%,P - Purchase,0.53,100000,3835035,+3%,53000,False
 2026-06-22,17:06,2026-06-18,NTRP,"Nexttrip, Inc.",Jiang David T,Dir,P - Purchase,2.75,18200,1582157,+1%,50050,False
 2026-06-22,16:57,2026-06-17,GLP,Global Partners LP,Global Gp LLC,General Partner,P - Purchase,43.05,10000,146584,+7%,430450,True
-2026-06-22,16:32,2026-06-18,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.50,7084,2782403,0%,38962,False
+2026-06-22,16:32,2026-06-18,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.50,7084,2782403,0%,38962,True
 2026-06-22,16:26,2026-06-17,TUSK,"Mammoth Energy Services, Inc.",Wexford Capital LP,"Chief Business Officer, 10%",P - Purchase,2.60,4019574,12071823,+50%,10468177,False
 2026-06-22,16:17,2026-06-18,LOVE,Lovesac Co,Heyer Andrew R,Dir,P - Purchase,14.68,30000,293259,+11%,440400,False
 2026-06-22,16:05,2026-06-18,COR,"Cencora, Inc.",Durcan Dermot Mark,Dir,P - Purchase,274.19,4000,31767,+14%,1096760,False
@@ -7936,3 +7936,26 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-22,21:10,2026-06-17,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,71.93,3464,5740611,0%,249163,False
 2026-06-22,19:57,2026-06-22,MSTR,Strategy Inc,Le Phong,"Pres, CEO",P - Purchase,90.80,11000,156018,+8%,998756,False
 2026-06-22,19:14,2026-06-08,CNTM,"Connectm Technology Solutions, Inc.",Choudhury Mahesh,Principal Financial Officer,P - Purchase,13.11,2637,37192,+8%,34582,False
+2026-06-23,06:51,2026-06-22,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Yuan Lipen,VP,P - Purchase,79.19,1000,5000,+25%,79190,False
+2026-06-22,21:10,2026-06-22,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,71.39,1187,4751539,+0%,84734,False
+2026-06-22,21:10,2026-06-18,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,71.10,1151,4750352,+0%,81836,False
+2026-06-22,21:10,2026-06-17,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,73.35,1126,4749201,+0%,82593,False
+2026-06-22,19:57,2026-06-22,STRC,Strategy Inc,Le Phong,President & CEO,P - Purchase,90.80,11000,11000,New,998756,False
+2026-06-22,19:03,2026-06-18,FCBM,"First Carolina Financial Services, Inc.",Lucas James A Jr,Director,P - Purchase,12.50,3180,52860,+6%,39750,True
+2026-06-22,19:03,2026-06-18,FCBM,"First Carolina Financial Services, Inc.",Lucas James A Jr,Director,P - Purchase,12.50,16000,439884,+4%,200000,True
+2026-06-22,19:03,2026-06-18,FCBM,"First Carolina Financial Services, Inc.",Floyd Gregory Everette,Director,P - Purchase,12.50,9875,43375,+29%,123438,True
+2026-06-22,19:03,2026-06-18,FCBM,"First Carolina Financial Services, Inc.",Floyd Gregory Everette,Director,P - Purchase,12.50,18750,152990,+14%,234375,True
+2026-06-22,19:02,2026-06-18,FCBM,"First Carolina Financial Services, Inc.",Ferebee John Jethro Jr,Director,P - Purchase,12.51,7100,7100,New,88800,True
+2026-06-22,19:02,2026-06-18,FCBM,"First Carolina Financial Services, Inc.",Ferebee John Jethro Jr,Director,P - Purchase,12.50,7000,300176,+2%,87500,True
+2026-06-22,17:58,2026-02-27,TVA,Texas Ventures Acquisition III Corp,Angelo Mark,Director,P - Purchase,10.48,125000,1050000,+14%,1309812,False
+2026-06-22,16:57,2026-06-18,GLP,Global Partners LP,Global Gp Llc,General Partner,P - Purchase,42.81,5000,146584,+4%,214050,True
+2026-06-22,16:57,2026-06-17,GLP,Global Partners LP,Global Gp Llc,General Partner,P - Purchase,43.28,5000,141584,+4%,216400,True
+2026-06-22,16:32,2026-06-18,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management Ll,10% Owner,P - Purchase,5.50,6460,2087457,+0%,35530,True
+2026-06-22,14:45,2026-06-18,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10% Owner,P - Purchase,21.54,40000,7300000,+1%,861522,False
+2026-06-22,14:45,2026-06-17,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10% Owner,P - Purchase,20.09,24314,7260000,+0%,488489,False
+2026-06-22,11:49,2026-06-18,MXF,"The Mexico Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,22.19,1261,2239983,+0%,27982,False
+2026-06-22,11:49,2026-06-17,MXF,"The Mexico Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,22.23,4037,2238722,+0%,89743,False
+2026-06-22,11:46,2026-06-17,GF,"The New Germany Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,11.81,10176,3602711,+0%,120179,False
+2026-06-22,08:33,2026-06-18,ICCC,Immucell Corp /De/,Te Boekhorst Paul Francis Oliv,President and CEO,P - Purchase,9.49,8000,17785,+82%,75960,True
+2026-06-22,06:33,2026-06-18,BZUN,Baozun Inc.,Qiu Wenbin,Chief Executive Officer,P - Purchase,2.77,10000,1613872,+1%,27700,True
+2026-06-22,06:33,2026-06-17,BZUN,Baozun Inc.,Qiu Wenbin,Chief Executive Officer,P - Purchase,2.83,10000,1603872,+1%,28300,True
