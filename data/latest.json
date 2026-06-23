@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-23T13:38:45Z",
-  "trade_count": 7953,
+  "last_updated": "2026-06-23T16:21:59Z",
+  "trade_count": 7955,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -127249,6 +127249,38 @@
       "delta_own": "+1%",
       "value": "28300",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-23",
+      "filing_time": "12:03",
+      "trade_date": "2026-06-18",
+      "ticker": "CSR",
+      "company": "Centerspace",
+      "insider_name": "Schissel John A",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "54.90",
+      "qty": "500",
+      "owned": "17195",
+      "delta_own": "+3%",
+      "value": "27450",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-23",
+      "filing_time": "06:50",
+      "trade_date": "2026-06-18",
+      "ticker": "CLIK",
+      "company": "Click Holdings Ltd.",
+      "insider_name": "Chan Chun Sing",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.42",
+      "qty": "20000",
+      "owned": "4606000",
+      "delta_own": "0%",
+      "value": "28450",
+      "cluster_buy": false
     }
   ]
 }
