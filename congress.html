@@ -204,12 +204,14 @@
     .view-tab.active { background: var(--surface3); color: var(--gold); border: 1px solid rgba(26,188,219,.2); }
     @media (max-width: 600px) {
       .view-toggle {
-        width: auto; max-width: calc(100% - 20px); margin: 8px auto;
-        justify-content: flex-start; overflow-x: auto; -webkit-overflow-scrolling: touch;
-        scrollbar-width: none;
+        width: 100%; max-width: calc(100% - 16px); margin: 8px auto;
+        display: flex; gap: 3px; box-sizing: border-box;
       }
-      .view-toggle::-webkit-scrollbar { display: none; }
-      .view-tab { padding: 7px 12px; font-size: 12px; gap: 5px; flex-shrink: 0; white-space: nowrap; }
+      .view-tab {
+        flex: 1 1 0; min-width: 0; justify-content: center;
+        padding: 8px 2px; font-size: 11px; gap: 0; white-space: nowrap;
+      }
+      .view-tab svg { display: none; }
     }
 
     /* ── View containers ── */
@@ -242,18 +244,23 @@
       #view-perf table { min-width: unset; }
       #cp-perf-table thead { display: none; }
       #cp-perf-table tbody tr:not(.skeleton-row) {
-        display: grid; grid-template-columns: 1fr auto;
+        display: grid !important; grid-template-columns: 1fr auto;
         grid-template-areas: "tk ret" "co ret" "pol ret";
-        column-gap: 10px; row-gap: 1px; align-items: center;
-        padding: 8px 12px; min-height: unset;
+        column-gap: 10px; row-gap: 2px; align-items: center;
+        padding: 9px 12px; min-height: unset;
       }
       #cp-perf-table td { border: none !important; padding: 0; }
-      #cp-perf-table td.td-rank, #cp-perf-table .col-hide-mobile { display: none !important; }
-      #cp-perf-table td.td-ticker { grid-area: tk; font-size: 13px; align-self: end; }
-      #cp-perf-table td.td-company { grid-area: co; display: block; max-width: none; font-size: 11px; color: var(--muted2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-      #cp-perf-table td.td-pol { grid-area: pol; font-size: 11px; max-width: none; align-self: start; }
-      #cp-perf-table td:has(.td-return), #cp-perf-table td:has(.badge-pending) { grid-area: ret; text-align: right; align-self: center; }
-      #cp-perf-table tr.child-row { padding-left: 22px; }
+      /* Hide desktop-only cells (override the feed's leaked global rules) */
+      #cp-perf-table td.td-rank,
+      #cp-perf-table td.td-filed,
+      #cp-perf-table td.td-price,
+      #cp-perf-table td.td-amount { display: none !important; }
+      /* Show the mobile card cells, overriding global `td.td-ticker{display:none}` etc. */
+      #cp-perf-table td.td-ticker  { display: block !important; grid-area: tk; align-self: end; font-size: 13px; }
+      #cp-perf-table td.td-company { display: block !important; grid-area: co; max-width: none; font-size: 11px; color: var(--muted2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+      #cp-perf-table td.td-pol     { display: block !important; grid-area: pol; max-width: none; font-size: 11px; align-self: start; }
+      #cp-perf-table td.td-ret     { display: block !important; grid-area: ret; text-align: right; align-self: center; }
+      #cp-perf-table tr.child-row  { padding-left: 22px !important; }
     }
 
     /* ── Politician grid ── */
@@ -1939,7 +1946,7 @@
           <td class="col-hide-mobile td-filed">—</td>
           <td class="col-hide-mobile td-price">—</td>
           <td class="col-hide-mobile td-price">${curHTML}</td>
-          <td>${retCell(g.avg)}</td>
+          <td class="td-ret">${retCell(g.avg)}</td>
           <td class="col-hide-mobile td-amount">—</td>
         </tr>`);
         if (open) g.entries.forEach(e => rows.push(cpRow(e, true)));
@@ -1967,7 +1974,7 @@
       <td class="col-hide-mobile td-filed">${cpEsc(e.trade_date || '—')}</td>
       <td class="col-hide-mobile td-price">${cpPrice(e.trade_price)}</td>
       <td class="col-hide-mobile td-price">${e.latest_price != null ? cpPrice(e.latest_price) : '<span class="badge-pending">Pending</span>'}</td>
-      <td>${retHTML}</td>
+      <td class="td-ret">${retHTML}</td>
       <td class="col-hide-mobile td-amount">${cpEsc(e.amount || '—')}</td>
     </tr>`;
   }
