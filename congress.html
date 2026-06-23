@@ -230,6 +230,7 @@
     #view-perf tr:has(.td-return.positive):hover td { background: rgba(16,217,138,.08) !important; }
     #view-perf tr:has(.td-return.negative):hover td { background: rgba(239,68,68,.08) !important; }
     #view-perf .cp-note { padding: 10px 18px 0; max-width:1400px; margin:0 auto; font-size:11px; color:var(--muted); }
+    #view-perf .cp-mob-meta { display: none; }
     #cp-search-input {
       width: 220px; background: var(--surface2); border: 1px solid var(--border);
       color: var(--text); border-radius: var(--radius); padding: 7px 10px 7px 32px;
@@ -259,6 +260,7 @@
       #cp-perf-table td.td-ticker  { display: block !important; grid-area: tk; align-self: end; font-size: 13px; }
       #cp-perf-table td.td-company { display: block !important; grid-area: co; max-width: none; font-size: 11px; color: var(--muted2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
       #cp-perf-table td.td-pol     { display: block !important; grid-area: pol; max-width: none; font-size: 11px; align-self: start; }
+      #cp-perf-table .cp-mob-meta  { display: block; margin-top: 2px; font-family: var(--font-mono); font-size: 10px; color: var(--muted); }
       #cp-perf-table td.td-ret     { display: block !important; grid-area: ret; text-align: right; align-self: center; }
       #cp-perf-table tr.child-row  { padding-left: 22px !important; }
     }
@@ -1799,6 +1801,11 @@
   }
   function cpPrice(n) { return (n == null) ? '—' : '$' + Number(n).toFixed(2); }
   function cpRet(p)   { return (p == null) ? null : (p >= 0 ? '+' : '') + p.toFixed(2) + '%'; }
+  function cpDateShort(iso) {
+    if (!iso) return '—';
+    const d = new Date(iso + 'T00:00:00');
+    return isNaN(d) ? iso : d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+  }
   function cpPartyBadge(party) {
     const p = (party || '').toLowerCase();
     let cls = 'ind', label = party || '—';
@@ -1970,7 +1977,7 @@
       <td class="td-rank">${child ? '' : (rank || '')}</td>
       <td class="td-ticker">${cpEsc(e.ticker)}</td>
       <td class="td-company" title="${cpEsc(e.company)}">${cpEsc(e.company)}</td>
-      <td class="td-pol" title="${cpEsc(e.insider_name)}">${cpEsc(e.insider_name || '—')} ${cpPartyBadge(e.party)}</td>
+      <td class="td-pol" title="${cpEsc(e.insider_name)}">${cpEsc(e.insider_name || '—')} ${cpPartyBadge(e.party)}<span class="cp-mob-meta">Bought ${cpDateShort(e.trade_date)} · ${cpPrice(e.trade_price)}</span></td>
       <td class="col-hide-mobile td-filed">${cpEsc(e.trade_date || '—')}</td>
       <td class="col-hide-mobile td-price">${cpPrice(e.trade_price)}</td>
       <td class="col-hide-mobile td-price">${e.latest_price != null ? cpPrice(e.latest_price) : '<span class="badge-pending">Pending</span>'}</td>
