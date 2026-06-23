@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-23T21:24:21Z",
-  "trade_count": 7962,
+  "last_updated": "2026-06-23T23:00:12Z",
+  "trade_count": 7965,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -127392,6 +127392,54 @@
       "owned": "12205",
       "delta_own": "+54%",
       "value": "75668",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-23",
+      "filing_time": "18:40",
+      "trade_date": "2026-06-22",
+      "ticker": "ENR",
+      "company": "Energizer Holdings, Inc.",
+      "insider_name": "Aqua Capital, Ltd.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "21.10",
+      "qty": "40000",
+      "owned": "7340000",
+      "delta_own": "+1%",
+      "value": "843832",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-23",
+      "filing_time": "18:13",
+      "trade_date": "2026-06-17",
+      "ticker": "WOK",
+      "company": "Work Medical Technology Group Ltd",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "0.05",
+      "qty": "880456",
+      "owned": "123944",
+      "delta_own": "-116%",
+      "value": "40501",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-23",
+      "filing_time": "17:51",
+      "trade_date": "2026-06-18",
+      "ticker": "STRR",
+      "company": "Star Equity Holdings, Inc.",
+      "insider_name": "Eberwein Jeffrey E.",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "11.15",
+      "qty": "5000",
+      "owned": "1115714",
+      "delta_own": "0%",
+      "value": "55765",
       "cluster_buy": false
     }
   ]

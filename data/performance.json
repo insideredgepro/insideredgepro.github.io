@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-23",
-  "entry_count": 1744,
+  "entry_count": 1747,
   "entries": [
     {
       "id": "US|NBBK|2026-04-24|pascucci hope|19.46",
@@ -84322,6 +84322,66 @@
       },
       "latest_price": 17.7,
       "return_pct": 0.0,
+      "last_snapshot": "2026-06-23"
+    },
+    {
+      "id": "US|ENR|2026-06-22|aqua capital, ltd.|21.1",
+      "market": "US",
+      "ticker": "ENR",
+      "yf_symbol": "ENR",
+      "company": "Energizer Holdings, Inc.",
+      "insider_name": "Aqua Capital, Ltd.",
+      "title": "10%",
+      "trade_date": "2026-06-22",
+      "trade_price": 21.1,
+      "value": 843832.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-23": 21.59
+      },
+      "latest_price": 21.59,
+      "return_pct": 2.32,
+      "last_snapshot": "2026-06-23"
+    },
+    {
+      "id": "US|WOK|2026-06-17|hrt financial lp|0.05",
+      "market": "US",
+      "ticker": "WOK",
+      "yf_symbol": "WOK",
+      "company": "Work Medical Technology Group Ltd",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_date": "2026-06-17",
+      "trade_price": 0.05,
+      "value": 40501.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-23": 2.62
+      },
+      "latest_price": 2.62,
+      "return_pct": 5140.0,
+      "last_snapshot": "2026-06-23"
+    },
+    {
+      "id": "US|STRR|2026-06-18|eberwein jeffrey e.|11.15",
+      "market": "US",
+      "ticker": "STRR",
+      "yf_symbol": "STRR",
+      "company": "Star Equity Holdings, Inc.",
+      "insider_name": "Eberwein Jeffrey E.",
+      "title": "CEO, 10%",
+      "trade_date": "2026-06-18",
+      "trade_price": 11.15,
+      "value": 55765.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-23": 11.0201
+      },
+      "latest_price": 11.0201,
+      "return_pct": -1.17,
       "last_snapshot": "2026-06-23"
     }
   ]
