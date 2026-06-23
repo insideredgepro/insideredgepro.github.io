@@ -202,6 +202,15 @@
     }
     .view-tab:hover { color: var(--text2); background: rgba(255,255,255,.04); }
     .view-tab.active { background: var(--surface3); color: var(--gold); border: 1px solid rgba(26,188,219,.2); }
+    @media (max-width: 600px) {
+      .view-toggle {
+        width: auto; max-width: calc(100% - 20px); margin: 8px auto;
+        justify-content: flex-start; overflow-x: auto; -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+      }
+      .view-toggle::-webkit-scrollbar { display: none; }
+      .view-tab { padding: 7px 12px; font-size: 12px; gap: 5px; flex-shrink: 0; white-space: nowrap; }
+    }
 
     /* ── View containers ── */
     #view-portfolios { display: none; }
@@ -230,9 +239,21 @@
     @media (max-width: 600px) { #cp-search-input { width: 100%; box-sizing: border-box; font-size: 12px; } }
     #view-perf .expand-arrow { display:inline-block; width:12px; font-size:9px; color:var(--muted2); }
     @media (max-width: 600px) {
-      #view-perf .cp-stats { gap:16px; }
       #view-perf table { min-width: unset; }
-      #view-perf .td-rank, #view-perf .col-hide-mobile { display:none !important; }
+      #cp-perf-table thead { display: none; }
+      #cp-perf-table tbody tr:not(.skeleton-row) {
+        display: grid; grid-template-columns: 1fr auto;
+        grid-template-areas: "tk ret" "co ret" "pol ret";
+        column-gap: 10px; row-gap: 1px; align-items: center;
+        padding: 8px 12px; min-height: unset;
+      }
+      #cp-perf-table td { border: none !important; padding: 0; }
+      #cp-perf-table td.td-rank, #cp-perf-table .col-hide-mobile { display: none !important; }
+      #cp-perf-table td.td-ticker { grid-area: tk; font-size: 13px; align-self: end; }
+      #cp-perf-table td.td-company { grid-area: co; display: block; max-width: none; font-size: 11px; color: var(--muted2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+      #cp-perf-table td.td-pol { grid-area: pol; font-size: 11px; max-width: none; align-self: start; }
+      #cp-perf-table td:has(.td-return), #cp-perf-table td:has(.badge-pending) { grid-area: ret; text-align: right; align-self: center; }
+      #cp-perf-table tr.child-row { padding-left: 22px; }
     }
 
     /* ── Politician grid ── */
