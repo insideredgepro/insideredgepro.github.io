@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24T18:53:20Z",
-  "trade_count": 7971,
+  "last_updated": "2026-06-24T20:28:18Z",
+  "trade_count": 7977,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -126544,7 +126544,7 @@
       "owned": "31767",
       "delta_own": "+14%",
       "value": "1096760",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-22",
@@ -127537,6 +127537,102 @@
       "delta_own": "+2%",
       "value": "499741",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-24",
+      "filing_time": "16:20",
+      "trade_date": "2026-06-22",
+      "ticker": "KARD",
+      "company": "Kardigan, Inc.",
+      "insider_name": "Berns Paul L",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "16.00",
+      "qty": "1250000",
+      "owned": "15062741",
+      "delta_own": "+9%",
+      "value": "20000000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-24",
+      "filing_time": "16:18",
+      "trade_date": "2026-06-22",
+      "ticker": "KARD",
+      "company": "Kardigan, Inc.",
+      "insider_name": "Arch Venture Partners Xiii, LLC",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "16.00",
+      "qty": "1250000",
+      "owned": "15042035",
+      "delta_own": "+9%",
+      "value": "20000000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-24",
+      "filing_time": "16:16",
+      "trade_date": "2026-06-23",
+      "ticker": "F",
+      "company": "Ford Motor Co",
+      "insider_name": "Thornton John L",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "14.05",
+      "qty": "10600",
+      "owned": "486685",
+      "delta_own": "+2%",
+      "value": "148880",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-24",
+      "filing_time": "16:09",
+      "trade_date": "2026-06-22",
+      "ticker": "AMS",
+      "company": "American Shared Hospital Services",
+      "insider_name": "Stachowiak Raymond C",
+      "title": "Exec COB, 10%",
+      "trade_type": "P - Purchase",
+      "price": "2.28",
+      "qty": "586468",
+      "owned": "2280205",
+      "delta_own": "+35%",
+      "value": "1337147",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-24",
+      "filing_time": "16:05",
+      "trade_date": "2026-06-23",
+      "ticker": "BXSY",
+      "company": "Bexil Investment Trust",
+      "insider_name": "Winmill & Co. Inc",
+      "title": "See \"Explanation of Responses\"",
+      "trade_type": "P - Purchase",
+      "price": "16.79",
+      "qty": "2135",
+      "owned": "229705",
+      "delta_own": "+1%",
+      "value": "35855",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-24",
+      "filing_time": "16:04",
+      "trade_date": "2026-06-22",
+      "ticker": "COR",
+      "company": "Cencora, Inc.",
+      "insider_name": "Tyler Lauren M",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "270.23",
+      "qty": "550",
+      "owned": "4359",
+      "delta_own": "+14%",
+      "value": "148627",
+      "cluster_buy": true
     }
   ]
 }
