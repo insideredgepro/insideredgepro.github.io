@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24T14:08:15Z",
-  "trade_count": 7970,
+  "last_updated": "2026-06-24T16:59:43Z",
+  "trade_count": 7971,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -127521,6 +127521,22 @@
       "delta_own": "+2%",
       "value": "100000",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-24",
+      "filing_time": "12:55",
+      "trade_date": "2026-06-22",
+      "ticker": "NOG",
+      "company": "Northern Oil & Gas, Inc.",
+      "insider_name": "Akradi Bahram",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "19.40",
+      "qty": "25760",
+      "owned": "1713444",
+      "delta_own": "+2%",
+      "value": "499741",
+      "cluster_buy": false
     }
   ]
 }
