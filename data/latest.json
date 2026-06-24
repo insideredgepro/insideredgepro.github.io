@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24T00:02:29Z",
-  "trade_count": 7965,
+  "last_updated": "2026-06-24T04:58:09Z",
+  "trade_count": 7966,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -127440,6 +127440,22 @@
       "owned": "1115714",
       "delta_own": "0%",
       "value": "55765",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-23",
+      "filing_time": "20:15",
+      "trade_date": "2026-06-18",
+      "ticker": "CNXU",
+      "company": "Conexeu Sciences Inc.",
+      "insider_name": "Purcell Lynn Sebastian",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.80",
+      "qty": "202500",
+      "owned": "2734240",
+      "delta_own": "+8%",
+      "value": "162000",
       "cluster_buy": false
     }
   ]
