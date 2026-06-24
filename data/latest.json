@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24T11:38:57Z",
-  "trade_count": 7968,
+  "last_updated": "2026-06-24T14:08:15Z",
+  "trade_count": 7970,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -127489,6 +127489,38 @@
       "delta_own": "New",
       "value": "235768",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-24",
+      "filing_time": "09:31",
+      "trade_date": "2026-06-23",
+      "ticker": "TOI",
+      "company": "Oncology Institute, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "5.02",
+      "qty": "18000",
+      "owned": "10615858",
+      "delta_own": "0%",
+      "value": "90360",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-24",
+      "filing_time": "09:00",
+      "trade_date": "2026-06-23",
+      "ticker": "ONMD",
+      "company": "Onemednet Corp",
+      "insider_name": "Yu Jeffrey",
+      "title": "Chief Medical Officer, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.63",
+      "qty": "158730",
+      "owned": "10092380",
+      "delta_own": "+2%",
+      "value": "100000",
+      "cluster_buy": true
     }
   ]
 }
