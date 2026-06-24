@@ -351,6 +351,10 @@
     .holdings-table thead th { text-align: left; padding: 6px 8px; font-size: 10px; font-weight: 700; color: var(--muted); letter-spacing: .05em; text-transform: uppercase; border-bottom: 1px solid var(--border2); white-space: nowrap; }
     .holdings-table tbody td { padding: 6px 8px; border-bottom: 1px solid var(--border); vertical-align: middle; }
     .td-pt-company { max-width: 150px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .td-pt-ret { font-family: var(--font-mono); font-size: 12px; font-weight: 700; white-space: nowrap; }
+    .pt-ret.pos { color: var(--green); }
+    .pt-ret.neg { color: var(--red); }
+    .pt-ret-na  { color: var(--muted2); }
     .holdings-table tbody tr:hover { background: rgba(255,255,255,.025); }
     .holdings-table tbody tr:last-child td { border-bottom: none; }
 
@@ -586,7 +590,7 @@
         grid-template-areas:
           "pt-ticker  pt-type"
           "pt-company pt-amount"
-          "pt-date    pt-amount"
+          "pt-date    pt-ret"
           "pt-trd     pt-price";
         column-gap: 8px;
         row-gap: 2px;
@@ -600,7 +604,9 @@
       .tbl-trades tbody td.td-pt-traded,
       .tbl-trades tbody td.td-pt-type,
       .tbl-trades tbody td.td-pt-amount,
+      .tbl-trades tbody td.td-pt-ret,
       .tbl-trades tbody td.td-pt-price { display: block !important; }
+      .tbl-trades td.td-pt-ret { grid-area: pt-ret; text-align: right; align-self: center; font-family: var(--font-mono); font-size: 12px; font-weight: 700; }
       .tbl-trades td.td-pt-ticker  { grid-area: pt-ticker;  font-family: var(--font-mono); font-weight: 700; color: var(--gold-bright); font-size: 12px; align-self: end; }
       .tbl-trades td.td-pt-company { grid-area: pt-company; font-size: 10px; color: var(--muted2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
       .tbl-trades td.td-pt-date    { grid-area: pt-date;    font-size: 10px; color: var(--muted); align-self: start; }
@@ -1057,7 +1063,7 @@
             <table class="holdings-table tbl-trades">
               <thead><tr>
                 <th>Date</th><th class="col-hide-mobile">Traded</th><th>Ticker</th><th class="col-hide-mobile">Company</th>
-                <th>Type</th><th>Amount</th><th class="col-hide-mobile">Price</th><th class="col-hide-mobile">Filed After</th>
+                <th>Type</th><th>Amount</th><th>Return</th><th class="col-hide-mobile">Price</th><th class="col-hide-mobile">Filed After</th>
               </tr></thead>
               <tbody id="poli-trades-body"></tbody>
             </table>
@@ -1795,6 +1801,17 @@
   let cpSort = 'return_pct', cpDir = 'desc', cpStatus = 'all', cpSearch = '';
   const cpExpanded = new Set();
 
+  // Per-trade return lookup (trade id -> performance entry), shared by the
+  // Performance tab and the Portfolio trade table.
+  const cpReturnById = {};
+  let cpDataLoaded = false, cpLoading = false;
+
+  function ensureCpData() {
+    if (cpDataLoaded || cpLoading) return;
+    cpLoading = true;
+    cpFetch();
+  }
+
   function cpEsc(s) {
     return String(s == null ? '' : s)
       .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
@@ -1844,7 +1861,7 @@
       cpRender();
     });
 
-    cpFetch();
+    if (cpDataLoaded) cpRender(); else ensureCpData();
   }
 
   async function cpFetch() {
@@ -1853,12 +1870,16 @@
       if (!resp.ok) throw new Error('HTTP ' + resp.status);
       const json = await resp.json();
       cpEntries = json.entries || [];
+      cpEntries.forEach(e => { if (e && e.id != null) cpReturnById[e.id] = e; });
+      cpDataLoaded = true;
       const lu = document.getElementById('cp-last-updated');
       if (lu && json.last_updated) {
         const d = new Date(json.last_updated + 'T00:00:00');
         lu.textContent = 'Updated ' + d.toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' });
       }
       cpRender();
+      // If a politician portfolio is open, refresh it so returns appear.
+      if (currentPoliName) openPortfolio(currentPoliName, true);
     } catch (err) {
       document.getElementById('cp-error-banner').innerHTML = `<div class="error-banner">Could not load performance data: ${cpEsc(err.message)}</div>`;
       document.getElementById('cp-table-body').innerHTML = `<tr><td colspan="9" style="text-align:center;padding:60px;color:var(--muted)">No data yet. Performance builds after the next scraper run.</td></tr>`;
@@ -2064,7 +2085,8 @@
     });
   }
 
-  function openPortfolio(name) {
+  function openPortfolio(name, refresh) {
+    ensureCpData();
     const map = buildPortfolios();
     const p   = map[name];
     if (!p) return;
@@ -2099,6 +2121,11 @@
       const txType = (t.transaction_type||'').toUpperCase();
       const rowCls = txType==='BUY'?'row-buy':txType==='SELL'?'row-sell':'';
       const pubI = parsePublishedDate(t); const trdI = parseTradeDate(t);
+      const pe = (t.id != null) ? cpReturnById[t.id] : null;
+      const rr = pe && pe.return_pct != null ? pe.return_pct : null;
+      const retHTML = rr == null
+        ? '<span class="pt-ret-na">—</span>'
+        : `<span class="pt-ret ${rr >= 0 ? 'pos' : 'neg'}">${rr >= 0 ? '+' : ''}${rr.toFixed(1)}%</span>`;
       return `<tr class="${rowCls}">
   <td class="td-pt-date">${pubI ? formatDateDisplay(pubI) : escHtml(t.trade_published||'—')}</td>
   <td class="td-pt-traded">${trdI ? formatDateDisplay(trdI) : escHtml(t.traded_on||'—')}</td>
@@ -2106,15 +2133,18 @@
   <td class="td-pt-company">${escHtml(t.company||'—')}</td>
   <td class="td-pt-type"><span class="badge-tx ${txClass(txType)}">${escHtml(txType||'—')}</span></td>
   <td class="td-pt-amount">${escHtml(normaliseAmount(t))}</td>
+  <td class="td-pt-ret">${retHTML}</td>
   <td class="td-pt-price">${escHtml(t.price && t.price !== 'N/A' ? t.price : '—')}</td>
   <td class="td-pt-filed">${t.filed_after_days?t.filed_after_days+'d':'—'}</td>
 </tr>`;
     }).join('');
 
     currentPoliName = name;
-    document.getElementById('poli-grid-view').style.display   = 'none';
-    document.getElementById('portfolio-detail').style.display = 'block';
-    window.scrollTo(0, 0);
+    if (!refresh) {
+      document.getElementById('poli-grid-view').style.display   = 'none';
+      document.getElementById('portfolio-detail').style.display = 'block';
+      window.scrollTo(0, 0);
+    }
   }
 
   document.getElementById('poli-back-btn').addEventListener('click', () => {
