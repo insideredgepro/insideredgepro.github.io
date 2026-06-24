@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24T02:41:43Z",
-  "trade_count": 3337,
+  "last_updated": "2026-06-24T03:45:16Z",
+  "trade_count": 3338,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -50944,6 +50944,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4739375",
+      "trade_date": "2026-06-23",
+      "filing_date": "2026-06-23",
+      "company": "Lumina Metals Corp.",
+      "ticker": "LMCU",
+      "insider_name": "Pandoff, Jordan",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "10.5000",
+      "value": "105000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
