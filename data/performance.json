@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-24",
-  "entry_count": 1731,
+  "entry_count": 1738,
   "entries": [
     {
       "id": "US|PFBX|2026-04-27|dennis padrick d|21.5",
@@ -36683,8 +36683,8 @@
         "2026-06-23": 467.67,
         "2026-06-24": 436.39
       },
-      "latest_price": 440.8,
-      "return_pct": 530.52,
+      "latest_price": 440.83,
+      "return_pct": 530.57,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -66368,8 +66368,8 @@
         "2026-06-23": 66.18,
         "2026-06-24": 67.83
       },
-      "latest_price": 68.05,
-      "return_pct": 6.54,
+      "latest_price": 68.06,
+      "return_pct": 6.56,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -69870,8 +69870,8 @@
         "2026-06-23": 13.19,
         "2026-06-24": 13.03
       },
-      "latest_price": 12.735,
-      "return_pct": -5.17,
+      "latest_price": 12.74,
+      "return_pct": -5.14,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -79003,8 +79003,8 @@
         "2026-06-23": 467.67,
         "2026-06-24": 436.39
       },
-      "latest_price": 440.8,
-      "return_pct": 485.7,
+      "latest_price": 440.83,
+      "return_pct": 485.74,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -83381,8 +83381,8 @@
         "2026-06-23": 442.12,
         "2026-06-24": 436.39
       },
-      "latest_price": 440.8,
-      "return_pct": 456.64,
+      "latest_price": 440.83,
+      "return_pct": 456.67,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -84190,6 +84190,146 @@
       },
       "latest_price": 284.47,
       "return_pct": 5.27,
+      "last_snapshot": "2026-06-24"
+    },
+    {
+      "id": "US|TXO|2026-06-22|simpson bob r|12.61",
+      "market": "US",
+      "ticker": "TXO",
+      "yf_symbol": "TXO",
+      "company": "Txo Partners, L.P.",
+      "insider_name": "Simpson Bob R",
+      "title": "Dir, 10%",
+      "trade_date": "2026-06-22",
+      "trade_price": 12.61,
+      "value": 1261082.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-24": 12.34
+      },
+      "latest_price": 12.34,
+      "return_pct": -2.14,
+      "last_snapshot": "2026-06-24"
+    },
+    {
+      "id": "US|KMX|2026-06-22|bensen peter j|52.2",
+      "market": "US",
+      "ticker": "KMX",
+      "yf_symbol": "KMX",
+      "company": "Carmax Inc",
+      "insider_name": "Bensen Peter J",
+      "title": "Dir",
+      "trade_date": "2026-06-22",
+      "trade_price": 52.2,
+      "value": 130500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-24": 50.79
+      },
+      "latest_price": 50.79,
+      "return_pct": -2.7,
+      "last_snapshot": "2026-06-24"
+    },
+    {
+      "id": "US|KMX|2026-06-22|barr keith|53.01",
+      "market": "US",
+      "ticker": "KMX",
+      "yf_symbol": "KMX",
+      "company": "Carmax Inc",
+      "insider_name": "Barr Keith",
+      "title": "Pres, CEO",
+      "trade_date": "2026-06-22",
+      "trade_price": 53.01,
+      "value": 498247.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-24": 50.79
+      },
+      "latest_price": 50.79,
+      "return_pct": -4.19,
+      "last_snapshot": "2026-06-24"
+    },
+    {
+      "id": "US|AXR|2026-06-22|dahl james h|25.58",
+      "market": "US",
+      "ticker": "AXR",
+      "yf_symbol": "AXR",
+      "company": "Amrep Corp.",
+      "insider_name": "Dahl James H",
+      "title": "10%",
+      "trade_date": "2026-06-22",
+      "trade_price": 25.58,
+      "value": 78667.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-24": 25.87
+      },
+      "latest_price": 25.87,
+      "return_pct": 1.13,
+      "last_snapshot": "2026-06-24"
+    },
+    {
+      "id": "US|ADTX|2026-06-18|hrt financial lp|0.01",
+      "market": "US",
+      "ticker": "ADTX",
+      "yf_symbol": "ADTX",
+      "company": "Aditxt, Inc.",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_date": "2026-06-18",
+      "trade_price": 0.01,
+      "value": 95422.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-24": 0.0095
+      },
+      "latest_price": 0.0095,
+      "return_pct": -5.0,
+      "last_snapshot": "2026-06-24"
+    },
+    {
+      "id": "US|YYGH|2026-06-18|hrt financial lp|0.08",
+      "market": "US",
+      "ticker": "YYGH",
+      "yf_symbol": "YYGH",
+      "company": "Yy Group Holding Ltd.",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_date": "2026-06-18",
+      "trade_price": 0.08,
+      "value": 176284.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-24": 1.72
+      },
+      "latest_price": 1.72,
+      "return_pct": 2050.0,
+      "last_snapshot": "2026-06-24"
+    },
+    {
+      "id": "US|CSR|2026-06-22|jones-tyson rodney|55.26",
+      "market": "US",
+      "ticker": "CSR",
+      "yf_symbol": "CSR",
+      "company": "Centerspace",
+      "insider_name": "Jones-Tyson Rodney",
+      "title": "Dir",
+      "trade_date": "2026-06-22",
+      "trade_price": 55.26,
+      "value": 93942.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-24": 56.74
+      },
+      "latest_price": 56.74,
+      "return_pct": 2.68,
       "last_snapshot": "2026-06-24"
     }
   ]
