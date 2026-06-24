@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-24",
-  "entry_count": 1720,
+  "entry_count": 1722,
   "entries": [
     {
       "id": "US|PFBX|2026-04-27|dennis padrick d|21.5",
@@ -83970,6 +83970,46 @@
       },
       "latest_price": 10.55,
       "return_pct": 1218.75,
+      "last_snapshot": "2026-06-24"
+    },
+    {
+      "id": "US|BZUN|2026-06-22|qiu wenbin|2.81",
+      "market": "US",
+      "ticker": "BZUN",
+      "yf_symbol": "BZUN",
+      "company": "Baozun Inc.",
+      "insider_name": "Qiu Wenbin",
+      "title": "CEO",
+      "trade_date": "2026-06-22",
+      "trade_price": 2.81,
+      "value": 28100.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-24": 2.77
+      },
+      "latest_price": 2.77,
+      "return_pct": -1.42,
+      "last_snapshot": "2026-06-24"
+    },
+    {
+      "id": "US|SPTX|2026-06-22|hombach robert j.|18.14",
+      "market": "US",
+      "ticker": "SPTX",
+      "yf_symbol": "SPTX",
+      "company": "Seaport Therapeutics, Inc.",
+      "insider_name": "Hombach Robert J.",
+      "title": "Dir",
+      "trade_date": "2026-06-22",
+      "trade_price": 18.14,
+      "value": 235768.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-24": 18.97
+      },
+      "latest_price": 18.97,
+      "return_pct": 4.58,
       "last_snapshot": "2026-06-24"
     }
   ]
