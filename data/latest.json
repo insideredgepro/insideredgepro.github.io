@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-25T10:34:34Z",
-  "trade_count": 7993,
+  "last_updated": "2026-06-25T13:11:36Z",
+  "trade_count": 7994,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -127889,6 +127889,22 @@
       "delta_own": "+9%",
       "value": "27932059",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-25",
+      "filing_time": "08:37",
+      "trade_date": "2026-06-23",
+      "ticker": "OESX",
+      "company": "Orion Energy Systems, Inc.",
+      "insider_name": "Washlow Sally A.",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "9.48",
+      "qty": "2735",
+      "owned": "49359",
+      "delta_own": "+6%",
+      "value": "25929",
+      "cluster_buy": false
     }
   ]
 }

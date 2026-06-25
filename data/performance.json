@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-25",
-  "entry_count": 1747,
+  "entry_count": 1748,
   "entries": [
     {
       "id": "US|PFBX|2026-04-27|dennis padrick d|21.5",
@@ -86241,6 +86241,26 @@
       },
       "latest_price": 6.6,
       "return_pct": -37.2,
+      "last_snapshot": "2026-06-25"
+    },
+    {
+      "id": "US|OESX|2026-06-23|washlow sally a.|9.48",
+      "market": "US",
+      "ticker": "OESX",
+      "yf_symbol": "OESX",
+      "company": "Orion Energy Systems, Inc.",
+      "insider_name": "Washlow Sally A.",
+      "title": "CEO",
+      "trade_date": "2026-06-23",
+      "trade_price": 9.48,
+      "value": 25929.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-25": 9.57
+      },
+      "latest_price": 9.57,
+      "return_pct": 0.95,
       "last_snapshot": "2026-06-25"
     }
   ]
