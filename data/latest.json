@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-25T19:03:24Z",
-  "trade_count": 7997,
+  "last_updated": "2026-06-25T21:22:51Z",
+  "trade_count": 7999,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -127953,6 +127953,38 @@
       "delta_own": "New",
       "value": "86520",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-25",
+      "filing_time": "16:56",
+      "trade_date": "2026-06-25",
+      "ticker": "CLNE",
+      "company": "Clean Energy Fuels Corp.",
+      "insider_name": "Scully Stephen",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.75",
+      "qty": "25000",
+      "owned": "360244",
+      "delta_own": "+7%",
+      "value": "43725",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-25",
+      "filing_time": "16:22",
+      "trade_date": "2026-06-24",
+      "ticker": "PGY",
+      "company": "Pagaya Technologies Ltd.",
+      "insider_name": "Krubiner Gal",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "15.43",
+      "qty": "16230",
+      "owned": "555906",
+      "delta_own": "+3%",
+      "value": "250468",
+      "cluster_buy": false
     }
   ]
 }
