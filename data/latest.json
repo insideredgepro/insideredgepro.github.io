@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-25T21:22:51Z",
-  "trade_count": 7999,
+  "last_updated": "2026-06-25T23:08:48Z",
+  "trade_count": 8000,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -127985,6 +127985,22 @@
       "delta_own": "+3%",
       "value": "250468",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-25",
+      "filing_time": "18:18",
+      "trade_date": "2026-06-23",
+      "ticker": "LILA",
+      "company": "Liberty Latin America Ltd.",
+      "insider_name": "Bracken Charles H R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "20.50",
+      "qty": "9800",
+      "owned": "23767",
+      "delta_own": "+70%",
+      "value": "200900",
+      "cluster_buy": true
     }
   ]
 }

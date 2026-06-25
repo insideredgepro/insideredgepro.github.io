@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-25",
-  "entry_count": 1753,
+  "entry_count": 1754,
   "entries": [
     {
       "id": "US|PFBX|2026-04-27|dennis padrick d|21.5",
@@ -86361,6 +86361,26 @@
       },
       "latest_price": 15.48,
       "return_pct": 0.32,
+      "last_snapshot": "2026-06-25"
+    },
+    {
+      "id": "US|LILA|2026-06-23|bracken charles h r|20.5",
+      "market": "US",
+      "ticker": "LILA",
+      "yf_symbol": "LILA",
+      "company": "Liberty Latin America Ltd.",
+      "insider_name": "Bracken Charles H R",
+      "title": "Dir",
+      "trade_date": "2026-06-23",
+      "trade_price": 20.5,
+      "value": 200900.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-25": 7.0
+      },
+      "latest_price": 7.0,
+      "return_pct": -65.85,
       "last_snapshot": "2026-06-25"
     }
   ]
