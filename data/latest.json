@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24T22:08:46Z",
-  "trade_count": 7984,
+  "last_updated": "2026-06-24T23:59:25Z",
+  "trade_count": 7988,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -127745,6 +127745,70 @@
       "delta_own": "+28%",
       "value": "93942",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-24",
+      "filing_time": "19:04",
+      "trade_date": "2026-06-23",
+      "ticker": "OXY",
+      "company": "Occidental Petroleum Corp /De/",
+      "insider_name": "Jackson Richard A.",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "52.38",
+      "qty": "4770",
+      "owned": "454150",
+      "delta_own": "+1%",
+      "value": "249853",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-24",
+      "filing_time": "18:58",
+      "trade_date": "2026-06-22",
+      "ticker": "FTH",
+      "company": "Faeth Therapeutics, Inc.",
+      "insider_name": "Stephenson Brian C",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "23.31",
+      "qty": "17413",
+      "owned": "17413",
+      "delta_own": "New",
+      "value": "405921",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-24",
+      "filing_time": "18:55",
+      "trade_date": "2026-06-22",
+      "ticker": "FTH",
+      "company": "Faeth Therapeutics, Inc.",
+      "insider_name": "Parikh Anand Kiran",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "19.76",
+      "qty": "2806",
+      "owned": "817699",
+      "delta_own": "0%",
+      "value": "55447",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-24",
+      "filing_time": "18:16",
+      "trade_date": "2026-06-22",
+      "ticker": "BCDA",
+      "company": "Biocardia, Inc.",
+      "insider_name": "Stertzer Simon H",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.95",
+      "qty": "109200",
+      "owned": "823475",
+      "delta_own": "+15%",
+      "value": "103584",
+      "cluster_buy": false
     }
   ]
 }

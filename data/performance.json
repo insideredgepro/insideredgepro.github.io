@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-24",
-  "entry_count": 1738,
+  "entry_count": 1742,
   "entries": [
     {
       "id": "US|PFBX|2026-04-27|dennis padrick d|21.5",
@@ -10214,8 +10214,8 @@
         "2026-06-23": 1.09,
         "2026-06-24": 1.12
       },
-      "latest_price": 1.12,
-      "return_pct": 10.89,
+      "latest_price": 0.76,
+      "return_pct": -24.75,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -16559,8 +16559,8 @@
         "2026-06-23": 0.074,
         "2026-06-24": 0.089
       },
-      "latest_price": 0.091,
-      "return_pct": -17.27,
+      "latest_price": 0.089,
+      "return_pct": -19.09,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -27852,8 +27852,8 @@
         "2026-06-23": 0.074,
         "2026-06-24": 0.089
       },
-      "latest_price": 0.091,
-      "return_pct": -17.27,
+      "latest_price": 0.089,
+      "return_pct": -19.09,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -48041,8 +48041,8 @@
         "2026-06-23": 0.175,
         "2026-06-24": 0.179
       },
-      "latest_price": 0.1788,
-      "return_pct": -28.48,
+      "latest_price": 0.179,
+      "return_pct": -28.4,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -48797,8 +48797,8 @@
         "2026-06-23": 9.02,
         "2026-06-24": 9.15
       },
-      "latest_price": 8.62,
-      "return_pct": -1.37,
+      "latest_price": 9.15,
+      "return_pct": 4.69,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -61268,8 +61268,8 @@
         "2026-06-23": 9.02,
         "2026-06-24": 9.15
       },
-      "latest_price": 8.62,
-      "return_pct": -1.15,
+      "latest_price": 9.15,
+      "return_pct": 4.93,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -67878,8 +67878,8 @@
         "2026-06-23": 9.02,
         "2026-06-24": 9.15
       },
-      "latest_price": 8.62,
-      "return_pct": -4.65,
+      "latest_price": 9.15,
+      "return_pct": 1.22,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -71082,8 +71082,8 @@
         "2026-06-23": 9.02,
         "2026-06-24": 9.15
       },
-      "latest_price": 8.62,
-      "return_pct": -4.75,
+      "latest_price": 9.15,
+      "return_pct": 1.1,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -73704,8 +73704,8 @@
         "2026-06-23": 0.46,
         "2026-06-24": 0.41
       },
-      "latest_price": 0.4489,
-      "return_pct": -0.24,
+      "latest_price": 0.41,
+      "return_pct": -8.89,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -74674,8 +74674,8 @@
         "2026-06-23": 9.02,
         "2026-06-24": 9.15
       },
-      "latest_price": 8.62,
-      "return_pct": -6.0,
+      "latest_price": 9.15,
+      "return_pct": -0.22,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -77791,8 +77791,8 @@
         "2026-06-23": 9.02,
         "2026-06-24": 9.15
       },
-      "latest_price": 8.62,
-      "return_pct": -11.68,
+      "latest_price": 9.15,
+      "return_pct": -6.25,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -80095,8 +80095,8 @@
         "2026-06-23": 0.175,
         "2026-06-24": 0.179
       },
-      "latest_price": 0.1788,
-      "return_pct": -22.26,
+      "latest_price": 0.179,
+      "return_pct": -22.17,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -83360,8 +83360,8 @@
         "2026-06-23": 8.5,
         "2026-06-24": 9.1
       },
-      "latest_price": 9.0,
-      "return_pct": -31.35,
+      "latest_price": 9.1,
+      "return_pct": -30.59,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -84168,8 +84168,8 @@
       "snapshots": {
         "2026-06-24": 16.81
       },
-      "latest_price": 16.81,
-      "return_pct": 0.12,
+      "latest_price": 16.84,
+      "return_pct": 0.3,
       "last_snapshot": "2026-06-24"
     },
     {
@@ -84330,6 +84330,86 @@
       },
       "latest_price": 56.74,
       "return_pct": 2.68,
+      "last_snapshot": "2026-06-24"
+    },
+    {
+      "id": "US|OXY|2026-06-23|jackson richard a.|52.38",
+      "market": "US",
+      "ticker": "OXY",
+      "yf_symbol": "OXY",
+      "company": "Occidental Petroleum Corp /De/",
+      "insider_name": "Jackson Richard A.",
+      "title": "Pres, CEO",
+      "trade_date": "2026-06-23",
+      "trade_price": 52.38,
+      "value": 249853.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-24": 51.09
+      },
+      "latest_price": 51.09,
+      "return_pct": -2.46,
+      "last_snapshot": "2026-06-24"
+    },
+    {
+      "id": "US|FTH|2026-06-22|stephenson brian c|23.31",
+      "market": "US",
+      "ticker": "FTH",
+      "yf_symbol": "FTH",
+      "company": "Faeth Therapeutics, Inc.",
+      "insider_name": "Stephenson Brian C",
+      "title": "CFO",
+      "trade_date": "2026-06-22",
+      "trade_price": 23.31,
+      "value": 405921.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-24": 24.54
+      },
+      "latest_price": 24.54,
+      "return_pct": 5.28,
+      "last_snapshot": "2026-06-24"
+    },
+    {
+      "id": "US|FTH|2026-06-22|parikh anand kiran|19.76",
+      "market": "US",
+      "ticker": "FTH",
+      "yf_symbol": "FTH",
+      "company": "Faeth Therapeutics, Inc.",
+      "insider_name": "Parikh Anand Kiran",
+      "title": "Pres, CEO",
+      "trade_date": "2026-06-22",
+      "trade_price": 19.76,
+      "value": 55447.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-24": 24.54
+      },
+      "latest_price": 24.54,
+      "return_pct": 24.19,
+      "last_snapshot": "2026-06-24"
+    },
+    {
+      "id": "US|BCDA|2026-06-22|stertzer simon h|0.95",
+      "market": "US",
+      "ticker": "BCDA",
+      "yf_symbol": "BCDA",
+      "company": "Biocardia, Inc.",
+      "insider_name": "Stertzer Simon H",
+      "title": "Dir",
+      "trade_date": "2026-06-22",
+      "trade_price": 0.95,
+      "value": 103584.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-24": 1.06
+      },
+      "latest_price": 1.06,
+      "return_pct": 11.58,
       "last_snapshot": "2026-06-24"
     }
   ]
