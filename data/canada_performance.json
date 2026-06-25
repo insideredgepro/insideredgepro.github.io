@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-24",
-  "entry_count": 446,
+  "entry_count": 449,
   "entries": [
     {
       "id": "CA|BETR|2026-04-27|sangha, steven|0.06",
@@ -19165,6 +19165,66 @@
       },
       "latest_price": 59.86,
       "return_pct": 0.79,
+      "last_snapshot": "2026-06-24"
+    },
+    {
+      "id": "CA|NETZ|2026-06-24|katusa, marin|0.87",
+      "market": "CA",
+      "ticker": "NETZ",
+      "yf_symbol": "NETZ.NE",
+      "company": "Carbon Streaming Corporation",
+      "insider_name": "Katusa, Marin",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-06-24",
+      "trade_price": 0.87,
+      "value": 24360.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-06-24": 0.88
+      },
+      "latest_price": 0.88,
+      "return_pct": 1.15,
+      "last_snapshot": "2026-06-24"
+    },
+    {
+      "id": "CA|WCP|2026-06-24|bullin, christopher james|15.05",
+      "market": "CA",
+      "ticker": "WCP",
+      "yf_symbol": "WCP.TO",
+      "company": "Whitecap Resources Inc.",
+      "insider_name": "BULLIN, CHRISTOPHER JAMES",
+      "title": "Senior Officer",
+      "trade_date": "2026-06-24",
+      "trade_price": 15.05,
+      "value": 116261.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-06-24": 14.98
+      },
+      "latest_price": 14.98,
+      "return_pct": -0.47,
+      "last_snapshot": "2026-06-24"
+    },
+    {
+      "id": "CA|WCP|2026-06-24|fagerheim, grant bradley|15.01",
+      "market": "CA",
+      "ticker": "WCP",
+      "yf_symbol": "WCP.TO",
+      "company": "Whitecap Resources Inc.",
+      "insider_name": "Fagerheim, Grant Bradley",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-06-24",
+      "trade_price": 15.01,
+      "value": 37525.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-06-24": 14.98
+      },
+      "latest_price": 14.98,
+      "return_pct": -0.2,
       "last_snapshot": "2026-06-24"
     }
   ]
