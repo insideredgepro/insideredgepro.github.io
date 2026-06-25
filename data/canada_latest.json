@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-25T03:45:25Z",
-  "trade_count": 3352,
+  "last_updated": "2026-06-25T16:00:18Z",
+  "trade_count": 3354,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -51184,6 +51184,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4739881",
+      "trade_date": "2026-06-25",
+      "filing_date": "2026-06-25",
+      "company": "Newcore Gold Ltd.",
+      "ticker": "NCAU",
+      "insider_name": "Forster, Douglas Burton",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "0.3700",
+      "value": "18500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4739878",
+      "trade_date": "2026-06-25",
+      "filing_date": "2026-06-25",
+      "company": "Newcore Gold Ltd.",
+      "ticker": "NCAU",
+      "insider_name": "Forster, Douglas Burton",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "0.3450",
+      "value": "17250",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
