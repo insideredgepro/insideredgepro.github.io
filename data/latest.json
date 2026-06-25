@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-25T16:16:19Z",
-  "trade_count": 7995,
+  "last_updated": "2026-06-25T19:03:24Z",
+  "trade_count": 7997,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -124992,7 +124992,7 @@
       "owned": "432331",
       "delta_own": "+4%",
       "value": "250314",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-17",
@@ -127921,6 +127921,38 @@
       "delta_own": "+5%",
       "value": "265177",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-25",
+      "filing_time": "14:50",
+      "trade_date": "2026-06-23",
+      "ticker": "LNKS",
+      "company": "Linkers Industries Ltd",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.34",
+      "qty": "34905",
+      "owned": "162185",
+      "delta_own": "+27%",
+      "value": "81630",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-25",
+      "filing_time": "13:55",
+      "trade_date": "2026-06-24",
+      "ticker": "HNRG",
+      "company": "Hallador Energy Co",
+      "insider_name": "Hudson Daniel Timothy",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "17.30",
+      "qty": "5000",
+      "owned": "5000",
+      "delta_own": "New",
+      "value": "86520",
+      "cluster_buy": true
     }
   ]
 }
