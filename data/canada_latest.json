@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T03:45:20Z",
-  "trade_count": 3358,
+  "last_updated": "2026-06-26T16:00:19Z",
+  "trade_count": 3360,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -51279,7 +51279,39 @@
       "value": "44700",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4740533",
+      "trade_date": "2026-06-26",
+      "filing_date": "2026-06-26",
+      "company": "Tourmaline Oil Corp.",
+      "ticker": "TOU",
+      "insider_name": "Rose, Mike",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "2500",
+      "price": "59.8432",
+      "value": "149608",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4740526",
+      "trade_date": "2026-06-26",
+      "filing_date": "2026-06-26",
+      "company": "Vizsla Silver Corp.",
+      "ticker": "VZLA",
+      "insider_name": "Cobbold, David Chevallier",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "19400",
+      "price": "4.6300",
+      "value": "89822",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
