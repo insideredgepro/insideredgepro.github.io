@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-26",
-  "entry_count": 1772,
+  "entry_count": 1774,
   "entries": [
     {
       "id": "US|PFBX|2026-04-27|dennis padrick d|21.5",
@@ -20836,8 +20836,8 @@
         "2026-06-25": 4.11,
         "2026-06-26": 3.98
       },
-      "latest_price": 4.33,
-      "return_pct": 49.83,
+      "latest_price": 4.34,
+      "return_pct": 50.17,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -29367,8 +29367,8 @@
         "2026-06-25": 4.11,
         "2026-06-26": 3.98
       },
-      "latest_price": 4.33,
-      "return_pct": 28.11,
+      "latest_price": 4.34,
+      "return_pct": 28.4,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -58261,8 +58261,8 @@
         "2026-06-25": 11.93,
         "2026-06-26": 11.9
       },
-      "latest_price": 15.415,
-      "return_pct": 7.87,
+      "latest_price": 15.41,
+      "return_pct": 7.84,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -58311,8 +58311,8 @@
         "2026-06-25": 11.93,
         "2026-06-26": 11.9
       },
-      "latest_price": 15.415,
-      "return_pct": 4.58,
+      "latest_price": 15.41,
+      "return_pct": 4.55,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -63912,8 +63912,8 @@
         "2026-06-25": 11.93,
         "2026-06-26": 11.9
       },
-      "latest_price": 15.415,
-      "return_pct": 6.75,
+      "latest_price": 15.41,
+      "return_pct": 6.72,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -70412,8 +70412,8 @@
         "2026-06-25": 4.11,
         "2026-06-26": 3.98
       },
-      "latest_price": 4.33,
-      "return_pct": 9.07,
+      "latest_price": 4.34,
+      "return_pct": 9.32,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -70455,8 +70455,8 @@
         "2026-06-25": 4.11,
         "2026-06-26": 3.98
       },
-      "latest_price": 4.33,
-      "return_pct": 7.71,
+      "latest_price": 4.34,
+      "return_pct": 7.96,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -70498,8 +70498,8 @@
         "2026-06-25": 4.11,
         "2026-06-26": 3.98
       },
-      "latest_price": 4.33,
-      "return_pct": 8.79,
+      "latest_price": 4.34,
+      "return_pct": 9.05,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -70541,8 +70541,8 @@
         "2026-06-25": 4.11,
         "2026-06-26": 3.98
       },
-      "latest_price": 4.33,
-      "return_pct": 5.35,
+      "latest_price": 4.34,
+      "return_pct": 5.6,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -81575,8 +81575,8 @@
         "2026-06-25": 4.11,
         "2026-06-26": 3.98
       },
-      "latest_price": 4.33,
-      "return_pct": 5.61,
+      "latest_price": 4.34,
+      "return_pct": 5.85,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -85674,8 +85674,8 @@
         "2026-06-25": 4.11,
         "2026-06-26": 3.98
       },
-      "latest_price": 4.33,
-      "return_pct": 5.61,
+      "latest_price": 4.34,
+      "return_pct": 5.85,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -85699,8 +85699,8 @@
         "2026-06-25": 4.11,
         "2026-06-26": 3.98
       },
-      "latest_price": 4.33,
-      "return_pct": 5.87,
+      "latest_price": 4.34,
+      "return_pct": 6.11,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -88480,6 +88480,46 @@
       },
       "latest_price": 47.15,
       "return_pct": 42.88,
+      "last_snapshot": "2026-06-26"
+    },
+    {
+      "id": "US|CRT|2026-06-24|oliver eric l|8.77",
+      "market": "US",
+      "ticker": "CRT",
+      "yf_symbol": "CRT",
+      "company": "Cross Timbers Royalty Trust",
+      "insider_name": "Oliver Eric L",
+      "title": "10%",
+      "trade_date": "2026-06-24",
+      "trade_price": 8.77,
+      "value": 68143.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-26": 9.03
+      },
+      "latest_price": 9.03,
+      "return_pct": 2.96,
+      "last_snapshot": "2026-06-26"
+    },
+    {
+      "id": "US|PAM|2026-06-24|mindlin marcos marcelo|3.36",
+      "market": "US",
+      "ticker": "PAM",
+      "yf_symbol": "PAM",
+      "company": "Pampa Energy Inc.",
+      "insider_name": "Mindlin Marcos Marcelo",
+      "title": "Dir, 10%",
+      "trade_date": "2026-06-24",
+      "trade_price": 3.36,
+      "value": 3770756.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-26": 80.78
+      },
+      "latest_price": 80.78,
+      "return_pct": 2304.17,
       "last_snapshot": "2026-06-26"
     }
   ]

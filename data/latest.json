@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T20:27:24Z",
-  "trade_count": 8019,
+  "last_updated": "2026-06-26T22:05:18Z",
+  "trade_count": 8021,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -128305,6 +128305,38 @@
       "delta_own": ">999%",
       "value": "9086979",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-26",
+      "filing_time": "17:35",
+      "trade_date": "2026-06-24",
+      "ticker": "CRT",
+      "company": "Cross Timbers Royalty Trust",
+      "insider_name": "Oliver Eric L",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "8.77",
+      "qty": "7774",
+      "owned": "924960",
+      "delta_own": "+1%",
+      "value": "68143",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-26",
+      "filing_time": "16:45",
+      "trade_date": "2026-06-24",
+      "ticker": "PAM",
+      "company": "Pampa Energy Inc.",
+      "insider_name": "Mindlin Marcos Marcelo",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "3.36",
+      "qty": "1122778",
+      "owned": "22769751",
+      "delta_own": "+5%",
+      "value": "3770756",
+      "cluster_buy": false
     }
   ]
 }
