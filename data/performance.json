@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-26",
-  "entry_count": 1774,
+  "entry_count": 1776,
   "entries": [
     {
       "id": "US|PFBX|2026-04-27|dennis padrick d|21.5",
@@ -10490,8 +10490,8 @@
         "2026-06-25": 0.76,
         "2026-06-26": 1.0
       },
-      "latest_price": 1.1,
-      "return_pct": 8.91,
+      "latest_price": 1.13,
+      "return_pct": 11.88,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -17023,8 +17023,8 @@
         "2026-06-25": 0.1,
         "2026-06-26": 0.095
       },
-      "latest_price": 0.0921,
-      "return_pct": -16.27,
+      "latest_price": 0.095,
+      "return_pct": -13.64,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -28674,8 +28674,8 @@
         "2026-06-25": 0.1,
         "2026-06-26": 0.095
       },
-      "latest_price": 0.0921,
-      "return_pct": -16.27,
+      "latest_price": 0.095,
+      "return_pct": -13.64,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -50357,8 +50357,8 @@
         "2026-06-25": 8.62,
         "2026-06-26": 8.72
       },
-      "latest_price": 9.02,
-      "return_pct": 3.2,
+      "latest_price": 8.72,
+      "return_pct": -0.23,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -63330,8 +63330,8 @@
         "2026-06-25": 8.62,
         "2026-06-26": 8.72
       },
-      "latest_price": 9.02,
-      "return_pct": 3.44,
+      "latest_price": 8.72,
+      "return_pct": 0.0,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -64056,8 +64056,8 @@
         "2026-06-25": 4.25,
         "2026-06-26": 4.22
       },
-      "latest_price": 4.24,
-      "return_pct": 4.69,
+      "latest_price": 4.22,
+      "return_pct": 4.2,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -64266,8 +64266,8 @@
         "2026-06-25": 0.83,
         "2026-06-26": 0.8
       },
-      "latest_price": 0.85,
-      "return_pct": 112.5,
+      "latest_price": 0.8,
+      "return_pct": 100.0,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -70240,8 +70240,8 @@
         "2026-06-25": 8.62,
         "2026-06-26": 8.72
       },
-      "latest_price": 9.02,
-      "return_pct": -0.22,
+      "latest_price": 8.72,
+      "return_pct": -3.54,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -73604,8 +73604,8 @@
         "2026-06-25": 8.62,
         "2026-06-26": 8.72
       },
-      "latest_price": 9.02,
-      "return_pct": -0.33,
+      "latest_price": 8.72,
+      "return_pct": -3.65,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -77396,8 +77396,8 @@
         "2026-06-25": 8.62,
         "2026-06-26": 8.72
       },
-      "latest_price": 9.02,
-      "return_pct": -1.64,
+      "latest_price": 8.72,
+      "return_pct": -4.91,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -80707,8 +80707,8 @@
         "2026-06-25": 8.62,
         "2026-06-26": 8.72
       },
-      "latest_price": 9.02,
-      "return_pct": -7.58,
+      "latest_price": 8.72,
+      "return_pct": -10.66,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -87596,8 +87596,8 @@
         "2026-06-25": 16.81,
         "2026-06-26": 17.0
       },
-      "latest_price": 17.03,
-      "return_pct": 1.43,
+      "latest_price": 17.0,
+      "return_pct": 1.25,
       "last_snapshot": "2026-06-26"
     },
     {
@@ -88520,6 +88520,46 @@
       },
       "latest_price": 80.78,
       "return_pct": 2304.17,
+      "last_snapshot": "2026-06-26"
+    },
+    {
+      "id": "US|FTH|2026-06-24|stephenson brian c|25.65",
+      "market": "US",
+      "ticker": "FTH",
+      "yf_symbol": "FTH",
+      "company": "Faeth Therapeutics, Inc.",
+      "insider_name": "Stephenson Brian C",
+      "title": "CFO",
+      "trade_date": "2026-06-24",
+      "trade_price": 25.65,
+      "value": 401269.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-26": 22.87
+      },
+      "latest_price": 22.87,
+      "return_pct": -10.84,
+      "last_snapshot": "2026-06-26"
+    },
+    {
+      "id": "US|CTGO|2026-06-25|van nieuwenhuyse rick|15.24",
+      "market": "US",
+      "ticker": "CTGO",
+      "yf_symbol": "CTGO",
+      "company": "Contango Silver & Gold Inc.",
+      "insider_name": "Van Nieuwenhuyse Rick",
+      "title": "Pres, CEO",
+      "trade_date": "2026-06-25",
+      "trade_price": 15.24,
+      "value": 62652.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-26": 15.74
+      },
+      "latest_price": 15.74,
+      "return_pct": 3.28,
       "last_snapshot": "2026-06-26"
     }
   ]
