@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T13:03:51Z",
-  "trade_count": 8004,
+  "last_updated": "2026-06-26T16:07:50Z",
+  "trade_count": 8005,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -88032,7 +88032,7 @@
       "owned": "33436",
       "delta_own": "+46%",
       "value": "174402",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-03-17",
@@ -128064,6 +128064,22 @@
       "owned": "253770",
       "delta_own": "+13%",
       "value": "82650",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-26",
+      "filing_time": "10:47",
+      "trade_date": "2026-03-13",
+      "ticker": "FOA",
+      "company": "Finance of America Companies Inc.",
+      "insider_name": "Safra Edmond",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "17.18",
+      "qty": "125000",
+      "owned": "881588",
+      "delta_own": "+17%",
+      "value": "2147018",
       "cluster_buy": true
     }
   ]
