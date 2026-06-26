@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T06:44:15Z",
-  "trade_count": 8001,
+  "last_updated": "2026-06-26T10:14:55Z",
+  "trade_count": 8002,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -128016,6 +128016,22 @@
       "owned": "5744088",
       "delta_own": "0%",
       "value": "248962",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-26",
+      "filing_time": "06:00",
+      "trade_date": "2026-06-25",
+      "ticker": "GLND",
+      "company": "Greenland Energy Co",
+      "insider_name": "Swets Larry G Jr",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.56",
+      "qty": "15000",
+      "owned": "585000",
+      "delta_own": "+3%",
+      "value": "38358",
       "cluster_buy": false
     }
   ]
