@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-26",
-  "entry_count": 462,
+  "entry_count": 466,
   "entries": [
     {
       "id": "CA|BETR|2026-04-27|sangha, steven|0.06",
@@ -20387,6 +20387,86 @@
       },
       "latest_price": 1.52,
       "return_pct": 1.33,
+      "last_snapshot": "2026-06-26"
+    },
+    {
+      "id": "CA|CHLT|2026-06-26|castanho, michael|7.8735",
+      "market": "CA",
+      "ticker": "CHLT",
+      "yf_symbol": "CHLT.TO",
+      "company": "Custom Health Holdings Inc.",
+      "insider_name": "Castanho, Michael",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-06-26",
+      "trade_price": 7.8735,
+      "value": 15747.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-06-26": 7.76
+      },
+      "latest_price": 7.76,
+      "return_pct": -1.44,
+      "last_snapshot": "2026-06-26"
+    },
+    {
+      "id": "CA|MTA|2026-06-26|tether international, s.a. de c.v.|7.3488",
+      "market": "CA",
+      "ticker": "MTA",
+      "yf_symbol": "MTA.V",
+      "company": "Metalla Royalty and Streaming Ltd.",
+      "insider_name": "Tether International, S.A. de C.V.",
+      "title": "10% Holder",
+      "trade_date": "2026-06-26",
+      "trade_price": 7.3488,
+      "value": 570678.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-06-26": 10.57
+      },
+      "latest_price": 10.57,
+      "return_pct": 43.83,
+      "last_snapshot": "2026-06-26"
+    },
+    {
+      "id": "CA|NBRK|2026-06-26|quigley, ross|0.24",
+      "market": "CA",
+      "ticker": "NBRK",
+      "yf_symbol": "NBRK.CN",
+      "company": "New Break Resources Ltd.",
+      "insider_name": "Quigley, Ross",
+      "title": "10% Holder",
+      "trade_date": "2026-06-26",
+      "trade_price": 0.24,
+      "value": 68400.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-06-26": 0.245
+      },
+      "latest_price": 0.245,
+      "return_pct": 2.08,
+      "last_snapshot": "2026-06-26"
+    },
+    {
+      "id": "CA|PTM|2026-06-26|harshaw, stuart|1.89",
+      "market": "CA",
+      "ticker": "PTM",
+      "yf_symbol": "PTM.TO",
+      "company": "Platinum Group Metals Ltd.",
+      "insider_name": "Harshaw, Stuart",
+      "title": "Director",
+      "trade_date": "2026-06-26",
+      "trade_price": 1.89,
+      "value": 37800.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-06-26": 1.88
+      },
+      "latest_price": 1.88,
+      "return_pct": -0.53,
       "last_snapshot": "2026-06-26"
     }
   ]

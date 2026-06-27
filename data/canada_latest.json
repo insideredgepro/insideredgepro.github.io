@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T22:00:21Z",
-  "trade_count": 3365,
+  "last_updated": "2026-06-27T03:45:20Z",
+  "trade_count": 3369,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -50511,7 +50511,7 @@
       "value": "15000",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4737018",
@@ -51389,6 +51389,70 @@
       "qty": "24600",
       "price": "1.5000",
       "value": "36900",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4741075",
+      "trade_date": "2026-06-26",
+      "filing_date": "2026-06-26",
+      "company": "Custom Health Holdings Inc.",
+      "ticker": "CHLT",
+      "insider_name": "Castanho, Michael",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "2000",
+      "price": "7.8735",
+      "value": "15747",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4741037",
+      "trade_date": "2026-06-26",
+      "filing_date": "2026-06-26",
+      "company": "Metalla Royalty and Streaming Ltd.",
+      "ticker": "MTA",
+      "insider_name": "Tether International, S.A. de C.V.",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "77656",
+      "price": "7.3488",
+      "value": "570678",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4741116",
+      "trade_date": "2026-06-26",
+      "filing_date": "2026-06-26",
+      "company": "New Break Resources Ltd.",
+      "ticker": "NBRK",
+      "insider_name": "Quigley, Ross",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "285000",
+      "price": "0.2400",
+      "value": "68400",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4741118",
+      "trade_date": "2026-06-26",
+      "filing_date": "2026-06-26",
+      "company": "Platinum Group Metals Ltd.",
+      "ticker": "PTM",
+      "insider_name": "Harshaw, Stuart",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "1.8900",
+      "value": "37800",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
