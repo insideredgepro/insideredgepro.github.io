@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-29",
-  "entry_count": 1708,
+  "entry_count": 1714,
   "entries": [
     {
       "id": "US|GEHC|2026-04-30|jimenez frank r|60.45",
@@ -87650,6 +87650,126 @@
       },
       "latest_price": 6.81,
       "return_pct": 6.41,
+      "last_snapshot": "2026-06-29"
+    },
+    {
+      "id": "US|GDC|2026-06-24|hrt financial lp|0.02",
+      "market": "US",
+      "ticker": "GDC",
+      "yf_symbol": "GDC",
+      "company": "Gd Culture Group Ltd",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_date": "2026-06-24",
+      "trade_price": 0.02,
+      "value": 128320.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-29": 2.49
+      },
+      "latest_price": 2.49,
+      "return_pct": 12350.0,
+      "last_snapshot": "2026-06-29"
+    },
+    {
+      "id": "US|INLF|2026-06-24|hrt financial lp|0.04",
+      "market": "US",
+      "ticker": "INLF",
+      "yf_symbol": "INLF",
+      "company": "Inlif Ltd",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_date": "2026-06-24",
+      "trade_price": 0.04,
+      "value": 188899.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-29": 0.066
+      },
+      "latest_price": 0.066,
+      "return_pct": 65.0,
+      "last_snapshot": "2026-06-29"
+    },
+    {
+      "id": "US|LILA|2026-06-25|malone john c|8.49",
+      "market": "US",
+      "ticker": "LILA",
+      "yf_symbol": "LILA",
+      "company": "Liberty Latin America Ltd.",
+      "insider_name": "Malone John C",
+      "title": "Director Emeritus",
+      "trade_date": "2026-06-25",
+      "trade_price": 8.49,
+      "value": 3394124.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-29": 7.73
+      },
+      "latest_price": 7.73,
+      "return_pct": -8.95,
+      "last_snapshot": "2026-06-29"
+    },
+    {
+      "id": "US|CGON|2026-06-25|liu brian guan-chyun|66.87",
+      "market": "US",
+      "ticker": "CGON",
+      "yf_symbol": "CGON",
+      "company": "Cg Oncology, Inc.",
+      "insider_name": "Liu Brian Guan-Chyun",
+      "title": "Dir",
+      "trade_date": "2026-06-25",
+      "trade_price": 66.87,
+      "value": 24814454.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-29": 73.73
+      },
+      "latest_price": 73.73,
+      "return_pct": 10.26,
+      "last_snapshot": "2026-06-29"
+    },
+    {
+      "id": "US|GTE|2026-06-25|lm asset management inc.|6.04",
+      "market": "US",
+      "ticker": "GTE",
+      "yf_symbol": "GTE",
+      "company": "Gran Tierra Energy Inc.",
+      "insider_name": "Lm Asset Management Inc.",
+      "title": "10%",
+      "trade_date": "2026-06-25",
+      "trade_price": 6.04,
+      "value": 193136.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-29": 6.21
+      },
+      "latest_price": 6.21,
+      "return_pct": 2.81,
+      "last_snapshot": "2026-06-29"
+    },
+    {
+      "id": "US|GO|2026-06-25|miller paul blaine|9.5",
+      "market": "US",
+      "ticker": "GO",
+      "yf_symbol": "GO",
+      "company": "Grocery Outlet Holding Corp.",
+      "insider_name": "Miller Paul Blaine",
+      "title": "See Remarks",
+      "trade_date": "2026-06-25",
+      "trade_price": 9.5,
+      "value": 47500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-29": 9.72
+      },
+      "latest_price": 9.72,
+      "return_pct": 2.32,
       "last_snapshot": "2026-06-29"
     }
   ]
