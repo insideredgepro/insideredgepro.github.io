@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-29T16:01:03Z",
-  "trade_count": 3371,
+  "last_updated": "2026-06-29T22:00:21Z",
+  "trade_count": 3376,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -50495,7 +50495,7 @@
       "value": "129500",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4737014",
@@ -51488,6 +51488,86 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4741560",
+      "trade_date": "2026-06-29",
+      "filing_date": "2026-06-29",
+      "company": "ADAMERA MINERALS CORP.",
+      "ticker": "ADZ",
+      "insider_name": "KOLEBABA, MARK ROBERT",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "133333",
+      "price": "0.1500",
+      "value": "19999",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4741441",
+      "trade_date": "2026-06-29",
+      "filing_date": "2026-06-29",
+      "company": "Agnico Eagle Mines Limited",
+      "ticker": "AEM",
+      "insider_name": "Al-Joundi, Ammar",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "1200",
+      "price": "218.8200",
+      "value": "262584",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4741542",
+      "trade_date": "2026-06-29",
+      "filing_date": "2026-06-29",
+      "company": "Freeman Gold Corp.",
+      "ticker": "FMAN",
+      "insider_name": "Moubarak, Bassam",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "194500",
+      "price": "0.3100",
+      "value": "60295",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4741559",
+      "trade_date": "2026-06-29",
+      "filing_date": "2026-06-29",
+      "company": "Hemlo Mining Corp.",
+      "ticker": "HMMC",
+      "insider_name": "Koci, Eva",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "6400",
+      "price": "5.4487",
+      "value": "34871",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4741422",
+      "trade_date": "2026-06-29",
+      "filing_date": "2026-06-29",
+      "company": "Swiss Water Decaffeinated Coffee Inc.",
+      "ticker": "SWP",
+      "insider_name": "Spur Point Capital Inc.",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "11700",
+      "price": "5.6100",
+      "value": "65637",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
