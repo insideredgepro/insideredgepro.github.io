@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-29",
-  "entry_count": 1695,
+  "entry_count": 1696,
   "entries": [
     {
       "id": "US|GEHC|2026-04-30|jimenez frank r|60.45",
@@ -87382,6 +87382,26 @@
       },
       "latest_price": 15.74,
       "return_pct": 3.28,
+      "last_snapshot": "2026-06-29"
+    },
+    {
+      "id": "US|MDV|2026-06-26|halfacre aaron scott|17.49",
+      "market": "US",
+      "ticker": "MDV",
+      "yf_symbol": "MDV",
+      "company": "Modiv Industrial, Inc.",
+      "insider_name": "Halfacre Aaron Scott",
+      "title": "CEO, Pres",
+      "trade_date": "2026-06-26",
+      "trade_price": 17.49,
+      "value": 100859.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-29": 17.64
+      },
+      "latest_price": 17.64,
+      "return_pct": 0.86,
       "last_snapshot": "2026-06-29"
     }
   ]

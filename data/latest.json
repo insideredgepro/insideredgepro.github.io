@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-29T07:22:14Z",
-  "trade_count": 8023,
+  "last_updated": "2026-06-29T12:23:44Z",
+  "trade_count": 8024,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -128368,6 +128368,22 @@
       "owned": "555251",
       "delta_own": "+1%",
       "value": "62652",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-29",
+      "filing_time": "07:34",
+      "trade_date": "2026-06-26",
+      "ticker": "MDV",
+      "company": "Modiv Industrial, Inc.",
+      "insider_name": "Halfacre Aaron Scott",
+      "title": "CEO, Pres",
+      "trade_type": "P - Purchase",
+      "price": "17.49",
+      "qty": "5766",
+      "owned": "134245",
+      "delta_own": "+4%",
+      "value": "100859",
       "cluster_buy": false
     }
   ]
