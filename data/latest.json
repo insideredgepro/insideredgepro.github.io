@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-29T22:05:14Z",
-  "trade_count": 8042,
+  "last_updated": "2026-06-29T23:55:04Z",
+  "trade_count": 8044,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -128672,6 +128672,38 @@
       "owned": "64171",
       "delta_own": "+8%",
       "value": "47500",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-29",
+      "filing_time": "19:37",
+      "trade_date": "2026-06-26",
+      "ticker": "VFF",
+      "company": "Village Farms International, Inc.",
+      "insider_name": "Degiglio Michael A",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.88",
+      "qty": "40000",
+      "owned": "9695775",
+      "delta_own": "0%",
+      "value": "75328",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-29",
+      "filing_time": "18:22",
+      "trade_date": "2026-06-25",
+      "ticker": "STRR",
+      "company": "Star Equity Holdings, Inc.",
+      "insider_name": "Eberwein Jeffrey E.",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "11.01",
+      "qty": "10000",
+      "owned": "1125714",
+      "delta_own": "+1%",
+      "value": "110100",
       "cluster_buy": false
     }
   ]

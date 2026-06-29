@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-29",
-  "entry_count": 1714,
+  "entry_count": 1716,
   "entries": [
     {
       "id": "US|GEHC|2026-04-30|jimenez frank r|60.45",
@@ -87770,6 +87770,46 @@
       },
       "latest_price": 9.72,
       "return_pct": 2.32,
+      "last_snapshot": "2026-06-29"
+    },
+    {
+      "id": "US|VFF|2026-06-26|degiglio michael a|1.88",
+      "market": "US",
+      "ticker": "VFF",
+      "yf_symbol": "VFF",
+      "company": "Village Farms International, Inc.",
+      "insider_name": "Degiglio Michael A",
+      "title": "CEO",
+      "trade_date": "2026-06-26",
+      "trade_price": 1.88,
+      "value": 75328.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-29": 1.87
+      },
+      "latest_price": 1.87,
+      "return_pct": -0.53,
+      "last_snapshot": "2026-06-29"
+    },
+    {
+      "id": "US|STRR|2026-06-25|eberwein jeffrey e.|11.01",
+      "market": "US",
+      "ticker": "STRR",
+      "yf_symbol": "STRR",
+      "company": "Star Equity Holdings, Inc.",
+      "insider_name": "Eberwein Jeffrey E.",
+      "title": "CEO, 10%",
+      "trade_date": "2026-06-25",
+      "trade_price": 11.01,
+      "value": 110100.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-29": 10.97
+      },
+      "latest_price": 10.97,
+      "return_pct": -0.36,
       "last_snapshot": "2026-06-29"
     }
   ]
