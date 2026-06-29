@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-29T16:33:22Z",
-  "trade_count": 8029,
+  "last_updated": "2026-06-29T18:58:55Z",
+  "trade_count": 8030,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -128464,6 +128464,22 @@
       "owned": "2700834",
       "delta_own": "+10%",
       "value": "199999",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-29",
+      "filing_time": "13:55",
+      "trade_date": "2026-06-26",
+      "ticker": "NXST",
+      "company": "Nexstar Media Group, Inc.",
+      "insider_name": "Sook Perry A",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "162.27",
+      "qty": "12235",
+      "owned": "1875000",
+      "delta_own": "+1%",
+      "value": "1985309",
       "cluster_buy": false
     }
   ]
