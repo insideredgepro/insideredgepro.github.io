@@ -374,6 +374,27 @@
     "scraped_at": "2026-03-03T06:07:47.231168"
   },
   {
+    "id": "10000065210",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "ALLEGHENY TWP SEWER AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-18",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "8",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5% Matures: 2055-12-01",
+    "scraped_at": "2026-06-29T16:10:03.072043+00:00"
+  },
+  {
     "id": "20003800627",
     "politician_name": "Matthew Van Epps",
     "party": "Republican",
@@ -392,7 +413,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Schwab One Account",
-    "scraped_at": "2026-06-27T03:55:03.001100+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072468+00:00"
   },
   {
     "id": "20003800628",
@@ -413,7 +434,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Schwab One Account",
-    "scraped_at": "2026-06-27T03:55:03.001114+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072475+00:00"
   },
   {
     "id": "20003800629",
@@ -434,7 +455,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Schwab One Account",
-    "scraped_at": "2026-06-27T03:55:03.001125+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072479+00:00"
   },
   {
     "id": "20003800630",
@@ -455,7 +476,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Schwab One Account",
-    "scraped_at": "2026-06-27T03:55:03.001134+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072484+00:00"
   },
   {
     "id": "20003800631",
@@ -476,7 +497,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Schwab One Account",
-    "scraped_at": "2026-06-27T03:55:03.001143+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072491+00:00"
   },
   {
     "id": "20003800632",
@@ -497,7 +518,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Schwab One Account",
-    "scraped_at": "2026-06-27T03:55:03.001153+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072496+00:00"
   },
   {
     "id": "20003800633",
@@ -518,7 +539,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Schwab One Account",
-    "scraped_at": "2026-06-27T03:55:03.001162+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072502+00:00"
   },
   {
     "id": "20003800634",
@@ -539,7 +560,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Schwab One Account",
-    "scraped_at": "2026-06-27T03:55:03.001171+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072507+00:00"
   },
   {
     "id": "20003800635",
@@ -647,6 +668,69 @@
     "scraped_at": "2026-06-27T03:55:03.001225+00:00"
   },
   {
+    "id": "20003800686",
+    "politician_name": "Cleo Fields",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "LA",
+    "company": "Alphabet Inc",
+    "ticker": "GOOGL:US",
+    "sector": "communication-services",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-15",
+    "trade_published": "2026-06-29",
+    "filed_after_days": "11",
+    "price": "$367.11",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
+    "scraped_at": "2026-06-29T16:10:03.072015+00:00"
+  },
+  {
+    "id": "20003800687",
+    "politician_name": "Cleo Fields",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "LA",
+    "company": "Microsoft Corp",
+    "ticker": "MSFT:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-11",
+    "trade_published": "2026-06-29",
+    "filed_after_days": "15",
+    "price": "$390.34",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
+    "scraped_at": "2026-06-29T16:10:03.072025+00:00"
+  },
+  {
+    "id": "20003800688",
+    "politician_name": "Cleo Fields",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "LA",
+    "company": "Microsoft Corp",
+    "ticker": "MSFT:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-11",
+    "trade_published": "2026-06-29",
+    "filed_after_days": "15",
+    "price": "$390.34",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
+    "scraped_at": "2026-06-29T16:10:03.072032+00:00"
+  },
+  {
     "id": "20003798356",
     "politician_name": "Christian Menefee",
     "party": "Democrat",
@@ -686,7 +770,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: CETERA",
-    "scraped_at": "2026-06-27T03:55:03.000653+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072246+00:00"
   },
   {
     "id": "20003800685",
@@ -707,7 +791,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: CETERA",
-    "scraped_at": "2026-06-27T03:55:03.000663+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072251+00:00"
   },
   {
     "id": "20003800614",
@@ -878,6 +962,27 @@
     "scraped_at": "2026-06-09T03:55:03.038471+00:00"
   },
   {
+    "id": "20003800689",
+    "politician_name": "Cleo Fields",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "LA",
+    "company": "QUANTINUUM INC",
+    "ticker": "",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-04",
+    "trade_published": "2026-06-29",
+    "filed_after_days": "22",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
+    "scraped_at": "2026-06-29T16:10:03.072037+00:00"
+  },
+  {
     "id": "20003799856",
     "politician_name": "John McGuire",
     "party": "Republican",
@@ -962,6 +1067,27 @@
     "scraped_at": "2026-06-09T03:55:03.038072+00:00"
   },
   {
+    "id": "10000065211",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "The Goldman Sachs Group Inc",
+    "ticker": "GS:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-06-29T16:10:03.072049+00:00"
+  },
+  {
     "id": "20003799805",
     "politician_name": "Gilbert Cisneros",
     "party": "Democrat",
@@ -1001,7 +1127,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-06-27T03:55:03.001066+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072454+00:00"
   },
   {
     "id": "20003800643",
@@ -1022,7 +1148,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-06-27T03:55:03.001078+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072459+00:00"
   },
   {
     "id": "20003798396",
@@ -1064,7 +1190,7 @@
     "amount": "$1M\u2013$5M",
     "owner": "Spouse",
     "comment": "Description: Purchased 200 call options with a strike price of $50 and an expiration date of 3/19/27.",
-    "scraped_at": "2026-06-27T03:55:03.000674+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072257+00:00"
   },
   {
     "id": "20003800683",
@@ -1085,7 +1211,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Description: Purchased 200 call options with a strike price of $50 and an expiration date of 3/19/27.",
-    "scraped_at": "2026-06-27T03:55:03.000686+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072261+00:00"
   },
   {
     "id": "20003800667",
@@ -1106,7 +1232,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000895+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072366+00:00"
   },
   {
     "id": "20003799852",
@@ -1886,6 +2012,27 @@
     "scraped_at": "2026-06-09T03:55:03.038280+00:00"
   },
   {
+    "id": "20003800690",
+    "politician_name": "Gregory Stanton",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "AZ",
+    "company": "TRULIEVE CANNABIS CORP",
+    "ticker": "TCNNF:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-28",
+    "trade_published": "2026-06-29",
+    "filed_after_days": "29",
+    "price": "$9.67",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-06-29T16:10:03.071991+00:00"
+  },
+  {
     "id": "20003799855",
     "politician_name": "Suzan DelBene",
     "party": "Democrat",
@@ -2138,6 +2285,27 @@
     "scraped_at": "2026-06-08T16:10:02.025200+00:00"
   },
   {
+    "id": "10000065212",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "The Goldman Sachs Group Inc",
+    "ticker": "GS:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-27",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "30",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-06-29T16:10:03.072054+00:00"
+  },
+  {
     "id": "10000065205",
     "politician_name": "Gerald Moran",
     "party": "Republican",
@@ -2156,7 +2324,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000539+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072216+00:00"
   },
   {
     "id": "10000065206",
@@ -2177,7 +2345,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000583+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072221+00:00"
   },
   {
     "id": "10000065207",
@@ -2198,7 +2366,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000603+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072226+00:00"
   },
   {
     "id": "10000065208",
@@ -2219,7 +2387,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000615+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072235+00:00"
   },
   {
     "id": "10000065209",
@@ -2240,7 +2408,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000642+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072240+00:00"
   },
   {
     "id": "20003800625",
@@ -2873,6 +3041,615 @@
     "scraped_at": "2026-06-09T03:55:03.038572+00:00"
   },
   {
+    "id": "10000065213",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "PENNSYLVANIA TURNPIKE COMMISSION",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2027-12-01",
+    "scraped_at": "2026-06-29T16:10:03.072058+00:00"
+  },
+  {
+    "id": "10000065214",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "SCHOOL DISTRICT OF SPRINGFIELD TOWNSHIP PENNSYLVANIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2030-11-15",
+    "scraped_at": "2026-06-29T16:10:03.072063+00:00"
+  },
+  {
+    "id": "10000065215",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "DEPARTMENT OF STATE PENNSYLVANIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2034-04-01",
+    "scraped_at": "2026-06-29T16:10:03.072067+00:00"
+  },
+  {
+    "id": "10000065216",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "UNIVERSITY OF PITTSBURGH",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2032-04-15",
+    "scraped_at": "2026-06-29T16:10:03.072072+00:00"
+  },
+  {
+    "id": "10000065217",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "COUNTY OF NORTHAMPTON PENNSYLVANIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2034-11-15",
+    "scraped_at": "2026-06-29T16:10:03.072078+00:00"
+  },
+  {
+    "id": "10000065218",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "PENNSYLVANIA STATE SYSTEM OF HIGHER EDUCATION",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 4% Matures: 2031-06-15",
+    "scraped_at": "2026-06-29T16:10:03.072084+00:00"
+  },
+  {
+    "id": "10000065219",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "CORPUS CHRISTI INDEPENDENT SCHOOL DISTRICT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2029-07-15",
+    "scraped_at": "2026-06-29T16:10:03.072088+00:00"
+  },
+  {
+    "id": "10000065220",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "PHILADELPHIA AUTHORITY FOR INDUSTRIAL DEVELOPMENT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2031-12-01",
+    "scraped_at": "2026-06-29T16:10:03.072093+00:00"
+  },
+  {
+    "id": "10000065221",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "DEPARTMENT OF STATE PENNSYLVANIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2027-08-15",
+    "scraped_at": "2026-06-29T16:10:03.072098+00:00"
+  },
+  {
+    "id": "10000065222",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "PENNSYLVANIA TURNPIKE COMMISSION",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5.25% Matures: 2030-07-15",
+    "scraped_at": "2026-06-29T16:10:03.072103+00:00"
+  },
+  {
+    "id": "10000065223",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "DEPARTMENT OF STATE PENNSYLVANIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2033-08-15",
+    "scraped_at": "2026-06-29T16:10:03.072108+00:00"
+  },
+  {
+    "id": "10000065224",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "STATE OF WASHINGTON",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2033-02-01",
+    "scraped_at": "2026-06-29T16:10:03.072113+00:00"
+  },
+  {
+    "id": "10000065225",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "ALVIN INDEPENDENT SCHOOL DISTRICT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2035-02-15",
+    "scraped_at": "2026-06-29T16:10:03.072117+00:00"
+  },
+  {
+    "id": "10000065226",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "CHESTER COUNTY SCHOOL DISTRICTS",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2027-03-01",
+    "scraped_at": "2026-06-29T16:10:03.072121+00:00"
+  },
+  {
+    "id": "10000065227",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "ALLEGHENY COUNTY HIGHER EDUCATION BUILDING AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2032-02-01",
+    "scraped_at": "2026-06-29T16:10:03.072126+00:00"
+  },
+  {
+    "id": "10000065228",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "MONTGOMERY COUNTY INDUSTRIAL DEVELOPMENT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2028-12-01",
+    "scraped_at": "2026-06-29T16:10:03.072131+00:00"
+  },
+  {
+    "id": "10000065229",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "DEPARTMENT OF STATE PENNSYLVANIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2034-04-01",
+    "scraped_at": "2026-06-29T16:10:03.072137+00:00"
+  },
+  {
+    "id": "10000065230",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "COUNTY OF NORTHAMPTON PENNSYLVANIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "--Rate/Coupon: 5% Matures: 2034-11-15",
+    "scraped_at": "2026-06-29T16:10:03.072141+00:00"
+  },
+  {
+    "id": "10000065231",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "STATE OF NEVADA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2031-05-01",
+    "scraped_at": "2026-06-29T16:10:03.072146+00:00"
+  },
+  {
+    "id": "10000065232",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "STATE OF MARYLAND",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2027-08-01",
+    "scraped_at": "2026-06-29T16:10:03.072151+00:00"
+  },
+  {
+    "id": "10000065233",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "PARKLAND SCHOOL DISTRICT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2033-02-01",
+    "scraped_at": "2026-06-29T16:10:03.072155+00:00"
+  },
+  {
+    "id": "10000065234",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "PENNSYLVANIA INFRASTRUCTURE INVESTMENT AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2028-01-15",
+    "scraped_at": "2026-06-29T16:10:03.072160+00:00"
+  },
+  {
+    "id": "10000065235",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "WASHINGTON KING COUNTY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2030-12-01",
+    "scraped_at": "2026-06-29T16:10:03.072164+00:00"
+  },
+  {
+    "id": "10000065236",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "PENNSYLVANIA INFRASTRUCTURE INVESTMENT AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2027-01-15",
+    "scraped_at": "2026-06-29T16:10:03.072168+00:00"
+  },
+  {
+    "id": "10000065237",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "STATE OF WASHINGTON",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2033-12-01",
+    "scraped_at": "2026-06-29T16:10:03.072174+00:00"
+  },
+  {
+    "id": "10000065238",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "PENNSYLVANIA TURNPIKE COMMISSION",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2029-12-01",
+    "scraped_at": "2026-06-29T16:10:03.072178+00:00"
+  },
+  {
+    "id": "10000065239",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "SCHOOL DISTRICT OF NEW GLARUS",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2028-04-01",
+    "scraped_at": "2026-06-29T16:10:03.072202+00:00"
+  },
+  {
+    "id": "10000065240",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "WASHINGTON KING COUNTY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2032-01-01",
+    "scraped_at": "2026-06-29T16:10:03.072207+00:00"
+  },
+  {
+    "id": "10000065241",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "DEPARTMENT OF STATE PENNSYLVANIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-26",
+    "trade_published": "2026-06-27",
+    "filed_after_days": "31",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2035-04-01",
+    "scraped_at": "2026-06-29T16:10:03.072211+00:00"
+  },
+  {
     "id": "20003800669",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -2891,7 +3668,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000914+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072374+00:00"
   },
   {
     "id": "20003799874",
@@ -3626,7 +4403,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000771+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072303+00:00"
   },
   {
     "id": "20003800662",
@@ -3647,7 +4424,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000845+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072341+00:00"
   },
   {
     "id": "20003800641",
@@ -3668,7 +4445,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-06-27T03:55:03.001057+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072448+00:00"
   },
   {
     "id": "10000065152",
@@ -3899,7 +4676,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000808+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072323+00:00"
   },
   {
     "id": "10000065079",
@@ -4172,7 +4949,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000762+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072298+00:00"
   },
   {
     "id": "20003800664",
@@ -4193,7 +4970,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000866+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072350+00:00"
   },
   {
     "id": "20003800675",
@@ -4214,7 +4991,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000964+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072403+00:00"
   },
   {
     "id": "20003800624",
@@ -4487,7 +5264,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000932+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072383+00:00"
   },
   {
     "id": "20003799860",
@@ -4823,7 +5600,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Kent Street Group LLC Description: Water/Wastewater O&M",
-    "scraped_at": "2026-06-27T03:55:03.000799+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072318+00:00"
   },
   {
     "id": "20003800661",
@@ -4844,7 +5621,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-06-27T03:55:03.000837+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072336+00:00"
   },
   {
     "id": "20003800676",
@@ -4865,7 +5642,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000975+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072408+00:00"
   },
   {
     "id": "10000065203",
@@ -5999,7 +6776,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000745+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072288+00:00"
   },
   {
     "id": "20003800670",
@@ -6020,7 +6797,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000923+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072379+00:00"
   },
   {
     "id": "20003800640",
@@ -6041,7 +6818,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-06-27T03:55:03.001047+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072443+00:00"
   },
   {
     "id": "20003799873",
@@ -7196,7 +7973,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Perpetual Preferred Stock, Series A (T$A) [ST] Subholding Of: IRA #3",
-    "scraped_at": "2026-06-27T03:55:03.000698+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072266+00:00"
   },
   {
     "id": "20003800680",
@@ -7217,7 +7994,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Depositary Shares Preferred Series GG [OT] Subholding Of: IRA #3 Description: Preferred Stock",
-    "scraped_at": "2026-06-27T03:55:03.000708+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072270+00:00"
   },
   {
     "id": "20003800681",
@@ -7238,7 +8015,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E (RF$E) [ST] Subholding Of: IRA #3",
-    "scraped_at": "2026-06-27T03:55:03.000716+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072275+00:00"
   },
   {
     "id": "20003800663",
@@ -7259,7 +8036,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000854+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072346+00:00"
   },
   {
     "id": "20003799876",
@@ -7700,7 +8477,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000956+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072397+00:00"
   },
   {
     "id": "20003800621",
@@ -8183,7 +8960,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-06-27T03:55:03.000903+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072370+00:00"
   },
   {
     "id": "20003800673",
@@ -8204,7 +8981,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000948+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072393+00:00"
   },
   {
     "id": "20003800677",
@@ -8225,7 +9002,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000984+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072413+00:00"
   },
   {
     "id": "20003800678",
@@ -8246,7 +9023,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000993+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072417+00:00"
   },
   {
     "id": "20003800608",
@@ -8750,7 +9527,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000782+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072309+00:00"
   },
   {
     "id": "20003800656",
@@ -8771,7 +9548,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000791+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072313+00:00"
   },
   {
     "id": "20003800660",
@@ -8792,7 +9569,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000828+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072331+00:00"
   },
   {
     "id": "20003800665",
@@ -8813,7 +9590,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000875+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072356+00:00"
   },
   {
     "id": "20003800645",
@@ -8834,7 +9611,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-06-27T03:55:03.001005+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072422+00:00"
   },
   {
     "id": "20003800646",
@@ -8855,7 +9632,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-06-27T03:55:03.001018+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072427+00:00"
   },
   {
     "id": "20003800647",
@@ -8876,7 +9653,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-06-27T03:55:03.001028+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072432+00:00"
   },
   {
     "id": "20003800648",
@@ -8897,7 +9674,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-06-27T03:55:03.001037+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072438+00:00"
   },
   {
     "id": "10000065153",
@@ -9422,7 +10199,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000728+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072279+00:00"
   },
   {
     "id": "20003800650",
@@ -9443,7 +10220,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000737+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072284+00:00"
   },
   {
     "id": "20003800659",
@@ -9464,7 +10241,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000819+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072327+00:00"
   },
   {
     "id": "20003799737",
@@ -9884,7 +10661,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000886+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072360+00:00"
   },
   {
     "id": "20003800672",
@@ -9905,7 +10682,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000940+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072389+00:00"
   },
   {
     "id": "20003800644",
@@ -9926,7 +10703,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-06-27T03:55:03.001087+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072463+00:00"
   },
   {
     "id": "20003799764",
@@ -10283,7 +11060,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-06-27T03:55:03.000754+00:00"
+    "scraped_at": "2026-06-29T16:10:03.072294+00:00"
   },
   {
     "id": "20003799859",
@@ -39266,27 +40043,6 @@
     "scraped_at": "2026-04-18T23:43:46.503639+00:00"
   },
   {
-    "id": "10000064807",
-    "politician_name": "David McCormick",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "PA",
-    "company": "ALLEGHENY COUNTY AIRPORT AUTHORITY",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-17",
-    "trade_published": "2026-03-28",
-    "filed_after_days": "11",
-    "price": "N/A",
-    "value": 375000,
-    "amount": "$250K\u2013$500K",
-    "owner": "Self",
-    "comment": "Rate/Coupon: 5.5% Matures: 2050-01-01",
-    "scraped_at": "2026-04-18T23:43:48.551186+00:00"
-  },
-  {
     "id": "20003797419",
     "politician_name": "Stephen Cohen",
     "party": "Democrat",
@@ -48042,27 +48798,6 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 2012 Trust Description: Capital call of $584.22",
     "scraped_at": "2026-04-18T23:43:48.551181+00:00"
-  },
-  {
-    "id": "10000064808",
-    "politician_name": "David McCormick",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "PA",
-    "company": "PHILADELPHIA WATER DEPARTMENT",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-03",
-    "trade_published": "2026-03-28",
-    "filed_after_days": "25",
-    "price": "N/A",
-    "value": 750000,
-    "amount": "$500K\u2013$1M",
-    "owner": "Self",
-    "comment": "Rate/Coupon: 5.25% Matures: 2054-09-01",
-    "scraped_at": "2026-04-18T23:43:48.551191+00:00"
   },
   {
     "id": "20003797258",
