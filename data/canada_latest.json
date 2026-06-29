@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-27T03:45:20Z",
-  "trade_count": 3369,
+  "last_updated": "2026-06-29T16:01:03Z",
+  "trade_count": 3371,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -51453,6 +51453,38 @@
       "qty": "20000",
       "price": "1.8900",
       "value": "37800",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4741305",
+      "trade_date": "2026-06-29",
+      "filing_date": "2026-06-29",
+      "company": "A2 Gold Corp.",
+      "ticker": "AUAU",
+      "insider_name": "Reyes, Javier",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "300000",
+      "price": "0.7066",
+      "value": "211980",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4741312",
+      "trade_date": "2026-06-29",
+      "filing_date": "2026-06-29",
+      "company": "A2 Gold Corp.",
+      "ticker": "AUAU",
+      "insider_name": "Reyes, Javier",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "0.7010",
+      "value": "35050",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
