@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-30T20:51:33Z",
-  "trade_count": 8056,
+  "last_updated": "2026-06-30T22:09:47Z",
+  "trade_count": 8059,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -128897,6 +128897,54 @@
       "delta_own": "New",
       "value": "231000",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-30",
+      "filing_time": "17:40",
+      "trade_date": "2026-06-15",
+      "ticker": "GH",
+      "company": "Guardant Health, Inc.",
+      "insider_name": "Kalia Kumud",
+      "title": "CIO",
+      "trade_type": "P - Purchase",
+      "price": "130.76",
+      "qty": "600",
+      "owned": "40814",
+      "delta_own": "+1%",
+      "value": "78456",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-30",
+      "filing_time": "17:13",
+      "trade_date": "2026-06-29",
+      "ticker": "LND",
+      "company": "Brasilagro - Brazilian Agricultural Real Estate Co",
+      "insider_name": "Elsztain Alejandro Gustavo",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.57",
+      "qty": "29000",
+      "owned": "670370",
+      "delta_own": "+5%",
+      "value": "103608",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-30",
+      "filing_time": "17:06",
+      "trade_date": "2026-06-26",
+      "ticker": "LILA",
+      "company": "Liberty Latin America Ltd.",
+      "insider_name": "Winter John M",
+      "title": "SVP, CLO, SECRETARY",
+      "trade_type": "P - Purchase",
+      "price": "19.67",
+      "qty": "5071",
+      "owned": "64547",
+      "delta_own": "+9%",
+      "value": "99738",
+      "cluster_buy": true
     }
   ]
 }

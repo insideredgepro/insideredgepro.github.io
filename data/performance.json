@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-30",
-  "entry_count": 1690,
+  "entry_count": 1693,
   "entries": [
     {
       "id": "US|GEHC|2026-05-01|saccaro james|60.6",
@@ -86910,6 +86910,66 @@
       },
       "latest_price": 1.86,
       "return_pct": 20.78,
+      "last_snapshot": "2026-06-30"
+    },
+    {
+      "id": "US|GH|2026-06-15|kalia kumud|130.76",
+      "market": "US",
+      "ticker": "GH",
+      "yf_symbol": "GH",
+      "company": "Guardant Health, Inc.",
+      "insider_name": "Kalia Kumud",
+      "title": "CIO",
+      "trade_date": "2026-06-15",
+      "trade_price": 130.76,
+      "value": 78456.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-30": 150.03
+      },
+      "latest_price": 150.03,
+      "return_pct": 14.74,
+      "last_snapshot": "2026-06-30"
+    },
+    {
+      "id": "US|LND|2026-06-29|elsztain alejandro gustavo|3.57",
+      "market": "US",
+      "ticker": "LND",
+      "yf_symbol": "LND",
+      "company": "Brasilagro - Brazilian Agricultural Real Estate Co",
+      "insider_name": "Elsztain Alejandro Gustavo",
+      "title": "Dir",
+      "trade_date": "2026-06-29",
+      "trade_price": 3.57,
+      "value": 103608.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-30": 3.57
+      },
+      "latest_price": 3.57,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-06-30"
+    },
+    {
+      "id": "US|LILA|2026-06-26|winter john m|19.67",
+      "market": "US",
+      "ticker": "LILA",
+      "yf_symbol": "LILA",
+      "company": "Liberty Latin America Ltd.",
+      "insider_name": "Winter John M",
+      "title": "SVP, CLO, SECRETARY",
+      "trade_date": "2026-06-26",
+      "trade_price": 19.67,
+      "value": 99738.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-30": 7.84
+      },
+      "latest_price": 7.84,
+      "return_pct": -60.14,
       "last_snapshot": "2026-06-30"
     }
   ]
