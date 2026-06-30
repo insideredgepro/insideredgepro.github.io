@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-29",
-  "entry_count": 1716,
+  "entry_count": 1721,
   "entries": [
     {
       "id": "US|GEHC|2026-04-30|jimenez frank r|60.45",
@@ -79719,8 +79719,8 @@
         "2026-06-28": 29.22,
         "2026-06-29": 29.22
       },
-      "latest_price": 29.22,
-      "return_pct": -0.65,
+      "latest_price": 28.59,
+      "return_pct": -2.79,
       "last_snapshot": "2026-06-29"
     },
     {
@@ -87810,6 +87810,106 @@
       },
       "latest_price": 10.97,
       "return_pct": -0.36,
+      "last_snapshot": "2026-06-29"
+    },
+    {
+      "id": "US|NYC|2026-06-25|schorsch nicholas s|9.12",
+      "market": "US",
+      "ticker": "NYC",
+      "yf_symbol": "NYC",
+      "company": "American Strategic Investment Co.",
+      "insider_name": "Schorsch Nicholas S",
+      "title": "10%",
+      "trade_date": "2026-06-25",
+      "trade_price": 9.12,
+      "value": 54740.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-29": 9.36
+      },
+      "latest_price": 9.36,
+      "return_pct": 2.63,
+      "last_snapshot": "2026-06-29"
+    },
+    {
+      "id": "US|SNES|2026-06-24|glenbrook capital management|1.54",
+      "market": "US",
+      "ticker": "SNES",
+      "yf_symbol": "SNES",
+      "company": "Senestech, Inc.",
+      "insider_name": "Glenbrook Capital Management",
+      "title": "10%",
+      "trade_date": "2026-06-24",
+      "trade_price": 1.54,
+      "value": 39102.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-29": 1.49
+      },
+      "latest_price": 1.49,
+      "return_pct": -3.25,
+      "last_snapshot": "2026-06-29"
+    },
+    {
+      "id": "US|MOBI|2026-05-11|green park & golf ventures - houston, llc|15.0",
+      "market": "US",
+      "ticker": "MOBI",
+      "yf_symbol": "MOBI",
+      "company": "Mobia Medical, Inc.",
+      "insider_name": "Green Park & Golf Ventures - Houston, LLC",
+      "title": "10%",
+      "trade_date": "2026-05-11",
+      "trade_price": 15.0,
+      "value": 908055.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-29": 14.38
+      },
+      "latest_price": 14.38,
+      "return_pct": -4.13,
+      "last_snapshot": "2026-06-29"
+    },
+    {
+      "id": "US|MOBI|2026-05-11|green park & golf ventures ii, llc|15.0",
+      "market": "US",
+      "ticker": "MOBI",
+      "yf_symbol": "MOBI",
+      "company": "Mobia Medical, Inc.",
+      "insider_name": "Green Park & Golf Ventures Ii, LLC",
+      "title": "10%",
+      "trade_date": "2026-05-11",
+      "trade_price": 15.0,
+      "value": 499995.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-29": 14.38
+      },
+      "latest_price": 14.38,
+      "return_pct": -4.13,
+      "last_snapshot": "2026-06-29"
+    },
+    {
+      "id": "US|BOLD|2026-06-25|tang kevin|2.5",
+      "market": "US",
+      "ticker": "BOLD",
+      "yf_symbol": "BOLD",
+      "company": "Boundless Bio, Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "10%",
+      "trade_date": "2026-06-25",
+      "trade_price": 2.5,
+      "value": 714768.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-29": 2.45
+      },
+      "latest_price": 2.45,
+      "return_pct": -2.0,
       "last_snapshot": "2026-06-29"
     }
   ]
