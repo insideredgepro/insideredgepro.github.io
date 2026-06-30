@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-30T16:00:19Z",
-  "trade_count": 3378,
+  "last_updated": "2026-06-30T22:00:20Z",
+  "trade_count": 3379,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -51597,6 +51597,22 @@
       "qty": "596",
       "price": "30.4430",
       "value": "18144",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4742070",
+      "trade_date": "2026-06-30",
+      "filing_date": "2026-06-30",
+      "company": "Computer Modelling Group Ltd.",
+      "ticker": "CMG",
+      "insider_name": "Duggal, Anuroop",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "25000",
+      "price": "3.5700",
+      "value": "89250",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
