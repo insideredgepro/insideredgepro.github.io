@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-29T22:00:21Z",
-  "trade_count": 3376,
+  "last_updated": "2026-06-30T03:45:20Z",
+  "trade_count": 3377,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -51561,6 +51561,22 @@
       "ticker": "SWP",
       "insider_name": "Spur Point Capital Inc.",
       "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "11700",
+      "price": "5.6100",
+      "value": "65637",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4741626",
+      "trade_date": "2026-06-29",
+      "filing_date": "2026-06-29",
+      "company": "Swiss Water Decaffeinated Coffee Inc.",
+      "ticker": "SWP",
+      "insider_name": "Vendramin, Mark Stephen",
+      "title": "Director",
       "security": "Common Shares",
       "qty": "11700",
       "price": "5.6100",
