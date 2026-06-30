@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-30T03:45:20Z",
-  "trade_count": 3377,
+  "last_updated": "2026-06-30T16:00:19Z",
+  "trade_count": 3378,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -51584,6 +51584,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4741796",
+      "trade_date": "2026-06-30",
+      "filing_date": "2026-06-30",
+      "company": "Flagship Communities Real Estate Investment Trust",
+      "ticker": "MHC-U",
+      "insider_name": "Keeney, Kurtis Paul",
+      "title": "Director & Senior Officer",
+      "security": "Trust Units",
+      "qty": "596",
+      "price": "30.4430",
+      "value": "18144",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
