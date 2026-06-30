@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-06-30",
-  "entry_count": 1685,
+  "entry_count": 1687,
   "entries": [
     {
       "id": "US|GEHC|2026-05-01|saccaro james|60.6",
@@ -86810,6 +86810,46 @@
       },
       "latest_price": 455.1,
       "return_pct": 497.48,
+      "last_snapshot": "2026-06-30"
+    },
+    {
+      "id": "US|COE|2026-06-23|huang jack jiajia|15.54",
+      "market": "US",
+      "ticker": "COE",
+      "yf_symbol": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "CEO, 10%",
+      "trade_date": "2026-06-23",
+      "trade_price": 15.54,
+      "value": 16524757.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-30": 15.05
+      },
+      "latest_price": 15.05,
+      "return_pct": -3.15,
+      "last_snapshot": "2026-06-30"
+    },
+    {
+      "id": "US|SBSW|2026-06-26|keyter charl|2.24",
+      "market": "US",
+      "ticker": "SBSW",
+      "yf_symbol": "SBSW",
+      "company": "Sibanye Stillwater Ltd",
+      "insider_name": "Keyter Charl",
+      "title": "CFO",
+      "trade_date": "2026-06-26",
+      "trade_price": 2.24,
+      "value": 448000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-06-30": 8.62
+      },
+      "latest_price": 8.62,
+      "return_pct": 284.82,
       "last_snapshot": "2026-06-30"
     }
   ]

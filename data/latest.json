@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-30T10:26:28Z",
-  "trade_count": 8051,
+  "last_updated": "2026-06-30T13:04:23Z",
+  "trade_count": 8053,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -128817,6 +128817,38 @@
       "delta_own": "+18%",
       "value": "152340",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-30",
+      "filing_time": "08:03",
+      "trade_date": "2026-06-23",
+      "ticker": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "15.54",
+      "qty": "1063080",
+      "owned": "78341720",
+      "delta_own": "+1%",
+      "value": "16524757",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-06-30",
+      "filing_time": "07:52",
+      "trade_date": "2026-06-26",
+      "ticker": "SBSW",
+      "company": "Sibanye Stillwater Ltd",
+      "insider_name": "Keyter Charl",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "2.24",
+      "qty": "200000",
+      "owned": "2210300",
+      "delta_own": "+10%",
+      "value": "448000",
+      "cluster_buy": false
     }
   ]
 }
