@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-01T14:10:54Z",
-  "trade_count": 8063,
+  "last_updated": "2026-07-01T17:07:19Z",
+  "trade_count": 8064,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -129008,6 +129008,22 @@
       "owned": "314817695",
       "delta_own": "0%",
       "value": "25125",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-01",
+      "filing_time": "10:30",
+      "trade_date": "2026-06-29",
+      "ticker": "ADIL",
+      "company": "Adial Pharmaceuticals, Inc.",
+      "insider_name": "Coastlands Capital LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.60",
+      "qty": "25000",
+      "owned": "373322",
+      "delta_own": "+7%",
+      "value": "65000",
       "cluster_buy": false
     }
   ]
