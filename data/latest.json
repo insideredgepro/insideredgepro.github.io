@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-01T21:19:00Z",
-  "trade_count": 8080,
+  "last_updated": "2026-07-01T23:03:25Z",
+  "trade_count": 8081,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -129280,6 +129280,22 @@
       "owned": "5513281",
       "delta_own": "+1%",
       "value": "794116",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-01",
+      "filing_time": "18:05",
+      "trade_date": "2026-06-30",
+      "ticker": "GTLB",
+      "company": "Gitlab Inc.",
+      "insider_name": "Staples William",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "29.36",
+      "qty": "4188",
+      "owned": "758828",
+      "delta_own": "+1%",
+      "value": "122960",
       "cluster_buy": false
     }
   ]

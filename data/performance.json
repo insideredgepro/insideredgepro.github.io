@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-01",
-  "entry_count": 1684,
+  "entry_count": 1685,
   "entries": [
     {
       "id": "US|XYL|2026-05-04|peribere jerome a|116.61",
@@ -86943,6 +86943,26 @@
       },
       "latest_price": 10.06,
       "return_pct": -5.18,
+      "last_snapshot": "2026-07-01"
+    },
+    {
+      "id": "US|GTLB|2026-06-30|staples william|29.36",
+      "market": "US",
+      "ticker": "GTLB",
+      "yf_symbol": "GTLB",
+      "company": "Gitlab Inc.",
+      "insider_name": "Staples William",
+      "title": "CEO",
+      "trade_date": "2026-06-30",
+      "trade_price": 29.36,
+      "value": 122960.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-01": 31.53
+      },
+      "latest_price": 31.53,
+      "return_pct": 7.39,
       "last_snapshot": "2026-07-01"
     }
   ]
