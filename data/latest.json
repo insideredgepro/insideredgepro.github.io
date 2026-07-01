@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-01T08:44:10Z",
-  "trade_count": 8061,
+  "last_updated": "2026-07-01T11:52:44Z",
+  "trade_count": 8063,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -128848,7 +128848,7 @@
       "owned": "2210300",
       "delta_own": "+10%",
       "value": "448000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-30",
@@ -128976,6 +128976,38 @@
       "owned": "5747690",
       "delta_own": "0%",
       "value": "249258",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-01",
+      "filing_time": "06:16",
+      "trade_date": "2026-06-30",
+      "ticker": "SBSW",
+      "company": "Sibanye Stillwater Ltd",
+      "insider_name": "Menell Richard Peter",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.19",
+      "qty": "15000",
+      "owned": "27625",
+      "delta_own": "+119%",
+      "value": "32850",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-01",
+      "filing_time": "06:05",
+      "trade_date": "2026-06-30",
+      "ticker": "MOGU",
+      "company": "Mogu Inc.",
+      "insider_name": "Chen Qi",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.68",
+      "qty": "15000",
+      "owned": "314817695",
+      "delta_own": "0%",
+      "value": "25125",
       "cluster_buy": false
     }
   ]

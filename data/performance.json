@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-01",
-  "entry_count": 1665,
+  "entry_count": 1667,
   "entries": [
     {
       "id": "US|XYL|2026-05-04|peribere jerome a|116.61",
@@ -86563,6 +86563,46 @@
       },
       "latest_price": 70.07,
       "return_pct": 1.26,
+      "last_snapshot": "2026-07-01"
+    },
+    {
+      "id": "US|SBSW|2026-06-30|menell richard peter|2.19",
+      "market": "US",
+      "ticker": "SBSW",
+      "yf_symbol": "SBSW",
+      "company": "Sibanye Stillwater Ltd",
+      "insider_name": "Menell Richard Peter",
+      "title": "Dir",
+      "trade_date": "2026-06-30",
+      "trade_price": 2.19,
+      "value": 32850.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-01": 8.49
+      },
+      "latest_price": 8.49,
+      "return_pct": 287.67,
+      "last_snapshot": "2026-07-01"
+    },
+    {
+      "id": "US|MOGU|2026-06-30|chen qi|1.68",
+      "market": "US",
+      "ticker": "MOGU",
+      "yf_symbol": "MOGU",
+      "company": "Mogu Inc.",
+      "insider_name": "Chen Qi",
+      "title": "Dir",
+      "trade_date": "2026-06-30",
+      "trade_price": 1.68,
+      "value": 25125.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-01": 1.67
+      },
+      "latest_price": 1.67,
+      "return_pct": -0.6,
       "last_snapshot": "2026-07-01"
     }
   ]
