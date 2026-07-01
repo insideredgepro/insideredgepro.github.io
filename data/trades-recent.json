@@ -374,6 +374,27 @@
     "scraped_at": "2026-03-03T06:07:47.231168"
   },
   {
+    "id": "20003800691",
+    "politician_name": "Donald Beyer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "VA",
+    "company": "COMMONWEALTH OF VIRGINIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-18",
+    "trade_published": "2026-07-01",
+    "filed_after_days": "13",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Stocks, Bonds, & Mutual Funds Description: 60,000 units of Virginia Commonwealth 5.00% bond, 9/15/29",
+    "scraped_at": "2026-07-01T16:10:03.226100+00:00"
+  },
+  {
     "id": "10000065210",
     "politician_name": "David McCormick",
     "party": "Republican",
@@ -392,7 +413,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2055-12-01",
-    "scraped_at": "2026-07-01T03:55:03.237181+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226252+00:00"
   },
   {
     "id": "20003800627",
@@ -686,7 +707,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
-    "scraped_at": "2026-07-01T03:55:03.237159+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226234+00:00"
   },
   {
     "id": "20003800687",
@@ -707,7 +728,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
-    "scraped_at": "2026-07-01T03:55:03.237165+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226238+00:00"
   },
   {
     "id": "20003800688",
@@ -728,7 +749,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
-    "scraped_at": "2026-07-01T03:55:03.237170+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226243+00:00"
   },
   {
     "id": "20003798356",
@@ -770,7 +791,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: CETERA",
-    "scraped_at": "2026-07-01T03:55:03.237377+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226430+00:00"
   },
   {
     "id": "20003800685",
@@ -791,7 +812,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: CETERA",
-    "scraped_at": "2026-07-01T03:55:03.237382+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226435+00:00"
   },
   {
     "id": "20003800614",
@@ -980,7 +1001,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
-    "scraped_at": "2026-07-01T03:55:03.237176+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226247+00:00"
   },
   {
     "id": "20003799856",
@@ -1067,6 +1088,531 @@
     "scraped_at": "2026-06-09T03:55:03.038072+00:00"
   },
   {
+    "id": "10000065243",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "UBS Group AG",
+    "ticker": "UBS:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 10% Matures: 2029-05-17",
+    "scraped_at": "2026-07-01T16:10:03.226106+00:00"
+  },
+  {
+    "id": "10000065244",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "JPMORGAN CHASE FINANCIAL COMPANY LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 9.85% Matures: 2029-05-17",
+    "scraped_at": "2026-07-01T16:10:03.226111+00:00"
+  },
+  {
+    "id": "10000065245",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "CITIGROUP GLOBAL MKTS HLDGS",
+    "ticker": "",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 11% Matures: 2029-05-17",
+    "scraped_at": "2026-07-01T16:10:03.226116+00:00"
+  },
+  {
+    "id": "10000065246",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "WEST CENTRAL SCHOOL CORPORATION INDIANA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-07-01T16:10:03.226120+00:00"
+  },
+  {
+    "id": "10000065247",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "STATE OF UTAH",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 4.0% Matures: 2038-12-01",
+    "scraped_at": "2026-07-01T16:10:03.226124+00:00"
+  },
+  {
+    "id": "10000065248",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "TEXAS WATER DEVELOPMENT BOARD",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 4.0% Matures: 2034-08-01",
+    "scraped_at": "2026-07-01T16:10:03.226130+00:00"
+  },
+  {
+    "id": "10000065249",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "SULLIVAN COUNTY SCHOOL DISTRICT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 3.0% Matures: 2028-04-01",
+    "scraped_at": "2026-07-01T16:10:03.226136+00:00"
+  },
+  {
+    "id": "10000065250",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "STATE OF SOUTH CAROLINA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 4.0% Matures: 2033-10-01",
+    "scraped_at": "2026-07-01T16:10:03.226140+00:00"
+  },
+  {
+    "id": "10000065251",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "MOUNT VERNON SCHOOL DISTRICT NO 320 SKAGIT COUNTY WASHINGTON",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 4.0% Matures: 2032-12-01",
+    "scraped_at": "2026-07-01T16:10:03.226144+00:00"
+  },
+  {
+    "id": "10000065252",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "SANGAMON LOGAN AND MENARD COUNTIES ILLINOIS COMMUNITY UNIT SCHOOL DISTRICT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-07-01T16:10:03.226148+00:00"
+  },
+  {
+    "id": "10000065253",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "VILLAGE OF ROMEOVILLE WILL COUNTY ILLINOIS",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 4.0% Matures: 2038-12-30",
+    "scraped_at": "2026-07-01T16:10:03.226152+00:00"
+  },
+  {
+    "id": "10000065254",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "PENN HIGH SCHOOL BLDG CORP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 4.0% Matures: 2034-07-15",
+    "scraped_at": "2026-07-01T16:10:03.226157+00:00"
+  },
+  {
+    "id": "10000065255",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "COUNTY OF ONSLOW NORTH CAROLINA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 4.0% Matures: 2035-10-01",
+    "scraped_at": "2026-07-01T16:10:03.226161+00:00"
+  },
+  {
+    "id": "10000065256",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "CITY OF OLATHE KANSAS",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 3.0% Matures: 2032-10-01",
+    "scraped_at": "2026-07-01T16:10:03.226166+00:00"
+  },
+  {
+    "id": "10000065257",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "STATE OF MISSISSIPPI",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 4.0% Matures: 2036-10-01",
+    "scraped_at": "2026-07-01T16:10:03.226170+00:00"
+  },
+  {
+    "id": "10000065258",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "METROPOLITAN TRANSPORTATION AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 5.0% Matures: 2034-11-15",
+    "scraped_at": "2026-07-01T16:10:03.226176+00:00"
+  },
+  {
+    "id": "10000065259",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "INDIANA FINANCE AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 4.0% Matures: 2036-10-01",
+    "scraped_at": "2026-07-01T16:10:03.226181+00:00"
+  },
+  {
+    "id": "10000065260",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "HENNEPIN COUNTY MINNESOTA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 5.0% Matures: 2039-12-15",
+    "scraped_at": "2026-07-01T16:10:03.226185+00:00"
+  },
+  {
+    "id": "10000065261",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "HENDERSON COUNTY NORTH CAROLINA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 4.0% Matures: 2034-06-01",
+    "scraped_at": "2026-07-01T16:10:03.226191+00:00"
+  },
+  {
+    "id": "10000065262",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "STATE OF GEORGIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 4.0% Matures: 2034-07-01",
+    "scraped_at": "2026-07-01T16:10:03.226195+00:00"
+  },
+  {
+    "id": "10000065263",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "EASTERN HOWARD THIRD MILLENNIUM SCHOOL BUILDING CORP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 4.0% Matures: 2033-07-15",
+    "scraped_at": "2026-07-01T16:10:03.226200+00:00"
+  },
+  {
+    "id": "10000065264",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "COLO NESCO COMMUNITY SCHOOL DISTRICT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-07-01T16:10:03.226204+00:00"
+  },
+  {
+    "id": "10000065265",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "STATE OF COLORADO",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 4.0% Matures: 2037-12-15",
+    "scraped_at": "2026-07-01T16:10:03.226208+00:00"
+  },
+  {
+    "id": "10000065266",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "STATE OF CALIFORNIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 4.0% Matures: 2037-03-01",
+    "scraped_at": "2026-07-01T16:10:03.226212+00:00"
+  },
+  {
+    "id": "10000065267",
+    "politician_name": "John Curtis",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "UT",
+    "company": "TRUSTEES OF THE CALIFORNIA STATE UNIVERSITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-06-30",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Rate/Coupon: 5.0% Matures: 2035-11-01",
+    "scraped_at": "2026-07-01T16:10:03.226216+00:00"
+  },
+  {
     "id": "10000065211",
     "politician_name": "David McCormick",
     "party": "Republican",
@@ -1085,7 +1631,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237186+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226256+00:00"
   },
   {
     "id": "20003799805",
@@ -1127,7 +1673,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Dividend Reinvestment",
-    "scraped_at": "2026-07-01T03:55:03.237119+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226221+00:00"
   },
   {
     "id": "20003800642",
@@ -1211,7 +1757,7 @@
     "amount": "$1M\u2013$5M",
     "owner": "Spouse",
     "comment": "Description: Purchased 200 call options with a strike price of $50 and an expiration date of 3/19/27.",
-    "scraped_at": "2026-07-01T03:55:03.237387+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226440+00:00"
   },
   {
     "id": "20003800683",
@@ -1232,7 +1778,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Description: Purchased 200 call options with a strike price of $50 and an expiration date of 3/19/27.",
-    "scraped_at": "2026-07-01T03:55:03.237391+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226444+00:00"
   },
   {
     "id": "20003800667",
@@ -2051,7 +2597,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237147+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226228+00:00"
   },
   {
     "id": "20003799855",
@@ -2324,7 +2870,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237192+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226260+00:00"
   },
   {
     "id": "10000065205",
@@ -2345,7 +2891,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237348+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226403+00:00"
   },
   {
     "id": "10000065206",
@@ -2366,7 +2912,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237353+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226407+00:00"
   },
   {
     "id": "10000065207",
@@ -2387,7 +2933,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237358+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226412+00:00"
   },
   {
     "id": "10000065208",
@@ -2408,7 +2954,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237362+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226418+00:00"
   },
   {
     "id": "10000065209",
@@ -2429,7 +2975,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237371+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226423+00:00"
   },
   {
     "id": "20003800625",
@@ -3080,7 +3626,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2027-12-01",
-    "scraped_at": "2026-07-01T03:55:03.237196+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226265+00:00"
   },
   {
     "id": "10000065214",
@@ -3101,7 +3647,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2030-11-15",
-    "scraped_at": "2026-07-01T03:55:03.237201+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226271+00:00"
   },
   {
     "id": "10000065215",
@@ -3122,7 +3668,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2034-04-01",
-    "scraped_at": "2026-07-01T03:55:03.237206+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226278+00:00"
   },
   {
     "id": "10000065216",
@@ -3143,7 +3689,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2032-04-15",
-    "scraped_at": "2026-07-01T03:55:03.237212+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226282+00:00"
   },
   {
     "id": "10000065217",
@@ -3164,7 +3710,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2034-11-15",
-    "scraped_at": "2026-07-01T03:55:03.237217+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226287+00:00"
   },
   {
     "id": "10000065218",
@@ -3185,7 +3731,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 4% Matures: 2031-06-15",
-    "scraped_at": "2026-07-01T03:55:03.237221+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226291+00:00"
   },
   {
     "id": "10000065219",
@@ -3206,7 +3752,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2029-07-15",
-    "scraped_at": "2026-07-01T03:55:03.237238+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226295+00:00"
   },
   {
     "id": "10000065220",
@@ -3227,7 +3773,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2031-12-01",
-    "scraped_at": "2026-07-01T03:55:03.237243+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226299+00:00"
   },
   {
     "id": "10000065221",
@@ -3248,7 +3794,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2027-08-15",
-    "scraped_at": "2026-07-01T03:55:03.237247+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226305+00:00"
   },
   {
     "id": "10000065222",
@@ -3269,7 +3815,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5.25% Matures: 2030-07-15",
-    "scraped_at": "2026-07-01T03:55:03.237251+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226309+00:00"
   },
   {
     "id": "10000065223",
@@ -3290,7 +3836,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2033-08-15",
-    "scraped_at": "2026-07-01T03:55:03.237256+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226314+00:00"
   },
   {
     "id": "10000065224",
@@ -3311,7 +3857,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2033-02-01",
-    "scraped_at": "2026-07-01T03:55:03.237261+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226318+00:00"
   },
   {
     "id": "10000065225",
@@ -3332,7 +3878,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2035-02-15",
-    "scraped_at": "2026-07-01T03:55:03.237267+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226324+00:00"
   },
   {
     "id": "10000065226",
@@ -3353,7 +3899,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2027-03-01",
-    "scraped_at": "2026-07-01T03:55:03.237274+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226329+00:00"
   },
   {
     "id": "10000065227",
@@ -3374,7 +3920,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2032-02-01",
-    "scraped_at": "2026-07-01T03:55:03.237279+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226333+00:00"
   },
   {
     "id": "10000065228",
@@ -3395,7 +3941,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2028-12-01",
-    "scraped_at": "2026-07-01T03:55:03.237283+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226338+00:00"
   },
   {
     "id": "10000065229",
@@ -3416,7 +3962,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2034-04-01",
-    "scraped_at": "2026-07-01T03:55:03.237288+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226342+00:00"
   },
   {
     "id": "10000065230",
@@ -3437,7 +3983,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "--Rate/Coupon: 5% Matures: 2034-11-15",
-    "scraped_at": "2026-07-01T03:55:03.237293+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226346+00:00"
   },
   {
     "id": "10000065231",
@@ -3458,7 +4004,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2031-05-01",
-    "scraped_at": "2026-07-01T03:55:03.237297+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226352+00:00"
   },
   {
     "id": "10000065232",
@@ -3479,7 +4025,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2027-08-01",
-    "scraped_at": "2026-07-01T03:55:03.237301+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226356+00:00"
   },
   {
     "id": "10000065233",
@@ -3500,7 +4046,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2033-02-01",
-    "scraped_at": "2026-07-01T03:55:03.237306+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226360+00:00"
   },
   {
     "id": "10000065234",
@@ -3521,7 +4067,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2028-01-15",
-    "scraped_at": "2026-07-01T03:55:03.237310+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226364+00:00"
   },
   {
     "id": "10000065235",
@@ -3542,7 +4088,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2030-12-01",
-    "scraped_at": "2026-07-01T03:55:03.237315+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226370+00:00"
   },
   {
     "id": "10000065236",
@@ -3563,7 +4109,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2027-01-15",
-    "scraped_at": "2026-07-01T03:55:03.237321+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226376+00:00"
   },
   {
     "id": "10000065237",
@@ -3584,7 +4130,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2033-12-01",
-    "scraped_at": "2026-07-01T03:55:03.237326+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226380+00:00"
   },
   {
     "id": "10000065238",
@@ -3605,7 +4151,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2029-12-01",
-    "scraped_at": "2026-07-01T03:55:03.237330+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226385+00:00"
   },
   {
     "id": "10000065239",
@@ -3626,7 +4172,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2028-04-01",
-    "scraped_at": "2026-07-01T03:55:03.237334+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226389+00:00"
   },
   {
     "id": "10000065240",
@@ -3647,7 +4193,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2032-01-01",
-    "scraped_at": "2026-07-01T03:55:03.237338+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226393+00:00"
   },
   {
     "id": "10000065241",
@@ -3668,7 +4214,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2035-04-01",
-    "scraped_at": "2026-07-01T03:55:03.237343+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226398+00:00"
   },
   {
     "id": "20003800669",
@@ -4424,7 +4970,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237438+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226486+00:00"
   },
   {
     "id": "20003800662",
@@ -4445,7 +4991,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237477+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226597+00:00"
   },
   {
     "id": "20003800641",
@@ -4697,7 +5243,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237457+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226539+00:00"
   },
   {
     "id": "10000065079",
@@ -4970,7 +5516,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237434+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226482+00:00"
   },
   {
     "id": "20003800664",
@@ -5621,7 +6167,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Kent Street Group LLC Description: Water/Wastewater O&M",
-    "scraped_at": "2026-07-01T03:55:03.237451+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226535+00:00"
   },
   {
     "id": "20003800661",
@@ -5642,7 +6188,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-07-01T03:55:03.237471+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226591+00:00"
   },
   {
     "id": "20003800676",
@@ -6797,7 +7343,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237424+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226473+00:00"
   },
   {
     "id": "20003800670",
@@ -7994,7 +8540,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Perpetual Preferred Stock, Series A (T$A) [ST] Subholding Of: IRA #3",
-    "scraped_at": "2026-07-01T03:55:03.237396+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226449+00:00"
   },
   {
     "id": "20003800680",
@@ -8015,7 +8561,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Depositary Shares Preferred Series GG [OT] Subholding Of: IRA #3 Description: Preferred Stock",
-    "scraped_at": "2026-07-01T03:55:03.237400+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226453+00:00"
   },
   {
     "id": "20003800681",
@@ -8036,7 +8582,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E (RF$E) [ST] Subholding Of: IRA #3",
-    "scraped_at": "2026-07-01T03:55:03.237405+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226458+00:00"
   },
   {
     "id": "20003800663",
@@ -8057,7 +8603,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237481+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226601+00:00"
   },
   {
     "id": "20003799876",
@@ -9548,7 +10094,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237443+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226490+00:00"
   },
   {
     "id": "20003800656",
@@ -9569,7 +10115,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237447+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226530+00:00"
   },
   {
     "id": "20003800660",
@@ -9590,7 +10136,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237465+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226586+00:00"
   },
   {
     "id": "20003800665",
@@ -10220,7 +10766,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237409+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226462+00:00"
   },
   {
     "id": "20003800650",
@@ -10241,7 +10787,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237418+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226468+00:00"
   },
   {
     "id": "20003800659",
@@ -10262,7 +10808,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237461+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226544+00:00"
   },
   {
     "id": "20003799737",
@@ -11081,7 +11627,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-01T03:55:03.237430+00:00"
+    "scraped_at": "2026-07-01T16:10:03.226477+00:00"
   },
   {
     "id": "20003799859",
@@ -41177,195 +41723,6 @@
     "scraped_at": "2026-04-18T23:43:46.503649+00:00"
   },
   {
-    "id": "20003796414",
-    "politician_name": "Mark Alford",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "MO",
-    "company": "Amazon.com Inc",
-    "ticker": "AMZN:US",
-    "sector": "consumer-discretionary",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-16",
-    "trade_published": "2026-04-01",
-    "filed_after_days": "15",
-    "price": "$211.74",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "SUBHOLDING OF: Putnam Investments DESCRIPTION: The full transaction included the following sales: T-37.426 shares sold $27.645/share BRK/B-3 shares sold $493.42/share SPY-8.318 shares sold 8670.024/share DIA-8.426 shares sold $470.985/share SPYD-57.383 shares sold @ $46.04/share AMZN-25 sharts sold @$209-40/share AAPL-20.313 shares sold @ 8253-45/share QQQ-4.105 shares sold $601.68/share PYPL-9.021 shares sold $47-735/share",
-    "scraped_at": "2026-04-18T23:43:46.503825+00:00"
-  },
-  {
-    "id": "20003796415",
-    "politician_name": "Mark Alford",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "MO",
-    "company": "Apple Inc",
-    "ticker": "AAPL:US",
-    "sector": "information-technology",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-16",
-    "trade_published": "2026-04-01",
-    "filed_after_days": "15",
-    "price": "$252.82",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "SURHOLDING OF: Putnam Investiments DESCRIPTION: The full transaction included the following sales: T-37-426 shares sold $27.645/share BRK/B-3shares sold @ $493.42/share SPY-8,318 shares sold $670.024/share DIA-8.426 shares sold @ $470.985/share SPYD-57.383 shares sold @ $46.04/share AMZN-25 shares sold @ $209.40/share AAPL-20.313 shares sold 8253-45/share QQQ-4.105 shares sold @ $601.68/share PYPL-9.021 shares sold @ $47.735/share",
-    "scraped_at": "2026-04-18T23:43:46.503830+00:00"
-  },
-  {
-    "id": "20003796416",
-    "politician_name": "Mark Alford",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "MO",
-    "company": "AT&T Inc",
-    "ticker": "T:US",
-    "sector": "communication-services",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-16",
-    "trade_published": "2026-04-01",
-    "filed_after_days": "15",
-    "price": "$27.73",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "SURHOLDING Or: Putnam Investments DESCRIPTION: The full transaction included the following sales: T-37-426 shares sold @ $27.645/share BRK/B-3 shares sold @ $493.42/share SPY-8.318 shares sold $670.024/share DIA-8.426 shares sold @ $470.985/share SPYD-57-383 shares sold 846.04/share AMZN-25 shares sold $209.40/share AAPL-20.313 shares sold $253-45/share QQQ-4.105 shares sold @ $601.68/share PYPL-9.021 shares sold $47-735/share",
-    "scraped_at": "2026-04-18T23:43:48.551079+00:00"
-  },
-  {
-    "id": "20003796417",
-    "politician_name": "Mark Alford",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "MO",
-    "company": "Berkshire Hathaway Inc",
-    "ticker": "BRK/B:US",
-    "sector": "financials",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-16",
-    "trade_published": "2026-04-01",
-    "filed_after_days": "15",
-    "price": "$492.21",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "SUBHOLDING OF: Putnam Investments DESCRIPTION: The full transaction included the following sales: T-37.426 shares sold $27.645/share BRK/B-3 shares sold $493-42/share SPY-8,318 shares sold $670.024/share DIA-8.426 shares sold $470.985/share SPYD-57.383 shares sold @ 846.04/share AMZN-25 shares sold @ $209.40/share AAPL-20.313 shares sold @ $253-45/shate QQQ-4-105 shares sold 8601.68/share PYPL-9.021 shares sold $47.735/share",
-    "scraped_at": "2026-04-18T23:43:48.551103+00:00"
-  },
-  {
-    "id": "20003796418",
-    "politician_name": "Mark Alford",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "MO",
-    "company": "SPDR DOW JONES INDUSTRIAL AVERAGE ETF TRUST",
-    "ticker": "DIA:US",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-16",
-    "trade_published": "2026-04-01",
-    "filed_after_days": "15",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "SUBHOLDENG OF: Putnam Investments LOCATION: US DESCRIPTION: The full transaction included the following salex T-37.426 shares sold $27.645/share BRK/B-3shares swald @ $493-42/share SPY-8,318 shares sold 8670.024/share DIA-8.426 shares sold @ $470.985/share SPYD-57.383 shares sold $46.04/shure AMZN-25 shares sold @ $209.40/share AAPL-20.313 shares sold @ 8253.45/share QQQ-4.105 shares sold 0 8601.68/share PYPL-9.021 shares sold $47.735/share",
-    "scraped_at": "2026-04-18T23:43:48.551109+00:00"
-  },
-  {
-    "id": "20003796419",
-    "politician_name": "Mark Alford",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "MO",
-    "company": "Invesco QQQ Trust Series 1",
-    "ticker": "QQQ:US",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-16",
-    "trade_published": "2026-04-01",
-    "filed_after_days": "15",
-    "price": "$600.38",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "SUBBOLDING Os: Putnam\u00c4\u00b1 Investments LOCATION: UN DESCRIPTION: The full transaction included the following sales: T-37.4a6 shares sold $27.645/share BRK/B-3 shares sold 8493-42/share SPY-8.318 shares sold $670.004/share DIA-8.426 shares sold @ $470.985/share SPYD-57.383 shares sold 846.04/share AMZN-25 shares sold @ $200.40/share AAPL-20,313 shares sold 8253.45/share QQQ-4.105 shares sold $601.68/share PYPL-9.021 shares sold $47.735/share",
-    "scraped_at": "2026-04-18T23:43:48.551116+00:00"
-  },
-  {
-    "id": "20003796420",
-    "politician_name": "Mark Alford",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "MO",
-    "company": "PayPal Holdings Inc",
-    "ticker": "PYPL:US",
-    "sector": "financials",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-16",
-    "trade_published": "2026-04-01",
-    "filed_after_days": "15",
-    "price": "$45.42",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "SUBHOLDENG OF: Putnam Investments DESCRIPTION: The full transaction included the following sales: T-37.426 shares sold $27.645/share BRK/B-3 shares sold $493-42/share SPY-8.318 shares sold $670.024/share DIA-8.426 shares sold @ $470.985/share SPYD-57-383 shares sold @ 846.04/share AMZN-25 shares sold 5209.40/share AAPL-20.313 shares sold @ $253-45/share QQQ-4-105 shares sold @ $60168/share PYPI.-9.021 shares sold @ $47.735/share",
-    "scraped_at": "2026-04-18T23:43:48.551121+00:00"
-  },
-  {
-    "id": "20003796421",
-    "politician_name": "Mark Alford",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "MO",
-    "company": "SPDR S&P 500 BUYBACK ETF",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-16",
-    "trade_published": "2026-04-01",
-    "filed_after_days": "15",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "SURHOLDING OF: Putnam Investments DESCRIPTION: The full transaction included the following sales: T-37.426 shares sold $27.645/share BRK/B-3 shares sold $493.42/share SPY-8.318 shares sold $670.024/share DIA-8.426 shares sold @ $470,985/share SPYD-57-383 shares sold @ $46.04/share AMZN-25 shares sold @ $209.40/share AAPL-20.313 shares sold @ $253-45/share QQQ-4.105 shares mild @ $601.68/share PYPL-9.021 shares sold $47.735/sharm",
-    "scraped_at": "2026-04-18T23:43:48.551126+00:00"
-  },
-  {
-    "id": "20003796422",
-    "politician_name": "Mark Alford",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "MO",
-    "company": "SPDR S&P 500 BUYBACK ETF",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-16",
-    "trade_published": "2026-04-01",
-    "filed_after_days": "15",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "SURHOLDING OF: Putnam Investments DESCRIPTION: The full transaction included the following sales: T-37.426 shares sold $27.645/share BRK/B-3 shares sold @ $493.42/share SPY-8.318 shares suld $670.024/share DIA-8.426 shares sold @ $470.985/share SPYD-57-383 shares sold $46.64/share AMZN-25 shares sold $209.40/share AAPL-20.313 shares sold 8253-45/share QQQ-4.105 shares sold @ $601.68/share PYPL-9.021 shares sold $47.735/share",
-    "scraped_at": "2026-04-18T23:43:48.551131+00:00"
-  },
-  {
     "id": "20003796429",
     "politician_name": "Kelly Morrison",
     "party": "Democrat",
@@ -50163,6 +50520,111 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Investment Fund 1 Description: Window Manufacturer, Bayport, WI",
     "scraped_at": "2026-04-18T23:43:46.503765+00:00"
+  },
+  {
+    "id": "20003800692",
+    "politician_name": "Keith Self",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "AT&T Inc",
+    "ticker": "T:US",
+    "sector": "communication-services",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2025-01-10",
+    "trade_published": "2026-07-01",
+    "filed_after_days": "536",
+    "price": "$21.69",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Self",
+    "comment": "",
+    "scraped_at": "2026-07-01T16:10:03.226047+00:00"
+  },
+  {
+    "id": "20003800693",
+    "politician_name": "Keith Self",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Genuine Parts Co",
+    "ticker": "GPC:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2025-01-10",
+    "trade_published": "2026-07-01",
+    "filed_after_days": "536",
+    "price": "$115.91",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Self",
+    "comment": "",
+    "scraped_at": "2026-07-01T16:10:03.226072+00:00"
+  },
+  {
+    "id": "20003800694",
+    "politician_name": "Keith Self",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Merck & Co Inc",
+    "ticker": "MRK:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2025-01-10",
+    "trade_published": "2026-07-01",
+    "filed_after_days": "536",
+    "price": "$99.25",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Self",
+    "comment": "",
+    "scraped_at": "2026-07-01T16:10:03.226083+00:00"
+  },
+  {
+    "id": "20003800695",
+    "politician_name": "Keith Self",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "NVIDIA Corporation",
+    "ticker": "NVDA:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2025-01-10",
+    "trade_published": "2026-07-01",
+    "filed_after_days": "536",
+    "price": "$135.91",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Self",
+    "comment": "",
+    "scraped_at": "2026-07-01T16:10:03.226089+00:00"
+  },
+  {
+    "id": "20003800696",
+    "politician_name": "Keith Self",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "PepsiCo Inc",
+    "ticker": "PEP:US",
+    "sector": "consumer-staples",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2025-01-10",
+    "trade_published": "2026-07-01",
+    "filed_after_days": "536",
+    "price": "$142.64",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Self",
+    "comment": "",
+    "scraped_at": "2026-07-01T16:10:03.226094+00:00"
   },
   {
     "id": "20003796454",
