@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-30T23:59:20Z",
-  "trade_count": 8059,
+  "last_updated": "2026-07-01T04:04:22Z",
+  "trade_count": 8061,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -128945,6 +128945,38 @@
       "delta_own": "+9%",
       "value": "99738",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-30",
+      "filing_time": "21:05",
+      "trade_date": "2026-06-29",
+      "ticker": "HNRG",
+      "company": "Hallador Energy Co",
+      "insider_name": "Hudson Daniel Timothy",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "16.94",
+      "qty": "10000",
+      "owned": "15000",
+      "delta_own": "+200%",
+      "value": "169400",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-06-30",
+      "filing_time": "21:00",
+      "trade_date": "2026-06-26",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "69.20",
+      "qty": "3602",
+      "owned": "5747690",
+      "delta_own": "0%",
+      "value": "249258",
+      "cluster_buy": false
     }
   ]
 }
