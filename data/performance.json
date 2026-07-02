@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-02",
-  "entry_count": 1706,
+  "entry_count": 1711,
   "entries": [
     {
       "id": "US|XYL|2026-05-04|peribere jerome a|116.61",
@@ -29206,8 +29206,8 @@
         "2026-07-01": 2.8,
         "2026-07-02": 2.84
       },
-      "latest_price": 2.84,
-      "return_pct": -29.0,
+      "latest_price": 2.35,
+      "return_pct": -41.25,
       "last_snapshot": "2026-07-02"
     },
     {
@@ -29336,8 +29336,8 @@
         "2026-07-01": 2.8,
         "2026-07-02": 2.84
       },
-      "latest_price": 2.84,
-      "return_pct": -29.0,
+      "latest_price": 2.35,
+      "return_pct": -41.25,
       "last_snapshot": "2026-07-02"
     },
     {
@@ -29401,8 +29401,8 @@
         "2026-07-01": 2.8,
         "2026-07-02": 2.84
       },
-      "latest_price": 2.84,
-      "return_pct": -28.1,
+      "latest_price": 2.35,
+      "return_pct": -40.51,
       "last_snapshot": "2026-07-02"
     },
     {
@@ -29466,8 +29466,8 @@
         "2026-07-01": 2.8,
         "2026-07-02": 2.84
       },
-      "latest_price": 2.84,
-      "return_pct": -25.46,
+      "latest_price": 2.35,
+      "return_pct": -38.32,
       "last_snapshot": "2026-07-02"
     },
     {
@@ -36836,8 +36836,8 @@
         "2026-07-01": 2.8,
         "2026-07-02": 2.84
       },
-      "latest_price": 2.84,
-      "return_pct": -29.0,
+      "latest_price": 2.35,
+      "return_pct": -41.25,
       "last_snapshot": "2026-07-02"
     },
     {
@@ -37025,8 +37025,8 @@
         "2026-07-01": 2.8,
         "2026-07-02": 2.84
       },
-      "latest_price": 2.84,
-      "return_pct": -19.55,
+      "latest_price": 2.35,
+      "return_pct": -33.43,
       "last_snapshot": "2026-07-02"
     },
     {
@@ -37088,8 +37088,8 @@
         "2026-07-01": 2.8,
         "2026-07-02": 2.84
       },
-      "latest_price": 2.84,
-      "return_pct": -29.0,
+      "latest_price": 2.35,
+      "return_pct": -41.25,
       "last_snapshot": "2026-07-02"
     },
     {
@@ -89063,6 +89063,106 @@
       },
       "latest_price": 62.42,
       "return_pct": 2.73,
+      "last_snapshot": "2026-07-02"
+    },
+    {
+      "id": "US|BGDE|2026-06-30|endeavor blockchain, llc|1000.0",
+      "market": "US",
+      "ticker": "BGDE",
+      "yf_symbol": "BGDE",
+      "company": "Big Digital Energy, Inc.",
+      "insider_name": "Endeavor Blockchain, LLC",
+      "title": "10%",
+      "trade_date": "2026-06-30",
+      "trade_price": 1000.0,
+      "value": 16700000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-02": 7.45
+      },
+      "latest_price": 7.45,
+      "return_pct": -99.25,
+      "last_snapshot": "2026-07-02"
+    },
+    {
+      "id": "US|SLGL|2026-07-01|opaleye management inc.|71.97",
+      "market": "US",
+      "ticker": "SLGL",
+      "yf_symbol": "SLGL",
+      "company": "Sol-Gel Technologies Ltd.",
+      "insider_name": "Opaleye Management Inc.",
+      "title": "10%",
+      "trade_date": "2026-07-01",
+      "trade_price": 71.97,
+      "value": 123220.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-02": 74.01
+      },
+      "latest_price": 74.01,
+      "return_pct": 2.83,
+      "last_snapshot": "2026-07-02"
+    },
+    {
+      "id": "US|PSNY|2026-06-30|zhang quan (joe)|17.7",
+      "market": "US",
+      "ticker": "PSNY",
+      "yf_symbol": "PSNY",
+      "company": "Polestar Automotive Holding Uk Plc",
+      "insider_name": "Zhang Quan (Joe)",
+      "title": "Dir",
+      "trade_date": "2026-06-30",
+      "trade_price": 17.7,
+      "value": 30090.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-02": 20.44
+      },
+      "latest_price": 20.44,
+      "return_pct": 15.48,
+      "last_snapshot": "2026-07-02"
+    },
+    {
+      "id": "US|PSNY|2026-06-30|gamboni francesca paola leandra|17.56",
+      "market": "US",
+      "ticker": "PSNY",
+      "yf_symbol": "PSNY",
+      "company": "Polestar Automotive Holding Uk Plc",
+      "insider_name": "Gamboni Francesca Paola Leandra",
+      "title": "Dir",
+      "trade_date": "2026-06-30",
+      "trade_price": 17.56,
+      "value": 30010.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-02": 20.44
+      },
+      "latest_price": 20.44,
+      "return_pct": 16.4,
+      "last_snapshot": "2026-07-02"
+    },
+    {
+      "id": "US|HDSN|2026-06-30|hartree partners, lp|5.86",
+      "market": "US",
+      "ticker": "HDSN",
+      "yf_symbol": "HDSN",
+      "company": "Hudson Technologies Inc /Ny",
+      "insider_name": "Hartree Partners, LP",
+      "title": "10%",
+      "trade_date": "2026-06-30",
+      "trade_price": 5.86,
+      "value": 4477207.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-02": 5.99
+      },
+      "latest_price": 5.99,
+      "return_pct": 2.22,
       "last_snapshot": "2026-07-02"
     }
   ]
