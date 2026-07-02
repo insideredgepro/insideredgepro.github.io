@@ -392,7 +392,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "Subholding Of: Stocks, Bonds, & Mutual Funds Description: 60,000 units of Virginia Commonwealth 5.00% bond, 9/15/29",
-    "scraped_at": "2026-07-02T03:55:03.136198+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842559+00:00"
   },
   {
     "id": "10000065210",
@@ -413,7 +413,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2055-12-01",
-    "scraped_at": "2026-07-02T03:55:03.136351+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842715+00:00"
   },
   {
     "id": "20003800627",
@@ -689,6 +689,48 @@
     "scraped_at": "2026-06-27T03:55:03.001225+00:00"
   },
   {
+    "id": "20003800699",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Chevron Corp",
+    "ticker": "CVX:US",
+    "sector": "energy",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-15",
+    "trade_published": "2026-07-02",
+    "filed_after_days": "16",
+    "price": "$180.40",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-07-02T16:10:02.842518+00:00"
+  },
+  {
+    "id": "20003800700",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Installed Building Products Inc",
+    "ticker": "IBP:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-15",
+    "trade_published": "2026-07-02",
+    "filed_after_days": "16",
+    "price": "$208.59",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-07-02T16:10:02.842525+00:00"
+  },
+  {
     "id": "20003800686",
     "politician_name": "Cleo Fields",
     "party": "Democrat",
@@ -707,7 +749,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
-    "scraped_at": "2026-07-02T03:55:03.136331+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842691+00:00"
   },
   {
     "id": "20003800687",
@@ -728,7 +770,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
-    "scraped_at": "2026-07-02T03:55:03.136337+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842698+00:00"
   },
   {
     "id": "20003800688",
@@ -749,7 +791,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
-    "scraped_at": "2026-07-02T03:55:03.136342+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842704+00:00"
   },
   {
     "id": "20003798356",
@@ -791,7 +833,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: CETERA",
-    "scraped_at": "2026-07-02T03:55:03.136530+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842894+00:00"
   },
   {
     "id": "20003800685",
@@ -812,7 +854,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: CETERA",
-    "scraped_at": "2026-07-02T03:55:03.136535+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842899+00:00"
   },
   {
     "id": "20003800614",
@@ -1001,7 +1043,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
-    "scraped_at": "2026-07-02T03:55:03.136346+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842709+00:00"
   },
   {
     "id": "20003799856",
@@ -1106,7 +1148,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 10% Matures: 2029-05-17",
-    "scraped_at": "2026-07-02T03:55:03.136204+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842564+00:00"
   },
   {
     "id": "10000065244",
@@ -1127,7 +1169,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 9.85% Matures: 2029-05-17",
-    "scraped_at": "2026-07-02T03:55:03.136208+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842568+00:00"
   },
   {
     "id": "10000065245",
@@ -1148,7 +1190,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 11% Matures: 2029-05-17",
-    "scraped_at": "2026-07-02T03:55:03.136212+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842574+00:00"
   },
   {
     "id": "10000065246",
@@ -1169,7 +1211,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136217+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842578+00:00"
   },
   {
     "id": "10000065247",
@@ -1190,7 +1232,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 4.0% Matures: 2038-12-01",
-    "scraped_at": "2026-07-02T03:55:03.136221+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842582+00:00"
   },
   {
     "id": "10000065248",
@@ -1211,7 +1253,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 4.0% Matures: 2034-08-01",
-    "scraped_at": "2026-07-02T03:55:03.136227+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842587+00:00"
   },
   {
     "id": "10000065249",
@@ -1232,7 +1274,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 3.0% Matures: 2028-04-01",
-    "scraped_at": "2026-07-02T03:55:03.136233+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842591+00:00"
   },
   {
     "id": "10000065250",
@@ -1253,7 +1295,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 4.0% Matures: 2033-10-01",
-    "scraped_at": "2026-07-02T03:55:03.136237+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842596+00:00"
   },
   {
     "id": "10000065251",
@@ -1274,7 +1316,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 4.0% Matures: 2032-12-01",
-    "scraped_at": "2026-07-02T03:55:03.136241+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842600+00:00"
   },
   {
     "id": "10000065252",
@@ -1295,7 +1337,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136246+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842605+00:00"
   },
   {
     "id": "10000065253",
@@ -1316,7 +1358,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 4.0% Matures: 2038-12-30",
-    "scraped_at": "2026-07-02T03:55:03.136250+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842610+00:00"
   },
   {
     "id": "10000065254",
@@ -1337,7 +1379,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 4.0% Matures: 2034-07-15",
-    "scraped_at": "2026-07-02T03:55:03.136254+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842615+00:00"
   },
   {
     "id": "10000065255",
@@ -1358,7 +1400,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 4.0% Matures: 2035-10-01",
-    "scraped_at": "2026-07-02T03:55:03.136258+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842621+00:00"
   },
   {
     "id": "10000065256",
@@ -1379,7 +1421,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 3.0% Matures: 2032-10-01",
-    "scraped_at": "2026-07-02T03:55:03.136263+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842625+00:00"
   },
   {
     "id": "10000065257",
@@ -1400,7 +1442,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 4.0% Matures: 2036-10-01",
-    "scraped_at": "2026-07-02T03:55:03.136267+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842629+00:00"
   },
   {
     "id": "10000065258",
@@ -1421,7 +1463,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 5.0% Matures: 2034-11-15",
-    "scraped_at": "2026-07-02T03:55:03.136273+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842634+00:00"
   },
   {
     "id": "10000065259",
@@ -1442,7 +1484,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 4.0% Matures: 2036-10-01",
-    "scraped_at": "2026-07-02T03:55:03.136279+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842638+00:00"
   },
   {
     "id": "10000065260",
@@ -1463,7 +1505,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 5.0% Matures: 2039-12-15",
-    "scraped_at": "2026-07-02T03:55:03.136283+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842643+00:00"
   },
   {
     "id": "10000065261",
@@ -1484,7 +1526,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 4.0% Matures: 2034-06-01",
-    "scraped_at": "2026-07-02T03:55:03.136287+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842647+00:00"
   },
   {
     "id": "10000065262",
@@ -1505,7 +1547,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 4.0% Matures: 2034-07-01",
-    "scraped_at": "2026-07-02T03:55:03.136292+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842651+00:00"
   },
   {
     "id": "10000065263",
@@ -1526,7 +1568,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 4.0% Matures: 2033-07-15",
-    "scraped_at": "2026-07-02T03:55:03.136296+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842658+00:00"
   },
   {
     "id": "10000065264",
@@ -1547,7 +1589,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136300+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842662+00:00"
   },
   {
     "id": "10000065265",
@@ -1568,7 +1610,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 4.0% Matures: 2037-12-15",
-    "scraped_at": "2026-07-02T03:55:03.136305+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842668+00:00"
   },
   {
     "id": "10000065266",
@@ -1589,7 +1631,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 4.0% Matures: 2037-03-01",
-    "scraped_at": "2026-07-02T03:55:03.136309+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842672+00:00"
   },
   {
     "id": "10000065267",
@@ -1610,7 +1652,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Rate/Coupon: 5.0% Matures: 2035-11-01",
-    "scraped_at": "2026-07-02T03:55:03.136314+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842676+00:00"
   },
   {
     "id": "10000065211",
@@ -1631,7 +1673,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136355+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842720+00:00"
   },
   {
     "id": "20003799805",
@@ -1673,7 +1715,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Dividend Reinvestment",
-    "scraped_at": "2026-07-02T03:55:03.136319+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842681+00:00"
   },
   {
     "id": "20003800642",
@@ -1739,6 +1781,48 @@
     "scraped_at": "2026-06-09T03:55:03.038536+00:00"
   },
   {
+    "id": "20003800697",
+    "politician_name": "Max Miller",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "CLIFFWATER CORPORATE LENDING FUND",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-29",
+    "trade_published": "2026-07-02",
+    "filed_after_days": "33",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: 2012 Trust Description: Sale of 3,791.421 units",
+    "scraped_at": "2026-07-02T16:10:02.842472+00:00"
+  },
+  {
+    "id": "20003800698",
+    "politician_name": "Max Miller",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "CLIFFWATER CORPORATE LENDING FUND",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-29",
+    "trade_published": "2026-07-02",
+    "filed_after_days": "33",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: 2009 Trust Description: Sale of 3,438.348 units",
+    "scraped_at": "2026-07-02T16:10:02.842499+00:00"
+  },
+  {
     "id": "20003800682",
     "politician_name": "Nancy Pelosi",
     "party": "Democrat",
@@ -1757,7 +1841,7 @@
     "amount": "$1M\u2013$5M",
     "owner": "Spouse",
     "comment": "Description: Purchased 200 call options with a strike price of $50 and an expiration date of 3/19/27.",
-    "scraped_at": "2026-07-02T03:55:03.136540+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842904+00:00"
   },
   {
     "id": "20003800683",
@@ -1778,7 +1862,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Description: Purchased 200 call options with a strike price of $50 and an expiration date of 3/19/27.",
-    "scraped_at": "2026-07-02T03:55:03.136545+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842909+00:00"
   },
   {
     "id": "20003800667",
@@ -2597,7 +2681,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136326+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842686+00:00"
   },
   {
     "id": "20003799855",
@@ -2870,7 +2954,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136360+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842725+00:00"
   },
   {
     "id": "10000065205",
@@ -2891,7 +2975,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136502+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842869+00:00"
   },
   {
     "id": "10000065206",
@@ -2912,7 +2996,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136507+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842874+00:00"
   },
   {
     "id": "10000065207",
@@ -2933,7 +3017,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136512+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842879+00:00"
   },
   {
     "id": "10000065208",
@@ -2954,7 +3038,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136518+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842884+00:00"
   },
   {
     "id": "10000065209",
@@ -2975,7 +3059,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136524+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842890+00:00"
   },
   {
     "id": "20003800625",
@@ -3626,7 +3710,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2027-12-01",
-    "scraped_at": "2026-07-02T03:55:03.136365+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842729+00:00"
   },
   {
     "id": "10000065214",
@@ -3647,7 +3731,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2030-11-15",
-    "scraped_at": "2026-07-02T03:55:03.136370+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842734+00:00"
   },
   {
     "id": "10000065215",
@@ -3668,7 +3752,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2034-04-01",
-    "scraped_at": "2026-07-02T03:55:03.136376+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842738+00:00"
   },
   {
     "id": "10000065216",
@@ -3689,7 +3773,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2032-04-15",
-    "scraped_at": "2026-07-02T03:55:03.136381+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842742+00:00"
   },
   {
     "id": "10000065217",
@@ -3710,7 +3794,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2034-11-15",
-    "scraped_at": "2026-07-02T03:55:03.136385+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842748+00:00"
   },
   {
     "id": "10000065218",
@@ -3731,7 +3815,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 4% Matures: 2031-06-15",
-    "scraped_at": "2026-07-02T03:55:03.136389+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842752+00:00"
   },
   {
     "id": "10000065219",
@@ -3752,7 +3836,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2029-07-15",
-    "scraped_at": "2026-07-02T03:55:03.136394+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842757+00:00"
   },
   {
     "id": "10000065220",
@@ -3773,7 +3857,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2031-12-01",
-    "scraped_at": "2026-07-02T03:55:03.136398+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842763+00:00"
   },
   {
     "id": "10000065221",
@@ -3794,7 +3878,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2027-08-15",
-    "scraped_at": "2026-07-02T03:55:03.136402+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842769+00:00"
   },
   {
     "id": "10000065222",
@@ -3815,7 +3899,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5.25% Matures: 2030-07-15",
-    "scraped_at": "2026-07-02T03:55:03.136408+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842773+00:00"
   },
   {
     "id": "10000065223",
@@ -3836,7 +3920,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2033-08-15",
-    "scraped_at": "2026-07-02T03:55:03.136412+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842777+00:00"
   },
   {
     "id": "10000065224",
@@ -3857,7 +3941,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2033-02-01",
-    "scraped_at": "2026-07-02T03:55:03.136417+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842783+00:00"
   },
   {
     "id": "10000065225",
@@ -3878,7 +3962,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2035-02-15",
-    "scraped_at": "2026-07-02T03:55:03.136423+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842787+00:00"
   },
   {
     "id": "10000065226",
@@ -3899,7 +3983,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2027-03-01",
-    "scraped_at": "2026-07-02T03:55:03.136428+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842792+00:00"
   },
   {
     "id": "10000065227",
@@ -3920,7 +4004,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2032-02-01",
-    "scraped_at": "2026-07-02T03:55:03.136432+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842796+00:00"
   },
   {
     "id": "10000065228",
@@ -3941,7 +4025,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2028-12-01",
-    "scraped_at": "2026-07-02T03:55:03.136436+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842800+00:00"
   },
   {
     "id": "10000065229",
@@ -3962,7 +4046,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2034-04-01",
-    "scraped_at": "2026-07-02T03:55:03.136441+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842805+00:00"
   },
   {
     "id": "10000065230",
@@ -3983,7 +4067,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "--Rate/Coupon: 5% Matures: 2034-11-15",
-    "scraped_at": "2026-07-02T03:55:03.136446+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842809+00:00"
   },
   {
     "id": "10000065231",
@@ -4004,7 +4088,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2031-05-01",
-    "scraped_at": "2026-07-02T03:55:03.136450+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842816+00:00"
   },
   {
     "id": "10000065232",
@@ -4025,7 +4109,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2027-08-01",
-    "scraped_at": "2026-07-02T03:55:03.136454+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842821+00:00"
   },
   {
     "id": "10000065233",
@@ -4046,7 +4130,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2033-02-01",
-    "scraped_at": "2026-07-02T03:55:03.136459+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842825+00:00"
   },
   {
     "id": "10000065234",
@@ -4067,7 +4151,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2028-01-15",
-    "scraped_at": "2026-07-02T03:55:03.136463+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842829+00:00"
   },
   {
     "id": "10000065235",
@@ -4088,7 +4172,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2030-12-01",
-    "scraped_at": "2026-07-02T03:55:03.136469+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842834+00:00"
   },
   {
     "id": "10000065236",
@@ -4109,7 +4193,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2027-01-15",
-    "scraped_at": "2026-07-02T03:55:03.136474+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842838+00:00"
   },
   {
     "id": "10000065237",
@@ -4130,7 +4214,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2033-12-01",
-    "scraped_at": "2026-07-02T03:55:03.136478+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842843+00:00"
   },
   {
     "id": "10000065238",
@@ -4151,7 +4235,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2029-12-01",
-    "scraped_at": "2026-07-02T03:55:03.136483+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842847+00:00"
   },
   {
     "id": "10000065239",
@@ -4172,7 +4256,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2028-04-01",
-    "scraped_at": "2026-07-02T03:55:03.136488+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842852+00:00"
   },
   {
     "id": "10000065240",
@@ -4193,7 +4277,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2032-01-01",
-    "scraped_at": "2026-07-02T03:55:03.136492+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842856+00:00"
   },
   {
     "id": "10000065241",
@@ -4214,7 +4298,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2035-04-01",
-    "scraped_at": "2026-07-02T03:55:03.136497+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842864+00:00"
   },
   {
     "id": "20003800669",
@@ -4970,7 +5054,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136588+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842953+00:00"
   },
   {
     "id": "20003800662",
@@ -5243,7 +5327,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136607+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842973+00:00"
   },
   {
     "id": "10000065079",
@@ -5516,7 +5600,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136584+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842949+00:00"
   },
   {
     "id": "20003800664",
@@ -6167,7 +6251,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Kent Street Group LLC Description: Water/Wastewater O&M",
-    "scraped_at": "2026-07-02T03:55:03.136601+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842969+00:00"
   },
   {
     "id": "20003800661",
@@ -7343,7 +7427,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136573+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842938+00:00"
   },
   {
     "id": "20003800670",
@@ -8540,7 +8624,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Perpetual Preferred Stock, Series A (T$A) [ST] Subholding Of: IRA #3",
-    "scraped_at": "2026-07-02T03:55:03.136549+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842916+00:00"
   },
   {
     "id": "20003800680",
@@ -8561,7 +8645,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Depositary Shares Preferred Series GG [OT] Subholding Of: IRA #3 Description: Preferred Stock",
-    "scraped_at": "2026-07-02T03:55:03.136554+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842921+00:00"
   },
   {
     "id": "20003800681",
@@ -8582,7 +8666,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E (RF$E) [ST] Subholding Of: IRA #3",
-    "scraped_at": "2026-07-02T03:55:03.136559+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842925+00:00"
   },
   {
     "id": "20003800663",
@@ -10094,7 +10178,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136592+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842957+00:00"
   },
   {
     "id": "20003800656",
@@ -10115,7 +10199,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136597+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842962+00:00"
   },
   {
     "id": "20003800660",
@@ -10766,7 +10850,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136563+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842929+00:00"
   },
   {
     "id": "20003800650",
@@ -10787,7 +10871,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136569+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842934+00:00"
   },
   {
     "id": "20003800659",
@@ -10808,7 +10892,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136611+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842977+00:00"
   },
   {
     "id": "20003799737",
@@ -11627,7 +11711,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136580+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842943+00:00"
   },
   {
     "id": "20003799859",
@@ -26433,48 +26517,6 @@
     "owner": "Spouse",
     "comment": "",
     "scraped_at": "2026-04-18T23:43:46.503686+00:00"
-  },
-  {
-    "id": "10000064809",
-    "politician_name": "Christine Smith",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "MN",
-    "company": "3M Co",
-    "ticker": "MMM:US",
-    "sector": "industrials",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-31",
-    "trade_published": "2026-04-02",
-    "filed_after_days": "2",
-    "price": "$145.23",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:46.503814+00:00"
-  },
-  {
-    "id": "10000064810",
-    "politician_name": "Christine Smith",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "MN",
-    "company": "Berkshire Hathaway Inc",
-    "ticker": "BRK/B:US",
-    "sector": "financials",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-31",
-    "trade_published": "2026-04-02",
-    "filed_after_days": "2",
-    "price": "$479.20",
-    "value": 175000,
-    "amount": "$100K\u2013$250K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-18T23:43:46.503820+00:00"
   },
   {
     "id": "20003797814",
@@ -50540,7 +50582,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136145+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842532+00:00"
   },
   {
     "id": "20003800693",
@@ -50561,7 +50603,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136169+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842537+00:00"
   },
   {
     "id": "20003800694",
@@ -50582,7 +50624,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136180+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842542+00:00"
   },
   {
     "id": "20003800695",
@@ -50603,7 +50645,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136186+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842548+00:00"
   },
   {
     "id": "20003800696",
@@ -50624,7 +50666,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-07-02T03:55:03.136191+00:00"
+    "scraped_at": "2026-07-02T16:10:02.842552+00:00"
   },
   {
     "id": "20003796454",
