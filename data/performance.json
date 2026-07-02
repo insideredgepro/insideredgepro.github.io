@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-01",
-  "entry_count": 1685,
+  "entry_count": 1691,
   "entries": [
     {
       "id": "US|XYL|2026-05-04|peribere jerome a|116.61",
@@ -77573,8 +77573,8 @@
         "2026-06-30": 28.59,
         "2026-07-01": 27.91
       },
-      "latest_price": 27.91,
-      "return_pct": -5.1,
+      "latest_price": 27.63,
+      "return_pct": -6.05,
       "last_snapshot": "2026-07-01"
     },
     {
@@ -86963,6 +86963,126 @@
       },
       "latest_price": 31.53,
       "return_pct": 7.39,
+      "last_snapshot": "2026-07-01"
+    },
+    {
+      "id": "US|JCTC|2026-06-29|bradley melinda hodges|2.28",
+      "market": "US",
+      "ticker": "JCTC",
+      "yf_symbol": "JCTC",
+      "company": "Jewett Cameron Trading Co Ltd",
+      "insider_name": "Bradley Melinda Hodges",
+      "title": "10%",
+      "trade_date": "2026-06-29",
+      "trade_price": 2.28,
+      "value": 806224.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-01": 2.49
+      },
+      "latest_price": 2.49,
+      "return_pct": 9.21,
+      "last_snapshot": "2026-07-01"
+    },
+    {
+      "id": "US|FTH|2026-06-29|stephenson brian c|23.92",
+      "market": "US",
+      "ticker": "FTH",
+      "yf_symbol": "FTH",
+      "company": "Faeth Therapeutics, Inc.",
+      "insider_name": "Stephenson Brian C",
+      "title": "CFO",
+      "trade_date": "2026-06-29",
+      "trade_price": 23.92,
+      "value": 326127.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-01": 23.66
+      },
+      "latest_price": 23.66,
+      "return_pct": -1.09,
+      "last_snapshot": "2026-07-01"
+    },
+    {
+      "id": "US|RH|2026-06-29|alberini carlos|160.9",
+      "market": "US",
+      "ticker": "RH",
+      "yf_symbol": "RH",
+      "company": "Rh",
+      "insider_name": "Alberini Carlos",
+      "title": "Dir",
+      "trade_date": "2026-06-29",
+      "trade_price": 160.9,
+      "value": 1832322.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-01": 164.05
+      },
+      "latest_price": 164.05,
+      "return_pct": 1.96,
+      "last_snapshot": "2026-07-01"
+    },
+    {
+      "id": "US|JCTC|2026-06-26|bradley melinda hodges|2.38",
+      "market": "US",
+      "ticker": "JCTC",
+      "yf_symbol": "JCTC",
+      "company": "Jewett Cameron Trading Co Ltd",
+      "insider_name": "Bradley Melinda Hodges",
+      "title": "10%",
+      "trade_date": "2026-06-26",
+      "trade_price": 2.38,
+      "value": 42290.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-01": 2.49
+      },
+      "latest_price": 2.49,
+      "return_pct": 4.62,
+      "last_snapshot": "2026-07-01"
+    },
+    {
+      "id": "US|SHPH|2026-06-29|hrt financial lp|3.4",
+      "market": "US",
+      "ticker": "SHPH",
+      "yf_symbol": "SHPH",
+      "company": "Shuttle Pharmaceuticals Holdings, Inc.",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_date": "2026-06-29",
+      "trade_price": 3.4,
+      "value": 110694.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-01": 3.4
+      },
+      "latest_price": 3.4,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-07-01"
+    },
+    {
+      "id": "US|INLF|2026-06-29|hrt financial lp|0.06",
+      "market": "US",
+      "ticker": "INLF",
+      "yf_symbol": "INLF",
+      "company": "Inlif Ltd",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_date": "2026-06-29",
+      "trade_price": 0.06,
+      "value": 186831.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-01": 0.0328
+      },
+      "latest_price": 0.0328,
+      "return_pct": -45.33,
       "last_snapshot": "2026-07-01"
     }
   ]
