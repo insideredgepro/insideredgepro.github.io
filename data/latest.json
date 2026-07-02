@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02T20:55:24Z",
-  "trade_count": 8100,
+  "last_updated": "2026-07-02T21:59:55Z",
+  "trade_count": 8102,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -129600,6 +129600,38 @@
       "owned": "560347",
       "delta_own": "+25%",
       "value": "1998983",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-02",
+      "filing_time": "17:01",
+      "trade_date": "2026-06-30",
+      "ticker": "NYC",
+      "company": "American Strategic Investment Co.",
+      "insider_name": "Schorsch Nicholas S",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "9.53",
+      "qty": "8000",
+      "owned": "2192799",
+      "delta_own": "0%",
+      "value": "76240",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-02",
+      "filing_time": "16:58",
+      "trade_date": "2026-07-01",
+      "ticker": "HTO",
+      "company": "H2O America",
+      "insider_name": "Atlas Infrastructure Partners (Uk) Ltd.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "60.76",
+      "qty": "2132",
+      "owned": "4612481",
+      "delta_own": "0%",
+      "value": "129535",
       "cluster_buy": false
     }
   ]

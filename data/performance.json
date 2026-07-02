@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-02",
-  "entry_count": 1704,
+  "entry_count": 1706,
   "entries": [
     {
       "id": "US|XYL|2026-05-04|peribere jerome a|116.61",
@@ -29206,8 +29206,8 @@
         "2026-07-01": 2.8,
         "2026-07-02": 2.84
       },
-      "latest_price": 2.35,
-      "return_pct": -41.25,
+      "latest_price": 2.84,
+      "return_pct": -29.0,
       "last_snapshot": "2026-07-02"
     },
     {
@@ -29336,8 +29336,8 @@
         "2026-07-01": 2.8,
         "2026-07-02": 2.84
       },
-      "latest_price": 2.35,
-      "return_pct": -41.25,
+      "latest_price": 2.84,
+      "return_pct": -29.0,
       "last_snapshot": "2026-07-02"
     },
     {
@@ -29401,8 +29401,8 @@
         "2026-07-01": 2.8,
         "2026-07-02": 2.84
       },
-      "latest_price": 2.35,
-      "return_pct": -40.51,
+      "latest_price": 2.84,
+      "return_pct": -28.1,
       "last_snapshot": "2026-07-02"
     },
     {
@@ -29466,8 +29466,8 @@
         "2026-07-01": 2.8,
         "2026-07-02": 2.84
       },
-      "latest_price": 2.35,
-      "return_pct": -38.32,
+      "latest_price": 2.84,
+      "return_pct": -25.46,
       "last_snapshot": "2026-07-02"
     },
     {
@@ -36836,8 +36836,8 @@
         "2026-07-01": 2.8,
         "2026-07-02": 2.84
       },
-      "latest_price": 2.35,
-      "return_pct": -41.25,
+      "latest_price": 2.84,
+      "return_pct": -29.0,
       "last_snapshot": "2026-07-02"
     },
     {
@@ -37025,8 +37025,8 @@
         "2026-07-01": 2.8,
         "2026-07-02": 2.84
       },
-      "latest_price": 2.35,
-      "return_pct": -33.43,
+      "latest_price": 2.84,
+      "return_pct": -19.55,
       "last_snapshot": "2026-07-02"
     },
     {
@@ -37088,8 +37088,8 @@
         "2026-07-01": 2.8,
         "2026-07-02": 2.84
       },
-      "latest_price": 2.35,
-      "return_pct": -41.25,
+      "latest_price": 2.84,
+      "return_pct": -29.0,
       "last_snapshot": "2026-07-02"
     },
     {
@@ -89023,6 +89023,46 @@
       },
       "latest_price": 3.45,
       "return_pct": -80.94,
+      "last_snapshot": "2026-07-02"
+    },
+    {
+      "id": "US|NYC|2026-06-30|schorsch nicholas s|9.53",
+      "market": "US",
+      "ticker": "NYC",
+      "yf_symbol": "NYC",
+      "company": "American Strategic Investment Co.",
+      "insider_name": "Schorsch Nicholas S",
+      "title": "10%",
+      "trade_date": "2026-06-30",
+      "trade_price": 9.53,
+      "value": 76240.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-02": 9.32
+      },
+      "latest_price": 9.32,
+      "return_pct": -2.2,
+      "last_snapshot": "2026-07-02"
+    },
+    {
+      "id": "US|HTO|2026-07-01|atlas infrastructure partners (uk) ltd.|60.76",
+      "market": "US",
+      "ticker": "HTO",
+      "yf_symbol": "HTO",
+      "company": "H2O America",
+      "insider_name": "Atlas Infrastructure Partners (Uk) Ltd.",
+      "title": "10%",
+      "trade_date": "2026-07-01",
+      "trade_price": 60.76,
+      "value": 129535.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-02": 62.42
+      },
+      "latest_price": 62.42,
+      "return_pct": 2.73,
       "last_snapshot": "2026-07-02"
     }
   ]
