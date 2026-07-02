@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02T12:03:30Z",
-  "trade_count": 8087,
+  "last_updated": "2026-07-02T15:06:32Z",
+  "trade_count": 8088,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -129392,6 +129392,22 @@
       "owned": "4417962",
       "delta_own": "+195%",
       "value": "186831",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-02",
+      "filing_time": "08:30",
+      "trade_date": "2026-06-11",
+      "ticker": "BNR",
+      "company": "Burning Rock Biotech Ltd",
+      "insider_name": "Han Yusheng",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "8.45",
+      "qty": "731410",
+      "owned": "18404086",
+      "delta_own": "+4%",
+      "value": "6182172",
       "cluster_buy": false
     }
   ]
