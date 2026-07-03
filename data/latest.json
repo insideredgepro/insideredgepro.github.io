@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02T23:10:50Z",
-  "trade_count": 8107,
+  "last_updated": "2026-07-03T02:03:20Z",
+  "trade_count": 8110,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -129312,7 +129312,7 @@
       "owned": "353507",
       "delta_own": "-32768%",
       "value": "806224",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-07-01",
@@ -129360,7 +129360,7 @@
       "owned": "371007",
       "delta_own": "+5%",
       "value": "42290",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-07-01",
@@ -129712,6 +129712,54 @@
       "owned": "4971302",
       "delta_own": "+18%",
       "value": "4477207",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-02",
+      "filing_time": "20:32",
+      "trade_date": "2026-07-01",
+      "ticker": "JCTC",
+      "company": "Jewett Cameron Trading Co Ltd",
+      "insider_name": "Ajb Investment Fund Ii, LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.35",
+      "qty": "11009",
+      "owned": "382016",
+      "delta_own": "+3%",
+      "value": "25871",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-02",
+      "filing_time": "20:00",
+      "trade_date": "2026-06-30",
+      "ticker": "SNES",
+      "company": "Senestech, Inc.",
+      "insider_name": "Glenbrook Capital Management",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "1.51",
+      "qty": "35000",
+      "owned": "1022824",
+      "delta_own": "+4%",
+      "value": "52731",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-02",
+      "filing_time": "19:45",
+      "trade_date": "2026-06-30",
+      "ticker": "BOLD",
+      "company": "Boundless Bio, Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.50",
+      "qty": "107463",
+      "owned": "2641308",
+      "delta_own": "+4%",
+      "value": "268880",
       "cluster_buy": false
     }
   ]

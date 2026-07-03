@@ -8087,10 +8087,10 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-01,16:30,2026-06-29,GPUS,"Hyperscale Data, Inc.",Horne William B.,CEO,P - Purchase,19.00,5000,5000,New,95000,False
 2026-07-01,16:08,2026-06-30,FGBI,"First Guaranty Bancshares, Inc.",Smith Edgar R. III,"Dir, 10%",P - Purchase,10.61,74846,5513281,+1%,794116,False
 2026-07-01,18:05,2026-06-30,GTLB,Gitlab Inc.,Staples William,CEO,P - Purchase,29.36,4188,758828,+1%,122960,False
-2026-07-01,20:27,2026-06-29,JCTC,Jewett Cameron Trading Co Ltd,Bradley Melinda Hodges,10%,P - Purchase,2.28,353607,353507,-32768%,806224,False
+2026-07-01,20:27,2026-06-29,JCTC,Jewett Cameron Trading Co Ltd,Bradley Melinda Hodges,10%,P - Purchase,2.28,353607,353507,-32768%,806224,True
 2026-07-01,20:09,2026-06-29,FTH,"Faeth Therapeutics, Inc.",Stephenson Brian C,CFO,P - Purchase,23.92,13634,46688,+41%,326127,True
 2026-07-01,20:00,2026-06-29,RH,Rh,Alberini Carlos,Dir,P - Purchase,160.90,11388,35364,+47%,1832322,False
-2026-07-01,19:22,2026-06-26,JCTC,Jewett Cameron Trading Co Ltd,Bradley Melinda Hodges,10%,P - Purchase,2.38,17783,371007,+5%,42290,False
+2026-07-01,19:22,2026-06-26,JCTC,Jewett Cameron Trading Co Ltd,Bradley Melinda Hodges,10%,P - Purchase,2.38,17783,371007,+5%,42290,True
 2026-07-01,19:17,2026-06-29,SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",Hrt Financial LP,10%,P - Purchase,3.40,32591,78597,+71%,110694,False
 2026-07-01,19:12,2026-06-29,INLF,Inlif Ltd,Hrt Financial LP,10%,P - Purchase,0.06,2919237,4417962,+195%,186831,False
 2026-07-02,08:30,2026-06-11,BNR,Burning Rock Biotech Ltd,Han Yusheng,Dir,P - Purchase,8.45,731410,18404086,+4%,6182172,False
@@ -8113,3 +8113,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-02,18:08,2026-06-30,PSNY,Polestar Automotive Holding Uk Plc,Zhang Quan (Joe),Dir,P - Purchase,17.70,1700,3300,+106%,30090,True
 2026-07-02,18:04,2026-06-30,PSNY,Polestar Automotive Holding Uk Plc,Gamboni Francesca Paola Leandra,Dir,P - Purchase,17.56,1709,4792,+55%,30010,True
 2026-07-02,18:00,2026-06-30,HDSN,Hudson Technologies Inc /Ny,"Hartree Partners, LP",10%,P - Purchase,5.86,764202,4971302,+18%,4477207,False
+2026-07-02,20:32,2026-07-01,JCTC,Jewett Cameron Trading Co Ltd,"Ajb Investment Fund Ii, LP",10%,P - Purchase,2.35,11009,382016,+3%,25871,True
+2026-07-02,20:00,2026-06-30,SNES,"Senestech, Inc.",Glenbrook Capital Management,10%,P - Purchase,1.51,35000,1022824,+4%,52731,False
+2026-07-02,19:45,2026-06-30,BOLD,"Boundless Bio, Inc.",Tang Kevin,10%,P - Purchase,2.50,107463,2641308,+4%,268880,False
