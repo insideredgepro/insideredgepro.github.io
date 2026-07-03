@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-03T16:00:20Z",
-  "trade_count": 3398,
+  "last_updated": "2026-07-03T22:00:21Z",
+  "trade_count": 3400,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -51917,6 +51917,38 @@
       "qty": "183800",
       "price": "0.1350",
       "value": "24813",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4745623",
+      "trade_date": "2026-07-03",
+      "filing_date": "2026-07-03",
+      "company": "Euro Sun Mining Inc.",
+      "ticker": "ESM",
+      "insider_name": "WACHSBERG, CHARLES",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "1000000",
+      "price": "0.1570",
+      "value": "157000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4745260",
+      "trade_date": "2026-07-03",
+      "filing_date": "2026-07-03",
+      "company": "Freeman Gold Corp.",
+      "ticker": "FMAN",
+      "insider_name": "Moubarak, Bassam",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "54500",
+      "price": "0.3800",
+      "value": "20710",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
