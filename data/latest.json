@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T11:56:32Z",
-  "trade_count": 8171,
+  "last_updated": "2026-07-06T15:19:52Z",
+  "trade_count": 8174,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -130737,6 +130737,54 @@
       "delta_own": "+458%",
       "value": "41753",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-06",
+      "filing_time": "11:09",
+      "trade_date": "2026-07-01",
+      "ticker": "PFBX",
+      "company": "Peoples Financial Corp /Ms/",
+      "insider_name": "Stilwell Joseph",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "21.25",
+      "qty": "2657",
+      "owned": "750387",
+      "delta_own": "0%",
+      "value": "56461",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-06",
+      "filing_time": "08:48",
+      "trade_date": "2026-07-02",
+      "ticker": "YPF",
+      "company": "Ypf Sociedad Anonima",
+      "insider_name": "Marin Horacio Daniel",
+      "title": "COB,  CEO",
+      "trade_type": "P - Purchase",
+      "price": "46.35",
+      "qty": "2840",
+      "owned": "92193",
+      "delta_own": "+3%",
+      "value": "131634",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-06",
+      "filing_time": "08:29",
+      "trade_date": "2026-07-02",
+      "ticker": "YPF",
+      "company": "Ypf Sociedad Anonima",
+      "insider_name": "Farina Matias Osvaldo",
+      "title": "VP Upstream",
+      "trade_type": "P - Purchase",
+      "price": "45.22",
+      "qty": "8875",
+      "owned": "80092",
+      "delta_own": "+12%",
+      "value": "401296",
+      "cluster_buy": true
     }
   ]
 }
