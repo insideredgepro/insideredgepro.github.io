@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T18:05:13Z",
-  "trade_count": 8174,
+  "last_updated": "2026-07-06T20:47:17Z",
+  "trade_count": 8177,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -130785,6 +130785,54 @@
       "delta_own": "+12%",
       "value": "401296",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-06",
+      "filing_time": "16:29",
+      "trade_date": "2026-06-04",
+      "ticker": "IOR",
+      "company": "Income Opportunity Realty Investors Inc /Tx/",
+      "insider_name": "Transcontinental Realty Investors Inc",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "17.75",
+      "qty": "13044",
+      "owned": "3462147",
+      "delta_own": "0%",
+      "value": "231556",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-06",
+      "filing_time": "16:14",
+      "trade_date": "2026-07-01",
+      "ticker": "ZLAB",
+      "company": "Zai Lab Ltd",
+      "insider_name": "Gaynor Richard",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "19.05",
+      "qty": "1736",
+      "owned": "80737",
+      "delta_own": "+2%",
+      "value": "33071",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-06",
+      "filing_time": "16:06",
+      "trade_date": "2026-06-30",
+      "ticker": "ABSI",
+      "company": "Absci Corp",
+      "insider_name": "Szela Mary T",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "11.54",
+      "qty": "12900",
+      "owned": "21300",
+      "delta_own": "+154%",
+      "value": "148866",
+      "cluster_buy": false
     }
   ]
 }
