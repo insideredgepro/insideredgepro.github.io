@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T07:03:20Z",
-  "trade_count": 8168,
+  "last_updated": "2026-07-06T11:56:32Z",
+  "trade_count": 8171,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -130688,6 +130688,54 @@
       "owned": "641370",
       "delta_own": "+2%",
       "value": "51917",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-06",
+      "filing_time": "06:57",
+      "trade_date": "2026-06-30",
+      "ticker": "GRNQ",
+      "company": "Greenpro Capital Corp.",
+      "insider_name": "Lee Chong Kuang",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.52",
+      "qty": "65591",
+      "owned": "2106799",
+      "delta_own": "+3%",
+      "value": "100000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-06",
+      "filing_time": "06:07",
+      "trade_date": "2026-06-16",
+      "ticker": "SVRE",
+      "company": "Saverone 2014 Ltd.",
+      "insider_name": "Visionwave Holdings, Inc.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.48",
+      "qty": "326419200",
+      "owned": "2147483647",
+      "delta_own": "+1%",
+      "value": "1135938816",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-06",
+      "filing_time": "06:02",
+      "trade_date": "2026-07-02",
+      "ticker": "YQ",
+      "company": "17 Education & Technology Group Inc.",
+      "insider_name": "Liu Chang",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "2.20",
+      "qty": "18988",
+      "owned": "23132",
+      "delta_own": "+458%",
+      "value": "41753",
       "cluster_buy": false
     }
   ]
