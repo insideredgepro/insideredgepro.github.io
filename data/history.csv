@@ -8043,7 +8043,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-29,16:20,2026-06-25,ARTV,"Artiva Biotherapeutics, Inc.","Ra Capital Management, L.P.","Dir, 10%",P - Purchase,8.89,32876,17955642,0%,292126,False
 2026-06-29,16:05,2026-06-25,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,6.40,152533,2895107,+6%,976490,False
 2026-06-29,18:01,2026-06-24,GDC,Gd Culture Group Ltd,Hrt Financial LP,10%,P - Purchase,0.02,6110481,3309036,-218%,128320,False
-2026-06-29,17:52,2026-06-24,INLF,Inlif Ltd,Hrt Financial LP,10%,P - Purchase,0.04,4420814,5329965,+486%,188899,False
+2026-06-29,17:52,2026-06-24,INLF,Inlif Ltd,Hrt Financial LP,10%,P - Purchase,0.04,4420814,5329965,+486%,188899,True
 2026-06-29,17:27,2026-06-25,LILA,Liberty Latin America Ltd.,Malone John C,Director Emeritus,P - Purchase,8.49,399699,7448984,+6%,3394124,True
 2026-06-29,17:26,2026-06-25,CGON,"Cg Oncology, Inc.",Liu Brian Guan-Chyun,Dir,P - Purchase,66.87,371085,1886236,+24%,24814454,False
 2026-06-29,17:13,2026-06-25,GTE,Gran Tierra Energy Inc.,Lm Asset Management Inc.,10%,P - Purchase,6.04,32000,4857750,+1%,193136,False
@@ -8091,13 +8091,13 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-01,20:09,2026-06-29,FTH,"Faeth Therapeutics, Inc.",Stephenson Brian C,CFO,P - Purchase,23.92,13634,46688,+41%,326127,True
 2026-07-01,20:00,2026-06-29,RH,Rh,Alberini Carlos,Dir,P - Purchase,160.90,11388,35364,+47%,1832322,False
 2026-07-01,19:22,2026-06-26,JCTC,Jewett Cameron Trading Co Ltd,Bradley Melinda Hodges,10%,P - Purchase,2.38,17783,371007,+5%,42290,True
-2026-07-01,19:17,2026-06-29,SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",Hrt Financial LP,10%,P - Purchase,3.40,32591,78597,+71%,110694,False
-2026-07-01,19:12,2026-06-29,INLF,Inlif Ltd,Hrt Financial LP,10%,P - Purchase,0.06,2919237,4417962,+195%,186831,False
+2026-07-01,19:17,2026-06-29,SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",Hrt Financial LP,10%,P - Purchase,3.40,32591,78597,+71%,110694,True
+2026-07-01,19:12,2026-06-29,INLF,Inlif Ltd,Hrt Financial LP,10%,P - Purchase,0.06,2919237,4417962,+195%,186831,True
 2026-07-02,08:30,2026-06-11,BNR,Burning Rock Biotech Ltd,Han Yusheng,Dir,P - Purchase,8.45,731410,18404086,+4%,6182172,False
 2026-07-02,14:29,2026-06-30,CREX,"Creative Realities, Inc.",Mills Richard C,CEO,P - Purchase,3.50,200000,981926,+26%,700000,True
 2026-07-02,14:28,2026-06-30,CREX,"Creative Realities, Inc.",Koshewa Tamra L,CFO,P - Purchase,3.50,28571,28571,New,99999,True
-2026-07-02,14:13,2026-06-30,WHLR,"Wheeler Real Estate Investment Trust, Inc.",Hrt Financial LP,10%,P - Purchase,1.29,39695,82333,+93%,51252,False
-2026-07-02,14:01,2026-06-30,RDGT,Ridgetech Inc.,Hrt Financial LP,10%,P - Purchase,1.52,41136,100499,+69%,62323,False
+2026-07-02,14:13,2026-06-30,WHLR,"Wheeler Real Estate Investment Trust, Inc.",Hrt Financial LP,10%,P - Purchase,1.29,39695,82333,+93%,51252,True
+2026-07-02,14:01,2026-06-30,RDGT,Ridgetech Inc.,Hrt Financial LP,10%,P - Purchase,1.52,41136,100499,+69%,62323,True
 2026-07-02,13:53,2026-06-30,KUST,"Kustom Entertainment, Inc.",Hrt Financial LP,10%,P - Purchase,1.11,25791,17869,-326%,28628,False
 2026-07-02,16:46,2026-06-30,MSGM,Motorsport Games Inc.,"Red Oak Partners, LLC",10%,P - Purchase,3.95,27744,442644,+7%,109672,False
 2026-07-02,16:27,2026-06-30,WBX,Wallbox N.V.,Mera Francisco Jose Riberas,Dir,P - Purchase,2.72,501361,2539771,+25%,1364504,True
@@ -8107,12 +8107,70 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-02,16:15,2026-07-02,LIME,"Neutron Holdings, Inc.","Uber Technologies, Inc",10%,P - Purchase,25.00,800000,14859661,+6%,20000000,False
 2026-07-02,15:38,2026-07-01,BBD,Bank Bradesco,Bueno Julio Cesar,"CLO, Exec Officer",P - Purchase,18.10,110441,560347,+25%,1998983,False
 2026-07-02,17:01,2026-06-30,NYC,American Strategic Investment Co.,Schorsch Nicholas S,10%,P - Purchase,9.53,8000,2192799,0%,76240,False
-2026-07-02,16:58,2026-07-01,HTO,H2O America,Atlas Infrastructure Partners (Uk) Ltd.,10%,P - Purchase,60.76,2132,4612481,0%,129535,False
-2026-07-02,19:04,2026-06-30,BGDE,"Big Digital Energy, Inc.","Endeavor Blockchain, LLC",10%,P - Purchase,1000.00,16700,16700,New,16700000,False
+2026-07-02,16:58,2026-07-01,HTO,H2O America,Atlas Infrastructure Partners (Uk) Ltd.,10%,P - Purchase,60.76,2132,4612481,0%,129535,True
+2026-07-02,19:04,2026-06-30,BGDE,"Big Digital Energy, Inc.","Endeavor Blockchain, LLC",10%,P - Purchase,1000.00,16700,16700,New,16700000,True
 2026-07-02,18:11,2026-07-01,SLGL,Sol-Gel Technologies Ltd.,Opaleye Management Inc.,10%,P - Purchase,71.97,1712,506712,0%,123220,False
 2026-07-02,18:08,2026-06-30,PSNY,Polestar Automotive Holding Uk Plc,Zhang Quan (Joe),Dir,P - Purchase,17.70,1700,3300,+106%,30090,True
 2026-07-02,18:04,2026-06-30,PSNY,Polestar Automotive Holding Uk Plc,Gamboni Francesca Paola Leandra,Dir,P - Purchase,17.56,1709,4792,+55%,30010,True
-2026-07-02,18:00,2026-06-30,HDSN,Hudson Technologies Inc /Ny,"Hartree Partners, LP",10%,P - Purchase,5.86,764202,4971302,+18%,4477207,False
+2026-07-02,18:00,2026-06-30,HDSN,Hudson Technologies Inc /Ny,"Hartree Partners, LP",10%,P - Purchase,5.86,764202,4971302,+18%,4477207,True
 2026-07-02,20:32,2026-07-01,JCTC,Jewett Cameron Trading Co Ltd,"Ajb Investment Fund Ii, LP",10%,P - Purchase,2.35,11009,382016,+3%,25871,True
 2026-07-02,20:00,2026-06-30,SNES,"Senestech, Inc.",Glenbrook Capital Management,10%,P - Purchase,1.51,35000,1022824,+4%,52731,False
 2026-07-02,19:45,2026-06-30,BOLD,"Boundless Bio, Inc.",Tang Kevin,10%,P - Purchase,2.50,107463,2641308,+4%,268880,False
+2026-07-02,19:45,2026-06-30,BOLD,"Boundless Bio, Inc.",Tang Kevin,10% Owner,P - Purchase,2.54,26030,2559875,+1%,66112,False
+2026-07-02,19:45,2026-07-01,BOLD,"Boundless Bio, Inc.",Tang Kevin,10% Owner,P - Purchase,2.49,71612,2631487,+3%,178314,False
+2026-07-02,19:04,2026-06-30,BGDE,"Big Digital Energy, Inc.","Endeavor Blockchain, Llc",10% Owner,P - Purchase,7.45,16700,16700,New,124415,True
+2026-07-02,18:11,2026-07-02,SLGL,Sol-Gel Technologies Ltd.,Opaleye Management Inc.,10% Owner,P - Purchase,71.97,1400,491712,+0%,100759,False
+2026-07-02,18:04,2026-06-30,PSNY,Polestar Automotive Holding Uk Plc,Gamboni Francesca Paola Leandr,Director,P - Purchase,17.56,1709,4792,+55%,30010,True
+2026-07-02,18:00,2026-06-30,HDSN,Hudson Technologies Inc /Ny,"Hartree Partners, Lp",10% Owner,P - Purchase,5.68,204789,4411889,+5%,1162894,True
+2026-07-02,18:00,2026-07-01,HDSN,Hudson Technologies Inc /Ny,"Hartree Partners, Lp",10% Owner,P - Purchase,5.88,288111,4700000,+7%,1695101,True
+2026-07-02,18:00,2026-07-02,HDSN,Hudson Technologies Inc /Ny,"Hartree Partners, Lp",10% Owner,P - Purchase,5.97,271302,4971302,+6%,1619212,True
+2026-07-02,16:58,2026-07-01,HTO,H2O America,Atlas Infrastructure Partners,10% Owner,P - Purchase,60.76,2132,4612481,+0%,129535,True
+2026-07-02,15:08,2026-07-01,PSBD,Palmer Square Capital BDC Inc.,Bicknell Martin C,10% Owner,P - Purchase,10.57,40000,271988,+17%,422800,False
+2026-07-02,15:08,2026-07-02,PSBD,Palmer Square Capital BDC Inc.,Bicknell Martin C,10% Owner,P - Purchase,10.55,40000,311988,+15%,422000,False
+2026-07-02,14:28,2026-06-30,CREX,"Creative Realities, Inc.",Koshewa Tamra L,Chief Financial Officer,P - Purchase,3.50,28571,28571,New,99998,True
+2026-07-02,14:13,2026-06-30,WHLR,"Wheeler Real Estate Investment Trust, Inc.",Hrt Financial Lp,10% Owner,P - Purchase,1.38,24997,67635,+59%,34496,True
+2026-07-02,14:11,2026-01-23,GDV,The Gabelli Dividend & Income Trust,Melarkey Michael J,Director,P - Purchase,28.52,1000,1000,New,28520,False
+2026-07-02,14:01,2026-06-30,RDGT,Ridgetech Inc.,Hrt Financial Lp,10% Owner,P - Purchase,1.52,30939,90302,+52%,47027,True
+2026-07-02,08:30,2026-06-11,BNR,Burning Rock Biotech Ltd,Han Yusheng,Director,P - Purchase,8.74,24760,17697436,+0%,216388,False
+2026-07-02,08:30,2026-06-12,BNR,Burning Rock Biotech Ltd,Han Yusheng,Director,P - Purchase,9.25,210000,17907436,+1%,1942143,False
+2026-07-02,08:30,2026-06-16,BNR,Burning Rock Biotech Ltd,Han Yusheng,Director,P - Purchase,9.00,111110,18018546,+1%,999957,False
+2026-07-02,08:30,2026-06-22,BNR,Burning Rock Biotech Ltd,Han Yusheng,Director,P - Purchase,7.45,104650,18123196,+1%,779674,False
+2026-07-02,08:30,2026-06-23,BNR,Burning Rock Biotech Ltd,Han Yusheng,Director,P - Purchase,7.50,5990,18129186,+0%,44920,False
+2026-07-02,08:30,2026-06-24,BNR,Burning Rock Biotech Ltd,Han Yusheng,Director,P - Purchase,8.00,250000,18379186,+1%,2000000,False
+2026-07-02,08:30,2026-06-26,BNR,Burning Rock Biotech Ltd,Han Yusheng,Director,P - Purchase,8.00,24900,18404086,+0%,199090,False
+2026-07-01,20:09,2026-06-30,FTH,"Faeth Therapeutics, Inc.",Stephenson Brian C,Chief Financial Officer,P - Purchase,24.25,7803,41688,+23%,189240,True
+2026-07-01,20:09,2026-07-01,FTH,"Faeth Therapeutics, Inc.",Stephenson Brian C,Chief Financial Officer,P - Purchase,23.50,5000,46688,+12%,117492,True
+2026-07-01,19:22,2026-06-30,JCTC,Jewett Cameron Trading Co Ltd,Bradley Melinda Hodges,10% Owner,P - Purchase,2.38,17500,371007,+5%,41650,True
+2026-07-01,19:17,2026-06-29,SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",Hrt Financial Lp,10% Owner,P - Purchase,3.44,25836,71842,+56%,88876,True
+2026-06-30,21:00,2026-06-26,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,69.22,1195,4756211,+0%,82722,False
+2026-06-30,21:00,2026-06-29,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,68.88,1208,4757419,+0%,83204,False
+2026-06-30,21:00,2026-06-30,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,69.50,1199,4758618,+0%,83332,False
+2026-06-30,17:30,2026-06-29,FUND,"Sprott Focus Trust, Inc.",George W Whitney,Senior Portfolio Manager,P - Purchase,9.63,16394,8100605,+0%,157874,False
+2026-06-30,17:30,2026-06-29,FUND,"Sprott Focus Trust, Inc.",George W Whitney,Senior Portfolio Manager,P - Purchase,9.63,71664,3326193,+2%,690124,False
+2026-06-30,17:13,2026-06-29,LND,Brasilagro - Brazilian Agricultural Real Estate Co,Elsztain Alejandro Gustavo,Director,P - Purchase,3.58,14500,655870,+2%,51909,False
+2026-06-30,17:13,2026-06-30,LND,Brasilagro - Brazilian Agricultural Real Estate Co,Elsztain Alejandro Gustavo,Director,P - Purchase,3.57,14500,670370,+2%,51700,False
+2026-06-30,17:06,2026-06-26,LILAK,Liberty Latin America Ltd.,Winter John M,"SVP, CLO AND SECRETARY",P - Purchase,19.67,5071,64547,+9%,99738,True
+2026-06-30,17:00,2026-06-30,MSIF,"MSC Income Fund, Inc.",Hyzak Dwayne L.,"CEO, SMD",P - Purchase,11.68,5969,70712,+9%,69718,False
+2026-06-30,16:04,2026-05-29,PSBD,Palmer Square Capital BDC Inc.,Bicknell Martin C,10% Owner,P - Purchase,10.87,15000,200000,+8%,163050,False
+2026-06-30,16:04,2026-06-05,PSBD,Palmer Square Capital BDC Inc.,Bicknell Martin C,10% Owner,P - Purchase,10.79,30000,230000,+15%,323700,False
+2026-06-30,08:03,2026-06-23,COE,51Talk Online Education Group,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,15.96,248400,27545280,+1%,3963878,False
+2026-06-30,08:03,2026-06-24,COE,51Talk Online Education Group,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,15.26,512220,28057500,+2%,7816934,False
+2026-06-30,08:03,2026-06-25,COE,51Talk Online Education Group,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,15.76,150600,28208100,+1%,2373456,False
+2026-06-30,08:03,2026-06-26,COE,51Talk Online Education Group,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,15.61,151860,28359960,+1%,2370489,False
+2026-06-30,06:24,2026-06-29,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Tien Bor-Zen,VP,P - Purchase,76.64,1000,12051,+9%,76640,True
+2026-06-30,06:24,2026-06-30,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Tien Bor-Zen,VP,P - Purchase,75.70,1000,1000,New,75700,True
+2026-06-29,21:08,2026-06-29,NYC,American Strategic Investment Co.,Schorsch Nicholas S,10% Owner,P - Purchase,9.27,5000,1081620,+0%,46350,False
+2026-06-29,17:52,2026-06-24,INLF,Inlif Ltd,Hrt Financial Lp,10% Owner,P - Purchase,0.04,948910,1858061,+104%,40803,True
+2026-06-29,17:52,2026-06-25,INLF,Inlif Ltd,Hrt Financial Lp,10% Owner,P - Purchase,0.03,1781958,3640019,+96%,53459,True
+2026-06-29,17:52,2026-06-26,INLF,Inlif Ltd,Hrt Financial Lp,10% Owner,P - Purchase,0.06,1689946,5329965,+46%,94637,True
+2026-06-29,17:27,2026-06-25,LILAK,Liberty Latin America Ltd.,Malone John C,Director Emeritus,P - Purchase,6.96,336706,3708120,+10%,2343979,True
+2026-06-29,17:27,2026-06-25,LILAK,Liberty Latin America Ltd.,Malone John C,Director Emeritus,P - Purchase,20.45,45300,1261922,+4%,926326,True
+2026-06-29,17:27,2026-06-26,LILAK,Liberty Latin America Ltd.,Malone John C,Director Emeritus,P - Purchase,7.00,17693,3725813,+0%,123819,True
+2026-06-29,17:27,2026-06-25,LILA,Liberty Latin America Ltd.,Malone John C,Director Emeritus,P - Purchase,6.96,336706,3708120,+10%,2343979,True
+2026-06-29,17:27,2026-06-25,LILA,Liberty Latin America Ltd.,Malone John C,Director Emeritus,P - Purchase,20.45,45300,1261922,+4%,926326,True
+2026-06-29,17:27,2026-06-26,LILA,Liberty Latin America Ltd.,Malone John C,Director Emeritus,P - Purchase,7.00,17693,3725813,+0%,123819,True
+2026-06-29,16:28,2026-06-25,CME,Cme Group Inc.,Shepard William R,Director,P - Purchase,230.57,325,260442,+0%,74885,False
+2026-06-29,16:20,2026-06-25,ARTV,"Artiva Biotherapeutics, Inc.","Ra Capital Management, L.P.",Director,P - Purchase,8.88,31000,16794043,+0%,275280,False
+2026-06-29,16:05,2026-06-26,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10% Owner,P - Purchase,6.40,152336,2805107,+6%,975209,False
+2026-06-29,09:05,2026-06-25,LND,Brasilagro - Brazilian Agricultural Real Estate Co,Elsztain Alejandro Gustavo,Director,P - Purchase,3.52,14500,626870,+2%,50981,False
+2026-06-29,09:05,2026-06-26,LND,Brasilagro - Brazilian Agricultural Real Estate Co,Elsztain Alejandro Gustavo,Director,P - Purchase,3.58,14500,641370,+2%,51917,False
