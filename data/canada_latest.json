@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T16:00:50Z",
-  "trade_count": 3401,
+  "last_updated": "2026-07-06T22:00:53Z",
+  "trade_count": 3404,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -51968,6 +51968,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4747233",
+      "trade_date": "2026-07-06",
+      "filing_date": "2026-07-06",
+      "company": "Tourmaline Oil Corp.",
+      "ticker": "TOU",
+      "insider_name": "Angevine, Jill Terilee",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "766",
+      "price": "59.0000",
+      "value": "45194",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4747117",
+      "trade_date": "2026-07-06",
+      "filing_date": "2026-07-06",
+      "company": "Whitecap Resources Inc.",
+      "ticker": "WCP",
+      "insider_name": "Fagerheim, Grant Bradley",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "14.4600",
+      "value": "144600",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4747207",
+      "trade_date": "2026-07-06",
+      "filing_date": "2026-07-06",
+      "company": "Whitecap Resources Inc.",
+      "ticker": "WCP",
+      "insider_name": "WONG, JOSEPH ADAM",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "7500",
+      "price": "14.4600",
+      "value": "108450",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
