@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T20:47:17Z",
-  "trade_count": 8177,
+  "last_updated": "2026-07-06T22:06:40Z",
+  "trade_count": 8180,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -130833,6 +130833,54 @@
       "delta_own": "+154%",
       "value": "148866",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-06",
+      "filing_time": "17:44",
+      "trade_date": "2026-07-01",
+      "ticker": "MSGM",
+      "company": "Motorsport Games Inc.",
+      "insider_name": "Red Oak Partners, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "4.13",
+      "qty": "15937",
+      "owned": "458581",
+      "delta_own": "+4%",
+      "value": "65768",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-06",
+      "filing_time": "17:41",
+      "trade_date": "2026-07-01",
+      "ticker": "AXIA",
+      "company": "Axia Energia S.A.",
+      "insider_name": "Batista De Lima Filho Pedro",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "10.26",
+      "qty": "362600",
+      "owned": "4874299",
+      "delta_own": "+8%",
+      "value": "3721052",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-06",
+      "filing_time": "17:06",
+      "trade_date": "2026-07-02",
+      "ticker": "PSNY",
+      "company": "Polestar Automotive Holding Uk Plc",
+      "insider_name": "Dubin Cynthia S",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "20.72",
+      "qty": "1275",
+      "owned": "3195",
+      "delta_own": "+66%",
+      "value": "26418",
+      "cluster_buy": true
     }
   ]
 }

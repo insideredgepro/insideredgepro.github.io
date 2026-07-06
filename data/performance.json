@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-06",
-  "entry_count": 1701,
+  "entry_count": 1704,
   "entries": [
     {
       "id": "US|EXE|2026-05-07|teunissen marcel|96.43",
@@ -91410,6 +91410,66 @@
       },
       "latest_price": 11.54,
       "return_pct": 0.0,
+      "last_snapshot": "2026-07-06"
+    },
+    {
+      "id": "US|MSGM|2026-07-01|red oak partners, llc|4.13",
+      "market": "US",
+      "ticker": "MSGM",
+      "yf_symbol": "MSGM",
+      "company": "Motorsport Games Inc.",
+      "insider_name": "Red Oak Partners, LLC",
+      "title": "10%",
+      "trade_date": "2026-07-01",
+      "trade_price": 4.13,
+      "value": 65768.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-06": 4.79
+      },
+      "latest_price": 4.79,
+      "return_pct": 15.98,
+      "last_snapshot": "2026-07-06"
+    },
+    {
+      "id": "US|AXIA|2026-07-01|batista de lima filho pedro|10.26",
+      "market": "US",
+      "ticker": "AXIA",
+      "yf_symbol": "AXIA",
+      "company": "Axia Energia S.A.",
+      "insider_name": "Batista De Lima Filho Pedro",
+      "title": "Dir",
+      "trade_date": "2026-07-01",
+      "trade_price": 10.26,
+      "value": 3721052.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-06": 10.43
+      },
+      "latest_price": 10.43,
+      "return_pct": 1.66,
+      "last_snapshot": "2026-07-06"
+    },
+    {
+      "id": "US|PSNY|2026-07-02|dubin cynthia s|20.72",
+      "market": "US",
+      "ticker": "PSNY",
+      "yf_symbol": "PSNY",
+      "company": "Polestar Automotive Holding Uk Plc",
+      "insider_name": "Dubin Cynthia S",
+      "title": "Dir",
+      "trade_date": "2026-07-02",
+      "trade_price": 20.72,
+      "value": 26418.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-06": 20.36
+      },
+      "latest_price": 20.36,
+      "return_pct": -1.74,
       "last_snapshot": "2026-07-06"
     }
   ]
