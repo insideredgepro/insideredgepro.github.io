@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T22:06:40Z",
-  "trade_count": 8180,
+  "last_updated": "2026-07-06T23:59:08Z",
+  "trade_count": 8182,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -130880,6 +130880,38 @@
       "owned": "3195",
       "delta_own": "+66%",
       "value": "26418",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-06",
+      "filing_time": "19:48",
+      "trade_date": "2026-07-01",
+      "ticker": "PALI",
+      "company": "Palisade Bio, Inc.",
+      "insider_name": "Baltera Robert Jr.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.98",
+      "qty": "30000",
+      "owned": "366904",
+      "delta_own": "+9%",
+      "value": "59400",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-06",
+      "filing_time": "18:07",
+      "trade_date": "2026-07-02",
+      "ticker": "DLHC",
+      "company": "Dlh Holdings Corp.",
+      "insider_name": "Mink Brook Asset Management LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "5.21",
+      "qty": "15062",
+      "owned": "2831120",
+      "delta_own": "+1%",
+      "value": "78479",
       "cluster_buy": true
     }
   ]
