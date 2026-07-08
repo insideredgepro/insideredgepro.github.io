@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08T17:20:15Z",
-  "trade_count": 8191,
+  "last_updated": "2026-07-08T19:08:43Z",
+  "trade_count": 8192,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -128896,7 +128896,7 @@
       "owned": "150000",
       "delta_own": "New",
       "value": "231000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-30",
@@ -131056,6 +131056,22 @@
       "owned": "4615265",
       "delta_own": "0%",
       "value": "172692",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-08",
+      "filing_time": "14:55",
+      "trade_date": "2026-07-07",
+      "ticker": "PRQR",
+      "company": "Proqr Therapeutics N.V.",
+      "insider_name": "De Boer Daniel Anton",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.59",
+      "qty": "150000",
+      "owned": "150000",
+      "delta_own": "New",
+      "value": "238500",
       "cluster_buy": true
     }
   ]
