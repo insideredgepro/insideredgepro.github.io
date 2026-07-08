@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08T19:08:43Z",
-  "trade_count": 8192,
+  "last_updated": "2026-07-08T20:57:28Z",
+  "trade_count": 8195,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -131073,6 +131073,54 @@
       "delta_own": "New",
       "value": "238500",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-08",
+      "filing_time": "16:43",
+      "trade_date": "2026-07-07",
+      "ticker": "DLHC",
+      "company": "Dlh Holdings Corp.",
+      "insider_name": "Mink Brook Asset Management LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "5.16",
+      "qty": "7275",
+      "owned": "2838395",
+      "delta_own": "0%",
+      "value": "37559",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-08",
+      "filing_time": "16:05",
+      "trade_date": "2026-07-06",
+      "ticker": "LRMR",
+      "company": "Larimar Therapeutics, Inc.",
+      "insider_name": "Hamilton Thomas Edward",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.34",
+      "qty": "50000",
+      "owned": "874231",
+      "delta_own": "+6%",
+      "value": "166890",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-08",
+      "filing_time": "15:21",
+      "trade_date": "2026-06-01",
+      "ticker": "MERC",
+      "company": "Mercer International Inc.",
+      "insider_name": "Kellogg Peter R",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "0.86",
+      "qty": "419743",
+      "owned": "25290672",
+      "delta_own": "+2%",
+      "value": "362665",
+      "cluster_buy": false
     }
   ]
 }
