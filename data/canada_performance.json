@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-07",
-  "entry_count": 431,
+  "entry_count": 432,
   "entries": [
     {
       "id": "CA|AEC|2026-05-08|bleak, joshua daniel|5.3",
@@ -19920,6 +19920,26 @@
       },
       "latest_price": 14.24,
       "return_pct": 2.82,
+      "last_snapshot": "2026-07-07"
+    },
+    {
+      "id": "CA|VMET|2026-07-07|o'flaherty, daniel|13.83",
+      "market": "CA",
+      "ticker": "VMET",
+      "yf_symbol": "VMET.TO",
+      "company": "Versamet Royalties Corporation (previously Sandbox Royalties Corp.)",
+      "insider_name": "O'Flaherty, Daniel",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-07-07",
+      "trade_price": 13.83,
+      "value": 200535.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-07-07": 14.24
+      },
+      "latest_price": 14.24,
+      "return_pct": 2.96,
       "last_snapshot": "2026-07-07"
     }
   ]

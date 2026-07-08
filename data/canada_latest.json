@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-07T22:00:20Z",
-  "trade_count": 3411,
+  "last_updated": "2026-07-08T03:45:24Z",
+  "trade_count": 3412,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -52125,6 +52125,22 @@
       "qty": "36900",
       "price": "13.8500",
       "value": "511065",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4748297",
+      "trade_date": "2026-07-07",
+      "filing_date": "2026-07-07",
+      "company": "Versamet Royalties Corporation (previously Sandbox Royalties Corp.)",
+      "ticker": "VMET",
+      "insider_name": "O'Flaherty, Daniel",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "14500",
+      "price": "13.8300",
+      "value": "200535",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
