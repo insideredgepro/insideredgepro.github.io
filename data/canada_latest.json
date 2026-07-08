@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08T03:45:24Z",
-  "trade_count": 3412,
+  "last_updated": "2026-07-08T16:00:22Z",
+  "trade_count": 3413,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -52144,6 +52144,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4748576",
+      "trade_date": "2026-07-08",
+      "filing_date": "2026-07-08",
+      "company": "Rua Gold Inc. (formerly, First Uranium Resources Ltd.)",
+      "ticker": "RUA",
+      "insider_name": "Eckford, Robert",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "19000",
+      "price": "1.0800",
+      "value": "20520",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
