@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08T15:10:36Z",
-  "trade_count": 8190,
+  "last_updated": "2026-07-08T17:20:15Z",
+  "trade_count": 8191,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -131041,6 +131041,22 @@
       "delta_own": "+2%",
       "value": "23487344",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-08",
+      "filing_time": "11:40",
+      "trade_date": "2026-07-07",
+      "ticker": "HTO",
+      "company": "H2O America",
+      "insider_name": "Atlas Infrastructure Partners (Uk) Ltd.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "62.03",
+      "qty": "2784",
+      "owned": "4615265",
+      "delta_own": "0%",
+      "value": "172692",
+      "cluster_buy": true
     }
   ]
 }
