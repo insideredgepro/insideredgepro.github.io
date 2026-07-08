@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-08",
-  "entry_count": 1642,
+  "entry_count": 1645,
   "entries": [
     {
       "id": "US|SOFI|2026-05-11|noto anthony|16.0",
@@ -82917,8 +82917,8 @@
         "2026-07-07": 56.69,
         "2026-07-08": 56.77
       },
-      "latest_price": 55.45,
-      "return_pct": 1.0,
+      "latest_price": 56.77,
+      "return_pct": 3.41,
       "last_snapshot": "2026-07-08"
     },
     {
@@ -83913,8 +83913,8 @@
         "2026-07-07": 56.69,
         "2026-07-08": 56.77
       },
-      "latest_price": 55.45,
-      "return_pct": 0.34,
+      "latest_price": 56.77,
+      "return_pct": 2.73,
       "last_snapshot": "2026-07-08"
     },
     {
@@ -89225,6 +89225,66 @@
       },
       "latest_price": 0.6475,
       "return_pct": -24.71,
+      "last_snapshot": "2026-07-08"
+    },
+    {
+      "id": "US|CNM|2026-07-06|hope james d|46.01",
+      "market": "US",
+      "ticker": "CNM",
+      "yf_symbol": "CNM",
+      "company": "Core & Main, Inc.",
+      "insider_name": "Hope James D",
+      "title": "Dir",
+      "trade_date": "2026-07-06",
+      "trade_price": 46.01,
+      "value": 95111.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-08": 45.59
+      },
+      "latest_price": 45.59,
+      "return_pct": -0.91,
+      "last_snapshot": "2026-07-08"
+    },
+    {
+      "id": "US|MWA|2026-07-07|healy brian c.|25.33",
+      "market": "US",
+      "ticker": "MWA",
+      "yf_symbol": "MWA",
+      "company": "Mueller Water Products, Inc.",
+      "insider_name": "Healy Brian C.",
+      "title": "Dir",
+      "trade_date": "2026-07-07",
+      "trade_price": 25.33,
+      "value": 29965.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-08": 24.75
+      },
+      "latest_price": 24.75,
+      "return_pct": -2.29,
+      "last_snapshot": "2026-07-08"
+    },
+    {
+      "id": "US|HDSN|2026-07-06|hartree partners, lp|5.99",
+      "market": "US",
+      "ticker": "HDSN",
+      "yf_symbol": "HDSN",
+      "company": "Hudson Technologies Inc /Ny",
+      "insider_name": "Hartree Partners, LP",
+      "title": "10%",
+      "trade_date": "2026-07-06",
+      "trade_price": 5.99,
+      "value": 31352.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-08": 6.44
+      },
+      "latest_price": 6.44,
+      "return_pct": 7.51,
       "last_snapshot": "2026-07-08"
     }
   ]
