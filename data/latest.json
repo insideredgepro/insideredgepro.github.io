@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08T08:09:12Z",
-  "trade_count": 8188,
+  "last_updated": "2026-07-08T10:55:01Z",
+  "trade_count": 8189,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -131008,6 +131008,22 @@
       "owned": "25809",
       "delta_own": "-1450%",
       "value": "40870",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-07",
+      "filing_time": "22:03",
+      "trade_date": "2026-06-26",
+      "ticker": "CV",
+      "company": "Capsovision, Inc",
+      "insider_name": "Harari Eliyahou Et Al",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "7.35",
+      "qty": "13850",
+      "owned": "3200751",
+      "delta_own": "0%",
+      "value": "101811",
       "cluster_buy": false
     }
   ]
