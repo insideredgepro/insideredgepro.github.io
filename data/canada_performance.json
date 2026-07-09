@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-08",
-  "entry_count": 420,
+  "entry_count": 421,
   "entries": [
     {
       "id": "CA|ELD|2026-05-11|myerson, daniel|48.25",
@@ -19252,6 +19252,26 @@
       },
       "latest_price": 13.39,
       "return_pct": -0.37,
+      "last_snapshot": "2026-07-08"
+    },
+    {
+      "id": "CA|UVC|2026-07-08|agahi, ehsan|0.7",
+      "market": "CA",
+      "ticker": "UVC",
+      "yf_symbol": "UVC.V",
+      "company": "ILLUMISOFT LIGHTING CORP.",
+      "insider_name": "Agahi, Ehsan",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-07-08",
+      "trade_price": 0.7,
+      "value": 17500.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-07-08": 0.75
+      },
+      "latest_price": 0.75,
+      "return_pct": 7.14,
       "last_snapshot": "2026-07-08"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08T22:00:22Z",
-  "trade_count": 3420,
+  "last_updated": "2026-07-09T03:45:19Z",
+  "trade_count": 3421,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -52272,6 +52272,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4748996",
+      "trade_date": "2026-07-08",
+      "filing_date": "2026-07-08",
+      "company": "ILLUMISOFT LIGHTING CORP.",
+      "ticker": "UVC",
+      "insider_name": "Agahi, Ehsan",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "25000",
+      "price": "0.7000",
+      "value": "17500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
