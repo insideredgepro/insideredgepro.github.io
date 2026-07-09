@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08T22:02:42Z",
-  "trade_count": 8201,
+  "last_updated": "2026-07-09T00:00:37Z",
+  "trade_count": 8204,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -131216,6 +131216,54 @@
       "owned": "4976536",
       "delta_own": "0%",
       "value": "31352",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-08",
+      "filing_time": "18:56",
+      "trade_date": "2026-07-06",
+      "ticker": "PALI",
+      "company": "Palisade Bio, Inc.",
+      "insider_name": "Baltera Robert Jr.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.04",
+      "qty": "50000",
+      "owned": "416904",
+      "delta_own": "+14%",
+      "value": "102084",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-08",
+      "filing_time": "18:42",
+      "trade_date": "2026-07-07",
+      "ticker": "JCTC",
+      "company": "Jewett Cameron Trading Co Ltd",
+      "insider_name": "Ajb Investment Fund Ii, LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.51",
+      "qty": "34388",
+      "owned": "416404",
+      "delta_own": "+9%",
+      "value": "86410",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-08",
+      "filing_time": "18:17",
+      "trade_date": "2025-06-29",
+      "ticker": "EWSB",
+      "company": "Ewsb Bancorp, Inc. /Md/",
+      "insider_name": "Vander Loop Kailee",
+      "title": "VP HR Technology",
+      "trade_type": "P - Purchase",
+      "price": "10.00",
+      "qty": "15180",
+      "owned": "31355",
+      "delta_own": "+94%",
+      "value": "151800",
       "cluster_buy": true
     }
   ]
