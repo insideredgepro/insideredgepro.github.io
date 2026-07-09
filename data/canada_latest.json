@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09T16:00:20Z",
-  "trade_count": 3424,
+  "last_updated": "2026-07-09T22:00:17Z",
+  "trade_count": 3426,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -52333,6 +52333,38 @@
       "qty": "300000",
       "price": "0.1204",
       "value": "36120",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4749506",
+      "trade_date": "2026-07-09",
+      "filing_date": "2026-07-09",
+      "company": "Obsidian Energy Ltd.",
+      "ticker": "OBE",
+      "insider_name": "Loukas, Stephen",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "6000",
+      "price": "8.6430",
+      "value": "51858",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4749373",
+      "trade_date": "2026-07-09",
+      "filing_date": "2026-07-09",
+      "company": "Trilogy Metals Inc.",
+      "ticker": "TMQ",
+      "insider_name": "Langelaar, Olav",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "4.5600",
+      "value": "22799",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
