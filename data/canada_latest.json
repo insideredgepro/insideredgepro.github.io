@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09T03:45:19Z",
-  "trade_count": 3421,
+  "last_updated": "2026-07-09T16:00:20Z",
+  "trade_count": 3424,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -52207,7 +52207,7 @@
       "value": "249000",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4748783",
@@ -52285,6 +52285,54 @@
       "qty": "25000",
       "price": "0.7000",
       "value": "17500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4749185",
+      "trade_date": "2026-07-08",
+      "filing_date": "2026-07-09",
+      "company": "Kraken Robotics Inc.",
+      "ticker": "PNG",
+      "insider_name": "Robertson, Donald Christopher",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "6.0500",
+      "value": "60500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4749257",
+      "trade_date": "2026-07-09",
+      "filing_date": "2026-07-09",
+      "company": "Visible Gold Mines Inc.",
+      "ticker": "VGD",
+      "insider_name": "Lacoste, Jean-Marc",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "200000",
+      "price": "0.1200",
+      "value": "24000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4749258",
+      "trade_date": "2026-07-09",
+      "filing_date": "2026-07-09",
+      "company": "Visible Gold Mines Inc.",
+      "ticker": "VGD",
+      "insider_name": "Lacoste, Jean-Marc",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "300000",
+      "price": "0.1204",
+      "value": "36120",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
