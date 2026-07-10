@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-10",
-  "entry_count": 1723,
+  "entry_count": 1725,
   "entries": [
     {
       "id": "US|SOFI|2026-05-11|noto anthony|16.0",
@@ -77494,8 +77494,8 @@
         "2026-07-09": 28.33,
         "2026-07-10": 27.74
       },
-      "latest_price": 27.74,
-      "return_pct": -5.68,
+      "latest_price": 28.3,
+      "return_pct": -3.77,
       "last_snapshot": "2026-07-10"
     },
     {
@@ -94181,6 +94181,46 @@
       },
       "latest_price": 1.96,
       "return_pct": -1.51,
+      "last_snapshot": "2026-07-10"
+    },
+    {
+      "id": "US|NTSK|2026-07-08|iconiq strategic partners viii|11.82",
+      "market": "US",
+      "ticker": "NTSK",
+      "yf_symbol": "NTSK",
+      "company": "Netskope Inc",
+      "insider_name": "Iconiq Strategic Partners Viii",
+      "title": "10% Owner",
+      "trade_date": "2026-07-08",
+      "trade_price": 11.82,
+      "value": 7216049.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-10": 12.32
+      },
+      "latest_price": 12.32,
+      "return_pct": 4.23,
+      "last_snapshot": "2026-07-10"
+    },
+    {
+      "id": "US|NTSK|2026-07-08|griffith william j.g.|11.82",
+      "market": "US",
+      "ticker": "NTSK",
+      "yf_symbol": "NTSK",
+      "company": "Netskope Inc",
+      "insider_name": "Griffith William J.G.",
+      "title": "Director",
+      "trade_date": "2026-07-08",
+      "trade_price": 11.82,
+      "value": 7216081.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-10": 12.32
+      },
+      "latest_price": 12.32,
+      "return_pct": 4.23,
       "last_snapshot": "2026-07-10"
     }
   ]

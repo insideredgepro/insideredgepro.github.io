@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-10T22:51:54Z",
-  "trade_count": 8283,
+  "last_updated": "2026-07-10T23:50:06Z",
+  "trade_count": 8285,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -132529,6 +132529,38 @@
       "delta_own": "+5%",
       "value": "39798",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-10",
+      "filing_time": "19:39",
+      "trade_date": "2026-07-08",
+      "ticker": "NTSK",
+      "company": "Netskope Inc",
+      "insider_name": "Iconiq Strategic Partners Viii",
+      "title": "10% Owner",
+      "trade_type": "P - Purchase",
+      "price": "11.82",
+      "qty": "610291",
+      "owned": "610291",
+      "delta_own": "New",
+      "value": "7216049",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-10",
+      "filing_time": "19:37",
+      "trade_date": "2026-07-08",
+      "ticker": "NTSK",
+      "company": "Netskope Inc",
+      "insider_name": "Griffith William J.G.",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "11.82",
+      "qty": "610291",
+      "owned": "610291",
+      "delta_own": "New",
+      "value": "7216081",
+      "cluster_buy": true
     }
   ]
 }
