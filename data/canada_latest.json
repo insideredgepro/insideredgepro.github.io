@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-10T16:00:18Z",
-  "trade_count": 3429,
+  "last_updated": "2026-07-10T22:00:20Z",
+  "trade_count": 3431,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -52416,6 +52416,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4751206",
+      "trade_date": "2026-07-10",
+      "filing_date": "2026-07-10",
+      "company": "Kolibri Global Energy Inc.",
+      "ticker": "KEI",
+      "insider_name": "Neuhauser, David Loren",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "6.9000",
+      "value": "34500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4750396",
+      "trade_date": "2026-07-10",
+      "filing_date": "2026-07-10",
+      "company": "Tourmaline Oil Corp.",
+      "ticker": "TOU",
+      "insider_name": "Rose, Mike",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "2500",
+      "price": "60.1340",
+      "value": "150335",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
