@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-09",
-  "entry_count": 426,
+  "entry_count": 428,
   "entries": [
     {
       "id": "CA|ELD|2026-05-11|myerson, daniel|48.25",
@@ -19793,6 +19793,46 @@
       },
       "latest_price": 4.6,
       "return_pct": 0.88,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "CA|ACX|2026-07-09|maxwell, roderick donald|5.99",
+      "market": "CA",
+      "ticker": "ACX",
+      "yf_symbol": "ACX.TO",
+      "company": "ACT Energy Technologies Ltd.",
+      "insider_name": "MAXWELL, RODERICK DONALD",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-07-09",
+      "trade_price": 5.99,
+      "value": 59900.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-07-09": 6.05
+      },
+      "latest_price": 6.05,
+      "return_pct": 1.0,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "CA|USS|2026-07-09|scharfe, bradley nixon|0.65",
+      "market": "CA",
+      "ticker": "USS",
+      "yf_symbol": "USS.V",
+      "company": "Uniserve Communications Corporation",
+      "insider_name": "Scharfe, Bradley Nixon",
+      "title": "Director",
+      "trade_date": "2026-07-09",
+      "trade_price": 0.65,
+      "value": 54600.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-07-09": 0.64
+      },
+      "latest_price": 0.64,
+      "return_pct": -1.54,
       "last_snapshot": "2026-07-09"
     }
   ]

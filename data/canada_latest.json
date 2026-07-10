@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09T22:00:17Z",
-  "trade_count": 3426,
+  "last_updated": "2026-07-10T03:45:18Z",
+  "trade_count": 3428,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -52365,6 +52365,38 @@
       "qty": "5000",
       "price": "4.5600",
       "value": "22799",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4749835",
+      "trade_date": "2026-07-09",
+      "filing_date": "2026-07-09",
+      "company": "ACT Energy Technologies Ltd.",
+      "ticker": "ACX",
+      "insider_name": "MAXWELL, RODERICK DONALD",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "5.9900",
+      "value": "59900",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4749788",
+      "trade_date": "2026-07-09",
+      "filing_date": "2026-07-09",
+      "company": "Uniserve Communications Corporation",
+      "ticker": "USS",
+      "insider_name": "Scharfe, Bradley Nixon",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "84000",
+      "price": "0.6500",
+      "value": "54600",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
