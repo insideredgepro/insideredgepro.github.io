@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-09",
-  "entry_count": 1651,
+  "entry_count": 1714,
   "entries": [
     {
       "id": "US|SOFI|2026-05-11|noto anthony|16.0",
@@ -52781,8 +52781,8 @@
         "2026-07-08": 22.0,
         "2026-07-09": 22.0
       },
-      "latest_price": 22.0,
-      "return_pct": 3.53,
+      "latest_price": 21.32,
+      "return_pct": 0.33,
       "last_snapshot": "2026-07-09"
     },
     {
@@ -55449,8 +55449,8 @@
         "2026-07-08": 22.0,
         "2026-07-09": 22.0
       },
-      "latest_price": 22.0,
-      "return_pct": 3.53,
+      "latest_price": 21.32,
+      "return_pct": 0.33,
       "last_snapshot": "2026-07-09"
     },
     {
@@ -76295,8 +76295,8 @@
         "2026-07-08": 29.0,
         "2026-07-09": 28.33
       },
-      "latest_price": 28.33,
-      "return_pct": -3.67,
+      "latest_price": 27.74,
+      "return_pct": -5.68,
       "last_snapshot": "2026-07-09"
     },
     {
@@ -90344,8 +90344,8 @@
         "2026-07-08": 22.0,
         "2026-07-09": 22.0
       },
-      "latest_price": 22.0,
-      "return_pct": 3.53,
+      "latest_price": 21.32,
+      "return_pct": 0.33,
       "last_snapshot": "2026-07-09"
     },
     {
@@ -91039,6 +91039,1266 @@
       },
       "latest_price": 13.51,
       "return_pct": 1.58,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|NMM|2026-07-09|frangou angeliki|73.74",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_date": "2026-07-09",
+      "trade_price": 73.74,
+      "value": 81038.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 73.77
+      },
+      "latest_price": 73.77,
+      "return_pct": 0.04,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|NMM|2026-07-08|frangou angeliki|76.14",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_date": "2026-07-08",
+      "trade_price": 76.14,
+      "value": 84368.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 73.77
+      },
+      "latest_price": 73.77,
+      "return_pct": -3.11,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|NMM|2026-07-07|frangou angeliki|75.12",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_date": "2026-07-07",
+      "trade_price": 75.12,
+      "value": 83610.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 73.77
+      },
+      "latest_price": 73.77,
+      "return_pct": -1.8,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|GGAL|2026-07-01|moret silvestre vila|5.11",
+      "market": "US",
+      "ticker": "GGAL",
+      "yf_symbol": "GGAL",
+      "company": "Grupo Financiero Galicia S.A.",
+      "insider_name": "Moret Silvestre Vila",
+      "title": "Director",
+      "trade_date": "2026-07-01",
+      "trade_price": 5.11,
+      "value": 511000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 49.39
+      },
+      "latest_price": 49.39,
+      "return_pct": 866.54,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|GGAL|2026-06-30|moret silvestre vila|5.27",
+      "market": "US",
+      "ticker": "GGAL",
+      "yf_symbol": "GGAL",
+      "company": "Grupo Financiero Galicia S.A.",
+      "insider_name": "Moret Silvestre Vila",
+      "title": "Director",
+      "trade_date": "2026-06-30",
+      "trade_price": 5.27,
+      "value": 884259.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 49.39
+      },
+      "latest_price": 49.39,
+      "return_pct": 837.19,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|GGAL|2026-06-29|moret silvestre vila|5.25",
+      "market": "US",
+      "ticker": "GGAL",
+      "yf_symbol": "GGAL",
+      "company": "Grupo Financiero Galicia S.A.",
+      "insider_name": "Moret Silvestre Vila",
+      "title": "Director",
+      "trade_date": "2026-06-29",
+      "trade_price": 5.25,
+      "value": 52500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 49.39
+      },
+      "latest_price": 49.39,
+      "return_pct": 840.76,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|GGAL|2026-06-26|moret silvestre vila|5.15",
+      "market": "US",
+      "ticker": "GGAL",
+      "yf_symbol": "GGAL",
+      "company": "Grupo Financiero Galicia S.A.",
+      "insider_name": "Moret Silvestre Vila",
+      "title": "Director",
+      "trade_date": "2026-06-26",
+      "trade_price": 5.15,
+      "value": 643750.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 49.39
+      },
+      "latest_price": 49.39,
+      "return_pct": 859.03,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|WRAP|2026-07-08|shulman john d|1.1",
+      "market": "US",
+      "ticker": "WRAP",
+      "yf_symbol": "WRAP",
+      "company": "Wrap Technologies, Inc.",
+      "insider_name": "Shulman John D",
+      "title": "Director",
+      "trade_date": "2026-07-08",
+      "trade_price": 1.1,
+      "value": 110000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 2.36
+      },
+      "latest_price": 2.36,
+      "return_pct": 114.55,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|UUUU|2026-07-07|bhappu ross r.|13.08",
+      "market": "US",
+      "ticker": "UUUU",
+      "yf_symbol": "UUUU",
+      "company": "Energy Fuels Inc.",
+      "insider_name": "Bhappu Ross R.",
+      "title": "President and CEO",
+      "trade_date": "2026-07-07",
+      "trade_price": 13.08,
+      "value": 967920.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 13.49
+      },
+      "latest_price": 13.49,
+      "return_pct": 3.13,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|JEM|2026-07-07|hrt financial lp|1.36",
+      "market": "US",
+      "ticker": "JEM",
+      "yf_symbol": "JEM",
+      "company": "707 Cayman Holdings Limited",
+      "insider_name": "Hrt Financial Lp",
+      "title": "10% Owner",
+      "trade_date": "2026-07-07",
+      "trade_price": 1.36,
+      "value": 186684.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 1.12
+      },
+      "latest_price": 1.12,
+      "return_pct": -17.65,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|IPW|2026-07-06|hrt financial lp|2.08",
+      "market": "US",
+      "ticker": "IPW",
+      "yf_symbol": "IPW",
+      "company": "iPower Inc.",
+      "insider_name": "Hrt Financial Lp",
+      "title": "10% Owner",
+      "trade_date": "2026-07-06",
+      "trade_price": 2.08,
+      "value": 37324.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 1.64
+      },
+      "latest_price": 1.64,
+      "return_pct": -21.15,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|UUUU|2026-07-08|hansen bruce d|12.7",
+      "market": "US",
+      "ticker": "UUUU",
+      "yf_symbol": "UUUU",
+      "company": "Energy Fuels Inc.",
+      "insider_name": "Hansen Bruce D",
+      "title": "Director",
+      "trade_date": "2026-07-08",
+      "trade_price": 12.7,
+      "value": 50780.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 13.49
+      },
+      "latest_price": 13.49,
+      "return_pct": 6.22,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|ENR|2026-07-08|aqua capital, ltd.|20.25",
+      "market": "US",
+      "ticker": "ENR",
+      "yf_symbol": "ENR",
+      "company": "Energizer Holdings, Inc.",
+      "insider_name": "Aqua Capital, Ltd.",
+      "title": "10% Owner",
+      "trade_date": "2026-07-08",
+      "trade_price": 20.25,
+      "value": 809832.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 20.21
+      },
+      "latest_price": 20.21,
+      "return_pct": -0.2,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|ENR|2026-07-07|aqua capital, ltd.|20.81",
+      "market": "US",
+      "ticker": "ENR",
+      "yf_symbol": "ENR",
+      "company": "Energizer Holdings, Inc.",
+      "insider_name": "Aqua Capital, Ltd.",
+      "title": "10% Owner",
+      "trade_date": "2026-07-07",
+      "trade_price": 20.81,
+      "value": 832392.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 20.21
+      },
+      "latest_price": 20.21,
+      "return_pct": -2.88,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|VIRC|2026-07-08|virtue douglas a|6.0",
+      "market": "US",
+      "ticker": "VIRC",
+      "yf_symbol": "VIRC",
+      "company": "Virco Mfg Corporation",
+      "insider_name": "Virtue Douglas A",
+      "title": "Executive Vice President",
+      "trade_date": "2026-07-08",
+      "trade_price": 6.0,
+      "value": 48474.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 6.1
+      },
+      "latest_price": 6.1,
+      "return_pct": 1.67,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|UPBD|2026-07-07|brown jeffrey j|20.09",
+      "market": "US",
+      "ticker": "UPBD",
+      "yf_symbol": "UPBD",
+      "company": "Upbound Group, Inc.",
+      "insider_name": "Brown Jeffrey J",
+      "title": "Director",
+      "trade_date": "2026-07-07",
+      "trade_price": 20.09,
+      "value": 46107.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 20.32
+      },
+      "latest_price": 20.32,
+      "return_pct": 1.14,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|AVO|2026-07-08|globalharvest holdings venture|13.42",
+      "market": "US",
+      "ticker": "AVO",
+      "yf_symbol": "AVO",
+      "company": "Mission Produce, Inc.",
+      "insider_name": "Globalharvest Holdings Venture",
+      "title": "10% Owner",
+      "trade_date": "2026-07-08",
+      "trade_price": 13.42,
+      "value": 9222519.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 13.35
+      },
+      "latest_price": 13.35,
+      "return_pct": -0.52,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|AVO|2026-07-07|globalharvest holdings venture|13.4",
+      "market": "US",
+      "ticker": "AVO",
+      "yf_symbol": "AVO",
+      "company": "Mission Produce, Inc.",
+      "insider_name": "Globalharvest Holdings Venture",
+      "title": "10% Owner",
+      "trade_date": "2026-07-07",
+      "trade_price": 13.4,
+      "value": 6590991.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 13.35
+      },
+      "latest_price": 13.35,
+      "return_pct": -0.37,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|MXF|2026-07-07|saba capital management, l.p.|21.73",
+      "market": "US",
+      "ticker": "MXF",
+      "yf_symbol": "MXF",
+      "company": "The Mexico Fund, Inc.",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10% Owner",
+      "trade_date": "2026-07-07",
+      "trade_price": 21.73,
+      "value": 39722.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 21.45
+      },
+      "latest_price": 21.45,
+      "return_pct": -1.29,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|AVO|2026-07-06|globalharvest holdings venture|12.73",
+      "market": "US",
+      "ticker": "AVO",
+      "yf_symbol": "AVO",
+      "company": "Mission Produce, Inc.",
+      "insider_name": "Globalharvest Holdings Venture",
+      "title": "10% Owner",
+      "trade_date": "2026-07-06",
+      "trade_price": 12.73,
+      "value": 8279783.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 13.35
+      },
+      "latest_price": 13.35,
+      "return_pct": 4.87,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|BOLD|2026-07-08|tang kevin|2.46",
+      "market": "US",
+      "ticker": "BOLD",
+      "yf_symbol": "BOLD",
+      "company": "Boundless Bio, Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "10% Owner",
+      "trade_date": "2026-07-08",
+      "trade_price": 2.46,
+      "value": 35271.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 2.51
+      },
+      "latest_price": 2.51,
+      "return_pct": 2.03,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|BOLD|2026-07-07|tang kevin|2.48",
+      "market": "US",
+      "ticker": "BOLD",
+      "yf_symbol": "BOLD",
+      "company": "Boundless Bio, Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "10% Owner",
+      "trade_date": "2026-07-07",
+      "trade_price": 2.48,
+      "value": 39209.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 2.51
+      },
+      "latest_price": 2.51,
+      "return_pct": 1.21,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|BOLD|2026-07-06|tang kevin|2.49",
+      "market": "US",
+      "ticker": "BOLD",
+      "yf_symbol": "BOLD",
+      "company": "Boundless Bio, Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "10% Owner",
+      "trade_date": "2026-07-06",
+      "trade_price": 2.49,
+      "value": 67384.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 2.51
+      },
+      "latest_price": 2.51,
+      "return_pct": 0.8,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|PALI|2026-07-07|baltera robert jr.|2.03",
+      "market": "US",
+      "ticker": "PALI",
+      "yf_symbol": "PALI",
+      "company": "Palisade Bio, Inc.",
+      "insider_name": "Baltera Robert Jr.",
+      "title": "Director",
+      "trade_date": "2026-07-07",
+      "trade_price": 2.03,
+      "value": 61044.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 1.97
+      },
+      "latest_price": 1.97,
+      "return_pct": -2.96,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|PALI|2026-07-06|baltera robert jr.|2.05",
+      "market": "US",
+      "ticker": "PALI",
+      "yf_symbol": "PALI",
+      "company": "Palisade Bio, Inc.",
+      "insider_name": "Baltera Robert Jr.",
+      "title": "Director",
+      "trade_date": "2026-07-06",
+      "trade_price": 2.05,
+      "value": 41040.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 1.97
+      },
+      "latest_price": 1.97,
+      "return_pct": -3.9,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|DLHC|2026-07-07|mink brook asset management ll|5.17",
+      "market": "US",
+      "ticker": "DLHC",
+      "yf_symbol": "DLHC",
+      "company": "Dlh Holdings Corp.",
+      "insider_name": "Mink Brook Asset Management Ll",
+      "title": "10% Owner",
+      "trade_date": "2026-07-07",
+      "trade_price": 5.17,
+      "value": 25856.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 5.08
+      },
+      "latest_price": 5.08,
+      "return_pct": -1.74,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|SWZ|2026-07-06|goldstein phillip|5.95",
+      "market": "US",
+      "ticker": "SWZ",
+      "yf_symbol": "SWZ",
+      "company": "Total Return Securities, Inc.",
+      "insider_name": "Goldstein Phillip",
+      "title": "Secretary",
+      "trade_date": "2026-07-06",
+      "trade_price": 5.95,
+      "value": 35581.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 5.95
+      },
+      "latest_price": 5.95,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|MERC|2026-06-12|kellogg peter r|0.92",
+      "market": "US",
+      "ticker": "MERC",
+      "yf_symbol": "MERC",
+      "company": "Mercer International Inc.",
+      "insider_name": "Kellogg Peter R",
+      "title": "10% Owner",
+      "trade_date": "2026-06-12",
+      "trade_price": 0.92,
+      "value": 47546.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 0.6015
+      },
+      "latest_price": 0.6015,
+      "return_pct": -34.62,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|MERC|2026-06-11|kellogg peter r|0.86",
+      "market": "US",
+      "ticker": "MERC",
+      "yf_symbol": "MERC",
+      "company": "Mercer International Inc.",
+      "insider_name": "Kellogg Peter R",
+      "title": "10% Owner",
+      "trade_date": "2026-06-11",
+      "trade_price": 0.86,
+      "value": 116946.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 0.6015
+      },
+      "latest_price": 0.6015,
+      "return_pct": -30.06,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|MERC|2026-06-10|kellogg peter r|0.82",
+      "market": "US",
+      "ticker": "MERC",
+      "yf_symbol": "MERC",
+      "company": "Mercer International Inc.",
+      "insider_name": "Kellogg Peter R",
+      "title": "10% Owner",
+      "trade_date": "2026-06-10",
+      "trade_price": 0.82,
+      "value": 29675.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 0.6015
+      },
+      "latest_price": 0.6015,
+      "return_pct": -26.65,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|MERC|2026-06-08|kellogg peter r|0.8",
+      "market": "US",
+      "ticker": "MERC",
+      "yf_symbol": "MERC",
+      "company": "Mercer International Inc.",
+      "insider_name": "Kellogg Peter R",
+      "title": "10% Owner",
+      "trade_date": "2026-06-08",
+      "trade_price": 0.8,
+      "value": 27731.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 0.6015
+      },
+      "latest_price": 0.6015,
+      "return_pct": -24.81,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|MERC|2026-06-05|kellogg peter r|0.85",
+      "market": "US",
+      "ticker": "MERC",
+      "yf_symbol": "MERC",
+      "company": "Mercer International Inc.",
+      "insider_name": "Kellogg Peter R",
+      "title": "10% Owner",
+      "trade_date": "2026-06-05",
+      "trade_price": 0.85,
+      "value": 30593.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 0.6015
+      },
+      "latest_price": 0.6015,
+      "return_pct": -29.24,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|MERC|2026-06-04|kellogg peter r|0.89",
+      "market": "US",
+      "ticker": "MERC",
+      "yf_symbol": "MERC",
+      "company": "Mercer International Inc.",
+      "insider_name": "Kellogg Peter R",
+      "title": "10% Owner",
+      "trade_date": "2026-06-04",
+      "trade_price": 0.89,
+      "value": 32018.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 0.6015
+      },
+      "latest_price": 0.6015,
+      "return_pct": -32.42,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|MERC|2026-06-01|kellogg peter r|0.9",
+      "market": "US",
+      "ticker": "MERC",
+      "yf_symbol": "MERC",
+      "company": "Mercer International Inc.",
+      "insider_name": "Kellogg Peter R",
+      "title": "10% Owner",
+      "trade_date": "2026-06-01",
+      "trade_price": 0.9,
+      "value": 58434.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 0.6015
+      },
+      "latest_price": 0.6015,
+      "return_pct": -33.17,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|HTO|2026-07-07|atlas infrastructure partners|62.03",
+      "market": "US",
+      "ticker": "HTO",
+      "yf_symbol": "HTO",
+      "company": "H2O America",
+      "insider_name": "Atlas Infrastructure Partners",
+      "title": "10% Owner",
+      "trade_date": "2026-07-07",
+      "trade_price": 62.03,
+      "value": 172692.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 61.46
+      },
+      "latest_price": 61.46,
+      "return_pct": -0.92,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|COE|2026-07-02|huang jack jiajia|16.78",
+      "market": "US",
+      "ticker": "COE",
+      "yf_symbol": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-07-02",
+      "trade_price": 16.78,
+      "value": 9330016.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 16.7
+      },
+      "latest_price": 16.7,
+      "return_pct": -0.48,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|COE|2026-07-01|huang jack jiajia|16.57",
+      "market": "US",
+      "ticker": "COE",
+      "yf_symbol": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-07-01",
+      "trade_price": 16.57,
+      "value": 4752276.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 16.7
+      },
+      "latest_price": 16.7,
+      "return_pct": 0.78,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|COE|2026-06-30|huang jack jiajia|15.9",
+      "market": "US",
+      "ticker": "COE",
+      "yf_symbol": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-06-30",
+      "trade_price": 15.9,
+      "value": 5622607.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 16.7
+      },
+      "latest_price": 16.7,
+      "return_pct": 5.03,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|COE|2026-06-29|huang jack jiajia|15.22",
+      "market": "US",
+      "ticker": "COE",
+      "yf_symbol": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-06-29",
+      "trade_price": 15.22,
+      "value": 3782446.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 16.7
+      },
+      "latest_price": 16.7,
+      "return_pct": 9.72,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|PSBD|2026-07-07|bicknell martin c|10.47",
+      "market": "US",
+      "ticker": "PSBD",
+      "yf_symbol": "PSBD",
+      "company": "Palmer Square Capital BDC Inc.",
+      "insider_name": "Bicknell Martin C",
+      "title": "10% Owner",
+      "trade_date": "2026-07-07",
+      "trade_price": 10.47,
+      "value": 224937.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 10.36
+      },
+      "latest_price": 10.36,
+      "return_pct": -1.05,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|PSBD|2026-07-06|bicknell martin c|10.56",
+      "market": "US",
+      "ticker": "PSBD",
+      "yf_symbol": "PSBD",
+      "company": "Palmer Square Capital BDC Inc.",
+      "insider_name": "Bicknell Martin C",
+      "title": "10% Owner",
+      "trade_date": "2026-07-06",
+      "trade_price": 10.56,
+      "value": 422400.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 10.36
+      },
+      "latest_price": 10.36,
+      "return_pct": -1.89,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|EDBL|2026-07-01|hrt financial lp|0.17",
+      "market": "US",
+      "ticker": "EDBL",
+      "yf_symbol": "EDBL",
+      "company": "Edible Garden AG Inc",
+      "insider_name": "Hrt Financial Lp",
+      "title": "10% Owner",
+      "trade_date": "2026-07-01",
+      "trade_price": 0.17,
+      "value": 44236.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 0.116
+      },
+      "latest_price": 0.116,
+      "return_pct": -31.76,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|SWZ|2026-07-02|dakos andrew|5.92",
+      "market": "US",
+      "ticker": "SWZ",
+      "yf_symbol": "SWZ",
+      "company": "Total Return Securities, Inc.",
+      "insider_name": "Dakos Andrew",
+      "title": "President and CEO",
+      "trade_date": "2026-07-02",
+      "trade_price": 5.92,
+      "value": 29601.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 5.95
+      },
+      "latest_price": 5.95,
+      "return_pct": 0.51,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|VMAR|2026-07-02|hrt financial lp|1.5",
+      "market": "US",
+      "ticker": "VMAR",
+      "yf_symbol": "VMAR",
+      "company": "Vision Marine Technologies Inc.",
+      "insider_name": "Hrt Financial Lp",
+      "title": "10% Owner",
+      "trade_date": "2026-07-02",
+      "trade_price": 1.5,
+      "value": 35301.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 1.24
+      },
+      "latest_price": 1.24,
+      "return_pct": -17.33,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|GF|2026-07-06|saba capital management, l.p.|11.6",
+      "market": "US",
+      "ticker": "GF",
+      "yf_symbol": "GF",
+      "company": "The New Germany Fund, Inc.",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10% Owner",
+      "trade_date": "2026-07-06",
+      "trade_price": 11.6,
+      "value": 76560.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 11.45
+      },
+      "latest_price": 11.45,
+      "return_pct": -1.29,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|GF|2026-07-02|saba capital management, l.p.|11.6",
+      "market": "US",
+      "ticker": "GF",
+      "yf_symbol": "GF",
+      "company": "The New Germany Fund, Inc.",
+      "insider_name": "Saba Capital Management, L.P.",
+      "title": "10% Owner",
+      "trade_date": "2026-07-02",
+      "trade_price": 11.6,
+      "value": 430209.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 11.45
+      },
+      "latest_price": 11.45,
+      "return_pct": -1.29,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|NMM|2026-07-06|frangou angeliki|74.48",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_date": "2026-07-06",
+      "trade_price": 74.48,
+      "value": 85579.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 73.77
+      },
+      "latest_price": 73.77,
+      "return_pct": -0.95,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|NMM|2026-07-02|frangou angeliki|73.05",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_date": "2026-07-02",
+      "trade_price": 73.05,
+      "value": 85690.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 73.77
+      },
+      "latest_price": 73.77,
+      "return_pct": 0.99,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|NMM|2026-07-01|frangou angeliki|71.59",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_date": "2026-07-01",
+      "trade_price": 71.59,
+      "value": 85115.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 73.77
+      },
+      "latest_price": 73.77,
+      "return_pct": 3.05,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|DLHC|2026-07-06|mink brook asset management ll|5.19",
+      "market": "US",
+      "ticker": "DLHC",
+      "yf_symbol": "DLHC",
+      "company": "Dlh Holdings Corp.",
+      "insider_name": "Mink Brook Asset Management Ll",
+      "title": "10% Owner",
+      "trade_date": "2026-07-06",
+      "trade_price": 5.19,
+      "value": 48882.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 5.08
+      },
+      "latest_price": 5.08,
+      "return_pct": -2.12,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|DLHC|2026-07-02|mink brook asset management ll|5.25",
+      "market": "US",
+      "ticker": "DLHC",
+      "yf_symbol": "DLHC",
+      "company": "Dlh Holdings Corp.",
+      "insider_name": "Mink Brook Asset Management Ll",
+      "title": "10% Owner",
+      "trade_date": "2026-07-02",
+      "trade_price": 5.25,
+      "value": 29597.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 5.08
+      },
+      "latest_price": 5.08,
+      "return_pct": -3.24,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|MSGM|2026-07-02|red oak partners, llc|4.14",
+      "market": "US",
+      "ticker": "MSGM",
+      "yf_symbol": "MSGM",
+      "company": "Motorsport Games Inc.",
+      "insider_name": "Red Oak Partners, Llc",
+      "title": "10% Owner",
+      "trade_date": "2026-07-02",
+      "trade_price": 4.14,
+      "value": 52744.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 4.62
+      },
+      "latest_price": 4.62,
+      "return_pct": 11.59,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|TCI|2026-06-22|transcontinental realty invest|17.75",
+      "market": "US",
+      "ticker": "TCI",
+      "yf_symbol": "TCI",
+      "company": "Transcontinental Realty Investors Inc",
+      "insider_name": "Transcontinental Realty Invest",
+      "title": "10% Owner",
+      "trade_date": "2026-06-22",
+      "trade_price": 17.75,
+      "value": 26628.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 46.64
+      },
+      "latest_price": 46.64,
+      "return_pct": 162.76,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|TCI|2026-06-16|transcontinental realty invest|17.76",
+      "market": "US",
+      "ticker": "TCI",
+      "yf_symbol": "TCI",
+      "company": "Transcontinental Realty Investors Inc",
+      "insider_name": "Transcontinental Realty Invest",
+      "title": "10% Owner",
+      "trade_date": "2026-06-16",
+      "trade_price": 17.76,
+      "value": 29351.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 46.64
+      },
+      "latest_price": 46.64,
+      "return_pct": 162.61,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|TCI|2026-06-15|transcontinental realty invest|17.81",
+      "market": "US",
+      "ticker": "TCI",
+      "yf_symbol": "TCI",
+      "company": "Transcontinental Realty Investors Inc",
+      "insider_name": "Transcontinental Realty Invest",
+      "title": "10% Owner",
+      "trade_date": "2026-06-15",
+      "trade_price": 17.81,
+      "value": 27012.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 46.64
+      },
+      "latest_price": 46.64,
+      "return_pct": 161.88,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|TCI|2026-06-08|transcontinental realty invest|17.5",
+      "market": "US",
+      "ticker": "TCI",
+      "yf_symbol": "TCI",
+      "company": "Transcontinental Realty Investors Inc",
+      "insider_name": "Transcontinental Realty Invest",
+      "title": "10% Owner",
+      "trade_date": "2026-06-08",
+      "trade_price": 17.5,
+      "value": 35000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 46.64
+      },
+      "latest_price": 46.64,
+      "return_pct": 166.51,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|TCI|2026-06-05|transcontinental realty invest|17.83",
+      "market": "US",
+      "ticker": "TCI",
+      "yf_symbol": "TCI",
+      "company": "Transcontinental Realty Investors Inc",
+      "insider_name": "Transcontinental Realty Invest",
+      "title": "10% Owner",
+      "trade_date": "2026-06-05",
+      "trade_price": 17.83,
+      "value": 44117.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 46.64
+      },
+      "latest_price": 46.64,
+      "return_pct": 161.58,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|IOR|2026-06-22|transcontinental realty invest|17.75",
+      "market": "US",
+      "ticker": "IOR",
+      "yf_symbol": "IOR",
+      "company": "Income Opportunity Realty Investors Inc /Tx/",
+      "insider_name": "Transcontinental Realty Invest",
+      "title": "10% Owner",
+      "trade_date": "2026-06-22",
+      "trade_price": 17.75,
+      "value": 26628.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 18.4
+      },
+      "latest_price": 18.4,
+      "return_pct": 3.66,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|IOR|2026-06-16|transcontinental realty invest|17.76",
+      "market": "US",
+      "ticker": "IOR",
+      "yf_symbol": "IOR",
+      "company": "Income Opportunity Realty Investors Inc /Tx/",
+      "insider_name": "Transcontinental Realty Invest",
+      "title": "10% Owner",
+      "trade_date": "2026-06-16",
+      "trade_price": 17.76,
+      "value": 29351.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 18.4
+      },
+      "latest_price": 18.4,
+      "return_pct": 3.6,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|IOR|2026-06-15|transcontinental realty invest|17.81",
+      "market": "US",
+      "ticker": "IOR",
+      "yf_symbol": "IOR",
+      "company": "Income Opportunity Realty Investors Inc /Tx/",
+      "insider_name": "Transcontinental Realty Invest",
+      "title": "10% Owner",
+      "trade_date": "2026-06-15",
+      "trade_price": 17.81,
+      "value": 27012.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 18.4
+      },
+      "latest_price": 18.4,
+      "return_pct": 3.31,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|IOR|2026-06-08|transcontinental realty invest|17.5",
+      "market": "US",
+      "ticker": "IOR",
+      "yf_symbol": "IOR",
+      "company": "Income Opportunity Realty Investors Inc /Tx/",
+      "insider_name": "Transcontinental Realty Invest",
+      "title": "10% Owner",
+      "trade_date": "2026-06-08",
+      "trade_price": 17.5,
+      "value": 35000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 18.4
+      },
+      "latest_price": 18.4,
+      "return_pct": 5.14,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|IOR|2026-06-05|transcontinental realty invest|17.83",
+      "market": "US",
+      "ticker": "IOR",
+      "yf_symbol": "IOR",
+      "company": "Income Opportunity Realty Investors Inc /Tx/",
+      "insider_name": "Transcontinental Realty Invest",
+      "title": "10% Owner",
+      "trade_date": "2026-06-05",
+      "trade_price": 17.83,
+      "value": 44117.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 18.4
+      },
+      "latest_price": 18.4,
+      "return_pct": 3.2,
+      "last_snapshot": "2026-07-09"
+    },
+    {
+      "id": "US|VWAV|2026-06-16|visionwave holdings, inc.|3.48",
+      "market": "US",
+      "ticker": "VWAV",
+      "yf_symbol": "VWAV",
+      "company": "VisionWave Holdings, Inc.",
+      "insider_name": "Visionwave Holdings, Inc.",
+      "title": "Director",
+      "trade_date": "2026-06-16",
+      "trade_price": 3.48,
+      "value": 1135938816.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-09": 4.4
+      },
+      "latest_price": 4.4,
+      "return_pct": 26.44,
       "last_snapshot": "2026-07-09"
     }
   ]
