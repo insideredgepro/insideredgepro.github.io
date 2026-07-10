@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-10T03:45:18Z",
-  "trade_count": 3428,
+  "last_updated": "2026-07-10T16:00:18Z",
+  "trade_count": 3429,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -52397,6 +52397,22 @@
       "qty": "84000",
       "price": "0.6500",
       "value": "54600",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4750051",
+      "trade_date": "2026-07-10",
+      "filing_date": "2026-07-10",
+      "company": "CES Energy Solutions Corp.",
+      "ticker": "CEU",
+      "insider_name": "Hooks, John Michael",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "16.2820",
+      "value": "814100",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
