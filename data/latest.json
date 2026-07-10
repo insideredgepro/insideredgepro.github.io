@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-10T21:52:12Z",
-  "trade_count": 8281,
+  "last_updated": "2026-07-10T22:51:54Z",
+  "trade_count": 8283,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -132496,6 +132496,38 @@
       "owned": "20000",
       "delta_own": "+33%",
       "value": "82912",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-10",
+      "filing_time": "18:14",
+      "trade_date": "2026-07-09",
+      "ticker": "PALI",
+      "company": "Palisade Bio, Inc.",
+      "insider_name": "Baltera Robert Jr.",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "1.96",
+      "qty": "25000",
+      "owned": "461904",
+      "delta_own": "+6%",
+      "value": "48900",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-10",
+      "filing_time": "18:14",
+      "trade_date": "2026-07-08",
+      "ticker": "PALI",
+      "company": "Palisade Bio, Inc.",
+      "insider_name": "Baltera Robert Jr.",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "1.99",
+      "qty": "20000",
+      "owned": "436904",
+      "delta_own": "+5%",
+      "value": "39798",
       "cluster_buy": false
     }
   ]

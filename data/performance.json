@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-10",
-  "entry_count": 1721,
+  "entry_count": 1723,
   "entries": [
     {
       "id": "US|SOFI|2026-05-11|noto anthony|16.0",
@@ -94140,6 +94140,46 @@
         "2026-07-10": 16.33
       },
       "latest_price": 16.33,
+      "return_pct": -1.51,
+      "last_snapshot": "2026-07-10"
+    },
+    {
+      "id": "US|PALI|2026-07-09|baltera robert jr.|1.96",
+      "market": "US",
+      "ticker": "PALI",
+      "yf_symbol": "PALI",
+      "company": "Palisade Bio, Inc.",
+      "insider_name": "Baltera Robert Jr.",
+      "title": "Director",
+      "trade_date": "2026-07-09",
+      "trade_price": 1.96,
+      "value": 48900.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-10": 1.96
+      },
+      "latest_price": 1.96,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-07-10"
+    },
+    {
+      "id": "US|PALI|2026-07-08|baltera robert jr.|1.99",
+      "market": "US",
+      "ticker": "PALI",
+      "yf_symbol": "PALI",
+      "company": "Palisade Bio, Inc.",
+      "insider_name": "Baltera Robert Jr.",
+      "title": "Director",
+      "trade_date": "2026-07-08",
+      "trade_price": 1.99,
+      "value": 39798.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-10": 1.96
+      },
+      "latest_price": 1.96,
       "return_pct": -1.51,
       "last_snapshot": "2026-07-10"
     }
