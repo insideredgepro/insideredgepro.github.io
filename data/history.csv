@@ -8221,7 +8221,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-09,20:27,2026-06-30,GGAL,Grupo Financiero Galicia S.A.,Moret Silvestre Vila,Director,P - Purchase,5.27,167791,2500000,+7%,884259,False
 2026-07-09,20:27,2026-06-29,GGAL,Grupo Financiero Galicia S.A.,Moret Silvestre Vila,Director,P - Purchase,5.25,10000,2332209,+0%,52500,False
 2026-07-09,20:27,2026-06-26,GGAL,Grupo Financiero Galicia S.A.,Moret Silvestre Vila,Director,P - Purchase,5.15,125000,2322209,+6%,643750,False
-2026-07-09,19:04,2026-07-08,WRAP,"Wrap Technologies, Inc.",Shulman John D,Director,P - Purchase,1.10,100000,199037,+101%,110000,False
+2026-07-09,19:04,2026-07-08,WRAP,"Wrap Technologies, Inc.",Shulman John D,Director,P - Purchase,1.10,100000,199037,+101%,110000,True
 2026-07-09,19:00,2026-07-07,UUUU,Energy Fuels Inc.,Bhappu Ross R.,President and CEO,P - Purchase,13.08,74000,256583,+41%,967920,True
 2026-07-09,18:16,2026-07-07,JEM,707 Cayman Holdings Limited,Hrt Financial Lp,10% Owner,P - Purchase,1.36,137268,172830,+386%,186684,False
 2026-07-09,18:04,2026-07-06,IPW,iPower Inc.,Hrt Financial Lp,10% Owner,P - Purchase,2.08,17944,80088,+29%,37324,False
@@ -8292,3 +8292,22 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-10,19:39,2026-07-08,NTSK,Netskope Inc,Iconiq Strategic Partners Viii,10% Owner,P - Purchase,11.82,610291,610291,New,7216049,True
 2026-07-10,19:37,2026-07-08,NTSK,Netskope Inc,Griffith William J.G.,Director,P - Purchase,11.82,610291,610291,New,7216081,True
 2026-07-10,20:17,2026-07-08,CV,"Capsovision, Inc",Harari Eliyahou Et Al,10% Owner,P - Purchase,6.09,81300,3282051,+3%,495117,False
+2026-07-10,19:39,2026-07-08,NTSK,Netskope Inc,"Iconiq Strategic Partners VIII Holdings, L.P.",10%,P - Purchase,11.82,610291,66877804,+1%,7216049,True
+2026-07-10,18:14,2026-07-08,PALI,"Palisade Bio, Inc.",Baltera Robert Jr.,Dir,P - Purchase,1.97,45000,461904,+11%,88698,False
+2026-07-10,18:08,2026-06-30,BGDE,"Big Digital Energy, Inc.","Endeavor Blockchain, LLC",10%,P - Purchase,1000.00,16700,16700,New,16700000,True
+2026-07-10,17:29,2026-07-09,AVO,"Mission Produce, Inc.",Globalharvest Holdings Venture Ltd,10%,P - Purchase,13.28,592957,12963396,+5%,7874469,True
+2026-07-10,16:56,2026-07-09,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.11,10000,2848395,0%,51084,True
+2026-07-10,16:42,2026-07-09,HNRG,Hallador Energy Co,Hudson Daniel Timothy,Dir,P - Purchase,16.58,5000,20000,+33%,82913,False
+2026-07-10,16:41,2026-07-08,SLGL,Sol-Gel Technologies Ltd.,Opaleye Management Inc.,10%,P - Purchase,73.80,529,507241,0%,39042,False
+2026-07-10,07:30,2026-07-08,WRAP,"Wrap Technologies, Inc.",Cohen Scot,"Exec COB, CEO, 10%",P - Purchase,1.10,209353,6798908,+3%,230288,True
+2026-07-09,21:31,2026-06-30,NYC,American Strategic Investment Co.,Schorsch Nicholas S,10%,P - Purchase,9.53,8000,2120646,0%,76240,False
+2026-07-09,21:10,2026-07-07,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,75.00,3320,5754521,0%,249016,False
+2026-07-09,20:27,2026-06-26,GGAL,Grupo Financiero Galicia Sa,Moret Silvestre Vila,Dir,P - Purchase,5.19,402967,2600176,+18%,2092470,False
+2026-07-09,16:38,2026-07-07,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10%,P - Purchase,20.53,80000,7420000,+1%,1642224,False
+2026-07-09,16:36,2026-07-08,VIRC,Virco Mfg Corporation,Virtue Douglas A,EVP,P - Purchase,6.00,8088,888668,+1%,48504,False
+2026-07-09,16:23,2026-07-07,AVO,"Mission Produce, Inc.",Globalharvest Holdings Venture Ltd,10%,P - Purchase,13.41,1179087,12370439,+11%,15813510,True
+2026-07-09,16:14,2026-06-29,EWSB,"Ewsb Bancorp, Inc. /Md/",Schmalz Charles D,"Pres, CEO",P - Purchase,10.00,67641,100394,+207%,676410,True
+2026-07-09,16:13,2026-06-29,EWSB,"Ewsb Bancorp, Inc. /Md/",Mangold James E,VP - Lending,P - Purchase,10.00,39950,98068,+69%,399500,True
+2026-07-09,16:12,2026-06-29,EWSB,"Ewsb Bancorp, Inc. /Md/",Schneider Kory J,VP - Member Experience,P - Purchase,10.00,47900,97171,+97%,479000,True
+2026-07-09,16:11,2026-06-29,EWSB,"Ewsb Bancorp, Inc. /Md/",Vander Loop Kailee,VP HR Technology,P - Purchase,10.00,15180,31355,+94%,151800,True
+2026-07-09,15:02,2026-07-02,EHSI,Elite Health Systems Inc.,Jeereddi Prasad Anjaneya,"CEO, 10%",P - Purchase,0.95,42105,3850200,+1%,40000,False

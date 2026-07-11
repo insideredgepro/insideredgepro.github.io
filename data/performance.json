@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-11",
-  "entry_count": 1653,
+  "entry_count": 1668,
   "entries": [
     {
       "id": "US|CUBI|2026-05-12|sidhu samvir s.|72.58",
@@ -90278,6 +90278,306 @@
       },
       "latest_price": 5.99,
       "return_pct": -1.64,
+      "last_snapshot": "2026-07-11"
+    },
+    {
+      "id": "US|NTSK|2026-07-08|iconiq strategic partners viii holdings, l.p.|11.82",
+      "market": "US",
+      "ticker": "NTSK",
+      "yf_symbol": "NTSK",
+      "company": "Netskope Inc",
+      "insider_name": "Iconiq Strategic Partners VIII Holdings, L.P.",
+      "title": "10%",
+      "trade_date": "2026-07-08",
+      "trade_price": 11.82,
+      "value": 7216049.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-11": 12.32
+      },
+      "latest_price": 12.32,
+      "return_pct": 4.23,
+      "last_snapshot": "2026-07-11"
+    },
+    {
+      "id": "US|PALI|2026-07-08|baltera robert jr.|1.97",
+      "market": "US",
+      "ticker": "PALI",
+      "yf_symbol": "PALI",
+      "company": "Palisade Bio, Inc.",
+      "insider_name": "Baltera Robert Jr.",
+      "title": "Dir",
+      "trade_date": "2026-07-08",
+      "trade_price": 1.97,
+      "value": 88698.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-11": 1.96
+      },
+      "latest_price": 1.96,
+      "return_pct": -0.51,
+      "last_snapshot": "2026-07-11"
+    },
+    {
+      "id": "US|AVO|2026-07-09|globalharvest holdings venture ltd|13.28",
+      "market": "US",
+      "ticker": "AVO",
+      "yf_symbol": "AVO",
+      "company": "Mission Produce, Inc.",
+      "insider_name": "Globalharvest Holdings Venture Ltd",
+      "title": "10%",
+      "trade_date": "2026-07-09",
+      "trade_price": 13.28,
+      "value": 7874469.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-11": 13.33
+      },
+      "latest_price": 13.33,
+      "return_pct": 0.38,
+      "last_snapshot": "2026-07-11"
+    },
+    {
+      "id": "US|DLHC|2026-07-09|mink brook asset management llc|5.11",
+      "market": "US",
+      "ticker": "DLHC",
+      "yf_symbol": "DLHC",
+      "company": "Dlh Holdings Corp.",
+      "insider_name": "Mink Brook Asset Management LLC",
+      "title": "10%",
+      "trade_date": "2026-07-09",
+      "trade_price": 5.11,
+      "value": 51084.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-11": 5.03
+      },
+      "latest_price": 5.03,
+      "return_pct": -1.57,
+      "last_snapshot": "2026-07-11"
+    },
+    {
+      "id": "US|SLGL|2026-07-08|opaleye management inc.|73.8",
+      "market": "US",
+      "ticker": "SLGL",
+      "yf_symbol": "SLGL",
+      "company": "Sol-Gel Technologies Ltd.",
+      "insider_name": "Opaleye Management Inc.",
+      "title": "10%",
+      "trade_date": "2026-07-08",
+      "trade_price": 73.8,
+      "value": 39042.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-11": 73.95
+      },
+      "latest_price": 73.95,
+      "return_pct": 0.2,
+      "last_snapshot": "2026-07-11"
+    },
+    {
+      "id": "US|WRAP|2026-07-08|cohen scot|1.1",
+      "market": "US",
+      "ticker": "WRAP",
+      "yf_symbol": "WRAP",
+      "company": "Wrap Technologies, Inc.",
+      "insider_name": "Cohen Scot",
+      "title": "Exec COB, CEO, 10%",
+      "trade_date": "2026-07-08",
+      "trade_price": 1.1,
+      "value": 230288.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-11": 2.46
+      },
+      "latest_price": 2.46,
+      "return_pct": 123.64,
+      "last_snapshot": "2026-07-11"
+    },
+    {
+      "id": "US|NMM|2026-07-07|frangou angeliki|75.0",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-07-07",
+      "trade_price": 75.0,
+      "value": 249016.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-11": 75.75
+      },
+      "latest_price": 75.75,
+      "return_pct": 1.0,
+      "last_snapshot": "2026-07-11"
+    },
+    {
+      "id": "US|GGAL|2026-06-26|moret silvestre vila|5.19",
+      "market": "US",
+      "ticker": "GGAL",
+      "yf_symbol": "GGAL",
+      "company": "Grupo Financiero Galicia Sa",
+      "insider_name": "Moret Silvestre Vila",
+      "title": "Dir",
+      "trade_date": "2026-06-26",
+      "trade_price": 5.19,
+      "value": 2092470.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-11": 53.73
+      },
+      "latest_price": 53.73,
+      "return_pct": 935.26,
+      "last_snapshot": "2026-07-11"
+    },
+    {
+      "id": "US|ENR|2026-07-07|aqua capital, ltd.|20.53",
+      "market": "US",
+      "ticker": "ENR",
+      "yf_symbol": "ENR",
+      "company": "Energizer Holdings, Inc.",
+      "insider_name": "Aqua Capital, Ltd.",
+      "title": "10%",
+      "trade_date": "2026-07-07",
+      "trade_price": 20.53,
+      "value": 1642224.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-11": 20.47
+      },
+      "latest_price": 20.47,
+      "return_pct": -0.29,
+      "last_snapshot": "2026-07-11"
+    },
+    {
+      "id": "US|AVO|2026-07-07|globalharvest holdings venture ltd|13.41",
+      "market": "US",
+      "ticker": "AVO",
+      "yf_symbol": "AVO",
+      "company": "Mission Produce, Inc.",
+      "insider_name": "Globalharvest Holdings Venture Ltd",
+      "title": "10%",
+      "trade_date": "2026-07-07",
+      "trade_price": 13.41,
+      "value": 15813510.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-11": 13.33
+      },
+      "latest_price": 13.33,
+      "return_pct": -0.6,
+      "last_snapshot": "2026-07-11"
+    },
+    {
+      "id": "US|EWSB|2026-06-29|schmalz charles d|10.0",
+      "market": "US",
+      "ticker": "EWSB",
+      "yf_symbol": "EWSB",
+      "company": "Ewsb Bancorp, Inc. /Md/",
+      "insider_name": "Schmalz Charles D",
+      "title": "Pres, CEO",
+      "trade_date": "2026-06-29",
+      "trade_price": 10.0,
+      "value": 676410.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-11": 10.95
+      },
+      "latest_price": 10.95,
+      "return_pct": 9.5,
+      "last_snapshot": "2026-07-11"
+    },
+    {
+      "id": "US|EWSB|2026-06-29|mangold james e|10.0",
+      "market": "US",
+      "ticker": "EWSB",
+      "yf_symbol": "EWSB",
+      "company": "Ewsb Bancorp, Inc. /Md/",
+      "insider_name": "Mangold James E",
+      "title": "VP - Lending",
+      "trade_date": "2026-06-29",
+      "trade_price": 10.0,
+      "value": 399500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-11": 10.95
+      },
+      "latest_price": 10.95,
+      "return_pct": 9.5,
+      "last_snapshot": "2026-07-11"
+    },
+    {
+      "id": "US|EWSB|2026-06-29|schneider kory j|10.0",
+      "market": "US",
+      "ticker": "EWSB",
+      "yf_symbol": "EWSB",
+      "company": "Ewsb Bancorp, Inc. /Md/",
+      "insider_name": "Schneider Kory J",
+      "title": "VP - Member Experience",
+      "trade_date": "2026-06-29",
+      "trade_price": 10.0,
+      "value": 479000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-11": 10.95
+      },
+      "latest_price": 10.95,
+      "return_pct": 9.5,
+      "last_snapshot": "2026-07-11"
+    },
+    {
+      "id": "US|EWSB|2026-06-29|vander loop kailee|10.0",
+      "market": "US",
+      "ticker": "EWSB",
+      "yf_symbol": "EWSB",
+      "company": "Ewsb Bancorp, Inc. /Md/",
+      "insider_name": "Vander Loop Kailee",
+      "title": "VP HR Technology",
+      "trade_date": "2026-06-29",
+      "trade_price": 10.0,
+      "value": 151800.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-11": 10.95
+      },
+      "latest_price": 10.95,
+      "return_pct": 9.5,
+      "last_snapshot": "2026-07-11"
+    },
+    {
+      "id": "US|EHSI|2026-07-02|jeereddi prasad anjaneya|0.95",
+      "market": "US",
+      "ticker": "EHSI",
+      "yf_symbol": "EHSI",
+      "company": "Elite Health Systems Inc.",
+      "insider_name": "Jeereddi Prasad Anjaneya",
+      "title": "CEO, 10%",
+      "trade_date": "2026-07-02",
+      "trade_price": 0.95,
+      "value": 40000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-11": 1.01
+      },
+      "latest_price": 1.01,
+      "return_pct": 6.32,
       "last_snapshot": "2026-07-11"
     }
   ]
