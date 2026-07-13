@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T08:50:32Z",
-  "trade_count": 8305,
+  "last_updated": "2026-07-13T11:52:47Z",
+  "trade_count": 8309,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -103296,7 +103296,7 @@
       "owned": "49671",
       "delta_own": "+167%",
       "value": "501426",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-05-12",
@@ -132880,6 +132880,70 @@
       "owned": "3850200",
       "delta_own": "+1%",
       "value": "40000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "07:06",
+      "trade_date": "2026-05-15",
+      "ticker": "CAI",
+      "company": "Caris Life Sciences, Inc.",
+      "insider_name": "Halbert Jon",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "14.56",
+      "qty": "68000",
+      "owned": "1461106",
+      "delta_own": "+5%",
+      "value": "990080",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "07:00",
+      "trade_date": "2026-07-09",
+      "ticker": "GCO",
+      "company": "Genesco Inc",
+      "insider_name": "Sandfort Gregory A",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "33.80",
+      "qty": "2958",
+      "owned": "29172",
+      "delta_own": "+11%",
+      "value": "99980",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "06:51",
+      "trade_date": "2026-07-06",
+      "ticker": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "16.55",
+      "qty": "562560",
+      "owned": "80349200",
+      "delta_own": "+1%",
+      "value": "9312806",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "06:05",
+      "trade_date": "2026-07-07",
+      "ticker": "TDIC",
+      "company": "Dreamland Ltd",
+      "insider_name": "Seto Wai Yue",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "3.75",
+      "qty": "652000",
+      "owned": "829890",
+      "delta_own": "+367%",
+      "value": "2445000",
       "cluster_buy": false
     }
   ]

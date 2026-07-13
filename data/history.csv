@@ -6460,7 +6460,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-12,09:29,2026-05-08,INFU,"Infusystem Holdings, Inc",Lachance Carrie,"Pres, CEO",P - Purchase,8.71,3000,473246,+1%,26120,True
 2026-05-12,09:27,2026-05-08,INFU,"Infusystem Holdings, Inc",Steele Barry G,"EVP, CFO",P - Purchase,8.71,7000,186180,+4%,60949,True
 2026-05-12,08:45,2026-05-01,CBKM,Consumers Bancorp Inc /Oh/,Gerzina Joseph A,Dir,P - Purchase,27.00,1500,6533,+30%,40500,False
-2026-05-12,08:22,2026-05-11,CAI,"Caris Life Sciences, Inc.",Vacirca Jeff L,Dir,P - Purchase,16.15,31050,49671,+167%,501426,False
+2026-05-12,08:22,2026-05-11,CAI,"Caris Life Sciences, Inc.",Vacirca Jeff L,Dir,P - Purchase,16.15,31050,49671,+167%,501426,True
 2026-05-12,11:29,2026-05-11,BHRB,Burke & Herbert Financial Services Corp.,Barnwell Julian Forrest Jr.,Dir,P - Purchase,63.05,5000,406963,+1%,315232,True
 2026-05-12,11:13,2026-05-11,POR,Portland General Electric Co /Or/,Hoglund Robert N,Dir,P - Purchase,48.80,2000,2519,+385%,97600,False
 2026-05-12,14:05,2026-05-12,CUBI,"Customers Bancorp, Inc.",Sidhu Samvir S.,CEO,P - Purchase,72.58,1000,523949,0%,72578,False
@@ -8311,3 +8311,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-09,16:12,2026-06-29,EWSB,"Ewsb Bancorp, Inc. /Md/",Schneider Kory J,VP - Member Experience,P - Purchase,10.00,47900,97171,+97%,479000,True
 2026-07-09,16:11,2026-06-29,EWSB,"Ewsb Bancorp, Inc. /Md/",Vander Loop Kailee,VP HR Technology,P - Purchase,10.00,15180,31355,+94%,151800,True
 2026-07-09,15:02,2026-07-02,EHSI,Elite Health Systems Inc.,Jeereddi Prasad Anjaneya,"CEO, 10%",P - Purchase,0.95,42105,3850200,+1%,40000,False
+2026-07-13,07:06,2026-05-15,CAI,"Caris Life Sciences, Inc.",Halbert Jon,Dir,P - Purchase,14.56,68000,1461106,+5%,990080,True
+2026-07-13,07:00,2026-07-09,GCO,Genesco Inc,Sandfort Gregory A,Dir,P - Purchase,33.80,2958,29172,+11%,99980,False
+2026-07-13,06:51,2026-07-06,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,16.55,562560,80349200,+1%,9312806,False
+2026-07-13,06:05,2026-07-07,TDIC,Dreamland Ltd,Seto Wai Yue,"CEO, 10%",P - Purchase,3.75,652000,829890,+367%,2445000,False
