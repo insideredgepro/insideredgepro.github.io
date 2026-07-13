@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-13",
-  "entry_count": 1561,
+  "entry_count": 1563,
   "entries": [
     {
       "id": "US|TONX|2026-05-14|olsen sarah josephine|3.62",
@@ -84539,6 +84539,46 @@
       },
       "latest_price": 1.22,
       "return_pct": -19.21,
+      "last_snapshot": "2026-07-13"
+    },
+    {
+      "id": "US|CCCTU|2026-07-10|columbus circle 3 sponsor corp llc|10.0",
+      "market": "US",
+      "ticker": "CCCTU",
+      "yf_symbol": "CCCTU",
+      "company": "Columbus Circle Capital Corp III",
+      "insider_name": "Columbus Circle 3 Sponsor Corp LLC",
+      "title": "10%",
+      "trade_date": "2026-07-10",
+      "trade_price": 10.0,
+      "value": 2650000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-13": 10.015
+      },
+      "latest_price": 10.015,
+      "return_pct": 0.15,
+      "last_snapshot": "2026-07-13"
+    },
+    {
+      "id": "US|BOLD|2026-07-09|tang kevin|2.42",
+      "market": "US",
+      "ticker": "BOLD",
+      "yf_symbol": "BOLD",
+      "company": "Boundless Bio, Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "10%",
+      "trade_date": "2026-07-09",
+      "trade_price": 2.42,
+      "value": 222070.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-13": 2.44
+      },
+      "latest_price": 2.44,
+      "return_pct": 0.83,
       "last_snapshot": "2026-07-13"
     }
   ]
