@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T17:07:24Z",
-  "trade_count": 8317,
+  "last_updated": "2026-07-13T19:13:06Z",
+  "trade_count": 8319,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -131488,7 +131488,7 @@
       "owned": "172830",
       "delta_own": "+386%",
       "value": "186684",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-07-09",
@@ -133073,6 +133073,38 @@
       "delta_own": "+10%",
       "value": "31766",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "14:58",
+      "trade_date": "2026-07-09",
+      "ticker": "JEM",
+      "company": "707 Cayman Holdings Ltd.",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "1.07",
+      "qty": "125911",
+      "owned": "138001",
+      "delta_own": ">999%",
+      "value": "134725",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "14:34",
+      "trade_date": "2026-07-09",
+      "ticker": "SHPH",
+      "company": "Shuttle Pharmaceuticals Holdings, Inc.",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "3.36",
+      "qty": "8997",
+      "owned": "61271",
+      "delta_own": "+17%",
+      "value": "30212",
+      "cluster_buy": true
     }
   ]
 }

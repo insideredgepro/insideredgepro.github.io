@@ -8223,7 +8223,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-09,20:27,2026-06-26,GGAL,Grupo Financiero Galicia S.A.,Moret Silvestre Vila,Director,P - Purchase,5.15,125000,2322209,+6%,643750,False
 2026-07-09,19:04,2026-07-08,WRAP,"Wrap Technologies, Inc.",Shulman John D,Director,P - Purchase,1.10,100000,199037,+101%,110000,True
 2026-07-09,19:00,2026-07-07,UUUU,Energy Fuels Inc.,Bhappu Ross R.,President and CEO,P - Purchase,13.08,74000,256583,+41%,967920,True
-2026-07-09,18:16,2026-07-07,JEM,707 Cayman Holdings Limited,Hrt Financial Lp,10% Owner,P - Purchase,1.36,137268,172830,+386%,186684,False
+2026-07-09,18:16,2026-07-07,JEM,707 Cayman Holdings Limited,Hrt Financial Lp,10% Owner,P - Purchase,1.36,137268,172830,+386%,186684,True
 2026-07-09,18:04,2026-07-06,IPW,iPower Inc.,Hrt Financial Lp,10% Owner,P - Purchase,2.08,17944,80088,+29%,37324,False
 2026-07-09,17:26,2026-07-08,UUUU,Energy Fuels Inc.,Hansen Bruce D,Director,P - Purchase,12.70,4000,313844,+1%,50780,True
 2026-07-09,16:38,2026-07-08,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10% Owner,P - Purchase,20.25,40000,7420000,+1%,809832,False
@@ -8323,3 +8323,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-13,11:34,2026-07-10,TOI,"Oncology Institute, Inc.",Chernett Jorey,10%,P - Purchase,5.85,15000,10630858,0%,87750,False
 2026-07-13,10:30,2026-07-09,ADIL,"Adial Pharmaceuticals, Inc.",Coastlands Capital LP,10%,P - Purchase,2.78,11753,385075,+3%,32638,False
 2026-07-13,10:28,2026-06-22,CNTM,"Connectm Technology Solutions, Inc.",Choudhury Mahesh,Principal Financial Officer,P - Purchase,8.77,3622,40814,+10%,31766,False
+2026-07-13,14:58,2026-07-09,JEM,707 Cayman Holdings Ltd.,Hrt Financial LP,10%,P - Purchase,1.07,125911,138001,>999%,134725,True
+2026-07-13,14:34,2026-07-09,SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",Hrt Financial LP,10%,P - Purchase,3.36,8997,61271,+17%,30212,True
