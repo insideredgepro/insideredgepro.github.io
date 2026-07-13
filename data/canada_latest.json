@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T16:00:53Z",
-  "trade_count": 3433,
+  "last_updated": "2026-07-13T22:00:21Z",
+  "trade_count": 3434,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -52477,6 +52477,22 @@
       "qty": "100000",
       "price": "0.2900",
       "value": "28999",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4751928",
+      "trade_date": "2026-07-13",
+      "filing_date": "2026-07-13",
+      "company": "Enbridge Inc.",
+      "ticker": "ENB",
+      "insider_name": "Banister, Gaurdie Edward",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "662",
+      "price": "53.1800",
+      "value": "35205",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
