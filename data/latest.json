@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T19:13:06Z",
-  "trade_count": 8319,
+  "last_updated": "2026-07-13T20:50:23Z",
+  "trade_count": 8322,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -133105,6 +133105,54 @@
       "delta_own": "+17%",
       "value": "30212",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "16:38",
+      "trade_date": "2026-07-09",
+      "ticker": "ENR",
+      "company": "Energizer Holdings, Inc.",
+      "insider_name": "Aqua Capital, Ltd.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "20.56",
+      "qty": "60000",
+      "owned": "7480000",
+      "delta_own": "+1%",
+      "value": "1233570",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "16:15",
+      "trade_date": "2026-07-09",
+      "ticker": "GLOO",
+      "company": "Gloo Holdings, Inc.",
+      "insider_name": "Grace & Mercy Foundation, Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "3.25",
+      "qty": "923076",
+      "owned": "3423076",
+      "delta_own": "+37%",
+      "value": "2999997",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "15:14",
+      "trade_date": "2026-07-09",
+      "ticker": "BJDX",
+      "company": "Bluejay Diagnostics, Inc.",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "1.51",
+      "qty": "64047",
+      "owned": "92055",
+      "delta_own": "+229%",
+      "value": "96711",
+      "cluster_buy": false
     }
   ]
 }
