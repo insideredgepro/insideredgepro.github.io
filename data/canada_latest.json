@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-11T03:45:19Z",
-  "trade_count": 3432,
+  "last_updated": "2026-07-13T16:00:53Z",
+  "trade_count": 3433,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -52461,6 +52461,22 @@
       "qty": "63748",
       "price": "7.1423",
       "value": "455307",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4751624",
+      "trade_date": "2026-07-13",
+      "filing_date": "2026-07-13",
+      "company": "Questor Technology Inc.",
+      "ticker": "QST",
+      "insider_name": "Huizinga, Paul",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "100000",
+      "price": "0.2900",
+      "value": "28999",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
