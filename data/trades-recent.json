@@ -374,6 +374,90 @@
     "scraped_at": "2026-03-03T06:07:47.231168"
   },
   {
+    "id": "20003801321",
+    "politician_name": "Richard Larsen",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Abbott Laboratories",
+    "ticker": "ABT:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-08",
+    "trade_published": "2026-07-13",
+    "filed_after_days": "4",
+    "price": "$95.18",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Richard R Larsen IRA Description: Part of advisor-driven quarterly rebalancing",
+    "scraped_at": "2026-07-13T16:10:03.429644+00:00"
+  },
+  {
+    "id": "20003801322",
+    "politician_name": "Richard Larsen",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Amphenol Corp",
+    "ticker": "APH:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-08",
+    "trade_published": "2026-07-13",
+    "filed_after_days": "4",
+    "price": "$158.22",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Richard R Larsen IRA Description: Part of advisor-driven quarterly rebalancing",
+    "scraped_at": "2026-07-13T16:10:03.429656+00:00"
+  },
+  {
+    "id": "20003801323",
+    "politician_name": "Richard Larsen",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "McKesson Corp",
+    "ticker": "MCK:US",
+    "sector": "health-care",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-08",
+    "trade_published": "2026-07-13",
+    "filed_after_days": "4",
+    "price": "$818.66",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Richard R Larsen IRA Description: Part of advisor-driven quarterly rebalancing",
+    "scraped_at": "2026-07-13T16:10:03.429662+00:00"
+  },
+  {
+    "id": "20003801324",
+    "politician_name": "Richard Larsen",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "S&P Global Inc",
+    "ticker": "SPGI:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-08",
+    "trade_published": "2026-07-13",
+    "filed_after_days": "4",
+    "price": "$430.79",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Richard R Larsen IRA Description: Part of advisor-driven quarterly rebalancing",
+    "scraped_at": "2026-07-13T16:10:03.429667+00:00"
+  },
+  {
     "id": "20003801282",
     "politician_name": "John McGuire",
     "party": "Republican",
@@ -392,7 +476,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Merrill Lynch SEP IRA",
-    "scraped_at": "2026-07-11T03:55:03.619797+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429894+00:00"
   },
   {
     "id": "20003801281",
@@ -413,7 +497,28 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Fidelity Investments IRA",
-    "scraped_at": "2026-07-11T03:55:03.619792+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429888+00:00"
+  },
+  {
+    "id": "20003801319",
+    "politician_name": "Virginia Foxx",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "NC",
+    "company": "ELLINGTON FINANCIAL INC",
+    "ticker": "EFC:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-30",
+    "trade_published": "2026-07-13",
+    "filed_after_days": "10",
+    "price": "$22.89",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock (EFC$D) [ST]",
+    "scraped_at": "2026-07-13T16:10:03.429684+00:00"
   },
   {
     "id": "20003801316",
@@ -434,7 +539,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley",
-    "scraped_at": "2026-07-11T03:55:03.619565+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429699+00:00"
   },
   {
     "id": "10000065273",
@@ -455,7 +560,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-07-11T03:55:03.619828+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429925+00:00"
   },
   {
     "id": "20003800840",
@@ -476,7 +581,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-07-11T03:55:03.620035+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430137+00:00"
   },
   {
     "id": "20003800706",
@@ -875,7 +980,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-11T03:55:03.619621+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429727+00:00"
   },
   {
     "id": "20003801307",
@@ -896,7 +1001,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Blindspot Ventures Fund I LLC Description: Energy Storage",
-    "scraped_at": "2026-07-11T03:55:03.619630+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429736+00:00"
   },
   {
     "id": "20003801313",
@@ -917,7 +1022,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-11T03:55:03.619661+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429764+00:00"
   },
   {
     "id": "10000065272",
@@ -938,7 +1043,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-07-11T03:55:03.619823+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429919+00:00"
   },
   {
     "id": "10000065274",
@@ -959,7 +1064,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-07-11T03:55:03.619832+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429930+00:00"
   },
   {
     "id": "10000065275",
@@ -980,7 +1085,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-07-11T03:55:03.619837+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429935+00:00"
   },
   {
     "id": "20003801303",
@@ -1001,7 +1106,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-07-11T03:55:03.619610+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429716+00:00"
   },
   {
     "id": "20003801304",
@@ -1022,7 +1127,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-07-11T03:55:03.619615+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429722+00:00"
   },
   {
     "id": "20003801306",
@@ -1043,7 +1148,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-11T03:55:03.619625+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429732+00:00"
   },
   {
     "id": "20003801310",
@@ -1064,7 +1169,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-11T03:55:03.619646+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429750+00:00"
   },
   {
     "id": "10000065276",
@@ -1085,7 +1190,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Rate/Coupon: 4.5% Matures: 2029-10-01",
-    "scraped_at": "2026-07-11T03:55:03.619767+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429864+00:00"
   },
   {
     "id": "10000065270",
@@ -1106,7 +1211,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-07-11T03:55:03.619811+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429908+00:00"
   },
   {
     "id": "10000065271",
@@ -1127,7 +1232,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-11T03:55:03.619819+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429914+00:00"
   },
   {
     "id": "20003800812",
@@ -1148,7 +1253,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619894+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429992+00:00"
   },
   {
     "id": "20003800819",
@@ -1169,7 +1274,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619929+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430026+00:00"
   },
   {
     "id": "20003800841",
@@ -1253,7 +1358,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-07-11T03:55:03.620030+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430131+00:00"
   },
   {
     "id": "20003800842",
@@ -1316,7 +1421,49 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Subholding Of: Investment Fund 1 Description: Window manufacturer",
-    "scraped_at": "2026-07-11T03:55:03.619605+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429711+00:00"
+  },
+  {
+    "id": "20003801317",
+    "politician_name": "Virginia Foxx",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "NC",
+    "company": "Alliance Resource Partners LP",
+    "ticker": "ARLP:US",
+    "sector": "energy",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-18",
+    "trade_published": "2026-07-13",
+    "filed_after_days": "22",
+    "price": "$23.52",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Alliance Resource Partners, L.P. - Common Units Representing Limited Partnership Interests (ARLP) [ST]",
+    "scraped_at": "2026-07-13T16:10:03.429674+00:00"
+  },
+  {
+    "id": "20003801318",
+    "politician_name": "Virginia Foxx",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "NC",
+    "company": "ELLINGTON FINANCIAL INC",
+    "ticker": "EFC:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-18",
+    "trade_published": "2026-07-13",
+    "filed_after_days": "22",
+    "price": "$22.81",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock (EFC$D) [ST]",
+    "scraped_at": "2026-07-13T16:10:03.429679+00:00"
   },
   {
     "id": "20003801311",
@@ -1337,7 +1484,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-07-11T03:55:03.619651+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429754+00:00"
   },
   {
     "id": "20003800771",
@@ -1505,7 +1652,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Rate/Coupon: 6.95% Matures: 2054-11-30",
-    "scraped_at": "2026-07-11T03:55:03.619771+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429869+00:00"
   },
   {
     "id": "10000065278",
@@ -1526,7 +1673,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Rate/Coupon: 6.1% Matures: 2056-08-15",
-    "scraped_at": "2026-07-11T03:55:03.619775+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429873+00:00"
   },
   {
     "id": "20003800783",
@@ -2324,7 +2471,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Merrill Lynch Brokerage Account",
-    "scraped_at": "2026-07-11T03:55:03.619802+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429898+00:00"
   },
   {
     "id": "20003800811",
@@ -2345,7 +2492,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS IRA Account",
-    "scraped_at": "2026-07-11T03:55:03.619888+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429988+00:00"
   },
   {
     "id": "20003800838",
@@ -2366,7 +2513,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-07-11T03:55:03.620025+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430124+00:00"
   },
   {
     "id": "20003800790",
@@ -2495,6 +2642,27 @@
     "scraped_at": "2026-07-03T03:55:03.129789+00:00"
   },
   {
+    "id": "20003801320",
+    "politician_name": "John James",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MI",
+    "company": "SpaceX",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-12",
+    "trade_published": "2026-07-13",
+    "filed_after_days": "30",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Description: Purchase of SPCX public stock.",
+    "scraped_at": "2026-07-13T16:10:03.429607+00:00"
+  },
+  {
     "id": "20003801285",
     "politician_name": "Richard McCormick",
     "party": "Republican",
@@ -2513,7 +2681,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners IRA",
-    "scraped_at": "2026-07-11T03:55:03.619675+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429778+00:00"
   },
   {
     "id": "20003801286",
@@ -2534,7 +2702,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-07-11T03:55:03.619684+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429783+00:00"
   },
   {
     "id": "20003801287",
@@ -2555,7 +2723,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-07-11T03:55:03.619689+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429788+00:00"
   },
   {
     "id": "20003801288",
@@ -2576,7 +2744,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners IRA",
-    "scraped_at": "2026-07-11T03:55:03.619696+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429792+00:00"
   },
   {
     "id": "20003801289",
@@ -2597,7 +2765,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners IRA",
-    "scraped_at": "2026-07-11T03:55:03.619702+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429799+00:00"
   },
   {
     "id": "20003801290",
@@ -2618,7 +2786,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners IRA",
-    "scraped_at": "2026-07-11T03:55:03.619708+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429805+00:00"
   },
   {
     "id": "20003801291",
@@ -2639,7 +2807,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-07-11T03:55:03.619714+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429812+00:00"
   },
   {
     "id": "20003801292",
@@ -2660,7 +2828,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners IRA",
-    "scraped_at": "2026-07-11T03:55:03.619719+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429818+00:00"
   },
   {
     "id": "20003801293",
@@ -2681,7 +2849,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners IRA Description: ETF",
-    "scraped_at": "2026-07-11T03:55:03.619724+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429824+00:00"
   },
   {
     "id": "20003801294",
@@ -2702,7 +2870,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners IRA",
-    "scraped_at": "2026-07-11T03:55:03.619730+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429829+00:00"
   },
   {
     "id": "20003801295",
@@ -2723,7 +2891,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-07-11T03:55:03.619735+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429834+00:00"
   },
   {
     "id": "20003801296",
@@ -2744,7 +2912,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners IRA Description: ETF",
-    "scraped_at": "2026-07-11T03:55:03.619740+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429839+00:00"
   },
   {
     "id": "20003801297",
@@ -2765,7 +2933,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners IRA",
-    "scraped_at": "2026-07-11T03:55:03.619746+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429844+00:00"
   },
   {
     "id": "20003801298",
@@ -2786,7 +2954,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-07-11T03:55:03.619751+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429848+00:00"
   },
   {
     "id": "20003801299",
@@ -2807,7 +2975,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA Description: ETF",
-    "scraped_at": "2026-07-11T03:55:03.619756+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429853+00:00"
   },
   {
     "id": "20003801300",
@@ -2828,7 +2996,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners IRA Description: ETF",
-    "scraped_at": "2026-07-11T03:55:03.619761+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429858+00:00"
   },
   {
     "id": "20003800776",
@@ -2975,7 +3143,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-07-11T03:55:03.619642+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429746+00:00"
   },
   {
     "id": "20003801314",
@@ -2996,7 +3164,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-11T03:55:03.619665+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429768+00:00"
   },
   {
     "id": "20003800728",
@@ -3293,6 +3461,48 @@
     "scraped_at": "2026-07-03T03:55:03.130019+00:00"
   },
   {
+    "id": "20003801325",
+    "politician_name": "Charles Fleischmann",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "Tractor Supply Co",
+    "ticker": "TSCO:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-09",
+    "trade_published": "2026-07-13",
+    "filed_after_days": "29",
+    "price": "$29.96",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-07-13T16:10:03.429689+00:00"
+  },
+  {
+    "id": "20003801326",
+    "politician_name": "Charles Fleischmann",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "Zoetis Inc",
+    "ticker": "ZTS:US",
+    "sector": "health-care",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-09",
+    "trade_published": "2026-07-13",
+    "filed_after_days": "29",
+    "price": "$82.20",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-07-13T16:10:03.429694+00:00"
+  },
+  {
     "id": "20003801301",
     "politician_name": "Timothy Moore",
     "party": "Republican",
@@ -3311,7 +3521,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-07-11T03:55:03.619594+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429704+00:00"
   },
   {
     "id": "20003800781",
@@ -3521,7 +3731,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619900+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429996+00:00"
   },
   {
     "id": "20003800814",
@@ -3542,7 +3752,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619905+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430001+00:00"
   },
   {
     "id": "20003800815",
@@ -3563,7 +3773,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619909+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430006+00:00"
   },
   {
     "id": "20003800816",
@@ -3584,7 +3794,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619914+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430011+00:00"
   },
   {
     "id": "20003800817",
@@ -3605,7 +3815,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619921+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430017+00:00"
   },
   {
     "id": "20003800820",
@@ -3626,7 +3836,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619934+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430031+00:00"
   },
   {
     "id": "20003800821",
@@ -3647,7 +3857,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619939+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430035+00:00"
   },
   {
     "id": "20003800822",
@@ -3668,7 +3878,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619946+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430040+00:00"
   },
   {
     "id": "20003800823",
@@ -3689,7 +3899,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619951+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430045+00:00"
   },
   {
     "id": "20003800825",
@@ -3710,7 +3920,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619960+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430055+00:00"
   },
   {
     "id": "20003800826",
@@ -3731,7 +3941,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619965+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430060+00:00"
   },
   {
     "id": "20003800827",
@@ -3752,7 +3962,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619970+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430065+00:00"
   },
   {
     "id": "20003800828",
@@ -3773,7 +3983,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619975+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430072+00:00"
   },
   {
     "id": "20003800829",
@@ -3794,7 +4004,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619980+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430076+00:00"
   },
   {
     "id": "20003800830",
@@ -3815,7 +4025,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619984+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430080+00:00"
   },
   {
     "id": "20003800831",
@@ -3836,7 +4046,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619988+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430084+00:00"
   },
   {
     "id": "20003800832",
@@ -3857,7 +4067,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619994+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430089+00:00"
   },
   {
     "id": "20003800833",
@@ -3878,7 +4088,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.620000+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430094+00:00"
   },
   {
     "id": "20003800834",
@@ -3899,7 +4109,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.620005+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430103+00:00"
   },
   {
     "id": "20003800835",
@@ -3920,7 +4130,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.620009+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430108+00:00"
   },
   {
     "id": "20003800836",
@@ -3941,7 +4151,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.620014+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430113+00:00"
   },
   {
     "id": "20003800837",
@@ -3962,7 +4172,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.620020+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430118+00:00"
   },
   {
     "id": "20003800778",
@@ -4445,7 +4655,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-11T03:55:03.619636+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429741+00:00"
   },
   {
     "id": "20003800803",
@@ -4466,7 +4676,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS IRA Account",
-    "scraped_at": "2026-07-11T03:55:03.619848+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429944+00:00"
   },
   {
     "id": "20003800806",
@@ -4487,7 +4697,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS Brokerage Account",
-    "scraped_at": "2026-07-11T03:55:03.619863+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429959+00:00"
   },
   {
     "id": "20003800810",
@@ -4508,7 +4718,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS Brokerage Account",
-    "scraped_at": "2026-07-11T03:55:03.619884+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429983+00:00"
   },
   {
     "id": "20003800785",
@@ -4676,7 +4886,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-11T03:55:03.619656+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429760+00:00"
   },
   {
     "id": "20003800804",
@@ -4697,7 +4907,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS IRA Account",
-    "scraped_at": "2026-07-11T03:55:03.619853+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429950+00:00"
   },
   {
     "id": "20003800807",
@@ -4718,7 +4928,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS Brokerage Account",
-    "scraped_at": "2026-07-11T03:55:03.619869+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429965+00:00"
   },
   {
     "id": "20003800782",
@@ -4760,7 +4970,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS Brokerage Account",
-    "scraped_at": "2026-07-11T03:55:03.619842+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429940+00:00"
   },
   {
     "id": "20003800805",
@@ -4781,7 +4991,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS IRA Account",
-    "scraped_at": "2026-07-11T03:55:03.619858+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429954+00:00"
   },
   {
     "id": "20003800808",
@@ -4802,7 +5012,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS Brokerage Account",
-    "scraped_at": "2026-07-11T03:55:03.619874+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429972+00:00"
   },
   {
     "id": "20003800809",
@@ -4823,7 +5033,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS Brokerage Account",
-    "scraped_at": "2026-07-11T03:55:03.619879+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429978+00:00"
   },
   {
     "id": "20003800818",
@@ -4844,7 +5054,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619925+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430022+00:00"
   },
   {
     "id": "20003800843",
@@ -6377,7 +6587,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-11T03:55:03.619669+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429773+00:00"
   },
   {
     "id": "20003801280",
@@ -6398,7 +6608,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Fidelity Investments IRA",
-    "scraped_at": "2026-07-11T03:55:03.619786+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429883+00:00"
   },
   {
     "id": "20003801279",
@@ -6419,7 +6629,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Victoria Kelly Trust ICA",
-    "scraped_at": "2026-07-11T03:55:03.619806+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429903+00:00"
   },
   {
     "id": "20003800824",
@@ -6440,7 +6650,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-07-11T03:55:03.619955+00:00"
+    "scraped_at": "2026-07-13T16:10:03.430049+00:00"
   },
   {
     "id": "20003800787",
@@ -31160,27 +31370,6 @@
     "scraped_at": "2026-05-01T14:13:21.187611+00:00"
   },
   {
-    "id": "10000064889",
-    "politician_name": "Shelley Moore Capito",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "WV",
-    "company": "Mastercard Inc",
-    "ticker": "MA:US",
-    "sector": "financials",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-28",
-    "trade_published": "2026-04-12",
-    "filed_after_days": "15",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-04-30T13:01:15.370698+00:00"
-  },
-  {
     "id": "20003797435",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -34454,7 +34643,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-07-11T03:55:03.619780+00:00"
+    "scraped_at": "2026-07-13T16:10:03.429878+00:00"
   },
   {
     "politician_name": "Steve Cohen",
