@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T14:08:53Z",
-  "trade_count": 8312,
+  "last_updated": "2026-07-13T17:07:24Z",
+  "trade_count": 8317,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -132993,6 +132993,86 @@
       "delta_own": "+100%",
       "value": "261000",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "12:02",
+      "trade_date": "2026-07-07",
+      "ticker": "HTO",
+      "company": "H2O America",
+      "insider_name": "Atlas Infrastructure Partners (Uk) Ltd.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "62.03",
+      "qty": "2784",
+      "owned": "4615265",
+      "delta_own": "0%",
+      "value": "172692",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "11:49",
+      "trade_date": "2026-07-10",
+      "ticker": "CMC",
+      "company": "Commercial Metals Co",
+      "insider_name": "Matt Peter R",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "61.30",
+      "qty": "8230",
+      "owned": "181522",
+      "delta_own": "+5%",
+      "value": "504499",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "11:34",
+      "trade_date": "2026-07-10",
+      "ticker": "TOI",
+      "company": "Oncology Institute, Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "5.85",
+      "qty": "15000",
+      "owned": "10630858",
+      "delta_own": "0%",
+      "value": "87750",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "10:30",
+      "trade_date": "2026-07-09",
+      "ticker": "ADIL",
+      "company": "Adial Pharmaceuticals, Inc.",
+      "insider_name": "Coastlands Capital LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.78",
+      "qty": "11753",
+      "owned": "385075",
+      "delta_own": "+3%",
+      "value": "32638",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "10:28",
+      "trade_date": "2026-06-22",
+      "ticker": "CNTM",
+      "company": "Connectm Technology Solutions, Inc.",
+      "insider_name": "Choudhury Mahesh",
+      "title": "Principal Financial Officer",
+      "trade_type": "P - Purchase",
+      "price": "8.77",
+      "qty": "3622",
+      "owned": "40814",
+      "delta_own": "+10%",
+      "value": "31766",
+      "cluster_buy": false
     }
   ]
 }
