@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T11:52:47Z",
-  "trade_count": 8309,
+  "last_updated": "2026-07-13T14:08:53Z",
+  "trade_count": 8312,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -132945,6 +132945,54 @@
       "delta_own": "+367%",
       "value": "2445000",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "08:38",
+      "trade_date": "2026-07-10",
+      "ticker": "IPX",
+      "company": "Iperionx Ltd",
+      "insider_name": "Arima Anastasios",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.58",
+      "qty": "138720",
+      "owned": "13194078",
+      "delta_own": "+1%",
+      "value": "497228",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "08:16",
+      "trade_date": "2026-07-10",
+      "ticker": "IPX",
+      "company": "Iperionx Ltd",
+      "insider_name": "Hannigan Todd",
+      "title": "Exec COB",
+      "trade_type": "P - Purchase",
+      "price": "3.58",
+      "qty": "525000",
+      "owned": "27087798",
+      "delta_own": "+2%",
+      "value": "1881165",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "08:00",
+      "trade_date": "2026-07-09",
+      "ticker": "PRQR",
+      "company": "Proqr Therapeutics N.V.",
+      "insider_name": "De Boer Daniel Anton",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.74",
+      "qty": "150000",
+      "owned": "300000",
+      "delta_own": "+100%",
+      "value": "261000",
+      "cluster_buy": true
     }
   ]
 }
