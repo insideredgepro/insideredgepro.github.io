@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-14T19:04:14Z",
-  "trade_count": 8327,
+  "last_updated": "2026-07-14T20:50:54Z",
+  "trade_count": 8329,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -133232,6 +133232,38 @@
       "owned": "8890000",
       "delta_own": "0%",
       "value": "131420",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-14",
+      "filing_time": "16:15",
+      "trade_date": "2026-06-18",
+      "ticker": "GLBS",
+      "company": "Globus Maritime Ltd",
+      "insider_name": "Feidakis Georgios",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.73",
+      "qty": "221166",
+      "owned": "6578633",
+      "delta_own": "+3%",
+      "value": "602887",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-14",
+      "filing_time": "15:57",
+      "trade_date": "2026-07-13",
+      "ticker": "BXSY",
+      "company": "Bexil Investment Trust",
+      "insider_name": "Winmill & Co. Inc",
+      "title": "See \"Explanation of Responses\"",
+      "trade_type": "P - Purchase",
+      "price": "17.04",
+      "qty": "4500",
+      "owned": "235556",
+      "delta_own": "+2%",
+      "value": "76680",
       "cluster_buy": false
     }
   ]
