@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-14",
-  "entry_count": 1504,
+  "entry_count": 1506,
   "entries": [
     {
       "id": "US|EQPT|2026-05-15|bhatia naveen|24.22",
@@ -81238,6 +81238,46 @@
       },
       "latest_price": 17.05,
       "return_pct": 0.06,
+      "last_snapshot": "2026-07-14"
+    },
+    {
+      "id": "US|NTSK|2026-07-10|griffith william j.g.|12.29",
+      "market": "US",
+      "ticker": "NTSK",
+      "yf_symbol": "NTSK",
+      "company": "Netskope Inc",
+      "insider_name": "Griffith William J.G.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-07-10",
+      "trade_price": 12.29,
+      "value": 3765698.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-14": 14.27
+      },
+      "latest_price": 14.27,
+      "return_pct": 16.11,
+      "last_snapshot": "2026-07-14"
+    },
+    {
+      "id": "US|NTSK|2026-07-10|iconiq strategic partners viii holdings, l.p.|12.29",
+      "market": "US",
+      "ticker": "NTSK",
+      "yf_symbol": "NTSK",
+      "company": "Netskope Inc",
+      "insider_name": "Iconiq Strategic Partners VIII Holdings, L.P.",
+      "title": "10%",
+      "trade_date": "2026-07-10",
+      "trade_price": 12.29,
+      "value": 3765698.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-14": 14.27
+      },
+      "latest_price": 14.27,
+      "return_pct": 16.11,
       "last_snapshot": "2026-07-14"
     }
   ]
