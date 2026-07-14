@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-13",
-  "entry_count": 1563,
+  "entry_count": 1565,
   "entries": [
     {
       "id": "US|TONX|2026-05-14|olsen sarah josephine|3.62",
@@ -84579,6 +84579,46 @@
       },
       "latest_price": 2.44,
       "return_pct": 0.83,
+      "last_snapshot": "2026-07-13"
+    },
+    {
+      "id": "US|YEXT|2026-07-13|englander daniel j|5.22",
+      "market": "US",
+      "ticker": "YEXT",
+      "yf_symbol": "YEXT",
+      "company": "Yext, Inc.",
+      "insider_name": "Englander Daniel J",
+      "title": "Dir",
+      "trade_date": "2026-07-13",
+      "trade_price": 5.22,
+      "value": 397910.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-13": 5.21
+      },
+      "latest_price": 5.21,
+      "return_pct": -0.19,
+      "last_snapshot": "2026-07-13"
+    },
+    {
+      "id": "US|GGAL|2026-07-07|moret silvestre vila|5.4",
+      "market": "US",
+      "ticker": "GGAL",
+      "yf_symbol": "GGAL",
+      "company": "Grupo Financiero Galicia Sa",
+      "insider_name": "Moret Silvestre Vila",
+      "title": "Dir",
+      "trade_date": "2026-07-07",
+      "trade_price": 5.4,
+      "value": 2160639.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-13": 51.41
+      },
+      "latest_price": 51.41,
+      "return_pct": 852.04,
       "last_snapshot": "2026-07-13"
     }
   ]

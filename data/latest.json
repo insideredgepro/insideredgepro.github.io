@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T23:43:51Z",
-  "trade_count": 8324,
+  "last_updated": "2026-07-14T01:41:34Z",
+  "trade_count": 8326,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -133184,6 +133184,38 @@
       "owned": "2790103",
       "delta_own": "+3%",
       "value": "222070",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "20:33",
+      "trade_date": "2026-07-13",
+      "ticker": "YEXT",
+      "company": "Yext, Inc.",
+      "insider_name": "Englander Daniel J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "5.22",
+      "qty": "76190",
+      "owned": "141190",
+      "delta_own": "+117%",
+      "value": "397910",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-13",
+      "filing_time": "19:46",
+      "trade_date": "2026-07-07",
+      "ticker": "GGAL",
+      "company": "Grupo Financiero Galicia Sa",
+      "insider_name": "Moret Silvestre Vila",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "5.40",
+      "qty": "399824",
+      "owned": "3000000",
+      "delta_own": "+15%",
+      "value": "2160639",
       "cluster_buy": false
     }
   ]
