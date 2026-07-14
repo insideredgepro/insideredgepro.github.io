@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-14T13:11:30Z",
-  "trade_count": 8326,
+  "last_updated": "2026-07-14T15:16:55Z",
+  "trade_count": 8327,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -133216,6 +133216,22 @@
       "owned": "3000000",
       "delta_own": "+15%",
       "value": "2160639",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-14",
+      "filing_time": "10:47",
+      "trade_date": "2026-07-10",
+      "ticker": "BUKS",
+      "company": "Butler National Corp",
+      "insider_name": "Daly Joseph Patrick",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "4.38",
+      "qty": "30000",
+      "owned": "8890000",
+      "delta_own": "0%",
+      "value": "131420",
       "cluster_buy": false
     }
   ]
