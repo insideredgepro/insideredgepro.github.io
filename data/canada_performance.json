@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-13",
-  "entry_count": 390,
+  "entry_count": 391,
   "entries": [
     {
       "id": "CA|DIGI.CN|2026-05-14|sutton, brayden robert|0.03",
@@ -17865,6 +17865,26 @@
       },
       "latest_price": 77.97,
       "return_pct": 46.62,
+      "last_snapshot": "2026-07-13"
+    },
+    {
+      "id": "CA|DB|2026-07-13|dym, shawn lawrence|0.11",
+      "market": "CA",
+      "ticker": "DB",
+      "yf_symbol": "DB.V",
+      "company": "Decibel Cannabis Company Inc.",
+      "insider_name": "Dym, Shawn Lawrence",
+      "title": "Director",
+      "trade_date": "2026-07-13",
+      "trade_price": 0.11,
+      "value": 43725.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-07-13": 0.115
+      },
+      "latest_price": 0.115,
+      "return_pct": 4.55,
       "last_snapshot": "2026-07-13"
     }
   ]

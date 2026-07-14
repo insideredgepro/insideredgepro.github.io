@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T22:00:21Z",
-  "trade_count": 3434,
+  "last_updated": "2026-07-14T03:45:19Z",
+  "trade_count": 3435,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -52493,6 +52493,22 @@
       "qty": "662",
       "price": "53.1800",
       "value": "35205",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4751984",
+      "trade_date": "2026-07-13",
+      "filing_date": "2026-07-13",
+      "company": "Decibel Cannabis Company Inc.",
+      "ticker": "DB",
+      "insider_name": "Dym, Shawn Lawrence",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "397500",
+      "price": "0.1100",
+      "value": "43725",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
