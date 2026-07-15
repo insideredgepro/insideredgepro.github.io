@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-14",
-  "entry_count": 1507,
+  "entry_count": 1509,
   "entries": [
     {
       "id": "US|EQPT|2026-05-15|bhatia naveen|24.22",
@@ -81298,6 +81298,46 @@
       },
       "latest_price": 9.35,
       "return_pct": 4.35,
+      "last_snapshot": "2026-07-14"
+    },
+    {
+      "id": "US|NMM|2026-07-10|frangou angeliki|75.45",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-07-10",
+      "trade_price": 75.45,
+      "value": 251556.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-14": 74.52
+      },
+      "latest_price": 74.52,
+      "return_pct": -1.23,
+      "last_snapshot": "2026-07-14"
+    },
+    {
+      "id": "US|JCTC|2026-07-13|ajb investment fund ii, lp|2.63",
+      "market": "US",
+      "ticker": "JCTC",
+      "yf_symbol": "JCTC",
+      "company": "Jewett Cameron Trading Co Ltd",
+      "insider_name": "Ajb Investment Fund Ii, LP",
+      "title": "10%",
+      "trade_date": "2026-07-13",
+      "trade_price": 2.63,
+      "value": 30884.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-14": 2.65
+      },
+      "latest_price": 2.65,
+      "return_pct": 0.76,
       "last_snapshot": "2026-07-14"
     }
   ]

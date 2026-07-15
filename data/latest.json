@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-14T23:42:34Z",
-  "trade_count": 8332,
+  "last_updated": "2026-07-15T01:27:34Z",
+  "trade_count": 8334,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -133313,6 +133313,38 @@
       "delta_own": "0%",
       "value": "194040",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-14",
+      "filing_time": "21:15",
+      "trade_date": "2026-07-10",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "75.45",
+      "qty": "3334",
+      "owned": "5757855",
+      "delta_own": "0%",
+      "value": "251556",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-14",
+      "filing_time": "20:46",
+      "trade_date": "2026-07-13",
+      "ticker": "JCTC",
+      "company": "Jewett Cameron Trading Co Ltd",
+      "insider_name": "Ajb Investment Fund Ii, LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.63",
+      "qty": "11754",
+      "owned": "428158",
+      "delta_own": "+3%",
+      "value": "30884",
+      "cluster_buy": true
     }
   ]
 }
