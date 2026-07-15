@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-14T22:00:23Z",
-  "trade_count": 3440,
+  "last_updated": "2026-07-15T03:45:20Z",
+  "trade_count": 3445,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -52527,7 +52527,7 @@
       "value": "25500",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4752219",
@@ -52592,6 +52592,86 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4752405",
+      "trade_date": "2026-07-14",
+      "filing_date": "2026-07-14",
+      "company": "Greenfire Resources Ltd.",
+      "ticker": "GFR",
+      "insider_name": "Ebbern, Thomas William",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "8.5100",
+      "value": "170200",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4752435",
+      "trade_date": "2026-07-14",
+      "filing_date": "2026-07-14",
+      "company": "Jewett-Cameron Trading Company Ltd.",
+      "ticker": "JCTC",
+      "insider_name": "AJB Capital",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "10768",
+      "price": "2.6300",
+      "value": "28319",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4752433",
+      "trade_date": "2026-07-14",
+      "filing_date": "2026-07-14",
+      "company": "Jewett-Cameron Trading Company Ltd.",
+      "ticker": "JCTC",
+      "insider_name": "AJB Investment Fund II, LP",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "10768",
+      "price": "2.6300",
+      "value": "28319",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4752437",
+      "trade_date": "2026-07-14",
+      "filing_date": "2026-07-14",
+      "company": "Jewett-Cameron Trading Company Ltd.",
+      "ticker": "JCTC",
+      "insider_name": "Bradley, Adam",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "10768",
+      "price": "2.6300",
+      "value": "28319",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4752439",
+      "trade_date": "2026-07-14",
+      "filing_date": "2026-07-14",
+      "company": "Jewett-Cameron Trading Company Ltd.",
+      "ticker": "JCTC",
+      "insider_name": "Bradley, Melinda",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "10768",
+      "price": "2.6300",
+      "value": "28319",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-14",
-  "entry_count": 371,
+  "entry_count": 376,
   "entries": [
     {
       "id": "CA|CNR|2026-05-15|howell, justin m.|111.05",
@@ -7307,8 +7307,8 @@
         "2026-07-13": 0.85,
         "2026-07-14": 0.825
       },
-      "latest_price": 0.825,
-      "return_pct": -2.94,
+      "latest_price": 0.83,
+      "return_pct": -2.35,
       "last_snapshot": "2026-07-14"
     },
     {
@@ -16773,6 +16773,98 @@
       "latest_price": 11.17,
       "return_pct": -0.66,
       "last_snapshot": "2026-07-14"
+    },
+    {
+      "id": "CA|GFR|2026-07-14|ebbern, thomas william|8.51",
+      "market": "CA",
+      "ticker": "GFR",
+      "yf_symbol": "GFR.TO",
+      "company": "Greenfire Resources Ltd.",
+      "insider_name": "Ebbern, Thomas William",
+      "title": "Director",
+      "trade_date": "2026-07-14",
+      "trade_price": 8.51,
+      "value": 170200.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-07-14": 8.57
+      },
+      "latest_price": 8.57,
+      "return_pct": 0.71,
+      "last_snapshot": "2026-07-14"
+    },
+    {
+      "id": "CA|JCTC|2026-07-14|ajb capital|2.63",
+      "market": "CA",
+      "ticker": "JCTC",
+      "yf_symbol": "JCTC.TO",
+      "company": "Jewett-Cameron Trading Company Ltd.",
+      "insider_name": "AJB Capital",
+      "title": "10% Holder",
+      "trade_date": "2026-07-14",
+      "trade_price": 2.63,
+      "value": 28319.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "CA|JCTC|2026-07-14|ajb investment fund ii, lp|2.63",
+      "market": "CA",
+      "ticker": "JCTC",
+      "yf_symbol": "JCTC.TO",
+      "company": "Jewett-Cameron Trading Company Ltd.",
+      "insider_name": "AJB Investment Fund II, LP",
+      "title": "10% Holder",
+      "trade_date": "2026-07-14",
+      "trade_price": 2.63,
+      "value": 28319.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "CA|JCTC|2026-07-14|bradley, adam|2.63",
+      "market": "CA",
+      "ticker": "JCTC",
+      "yf_symbol": "JCTC.TO",
+      "company": "Jewett-Cameron Trading Company Ltd.",
+      "insider_name": "Bradley, Adam",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-07-14",
+      "trade_price": 2.63,
+      "value": 28319.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "CA|JCTC|2026-07-14|bradley, melinda|2.63",
+      "market": "CA",
+      "ticker": "JCTC",
+      "yf_symbol": "JCTC.TO",
+      "company": "Jewett-Cameron Trading Company Ltd.",
+      "insider_name": "Bradley, Melinda",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-07-14",
+      "trade_price": 2.63,
+      "value": 28319.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
     }
   ]
 }
