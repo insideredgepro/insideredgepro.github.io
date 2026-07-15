@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15T16:00:18Z",
-  "trade_count": 3445,
+  "last_updated": "2026-07-15T22:00:18Z",
+  "trade_count": 3448,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -52672,6 +52672,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4752654",
+      "trade_date": "2026-07-15",
+      "filing_date": "2026-07-15",
+      "company": "ILLUMISOFT LIGHTING CORP.",
+      "ticker": "UVC",
+      "insider_name": "Agahi, Ehsan",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "0.7500",
+      "value": "15000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4752638",
+      "trade_date": "2026-07-15",
+      "filing_date": "2026-07-15",
+      "company": "Kraken Robotics Inc.",
+      "ticker": "PNG",
+      "insider_name": "Reid, Gregory Michael",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "6.1799",
+      "value": "123598",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4752662",
+      "trade_date": "2026-07-15",
+      "filing_date": "2026-07-15",
+      "company": "PrairieSky Royalty Ltd.",
+      "ticker": "PSK",
+      "insider_name": "McKenzie, Margaret Anne",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "4550",
+      "price": "33.6169",
+      "value": "152956",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
