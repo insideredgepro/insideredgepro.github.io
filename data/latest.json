@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15T22:50:25Z",
-  "trade_count": 8366,
+  "last_updated": "2026-07-15T23:51:30Z",
+  "trade_count": 8367,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -133856,6 +133856,22 @@
       "owned": "508936",
       "delta_own": "0%",
       "value": "124819",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-15",
+      "filing_time": "19:50",
+      "trade_date": "2026-07-13",
+      "ticker": "FULC",
+      "company": "Fulcrum Therapeutics, Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "3.57",
+      "qty": "249946",
+      "owned": "6913329",
+      "delta_own": "+4%",
+      "value": "891067",
       "cluster_buy": false
     }
   ]

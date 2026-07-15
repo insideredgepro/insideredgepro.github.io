@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-15",
-  "entry_count": 1454,
+  "entry_count": 1455,
   "entries": [
     {
       "id": "US|KRO|2026-05-18|kramer kevin b|6.75",
@@ -76894,6 +76894,26 @@
       },
       "latest_price": 77.215,
       "return_pct": 4.85,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|FULC|2026-07-13|tang kevin|3.57",
+      "market": "US",
+      "ticker": "FULC",
+      "yf_symbol": "FULC",
+      "company": "Fulcrum Therapeutics, Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "10%",
+      "trade_date": "2026-07-13",
+      "trade_price": 3.57,
+      "value": 891067.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 3.56
+      },
+      "latest_price": 3.56,
+      "return_pct": -0.28,
       "last_snapshot": "2026-07-15"
     }
   ]
