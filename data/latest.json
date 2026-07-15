@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15T18:56:21Z",
-  "trade_count": 8364,
+  "last_updated": "2026-07-15T20:04:31Z",
+  "trade_count": 8365,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -132496,7 +132496,7 @@
       "owned": "20000",
       "delta_own": "+33%",
       "value": "82912",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-07-10",
@@ -132672,7 +132672,7 @@
       "owned": "20000",
       "delta_own": "+33%",
       "value": "82913",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-07-10",
@@ -133825,6 +133825,22 @@
       "delta_own": "+1%",
       "value": "2020832",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-15",
+      "filing_time": "16:01",
+      "trade_date": "2026-07-14",
+      "ticker": "HNRG",
+      "company": "Hallador Energy Co",
+      "insider_name": "Sugg Barbara Ann",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "17.13",
+      "qty": "5000",
+      "owned": "5000",
+      "delta_own": "New",
+      "value": "85648",
+      "cluster_buy": true
     }
   ]
 }

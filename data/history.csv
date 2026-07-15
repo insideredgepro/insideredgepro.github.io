@@ -8286,7 +8286,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-10,17:02,2026-07-10,GLOO,"Gloo Holdings, Inc.",Beck Scott Arthur,President and CEO,P - Purchase,3.25,1076923,1523309,+241%,3500000,True
 2026-07-10,16:56,2026-07-10,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management Ll,10% Owner,P - Purchase,5.09,5000,2154073,+0%,25456,True
 2026-07-10,16:56,2026-07-09,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management Ll,10% Owner,P - Purchase,5.13,5000,2149073,+0%,25628,True
-2026-07-10,16:42,2026-07-09,HNRG,Hallador Energy Co,Hudson Daniel Timothy,Director,P - Purchase,16.58,5000,20000,+33%,82912,False
+2026-07-10,16:42,2026-07-09,HNRG,Hallador Energy Co,Hudson Daniel Timothy,Director,P - Purchase,16.58,5000,20000,+33%,82912,True
 2026-07-10,18:14,2026-07-09,PALI,"Palisade Bio, Inc.",Baltera Robert Jr.,Director,P - Purchase,1.96,25000,461904,+6%,48900,False
 2026-07-10,18:14,2026-07-08,PALI,"Palisade Bio, Inc.",Baltera Robert Jr.,Director,P - Purchase,1.99,20000,436904,+5%,39798,False
 2026-07-10,19:39,2026-07-08,NTSK,Netskope Inc,Iconiq Strategic Partners Viii,10% Owner,P - Purchase,11.82,610291,610291,New,7216049,True
@@ -8297,7 +8297,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-10,18:08,2026-06-30,BGDE,"Big Digital Energy, Inc.","Endeavor Blockchain, LLC",10%,P - Purchase,1000.00,16700,16700,New,16700000,True
 2026-07-10,17:29,2026-07-09,AVO,"Mission Produce, Inc.",Globalharvest Holdings Venture Ltd,10%,P - Purchase,13.28,592957,12963396,+5%,7874469,True
 2026-07-10,16:56,2026-07-09,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.11,10000,2848395,0%,51084,True
-2026-07-10,16:42,2026-07-09,HNRG,Hallador Energy Co,Hudson Daniel Timothy,Dir,P - Purchase,16.58,5000,20000,+33%,82913,False
+2026-07-10,16:42,2026-07-09,HNRG,Hallador Energy Co,Hudson Daniel Timothy,Dir,P - Purchase,16.58,5000,20000,+33%,82913,True
 2026-07-10,16:41,2026-07-08,SLGL,Sol-Gel Technologies Ltd.,Opaleye Management Inc.,10%,P - Purchase,73.80,529,507241,0%,39042,False
 2026-07-10,07:30,2026-07-08,WRAP,"Wrap Technologies, Inc.",Cohen Scot,"Exec COB, CEO, 10%",P - Purchase,1.10,209353,6798908,+3%,230288,True
 2026-07-09,21:31,2026-06-30,NYC,American Strategic Investment Co.,Schorsch Nicholas S,10%,P - Purchase,9.53,8000,2120646,0%,76240,False
@@ -8370,3 +8370,4 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-13,06:51,2026-07-06,COE,51Talk Online Education Group,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,16.46,165420,29970300,+1%,2722813,False
 2026-07-15,09:33,2026-07-14,STIM,"Neuronetics, Inc.",Chernett Jorey,10%,P - Purchase,1.78,35000,10588988,0%,62300,False
 2026-07-15,14:50,2026-07-13,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10%,P - Purchase,20.21,100000,7580000,+1%,2020832,False
+2026-07-15,16:01,2026-07-14,HNRG,Hallador Energy Co,Sugg Barbara Ann,Dir,P - Purchase,17.13,5000,5000,New,85648,True
