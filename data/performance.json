@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-15",
-  "entry_count": 1423,
+  "entry_count": 1450,
   "entries": [
     {
       "id": "US|KRO|2026-05-18|kramer kevin b|6.75",
@@ -76274,6 +76274,546 @@
       },
       "latest_price": 2.56,
       "return_pct": -2.66,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|NMM|2026-07-14|frangou angeliki|75.58",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_date": "2026-07-14",
+      "trade_price": 75.58,
+      "value": 83514.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 75.41
+      },
+      "latest_price": 75.41,
+      "return_pct": -0.22,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|NMM|2026-07-13|frangou angeliki|75.41",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_date": "2026-07-13",
+      "trade_price": 75.41,
+      "value": 82956.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 75.41
+      },
+      "latest_price": 75.41,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|NMM|2026-07-10|frangou angeliki|75.36",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks",
+      "trade_date": "2026-07-10",
+      "trade_price": 75.36,
+      "value": 85086.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 75.41
+      },
+      "latest_price": 75.41,
+      "return_pct": 0.07,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|JCTC|2026-07-14|ajb investment fund ii, lp|2.63",
+      "market": "US",
+      "ticker": "JCTC",
+      "yf_symbol": "JCTC",
+      "company": "Jewett Cameron Trading Co Ltd",
+      "insider_name": "Ajb Investment Fund Ii, Lp",
+      "title": "10% Owner",
+      "trade_date": "2026-07-14",
+      "trade_price": 2.63,
+      "value": 28359.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 2.56
+      },
+      "latest_price": 2.56,
+      "return_pct": -2.66,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|ARTV|2026-07-13|ra capital management, l.p.|8.94",
+      "market": "US",
+      "ticker": "ARTV",
+      "yf_symbol": "ARTV",
+      "company": "Artiva Biotherapeutics, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "Director",
+      "trade_date": "2026-07-13",
+      "trade_price": 8.94,
+      "value": 58575.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 9.35
+      },
+      "latest_price": 9.35,
+      "return_pct": 4.59,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|ARTV|2026-07-10|ra capital management, l.p.|8.97",
+      "market": "US",
+      "ticker": "ARTV",
+      "yf_symbol": "ARTV",
+      "company": "Artiva Biotherapeutics, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "Director",
+      "trade_date": "2026-07-10",
+      "trade_price": 8.97,
+      "value": 135465.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 9.35
+      },
+      "latest_price": 9.35,
+      "return_pct": 4.24,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|NTSK|2026-07-13|griffith william j.g.|12.42",
+      "market": "US",
+      "ticker": "NTSK",
+      "yf_symbol": "NTSK",
+      "company": "Netskope Inc",
+      "insider_name": "Griffith William J.G.",
+      "title": "Director",
+      "trade_date": "2026-07-13",
+      "trade_price": 12.42,
+      "value": 804546.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 14.27
+      },
+      "latest_price": 14.27,
+      "return_pct": 14.9,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|NTSK|2026-07-10|griffith william j.g.|12.26",
+      "market": "US",
+      "ticker": "NTSK",
+      "yf_symbol": "NTSK",
+      "company": "Netskope Inc",
+      "insider_name": "Griffith William J.G.",
+      "title": "Director",
+      "trade_date": "2026-07-10",
+      "trade_price": 12.26,
+      "value": 2961151.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 14.27
+      },
+      "latest_price": 14.27,
+      "return_pct": 16.39,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|NTSK|2026-07-13|iconiq strategic partners viii|12.42",
+      "market": "US",
+      "ticker": "NTSK",
+      "yf_symbol": "NTSK",
+      "company": "Netskope Inc",
+      "insider_name": "Iconiq Strategic Partners Viii",
+      "title": "10% Owner",
+      "trade_date": "2026-07-13",
+      "trade_price": 12.42,
+      "value": 804546.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 14.27
+      },
+      "latest_price": 14.27,
+      "return_pct": 14.9,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|NTSK|2026-07-10|iconiq strategic partners viii|12.26",
+      "market": "US",
+      "ticker": "NTSK",
+      "yf_symbol": "NTSK",
+      "company": "Netskope Inc",
+      "insider_name": "Iconiq Strategic Partners Viii",
+      "title": "10% Owner",
+      "trade_date": "2026-07-10",
+      "trade_price": 12.26,
+      "value": 2961151.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 14.27
+      },
+      "latest_price": 14.27,
+      "return_pct": 16.39,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|GLBS|2026-07-13|feidakis georgios|2.75",
+      "market": "US",
+      "ticker": "GLBS",
+      "yf_symbol": "GLBS",
+      "company": "Globus Maritime Ltd",
+      "insider_name": "Feidakis Georgios",
+      "title": "Director",
+      "trade_date": "2026-07-13",
+      "trade_price": 2.75,
+      "value": 315606.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 2.77
+      },
+      "latest_price": 2.77,
+      "return_pct": 0.73,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|GLBS|2026-06-18|feidakis georgios|2.7",
+      "market": "US",
+      "ticker": "GLBS",
+      "yf_symbol": "GLBS",
+      "company": "Globus Maritime Ltd",
+      "insider_name": "Feidakis Georgios",
+      "title": "Director",
+      "trade_date": "2026-06-18",
+      "trade_price": 2.7,
+      "value": 287280.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 2.77
+      },
+      "latest_price": 2.77,
+      "return_pct": 2.59,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|GGAL|2026-07-08|moret silvestre vila|5.36",
+      "market": "US",
+      "ticker": "GGAL",
+      "yf_symbol": "GGAL",
+      "company": "Grupo Financiero Galicia S.A.",
+      "insider_name": "Moret Silvestre Vila",
+      "title": "Director",
+      "trade_date": "2026-07-08",
+      "trade_price": 5.36,
+      "value": 1200640.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 51.41
+      },
+      "latest_price": 51.41,
+      "return_pct": 859.14,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|GGAL|2026-07-07|moret silvestre vila|5.46",
+      "market": "US",
+      "ticker": "GGAL",
+      "yf_symbol": "GGAL",
+      "company": "Grupo Financiero Galicia S.A.",
+      "insider_name": "Moret Silvestre Vila",
+      "title": "Director",
+      "trade_date": "2026-07-07",
+      "trade_price": 5.46,
+      "value": 959999.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 51.41
+      },
+      "latest_price": 51.41,
+      "return_pct": 841.58,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|COHN|2026-07-10|columbus circle 3 sponsor corp|10.0",
+      "market": "US",
+      "ticker": "COHN",
+      "yf_symbol": "COHN",
+      "company": "Cohen & Company Inc.",
+      "insider_name": "Columbus Circle 3 Sponsor Corp",
+      "title": "10% Owner",
+      "trade_date": "2026-07-10",
+      "trade_price": 10.0,
+      "value": 2650000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 13.6
+      },
+      "latest_price": 13.6,
+      "return_pct": 36.0,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|CCCTU|2026-07-10|columbus circle 3 sponsor corp|10.0",
+      "market": "US",
+      "ticker": "CCCTU",
+      "yf_symbol": "CCCTU",
+      "company": "Columbus Circle Capital Corp III",
+      "insider_name": "Columbus Circle 3 Sponsor Corp",
+      "title": "10% Owner",
+      "trade_date": "2026-07-10",
+      "trade_price": 10.0,
+      "value": 2650000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 10.02
+      },
+      "latest_price": 10.02,
+      "return_pct": 0.2,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|BOLD|2026-07-13|tang kevin|2.42",
+      "market": "US",
+      "ticker": "BOLD",
+      "yf_symbol": "BOLD",
+      "company": "Boundless Bio, Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "10% Owner",
+      "trade_date": "2026-07-13",
+      "trade_price": 2.42,
+      "value": 116671.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 2.46
+      },
+      "latest_price": 2.46,
+      "return_pct": 1.65,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|BOLD|2026-07-10|tang kevin|2.43",
+      "market": "US",
+      "ticker": "BOLD",
+      "yf_symbol": "BOLD",
+      "company": "Boundless Bio, Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "10% Owner",
+      "trade_date": "2026-07-10",
+      "trade_price": 2.43,
+      "value": 105382.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 2.46
+      },
+      "latest_price": 2.46,
+      "return_pct": 1.23,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|ENR|2026-07-10|aqua capital, ltd.|20.67",
+      "market": "US",
+      "ticker": "ENR",
+      "yf_symbol": "ENR",
+      "company": "Energizer Holdings, Inc.",
+      "insider_name": "Aqua Capital, Ltd.",
+      "title": "10% Owner",
+      "trade_date": "2026-07-10",
+      "trade_price": 20.67,
+      "value": 826700.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 20.41
+      },
+      "latest_price": 20.41,
+      "return_pct": -1.26,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|ENR|2026-07-09|aqua capital, ltd.|20.34",
+      "market": "US",
+      "ticker": "ENR",
+      "yf_symbol": "ENR",
+      "company": "Energizer Holdings, Inc.",
+      "insider_name": "Aqua Capital, Ltd.",
+      "title": "10% Owner",
+      "trade_date": "2026-07-09",
+      "trade_price": 20.34,
+      "value": 406870.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 20.41
+      },
+      "latest_price": 20.41,
+      "return_pct": 0.34,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|SHPH|2026-07-09|hrt financial lp|3.38",
+      "market": "US",
+      "ticker": "SHPH",
+      "yf_symbol": "SHPH",
+      "company": "Shuttle Pharmaceuticals Holdings, Inc.",
+      "insider_name": "Hrt Financial Lp",
+      "title": "10% Owner",
+      "trade_date": "2026-07-09",
+      "trade_price": 3.38,
+      "value": 27939.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 4.16
+      },
+      "latest_price": 4.16,
+      "return_pct": 23.08,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|EOI|2026-07-13|gaffney charles|20.11",
+      "market": "US",
+      "ticker": "EOI",
+      "yf_symbol": "EOI",
+      "company": "Eaton Vance Enhanced Equity Income Fund",
+      "insider_name": "Gaffney Charles",
+      "title": "Portfolio Manager",
+      "trade_date": "2026-07-13",
+      "trade_price": 20.11,
+      "value": 502705.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 19.91
+      },
+      "latest_price": 19.91,
+      "return_pct": -0.99,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|ADIL|2026-07-09|coastlands capital lp|2.79",
+      "market": "US",
+      "ticker": "ADIL",
+      "yf_symbol": "ADIL",
+      "company": "Adial Pharmaceuticals, Inc.",
+      "insider_name": "Coastlands Capital Lp",
+      "title": "10% Owner",
+      "trade_date": "2026-07-09",
+      "trade_price": 2.79,
+      "value": 28048.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 2.65
+      },
+      "latest_price": 2.65,
+      "return_pct": -5.02,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|IPX|2026-07-13|hannigan todd|3.59",
+      "market": "US",
+      "ticker": "IPX",
+      "yf_symbol": "IPX",
+      "company": "Iperionx Ltd",
+      "insider_name": "Hannigan Todd",
+      "title": "Executive Chairman",
+      "trade_date": "2026-07-13",
+      "trade_price": 3.59,
+      "value": 1075980.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 25.49
+      },
+      "latest_price": 25.49,
+      "return_pct": 610.03,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|COE|2026-07-08|huang jack jiajia|16.45",
+      "market": "US",
+      "ticker": "COE",
+      "yf_symbol": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-07-08",
+      "trade_price": 16.45,
+      "value": 3057726.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 16.34
+      },
+      "latest_price": 16.34,
+      "return_pct": -0.67,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|COE|2026-07-07|huang jack jiajia|16.72",
+      "market": "US",
+      "ticker": "COE",
+      "yf_symbol": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-07-07",
+      "trade_price": 16.72,
+      "value": 3532267.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 16.34
+      },
+      "latest_price": 16.34,
+      "return_pct": -2.27,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "US|COE|2026-07-06|huang jack jiajia|16.46",
+      "market": "US",
+      "ticker": "COE",
+      "yf_symbol": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "Chief Executive Officer",
+      "trade_date": "2026-07-06",
+      "trade_price": 16.46,
+      "value": 2722813.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-15": 16.34
+      },
+      "latest_price": 16.34,
+      "return_pct": -0.73,
       "last_snapshot": "2026-07-15"
     }
   ]

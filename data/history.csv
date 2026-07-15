@@ -8069,7 +8069,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-30,21:00,2026-06-26,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,69.20,3602,5747690,0%,249258,False
 2026-07-01,06:16,2026-06-30,SBSW,Sibanye Stillwater Ltd,Menell Richard Peter,Dir,P - Purchase,2.19,15000,27625,+119%,32850,True
 2026-07-01,06:05,2026-06-30,MOGU,Mogu Inc.,Chen Qi,Dir,P - Purchase,1.68,15000,314817695,0%,25125,False
-2026-07-01,10:30,2026-06-29,ADIL,"Adial Pharmaceuticals, Inc.",Coastlands Capital LP,10%,P - Purchase,2.60,25000,373322,+7%,65000,False
+2026-07-01,10:30,2026-06-29,ADIL,"Adial Pharmaceuticals, Inc.",Coastlands Capital LP,10%,P - Purchase,2.60,25000,373322,+7%,65000,True
 2026-07-01,14:32,2026-06-30,MDV,"Modiv Industrial, Inc.",Halfacre Aaron Scott,"CEO, Pres",P - Purchase,17.34,3586,137830,+3%,62164,False
 2026-07-01,14:16,2026-06-30,SPG,Simon Property Group Inc.,Selig Stefan M,Dir,P - Purchase,223.27,220,33812,+1%,49120,True
 2026-07-01,14:11,2026-06-30,SPG,Simon Property Group Inc.,Leibowitz Reuben S,Dir,P - Purchase,223.38,508,72697,+1%,113475,True
@@ -8321,14 +8321,14 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-13,12:02,2026-07-07,HTO,H2O America,Atlas Infrastructure Partners (Uk) Ltd.,10%,P - Purchase,62.03,2784,4615265,0%,172692,True
 2026-07-13,11:49,2026-07-10,CMC,Commercial Metals Co,Matt Peter R,"Pres, CEO",P - Purchase,61.30,8230,181522,+5%,504499,False
 2026-07-13,11:34,2026-07-10,TOI,"Oncology Institute, Inc.",Chernett Jorey,10%,P - Purchase,5.85,15000,10630858,0%,87750,False
-2026-07-13,10:30,2026-07-09,ADIL,"Adial Pharmaceuticals, Inc.",Coastlands Capital LP,10%,P - Purchase,2.78,11753,385075,+3%,32638,False
+2026-07-13,10:30,2026-07-09,ADIL,"Adial Pharmaceuticals, Inc.",Coastlands Capital LP,10%,P - Purchase,2.78,11753,385075,+3%,32638,True
 2026-07-13,10:28,2026-06-22,CNTM,"Connectm Technology Solutions, Inc.",Choudhury Mahesh,Principal Financial Officer,P - Purchase,8.77,3622,40814,+10%,31766,False
 2026-07-13,14:58,2026-07-09,JEM,707 Cayman Holdings Ltd.,Hrt Financial LP,10%,P - Purchase,1.07,125911,138001,>999%,134725,True
 2026-07-13,14:34,2026-07-09,SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",Hrt Financial LP,10%,P - Purchase,3.36,8997,61271,+17%,30212,True
 2026-07-13,16:38,2026-07-09,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10%,P - Purchase,20.56,60000,7480000,+1%,1233570,False
 2026-07-13,16:15,2026-07-09,GLOO,"Gloo Holdings, Inc.","Grace & Mercy Foundation, Inc.",10%,P - Purchase,3.25,923076,3423076,+37%,2999997,True
 2026-07-13,15:14,2026-07-09,BJDX,"Bluejay Diagnostics, Inc.",Hrt Financial LP,10%,P - Purchase,1.51,64047,92055,+229%,96711,False
-2026-07-13,19:20,2026-07-10,CCCTU,Columbus Circle Capital Corp III,Columbus Circle 3 Sponsor Corp LLC,10%,P - Purchase,10.00,265000,265000,New,2650000,False
+2026-07-13,19:20,2026-07-10,CCCTU,Columbus Circle Capital Corp III,Columbus Circle 3 Sponsor Corp LLC,10%,P - Purchase,10.00,265000,265000,New,2650000,True
 2026-07-13,19:06,2026-07-09,BOLD,"Boundless Bio, Inc.",Tang Kevin,10%,P - Purchase,2.42,91585,2790103,+3%,222070,False
 2026-07-13,20:33,2026-07-13,YEXT,"Yext, Inc.",Englander Daniel J,Dir,P - Purchase,5.22,76190,141190,+117%,397910,False
 2026-07-13,19:46,2026-07-07,GGAL,Grupo Financiero Galicia Sa,Moret Silvestre Vila,Dir,P - Purchase,5.40,399824,3000000,+15%,2160639,False
@@ -8340,3 +8340,31 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-14,19:00,2026-07-10,ARTV,"Artiva Biotherapeutics, Inc.","Ra Capital Management, L.P.","Dir, 10%",P - Purchase,8.96,21654,17977296,0%,194040,False
 2026-07-14,21:15,2026-07-10,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,75.45,3334,5757855,0%,251556,False
 2026-07-14,20:46,2026-07-13,JCTC,Jewett Cameron Trading Co Ltd,"Ajb Investment Fund Ii, LP",10%,P - Purchase,2.63,11754,428158,+3%,30884,True
+2026-07-14,21:15,2026-07-14,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,75.58,1105,4768783,+0%,83514,False
+2026-07-14,21:15,2026-07-13,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,75.41,1100,4767678,+0%,82956,False
+2026-07-14,21:15,2026-07-10,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,See Remarks,P - Purchase,75.36,1129,4766578,+0%,85086,False
+2026-07-14,20:46,2026-07-14,JCTC,Jewett Cameron Trading Co Ltd,"Ajb Investment Fund Ii, Lp",10% Owner,P - Purchase,2.63,10768,428158,+3%,28359,True
+2026-07-14,19:00,2026-07-13,ARTV,"Artiva Biotherapeutics, Inc.","Ra Capital Management, L.P.",Director,P - Purchase,8.94,6552,16817573,+0%,58575,False
+2026-07-14,19:00,2026-07-10,ARTV,"Artiva Biotherapeutics, Inc.","Ra Capital Management, L.P.",Director,P - Purchase,8.97,15102,16811021,+0%,135465,False
+2026-07-14,17:14,2026-07-13,NTSK,Netskope Inc,Griffith William J.G.,Director,P - Purchase,12.42,64771,916690,+8%,804546,True
+2026-07-14,17:14,2026-07-10,NTSK,Netskope Inc,Griffith William J.G.,Director,P - Purchase,12.26,241628,851919,+40%,2961151,True
+2026-07-14,17:10,2026-07-13,NTSK,Netskope Inc,Iconiq Strategic Partners Viii,10% Owner,P - Purchase,12.42,64771,916690,+8%,804546,True
+2026-07-14,17:10,2026-07-10,NTSK,Netskope Inc,Iconiq Strategic Partners Viii,10% Owner,P - Purchase,12.26,241628,851919,+40%,2961151,True
+2026-07-14,16:15,2026-07-13,GLBS,Globus Maritime Ltd,Feidakis Georgios,Director,P - Purchase,2.75,114766,6578633,+2%,315606,False
+2026-07-14,16:15,2026-06-18,GLBS,Globus Maritime Ltd,Feidakis Georgios,Director,P - Purchase,2.70,106400,6463867,+2%,287280,False
+2026-07-13,19:46,2026-07-08,GGAL,Grupo Financiero Galicia S.A.,Moret Silvestre Vila,Director,P - Purchase,5.36,224000,3000000,+8%,1200640,False
+2026-07-13,19:46,2026-07-07,GGAL,Grupo Financiero Galicia S.A.,Moret Silvestre Vila,Director,P - Purchase,5.46,175824,2776000,+7%,959999,False
+2026-07-13,19:20,2026-07-10,COHN,Cohen & Company Inc.,Columbus Circle 3 Sponsor Corp,10% Owner,P - Purchase,10.00,265000,265000,New,2650000,False
+2026-07-13,19:20,2026-07-10,CCCTU,Columbus Circle Capital Corp III,Columbus Circle 3 Sponsor Corp,10% Owner,P - Purchase,10.00,265000,265000,New,2650000,True
+2026-07-13,19:06,2026-07-13,BOLD,"Boundless Bio, Inc.",Tang Kevin,10% Owner,P - Purchase,2.42,48211,2790103,+2%,116671,False
+2026-07-13,19:06,2026-07-10,BOLD,"Boundless Bio, Inc.",Tang Kevin,10% Owner,P - Purchase,2.43,43367,2741892,+2%,105382,False
+2026-07-13,16:38,2026-07-10,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10% Owner,P - Purchase,20.67,40000,7480000,+1%,826700,False
+2026-07-13,16:38,2026-07-09,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10% Owner,P - Purchase,20.34,20000,7440000,+0%,406870,False
+2026-07-13,14:34,2026-07-09,SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",Hrt Financial Lp,10% Owner,P - Purchase,3.38,8266,60540,+16%,27939,True
+2026-07-13,13:43,2026-07-13,EOI,Eaton Vance Enhanced Equity Income Fund,Gaffney Charles,Portfolio Manager,P - Purchase,20.11,25000,25000,New,502705,False
+2026-07-13,10:30,2026-07-09,ADIL,"Adial Pharmaceuticals, Inc.",Coastlands Capital Lp,10% Owner,P - Purchase,2.79,10053,383375,+3%,28048,True
+2026-07-13,08:16,2026-07-13,IPX,Iperionx Ltd,Hannigan Todd,Executive Chairman,P - Purchase,3.59,300000,26633334,+1%,1075980,True
+2026-07-13,08:16,2026-07-10,IPX,Iperionx Ltd,Hannigan Todd,Executive Chairman,P - Purchase,3.58,225000,26333334,+1%,805185,True
+2026-07-13,06:51,2026-07-08,COE,51Talk Online Education Group,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,16.45,185880,30367440,+1%,3057726,False
+2026-07-13,06:51,2026-07-07,COE,51Talk Online Education Group,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,16.72,211260,30181560,+1%,3532267,False
+2026-07-13,06:51,2026-07-06,COE,51Talk Online Education Group,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,16.46,165420,29970300,+1%,2722813,False
