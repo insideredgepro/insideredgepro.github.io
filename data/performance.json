@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-16",
-  "entry_count": 1455,
+  "entry_count": 1456,
   "entries": [
     {
       "id": "US|KRO|2026-05-18|kramer kevin b|6.75",
@@ -78360,6 +78360,26 @@
       },
       "latest_price": 3.56,
       "return_pct": -0.28,
+      "last_snapshot": "2026-07-16"
+    },
+    {
+      "id": "US|VANI|2026-07-15|williams gregg|1.26",
+      "market": "US",
+      "ticker": "VANI",
+      "yf_symbol": "VANI",
+      "company": "Vivani Medical, Inc.",
+      "insider_name": "Williams Gregg",
+      "title": "Dir, 10%",
+      "trade_date": "2026-07-15",
+      "trade_price": 1.26,
+      "value": 999999.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-16": 1.41
+      },
+      "latest_price": 1.41,
+      "return_pct": 11.9,
       "last_snapshot": "2026-07-16"
     }
   ]
