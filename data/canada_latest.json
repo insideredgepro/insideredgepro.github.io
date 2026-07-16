@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15T22:00:18Z",
-  "trade_count": 3448,
+  "last_updated": "2026-07-16T03:45:22Z",
+  "trade_count": 3451,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -52720,6 +52720,54 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4752779",
+      "trade_date": "2026-07-15",
+      "filing_date": "2026-07-15",
+      "company": "Inventus Mining Corp.",
+      "ticker": "IVS",
+      "insider_name": "Milne, Glen Alexander",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "500000",
+      "price": "0.2483",
+      "value": "124150",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4752780",
+      "trade_date": "2026-07-15",
+      "filing_date": "2026-07-15",
+      "company": "Inventus Mining Corp.",
+      "ticker": "IVS",
+      "insider_name": "Milne, Glen Alexander",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "160500",
+      "price": "0.2515",
+      "value": "40365",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4752778",
+      "trade_date": "2026-07-15",
+      "filing_date": "2026-07-15",
+      "company": "Kraken Robotics Inc.",
+      "ticker": "PNG",
+      "insider_name": "MacKay, Duane Joseph Alexander",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "12000",
+      "price": "6.2300",
+      "value": "74760",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }

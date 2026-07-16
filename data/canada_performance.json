@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-15",
-  "entry_count": 361,
+  "entry_count": 364,
   "entries": [
     {
       "id": "CA|SKE|2026-05-18|coles, jr., walter|29.72",
@@ -16054,6 +16054,66 @@
       },
       "latest_price": 33.62,
       "return_pct": 0.01,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "CA|IVS|2026-07-15|milne, glen alexander|0.2483",
+      "market": "CA",
+      "ticker": "IVS",
+      "yf_symbol": "IVS.V",
+      "company": "Inventus Mining Corp.",
+      "insider_name": "Milne, Glen Alexander",
+      "title": "Director",
+      "trade_date": "2026-07-15",
+      "trade_price": 0.2483,
+      "value": 124150.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-07-15": 0.25
+      },
+      "latest_price": 0.25,
+      "return_pct": 0.68,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "CA|IVS|2026-07-15|milne, glen alexander|0.2515",
+      "market": "CA",
+      "ticker": "IVS",
+      "yf_symbol": "IVS.V",
+      "company": "Inventus Mining Corp.",
+      "insider_name": "Milne, Glen Alexander",
+      "title": "Director",
+      "trade_date": "2026-07-15",
+      "trade_price": 0.2515,
+      "value": 40365.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-07-15": 0.25
+      },
+      "latest_price": 0.25,
+      "return_pct": -0.6,
+      "last_snapshot": "2026-07-15"
+    },
+    {
+      "id": "CA|PNG|2026-07-15|mackay, duane joseph alexander|6.23",
+      "market": "CA",
+      "ticker": "PNG",
+      "yf_symbol": "PNG.V",
+      "company": "Kraken Robotics Inc.",
+      "insider_name": "MacKay, Duane Joseph Alexander",
+      "title": "Senior Officer",
+      "trade_date": "2026-07-15",
+      "trade_price": 6.23,
+      "value": 74760.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-07-15": 6.22
+      },
+      "latest_price": 6.22,
+      "return_pct": -0.16,
       "last_snapshot": "2026-07-15"
     }
   ]
