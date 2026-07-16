@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T19:58:44Z",
-  "trade_count": 8368,
+  "last_updated": "2026-07-16T20:58:29Z",
+  "trade_count": 8373,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -133889,6 +133889,86 @@
       "delta_own": "+2%",
       "value": "999999",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-16",
+      "filing_time": "16:32",
+      "trade_date": "2026-07-15",
+      "ticker": "VIRC",
+      "company": "Virco Mfg Corporation",
+      "insider_name": "Virtue Douglas A",
+      "title": "EVP",
+      "trade_type": "P - Purchase",
+      "price": "6.00",
+      "qty": "5740",
+      "owned": "894408",
+      "delta_own": "+1%",
+      "value": "34438",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-16",
+      "filing_time": "16:23",
+      "trade_date": "2026-07-15",
+      "ticker": "FIS",
+      "company": "Fidelity National Information Services, Inc.",
+      "insider_name": "Goldstein Jeffrey A",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "41.39",
+      "qty": "1386",
+      "owned": "17112",
+      "delta_own": "+9%",
+      "value": "57367",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-16",
+      "filing_time": "16:03",
+      "trade_date": "2026-07-14",
+      "ticker": "CRDF",
+      "company": "Cardiff Oncology, Inc.",
+      "insider_name": "Pace Gary W",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.46",
+      "qty": "687285",
+      "owned": "2043661",
+      "delta_own": "+51%",
+      "value": "1000000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-16",
+      "filing_time": "16:02",
+      "trade_date": "2026-07-15",
+      "ticker": "BXSY",
+      "company": "Bexil Investment Trust",
+      "insider_name": "Winmill & Co. Inc",
+      "title": "See \"Explanation of Responses\"",
+      "trade_type": "P - Purchase",
+      "price": "16.99",
+      "qty": "4500",
+      "owned": "240056",
+      "delta_own": "+2%",
+      "value": "76438",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-16",
+      "filing_time": "16:01",
+      "trade_date": "2026-07-14",
+      "ticker": "CRDF",
+      "company": "Cardiff Oncology, Inc.",
+      "insider_name": "Mohindru Mani",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.46",
+      "qty": "34364",
+      "owned": "59067",
+      "delta_own": "+139%",
+      "value": "50000",
+      "cluster_buy": true
     }
   ]
 }
