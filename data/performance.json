@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-16",
-  "entry_count": 1548,
+  "entry_count": 1549,
   "entries": [
     {
       "id": "US|KRO|2026-05-18|kramer kevin b|6.75",
@@ -80053,6 +80053,26 @@
       "latest_price": null,
       "return_pct": null,
       "last_snapshot": null
+    },
+    {
+      "id": "US|BOLD|2026-07-14|tang kevin|2.43",
+      "market": "US",
+      "ticker": "BOLD",
+      "yf_symbol": "BOLD",
+      "company": "Boundless Bio, Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "10%",
+      "trade_date": "2026-07-14",
+      "trade_price": 2.43,
+      "value": 155646.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-16": 2.49
+      },
+      "latest_price": 2.49,
+      "return_pct": 2.47,
+      "last_snapshot": "2026-07-16"
     }
   ]
 }

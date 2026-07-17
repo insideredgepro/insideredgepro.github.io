@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T23:51:48Z",
-  "trade_count": 8461,
+  "last_updated": "2026-07-17T01:52:27Z",
+  "trade_count": 8462,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -135376,6 +135376,22 @@
       "owned": "2261962",
       "delta_own": "+0%",
       "value": "39722",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-16",
+      "filing_time": "20:10",
+      "trade_date": "2026-07-14",
+      "ticker": "BOLD",
+      "company": "Boundless Bio, Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.43",
+      "qty": "63969",
+      "owned": "2854072",
+      "delta_own": "+2%",
+      "value": "155646",
       "cluster_buy": false
     }
   ]
