@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-17",
-  "entry_count": 1550,
+  "entry_count": 1551,
   "entries": [
     {
       "id": "US|KRO|2026-05-18|kramer kevin b|6.75",
@@ -81548,6 +81548,26 @@
       },
       "latest_price": 1.59,
       "return_pct": 2.58,
+      "last_snapshot": "2026-07-17"
+    },
+    {
+      "id": "US|JEF|2026-07-15|sumitomo mitsui financial group, inc.|53.96",
+      "market": "US",
+      "ticker": "JEF",
+      "yf_symbol": "JEF",
+      "company": "Jefferies Financial Group Inc.",
+      "insider_name": "Sumitomo Mitsui Financial Group, Inc.",
+      "title": "Dir",
+      "trade_date": "2026-07-15",
+      "trade_price": 53.96,
+      "value": 318717006.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-17": 55.8
+      },
+      "latest_price": 55.8,
+      "return_pct": 3.41,
       "last_snapshot": "2026-07-17"
     }
   ]
