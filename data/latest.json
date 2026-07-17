@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-17T15:06:22Z",
-  "trade_count": 8464,
+  "last_updated": "2026-07-17T17:01:10Z",
+  "trade_count": 8467,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -135424,6 +135424,54 @@
       "owned": "8566379",
       "delta_own": "+222%",
       "value": "318717006",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-17",
+      "filing_time": "12:53",
+      "trade_date": "2026-07-15",
+      "ticker": "LGHL",
+      "company": "Lion Group Holding Ltd",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "1.87",
+      "qty": "98790",
+      "owned": "103014",
+      "delta_own": ">999%",
+      "value": "184471",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-17",
+      "filing_time": "11:19",
+      "trade_date": "2026-07-15",
+      "ticker": "PFBX",
+      "company": "Peoples Financial Corp /Ms/",
+      "insider_name": "Stilwell Joseph",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "21.75",
+      "qty": "2500",
+      "owned": "753087",
+      "delta_own": "0%",
+      "value": "54375",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-17",
+      "filing_time": "11:12",
+      "trade_date": "2026-07-16",
+      "ticker": "GRML",
+      "company": "Greenland Mines Ltd",
+      "insider_name": "Leblanc Jeff",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "0.18",
+      "qty": "1400000",
+      "owned": "4820342",
+      "delta_own": "+41%",
+      "value": "245280",
       "cluster_buy": false
     }
   ]
