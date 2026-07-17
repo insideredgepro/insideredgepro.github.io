@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-17T19:59:17Z",
-  "trade_count": 8470,
+  "last_updated": "2026-07-17T20:57:09Z",
+  "trade_count": 8472,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -135521,6 +135521,38 @@
       "delta_own": "+10%",
       "value": "366050",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-17",
+      "filing_time": "16:37",
+      "trade_date": "2026-07-15",
+      "ticker": "ENR",
+      "company": "Energizer Holdings, Inc.",
+      "insider_name": "Aqua Capital, Ltd.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "20.72",
+      "qty": "80000",
+      "owned": "7660000",
+      "delta_own": "+1%",
+      "value": "1657756",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-17",
+      "filing_time": "16:05",
+      "trade_date": "2026-07-16",
+      "ticker": "STDN",
+      "company": "Standard Nuclear, Inc.",
+      "insider_name": "Decisive Point Group, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "15.00",
+      "qty": "1275496",
+      "owned": "33493744",
+      "delta_own": "+4%",
+      "value": "19132440",
+      "cluster_buy": false
     }
   ]
 }
