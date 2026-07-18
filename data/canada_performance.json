@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-17",
-  "entry_count": 380,
+  "entry_count": 382,
   "entries": [
     {
       "id": "CA|SKE|2026-05-18|coles, jr., walter|29.72",
@@ -669,8 +669,8 @@
         "2026-07-15": 0.108,
         "2026-07-17": 0.105
       },
-      "latest_price": 0.105,
-      "return_pct": 17.06,
+      "latest_price": 0.11,
+      "return_pct": 22.63,
       "last_snapshot": "2026-07-17"
     },
     {
@@ -1004,8 +1004,8 @@
         "2026-07-15": 0.108,
         "2026-07-17": 0.105
       },
-      "latest_price": 0.105,
-      "return_pct": 16.67,
+      "latest_price": 0.11,
+      "return_pct": 22.22,
       "last_snapshot": "2026-07-17"
     },
     {
@@ -16794,6 +16794,46 @@
       },
       "latest_price": 13.75,
       "return_pct": -0.18,
+      "last_snapshot": "2026-07-17"
+    },
+    {
+      "id": "CA|MTA|2026-07-17|tether international, s.a. de c.v.|7.253",
+      "market": "CA",
+      "ticker": "MTA",
+      "yf_symbol": "MTA.V",
+      "company": "Metalla Royalty and Streaming Ltd.",
+      "insider_name": "Tether International, S.A. de C.V.",
+      "title": "10% Holder",
+      "trade_date": "2026-07-17",
+      "trade_price": 7.253,
+      "value": 508058.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-07-17": 10.23
+      },
+      "latest_price": 10.23,
+      "return_pct": 41.05,
+      "last_snapshot": "2026-07-17"
+    },
+    {
+      "id": "CA|BPC|2026-07-17|sandhu, pratapvir|0.48",
+      "market": "CA",
+      "ticker": "BPC",
+      "yf_symbol": "BPC.CN",
+      "company": "The Precision Peptide Company Inc.",
+      "insider_name": "Sandhu, Pratapvir",
+      "title": "Director",
+      "trade_date": "2026-07-17",
+      "trade_price": 0.48,
+      "value": 33600.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-07-17": 0.48
+      },
+      "latest_price": 0.48,
+      "return_pct": 0.0,
       "last_snapshot": "2026-07-17"
     }
   ]
