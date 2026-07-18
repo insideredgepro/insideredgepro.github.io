@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-17T23:43:17Z",
-  "trade_count": 8472,
+  "last_updated": "2026-07-18T10:18:34Z",
+  "trade_count": 8475,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -135553,6 +135553,54 @@
       "delta_own": "+4%",
       "value": "19132440",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-17",
+      "filing_time": "21:15",
+      "trade_date": "2026-07-15",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "74.03",
+      "qty": "3348",
+      "owned": "5761203",
+      "delta_own": "0%",
+      "value": "247865",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-17",
+      "filing_time": "20:24",
+      "trade_date": "2026-07-15",
+      "ticker": "AXIA",
+      "company": "Axia Energia S.A.",
+      "insider_name": "Batista De Lima Filho Pedro",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "9.67",
+      "qty": "200000",
+      "owned": "24370231",
+      "delta_own": "+1%",
+      "value": "1934000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-17",
+      "filing_time": "20:11",
+      "trade_date": "2026-06-25",
+      "ticker": "LILA",
+      "company": "Liberty Latin America Ltd.",
+      "insider_name": "Fries Michael T",
+      "title": "Exec COB",
+      "trade_type": "P - Purchase",
+      "price": "20.39",
+      "qty": "49382",
+      "owned": "149335",
+      "delta_own": "+49%",
+      "value": "1006711",
+      "cluster_buy": true
     }
   ]
 }
