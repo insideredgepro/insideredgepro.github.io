@@ -395,6 +395,657 @@
     "scraped_at": "2026-07-18T03:55:02.977566+00:00"
   },
   {
+    "id": "20003801530",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Accenture PLC",
+    "ticker": "ACN:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$135.23",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260589+00:00"
+  },
+  {
+    "id": "20003801531",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Adobe Inc",
+    "ticker": "ADBE:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$223.64",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260601+00:00"
+  },
+  {
+    "id": "20003801532",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Advanced Micro Devices Inc",
+    "ticker": "AMD:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$557.89",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260607+00:00"
+  },
+  {
+    "id": "20003801533",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Alphabet Inc",
+    "ticker": "GOOGL:US",
+    "sector": "communication-services",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$357.18",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260613+00:00"
+  },
+  {
+    "id": "20003801534",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Amcor PLC",
+    "ticker": "AMCR:US",
+    "sector": "materials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$43.18",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260618+00:00"
+  },
+  {
+    "id": "20003801535",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Amphenol Corp",
+    "ticker": "APH:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$159.06",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260625+00:00"
+  },
+  {
+    "id": "20003801536",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Applied Materials Inc",
+    "ticker": "AMAT:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$602.50",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260630+00:00"
+  },
+  {
+    "id": "20003801537",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Arista Networks Inc",
+    "ticker": "ANET:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$186.96",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260636+00:00"
+  },
+  {
+    "id": "20003801538",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Costco Wholesale Corp",
+    "ticker": "COST:US",
+    "sector": "consumer-staples",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$916.25",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260641+00:00"
+  },
+  {
+    "id": "20003801539",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "CSX Corp",
+    "ticker": "CSX:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$49.41",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260646+00:00"
+  },
+  {
+    "id": "20003801540",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "DEERE & COMPANY",
+    "ticker": "DE:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$586.86",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260651+00:00"
+  },
+  {
+    "id": "20003801541",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Duke Energy Corp",
+    "ticker": "DUK:US",
+    "sector": "utilities",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$125.48",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260657+00:00"
+  },
+  {
+    "id": "20003801542",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Eli Lilly and Co",
+    "ticker": "LLY:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$1,188.58",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260662+00:00"
+  },
+  {
+    "id": "20003801543",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Fidelity National Information Services Inc",
+    "ticker": "FIS:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$41.98",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260666+00:00"
+  },
+  {
+    "id": "20003801544",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "FirstEnergy Corp",
+    "ticker": "FE:US",
+    "sector": "utilities",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$47.92",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260671+00:00"
+  },
+  {
+    "id": "20003801545",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "FMC Corp",
+    "ticker": "FMC:US",
+    "sector": "materials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$10.91",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260675+00:00"
+  },
+  {
+    "id": "20003801546",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Fortinet Inc",
+    "ticker": "FTNT:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$157.51",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260682+00:00"
+  },
+  {
+    "id": "20003801547",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "HONEYWELL AEROSPACE INC",
+    "ticker": "HONA:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$220.75",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260687+00:00"
+  },
+  {
+    "id": "20003801548",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Honeywell International Inc",
+    "ticker": "HON:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$226.42",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260692+00:00"
+  },
+  {
+    "id": "20003801549",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Intuit Inc",
+    "ticker": "INTU:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$274.96",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260697+00:00"
+  },
+  {
+    "id": "20003801550",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Magna International Inc",
+    "ticker": "MGA:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$64.27",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260701+00:00"
+  },
+  {
+    "id": "20003801551",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Marathon Petroleum Corp",
+    "ticker": "MPC:US",
+    "sector": "energy",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$283.74",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260709+00:00"
+  },
+  {
+    "id": "20003801552",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Micron Technology Inc",
+    "ticker": "MU:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$979.30",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260714+00:00"
+  },
+  {
+    "id": "20003801553",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Morgan Stanley",
+    "ticker": "MS:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$222.28",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260719+00:00"
+  },
+  {
+    "id": "20003801554",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "NVIDIA Corporation",
+    "ticker": "NVDA:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$210.96",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260723+00:00"
+  },
+  {
+    "id": "20003801555",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Palo Alto Networks Inc",
+    "ticker": "PANW:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$325.91",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260728+00:00"
+  },
+  {
+    "id": "20003801556",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "The Hershey Co",
+    "ticker": "HSY:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$173.66",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260735+00:00"
+  },
+  {
+    "id": "20003801557",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Thermo Fisher Scientific Inc",
+    "ticker": "TMO:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$527.05",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260742+00:00"
+  },
+  {
+    "id": "20003801558",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Uber Technologies Inc",
+    "ticker": "UBER:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$74.54",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260747+00:00"
+  },
+  {
+    "id": "20003801559",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "United Parcel Service Inc",
+    "ticker": "UPS:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$112.47",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260752+00:00"
+  },
+  {
+    "id": "20003801560",
+    "politician_name": "Daniel Newhouse",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "WA",
+    "company": "Unitedhealth Group Inc",
+    "ticker": "UNH:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "7",
+    "price": "$424.62",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Edward Jones IRA",
+    "scraped_at": "2026-07-20T16:10:03.260756+00:00"
+  },
+  {
     "id": "20003801321",
     "politician_name": "Richard Larsen",
     "party": "Democrat",
@@ -500,6 +1151,48 @@
     "scraped_at": "2026-07-14T03:55:03.496614+00:00"
   },
   {
+    "id": "20003801526",
+    "politician_name": "Laurel Lee",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Nokia Corp",
+    "ticker": "NOK:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-06",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "13",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Description: Put Option",
+    "scraped_at": "2026-07-20T16:10:03.260772+00:00"
+  },
+  {
+    "id": "20003801527",
+    "politician_name": "Laurel Lee",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Nokia Corp",
+    "ticker": "NOK:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-06",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "13",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Description: Call option",
+    "scraped_at": "2026-07-20T16:10:03.260776+00:00"
+  },
+  {
     "id": "20003801487",
     "politician_name": "Kevin Hern",
     "party": "Republican",
@@ -518,7 +1211,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust > Brokerage Investment Account Description: Exxon Mobile began trading as Exxon Mobile Holdings",
-    "scraped_at": "2026-07-18T03:55:02.977285+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260860+00:00"
   },
   {
     "id": "20003801488",
@@ -539,7 +1232,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation Description: Exxon Mobile began trading as Exxon Mobile Holdings",
-    "scraped_at": "2026-07-18T03:55:02.977291+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260866+00:00"
   },
   {
     "id": "20003801281",
@@ -581,7 +1274,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-07-18T03:55:02.977326+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260902+00:00"
   },
   {
     "id": "20003801357",
@@ -1052,19 +1745,19 @@
     "chamber": "House",
     "state": "OK",
     "company": "HONEYWELL AEROSPACE INC",
-    "ticker": "",
+    "ticker": "HONA:US",
     "sector": "industrials",
     "transaction_type": "EXCHANGE",
     "tx_type_extended": "",
     "traded_on": "2026-06-29",
     "trade_published": "2026-07-16",
     "filed_after_days": "17",
-    "price": "N/A",
+    "price": "$220.19",
     "value": 32500,
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation Description: Shares received in spin off from HON",
-    "scraped_at": "2026-07-18T03:55:02.977296+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260871+00:00"
   },
   {
     "id": "20003801502",
@@ -1085,7 +1778,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-07-18T03:55:02.977365+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260936+00:00"
   },
   {
     "id": "20003801505",
@@ -1106,7 +1799,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-07-18T03:55:02.977380+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260952+00:00"
   },
   {
     "id": "20003801507",
@@ -1127,7 +1820,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-07-18T03:55:02.977392+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260962+00:00"
   },
   {
     "id": "20003801477",
@@ -1136,19 +1829,19 @@
     "chamber": "House",
     "state": "MI",
     "company": "HONEYWELL AEROSPACE INC",
-    "ticker": "",
+    "ticker": "HONA:US",
     "sector": "industrials",
     "transaction_type": "EXCHANGE",
     "tx_type_extended": "",
     "traded_on": "2026-06-29",
     "trade_published": "2026-07-15",
     "filed_after_days": "16",
-    "price": "N/A",
+    "price": "$220.19",
     "value": 75000,
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Smith Barney LLC Brokerage Account Description: Asset acquired when certain Honeywell International Inc. (HON) shares were exchanged for Honeywell",
-    "scraped_at": "2026-07-18T03:55:02.977515+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261083+00:00"
   },
   {
     "id": "20003801478",
@@ -1157,19 +1850,19 @@
     "chamber": "House",
     "state": "MI",
     "company": "HONEYWELL AEROSPACE INC",
-    "ticker": "",
+    "ticker": "HONA:US",
     "sector": "industrials",
     "transaction_type": "EXCHANGE",
     "tx_type_extended": "",
     "traded_on": "2026-06-29",
     "trade_published": "2026-07-15",
     "filed_after_days": "16",
-    "price": "N/A",
+    "price": "$220.19",
     "value": 32500,
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Smith Barney LLC Brokerage Account - Spouse Irrevocable Trust Description: Asset acquired when certain Honeywell International Inc. (HON) shares were exchanged for Honeywell",
-    "scraped_at": "2026-07-18T03:55:02.977520+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261088+00:00"
   },
   {
     "id": "20003801330",
@@ -1316,7 +2009,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
-    "scraped_at": "2026-07-18T03:55:02.977208+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260799+00:00"
   },
   {
     "id": "20003801520",
@@ -1337,7 +2030,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE IRA",
-    "scraped_at": "2026-07-18T03:55:02.977219+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260803+00:00"
   },
   {
     "id": "20003801521",
@@ -1358,7 +2051,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
-    "scraped_at": "2026-07-18T03:55:02.977225+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260808+00:00"
   },
   {
     "id": "20003801327",
@@ -1484,7 +2177,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977232+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260814+00:00"
   },
   {
     "id": "10000065284",
@@ -1799,7 +2492,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-07-18T03:55:02.977322+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260897+00:00"
   },
   {
     "id": "20003801499",
@@ -1820,7 +2513,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-07-18T03:55:02.977349+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260921+00:00"
   },
   {
     "id": "20003801334",
@@ -2156,7 +2849,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-07-18T03:55:02.977343+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260917+00:00"
   },
   {
     "id": "20003801336",
@@ -3059,7 +3752,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-07-18T03:55:02.977354+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260926+00:00"
   },
   {
     "id": "20003801509",
@@ -3080,7 +3773,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "U.S. Treasury Note 3.875% 6/15/2028 [GS] Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-07-18T03:55:02.977402+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260974+00:00"
   },
   {
     "id": "20003801479",
@@ -3101,7 +3794,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Description: Sale from Individual Retirement Account",
-    "scraped_at": "2026-07-18T03:55:02.977510+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261078+00:00"
   },
   {
     "id": "10000065286",
@@ -3249,6 +3942,27 @@
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
     "scraped_at": "2026-07-09T03:55:03.466231+00:00"
+  },
+  {
+    "id": "20003801525",
+    "politician_name": "Laurel Lee",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "General Electric Co",
+    "ticker": "GE:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-16",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "33",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Description: Put Option",
+    "scraped_at": "2026-07-20T16:10:03.260767+00:00"
   },
   {
     "id": "20003801469",
@@ -4280,6 +4994,27 @@
     "scraped_at": "2026-06-27T03:55:03.001225+00:00"
   },
   {
+    "id": "20003801562",
+    "politician_name": "William Timmons",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "SC",
+    "company": "SPACE EXPLORATION TECHS CORP",
+    "ticker": "SPCX:US",
+    "sector": "communication-services",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-15",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "34",
+    "price": "$192.50",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: SCH Invest Description: Stock Ticker not available in system",
+    "scraped_at": "2026-07-20T16:10:03.260563+00:00"
+  },
+  {
     "id": "20003801522",
     "politician_name": "Harold Rogers",
     "party": "Republican",
@@ -4298,7 +5033,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977175+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260794+00:00"
   },
   {
     "id": "20003801490",
@@ -4319,7 +5054,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Morgan Stanley - Rollover IRA",
-    "scraped_at": "2026-07-18T03:55:02.977301+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260875+00:00"
   },
   {
     "id": "20003801491",
@@ -4340,7 +5075,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Morgan Stanley - Rollover IRA",
-    "scraped_at": "2026-07-18T03:55:02.977307+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260881+00:00"
   },
   {
     "id": "20003801492",
@@ -4361,7 +5096,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Morgan Stanley - Rollover IRA",
-    "scraped_at": "2026-07-18T03:55:02.977312+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260886+00:00"
   },
   {
     "id": "20003801349",
@@ -5390,7 +6125,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: LIVTR",
-    "scraped_at": "2026-07-18T03:55:02.977446+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261015+00:00"
   },
   {
     "id": "20003801354",
@@ -5642,7 +6377,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Moran Wealth IRA",
-    "scraped_at": "2026-07-18T03:55:02.977433+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261005+00:00"
   },
   {
     "id": "20003801486",
@@ -5663,7 +6398,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Moran Wealth IRA",
-    "scraped_at": "2026-07-18T03:55:02.977440+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261010+00:00"
   },
   {
     "id": "10000065289",
@@ -5684,7 +6419,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977451+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261021+00:00"
   },
   {
     "id": "20003801343",
@@ -5936,7 +6671,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977456+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261026+00:00"
   },
   {
     "id": "10000065291",
@@ -5957,7 +6692,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977463+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261030+00:00"
   },
   {
     "id": "10000065292",
@@ -5978,7 +6713,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977468+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261035+00:00"
   },
   {
     "id": "10000065293",
@@ -5999,7 +6734,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977473+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261039+00:00"
   },
   {
     "id": "10000065294",
@@ -6020,7 +6755,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977478+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261044+00:00"
   },
   {
     "id": "10000065295",
@@ -6041,7 +6776,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977483+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261051+00:00"
   },
   {
     "id": "10000065296",
@@ -6062,7 +6797,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977488+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261056+00:00"
   },
   {
     "id": "10000065297",
@@ -6083,7 +6818,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977495+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261061+00:00"
   },
   {
     "id": "10000065298",
@@ -6104,7 +6839,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977500+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261066+00:00"
   },
   {
     "id": "10000065299",
@@ -6125,7 +6860,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977505+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261072+00:00"
   },
   {
     "id": "20003800779",
@@ -6209,7 +6944,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Moran Wealth IRA",
-    "scraped_at": "2026-07-18T03:55:02.977412+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260983+00:00"
   },
   {
     "id": "20003801482",
@@ -6230,7 +6965,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Moran Wealth IRA",
-    "scraped_at": "2026-07-18T03:55:02.977417+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260988+00:00"
   },
   {
     "id": "20003801483",
@@ -6251,7 +6986,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Moran Wealth IRA",
-    "scraped_at": "2026-07-18T03:55:02.977422+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260995+00:00"
   },
   {
     "id": "20003801484",
@@ -6272,7 +7007,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Moran Wealth IRA",
-    "scraped_at": "2026-07-18T03:55:02.977427+00:00"
+    "scraped_at": "2026-07-20T16:10:03.261001+00:00"
   },
   {
     "id": "20003801338",
@@ -7322,7 +8057,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-07-18T03:55:02.977407+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260979+00:00"
   },
   {
     "id": "10000065288",
@@ -7829,6 +8564,48 @@
     "scraped_at": "2026-07-09T03:55:03.466138+00:00"
   },
   {
+    "id": "20003801524",
+    "politician_name": "Laurel Lee",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Bank of America Corp",
+    "ticker": "BAC:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "47",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Description: Call option contracts.",
+    "scraped_at": "2026-07-20T16:10:03.260762+00:00"
+  },
+  {
+    "id": "20003801529",
+    "politician_name": "Laurel Lee",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Nokia Corp",
+    "ticker": "NOK:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-02",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "47",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Description: Call option contracts",
+    "scraped_at": "2026-07-20T16:10:03.260787+00:00"
+  },
+  {
     "id": "20003801493",
     "politician_name": "Thomas Kean Jr",
     "party": "Republican",
@@ -7847,7 +8624,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-07-18T03:55:02.977317+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260892+00:00"
   },
   {
     "id": "20003801501",
@@ -7868,7 +8645,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-07-18T03:55:02.977360+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260931+00:00"
   },
   {
     "id": "20003801503",
@@ -7889,7 +8666,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-07-18T03:55:02.977370+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260942+00:00"
   },
   {
     "id": "20003801504",
@@ -7910,7 +8687,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-07-18T03:55:02.977375+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260947+00:00"
   },
   {
     "id": "20003801506",
@@ -7931,7 +8708,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-07-18T03:55:02.977387+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260957+00:00"
   },
   {
     "id": "20003801508",
@@ -7952,7 +8729,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-07-18T03:55:02.977397+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260970+00:00"
   },
   {
     "id": "20003801346",
@@ -9674,7 +10451,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977238+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260819+00:00"
   },
   {
     "id": "20003801512",
@@ -9695,7 +10472,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977244+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260823+00:00"
   },
   {
     "id": "20003801513",
@@ -9716,7 +10493,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977250+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260828+00:00"
   },
   {
     "id": "20003801514",
@@ -9737,7 +10514,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Description: FAS is an ETF but was no searchable as an asset for some reason",
-    "scraped_at": "2026-07-18T03:55:02.977256+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260833+00:00"
   },
   {
     "id": "20003801517",
@@ -9758,7 +10535,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977274+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260850+00:00"
   },
   {
     "id": "20003801518",
@@ -9779,7 +10556,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-07-18T03:55:02.977280+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260855+00:00"
   },
   {
     "id": "20003801496",
@@ -9800,7 +10577,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-07-18T03:55:02.977333+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260907+00:00"
   },
   {
     "id": "20003801497",
@@ -9821,7 +10598,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-07-18T03:55:02.977339+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260911+00:00"
   },
   {
     "id": "20003801315",
@@ -16964,6 +17741,27 @@
     "scraped_at": "2026-06-08T16:10:02.025355+00:00"
   },
   {
+    "id": "20003801528",
+    "politician_name": "Laurel Lee",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Nokia Corp",
+    "ticker": "NOK:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-05-11",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "69",
+    "price": "$13.92",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-07-20T16:10:03.260781+00:00"
+  },
+  {
     "id": "20003800679",
     "politician_name": "Neal Dunn",
     "party": "Republican",
@@ -19208,7 +20006,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Description: 10 puts at $22.00",
-    "scraped_at": "2026-07-18T03:55:02.977269+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260845+00:00"
   },
   {
     "id": "20003800649",
@@ -22778,7 +23576,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Description: 10 puts at $11.80",
-    "scraped_at": "2026-07-18T03:55:02.977262+00:00"
+    "scraped_at": "2026-07-20T16:10:03.260839+00:00"
   },
   {
     "id": "20003799850",
@@ -27294,27 +28092,6 @@
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity 401K",
     "scraped_at": "2026-05-07T12:03:51.988879+00:00"
-  },
-  {
-    "id": "10000064899",
-    "politician_name": "James Banks",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "IN",
-    "company": "Starbucks Corp",
-    "ticker": "SBUX:US",
-    "sector": "consumer-discretionary",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-04-15",
-    "trade_published": "2026-04-20",
-    "filed_after_days": "5",
-    "price": "$98.34",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Self",
-    "comment": "",
-    "scraped_at": "2026-05-01T14:13:21.187582+00:00"
   },
   {
     "id": "20003798326",
@@ -34749,27 +35526,6 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: CETERA",
     "scraped_at": "2026-05-01T14:13:21.187577+00:00"
-  },
-  {
-    "id": "20003797387",
-    "politician_name": "Laura Friedman",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "CA",
-    "company": "Abbott Laboratories",
-    "ticker": "ABT:US",
-    "sector": "health-care",
-    "transaction_type": "EXCHANGE",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-24",
-    "trade_published": "2026-04-20",
-    "filed_after_days": "24",
-    "price": "$104.06",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Fidelity Brokerage Services, LLC Description: Exact Sciences Corp Stock (EXAS) exchanged for Abbot Laboratories (ABT) stock following merger.",
-    "scraped_at": "2026-05-01T14:13:21.187586+00:00"
   },
   {
     "id": "10000064918",
