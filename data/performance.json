@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-20",
-  "entry_count": 1339,
+  "entry_count": 1341,
   "entries": [
     {
       "id": "US|AMRZ|2026-05-21|brouwer roald|49.84",
@@ -68449,6 +68449,46 @@
       },
       "latest_price": 7.34,
       "return_pct": -64.0,
+      "last_snapshot": "2026-07-20"
+    },
+    {
+      "id": "US|FCEL|2026-07-16|livingston iii homer john|18.79",
+      "market": "US",
+      "ticker": "FCEL",
+      "yf_symbol": "FCEL",
+      "company": "Fuelcell Energy Inc",
+      "insider_name": "Livingston III Homer John",
+      "title": "Dir",
+      "trade_date": "2026-07-16",
+      "trade_price": 18.79,
+      "value": 494967.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-20": 18.5
+      },
+      "latest_price": 18.5,
+      "return_pct": -1.54,
+      "last_snapshot": "2026-07-20"
+    },
+    {
+      "id": "US|SLAI|2026-07-16|law man san|3.57",
+      "market": "US",
+      "ticker": "SLAI",
+      "yf_symbol": "SLAI",
+      "company": "Solai Ltd",
+      "insider_name": "Law Man San",
+      "title": "Dir",
+      "trade_date": "2026-07-16",
+      "trade_price": 3.57,
+      "value": 194006.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-20": 3.72
+      },
+      "latest_price": 3.72,
+      "return_pct": 4.2,
       "last_snapshot": "2026-07-20"
     }
   ]

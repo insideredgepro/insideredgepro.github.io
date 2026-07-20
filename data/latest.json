@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-20T09:50:18Z",
-  "trade_count": 8475,
+  "last_updated": "2026-07-20T12:09:35Z",
+  "trade_count": 8477,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -135601,6 +135601,38 @@
       "delta_own": "+49%",
       "value": "1006711",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-20",
+      "filing_time": "08:03",
+      "trade_date": "2026-07-16",
+      "ticker": "FCEL",
+      "company": "Fuelcell Energy Inc",
+      "insider_name": "Livingston III Homer John",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "18.79",
+      "qty": "26343",
+      "owned": "26343",
+      "delta_own": "New",
+      "value": "494967",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-20",
+      "filing_time": "06:51",
+      "trade_date": "2026-07-16",
+      "ticker": "SLAI",
+      "company": "Solai Ltd",
+      "insider_name": "Law Man San",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.57",
+      "qty": "54275",
+      "owned": "85705205",
+      "delta_own": "0%",
+      "value": "194006",
+      "cluster_buy": false
     }
   ]
 }
