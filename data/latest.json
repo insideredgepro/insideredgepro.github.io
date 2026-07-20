@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-20T21:01:53Z",
-  "trade_count": 8479,
+  "last_updated": "2026-07-20T22:47:39Z",
+  "trade_count": 8483,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -135664,6 +135664,70 @@
       "owned": "249056",
       "delta_own": "+4%",
       "value": "153180",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-20",
+      "filing_time": "18:31",
+      "trade_date": "2026-07-20",
+      "ticker": "ZSTK",
+      "company": "Zerostack Corp.",
+      "insider_name": "Heinrich Michael",
+      "title": "Exec COB",
+      "trade_type": "P - Purchase",
+      "price": "0.75",
+      "qty": "4608575",
+      "owned": "4608575",
+      "delta_own": "New",
+      "value": "3479013",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-20",
+      "filing_time": "18:19",
+      "trade_date": "2026-07-20",
+      "ticker": "ANIX",
+      "company": "Anixa Biosciences Inc",
+      "insider_name": "Titterton Lewis H Jr",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.47",
+      "qty": "12000",
+      "owned": "986967",
+      "delta_own": "+1%",
+      "value": "41640",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-20",
+      "filing_time": "18:08",
+      "trade_date": "2026-07-16",
+      "ticker": "ARTV",
+      "company": "Artiva Biotherapeutics, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "8.93",
+      "qty": "160354",
+      "owned": "18137650",
+      "delta_own": "+1%",
+      "value": "1432119",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-20",
+      "filing_time": "17:30",
+      "trade_date": "2026-07-16",
+      "ticker": "CBIO",
+      "company": "Crescent Biopharma, Inc.",
+      "insider_name": "Fairmount Funds Management LLC",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "14.50",
+      "qty": "853450",
+      "owned": "3601316",
+      "delta_own": "+31%",
+      "value": "12375025",
       "cluster_buy": false
     }
   ]

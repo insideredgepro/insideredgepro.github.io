@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-20",
-  "entry_count": 1343,
+  "entry_count": 1347,
   "entries": [
     {
       "id": "US|AMRZ|2026-05-21|brouwer roald|49.84",
@@ -68533,6 +68533,86 @@
       },
       "latest_price": 17.03,
       "return_pct": 0.06,
+      "last_snapshot": "2026-07-20"
+    },
+    {
+      "id": "US|ZSTK|2026-07-20|heinrich michael|0.75",
+      "market": "US",
+      "ticker": "ZSTK",
+      "yf_symbol": "ZSTK",
+      "company": "Zerostack Corp.",
+      "insider_name": "Heinrich Michael",
+      "title": "Exec COB",
+      "trade_date": "2026-07-20",
+      "trade_price": 0.75,
+      "value": 3479013.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-20": 1.65
+      },
+      "latest_price": 1.65,
+      "return_pct": 120.0,
+      "last_snapshot": "2026-07-20"
+    },
+    {
+      "id": "US|ANIX|2026-07-20|titterton lewis h jr|3.47",
+      "market": "US",
+      "ticker": "ANIX",
+      "yf_symbol": "ANIX",
+      "company": "Anixa Biosciences Inc",
+      "insider_name": "Titterton Lewis H Jr",
+      "title": "Dir",
+      "trade_date": "2026-07-20",
+      "trade_price": 3.47,
+      "value": 41640.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-20": 3.46
+      },
+      "latest_price": 3.46,
+      "return_pct": -0.29,
+      "last_snapshot": "2026-07-20"
+    },
+    {
+      "id": "US|ARTV|2026-07-16|ra capital management, l.p.|8.93",
+      "market": "US",
+      "ticker": "ARTV",
+      "yf_symbol": "ARTV",
+      "company": "Artiva Biotherapeutics, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-07-16",
+      "trade_price": 8.93,
+      "value": 1432119.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-20": 9.15
+      },
+      "latest_price": 9.15,
+      "return_pct": 2.46,
+      "last_snapshot": "2026-07-20"
+    },
+    {
+      "id": "US|CBIO|2026-07-16|fairmount funds management llc|14.5",
+      "market": "US",
+      "ticker": "CBIO",
+      "yf_symbol": "CBIO",
+      "company": "Crescent Biopharma, Inc.",
+      "insider_name": "Fairmount Funds Management LLC",
+      "title": "Dir, 10%",
+      "trade_date": "2026-07-16",
+      "trade_price": 14.5,
+      "value": 12375025.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-20": 15.05
+      },
+      "latest_price": 15.05,
+      "return_pct": 3.79,
       "last_snapshot": "2026-07-20"
     }
   ]
