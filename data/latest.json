@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-20T19:26:08Z",
-  "trade_count": 8478,
+  "last_updated": "2026-07-20T21:01:53Z",
+  "trade_count": 8479,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -135648,6 +135648,22 @@
       "owned": "80905280",
       "delta_own": "+1%",
       "value": "8480293",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-20",
+      "filing_time": "16:20",
+      "trade_date": "2026-07-17",
+      "ticker": "BXSY",
+      "company": "Bexil Investment Trust",
+      "insider_name": "Winmill & Co. Inc",
+      "title": "See \"Explanation of Responses\"",
+      "trade_type": "P - Purchase",
+      "price": "17.02",
+      "qty": "9000",
+      "owned": "249056",
+      "delta_own": "+4%",
+      "value": "153180",
       "cluster_buy": false
     }
   ]
