@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-21T10:57:20Z",
-  "trade_count": 8485,
+  "last_updated": "2026-07-21T12:21:33Z",
+  "trade_count": 8486,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -135761,6 +135761,22 @@
       "delta_own": "+10%",
       "value": "215360",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-21",
+      "filing_time": "08:00",
+      "trade_date": "2026-07-17",
+      "ticker": "PRQR",
+      "company": "Proqr Therapeutics N.V.",
+      "insider_name": "Filius Bart",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.72",
+      "qty": "150000",
+      "owned": "300000",
+      "delta_own": "+100%",
+      "value": "257925",
+      "cluster_buy": true
     }
   ]
 }

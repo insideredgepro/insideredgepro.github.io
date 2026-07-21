@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-21",
-  "entry_count": 1295,
+  "entry_count": 1296,
   "entries": [
     {
       "id": "US|AAT|2026-05-22|rady ernest s|22.67",
@@ -65865,6 +65865,26 @@
       },
       "latest_price": 402.3,
       "return_pct": 460.38,
+      "last_snapshot": "2026-07-21"
+    },
+    {
+      "id": "US|PRQR|2026-07-17|filius bart|1.72",
+      "market": "US",
+      "ticker": "PRQR",
+      "yf_symbol": "PRQR",
+      "company": "Proqr Therapeutics N.V.",
+      "insider_name": "Filius Bart",
+      "title": "Dir",
+      "trade_date": "2026-07-17",
+      "trade_price": 1.72,
+      "value": 257925.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-21": 1.76
+      },
+      "latest_price": 1.76,
+      "return_pct": 2.33,
       "last_snapshot": "2026-07-21"
     }
   ]
