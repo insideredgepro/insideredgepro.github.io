@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-21T20:14:20Z",
-  "trade_count": 8486,
+  "last_updated": "2026-07-21T21:56:09Z",
+  "trade_count": 8488,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -135777,6 +135777,38 @@
       "delta_own": "+100%",
       "value": "257925",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-21",
+      "filing_time": "17:20",
+      "trade_date": "2026-07-17",
+      "ticker": "STWI",
+      "company": "Stagewise Strategies Corp.",
+      "insider_name": "Artikkhodjaev Jakhongir Abidovich",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "0.25",
+      "qty": "1000000",
+      "owned": "4000000",
+      "delta_own": "+33%",
+      "value": "250000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-21",
+      "filing_time": "16:36",
+      "trade_date": "2026-07-17",
+      "ticker": "ENR",
+      "company": "Energizer Holdings, Inc.",
+      "insider_name": "Aqua Capital, Ltd.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "20.21",
+      "qty": "100000",
+      "owned": "7760000",
+      "delta_own": "+1%",
+      "value": "2020850",
+      "cluster_buy": false
     }
   ]
 }
