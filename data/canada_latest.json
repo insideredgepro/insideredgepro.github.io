@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-20T22:00:51Z",
-  "trade_count": 3470,
+  "last_updated": "2026-07-21T03:46:01Z",
+  "trade_count": 3471,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -53069,6 +53069,22 @@
       "qty": "70000",
       "price": "0.4800",
       "value": "33600",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4754653",
+      "trade_date": "2026-07-20",
+      "filing_date": "2026-07-20",
+      "company": "EQB Inc.",
+      "ticker": "EQB",
+      "insider_name": "Loblaw Companies Limited",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "8000",
+      "price": "141.5704",
+      "value": "1132563",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
