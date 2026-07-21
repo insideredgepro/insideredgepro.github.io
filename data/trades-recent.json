@@ -374,6 +374,69 @@
     "scraped_at": "2026-03-03T06:07:47.231168"
   },
   {
+    "id": "20003801563",
+    "politician_name": "James Himes",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "CT",
+    "company": "Bank of America Corp",
+    "ticker": "BAC:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-20",
+    "trade_published": "2026-07-21",
+    "filed_after_days": "",
+    "price": "$60.42",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Fidelity Brokerage",
+    "scraped_at": "2026-07-21T16:10:03.511441+00:00"
+  },
+  {
+    "id": "20003801564",
+    "politician_name": "James Himes",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "CT",
+    "company": "Exxon Mobil Corp",
+    "ticker": "XOM:US",
+    "sector": "energy",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-20",
+    "trade_published": "2026-07-21",
+    "filed_after_days": "",
+    "price": "$148.36",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Fidelity Brokerage",
+    "scraped_at": "2026-07-21T16:10:03.511470+00:00"
+  },
+  {
+    "id": "20003801565",
+    "politician_name": "James Himes",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "CT",
+    "company": "The Home Depot Inc",
+    "ticker": "HD:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-20",
+    "trade_published": "2026-07-21",
+    "filed_after_days": "",
+    "price": "$333.04",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Fidelity Brokerage",
+    "scraped_at": "2026-07-21T16:10:03.511483+00:00"
+  },
+  {
     "id": "20003801468",
     "politician_name": "Rudolph Yakym",
     "party": "Republican",
@@ -413,7 +476,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285384+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511717+00:00"
   },
   {
     "id": "20003801531",
@@ -434,7 +497,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285399+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511722+00:00"
   },
   {
     "id": "20003801532",
@@ -455,7 +518,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285408+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511728+00:00"
   },
   {
     "id": "20003801533",
@@ -476,7 +539,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285415+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511733+00:00"
   },
   {
     "id": "20003801534",
@@ -497,7 +560,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285423+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511738+00:00"
   },
   {
     "id": "20003801535",
@@ -518,7 +581,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285430+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511746+00:00"
   },
   {
     "id": "20003801536",
@@ -539,7 +602,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285439+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511751+00:00"
   },
   {
     "id": "20003801537",
@@ -560,7 +623,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285447+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511756+00:00"
   },
   {
     "id": "20003801538",
@@ -581,7 +644,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285454+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511761+00:00"
   },
   {
     "id": "20003801539",
@@ -602,7 +665,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285461+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511765+00:00"
   },
   {
     "id": "20003801540",
@@ -623,7 +686,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285468+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511770+00:00"
   },
   {
     "id": "20003801541",
@@ -644,7 +707,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285476+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511775+00:00"
   },
   {
     "id": "20003801542",
@@ -665,7 +728,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285483+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511781+00:00"
   },
   {
     "id": "20003801543",
@@ -686,7 +749,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285490+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511786+00:00"
   },
   {
     "id": "20003801544",
@@ -707,7 +770,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285496+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511791+00:00"
   },
   {
     "id": "20003801545",
@@ -728,7 +791,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285540+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511797+00:00"
   },
   {
     "id": "20003801546",
@@ -749,7 +812,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285547+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511802+00:00"
   },
   {
     "id": "20003801547",
@@ -770,7 +833,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285556+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511807+00:00"
   },
   {
     "id": "20003801548",
@@ -791,7 +854,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285562+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511812+00:00"
   },
   {
     "id": "20003801549",
@@ -812,7 +875,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285569+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511818+00:00"
   },
   {
     "id": "20003801550",
@@ -833,7 +896,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285594+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511822+00:00"
   },
   {
     "id": "20003801551",
@@ -854,7 +917,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285604+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511827+00:00"
   },
   {
     "id": "20003801552",
@@ -875,7 +938,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285612+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511834+00:00"
   },
   {
     "id": "20003801553",
@@ -896,7 +959,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285619+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511838+00:00"
   },
   {
     "id": "20003801554",
@@ -917,7 +980,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285626+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511843+00:00"
   },
   {
     "id": "20003801555",
@@ -938,7 +1001,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285633+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511847+00:00"
   },
   {
     "id": "20003801556",
@@ -959,7 +1022,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285640+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511853+00:00"
   },
   {
     "id": "20003801557",
@@ -980,7 +1043,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285651+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511858+00:00"
   },
   {
     "id": "20003801558",
@@ -1001,7 +1064,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285658+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511863+00:00"
   },
   {
     "id": "20003801559",
@@ -1022,7 +1085,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285665+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511868+00:00"
   },
   {
     "id": "20003801560",
@@ -1043,7 +1106,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Edward Jones IRA",
-    "scraped_at": "2026-07-21T03:55:03.285672+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511872+00:00"
   },
   {
     "id": "20003801321",
@@ -1169,7 +1232,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Description: Put Option",
-    "scraped_at": "2026-07-21T03:55:03.285692+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511887+00:00"
   },
   {
     "id": "20003801527",
@@ -1190,7 +1253,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Description: Call option",
-    "scraped_at": "2026-07-21T03:55:03.285698+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511892+00:00"
   },
   {
     "id": "20003801487",
@@ -2009,7 +2072,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
-    "scraped_at": "2026-07-21T03:55:03.285726+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511913+00:00"
   },
   {
     "id": "20003801520",
@@ -2030,7 +2093,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE IRA",
-    "scraped_at": "2026-07-21T03:55:03.285736+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511918+00:00"
   },
   {
     "id": "20003801521",
@@ -2051,7 +2114,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
-    "scraped_at": "2026-07-21T03:55:03.285743+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511922+00:00"
   },
   {
     "id": "20003801327",
@@ -2177,7 +2240,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-07-21T03:55:03.285751+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511927+00:00"
   },
   {
     "id": "10000065284",
@@ -2472,6 +2535,111 @@
     "owner": "Self",
     "comment": "",
     "scraped_at": "2026-07-14T03:55:03.496657+00:00"
+  },
+  {
+    "id": "10000065314",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-24",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "23",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 9 LLC",
+    "scraped_at": "2026-07-21T16:10:03.511557+00:00"
+  },
+  {
+    "id": "10000065322",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-24",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "23",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 2000 LLC",
+    "scraped_at": "2026-07-21T16:10:03.511597+00:00"
+  },
+  {
+    "id": "10000065328",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-24",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "23",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Hedge Holdings LLC",
+    "scraped_at": "2026-07-21T16:10:03.511622+00:00"
+  },
+  {
+    "id": "10000065334",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-24",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "23",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "LarryMae LLC",
+    "scraped_at": "2026-07-21T16:10:03.511651+00:00"
+  },
+  {
+    "id": "10000065345",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-24",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "23",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Summa I LLC",
+    "scraped_at": "2026-07-21T16:10:03.511706+00:00"
   },
   {
     "id": "20003801494",
@@ -2808,6 +2976,405 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
     "scraped_at": "2026-07-06T16:11:50.314832+00:00"
+  },
+  {
+    "id": "10000065302",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "3M's Partners LLC",
+    "scraped_at": "2026-07-21T16:10:03.511502+00:00"
+  },
+  {
+    "id": "10000065303",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "3M's Partners LLC",
+    "scraped_at": "2026-07-21T16:10:03.511506+00:00"
+  },
+  {
+    "id": "10000065307",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 9 LLC - 3M's Partners LLC",
+    "scraped_at": "2026-07-21T16:10:03.511523+00:00"
+  },
+  {
+    "id": "10000065308",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 9 LLC - 3M's Partners LLC",
+    "scraped_at": "2026-07-21T16:10:03.511527+00:00"
+  },
+  {
+    "id": "10000065312",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 9 LLC",
+    "scraped_at": "2026-07-21T16:10:03.511548+00:00"
+  },
+  {
+    "id": "10000065313",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 9 LLC",
+    "scraped_at": "2026-07-21T16:10:03.511552+00:00"
+  },
+  {
+    "id": "10000065319",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "DAYS BETWEEN LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 2000 LLC",
+    "scraped_at": "2026-07-21T16:10:03.511582+00:00"
+  },
+  {
+    "id": "10000065320",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 2000 LLC",
+    "scraped_at": "2026-07-21T16:10:03.511588+00:00"
+  },
+  {
+    "id": "10000065321",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 2000 LLC",
+    "scraped_at": "2026-07-21T16:10:03.511592+00:00"
+  },
+  {
+    "id": "10000065326",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Hedge Holdings LLC",
+    "scraped_at": "2026-07-21T16:10:03.511614+00:00"
+  },
+  {
+    "id": "10000065327",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Hedge Holdings LLC",
+    "scraped_at": "2026-07-21T16:10:03.511618+00:00"
+  },
+  {
+    "id": "10000065332",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "LarryMae LLC",
+    "scraped_at": "2026-07-21T16:10:03.511642+00:00"
+  },
+  {
+    "id": "10000065333",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "LarryMae LLC",
+    "scraped_at": "2026-07-21T16:10:03.511647+00:00"
+  },
+  {
+    "id": "10000065335",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "DAYS BETWEEN LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "New Things Partners",
+    "scraped_at": "2026-07-21T16:10:03.511658+00:00"
+  },
+  {
+    "id": "10000065338",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Other One LLC",
+    "scraped_at": "2026-07-21T16:10:03.511673+00:00"
+  },
+  {
+    "id": "10000065339",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Other One LLC",
+    "scraped_at": "2026-07-21T16:10:03.511679+00:00"
+  },
+  {
+    "id": "10000065342",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "DAYS BETWEEN LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Spouse",
+    "comment": "Summa I LLC",
+    "scraped_at": "2026-07-21T16:10:03.511693+00:00"
+  },
+  {
+    "id": "10000065343",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Summa I LLC",
+    "scraped_at": "2026-07-21T16:10:03.511697+00:00"
+  },
+  {
+    "id": "10000065344",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-23",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Summa I LLC",
+    "scraped_at": "2026-07-21T16:10:03.511701+00:00"
   },
   {
     "id": "20003801378",
@@ -3962,7 +4529,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Description: Put Option",
-    "scraped_at": "2026-07-21T03:55:03.285686+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511883+00:00"
   },
   {
     "id": "20003801469",
@@ -4994,6 +5561,111 @@
     "scraped_at": "2026-06-27T03:55:03.001225+00:00"
   },
   {
+    "id": "10000065306",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-15",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "32",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 9 LLC - 3M's Partners LLC",
+    "scraped_at": "2026-07-21T16:10:03.511519+00:00"
+  },
+  {
+    "id": "10000065311",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-15",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "32",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 9 LLC",
+    "scraped_at": "2026-07-21T16:10:03.511544+00:00"
+  },
+  {
+    "id": "10000065318",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-15",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "32",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 2000 LLC",
+    "scraped_at": "2026-07-21T16:10:03.511576+00:00"
+  },
+  {
+    "id": "10000065325",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-15",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "32",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Hedge Holdings LLC",
+    "scraped_at": "2026-07-21T16:10:03.511609+00:00"
+  },
+  {
+    "id": "10000065331",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-15",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "32",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "LarryMae LLC",
+    "scraped_at": "2026-07-21T16:10:03.511638+00:00"
+  },
+  {
     "id": "20003801562",
     "politician_name": "William Timmons",
     "party": "Republican",
@@ -5012,7 +5684,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: SCH Invest Description: Stock Ticker not available in system",
-    "scraped_at": "2026-07-21T03:55:03.285350+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511712+00:00"
   },
   {
     "id": "20003801522",
@@ -5033,7 +5705,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-07-21T03:55:03.285719+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511907+00:00"
   },
   {
     "id": "20003801490",
@@ -5918,6 +6590,27 @@
     "scraped_at": "2026-07-09T03:55:03.466265+00:00"
   },
   {
+    "id": "10000065317",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "DECIBEL PARTNERS I LP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-11",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "36",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 2000 LLC",
+    "scraped_at": "2026-07-21T16:10:03.511570+00:00"
+  },
+  {
     "id": "20003801340",
     "politician_name": "Michael McCaul",
     "party": "Republican",
@@ -6105,6 +6798,174 @@
     "owner": "Not Disclosed",
     "comment": "DESCRIPTION: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings calls to prevent insider trading. COMMENTS: Spouse received restricted stock units (RSUs) as part of compensation as employee of Pinterest. The RSUs vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings calls to prevent insider trading.",
     "scraped_at": "2026-06-08T16:10:02.025205+00:00"
+  },
+  {
+    "id": "10000065301",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "37",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "3M's Partners LLC",
+    "scraped_at": "2026-07-21T16:10:03.511496+00:00"
+  },
+  {
+    "id": "10000065305",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "37",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 9 LLC - 3M's Partners LLC",
+    "scraped_at": "2026-07-21T16:10:03.511514+00:00"
+  },
+  {
+    "id": "10000065310",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "37",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 9 LLC",
+    "scraped_at": "2026-07-21T16:10:03.511540+00:00"
+  },
+  {
+    "id": "10000065316",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "37",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 2000 LLC",
+    "scraped_at": "2026-07-21T16:10:03.511566+00:00"
+  },
+  {
+    "id": "10000065324",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "37",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Hedge Holdings LLC",
+    "scraped_at": "2026-07-21T16:10:03.511605+00:00"
+  },
+  {
+    "id": "10000065330",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "37",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "LarryMae LLC",
+    "scraped_at": "2026-07-21T16:10:03.511633+00:00"
+  },
+  {
+    "id": "10000065337",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "37",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Other One LLC",
+    "scraped_at": "2026-07-21T16:10:03.511669+00:00"
+  },
+  {
+    "id": "10000065341",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH FOUR WINDS LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-10",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "37",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Summa I LLC",
+    "scraped_at": "2026-07-21T16:10:03.511689+00:00"
   },
   {
     "id": "20003801480",
@@ -6651,6 +7512,174 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America Description: Ticker 8035 JP",
     "scraped_at": "2026-07-06T16:11:50.314822+00:00"
+  },
+  {
+    "id": "10000065300",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-08",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "39",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "3M's Partners LLC",
+    "scraped_at": "2026-07-21T16:10:03.511491+00:00"
+  },
+  {
+    "id": "10000065304",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-08",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "39",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 9 LLC - 3M's Partners LLC",
+    "scraped_at": "2026-07-21T16:10:03.511510+00:00"
+  },
+  {
+    "id": "10000065309",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-08",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "39",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 9 LLC",
+    "scraped_at": "2026-07-21T16:10:03.511534+00:00"
+  },
+  {
+    "id": "10000065315",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-08",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "39",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "Peter L Malkin Family 2000 LLC",
+    "scraped_at": "2026-07-21T16:10:03.511562+00:00"
+  },
+  {
+    "id": "10000065323",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-08",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "39",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "Hedge Holdings LLC",
+    "scraped_at": "2026-07-21T16:10:03.511601+00:00"
+  },
+  {
+    "id": "10000065329",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-08",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "39",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "LarryMae LLC",
+    "scraped_at": "2026-07-21T16:10:03.511628+00:00"
+  },
+  {
+    "id": "10000065336",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-08",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "39",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Other One LLC",
+    "scraped_at": "2026-07-21T16:10:03.511665+00:00"
+  },
+  {
+    "id": "10000065340",
+    "politician_name": "Richard Blumenthal",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "CT",
+    "company": "MH BUILT TO LAST LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-08",
+    "trade_published": "2026-07-20",
+    "filed_after_days": "39",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Summa I LLC",
+    "scraped_at": "2026-07-21T16:10:03.511683+00:00"
   },
   {
     "id": "10000065290",
@@ -8582,7 +9611,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Description: Call option contracts.",
-    "scraped_at": "2026-07-21T03:55:03.285680+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511877+00:00"
   },
   {
     "id": "20003801529",
@@ -8603,7 +9632,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Description: Call option contracts",
-    "scraped_at": "2026-07-21T03:55:03.285713+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511902+00:00"
   },
   {
     "id": "20003801493",
@@ -10451,7 +11480,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-07-21T03:55:03.285758+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511933+00:00"
   },
   {
     "id": "20003801512",
@@ -10472,7 +11501,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-07-21T03:55:03.285765+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511938+00:00"
   },
   {
     "id": "20003801513",
@@ -10493,7 +11522,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-07-21T03:55:03.285771+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511943+00:00"
   },
   {
     "id": "20003801514",
@@ -10514,7 +11543,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Description: FAS is an ETF but was no searchable as an asset for some reason",
-    "scraped_at": "2026-07-21T03:55:03.285778+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511948+00:00"
   },
   {
     "id": "20003801517",
@@ -17759,7 +18788,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-07-21T03:55:03.285705+00:00"
+    "scraped_at": "2026-07-21T16:10:03.511897+00:00"
   },
   {
     "id": "20003800679",
@@ -32336,27 +33365,6 @@
     "scraped_at": "2026-05-01T14:13:21.187409+00:00"
   },
   {
-    "id": "20003797389",
-    "politician_name": "Cleo Fields",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "LA",
-    "company": "Taiwan Semiconductor Manufacturing Co Ltd",
-    "ticker": "TSM:US",
-    "sector": "information-technology",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-04-09",
-    "trade_published": "2026-04-21",
-    "filed_after_days": "11",
-    "price": "$365.49",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
-    "scraped_at": "2026-05-01T14:13:21.187567+00:00"
-  },
-  {
     "id": "20003798320",
     "politician_name": "George Kelly",
     "party": "Republican",
@@ -35297,69 +36305,6 @@
     "scraped_at": "2026-05-01T14:13:21.187538+00:00"
   },
   {
-    "id": "20003797391",
-    "politician_name": "Terrycina Sewell",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "AL",
-    "company": "GE HEALTHCARE TECHNOLOGI INC",
-    "ticker": "GEHC:US",
-    "sector": "health-care",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-25",
-    "trade_published": "2026-04-21",
-    "filed_after_days": "27",
-    "price": "$72.20",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "",
-    "scraped_at": "2026-05-01T14:13:21.187558+00:00"
-  },
-  {
-    "id": "20003797392",
-    "politician_name": "Terrycina Sewell",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "AL",
-    "company": "Tapestry Inc",
-    "ticker": "TPR:US",
-    "sector": "consumer-discretionary",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-25",
-    "trade_published": "2026-04-21",
-    "filed_after_days": "27",
-    "price": "$146.18",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed",
-    "comment": "",
-    "scraped_at": "2026-05-01T14:13:21.187563+00:00"
-  },
-  {
-    "id": "20003797390",
-    "politician_name": "Daniel Meuser",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "PA",
-    "company": "NVIDIA Corporation",
-    "ticker": "NVDA:US",
-    "sector": "information-technology",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-25",
-    "trade_published": "2026-04-21",
-    "filed_after_days": "27",
-    "price": "$178.68",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "Subholding Of: Schwab Brokerage Account",
-    "scraped_at": "2026-05-01T14:13:21.187571+00:00"
-  },
-  {
     "id": "20003797520",
     "politician_name": "Richard Allen",
     "party": "Republican",
@@ -35505,27 +36450,6 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS IRA Account",
     "scraped_at": "2026-05-01T14:13:21.187506+00:00"
-  },
-  {
-    "id": "20003797388",
-    "politician_name": "Dwight Evans",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "PA",
-    "company": "Micron Technology Inc",
-    "ticker": "MU:US",
-    "sector": "information-technology",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-24",
-    "trade_published": "2026-04-21",
-    "filed_after_days": "27",
-    "price": "$395.53",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: CETERA",
-    "scraped_at": "2026-05-01T14:13:21.187577+00:00"
   },
   {
     "id": "10000064918",
