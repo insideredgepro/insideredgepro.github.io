@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-20",
-  "entry_count": 1347,
+  "entry_count": 1348,
   "entries": [
     {
       "id": "US|AMRZ|2026-05-21|brouwer roald|49.84",
@@ -44473,8 +44473,8 @@
         "2026-07-19": 4.44,
         "2026-07-20": 4.44
       },
-      "latest_price": 4.44,
-      "return_pct": 1.14,
+      "latest_price": 4.35,
+      "return_pct": -0.91,
       "last_snapshot": "2026-07-20"
     },
     {
@@ -68613,6 +68613,26 @@
       },
       "latest_price": 15.05,
       "return_pct": 3.79,
+      "last_snapshot": "2026-07-20"
+    },
+    {
+      "id": "US|FULC|2026-07-16|tang kevin|3.55",
+      "market": "US",
+      "ticker": "FULC",
+      "yf_symbol": "FULC",
+      "company": "Fulcrum Therapeutics, Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "10%",
+      "trade_date": "2026-07-16",
+      "trade_price": 3.55,
+      "value": 594675.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-20": 3.62
+      },
+      "latest_price": 3.62,
+      "return_pct": 1.97,
       "last_snapshot": "2026-07-20"
     }
   ]
