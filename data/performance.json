@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-21",
-  "entry_count": 1300,
+  "entry_count": 1301,
   "entries": [
     {
       "id": "US|AAT|2026-05-22|rady ernest s|22.67",
@@ -65963,6 +65963,26 @@
       },
       "latest_price": 14.85,
       "return_pct": 1.78,
+      "last_snapshot": "2026-07-21"
+    },
+    {
+      "id": "US|CV|2026-07-17|harari eliyahou et al|6.73",
+      "market": "US",
+      "ticker": "CV",
+      "yf_symbol": "CV",
+      "company": "Capsovision, Inc",
+      "insider_name": "Harari Eliyahou Et Al",
+      "title": "10%",
+      "trade_date": "2026-07-17",
+      "trade_price": 6.73,
+      "value": 410988.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-21": 7.02
+      },
+      "latest_price": 7.02,
+      "return_pct": 4.31,
       "last_snapshot": "2026-07-21"
     }
   ]
