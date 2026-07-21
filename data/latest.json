@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-21T21:56:09Z",
-  "trade_count": 8488,
+  "last_updated": "2026-07-21T22:47:17Z",
+  "trade_count": 8490,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -135808,6 +135808,38 @@
       "owned": "7760000",
       "delta_own": "+1%",
       "value": "2020850",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-21",
+      "filing_time": "18:29",
+      "trade_date": "2026-07-17",
+      "ticker": "RANI",
+      "company": "Rani Therapeutics Holdings, Inc.",
+      "insider_name": "Imran Talat",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.72",
+      "qty": "35000",
+      "owned": "469736",
+      "delta_own": "+8%",
+      "value": "25193",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-21",
+      "filing_time": "18:01",
+      "trade_date": "2026-07-17",
+      "ticker": "CAG",
+      "company": "Conagra Brands Inc.",
+      "insider_name": "Brase John P",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "14.59",
+      "qty": "35000",
+      "owned": "35000",
+      "delta_own": "New",
+      "value": "510633",
       "cluster_buy": false
     }
   ]

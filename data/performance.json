@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-21",
-  "entry_count": 1298,
+  "entry_count": 1300,
   "entries": [
     {
       "id": "US|AAT|2026-05-22|rady ernest s|22.67",
@@ -65923,6 +65923,46 @@
       },
       "latest_price": 20.08,
       "return_pct": -0.64,
+      "last_snapshot": "2026-07-21"
+    },
+    {
+      "id": "US|RANI|2026-07-17|imran talat|0.72",
+      "market": "US",
+      "ticker": "RANI",
+      "yf_symbol": "RANI",
+      "company": "Rani Therapeutics Holdings, Inc.",
+      "insider_name": "Imran Talat",
+      "title": "CEO",
+      "trade_date": "2026-07-17",
+      "trade_price": 0.72,
+      "value": 25193.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-21": 0.691
+      },
+      "latest_price": 0.691,
+      "return_pct": -4.03,
+      "last_snapshot": "2026-07-21"
+    },
+    {
+      "id": "US|CAG|2026-07-17|brase john p|14.59",
+      "market": "US",
+      "ticker": "CAG",
+      "yf_symbol": "CAG",
+      "company": "Conagra Brands Inc.",
+      "insider_name": "Brase John P",
+      "title": "Pres, CEO",
+      "trade_date": "2026-07-17",
+      "trade_price": 14.59,
+      "value": 510633.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-21": 14.85
+      },
+      "latest_price": 14.85,
+      "return_pct": 1.78,
       "last_snapshot": "2026-07-21"
     }
   ]
