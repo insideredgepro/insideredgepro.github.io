@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T16:00:21Z",
-  "trade_count": 3479,
+  "last_updated": "2026-07-22T22:00:25Z",
+  "trade_count": 3480,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -53216,6 +53216,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4755128",
+      "trade_date": "2026-07-22",
+      "filing_date": "2026-07-22",
+      "company": "Saturn Oil & Gas Inc.",
+      "ticker": "SOIL",
+      "insider_name": "MacKenzie, Grant Alexandre",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "2700",
+      "price": "5.8400",
+      "value": "15768",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
