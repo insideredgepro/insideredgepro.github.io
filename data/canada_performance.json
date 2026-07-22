@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-21",
-  "entry_count": 344,
+  "entry_count": 346,
   "entries": [
     {
       "id": "CA|LFLR|2026-05-22|coloured ties capital inc.|0.5586",
@@ -3488,8 +3488,8 @@
         "2026-07-20": 0.88,
         "2026-07-21": 0.87
       },
-      "latest_price": 0.87,
-      "return_pct": 2.35,
+      "latest_price": 0.85,
+      "return_pct": 0.0,
       "last_snapshot": "2026-07-21"
     },
     {
@@ -14715,6 +14715,46 @@
         "2026-07-21": 0.95
       },
       "latest_price": 0.95,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-07-21"
+    },
+    {
+      "id": "CA|IGO|2026-07-21|gestion bouca inc|0.1",
+      "market": "CA",
+      "ticker": "IGO",
+      "yf_symbol": "IGO.V",
+      "company": "Independence Gold Corp.",
+      "insider_name": "Gestion Bouca Inc",
+      "title": "10% Holder",
+      "trade_date": "2026-07-21",
+      "trade_price": 0.1,
+      "value": 87000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-07-21": 0.105
+      },
+      "latest_price": 0.105,
+      "return_pct": 5.0,
+      "last_snapshot": "2026-07-21"
+    },
+    {
+      "id": "CA|IGO|2026-07-21|gestion bouca inc|0.105",
+      "market": "CA",
+      "ticker": "IGO",
+      "yf_symbol": "IGO.V",
+      "company": "Independence Gold Corp.",
+      "insider_name": "Gestion Bouca Inc",
+      "title": "10% Holder",
+      "trade_date": "2026-07-21",
+      "trade_price": 0.105,
+      "value": 15802.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-07-21": 0.105
+      },
+      "latest_price": 0.105,
       "return_pct": 0.0,
       "last_snapshot": "2026-07-21"
     }
