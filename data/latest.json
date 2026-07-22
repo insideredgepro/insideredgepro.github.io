@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T20:07:21Z",
-  "trade_count": 8493,
+  "last_updated": "2026-07-22T21:58:18Z",
+  "trade_count": 8495,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -135889,6 +135889,38 @@
       "delta_own": "0%",
       "value": "94860",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-22",
+      "filing_time": "16:55",
+      "trade_date": "2026-07-20",
+      "ticker": "PBLS",
+      "company": "Parabilis Medicines, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "28.29",
+      "qty": "244593",
+      "owned": "29177964",
+      "delta_own": "+1%",
+      "value": "6919551",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-22",
+      "filing_time": "16:29",
+      "trade_date": "2026-07-20",
+      "ticker": "HDSN",
+      "company": "Hudson Technologies Inc /Ny",
+      "insider_name": "Hartree Partners, LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "5.99",
+      "qty": "65550",
+      "owned": "5042086",
+      "delta_own": "+1%",
+      "value": "392602",
+      "cluster_buy": true
     }
   ]
 }
