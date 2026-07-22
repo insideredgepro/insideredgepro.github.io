@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T03:45:25Z",
-  "trade_count": 3478,
+  "last_updated": "2026-07-22T16:00:21Z",
+  "trade_count": 3479,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -53197,6 +53197,22 @@
       "qty": "150500",
       "price": "0.1050",
       "value": "15802",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4754978",
+      "trade_date": "2026-07-22",
+      "filing_date": "2026-07-22",
+      "company": "Imperial Equities Inc.",
+      "ticker": "IEI",
+      "insider_name": "CHADI, SINE KASSIM",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "3900",
+      "price": "4.5000",
+      "value": "17550",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
