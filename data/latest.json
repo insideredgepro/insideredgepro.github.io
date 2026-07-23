@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T23:00:21Z",
-  "trade_count": 8495,
+  "last_updated": "2026-07-23T00:03:01Z",
+  "trade_count": 8496,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -135921,6 +135921,22 @@
       "delta_own": "+1%",
       "value": "392602",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-22",
+      "filing_time": "20:00",
+      "trade_date": "2026-07-20",
+      "ticker": "SNES",
+      "company": "Senestech, Inc.",
+      "insider_name": "Glenbrook Capital Management",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "1.47",
+      "qty": "35000",
+      "owned": "1057824",
+      "delta_own": "+3%",
+      "value": "51569",
+      "cluster_buy": false
     }
   ]
 }
