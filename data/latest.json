@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T12:19:38Z",
-  "trade_count": 8516,
+  "last_updated": "2026-07-23T15:02:28Z",
+  "trade_count": 8517,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -135472,7 +135472,7 @@
       "owned": "4820342",
       "delta_own": "+41%",
       "value": "245280",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-07-17",
@@ -136256,6 +136256,22 @@
       "owned": "17469",
       "delta_own": "+30%",
       "value": "301350",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-23",
+      "filing_time": "09:34",
+      "trade_date": "2026-07-22",
+      "ticker": "GRML",
+      "company": "Greenland Mines Ltd",
+      "insider_name": "Sawyer Jason David",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.23",
+      "qty": "240000",
+      "owned": "240000",
+      "delta_own": "New",
+      "value": "55944",
       "cluster_buy": true
     }
   ]

@@ -8472,7 +8472,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-17,06:15,2026-07-15,JEF,Jefferies Financial Group Inc.,"Sumitomo Mitsui Financial Group, Inc.",Dir,P - Purchase,53.96,5906542,8566379,+222%,318717006,False
 2026-07-17,12:53,2026-07-15,LGHL,Lion Group Holding Ltd,Hrt Financial LP,10%,P - Purchase,1.87,98790,103014,>999%,184471,False
 2026-07-17,11:19,2026-07-15,PFBX,Peoples Financial Corp /Ms/,Stilwell Joseph,10%,P - Purchase,21.75,2500,753087,0%,54375,False
-2026-07-17,11:12,2026-07-16,GRML,Greenland Mines Ltd,Leblanc Jeff,CFO,P - Purchase,0.18,1400000,4820342,+41%,245280,False
+2026-07-17,11:12,2026-07-16,GRML,Greenland Mines Ltd,Leblanc Jeff,CFO,P - Purchase,0.18,1400000,4820342,+41%,245280,True
 2026-07-17,13:50,2026-07-17,ELV,"Elevance Health, Inc.",Boudreaux Gail,"Pres, CEO",P - Purchase,367.79,2725,172036,+2%,1002230,True
 2026-07-17,13:20,2026-07-15,TYG,Tortoise Energy Infrastructure Corp,Prudential Financial Inc,10%,P - Purchase,10.00,6000000,6000000,New,60000000,False
 2026-07-17,15:04,2026-07-17,ELV,"Elevance Health, Inc.",Peru Ramiro G,Dir,P - Purchase,366.05,1000,10908,+10%,366050,True
@@ -8522,3 +8522,4 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-22,21:12,2025-03-07,CAPS,Capstone Holding Corp.,Lipman Matthew E.,"CEO, 10%",P - Purchase,4.00,41750,2570412,+2%,167000,False
 2026-07-23,07:19,2026-07-14,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,16.86,622140,81527420,+1%,10490558,False
 2026-07-23,06:16,2026-07-21,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Tien Bor-Zen,VP,P - Purchase,75.15,4010,17469,+30%,301350,True
+2026-07-23,09:34,2026-07-22,GRML,Greenland Mines Ltd,Sawyer Jason David,Dir,P - Purchase,0.23,240000,240000,New,55944,True
