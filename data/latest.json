@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T22:52:41Z",
-  "trade_count": 8527,
+  "last_updated": "2026-07-23T23:53:12Z",
+  "trade_count": 8528,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -136433,6 +136433,22 @@
       "delta_own": "New",
       "value": "102286",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-23",
+      "filing_time": "19:47",
+      "trade_date": "2026-07-22",
+      "ticker": "BRTMU",
+      "company": "B&R Technology Merger Corp.",
+      "insider_name": "B&R Technology Sponsor LLC (Cayman)",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "10.00",
+      "qty": "687500",
+      "owned": "687500",
+      "delta_own": "New",
+      "value": "6875000",
+      "cluster_buy": false
     }
   ]
 }
