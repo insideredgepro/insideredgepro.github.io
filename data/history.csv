@@ -8490,14 +8490,14 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-20,18:08,2026-07-16,ARTV,"Artiva Biotherapeutics, Inc.","Ra Capital Management, L.P.","Dir, 10%",P - Purchase,8.93,160354,18137650,+1%,1432119,False
 2026-07-20,17:30,2026-07-16,CBIO,"Crescent Biopharma, Inc.",Fairmount Funds Management LLC,"Dir, 10%",P - Purchase,14.50,853450,3601316,+31%,12375025,False
 2026-07-20,21:10,2026-07-16,FULC,"Fulcrum Therapeutics, Inc.",Tang Kevin,10%,P - Purchase,3.55,167616,7080945,+2%,594675,False
-2026-07-21,06:44,2026-07-19,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Lin Shyue-Shyh,VP,P - Purchase,71.79,3000,33518,+10%,215360,False
+2026-07-21,06:44,2026-07-19,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Lin Shyue-Shyh,VP,P - Purchase,71.79,3000,33518,+10%,215360,True
 2026-07-21,08:00,2026-07-17,PRQR,Proqr Therapeutics N.V.,Filius Bart,Dir,P - Purchase,1.72,150000,300000,+100%,257925,True
 2026-07-21,17:20,2026-07-17,STWI,Stagewise Strategies Corp.,Artikkhodjaev Jakhongir Abidovich,10%,P - Purchase,0.25,1000000,4000000,+33%,250000,False
 2026-07-21,16:36,2026-07-17,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10%,P - Purchase,20.21,100000,7760000,+1%,2020850,False
 2026-07-21,18:29,2026-07-17,RANI,"Rani Therapeutics Holdings, Inc.",Imran Talat,CEO,P - Purchase,0.72,35000,469736,+8%,25193,False
 2026-07-21,18:01,2026-07-17,CAG,Conagra Brands Inc.,Brase John P,"Pres, CEO",P - Purchase,14.59,35000,35000,New,510633,False
 2026-07-21,19:04,2026-07-17,CV,"Capsovision, Inc",Harari Eliyahou Et Al,10%,P - Purchase,6.73,61068,3343119,+2%,410988,False
-2026-07-22,06:17,2026-07-20,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Lin Shyue-Shyh,VP,P - Purchase,73.39,2000,35518,+6%,146780,False
+2026-07-22,06:17,2026-07-20,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Lin Shyue-Shyh,VP,P - Purchase,73.39,2000,35518,+6%,146780,True
 2026-07-22,09:55,2026-07-21,TOI,"Oncology Institute, Inc.",Chernett Jorey,10%,P - Purchase,5.27,18000,10648858,0%,94860,False
 2026-07-22,16:55,2026-07-20,PBLS,"Parabilis Medicines, Inc.","Ra Capital Management, L.P.","Dir, 10%",P - Purchase,28.29,244593,29177964,+1%,6919551,False
 2026-07-22,16:29,2026-07-20,HDSN,Hudson Technologies Inc /Ny,"Hartree Partners, LP",10%,P - Purchase,5.99,65550,5042086,+1%,392602,True
@@ -8520,3 +8520,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-22,21:17,2026-07-20,CLBK,"Columbia Financial, Inc./Md/",Gibney Dennis E.,"1st Sr. EVP, CBO",P - Purchase,10.00,44500,624138,+8%,445000,True
 2026-07-22,21:15,2026-07-20,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,73.68,3437,5764640,0%,253221,False
 2026-07-22,21:12,2025-03-07,CAPS,Capstone Holding Corp.,Lipman Matthew E.,"CEO, 10%",P - Purchase,4.00,41750,2570412,+2%,167000,False
+2026-07-23,07:19,2026-07-14,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,16.86,622140,81527420,+1%,10490558,False
+2026-07-23,06:16,2026-07-21,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Tien Bor-Zen,VP,P - Purchase,75.15,4010,17469,+30%,301350,True
