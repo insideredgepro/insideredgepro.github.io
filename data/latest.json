@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T19:00:16Z",
-  "trade_count": 8517,
+  "last_updated": "2026-07-23T20:15:59Z",
+  "trade_count": 8518,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -136273,6 +136273,22 @@
       "delta_own": "New",
       "value": "55944",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-23",
+      "filing_time": "16:04",
+      "trade_date": "2026-07-22",
+      "ticker": "BYRN",
+      "company": "Byrna Technologies Inc.",
+      "insider_name": "Davis Conn Q.",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.47",
+      "qty": "22108",
+      "owned": "22198",
+      "delta_own": ">999%",
+      "value": "76687",
+      "cluster_buy": false
     }
   ]
 }
