@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T21:57:38Z",
-  "trade_count": 8524,
+  "last_updated": "2026-07-23T22:52:41Z",
+  "trade_count": 8527,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -136288,7 +136288,7 @@
       "owned": "22198",
       "delta_own": ">999%",
       "value": "76687",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-07-23",
@@ -136385,6 +136385,54 @@
       "delta_own": "+3%",
       "value": "143923",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-23",
+      "filing_time": "18:49",
+      "trade_date": "2026-07-22",
+      "ticker": "BYRN",
+      "company": "Byrna Technologies Inc.",
+      "insider_name": "Davis Conn Q.",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.47",
+      "qty": "22198",
+      "owned": "22108",
+      "delta_own": "-24664%",
+      "value": "77003",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-23",
+      "filing_time": "18:47",
+      "trade_date": "2026-07-22",
+      "ticker": "BYRN",
+      "company": "Byrna Technologies Inc.",
+      "insider_name": "Hughes Herbert",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.42",
+      "qty": "21681",
+      "owned": "326454",
+      "delta_own": "+7%",
+      "value": "74249",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-23",
+      "filing_time": "18:25",
+      "trade_date": "2026-07-22",
+      "ticker": "BYRN",
+      "company": "Byrna Technologies Inc.",
+      "insider_name": "Kennedy Tj",
+      "title": "Chairman of the Board",
+      "trade_type": "P - Purchase",
+      "price": "3.53",
+      "qty": "29000",
+      "owned": "29000",
+      "delta_own": "New",
+      "value": "102286",
+      "cluster_buy": true
     }
   ]
 }

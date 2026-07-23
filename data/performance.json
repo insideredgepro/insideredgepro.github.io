@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-23",
-  "entry_count": 1271,
+  "entry_count": 1273,
   "entries": [
     {
       "id": "US|TMP|2026-05-26|rahilly ita m|85.9",
@@ -64304,6 +64304,46 @@
       },
       "latest_price": 16.81,
       "return_pct": -2.04,
+      "last_snapshot": "2026-07-23"
+    },
+    {
+      "id": "US|BYRN|2026-07-22|hughes herbert|3.42",
+      "market": "US",
+      "ticker": "BYRN",
+      "yf_symbol": "BYRN",
+      "company": "Byrna Technologies Inc.",
+      "insider_name": "Hughes Herbert",
+      "title": "Dir",
+      "trade_date": "2026-07-22",
+      "trade_price": 3.42,
+      "value": 74249.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-23": 3.37
+      },
+      "latest_price": 3.37,
+      "return_pct": -1.46,
+      "last_snapshot": "2026-07-23"
+    },
+    {
+      "id": "US|BYRN|2026-07-22|kennedy tj|3.53",
+      "market": "US",
+      "ticker": "BYRN",
+      "yf_symbol": "BYRN",
+      "company": "Byrna Technologies Inc.",
+      "insider_name": "Kennedy Tj",
+      "title": "Chairman of the Board",
+      "trade_date": "2026-07-22",
+      "trade_price": 3.53,
+      "value": 102286.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-23": 3.37
+      },
+      "latest_price": 3.37,
+      "return_pct": -4.53,
       "last_snapshot": "2026-07-23"
     }
   ]
