@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-23",
-  "entry_count": 1274,
+  "entry_count": 1275,
   "entries": [
     {
       "id": "US|TMP|2026-05-26|rahilly ita m|85.9",
@@ -7487,8 +7487,8 @@
         "2026-07-22": 23.05,
         "2026-07-23": 22.93
       },
-      "latest_price": 22.93,
-      "return_pct": 7.91,
+      "latest_price": 22.84,
+      "return_pct": 7.48,
       "last_snapshot": "2026-07-23"
     },
     {
@@ -9614,8 +9614,8 @@
         "2026-07-22": 23.05,
         "2026-07-23": 22.93
       },
-      "latest_price": 22.93,
-      "return_pct": 7.91,
+      "latest_price": 22.84,
+      "return_pct": 7.48,
       "last_snapshot": "2026-07-23"
     },
     {
@@ -55338,8 +55338,8 @@
         "2026-07-22": 23.05,
         "2026-07-23": 22.93
       },
-      "latest_price": 22.93,
-      "return_pct": 7.91,
+      "latest_price": 22.84,
+      "return_pct": 7.48,
       "last_snapshot": "2026-07-23"
     },
     {
@@ -59487,8 +59487,8 @@
         "2026-07-22": 0.93,
         "2026-07-23": 0.93
       },
-      "latest_price": 0.93,
-      "return_pct": -2.11,
+      "latest_price": 0.9,
+      "return_pct": -5.26,
       "last_snapshot": "2026-07-23"
     },
     {
@@ -63071,8 +63071,8 @@
         "2026-07-22": 23.05,
         "2026-07-23": 22.93
       },
-      "latest_price": 22.93,
-      "return_pct": 5.43,
+      "latest_price": 22.84,
+      "return_pct": 5.01,
       "last_snapshot": "2026-07-23"
     },
     {
@@ -64364,6 +64364,26 @@
       },
       "latest_price": 9.95,
       "return_pct": -0.5,
+      "last_snapshot": "2026-07-23"
+    },
+    {
+      "id": "US|ARTV|2026-07-21|ra capital management, l.p.|9.76",
+      "market": "US",
+      "ticker": "ARTV",
+      "yf_symbol": "ARTV",
+      "company": "Artiva Biotherapeutics, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-07-21",
+      "trade_price": 9.76,
+      "value": 2583314.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-23": 10.13
+      },
+      "latest_price": 10.13,
+      "return_pct": 3.79,
       "last_snapshot": "2026-07-23"
     }
   ]
