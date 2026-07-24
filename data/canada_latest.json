@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T16:00:19Z",
-  "trade_count": 3480,
+  "last_updated": "2026-07-24T03:45:18Z",
+  "trade_count": 3482,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -53232,6 +53232,38 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4755422",
+      "trade_date": "2026-07-23",
+      "filing_date": "2026-07-23",
+      "company": "Byrna Technologies, Inc.",
+      "ticker": "BYRN",
+      "insider_name": "Hughes, Herbert",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "12500",
+      "price": "3.4037",
+      "value": "42546",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4755376",
+      "trade_date": "2026-07-23",
+      "filing_date": "2026-07-23",
+      "company": "Happy Belly Food Group Inc.",
+      "ticker": "HBFG.CN",
+      "insider_name": "Haroun, Daniel",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "1.5200",
+      "value": "15200",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
