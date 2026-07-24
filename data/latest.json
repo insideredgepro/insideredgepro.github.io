@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-24T18:11:53Z",
-  "trade_count": 8533,
+  "last_updated": "2026-07-24T20:11:21Z",
+  "trade_count": 8535,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -136528,6 +136528,38 @@
       "owned": "324233",
       "delta_own": "+3%",
       "value": "1000299",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-24",
+      "filing_time": "16:07",
+      "trade_date": "2026-07-23",
+      "ticker": "VMI",
+      "company": "Valmont Industries Inc",
+      "insider_name": "Schwietz John L",
+      "title": "EVP, CFO",
+      "trade_type": "P - Purchase",
+      "price": "486.15",
+      "qty": "208",
+      "owned": "2992",
+      "delta_own": "+7%",
+      "value": "101118",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-24",
+      "filing_time": "16:05",
+      "trade_date": "2026-07-22",
+      "ticker": "ACOG",
+      "company": "Alpha Cognition Inc.",
+      "insider_name": "Opaleye Management Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "7.82",
+      "qty": "200086",
+      "owned": "3095193",
+      "delta_own": "+7%",
+      "value": "1565499",
       "cluster_buy": false
     }
   ]
