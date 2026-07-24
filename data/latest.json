@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-24T14:45:31Z",
-  "trade_count": 8531,
+  "last_updated": "2026-07-24T18:11:53Z",
+  "trade_count": 8533,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -136496,6 +136496,38 @@
       "owned": "3650840",
       "delta_own": "+2%",
       "value": "106205",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-24",
+      "filing_time": "12:33",
+      "trade_date": "2026-07-14",
+      "ticker": "GDTC",
+      "company": "Cytomed Therapeutics Ltd",
+      "insider_name": "Choo Chee Kong",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.50",
+      "qty": "200000",
+      "owned": "630324",
+      "delta_own": "+46%",
+      "value": "300000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-24",
+      "filing_time": "12:13",
+      "trade_date": "2026-07-24",
+      "ticker": "PNFP",
+      "company": "Pinnacle Financial Partners, Inc.",
+      "insider_name": "McCabe Robert A Jr",
+      "title": "Chief Banking Officer",
+      "trade_type": "P - Purchase",
+      "price": "99.90",
+      "qty": "10013",
+      "owned": "324233",
+      "delta_own": "+3%",
+      "value": "1000299",
       "cluster_buy": false
     }
   ]
