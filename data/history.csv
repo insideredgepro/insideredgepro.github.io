@@ -8519,7 +8519,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-22,21:18,2026-07-20,CLBK,"Columbia Financial, Inc./Md/",Rinaldi Mayra Liseth,"EVP, Corp Governance, Culture",P - Purchase,10.00,10337,119268,+9%,103370,True
 2026-07-22,21:17,2026-07-20,CLBK,"Columbia Financial, Inc./Md/",Gibney Dennis E.,"1st Sr. EVP, CBO",P - Purchase,10.00,44500,624138,+8%,445000,True
 2026-07-22,21:15,2026-07-20,NMM,Navios Maritime Partners L.P.,Frangou Angeliki,"See Remarks, 10%",P - Purchase,73.68,3437,5764640,0%,253221,False
-2026-07-22,21:12,2025-03-07,CAPS,Capstone Holding Corp.,Lipman Matthew E.,"CEO, 10%",P - Purchase,4.00,41750,2570412,+2%,167000,False
+2026-07-22,21:12,2025-03-07,CAPS,Capstone Holding Corp.,Lipman Matthew E.,"CEO, 10%",P - Purchase,4.00,41750,2570412,+2%,167000,True
 2026-07-23,07:19,2026-07-14,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,16.86,622140,81527420,+1%,10490558,False
 2026-07-23,06:16,2026-07-21,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Tien Bor-Zen,VP,P - Purchase,75.15,4010,17469,+30%,301350,True
 2026-07-23,09:34,2026-07-22,GRML,Greenland Mines Ltd,Sawyer Jason David,Dir,P - Purchase,0.23,240000,240000,New,55944,True
@@ -8541,3 +8541,11 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-24,12:13,2026-07-24,PNFP,"Pinnacle Financial Partners, Inc.",McCabe Robert A Jr,Chief Banking Officer,P - Purchase,99.90,10013,324233,+3%,1000299,False
 2026-07-24,16:07,2026-07-23,VMI,Valmont Industries Inc,Schwietz John L,"EVP, CFO",P - Purchase,486.15,208,2992,+7%,101118,False
 2026-07-24,16:05,2026-07-22,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,7.82,200086,3095193,+7%,1565499,False
+2026-07-24,16:46,2026-07-22,CLIR,Clearsign Technologies Corp,Pasquesi John M,10%,P - Purchase,3.54,500000,1343477,+59%,1770000,False
+2026-07-24,16:34,2026-07-22,FSBC,Five Star Bancorp,Allbaugh Larry Eugene,"Dir, 10%",P - Purchase,44.00,96591,3121868,+3%,4250004,True
+2026-07-24,16:33,2026-07-22,FSBC,Five Star Bancorp,Perry-Smith Robert Truxtun,Dir,P - Purchase,44.00,31363,258898,+14%,1379972,True
+2026-07-24,16:32,2026-07-22,FSBC,Five Star Bancorp,Deary-Bell Shannon,Dir,P - Purchase,44.00,5682,95074,+6%,250008,True
+2026-07-24,16:32,2026-07-22,FSBC,Five Star Bancorp,Lucas Donna,Dir,P - Purchase,44.00,1136,14254,+9%,49984,True
+2026-07-24,16:31,2026-07-22,FSBC,Five Star Bancorp,Riggs Judson Teichert,Dir,P - Purchase,44.00,2273,87531,+3%,100012,True
+2026-07-24,16:31,2026-07-22,FSBC,Five Star Bancorp,Ramos Kevin Francis,Dir,P - Purchase,44.00,5682,187546,+3%,250008,True
+2026-07-24,16:27,2025-03-07,CAPS,Capstone Holding Corp.,Toporek Michael,Dir,P - Purchase,4.00,41750,41750,New,167000,True
