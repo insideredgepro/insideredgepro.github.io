@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-24",
-  "entry_count": 1275,
+  "entry_count": 1276,
   "entries": [
     {
       "id": "US|TMP|2026-05-26|rahilly ita m|85.9",
@@ -65569,6 +65569,26 @@
       },
       "latest_price": 10.13,
       "return_pct": 3.79,
+      "last_snapshot": "2026-07-24"
+    },
+    {
+      "id": "US|BMR|2026-07-22|carmel sharon|1.29",
+      "market": "US",
+      "ticker": "BMR",
+      "yf_symbol": "BMR",
+      "company": "Beamr Imaging Ltd.",
+      "insider_name": "Carmel Sharon",
+      "title": "CEO, 10%",
+      "trade_date": "2026-07-22",
+      "trade_price": 1.29,
+      "value": 106205.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-24": 1.18
+      },
+      "latest_price": 1.18,
+      "return_pct": -8.53,
       "last_snapshot": "2026-07-24"
     }
   ]
