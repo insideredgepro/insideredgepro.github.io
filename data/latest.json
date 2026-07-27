@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T20:14:06Z",
-  "trade_count": 8547,
+  "last_updated": "2026-07-27T21:57:04Z",
+  "trade_count": 8549,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -136752,6 +136752,38 @@
       "owned": "19952",
       "delta_own": "+6%",
       "value": "55227",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-27",
+      "filing_time": "17:15",
+      "trade_date": "2026-07-23",
+      "ticker": "ENR",
+      "company": "Energizer Holdings, Inc.",
+      "insider_name": "Aqua Capital, Ltd.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "20.62",
+      "qty": "120000",
+      "owned": "8000000",
+      "delta_own": "+2%",
+      "value": "2473994",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-27",
+      "filing_time": "16:14",
+      "trade_date": "2026-07-24",
+      "ticker": "BXSY",
+      "company": "Bexil Investment Trust",
+      "insider_name": "Winmill & Co. Inc",
+      "title": "See \"Explanation of Responses\"",
+      "trade_type": "P - Purchase",
+      "price": "16.93",
+      "qty": "9400",
+      "owned": "266843",
+      "delta_own": "+4%",
+      "value": "159164",
       "cluster_buy": false
     }
   ]
