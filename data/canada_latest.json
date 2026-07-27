@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T16:00:48Z",
-  "trade_count": 3483,
+  "last_updated": "2026-07-27T22:00:46Z",
+  "trade_count": 3485,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -53277,6 +53277,38 @@
       "qty": "29607",
       "price": "7.6046",
       "value": "225149",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4756132",
+      "trade_date": "2026-07-27",
+      "filing_date": "2026-07-27",
+      "company": "HYLQ STRATEGY CORP.",
+      "ticker": "HYLQ",
+      "insider_name": "Guoga, Antanas (Tony)",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "38500",
+      "price": "0.7303",
+      "value": "28116",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4756104",
+      "trade_date": "2026-07-27",
+      "filing_date": "2026-07-27",
+      "company": "Laramide Resources Ltd.",
+      "ticker": "LAM",
+      "insider_name": "Henderson, Marc Charles",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "0.5000",
+      "value": "25000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
