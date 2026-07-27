@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-27",
-  "entry_count": 1176,
+  "entry_count": 1178,
   "entries": [
     {
       "id": "US|STEX|2026-05-28|lekstrom morgan lee|1.47",
@@ -60298,6 +60298,46 @@
       },
       "latest_price": 16.71,
       "return_pct": -1.3,
+      "last_snapshot": "2026-07-27"
+    },
+    {
+      "id": "US|LGHL|2026-07-24|hrt financial lp|0.95",
+      "market": "US",
+      "ticker": "LGHL",
+      "yf_symbol": "LGHL",
+      "company": "Lion Group Holding Ltd",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_date": "2026-07-24",
+      "trade_price": 0.95,
+      "value": 26428.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-27": 1.07
+      },
+      "latest_price": 1.07,
+      "return_pct": 12.63,
+      "last_snapshot": "2026-07-27"
+    },
+    {
+      "id": "US|MCB|2026-07-23|dougherty daniel f|89.98",
+      "market": "US",
+      "ticker": "MCB",
+      "yf_symbol": "MCB",
+      "company": "Metropolitan Bank Holding Corp.",
+      "insider_name": "Dougherty Daniel F",
+      "title": "EVP, CFO",
+      "trade_date": "2026-07-23",
+      "trade_price": 89.98,
+      "value": 89980.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-27": 91.23
+      },
+      "latest_price": 91.23,
+      "return_pct": 1.39,
       "last_snapshot": "2026-07-27"
     }
   ]

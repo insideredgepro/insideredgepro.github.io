@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T21:57:04Z",
-  "trade_count": 8549,
+  "last_updated": "2026-07-27T22:56:53Z",
+  "trade_count": 8551,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -136784,6 +136784,38 @@
       "owned": "266843",
       "delta_own": "+4%",
       "value": "159164",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-27",
+      "filing_time": "18:19",
+      "trade_date": "2026-07-24",
+      "ticker": "LGHL",
+      "company": "Lion Group Holding Ltd",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "0.95",
+      "qty": "27702",
+      "owned": "82962",
+      "delta_own": "+50%",
+      "value": "26428",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-27",
+      "filing_time": "18:15",
+      "trade_date": "2026-07-23",
+      "ticker": "MCB",
+      "company": "Metropolitan Bank Holding Corp.",
+      "insider_name": "Dougherty Daniel F",
+      "title": "EVP, CFO",
+      "trade_type": "P - Purchase",
+      "price": "89.98",
+      "qty": "1000",
+      "owned": "33769",
+      "delta_own": "+3%",
+      "value": "89980",
       "cluster_buy": false
     }
   ]
