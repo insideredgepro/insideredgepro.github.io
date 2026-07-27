@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T10:32:43Z",
-  "trade_count": 8544,
+  "last_updated": "2026-07-27T13:32:32Z",
+  "trade_count": 8547,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -136704,6 +136704,54 @@
       "owned": "5607702",
       "delta_own": "0%",
       "value": "47018",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-27",
+      "filing_time": "09:20",
+      "trade_date": "2026-07-23",
+      "ticker": "PEBO",
+      "company": "Peoples Bancorp Inc",
+      "insider_name": "Smith Dwight Eric",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "39.81",
+      "qty": "1000",
+      "owned": "10256",
+      "delta_own": "+11%",
+      "value": "39810",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-27",
+      "filing_time": "09:04",
+      "trade_date": "2026-07-21",
+      "ticker": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "16.18",
+      "qty": "1103820",
+      "owned": "82631240",
+      "delta_own": "+1%",
+      "value": "17864986",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-27",
+      "filing_time": "08:26",
+      "trade_date": "2026-07-23",
+      "ticker": "MKC",
+      "company": "McCormick & Co Inc",
+      "insider_name": "Conway Michael Aaron",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "50.21",
+      "qty": "1100",
+      "owned": "19952",
+      "delta_own": "+6%",
+      "value": "55227",
       "cluster_buy": false
     }
   ]
