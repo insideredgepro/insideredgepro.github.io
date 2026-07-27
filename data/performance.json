@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-27",
-  "entry_count": 1178,
+  "entry_count": 1179,
   "entries": [
     {
       "id": "US|STEX|2026-05-28|lekstrom morgan lee|1.47",
@@ -15231,8 +15231,8 @@
         "2026-07-26": 1.01,
         "2026-07-27": 1.01
       },
-      "latest_price": 1.01,
-      "return_pct": -26.81,
+      "latest_price": 1.02,
+      "return_pct": -26.09,
       "last_snapshot": "2026-07-27"
     },
     {
@@ -49963,8 +49963,8 @@
         "2026-07-26": 21.5,
         "2026-07-27": 21.5
       },
-      "latest_price": 21.3,
-      "return_pct": 20.0,
+      "latest_price": 21.2961,
+      "return_pct": 19.98,
       "last_snapshot": "2026-07-27"
     },
     {
@@ -53304,8 +53304,8 @@
         "2026-07-26": 21.5,
         "2026-07-27": 21.5
       },
-      "latest_price": 21.3,
-      "return_pct": 20.0,
+      "latest_price": 21.2961,
+      "return_pct": 19.98,
       "last_snapshot": "2026-07-27"
     },
     {
@@ -53342,8 +53342,8 @@
         "2026-07-26": 21.5,
         "2026-07-27": 21.5
       },
-      "latest_price": 21.3,
-      "return_pct": 19.93,
+      "latest_price": 21.2961,
+      "return_pct": 19.91,
       "last_snapshot": "2026-07-27"
     },
     {
@@ -53380,8 +53380,8 @@
         "2026-07-26": 21.5,
         "2026-07-27": 21.5
       },
-      "latest_price": 21.3,
-      "return_pct": 19.6,
+      "latest_price": 21.2961,
+      "return_pct": 19.57,
       "last_snapshot": "2026-07-27"
     },
     {
@@ -53418,8 +53418,8 @@
         "2026-07-26": 21.5,
         "2026-07-27": 21.5
       },
-      "latest_price": 21.3,
-      "return_pct": 21.71,
+      "latest_price": 21.2961,
+      "return_pct": 21.69,
       "last_snapshot": "2026-07-27"
     },
     {
@@ -53456,8 +53456,8 @@
         "2026-07-26": 21.5,
         "2026-07-27": 21.5
       },
-      "latest_price": 21.3,
-      "return_pct": 19.46,
+      "latest_price": 21.2961,
+      "return_pct": 19.44,
       "last_snapshot": "2026-07-27"
     },
     {
@@ -54477,8 +54477,8 @@
         "2026-07-26": 0.9,
         "2026-07-27": 0.9
       },
-      "latest_price": 0.9,
-      "return_pct": -5.26,
+      "latest_price": 0.93,
+      "return_pct": -2.11,
       "last_snapshot": "2026-07-27"
     },
     {
@@ -60338,6 +60338,26 @@
       },
       "latest_price": 91.23,
       "return_pct": 1.39,
+      "last_snapshot": "2026-07-27"
+    },
+    {
+      "id": "US|OVLY|2026-07-27|strong gary|32.5",
+      "market": "US",
+      "ticker": "OVLY",
+      "yf_symbol": "OVLY",
+      "company": "Oak Valley Bancorp",
+      "insider_name": "Strong Gary",
+      "title": "Dir",
+      "trade_date": "2026-07-27",
+      "trade_price": 32.5,
+      "value": 65000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-27": 33.15
+      },
+      "latest_price": 33.15,
+      "return_pct": 2.0,
       "last_snapshot": "2026-07-27"
     }
   ]

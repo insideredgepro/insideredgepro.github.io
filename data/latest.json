@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T22:56:53Z",
-  "trade_count": 8551,
+  "last_updated": "2026-07-27T23:58:12Z",
+  "trade_count": 8552,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -136816,6 +136816,22 @@
       "owned": "33769",
       "delta_own": "+3%",
       "value": "89980",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-27",
+      "filing_time": "19:03",
+      "trade_date": "2026-07-27",
+      "ticker": "OVLY",
+      "company": "Oak Valley Bancorp",
+      "insider_name": "Strong Gary",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "32.50",
+      "qty": "2000",
+      "owned": "14842",
+      "delta_own": "+16%",
+      "value": "65000",
       "cluster_buy": false
     }
   ]
