@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-27",
-  "entry_count": 1170,
+  "entry_count": 1171,
   "entries": [
     {
       "id": "US|STEX|2026-05-28|lekstrom morgan lee|1.47",
@@ -60178,6 +60178,26 @@
       },
       "latest_price": 47.35,
       "return_pct": 7.61,
+      "last_snapshot": "2026-07-27"
+    },
+    {
+      "id": "US|GLSI|2026-07-23|patel snehal|13.06",
+      "market": "US",
+      "ticker": "GLSI",
+      "yf_symbol": "GLSI",
+      "company": "Greenwich Lifesciences, Inc.",
+      "insider_name": "Patel Snehal",
+      "title": "CEO, CFO, 10%",
+      "trade_date": "2026-07-23",
+      "trade_price": 13.06,
+      "value": 47018.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-27": 13.19
+      },
+      "latest_price": 13.19,
+      "return_pct": 1.0,
       "last_snapshot": "2026-07-27"
     }
   ]

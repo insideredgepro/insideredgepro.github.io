@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T06:18:15Z",
-  "trade_count": 8543,
+  "last_updated": "2026-07-27T10:32:43Z",
+  "trade_count": 8544,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -136689,6 +136689,22 @@
       "delta_own": "New",
       "value": "167000",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-27",
+      "filing_time": "06:15",
+      "trade_date": "2026-07-23",
+      "ticker": "GLSI",
+      "company": "Greenwich Lifesciences, Inc.",
+      "insider_name": "Patel Snehal",
+      "title": "CEO, CFO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "13.06",
+      "qty": "3600",
+      "owned": "5607702",
+      "delta_own": "0%",
+      "value": "47018",
+      "cluster_buy": false
     }
   ]
 }
