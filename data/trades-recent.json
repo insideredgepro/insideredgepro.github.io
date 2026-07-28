@@ -392,7 +392,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: IRA One",
-    "scraped_at": "2026-07-28T03:55:02.356466+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775837+00:00"
   },
   {
     "id": "20003801569",
@@ -413,7 +413,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 2012 Trust Description: Capital call of $3,723.39 for RAC II",
-    "scraped_at": "2026-07-28T03:55:02.356478+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775848+00:00"
   },
   {
     "id": "20003801568",
@@ -434,7 +434,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Schwab > Schwab Roth IRA -- Sam Liccardo Description: 100 shares",
-    "scraped_at": "2026-07-28T03:55:02.356472+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775842+00:00"
   },
   {
     "id": "20003801567",
@@ -455,7 +455,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Description: Dividend reinvestment",
-    "scraped_at": "2026-07-28T03:55:02.356484+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775853+00:00"
   },
   {
     "id": "20003801563",
@@ -539,7 +539,28 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Smith Barney LLC IRA Description: Mortgage Backed Security; Due Date 06/01/2056; Coupon 5.50% Fixed",
-    "scraped_at": "2026-07-28T03:55:02.356498+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775869+00:00"
+  },
+  {
+    "id": "20003801588",
+    "politician_name": "Adrian Smith",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "NE",
+    "company": "CARTERBALDWIN",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-13",
+    "trade_published": "2026-07-28",
+    "filed_after_days": "14",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Description: purchase of CarterBaldwin stock",
+    "scraped_at": "2026-07-28T16:10:02.775703+00:00"
   },
   {
     "id": "20003801468",
@@ -1422,6 +1443,27 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Fidelity Investments IRA",
     "scraped_at": "2026-07-14T03:55:03.496609+00:00"
+  },
+  {
+    "id": "20003801587",
+    "politician_name": "Sheri Biggs",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "SC",
+    "company": "OAKTREE STRATEGIC CREDIT FUND A (CAYMAN) LP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-30",
+    "trade_published": "2026-07-28",
+    "filed_after_days": "27",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: W.S.B Trust > UBS Financial Services 26 Description: Dividend reinvestment in a professionally managed account \u2013 Business Development Company",
+    "scraped_at": "2026-07-28T16:10:02.775728+00:00"
   },
   {
     "id": "20003801495",
@@ -2660,7 +2702,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "Linked to the Least Performing of the Invesco QQQ TrustSM, Series 1 and the iShares Russell 2000 Value ETF. Company: Bank of America Corporation  (Charlotte, NC) Description: Equity Index-Linked Note",
-    "scraped_at": "2026-07-28T03:55:02.356488+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775859+00:00"
   },
   {
     "id": "10000065314",
@@ -3584,7 +3626,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "Linked to the Least Performing of the S&P 500 Index and the EURO STOXX 50 Index. Company: Canadian Imperial Bank of Commerce  (Toronto, Ontario) Description: Equity Index-Linked Note",
-    "scraped_at": "2026-07-28T03:55:02.356492+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775864+00:00"
   },
   {
     "id": "20003801498",
@@ -3752,7 +3794,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-07-28T03:55:02.356354+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775747+00:00"
   },
   {
     "id": "20003801571",
@@ -3773,7 +3815,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (6)",
-    "scraped_at": "2026-07-28T03:55:02.356379+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775754+00:00"
   },
   {
     "id": "20003801572",
@@ -3794,7 +3836,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-07-28T03:55:02.356390+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775762+00:00"
   },
   {
     "id": "20003801344",
@@ -4571,7 +4613,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-07-28T03:55:02.356398+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775767+00:00"
   },
   {
     "id": "20003801574",
@@ -4592,7 +4634,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-07-28T03:55:02.356404+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775772+00:00"
   },
   {
     "id": "20003801575",
@@ -4613,7 +4655,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-07-28T03:55:02.356409+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775777+00:00"
   },
   {
     "id": "20003801576",
@@ -4634,7 +4676,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-07-28T03:55:02.356414+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775783+00:00"
   },
   {
     "id": "20003801577",
@@ -4655,7 +4697,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-07-28T03:55:02.356419+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775788+00:00"
   },
   {
     "id": "20003801578",
@@ -4676,7 +4718,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-07-28T03:55:02.356423+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775792+00:00"
   },
   {
     "id": "20003801579",
@@ -4697,7 +4739,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-07-28T03:55:02.356429+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775799+00:00"
   },
   {
     "id": "20003801580",
@@ -4718,7 +4760,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-07-28T03:55:02.356435+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775805+00:00"
   },
   {
     "id": "20003801581",
@@ -4739,7 +4781,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-07-28T03:55:02.356440+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775811+00:00"
   },
   {
     "id": "20003801582",
@@ -4760,7 +4802,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-07-28T03:55:02.356446+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775816+00:00"
   },
   {
     "id": "20003801583",
@@ -4781,7 +4823,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (6)",
-    "scraped_at": "2026-07-28T03:55:02.356452+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775821+00:00"
   },
   {
     "id": "20003801584",
@@ -4802,7 +4844,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-07-28T03:55:02.356456+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775826+00:00"
   },
   {
     "id": "20003801500",
@@ -6545,7 +6587,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Morgan Stanley Active Assets (2)",
-    "scraped_at": "2026-07-28T03:55:02.356461+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775831+00:00"
   },
   {
     "id": "10000065287",
@@ -36281,7 +36323,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356504+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775874+00:00"
   },
   {
     "id": "10000065672",
@@ -36302,7 +36344,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356508+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775878+00:00"
   },
   {
     "id": "10000065673",
@@ -36323,7 +36365,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356513+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775883+00:00"
   },
   {
     "id": "10000065674",
@@ -36344,7 +36386,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356517+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775889+00:00"
   },
   {
     "id": "10000065675",
@@ -36365,7 +36407,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356523+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775894+00:00"
   },
   {
     "id": "10000065676",
@@ -36386,7 +36428,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356528+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775899+00:00"
   },
   {
     "id": "10000065677",
@@ -36407,7 +36449,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356533+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775903+00:00"
   },
   {
     "id": "10000065678",
@@ -36428,7 +36470,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356537+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775910+00:00"
   },
   {
     "id": "10000065679",
@@ -36449,7 +36491,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356542+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775915+00:00"
   },
   {
     "id": "10000065680",
@@ -36470,7 +36512,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356549+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775921+00:00"
   },
   {
     "id": "10000065681",
@@ -36491,7 +36533,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356554+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775926+00:00"
   },
   {
     "id": "10000065682",
@@ -36512,7 +36554,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356559+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775931+00:00"
   },
   {
     "id": "10000065683",
@@ -36533,7 +36575,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356564+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775936+00:00"
   },
   {
     "id": "10000065684",
@@ -36554,7 +36596,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356569+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775941+00:00"
   },
   {
     "id": "10000065685",
@@ -36575,7 +36617,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356574+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775945+00:00"
   },
   {
     "id": "10000065686",
@@ -36596,7 +36638,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356578+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775950+00:00"
   },
   {
     "id": "10000065687",
@@ -36617,7 +36659,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356583+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775955+00:00"
   },
   {
     "id": "10000065688",
@@ -36638,7 +36680,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356587+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775962+00:00"
   },
   {
     "id": "10000065689",
@@ -36659,7 +36701,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356594+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775967+00:00"
   },
   {
     "id": "10000065690",
@@ -36680,7 +36722,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356600+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775971+00:00"
   },
   {
     "id": "10000065691",
@@ -36701,7 +36743,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356604+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775977+00:00"
   },
   {
     "id": "10000065692",
@@ -36722,7 +36764,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356610+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775982+00:00"
   },
   {
     "id": "10000065693",
@@ -36743,7 +36785,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356615+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775987+00:00"
   },
   {
     "id": "10000065694",
@@ -36764,7 +36806,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356620+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775991+00:00"
   },
   {
     "id": "10000065695",
@@ -36785,7 +36827,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356625+00:00"
+    "scraped_at": "2026-07-28T16:10:02.775996+00:00"
   },
   {
     "id": "10000065696",
@@ -36806,7 +36848,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356629+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776001+00:00"
   },
   {
     "id": "10000065697",
@@ -36827,7 +36869,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356634+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776006+00:00"
   },
   {
     "id": "10000065698",
@@ -36848,7 +36890,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356639+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776012+00:00"
   },
   {
     "id": "20003797814",
@@ -37247,7 +37289,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356644+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776016+00:00"
   },
   {
     "id": "10000065700",
@@ -37268,7 +37310,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356650+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776021+00:00"
   },
   {
     "id": "10000065701",
@@ -37289,7 +37331,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356654+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776027+00:00"
   },
   {
     "id": "10000065702",
@@ -37310,7 +37352,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356660+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776033+00:00"
   },
   {
     "id": "10000065703",
@@ -37331,7 +37373,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356665+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776039+00:00"
   },
   {
     "id": "10000065704",
@@ -37352,7 +37394,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356671+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776044+00:00"
   },
   {
     "id": "10000065705",
@@ -37373,7 +37415,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356676+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776049+00:00"
   },
   {
     "id": "10000065706",
@@ -37394,7 +37436,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356681+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776054+00:00"
   },
   {
     "id": "10000065707",
@@ -37415,7 +37457,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356685+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776058+00:00"
   },
   {
     "id": "10000065708",
@@ -37436,7 +37478,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356690+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776065+00:00"
   },
   {
     "id": "10000065709",
@@ -37457,7 +37499,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356694+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776069+00:00"
   },
   {
     "id": "10000065710",
@@ -37478,7 +37520,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356701+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776074+00:00"
   },
   {
     "id": "10000065711",
@@ -37499,7 +37541,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356706+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776079+00:00"
   },
   {
     "id": "10000065712",
@@ -37520,7 +37562,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356711+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776085+00:00"
   },
   {
     "id": "10000065713",
@@ -37541,7 +37583,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356717+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776090+00:00"
   },
   {
     "id": "10000065714",
@@ -37562,7 +37604,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356722+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776095+00:00"
   },
   {
     "id": "10000065715",
@@ -37583,7 +37625,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356726+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776102+00:00"
   },
   {
     "id": "10000065716",
@@ -37604,7 +37646,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356731+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776107+00:00"
   },
   {
     "id": "10000065717",
@@ -37625,7 +37667,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356738+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776112+00:00"
   },
   {
     "id": "10000065718",
@@ -37646,7 +37688,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356744+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776119+00:00"
   },
   {
     "id": "10000065719",
@@ -37667,7 +37709,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356749+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776124+00:00"
   },
   {
     "id": "10000065720",
@@ -37688,7 +37730,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356755+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776129+00:00"
   },
   {
     "id": "10000065721",
@@ -37709,7 +37751,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356760+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776134+00:00"
   },
   {
     "id": "10000065722",
@@ -37730,7 +37772,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356764+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776141+00:00"
   },
   {
     "id": "10000065723",
@@ -37751,7 +37793,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356769+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776146+00:00"
   },
   {
     "id": "10000065724",
@@ -37772,7 +37814,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356775+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776151+00:00"
   },
   {
     "id": "10000065725",
@@ -37793,7 +37835,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356781+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776155+00:00"
   },
   {
     "id": "10000065726",
@@ -37814,7 +37856,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356786+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776160+00:00"
   },
   {
     "id": "10000065727",
@@ -37835,7 +37877,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356791+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776165+00:00"
   },
   {
     "id": "10000065728",
@@ -37856,7 +37898,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356795+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776171+00:00"
   },
   {
     "id": "10000065729",
@@ -37877,7 +37919,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356800+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776176+00:00"
   },
   {
     "id": "10000065730",
@@ -37898,7 +37940,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356806+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776181+00:00"
   },
   {
     "id": "10000065731",
@@ -37919,7 +37961,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356810+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776185+00:00"
   },
   {
     "id": "10000065732",
@@ -37940,7 +37982,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356816+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776192+00:00"
   },
   {
     "id": "10000065733",
@@ -37961,7 +38003,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356821+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776198+00:00"
   },
   {
     "id": "10000065734",
@@ -37982,7 +38024,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356827+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776203+00:00"
   },
   {
     "id": "10000065735",
@@ -38003,7 +38045,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356832+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776208+00:00"
   },
   {
     "id": "10000065736",
@@ -38024,7 +38066,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356836+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776212+00:00"
   },
   {
     "id": "10000065737",
@@ -38045,7 +38087,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356841+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776217+00:00"
   },
   {
     "id": "10000065738",
@@ -38066,7 +38108,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356846+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776223+00:00"
   },
   {
     "id": "10000065739",
@@ -38087,7 +38129,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356850+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776228+00:00"
   },
   {
     "id": "10000065740",
@@ -38108,7 +38150,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356856+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776233+00:00"
   },
   {
     "id": "10000065741",
@@ -38129,7 +38171,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-28T03:55:02.356861+00:00"
+    "scraped_at": "2026-07-28T16:10:02.776238+00:00"
   },
   {
     "id": "10000065742",
