@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-28",
-  "entry_count": 1159,
+  "entry_count": 1160,
   "entries": [
     {
       "id": "US|AZO|2026-05-29|hannasch brian|2987.0",
@@ -59051,6 +59051,26 @@
       },
       "latest_price": 22.8,
       "return_pct": 0.13,
+      "last_snapshot": "2026-07-28"
+    },
+    {
+      "id": "US|ACI|2026-07-27|moriarty thomas m|11.51",
+      "market": "US",
+      "ticker": "ACI",
+      "yf_symbol": "ACI",
+      "company": "Albertsons Companies, Inc.",
+      "insider_name": "Moriarty Thomas M",
+      "title": "EVP, M, A, Corporate Affairs",
+      "trade_date": "2026-07-27",
+      "trade_price": 11.51,
+      "value": 1962285.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-28": 11.58
+      },
+      "latest_price": 11.58,
+      "return_pct": 0.61,
       "last_snapshot": "2026-07-28"
     }
   ]

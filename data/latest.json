@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T22:06:50Z",
-  "trade_count": 8568,
+  "last_updated": "2026-07-28T23:52:10Z",
+  "trade_count": 8569,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -137088,6 +137088,22 @@
       "owned": "85780",
       "delta_own": "+30%",
       "value": "455300",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-28",
+      "filing_time": "19:29",
+      "trade_date": "2026-07-27",
+      "ticker": "ACI",
+      "company": "Albertsons Companies, Inc.",
+      "insider_name": "Moriarty Thomas M",
+      "title": "EVP, M, A, Corporate Affairs",
+      "trade_type": "P - Purchase",
+      "price": "11.51",
+      "qty": "170500",
+      "owned": "308946",
+      "delta_own": "+123%",
+      "value": "1962285",
       "cluster_buy": false
     }
   ]
