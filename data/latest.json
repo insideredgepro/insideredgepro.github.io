@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T13:41:14Z",
-  "trade_count": 8556,
+  "last_updated": "2026-07-28T15:58:38Z",
+  "trade_count": 8558,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -136896,6 +136896,38 @@
       "owned": "7812000",
       "delta_own": "+178%",
       "value": "28750000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-28",
+      "filing_time": "11:28",
+      "trade_date": "2026-07-22",
+      "ticker": "STFS",
+      "company": "Star Fashion Culture Holdings Ltd",
+      "insider_name": "Zhang Pingting",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "1.30",
+      "qty": "2000000",
+      "owned": "2032500",
+      "delta_own": ">999%",
+      "value": "2600000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-28",
+      "filing_time": "11:16",
+      "trade_date": "2026-07-27",
+      "ticker": "KRNY",
+      "company": "Kearny Financial Corp.",
+      "insider_name": "Fields Curtland E",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "9.41",
+      "qty": "14700",
+      "owned": "57900",
+      "delta_own": "+34%",
+      "value": "138274",
       "cluster_buy": false
     }
   ]
