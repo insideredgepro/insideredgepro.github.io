@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T11:09:26Z",
-  "trade_count": 8555,
+  "last_updated": "2026-07-28T13:41:14Z",
+  "trade_count": 8556,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -136880,6 +136880,22 @@
       "owned": "5767908",
       "delta_own": "0%",
       "value": "915526",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-28",
+      "filing_time": "09:00",
+      "trade_date": "2026-01-22",
+      "ticker": "AVR",
+      "company": "Anteris Technologies Global Corp.",
+      "insider_name": "L1 Capital Pty Ltd",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "5.75",
+      "qty": "5000000",
+      "owned": "7812000",
+      "delta_own": "+178%",
+      "value": "28750000",
       "cluster_buy": false
     }
   ]
