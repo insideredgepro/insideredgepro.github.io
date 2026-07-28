@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T23:58:12Z",
-  "trade_count": 8552,
+  "last_updated": "2026-07-28T02:24:50Z",
+  "trade_count": 8555,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -136832,6 +136832,54 @@
       "owned": "14842",
       "delta_own": "+16%",
       "value": "65000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-27",
+      "filing_time": "21:42",
+      "trade_date": "2026-07-23",
+      "ticker": "SCTX",
+      "company": "Scribe Therapeutics, Inc.",
+      "insider_name": "Lucas Svetlana",
+      "title": "Chief Business Officer",
+      "trade_type": "P - Purchase",
+      "price": "15.00",
+      "qty": "3000",
+      "owned": "3000",
+      "delta_own": "New",
+      "value": "45000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-27",
+      "filing_time": "21:20",
+      "trade_date": "2026-07-23",
+      "ticker": "SCTX",
+      "company": "Scribe Therapeutics, Inc.",
+      "insider_name": "Parrot David",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "15.00",
+      "qty": "2666",
+      "owned": "2666",
+      "delta_own": "New",
+      "value": "39990",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-27",
+      "filing_time": "21:15",
+      "trade_date": "2026-07-23",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "280.15",
+      "qty": "3268",
+      "owned": "5767908",
+      "delta_own": "0%",
+      "value": "915526",
       "cluster_buy": false
     }
   ]
