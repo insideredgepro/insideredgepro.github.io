@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-27",
-  "entry_count": 306,
+  "entry_count": 307,
   "entries": [
     {
       "id": "CA|TNZ|2026-05-28|balkwill, jonathan|50.24",
@@ -13131,6 +13131,26 @@
       },
       "latest_price": 0.5,
       "return_pct": 0.0,
+      "last_snapshot": "2026-07-27"
+    },
+    {
+      "id": "CA|AMQ|2026-07-27|pullinger, benjamin|0.7392",
+      "market": "CA",
+      "ticker": "AMQ",
+      "yf_symbol": "AMQ.CN",
+      "company": "Abitibi Metals Corp.",
+      "insider_name": "Pullinger, Benjamin",
+      "title": "Senior Officer",
+      "trade_date": "2026-07-27",
+      "trade_price": 0.7392,
+      "value": 48048.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-07-27": 0.75
+      },
+      "latest_price": 0.75,
+      "return_pct": 1.46,
       "last_snapshot": "2026-07-27"
     }
   ]

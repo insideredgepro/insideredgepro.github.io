@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T22:00:46Z",
-  "trade_count": 3485,
+  "last_updated": "2026-07-28T03:45:18Z",
+  "trade_count": 3486,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -53309,6 +53309,22 @@
       "qty": "50000",
       "price": "0.5000",
       "value": "25000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4756159",
+      "trade_date": "2026-07-27",
+      "filing_date": "2026-07-27",
+      "company": "Abitibi Metals Corp.",
+      "ticker": "AMQ",
+      "insider_name": "Pullinger, Benjamin",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "65000",
+      "price": "0.7392",
+      "value": "48048",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
