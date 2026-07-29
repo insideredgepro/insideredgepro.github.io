@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T22:52:22Z",
-  "trade_count": 8672,
+  "last_updated": "2026-07-29T23:54:05Z",
+  "trade_count": 8676,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -138753,6 +138753,70 @@
       "delta_own": "+4%",
       "value": "72650",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-29",
+      "filing_time": "19:09",
+      "trade_date": "2026-07-27",
+      "ticker": "SCTX",
+      "company": "Scribe Therapeutics, Inc.",
+      "insider_name": "Ah Bio Fund Ii, L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "15.00",
+      "qty": "333333",
+      "owned": "3082725",
+      "delta_own": "+12%",
+      "value": "4999995",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-29",
+      "filing_time": "18:50",
+      "trade_date": "2026-07-27",
+      "ticker": "SCTX",
+      "company": "Scribe Therapeutics, Inc.",
+      "insider_name": "Gordon Carl L",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "15.00",
+      "qty": "1000000",
+      "owned": "1348825",
+      "delta_own": "+287%",
+      "value": "15000000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-29",
+      "filing_time": "18:47",
+      "trade_date": "2026-07-27",
+      "ticker": "SCTX",
+      "company": "Scribe Therapeutics, Inc.",
+      "insider_name": "Orbimed Advisors LLC",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "15.00",
+      "qty": "1000000",
+      "owned": "1348825",
+      "delta_own": "+287%",
+      "value": "15000000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-29",
+      "filing_time": "18:18",
+      "trade_date": "2026-07-27",
+      "ticker": "NXTC",
+      "company": "Nextcure, Inc.",
+      "insider_name": "Adar1 Capital Management, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "4.98",
+      "qty": "17608",
+      "owned": "393266",
+      "delta_own": "+5%",
+      "value": "87713",
+      "cluster_buy": false
     }
   ]
 }

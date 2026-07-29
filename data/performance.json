@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-29",
-  "entry_count": 1228,
+  "entry_count": 1232,
   "entries": [
     {
       "id": "US|TMCI|2026-06-01|treace john t.|3.56",
@@ -59468,6 +59468,86 @@
       "latest_price": null,
       "return_pct": null,
       "last_snapshot": null
+    },
+    {
+      "id": "US|SCTX|2026-07-27|ah bio fund ii, l.p.|15.0",
+      "market": "US",
+      "ticker": "SCTX",
+      "yf_symbol": "SCTX",
+      "company": "Scribe Therapeutics, Inc.",
+      "insider_name": "Ah Bio Fund Ii, L.P.",
+      "title": "10%",
+      "trade_date": "2026-07-27",
+      "trade_price": 15.0,
+      "value": 4999995.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-29": 18.36
+      },
+      "latest_price": 18.36,
+      "return_pct": 22.4,
+      "last_snapshot": "2026-07-29"
+    },
+    {
+      "id": "US|SCTX|2026-07-27|gordon carl l|15.0",
+      "market": "US",
+      "ticker": "SCTX",
+      "yf_symbol": "SCTX",
+      "company": "Scribe Therapeutics, Inc.",
+      "insider_name": "Gordon Carl L",
+      "title": "Dir",
+      "trade_date": "2026-07-27",
+      "trade_price": 15.0,
+      "value": 15000000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-29": 18.36
+      },
+      "latest_price": 18.36,
+      "return_pct": 22.4,
+      "last_snapshot": "2026-07-29"
+    },
+    {
+      "id": "US|SCTX|2026-07-27|orbimed advisors llc|15.0",
+      "market": "US",
+      "ticker": "SCTX",
+      "yf_symbol": "SCTX",
+      "company": "Scribe Therapeutics, Inc.",
+      "insider_name": "Orbimed Advisors LLC",
+      "title": "Dir",
+      "trade_date": "2026-07-27",
+      "trade_price": 15.0,
+      "value": 15000000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-29": 18.36
+      },
+      "latest_price": 18.36,
+      "return_pct": 22.4,
+      "last_snapshot": "2026-07-29"
+    },
+    {
+      "id": "US|NXTC|2026-07-27|adar1 capital management, llc|4.98",
+      "market": "US",
+      "ticker": "NXTC",
+      "yf_symbol": "NXTC",
+      "company": "Nextcure, Inc.",
+      "insider_name": "Adar1 Capital Management, LLC",
+      "title": "10%",
+      "trade_date": "2026-07-27",
+      "trade_price": 4.98,
+      "value": 87713.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-29": 5.02
+      },
+      "latest_price": 5.02,
+      "return_pct": 0.8,
+      "last_snapshot": "2026-07-29"
     }
   ]
 }
