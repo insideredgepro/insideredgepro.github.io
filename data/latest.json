@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T11:14:31Z",
-  "trade_count": 8571,
+  "last_updated": "2026-07-29T13:47:10Z",
+  "trade_count": 8573,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -136960,7 +136960,7 @@
       "owned": "96584",
       "delta_own": "+59%",
       "value": "33480",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-07-28",
@@ -137137,6 +137137,38 @@
       "delta_own": "+199%",
       "value": "148702",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-29",
+      "filing_time": "07:40",
+      "trade_date": "2026-07-27",
+      "ticker": "NNOX",
+      "company": "Nano-X Imaging Ltd.",
+      "insider_name": "Suesskind Dan S",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.93",
+      "qty": "50000",
+      "owned": "75336",
+      "delta_own": "+197%",
+      "value": "46500",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-29",
+      "filing_time": "07:35",
+      "trade_date": "2026-07-28",
+      "ticker": "NNOX",
+      "company": "Nano-X Imaging Ltd.",
+      "insider_name": "Kainan Noga",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.90",
+      "qty": "33000",
+      "owned": "59130",
+      "delta_own": "+126%",
+      "value": "29700",
+      "cluster_buy": true
     }
   ]
 }
