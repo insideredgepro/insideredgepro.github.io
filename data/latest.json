@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T20:12:54Z",
-  "trade_count": 8575,
+  "last_updated": "2026-07-29T21:51:10Z",
+  "trade_count": 8578,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -137200,6 +137200,54 @@
       "owned": "220972",
       "delta_own": "+76%",
       "value": "99996",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-29",
+      "filing_time": "16:39",
+      "trade_date": "2026-07-27",
+      "ticker": "BWMX",
+      "company": "Betterware De Mexico, S.A.P.I. De C.V",
+      "insider_name": "Campos Luis",
+      "title": "Chairman, 10%",
+      "trade_type": "P - Purchase",
+      "price": "16.41",
+      "qty": "46830",
+      "owned": "20249565",
+      "delta_own": "0%",
+      "value": "768480",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-29",
+      "filing_time": "16:19",
+      "trade_date": "2026-07-28",
+      "ticker": "BFST",
+      "company": "Business First Bancshares, Inc.",
+      "insider_name": "Day Rick D.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "31.61",
+      "qty": "1500",
+      "owned": "269901",
+      "delta_own": "+1%",
+      "value": "47415",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-29",
+      "filing_time": "16:17",
+      "trade_date": "2026-07-28",
+      "ticker": "BXSY",
+      "company": "Bexil Investment Trust",
+      "insider_name": "Winmill & Co. Inc",
+      "title": "See \"Explanation of Responses\"",
+      "trade_type": "P - Purchase",
+      "price": "16.99",
+      "qty": "7029",
+      "owned": "273872",
+      "delta_own": "+3%",
+      "value": "119446",
       "cluster_buy": false
     }
   ]
