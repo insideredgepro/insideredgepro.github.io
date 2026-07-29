@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T17:05:07Z",
-  "trade_count": 8573,
+  "last_updated": "2026-07-29T18:58:55Z",
+  "trade_count": 8574,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -137169,6 +137169,22 @@
       "delta_own": "+126%",
       "value": "29700",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-29",
+      "filing_time": "14:56",
+      "trade_date": "2026-07-28",
+      "ticker": "EQBK",
+      "company": "Equity Bancshares Inc",
+      "insider_name": "Schlehuber Lisa Ann",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "50.98",
+      "qty": "989",
+      "owned": "2092",
+      "delta_own": "+90%",
+      "value": "50429",
+      "cluster_buy": false
     }
   ]
 }
