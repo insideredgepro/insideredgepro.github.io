@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T16:00:18Z",
-  "trade_count": 3490,
+  "last_updated": "2026-07-29T22:00:16Z",
+  "trade_count": 3491,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -53389,6 +53389,22 @@
       "qty": "5000",
       "price": "4.2248",
       "value": "21124",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4756693",
+      "trade_date": "2026-07-29",
+      "filing_date": "2026-07-29",
+      "company": "Skeena Resources Limited",
+      "ticker": "SKE",
+      "insider_name": "Reichert, Randy",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "1370",
+      "price": "35.8500",
+      "value": "49114",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
