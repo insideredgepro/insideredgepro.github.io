@@ -392,7 +392,28 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: IRA One",
-    "scraped_at": "2026-07-29T03:55:03.528793+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067980+00:00"
+  },
+  {
+    "id": "10000066377",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "PITTSBURGH WATER AND SEWER AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-22",
+    "trade_published": "2026-07-29",
+    "filed_after_days": "7",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5% Matures: 2056-09-01",
+    "scraped_at": "2026-07-29T16:10:03.067804+00:00"
   },
   {
     "id": "20003801569",
@@ -413,7 +434,28 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 2012 Trust Description: Capital call of $3,723.39 for RAC II",
-    "scraped_at": "2026-07-29T03:55:03.528804+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067989+00:00"
+  },
+  {
+    "id": "10000066376",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "GS FINANCE CORP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-21",
+    "trade_published": "2026-07-29",
+    "filed_after_days": "8",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+    "scraped_at": "2026-07-29T16:10:03.067780+00:00"
   },
   {
     "id": "20003801568",
@@ -434,7 +476,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Schwab > Schwab Roth IRA -- Sam Liccardo Description: 100 shares",
-    "scraped_at": "2026-07-29T03:55:03.528798+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067985+00:00"
   },
   {
     "id": "20003801567",
@@ -455,7 +497,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Description: Dividend reinvestment",
-    "scraped_at": "2026-07-29T03:55:03.528809+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067994+00:00"
   },
   {
     "id": "20003801563",
@@ -521,6 +563,48 @@
     "scraped_at": "2026-07-22T16:10:03.282723+00:00"
   },
   {
+    "id": "10000066378",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "ALLEGHENY COUNTY OF PENNSYLVANIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-14",
+    "trade_published": "2026-07-29",
+    "filed_after_days": "15",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5% Matures: 2054-12-01",
+    "scraped_at": "2026-07-29T16:10:03.067814+00:00"
+  },
+  {
+    "id": "10000066380",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "GS FINANCE CORP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-14",
+    "trade_published": "2026-07-29",
+    "filed_after_days": "15",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+    "scraped_at": "2026-07-29T16:10:03.067825+00:00"
+  },
+  {
     "id": "20003801566",
     "politician_name": "Deborah Dingell",
     "party": "Democrat",
@@ -539,7 +623,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Smith Barney LLC IRA Description: Mortgage Backed Security; Due Date 06/01/2056; Coupon 5.50% Fixed",
-    "scraped_at": "2026-07-29T03:55:03.528824+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068011+00:00"
   },
   {
     "id": "20003801588",
@@ -560,7 +644,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Description: purchase of CarterBaldwin stock",
-    "scraped_at": "2026-07-29T03:55:03.528662+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067877+00:00"
   },
   {
     "id": "20003801468",
@@ -1235,6 +1319,48 @@
     "scraped_at": "2026-07-22T16:10:03.283107+00:00"
   },
   {
+    "id": "10000066379",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "POCONO MOUNTAIN SCHOOL DISTRICT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-08",
+    "trade_published": "2026-07-29",
+    "filed_after_days": "21",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5% Matures: 2051-06-15",
+    "scraped_at": "2026-07-29T16:10:03.067820+00:00"
+  },
+  {
+    "id": "10000066381",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "GS FINANCE CORP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-08",
+    "trade_published": "2026-07-29",
+    "filed_after_days": "21",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "GS Managed Structured Note Strategy MSCI EAFE Linked Note",
+    "scraped_at": "2026-07-29T16:10:03.067831+00:00"
+  },
+  {
     "id": "20003801321",
     "politician_name": "Richard Larsen",
     "party": "Democrat",
@@ -1445,6 +1571,27 @@
     "scraped_at": "2026-07-14T03:55:03.496609+00:00"
   },
   {
+    "id": "10000066382",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "PHILADELPHIA AUTHORITY FOR INDUSTRIAL DEVELOPMENT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-30",
+    "trade_published": "2026-07-29",
+    "filed_after_days": "29",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2028-12-01",
+    "scraped_at": "2026-07-29T16:10:03.067836+00:00"
+  },
+  {
     "id": "20003801587",
     "politician_name": "Sheri Biggs",
     "party": "Republican",
@@ -1463,7 +1610,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > UBS Financial Services 26 Description: Dividend reinvestment in a professionally managed account \u2013 Business Development Company",
-    "scraped_at": "2026-07-29T03:55:03.528688+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067882+00:00"
   },
   {
     "id": "20003801495",
@@ -1947,6 +2094,153 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
     "scraped_at": "2026-07-06T16:11:50.314811+00:00"
+  },
+  {
+    "id": "10000066383",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "PENNSYLVANIA TURNPIKE COMMISSION",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-29",
+    "trade_published": "2026-07-29",
+    "filed_after_days": "30",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2030-12-01",
+    "scraped_at": "2026-07-29T16:10:03.067840+00:00"
+  },
+  {
+    "id": "10000066384",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "CORPUS CHRISTI TEXAS UTILITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-29",
+    "trade_published": "2026-07-29",
+    "filed_after_days": "30",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2029-07-15",
+    "scraped_at": "2026-07-29T16:10:03.067847+00:00"
+  },
+  {
+    "id": "10000066385",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "PENNSYLVANIA STATE SYSTEM OF HIGHER EDUCATION",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-29",
+    "trade_published": "2026-07-29",
+    "filed_after_days": "30",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 4% Matures: 2031-06-15",
+    "scraped_at": "2026-07-29T16:10:03.067851+00:00"
+  },
+  {
+    "id": "10000066386",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "PHILADELPHIA AUTHORITY FOR INDUSTRIAL DEVELOPMENT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-29",
+    "trade_published": "2026-07-29",
+    "filed_after_days": "30",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2031-12-01",
+    "scraped_at": "2026-07-29T16:10:03.067856+00:00"
+  },
+  {
+    "id": "10000066387",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "STATE OF WASHINGTON",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-29",
+    "trade_published": "2026-07-29",
+    "filed_after_days": "30",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2033-02-01",
+    "scraped_at": "2026-07-29T16:10:03.067860+00:00"
+  },
+  {
+    "id": "10000066388",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "PENNSYLVANIA TURNPIKE COMMISSION",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-29",
+    "trade_published": "2026-07-29",
+    "filed_after_days": "30",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2026-12-01",
+    "scraped_at": "2026-07-29T16:10:03.067868+00:00"
+  },
+  {
+    "id": "10000066389",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "COUNTY OF NORTHAMPTON PENNSYLVANIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-06-29",
+    "trade_published": "2026-07-29",
+    "filed_after_days": "30",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2034-11-15",
+    "scraped_at": "2026-07-29T16:10:03.067873+00:00"
   },
   {
     "id": "20003801489",
@@ -2702,7 +2996,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "Linked to the Least Performing of the Invesco QQQ TrustSM, Series 1 and the iShares Russell 2000 Value ETF. Company: Bank of America Corporation  (Charlotte, NC) Description: Equity Index-Linked Note",
-    "scraped_at": "2026-07-29T03:55:03.528815+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068000+00:00"
   },
   {
     "id": "10000065314",
@@ -3626,7 +3920,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "Linked to the Least Performing of the S&P 500 Index and the EURO STOXX 50 Index. Company: Canadian Imperial Bank of Commerce  (Toronto, Ontario) Description: Equity Index-Linked Note",
-    "scraped_at": "2026-07-29T03:55:03.528819+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068005+00:00"
   },
   {
     "id": "20003801498",
@@ -3794,7 +4088,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-07-29T03:55:03.528707+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067896+00:00"
   },
   {
     "id": "20003801571",
@@ -3815,7 +4109,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (6)",
-    "scraped_at": "2026-07-29T03:55:03.528713+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067901+00:00"
   },
   {
     "id": "20003801572",
@@ -3836,7 +4130,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-07-29T03:55:03.528719+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067907+00:00"
   },
   {
     "id": "20003801344",
@@ -4613,7 +4907,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-07-29T03:55:03.528724+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067914+00:00"
   },
   {
     "id": "20003801574",
@@ -4634,7 +4928,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-07-29T03:55:03.528729+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067919+00:00"
   },
   {
     "id": "20003801575",
@@ -4655,7 +4949,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-07-29T03:55:03.528733+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067924+00:00"
   },
   {
     "id": "20003801576",
@@ -4676,7 +4970,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-07-29T03:55:03.528738+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067929+00:00"
   },
   {
     "id": "20003801577",
@@ -4697,7 +4991,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-07-29T03:55:03.528743+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067934+00:00"
   },
   {
     "id": "20003801578",
@@ -4718,7 +5012,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-07-29T03:55:03.528750+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067939+00:00"
   },
   {
     "id": "20003801579",
@@ -4739,7 +5033,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-07-29T03:55:03.528755+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067943+00:00"
   },
   {
     "id": "20003801580",
@@ -4760,7 +5054,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-07-29T03:55:03.528762+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067948+00:00"
   },
   {
     "id": "20003801581",
@@ -4781,7 +5075,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-07-29T03:55:03.528768+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067953+00:00"
   },
   {
     "id": "20003801582",
@@ -4802,7 +5096,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (5)",
-    "scraped_at": "2026-07-29T03:55:03.528772+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067959+00:00"
   },
   {
     "id": "20003801583",
@@ -4823,7 +5117,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Morgan Stanley Active Assets (6)",
-    "scraped_at": "2026-07-29T03:55:03.528777+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067964+00:00"
   },
   {
     "id": "20003801584",
@@ -4844,7 +5138,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley Active Assets (1)",
-    "scraped_at": "2026-07-29T03:55:03.528782+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067968+00:00"
   },
   {
     "id": "20003801500",
@@ -6587,7 +6881,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Morgan Stanley Active Assets (2)",
-    "scraped_at": "2026-07-29T03:55:03.528786+00:00"
+    "scraped_at": "2026-07-29T16:10:03.067973+00:00"
   },
   {
     "id": "10000065287",
@@ -27401,48 +27695,6 @@
     "scraped_at": "2026-05-08T14:21:03.620004+00:00"
   },
   {
-    "id": "20003797422",
-    "politician_name": "Deborah Dingell",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "MI",
-    "company": "COHEN & STEERS TAX-ADVANTAGE",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-04-21",
-    "trade_published": "2026-04-29",
-    "filed_after_days": "7",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Morgan Stanley Smith Barney LLC IRA",
-    "scraped_at": "2026-05-01T14:13:21.187417+00:00"
-  },
-  {
-    "id": "20003797423",
-    "politician_name": "Deborah Dingell",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "MI",
-    "company": "MICHIGAN STATE HOUSING DEVELOPMENT AUTHORITY",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-04-21",
-    "trade_published": "2026-04-29",
-    "filed_after_days": "7",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Joint",
-    "comment": "Subholding Of: Morgan Stanley Smith Barney LLC Brokerage Account Description: Municipal Bond; Maturity Date - 12/01/2039; Coupon Rate - 4%",
-    "scraped_at": "2026-05-01T14:13:21.187421+00:00"
-  },
-  {
     "id": "20003798333",
     "politician_name": "Jonathan Jackson",
     "party": "Democrat",
@@ -33092,27 +33344,6 @@
     "scraped_at": "2026-05-11T11:20:47.629647+00:00"
   },
   {
-    "id": "20003797424",
-    "politician_name": "Max Miller",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "OH",
-    "company": "ALTA PARK ENDURANCE FUND LP",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-04-10",
-    "trade_published": "2026-04-29",
-    "filed_after_days": "18",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: 2012 Trust Description: Capital call of $40,112.60",
-    "scraped_at": "2026-05-01T15:15:38.579853+00:00"
-  },
-  {
     "id": "20003798292",
     "politician_name": "Joshua Gottheimer",
     "party": "Democrat",
@@ -33888,27 +34119,6 @@
     "owner": "Joint",
     "comment": "",
     "scraped_at": "2026-05-11T11:20:47.629394+00:00"
-  },
-  {
-    "id": "20003797420",
-    "politician_name": "Suzan DelBene",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "WA",
-    "company": "STATE OF MARYLAND",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-04-09",
-    "trade_published": "2026-04-29",
-    "filed_after_days": "19",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Joint",
-    "comment": "",
-    "scraped_at": "2026-05-01T14:13:21.187409+00:00"
   },
   {
     "id": "20003798320",
@@ -34856,27 +35066,6 @@
     "scraped_at": "2026-05-07T12:03:51.988782+00:00"
   },
   {
-    "id": "20003797428",
-    "politician_name": "Timothy Moore",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "NC",
-    "company": "Harley-Davidson Inc",
-    "ticker": "HOG:US",
-    "sector": "consumer-discretionary",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-04-07",
-    "trade_published": "2026-04-29",
-    "filed_after_days": "21",
-    "price": "$21.18",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Not Disclosed",
-    "comment": "",
-    "scraped_at": "2026-05-01T15:15:38.579871+00:00"
-  },
-  {
     "id": "20003798294",
     "politician_name": "Joshua Gottheimer",
     "party": "Democrat",
@@ -35169,27 +35358,6 @@
     "owner": "Spouse",
     "comment": "",
     "scraped_at": "2026-05-07T12:03:51.988786+00:00"
-  },
-  {
-    "id": "20003797425",
-    "politician_name": "Max Miller",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "OH",
-    "company": "GLASFUNDS LP",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-04-06",
-    "trade_published": "2026-04-29",
-    "filed_after_days": "22",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: 2012 Trust Description: Capital contribution of $50,000",
-    "scraped_at": "2026-05-01T15:15:38.579857+00:00"
   },
   {
     "id": "20003797740",
@@ -35696,27 +35864,6 @@
     "scraped_at": "2026-05-07T12:03:51.988791+00:00"
   },
   {
-    "id": "20003797426",
-    "politician_name": "Max Miller",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "OH",
-    "company": "MERCATO PARTNERS TRAVERSE IV QP LP",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-04-02",
-    "trade_published": "2026-04-29",
-    "filed_after_days": "26",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: 2012 Trust Description: Capital call of $1,005",
-    "scraped_at": "2026-05-01T15:15:38.579861+00:00"
-  },
-  {
     "id": "20003797694",
     "politician_name": "Anthony Wied",
     "party": "Republican",
@@ -35925,48 +36072,6 @@
     "owner": "Self",
     "comment": "",
     "scraped_at": "2026-05-08T14:21:03.619988+00:00"
-  },
-  {
-    "id": "20003797427",
-    "politician_name": "Timothy Moore",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "NC",
-    "company": "Cracker Barrel Old Country Store Inc",
-    "ticker": "CBRL:US",
-    "sector": "consumer-discretionary",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-04-01",
-    "trade_published": "2026-04-29",
-    "filed_after_days": "27",
-    "price": "$28.54",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed",
-    "comment": "",
-    "scraped_at": "2026-05-01T15:15:38.579866+00:00"
-  },
-  {
-    "id": "20003797421",
-    "politician_name": "Suzan DelBene",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "WA",
-    "company": "TARRANT COUNTY CULTURAL EDUCATION FACILITIES FINAN",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-04-01",
-    "trade_published": "2026-04-29",
-    "filed_after_days": "27",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Joint",
-    "comment": "",
-    "scraped_at": "2026-05-01T14:13:21.187413+00:00"
   },
   {
     "id": "20003797683",
@@ -36323,7 +36428,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528829+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068015+00:00"
   },
   {
     "id": "10000065672",
@@ -36344,7 +36449,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528833+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068019+00:00"
   },
   {
     "id": "10000065673",
@@ -36365,7 +36470,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528840+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068024+00:00"
   },
   {
     "id": "10000065674",
@@ -36386,7 +36491,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528844+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068029+00:00"
   },
   {
     "id": "10000065675",
@@ -36407,7 +36512,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528849+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068034+00:00"
   },
   {
     "id": "10000065676",
@@ -36428,7 +36533,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528855+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068039+00:00"
   },
   {
     "id": "10000065677",
@@ -36449,7 +36554,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528859+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068043+00:00"
   },
   {
     "id": "10000065678",
@@ -36470,7 +36575,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528865+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068047+00:00"
   },
   {
     "id": "10000065679",
@@ -36491,7 +36596,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528870+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068052+00:00"
   },
   {
     "id": "10000065680",
@@ -36512,7 +36617,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528875+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068057+00:00"
   },
   {
     "id": "10000065681",
@@ -36533,7 +36638,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528879+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068063+00:00"
   },
   {
     "id": "10000065682",
@@ -36554,7 +36659,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528884+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068068+00:00"
   },
   {
     "id": "10000065683",
@@ -36575,7 +36680,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528889+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068073+00:00"
   },
   {
     "id": "10000065684",
@@ -36596,7 +36701,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528894+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068079+00:00"
   },
   {
     "id": "10000065685",
@@ -36617,7 +36722,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528899+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068084+00:00"
   },
   {
     "id": "10000065686",
@@ -36638,7 +36743,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528903+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068089+00:00"
   },
   {
     "id": "10000065687",
@@ -36659,7 +36764,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528911+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068094+00:00"
   },
   {
     "id": "10000065688",
@@ -36680,7 +36785,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528917+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068100+00:00"
   },
   {
     "id": "10000065689",
@@ -36701,7 +36806,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528922+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068105+00:00"
   },
   {
     "id": "10000065690",
@@ -36722,7 +36827,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528926+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068110+00:00"
   },
   {
     "id": "10000065691",
@@ -36743,7 +36848,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528931+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068116+00:00"
   },
   {
     "id": "10000065692",
@@ -36764,7 +36869,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528935+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068120+00:00"
   },
   {
     "id": "10000065693",
@@ -36785,7 +36890,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528941+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068126+00:00"
   },
   {
     "id": "10000065694",
@@ -36806,7 +36911,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528946+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068132+00:00"
   },
   {
     "id": "10000065695",
@@ -36827,7 +36932,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528951+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068136+00:00"
   },
   {
     "id": "10000065696",
@@ -36848,7 +36953,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528956+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068142+00:00"
   },
   {
     "id": "10000065697",
@@ -36869,7 +36974,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528961+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068147+00:00"
   },
   {
     "id": "10000065698",
@@ -36890,7 +36995,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528968+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068153+00:00"
   },
   {
     "id": "20003797814",
@@ -37289,7 +37394,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528973+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068158+00:00"
   },
   {
     "id": "10000065700",
@@ -37310,7 +37415,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528978+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068163+00:00"
   },
   {
     "id": "10000065701",
@@ -37331,7 +37436,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528983+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068167+00:00"
   },
   {
     "id": "10000065702",
@@ -37352,7 +37457,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528989+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068174+00:00"
   },
   {
     "id": "10000065703",
@@ -37373,7 +37478,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528994+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068178+00:00"
   },
   {
     "id": "10000065704",
@@ -37394,7 +37499,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.528998+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068185+00:00"
   },
   {
     "id": "10000065705",
@@ -37415,7 +37520,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529003+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068189+00:00"
   },
   {
     "id": "10000065706",
@@ -37436,7 +37541,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529008+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068194+00:00"
   },
   {
     "id": "10000065707",
@@ -37457,7 +37562,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529013+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068199+00:00"
   },
   {
     "id": "10000065708",
@@ -37478,7 +37583,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529020+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068203+00:00"
   },
   {
     "id": "10000065709",
@@ -37499,7 +37604,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529024+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068208+00:00"
   },
   {
     "id": "10000065710",
@@ -37520,7 +37625,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529029+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068213+00:00"
   },
   {
     "id": "10000065711",
@@ -37541,7 +37646,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529035+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068218+00:00"
   },
   {
     "id": "10000065712",
@@ -37562,7 +37667,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529040+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068226+00:00"
   },
   {
     "id": "10000065713",
@@ -37583,7 +37688,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529045+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068230+00:00"
   },
   {
     "id": "10000065714",
@@ -37604,7 +37709,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529050+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068236+00:00"
   },
   {
     "id": "10000065715",
@@ -37625,7 +37730,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529056+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068241+00:00"
   },
   {
     "id": "10000065716",
@@ -37646,7 +37751,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529062+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068245+00:00"
   },
   {
     "id": "10000065717",
@@ -37667,7 +37772,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529067+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068250+00:00"
   },
   {
     "id": "10000065718",
@@ -37688,7 +37793,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529073+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068255+00:00"
   },
   {
     "id": "10000065719",
@@ -37709,7 +37814,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529079+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068260+00:00"
   },
   {
     "id": "10000065720",
@@ -37730,7 +37835,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529084+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068264+00:00"
   },
   {
     "id": "10000065721",
@@ -37751,7 +37856,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529089+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068269+00:00"
   },
   {
     "id": "10000065722",
@@ -37772,7 +37877,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529094+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068274+00:00"
   },
   {
     "id": "10000065723",
@@ -37793,7 +37898,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529099+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068280+00:00"
   },
   {
     "id": "10000065724",
@@ -37814,7 +37919,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529104+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068286+00:00"
   },
   {
     "id": "10000065725",
@@ -37835,7 +37940,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529108+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068291+00:00"
   },
   {
     "id": "10000065726",
@@ -37856,7 +37961,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529113+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068297+00:00"
   },
   {
     "id": "10000065727",
@@ -37877,7 +37982,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Transactions executed in March 2026 were initiated by a third party advisor to implement a direct indexing strategy.",
-    "scraped_at": "2026-07-29T03:55:03.529118+00:00"
+    "scraped_at": "2026-07-29T16:10:03.068301+00:00"
   },
   {
     "id": "10000065728",
@@ -38741,27 +38846,6 @@
     "scraped_at": "2026-05-02T08:08:09.540000+00:00"
   },
   {
-    "id": "20003797429",
-    "politician_name": "Timothy Moore",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "NC",
-    "company": "LGI Homes Inc",
-    "ticker": "LGIH:US",
-    "sector": "consumer-discretionary",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-26",
-    "trade_published": "2026-04-29",
-    "filed_after_days": "33",
-    "price": "$39.36",
-    "value": 175000,
-    "amount": "$100K\u2013$250K",
-    "owner": "Not Disclosed",
-    "comment": "",
-    "scraped_at": "2026-05-01T15:15:38.579877+00:00"
-  },
-  {
     "id": "20003797432",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -38886,27 +38970,6 @@
     "owner": "Spouse",
     "comment": "",
     "scraped_at": "2026-05-01T15:15:38.579847+00:00"
-  },
-  {
-    "id": "20003797430",
-    "politician_name": "Timothy Moore",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "NC",
-    "company": "NVIDIA Corporation",
-    "ticker": "NVDA:US",
-    "sector": "information-technology",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-24",
-    "trade_published": "2026-04-29",
-    "filed_after_days": "35",
-    "price": "$175.20",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed",
-    "comment": "",
-    "scraped_at": "2026-05-01T15:15:38.579882+00:00"
   },
   {
     "id": "10000064918",
@@ -39789,27 +39852,6 @@
     "owner": "Self",
     "comment": "",
     "scraped_at": "2026-05-08T14:21:03.619946+00:00"
-  },
-  {
-    "id": "20003797419",
-    "politician_name": "Stephen Cohen",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "TN",
-    "company": "METROPOLITAN GOVERNMENT OF NASHVILLE AND DAVIDSON COUNTY TENNESSEE",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-03-16",
-    "trade_published": "2026-04-29",
-    "filed_after_days": "43",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Stephens Advantage Account",
-    "scraped_at": "2026-05-01T14:13:21.187425+00:00"
   },
   {
     "id": "20003798358",
