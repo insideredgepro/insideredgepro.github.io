@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T23:52:10Z",
-  "trade_count": 8569,
+  "last_updated": "2026-07-29T01:47:07Z",
+  "trade_count": 8571,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -137104,6 +137104,38 @@
       "owned": "308946",
       "delta_own": "+123%",
       "value": "1962285",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-28",
+      "filing_time": "21:30",
+      "trade_date": "2026-07-24",
+      "ticker": "SCTX",
+      "company": "Scribe Therapeutics, Inc.",
+      "insider_name": "Aghazadeh Behzad",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "15.16",
+      "qty": "2391238",
+      "owned": "3088888",
+      "delta_own": "+343%",
+      "value": "36259761",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-28",
+      "filing_time": "21:14",
+      "trade_date": "2026-07-28",
+      "ticker": "MPLT",
+      "company": "Maplight Therapeutics, Inc.",
+      "insider_name": "Cox Troy",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "9.52",
+      "qty": "15620",
+      "owned": "23484",
+      "delta_own": "+199%",
+      "value": "148702",
       "cluster_buy": false
     }
   ]
