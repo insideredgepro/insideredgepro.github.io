@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T15:03:24Z",
-  "trade_count": 8681,
+  "last_updated": "2026-07-30T17:16:28Z",
+  "trade_count": 8683,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -138897,6 +138897,38 @@
       "delta_own": "+4%",
       "value": "449938",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-30",
+      "filing_time": "12:33",
+      "trade_date": "2026-07-30",
+      "ticker": "UROY",
+      "company": "Uranium Royalty Corp.",
+      "insider_name": "Melbye Scott",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.13",
+      "qty": "13850",
+      "owned": "615898",
+      "delta_own": "+2%",
+      "value": "43289",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-30",
+      "filing_time": "11:09",
+      "trade_date": "2026-07-29",
+      "ticker": "COSM",
+      "company": "Cosmos Health Inc.",
+      "insider_name": "Siokas Grigorios",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.18",
+      "qty": "766284",
+      "owned": "14248092",
+      "delta_own": "+6%",
+      "value": "140000",
+      "cluster_buy": false
     }
   ]
 }
