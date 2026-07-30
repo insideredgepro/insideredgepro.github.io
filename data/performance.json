@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-30",
-  "entry_count": 1241,
+  "entry_count": 1242,
   "entries": [
     {
       "id": "US|TMCI|2026-06-01|treace john t.|3.56",
@@ -60779,6 +60779,26 @@
       },
       "latest_price": 182.51,
       "return_pct": 1.64,
+      "last_snapshot": "2026-07-30"
+    },
+    {
+      "id": "US|LBRT|2026-07-28|murti arjun n|17.79",
+      "market": "US",
+      "ticker": "LBRT",
+      "yf_symbol": "LBRT",
+      "company": "Liberty Energy Inc.",
+      "insider_name": "Murti Arjun N",
+      "title": "Dir",
+      "trade_date": "2026-07-28",
+      "trade_price": 17.79,
+      "value": 250009.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-30": 17.95
+      },
+      "latest_price": 17.95,
+      "return_pct": 0.9,
       "last_snapshot": "2026-07-30"
     }
   ]

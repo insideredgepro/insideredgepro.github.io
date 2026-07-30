@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T20:57:18Z",
-  "trade_count": 8686,
+  "last_updated": "2026-07-30T22:08:47Z",
+  "trade_count": 8687,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -138976,6 +138976,22 @@
       "owned": "8400",
       "delta_own": "+3%",
       "value": "45790",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-30",
+      "filing_time": "17:04",
+      "trade_date": "2026-07-28",
+      "ticker": "LBRT",
+      "company": "Liberty Energy Inc.",
+      "insider_name": "Murti Arjun N",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "17.79",
+      "qty": "14053",
+      "owned": "41621",
+      "delta_own": "+51%",
+      "value": "250009",
       "cluster_buy": false
     }
   ]
