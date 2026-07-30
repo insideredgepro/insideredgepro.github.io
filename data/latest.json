@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T10:14:06Z",
-  "trade_count": 8677,
+  "last_updated": "2026-07-30T12:23:46Z",
+  "trade_count": 8679,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -138833,6 +138833,38 @@
       "delta_own": "0%",
       "value": "29555",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-30",
+      "filing_time": "06:57",
+      "trade_date": "2026-07-24",
+      "ticker": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "16.76",
+      "qty": "637200",
+      "owned": "83268440",
+      "delta_own": "+1%",
+      "value": "10681309",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-30",
+      "filing_time": "06:24",
+      "trade_date": "2026-07-28",
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider_name": "Tien Bor-Zen",
+      "title": "VP",
+      "trade_type": "P - Purchase",
+      "price": "72.73",
+      "qty": "1015",
+      "owned": "18484",
+      "delta_own": "+6%",
+      "value": "73820",
+      "cluster_buy": true
     }
   ]
 }

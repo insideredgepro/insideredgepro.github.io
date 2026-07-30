@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-30",
-  "entry_count": 1233,
+  "entry_count": 1235,
   "entries": [
     {
       "id": "US|TMCI|2026-06-01|treace john t.|3.56",
@@ -60619,6 +60619,46 @@
       },
       "latest_price": 12.8,
       "return_pct": -4.69,
+      "last_snapshot": "2026-07-30"
+    },
+    {
+      "id": "US|COE|2026-07-24|huang jack jiajia|16.76",
+      "market": "US",
+      "ticker": "COE",
+      "yf_symbol": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "CEO, 10%",
+      "trade_date": "2026-07-24",
+      "trade_price": 16.76,
+      "value": 10681309.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-30": 16.93
+      },
+      "latest_price": 16.93,
+      "return_pct": 1.01,
+      "last_snapshot": "2026-07-30"
+    },
+    {
+      "id": "US|TSM|2026-07-28|tien bor-zen|72.73",
+      "market": "US",
+      "ticker": "TSM",
+      "yf_symbol": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider_name": "Tien Bor-Zen",
+      "title": "VP",
+      "trade_date": "2026-07-28",
+      "trade_price": 72.73,
+      "value": 73820.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-30": 374.67
+      },
+      "latest_price": 374.67,
+      "return_pct": 415.15,
       "last_snapshot": "2026-07-30"
     }
   ]
