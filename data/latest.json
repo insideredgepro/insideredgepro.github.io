@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T22:08:47Z",
-  "trade_count": 8687,
+  "last_updated": "2026-07-30T23:54:42Z",
+  "trade_count": 8688,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -138992,6 +138992,22 @@
       "owned": "41621",
       "delta_own": "+51%",
       "value": "250009",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-30",
+      "filing_time": "18:39",
+      "trade_date": "2026-07-28",
+      "ticker": "MLPT",
+      "company": "Maplight Therapeutics, Inc.",
+      "insider_name": "Catalyst4, Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "12.67",
+      "qty": "1209225",
+      "owned": "20906689",
+      "delta_own": "+6%",
+      "value": "15314794",
       "cluster_buy": false
     }
   ]

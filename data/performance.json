@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-30",
-  "entry_count": 1242,
+  "entry_count": 1243,
   "entries": [
     {
       "id": "US|TMCI|2026-06-01|treace john t.|3.56",
@@ -60800,6 +60800,24 @@
       "latest_price": 17.95,
       "return_pct": 0.9,
       "last_snapshot": "2026-07-30"
+    },
+    {
+      "id": "US|MLPT|2026-07-28|catalyst4, inc.|12.67",
+      "market": "US",
+      "ticker": "MLPT",
+      "yf_symbol": "MLPT",
+      "company": "Maplight Therapeutics, Inc.",
+      "insider_name": "Catalyst4, Inc.",
+      "title": "10%",
+      "trade_date": "2026-07-28",
+      "trade_price": 12.67,
+      "value": 15314794.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
     }
   ]
 }
