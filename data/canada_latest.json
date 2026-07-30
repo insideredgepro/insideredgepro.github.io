@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T22:00:16Z",
-  "trade_count": 3491,
+  "last_updated": "2026-07-30T03:45:16Z",
+  "trade_count": 3492,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -53405,6 +53405,22 @@
       "qty": "1370",
       "price": "35.8500",
       "value": "49114",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4756700",
+      "trade_date": "2026-07-29",
+      "filing_date": "2026-07-29",
+      "company": "Red Metal Resources Ltd.",
+      "ticker": "RMES",
+      "insider_name": "Chow, Andy Tsz Kong",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "100000",
+      "price": "0.1500",
+      "value": "15000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false

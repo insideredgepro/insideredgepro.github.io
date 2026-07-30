@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-29",
-  "entry_count": 292,
+  "entry_count": 293,
   "entries": [
     {
       "id": "CA|BTE|2026-06-01|bly, mark|5.035",
@@ -12552,6 +12552,26 @@
       },
       "latest_price": 36.03,
       "return_pct": 0.5,
+      "last_snapshot": "2026-07-29"
+    },
+    {
+      "id": "CA|RMES|2026-07-29|chow, andy tsz kong|0.15",
+      "market": "CA",
+      "ticker": "RMES",
+      "yf_symbol": "RMES.CN",
+      "company": "Red Metal Resources Ltd.",
+      "insider_name": "Chow, Andy Tsz Kong",
+      "title": "10% Holder",
+      "trade_date": "2026-07-29",
+      "trade_price": 0.15,
+      "value": 15000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-07-29": 0.14
+      },
+      "latest_price": 0.14,
+      "return_pct": -6.67,
       "last_snapshot": "2026-07-29"
     }
   ]
