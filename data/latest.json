@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T19:10:46Z",
-  "trade_count": 8685,
+  "last_updated": "2026-07-30T20:57:18Z",
+  "trade_count": 8686,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -138961,6 +138961,22 @@
       "delta_own": "+6%",
       "value": "57207",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-30",
+      "filing_time": "16:06",
+      "trade_date": "2026-07-29",
+      "ticker": "NTRS",
+      "company": "Northern Trust Corp",
+      "insider_name": "Moritz Robert Edward Jr.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "179.57",
+      "qty": "255",
+      "owned": "8400",
+      "delta_own": "+3%",
+      "value": "45790",
+      "cluster_buy": false
     }
   ]
 }
