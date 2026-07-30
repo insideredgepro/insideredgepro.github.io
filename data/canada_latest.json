@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T03:45:16Z",
-  "trade_count": 3492,
+  "last_updated": "2026-07-30T16:00:18Z",
+  "trade_count": 3493,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -53420,6 +53420,22 @@
       "security": "Common Shares",
       "qty": "100000",
       "price": "0.1500",
+      "value": "15000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4756802",
+      "trade_date": "2026-07-30",
+      "filing_date": "2026-07-30",
+      "company": "NanoXplore Inc.",
+      "ticker": "GRA",
+      "insider_name": "Wagner, Cliff",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "1.5000",
       "value": "15000",
       "currency": "CAD",
       "amendment": "",
