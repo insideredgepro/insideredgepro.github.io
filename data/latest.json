@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T17:16:28Z",
-  "trade_count": 8683,
+  "last_updated": "2026-07-30T19:10:46Z",
+  "trade_count": 8685,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -117232,7 +117232,7 @@
       "owned": "69453",
       "delta_own": "+3%",
       "value": "40006",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-01",
@@ -138929,6 +138929,38 @@
       "delta_own": "+6%",
       "value": "140000",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-30",
+      "filing_time": "14:30",
+      "trade_date": "2026-07-29",
+      "ticker": "PKBK",
+      "company": "Parke Bancorp, Inc.",
+      "insider_name": "Pantilione Vito S",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "33.68",
+      "qty": "1300",
+      "owned": "318594",
+      "delta_own": "0%",
+      "value": "43784",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-30",
+      "filing_time": "14:07",
+      "trade_date": "2026-05-15",
+      "ticker": "AVBC",
+      "company": "Avidia Bancorp, Inc.",
+      "insider_name": "Gilles Michael O",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "19.07",
+      "qty": "3000",
+      "owned": "52396",
+      "delta_own": "+6%",
+      "value": "57207",
+      "cluster_buy": true
     }
   ]
 }
