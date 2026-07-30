@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T12:23:46Z",
-  "trade_count": 8679,
+  "last_updated": "2026-07-30T15:03:24Z",
+  "trade_count": 8681,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -137104,7 +137104,7 @@
       "owned": "308946",
       "delta_own": "+123%",
       "value": "1962285",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-07-28",
@@ -138864,6 +138864,38 @@
       "owned": "18484",
       "delta_own": "+6%",
       "value": "73820",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-07-30",
+      "filing_time": "10:36",
+      "trade_date": "2026-07-28",
+      "ticker": "NWFL",
+      "company": "Norwood Financial Corp",
+      "insider_name": "Shook James",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "34.55",
+      "qty": "3100",
+      "owned": "13411",
+      "delta_own": "+30%",
+      "value": "107105",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-30",
+      "filing_time": "08:32",
+      "trade_date": "2026-07-28",
+      "ticker": "ACI",
+      "company": "Albertsons Companies, Inc.",
+      "insider_name": "Morris Susan",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "11.42",
+      "qty": "39409",
+      "owned": "1092956",
+      "delta_own": "+4%",
+      "value": "449938",
       "cluster_buy": true
     }
   ]
