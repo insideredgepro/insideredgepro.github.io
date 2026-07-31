@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T03:45:18Z",
-  "trade_count": 3499,
+  "last_updated": "2026-07-31T16:00:37Z",
+  "trade_count": 3501,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -53533,6 +53533,38 @@
       "qty": "25000",
       "price": "1.1600",
       "value": "28999",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4757333",
+      "trade_date": "2026-07-31",
+      "filing_date": "2026-07-31",
+      "company": "CVW Sustainable Royalties Inc.",
+      "ticker": "CVW",
+      "insider_name": "Dubey, Akshay",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "563578",
+      "price": "0.7700",
+      "value": "433955",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4757329",
+      "trade_date": "2026-07-31",
+      "filing_date": "2026-07-31",
+      "company": "Tourmaline Oil Corp.",
+      "ticker": "TOU",
+      "insider_name": "Rose, Mike",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "62.0114",
+      "value": "310057",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
