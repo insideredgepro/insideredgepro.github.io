@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T15:56:58Z",
-  "trade_count": 8690,
+  "last_updated": "2026-07-31T17:21:00Z",
+  "trade_count": 8691,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -139040,6 +139040,22 @@
       "owned": "14597917",
       "delta_own": "+2%",
       "value": "70000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-31",
+      "filing_time": "13:03",
+      "trade_date": "2026-07-23",
+      "ticker": "CCFN",
+      "company": "Muncy Columbia Financial Corp",
+      "insider_name": "Shannon Steven H",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "28.93",
+      "qty": "950",
+      "owned": "74141",
+      "delta_own": "+1%",
+      "value": "27483",
       "cluster_buy": false
     }
   ]
