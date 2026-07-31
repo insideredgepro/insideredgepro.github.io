@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T20:54:18Z",
-  "trade_count": 8698,
+  "last_updated": "2026-07-31T21:57:46Z",
+  "trade_count": 8699,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -139168,6 +139168,22 @@
       "owned": "1937",
       "delta_own": "+63%",
       "value": "101572",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-31",
+      "filing_time": "17:13",
+      "trade_date": "2026-07-29",
+      "ticker": "ARTV",
+      "company": "Artiva Biotherapeutics, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "9.96",
+      "qty": "45768",
+      "owned": "18489293",
+      "delta_own": "0%",
+      "value": "455726",
       "cluster_buy": false
     }
   ]

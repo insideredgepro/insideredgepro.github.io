@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-31",
-  "entry_count": 1253,
+  "entry_count": 1254,
   "entries": [
     {
       "id": "US|TMCI|2026-06-01|treace john t.|3.56",
@@ -62080,6 +62080,26 @@
       },
       "latest_price": 134.35,
       "return_pct": -0.67,
+      "last_snapshot": "2026-07-31"
+    },
+    {
+      "id": "US|ARTV|2026-07-29|ra capital management, l.p.|9.96",
+      "market": "US",
+      "ticker": "ARTV",
+      "yf_symbol": "ARTV",
+      "company": "Artiva Biotherapeutics, Inc.",
+      "insider_name": "Ra Capital Management, L.P.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-07-29",
+      "trade_price": 9.96,
+      "value": 455726.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-31": 10.1
+      },
+      "latest_price": 10.1,
+      "return_pct": 1.41,
       "last_snapshot": "2026-07-31"
     }
   ]
