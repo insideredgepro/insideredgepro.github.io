@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T13:42:37Z",
-  "trade_count": 8689,
+  "last_updated": "2026-07-31T15:56:58Z",
+  "trade_count": 8690,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -139024,6 +139024,22 @@
       "owned": "5771099",
       "delta_own": "0%",
       "value": "250501",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-07-31",
+      "filing_time": "11:52",
+      "trade_date": "2026-07-30",
+      "ticker": "COSM",
+      "company": "Cosmos Health Inc.",
+      "insider_name": "Siokas Grigorios",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.20",
+      "qty": "349825",
+      "owned": "14597917",
+      "delta_own": "+2%",
+      "value": "70000",
       "cluster_buy": false
     }
   ]
