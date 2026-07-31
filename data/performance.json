@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-31",
-  "entry_count": 1254,
+  "entry_count": 1256,
   "entries": [
     {
       "id": "US|TMCI|2026-06-01|treace john t.|3.56",
@@ -16511,8 +16511,8 @@
         "2026-07-30": 15.08,
         "2026-07-31": 14.96
       },
-      "latest_price": 14.32,
-      "return_pct": -16.6,
+      "latest_price": 14.96,
+      "return_pct": -12.87,
       "last_snapshot": "2026-07-31"
     },
     {
@@ -62100,6 +62100,46 @@
       },
       "latest_price": 10.1,
       "return_pct": 1.41,
+      "last_snapshot": "2026-07-31"
+    },
+    {
+      "id": "US|XAIR|2026-07-29|goodman robert scott|5.76",
+      "market": "US",
+      "ticker": "XAIR",
+      "yf_symbol": "XAIR",
+      "company": "Beyond Air, Inc.",
+      "insider_name": "Goodman Robert Scott",
+      "title": "CEO",
+      "trade_date": "2026-07-29",
+      "trade_price": 5.76,
+      "value": 199999.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-31": 5.275
+      },
+      "latest_price": 5.275,
+      "return_pct": -8.42,
+      "last_snapshot": "2026-07-31"
+    },
+    {
+      "id": "US|DLHC|2026-07-30|mink brook asset management llc|4.95",
+      "market": "US",
+      "ticker": "DLHC",
+      "yf_symbol": "DLHC",
+      "company": "Dlh Holdings Corp.",
+      "insider_name": "Mink Brook Asset Management LLC",
+      "title": "10%",
+      "trade_date": "2026-07-30",
+      "trade_price": 4.95,
+      "value": 41544.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-31": 4.88
+      },
+      "latest_price": 4.88,
+      "return_pct": -1.41,
       "last_snapshot": "2026-07-31"
     }
   ]
