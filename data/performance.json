@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-07-30",
-  "entry_count": 1243,
+  "entry_count": 1244,
   "entries": [
     {
       "id": "US|TMCI|2026-06-01|treace john t.|3.56",
@@ -60818,6 +60818,26 @@
       "latest_price": null,
       "return_pct": null,
       "last_snapshot": null
+    },
+    {
+      "id": "US|NMM|2026-07-28|frangou angeliki|78.5",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-07-28",
+      "trade_price": 78.5,
+      "value": 250501.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-07-30": 79.27
+      },
+      "latest_price": 79.27,
+      "return_pct": 0.98,
+      "last_snapshot": "2026-07-30"
     }
   ]
 }
