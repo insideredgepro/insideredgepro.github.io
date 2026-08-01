@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T22:00:18Z",
-  "trade_count": 3504,
+  "last_updated": "2026-08-01T03:45:19Z",
+  "trade_count": 3506,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -53613,6 +53613,38 @@
       "qty": "5000",
       "price": "61.8414",
       "value": "309207",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4757721",
+      "trade_date": "2026-07-31",
+      "filing_date": "2026-07-31",
+      "company": "Coast Copper Corp.",
+      "ticker": "COCO",
+      "insider_name": "Kosowan, Michael",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "147000",
+      "price": "0.2250",
+      "value": "33075",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4757695",
+      "trade_date": "2026-07-31",
+      "filing_date": "2026-07-31",
+      "company": "Mayfair Gold Corp.",
+      "ticker": "MFG",
+      "insider_name": "Muddy Waters Capital LLC",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "3.4231",
+      "value": "171155",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
