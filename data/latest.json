@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T20:55:49Z",
-  "trade_count": 8717,
+  "last_updated": "2026-08-03T21:59:29Z",
+  "trade_count": 8722,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -137184,7 +137184,7 @@
       "owned": "2092",
       "delta_own": "+90%",
       "value": "50429",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-07-29",
@@ -139473,6 +139473,86 @@
       "delta_own": "New",
       "value": "200000",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-03",
+      "filing_time": "17:53",
+      "trade_date": "2026-07-30",
+      "ticker": "NXTC",
+      "company": "Nextcure, Inc.",
+      "insider_name": "Adar1 Capital Management, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "4.93",
+      "qty": "329153",
+      "owned": "722419",
+      "delta_own": "+84%",
+      "value": "1624121",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-03",
+      "filing_time": "17:50",
+      "trade_date": "2026-07-31",
+      "ticker": "ACI",
+      "company": "Albertsons Companies, Inc.",
+      "insider_name": "McCollam Sharon",
+      "title": "Pres, CFO",
+      "trade_type": "P - Purchase",
+      "price": "11.48",
+      "qty": "9000",
+      "owned": "567051",
+      "delta_own": "+2%",
+      "value": "103320",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-03",
+      "filing_time": "17:19",
+      "trade_date": "2026-07-31",
+      "ticker": "SHEN",
+      "company": "Shenandoah Telecommunications Co/Va/",
+      "insider_name": "Volk James J",
+      "title": "SVP Finance, CFO",
+      "trade_type": "P - Purchase",
+      "price": "11.67",
+      "qty": "4283",
+      "owned": "98175",
+      "delta_own": "+5%",
+      "value": "50000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-03",
+      "filing_time": "17:10",
+      "trade_date": "2026-07-31",
+      "ticker": "DAR",
+      "company": "Darling Ingredients Inc.",
+      "insider_name": "Adair Charles L",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "60.97",
+      "qty": "1000",
+      "owned": "51690",
+      "delta_own": "+2%",
+      "value": "60970",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-03",
+      "filing_time": "17:06",
+      "trade_date": "2026-07-31",
+      "ticker": "EQBK",
+      "company": "Equity Bancshares Inc",
+      "insider_name": "Rogerson Donald Scott",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "50.25",
+      "qty": "2000",
+      "owned": "8103",
+      "delta_own": "+33%",
+      "value": "100500",
+      "cluster_buy": true
     }
   ]
 }

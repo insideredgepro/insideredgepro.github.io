@@ -8579,7 +8579,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-28,21:14,2026-07-28,MPLT,"Maplight Therapeutics, Inc.",Cox Troy,Dir,P - Purchase,9.52,15620,23484,+199%,148702,False
 2026-07-29,07:40,2026-07-27,NNOX,Nano-X Imaging Ltd.,Suesskind Dan S,Dir,P - Purchase,0.93,50000,75336,+197%,46500,True
 2026-07-29,07:35,2026-07-28,NNOX,Nano-X Imaging Ltd.,Kainan Noga,Dir,P - Purchase,0.90,33000,59130,+126%,29700,True
-2026-07-29,14:56,2026-07-28,EQBK,Equity Bancshares Inc,Schlehuber Lisa Ann,Dir,P - Purchase,50.98,989,2092,+90%,50429,False
+2026-07-29,14:56,2026-07-28,EQBK,Equity Bancshares Inc,Schlehuber Lisa Ann,Dir,P - Purchase,50.98,989,2092,+90%,50429,True
 2026-07-29,15:19,2026-07-29,OTLK,"Outlook Therapeutics, Inc.",Sukhtian Faisal Ghiath,Dir,P - Purchase,1.05,95398,220972,+76%,99996,False
 2026-07-29,16:39,2026-07-27,BWMX,"Betterware De Mexico, S.A.P.I. De C.V",Campos Luis,"Chairman, 10%",P - Purchase,16.41,46830,20249565,0%,768480,False
 2026-07-29,16:19,2026-07-28,BFST,"Business First Bancshares, Inc.",Day Rick D.,Dir,P - Purchase,31.61,1500,269901,+1%,47415,False
@@ -8723,3 +8723,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-03,16:11,2026-07-31,BXSY,Bexil Investment Trust,Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,17.18,5000,278872,+2%,85879,False
 2026-08-03,16:01,2026-07-31,PRQR,Proqr Therapeutics N.V.,De Boer Daniel Anton,CEO,P - Purchase,1.77,200000,500000,+67%,353960,True
 2026-08-03,16:01,2026-08-03,APMD,"Apnimed, Inc.",Sekhri Paul J,Dir,P - Purchase,16.00,12500,12500,New,200000,False
+2026-08-03,17:53,2026-07-30,NXTC,"Nextcure, Inc.","Adar1 Capital Management, LLC",10%,P - Purchase,4.93,329153,722419,+84%,1624121,False
+2026-08-03,17:50,2026-07-31,ACI,"Albertsons Companies, Inc.",McCollam Sharon,"Pres, CFO",P - Purchase,11.48,9000,567051,+2%,103320,True
+2026-08-03,17:19,2026-07-31,SHEN,Shenandoah Telecommunications Co/Va/,Volk James J,"SVP Finance, CFO",P - Purchase,11.67,4283,98175,+5%,50000,False
+2026-08-03,17:10,2026-07-31,DAR,Darling Ingredients Inc.,Adair Charles L,Dir,P - Purchase,60.97,1000,51690,+2%,60970,False
+2026-08-03,17:06,2026-07-31,EQBK,Equity Bancshares Inc,Rogerson Donald Scott,Dir,P - Purchase,50.25,2000,8103,+33%,100500,True

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-03",
-  "entry_count": 1163,
+  "entry_count": 1168,
   "entries": [
     {
       "id": "US|SMBK|2026-06-04|ackermann cathy g|42.12",
@@ -57293,6 +57293,106 @@
       },
       "latest_price": 25.0,
       "return_pct": 56.25,
+      "last_snapshot": "2026-08-03"
+    },
+    {
+      "id": "US|NXTC|2026-07-30|adar1 capital management, llc|4.93",
+      "market": "US",
+      "ticker": "NXTC",
+      "yf_symbol": "NXTC",
+      "company": "Nextcure, Inc.",
+      "insider_name": "Adar1 Capital Management, LLC",
+      "title": "10%",
+      "trade_date": "2026-07-30",
+      "trade_price": 4.93,
+      "value": 1624121.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-03": 4.4
+      },
+      "latest_price": 4.4,
+      "return_pct": -10.75,
+      "last_snapshot": "2026-08-03"
+    },
+    {
+      "id": "US|ACI|2026-07-31|mccollam sharon|11.48",
+      "market": "US",
+      "ticker": "ACI",
+      "yf_symbol": "ACI",
+      "company": "Albertsons Companies, Inc.",
+      "insider_name": "McCollam Sharon",
+      "title": "Pres, CFO",
+      "trade_date": "2026-07-31",
+      "trade_price": 11.48,
+      "value": 103320.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-03": 11.5
+      },
+      "latest_price": 11.5,
+      "return_pct": 0.17,
+      "last_snapshot": "2026-08-03"
+    },
+    {
+      "id": "US|SHEN|2026-07-31|volk james j|11.67",
+      "market": "US",
+      "ticker": "SHEN",
+      "yf_symbol": "SHEN",
+      "company": "Shenandoah Telecommunications Co/Va/",
+      "insider_name": "Volk James J",
+      "title": "SVP Finance, CFO",
+      "trade_date": "2026-07-31",
+      "trade_price": 11.67,
+      "value": 50000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-03": 12.45
+      },
+      "latest_price": 12.45,
+      "return_pct": 6.68,
+      "last_snapshot": "2026-08-03"
+    },
+    {
+      "id": "US|DAR|2026-07-31|adair charles l|60.97",
+      "market": "US",
+      "ticker": "DAR",
+      "yf_symbol": "DAR",
+      "company": "Darling Ingredients Inc.",
+      "insider_name": "Adair Charles L",
+      "title": "Dir",
+      "trade_date": "2026-07-31",
+      "trade_price": 60.97,
+      "value": 60970.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-03": 59.76
+      },
+      "latest_price": 59.76,
+      "return_pct": -1.98,
+      "last_snapshot": "2026-08-03"
+    },
+    {
+      "id": "US|EQBK|2026-07-31|rogerson donald scott|50.25",
+      "market": "US",
+      "ticker": "EQBK",
+      "yf_symbol": "EQBK",
+      "company": "Equity Bancshares Inc",
+      "insider_name": "Rogerson Donald Scott",
+      "title": "Dir",
+      "trade_date": "2026-07-31",
+      "trade_price": 50.25,
+      "value": 100500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-03": 51.0
+      },
+      "latest_price": 51.0,
+      "return_pct": 1.49,
       "last_snapshot": "2026-08-03"
     }
   ]
