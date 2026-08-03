@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T15:38:22Z",
-  "trade_count": 8708,
+  "last_updated": "2026-08-03T17:43:25Z",
+  "trade_count": 8709,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -139328,6 +139328,22 @@
       "owned": "585293",
       "delta_own": "+8%",
       "value": "949094",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-03",
+      "filing_time": "11:40",
+      "trade_date": "2026-07-31",
+      "ticker": "BCML",
+      "company": "Baycom Corp",
+      "insider_name": "Perdue Michael J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "30.17",
+      "qty": "5000",
+      "owned": "11182",
+      "delta_own": "+81%",
+      "value": "150850",
       "cluster_buy": false
     }
   ]
