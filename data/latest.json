@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T17:43:25Z",
-  "trade_count": 8709,
+  "last_updated": "2026-08-03T19:20:11Z",
+  "trade_count": 8710,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -139344,6 +139344,22 @@
       "owned": "11182",
       "delta_own": "+81%",
       "value": "150850",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-03",
+      "filing_time": "14:37",
+      "trade_date": "2026-07-30",
+      "ticker": "DCX",
+      "company": "Digital Currency X Technology Inc.",
+      "insider_name": "Chen Melissa N",
+      "title": "CEO (CEO)",
+      "trade_type": "P - Purchase",
+      "price": "1.25",
+      "qty": "41000",
+      "owned": "41000",
+      "delta_own": "New",
+      "value": "51250",
       "cluster_buy": false
     }
   ]
