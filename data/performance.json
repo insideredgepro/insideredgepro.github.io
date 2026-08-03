@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-03",
-  "entry_count": 1168,
+  "entry_count": 1172,
   "entries": [
     {
       "id": "US|SMBK|2026-06-04|ackermann cathy g|42.12",
@@ -32845,8 +32845,8 @@
         "2026-08-02": 9.01,
         "2026-08-03": 9.01
       },
-      "latest_price": 8.93,
-      "return_pct": 10.25,
+      "latest_price": 9.01,
+      "return_pct": 11.23,
       "last_snapshot": "2026-08-03"
     },
     {
@@ -35755,8 +35755,8 @@
         "2026-08-02": 9.01,
         "2026-08-03": 9.01
       },
-      "latest_price": 8.93,
-      "return_pct": -2.08,
+      "latest_price": 9.01,
+      "return_pct": -1.21,
       "last_snapshot": "2026-08-03"
     },
     {
@@ -38563,8 +38563,8 @@
         "2026-08-02": 9.01,
         "2026-08-03": 9.01
       },
-      "latest_price": 8.93,
-      "return_pct": -6.3,
+      "latest_price": 9.01,
+      "return_pct": -5.46,
       "last_snapshot": "2026-08-03"
     },
     {
@@ -40942,8 +40942,8 @@
         "2026-08-02": 9.01,
         "2026-08-03": 9.01
       },
-      "latest_price": 8.93,
-      "return_pct": -3.67,
+      "latest_price": 9.01,
+      "return_pct": -2.8,
       "last_snapshot": "2026-08-03"
     },
     {
@@ -57393,6 +57393,86 @@
       },
       "latest_price": 51.0,
       "return_pct": 1.49,
+      "last_snapshot": "2026-08-03"
+    },
+    {
+      "id": "US|HNVR|2026-07-30|o'connor kevin m|26.88",
+      "market": "US",
+      "ticker": "HNVR",
+      "yf_symbol": "HNVR",
+      "company": "Hanover Bancorp, Inc. /Md",
+      "insider_name": "O'Connor Kevin M",
+      "title": "Pres",
+      "trade_date": "2026-07-30",
+      "trade_price": 26.88,
+      "value": 268800.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-03": 26.41
+      },
+      "latest_price": 26.41,
+      "return_pct": -1.75,
+      "last_snapshot": "2026-08-03"
+    },
+    {
+      "id": "US|MBLY|2026-07-30|yeary frank d|7.98",
+      "market": "US",
+      "ticker": "MBLY",
+      "yf_symbol": "MBLY",
+      "company": "Mobileye Global Inc.",
+      "insider_name": "Yeary Frank D",
+      "title": "Dir",
+      "trade_date": "2026-07-30",
+      "trade_price": 7.98,
+      "value": 98633.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-03": 8.08
+      },
+      "latest_price": 8.08,
+      "return_pct": 1.25,
+      "last_snapshot": "2026-08-03"
+    },
+    {
+      "id": "US|GSHD|2026-07-31|lane peter r.|63.14",
+      "market": "US",
+      "ticker": "GSHD",
+      "yf_symbol": "GSHD",
+      "company": "Goosehead Insurance, Inc.",
+      "insider_name": "Lane Peter R.",
+      "title": "Dir",
+      "trade_date": "2026-07-31",
+      "trade_price": 63.14,
+      "value": 101024.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-03": 65.655
+      },
+      "latest_price": 65.655,
+      "return_pct": 3.98,
+      "last_snapshot": "2026-08-03"
+    },
+    {
+      "id": "US|LGHL|2026-07-31|hrt financial lp|0.94",
+      "market": "US",
+      "ticker": "LGHL",
+      "yf_symbol": "LGHL",
+      "company": "Lion Group Holding Ltd",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_date": "2026-07-31",
+      "trade_price": 0.94,
+      "value": 32397.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-03": 0.9294
+      },
+      "latest_price": 0.9294,
+      "return_pct": -1.13,
       "last_snapshot": "2026-08-03"
     }
   ]

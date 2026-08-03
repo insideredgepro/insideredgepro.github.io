@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T21:59:29Z",
-  "trade_count": 8722,
+  "last_updated": "2026-08-03T23:02:39Z",
+  "trade_count": 8726,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -136976,7 +136976,7 @@
       "owned": "2534004",
       "delta_own": "+6%",
       "value": "9104027",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-07-28",
@@ -139553,6 +139553,70 @@
       "delta_own": "+33%",
       "value": "100500",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-03",
+      "filing_time": "18:42",
+      "trade_date": "2026-07-30",
+      "ticker": "HNVR",
+      "company": "Hanover Bancorp, Inc. /Md",
+      "insider_name": "O'Connor Kevin M",
+      "title": "Pres",
+      "trade_type": "P - Purchase",
+      "price": "26.88",
+      "qty": "10000",
+      "owned": "12300",
+      "delta_own": "+435%",
+      "value": "268800",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-03",
+      "filing_time": "18:23",
+      "trade_date": "2026-07-30",
+      "ticker": "MBLY",
+      "company": "Mobileye Global Inc.",
+      "insider_name": "Yeary Frank D",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "7.98",
+      "qty": "12360",
+      "owned": "87488",
+      "delta_own": "+16%",
+      "value": "98633",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-03",
+      "filing_time": "18:12",
+      "trade_date": "2026-07-31",
+      "ticker": "GSHD",
+      "company": "Goosehead Insurance, Inc.",
+      "insider_name": "Lane Peter R.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "63.14",
+      "qty": "1600",
+      "owned": "1600",
+      "delta_own": "New",
+      "value": "101024",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-03",
+      "filing_time": "18:11",
+      "trade_date": "2026-07-31",
+      "ticker": "LGHL",
+      "company": "Lion Group Holding Ltd",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "0.94",
+      "qty": "34355",
+      "owned": "74710",
+      "delta_own": "+85%",
+      "value": "32397",
+      "cluster_buy": false
     }
   ]
 }
