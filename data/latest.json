@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T09:24:52Z",
-  "trade_count": 8704,
+  "last_updated": "2026-08-03T12:50:28Z",
+  "trade_count": 8707,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -139265,6 +139265,54 @@
       "delta_own": "+1%",
       "value": "77535",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-03",
+      "filing_time": "07:21",
+      "trade_date": "2026-07-31",
+      "ticker": "RDWR",
+      "company": "Radware Ltd",
+      "insider_name": "Avidan Guy",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "25.21",
+      "qty": "2000",
+      "owned": "95800",
+      "delta_own": "+2%",
+      "value": "50420",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-03",
+      "filing_time": "07:00",
+      "trade_date": "2026-07-31",
+      "ticker": "FTAI",
+      "company": "Ftai Aviation Ltd.",
+      "insider_name": "Moreno David",
+      "title": "Pres",
+      "trade_type": "P - Purchase",
+      "price": "201.27",
+      "qty": "2475",
+      "owned": "211844",
+      "delta_own": "+1%",
+      "value": "498143",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-03",
+      "filing_time": "06:56",
+      "trade_date": "2026-07-31",
+      "ticker": "VFC",
+      "company": "V F Corp",
+      "insider_name": "Darrell Bracken",
+      "title": "Pres, Chief Exec Officer",
+      "trade_type": "P - Purchase",
+      "price": "14.98",
+      "qty": "32894",
+      "owned": "1402109",
+      "delta_own": "+2%",
+      "value": "492752",
+      "cluster_buy": false
     }
   ]
 }

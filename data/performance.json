@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-03",
-  "entry_count": 1150,
+  "entry_count": 1153,
   "entries": [
     {
       "id": "US|SMBK|2026-06-04|ackermann cathy g|42.12",
@@ -49771,8 +49771,8 @@
         "2026-08-02": 11.52,
         "2026-08-03": 11.52
       },
-      "latest_price": 11.52,
-      "return_pct": 689.04,
+      "latest_price": 11.7,
+      "return_pct": 701.37,
       "last_snapshot": "2026-08-03"
     },
     {
@@ -49809,8 +49809,8 @@
         "2026-08-02": 11.52,
         "2026-08-03": 11.52
       },
-      "latest_price": 11.52,
-      "return_pct": 689.04,
+      "latest_price": 11.7,
+      "return_pct": 701.37,
       "last_snapshot": "2026-08-03"
     },
     {
@@ -57033,6 +57033,66 @@
       },
       "latest_price": 4.88,
       "return_pct": -1.41,
+      "last_snapshot": "2026-08-03"
+    },
+    {
+      "id": "US|RDWR|2026-07-31|avidan guy|25.21",
+      "market": "US",
+      "ticker": "RDWR",
+      "yf_symbol": "RDWR",
+      "company": "Radware Ltd",
+      "insider_name": "Avidan Guy",
+      "title": "CFO",
+      "trade_date": "2026-07-31",
+      "trade_price": 25.21,
+      "value": 50420.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-03": 26.19
+      },
+      "latest_price": 26.19,
+      "return_pct": 3.89,
+      "last_snapshot": "2026-08-03"
+    },
+    {
+      "id": "US|FTAI|2026-07-31|moreno david|201.27",
+      "market": "US",
+      "ticker": "FTAI",
+      "yf_symbol": "FTAI",
+      "company": "Ftai Aviation Ltd.",
+      "insider_name": "Moreno David",
+      "title": "Pres",
+      "trade_date": "2026-07-31",
+      "trade_price": 201.27,
+      "value": 498143.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-03": 206.0
+      },
+      "latest_price": 206.0,
+      "return_pct": 2.35,
+      "last_snapshot": "2026-08-03"
+    },
+    {
+      "id": "US|VFC|2026-07-31|darrell bracken|14.98",
+      "market": "US",
+      "ticker": "VFC",
+      "yf_symbol": "VFC",
+      "company": "V F Corp",
+      "insider_name": "Darrell Bracken",
+      "title": "Pres, Chief Exec Officer",
+      "trade_date": "2026-07-31",
+      "trade_price": 14.98,
+      "value": 492752.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-03": 14.32
+      },
+      "latest_price": 14.32,
+      "return_pct": -4.41,
       "last_snapshot": "2026-08-03"
     }
   ]
