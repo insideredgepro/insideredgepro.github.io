@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T17:29:38Z",
-  "trade_count": 8731,
+  "last_updated": "2026-08-04T19:18:48Z",
+  "trade_count": 8732,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -139696,6 +139696,22 @@
       "owned": "7500",
       "delta_own": "New",
       "value": "147525",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-04",
+      "filing_time": "13:36",
+      "trade_date": "2026-08-04",
+      "ticker": "TLRY",
+      "company": "Tilray Brands, Inc.",
+      "insider_name": "Merton Carl A",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "4.62",
+      "qty": "10000",
+      "owned": "139753",
+      "delta_own": "+8%",
+      "value": "46200",
       "cluster_buy": false
     }
   ]
