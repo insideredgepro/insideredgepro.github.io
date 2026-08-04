@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T23:02:39Z",
-  "trade_count": 8726,
+  "last_updated": "2026-08-04T01:43:01Z",
+  "trade_count": 8727,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -139616,6 +139616,22 @@
       "owned": "74710",
       "delta_own": "+85%",
       "value": "32397",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-03",
+      "filing_time": "19:25",
+      "trade_date": "2026-08-03",
+      "ticker": "CSTM",
+      "company": "Constellium Se",
+      "insider_name": "Deslarzes Jean-Christophe",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "27.24",
+      "qty": "1490",
+      "owned": "43515",
+      "delta_own": "+4%",
+      "value": "40588",
       "cluster_buy": false
     }
   ]
