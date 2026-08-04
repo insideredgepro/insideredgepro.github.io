@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T10:27:51Z",
-  "trade_count": 8727,
+  "last_updated": "2026-08-04T12:53:13Z",
+  "trade_count": 8728,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -139633,6 +139633,22 @@
       "delta_own": "+4%",
       "value": "40588",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-04",
+      "filing_time": "07:01",
+      "trade_date": "2026-08-03",
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider_name": "Tien Bor-Zen",
+      "title": "VP",
+      "trade_type": "P - Purchase",
+      "price": "73.06",
+      "qty": "1000",
+      "owned": "19484",
+      "delta_own": "+5%",
+      "value": "73060",
+      "cluster_buy": true
     }
   ]
 }
