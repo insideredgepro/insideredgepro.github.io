@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T03:45:48Z",
-  "trade_count": 3506,
+  "last_updated": "2026-08-04T16:01:23Z",
+  "trade_count": 3507,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -53645,6 +53645,22 @@
       "qty": "50000",
       "price": "3.4231",
       "value": "171155",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4758163",
+      "trade_date": "2026-08-04",
+      "filing_date": "2026-08-04",
+      "company": "TransAlta Corporation",
+      "ticker": "TA-PG",
+      "insider_name": "Politeski, Michael",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "17.7700",
+      "value": "177700",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
