@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T12:53:13Z",
-  "trade_count": 8728,
+  "last_updated": "2026-08-04T15:16:46Z",
+  "trade_count": 8731,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -139649,6 +139649,54 @@
       "delta_own": "+5%",
       "value": "73060",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-04",
+      "filing_time": "10:40",
+      "trade_date": "2026-07-31",
+      "ticker": "CLB",
+      "company": "Core Laboratories Inc. /De/",
+      "insider_name": "Bruno Lawrence",
+      "title": "COB, CEO",
+      "trade_type": "P - Purchase",
+      "price": "10.78",
+      "qty": "5000",
+      "owned": "262438",
+      "delta_own": "+2%",
+      "value": "53900",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-04",
+      "filing_time": "10:11",
+      "trade_date": "2026-07-31",
+      "ticker": "ARLP",
+      "company": "Alliance Resource Partners LP",
+      "insider_name": "McDaniel Ronna R.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "26.12",
+      "qty": "3000",
+      "owned": "3000",
+      "delta_own": "New",
+      "value": "78345",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-04",
+      "filing_time": "09:24",
+      "trade_date": "2026-07-31",
+      "ticker": "CMCO",
+      "company": "Columbus McKinnon Corp",
+      "insider_name": "Linker John R",
+      "title": "EVP, Finance, CFO",
+      "trade_type": "P - Purchase",
+      "price": "19.67",
+      "qty": "7500",
+      "owned": "7500",
+      "delta_own": "New",
+      "value": "147525",
+      "cluster_buy": false
     }
   ]
 }
