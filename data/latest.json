@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T21:02:22Z",
-  "trade_count": 8749,
+  "last_updated": "2026-08-04T22:53:01Z",
+  "trade_count": 8753,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -139985,6 +139985,70 @@
       "delta_own": "+72%",
       "value": "87606",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-04",
+      "filing_time": "17:47",
+      "trade_date": "2026-07-31",
+      "ticker": "USEA",
+      "company": "United Maritime Corp",
+      "insider_name": "Kostopoulos Dimitrios",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.74",
+      "qty": "15000",
+      "owned": "335000",
+      "delta_own": "+5%",
+      "value": "41100",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-04",
+      "filing_time": "17:30",
+      "trade_date": "2026-07-31",
+      "ticker": "ASPS",
+      "company": "Altisource Portfolio Solutions S.A.",
+      "insider_name": "Benefit Street Partners LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "5.77",
+      "qty": "50000",
+      "owned": "1803045",
+      "delta_own": "+3%",
+      "value": "288454",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-04",
+      "filing_time": "17:12",
+      "trade_date": "2026-07-31",
+      "ticker": "GSHD",
+      "company": "Goosehead Insurance, Inc.",
+      "insider_name": "Durable Capital Partners LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "61.92",
+      "qty": "36256",
+      "owned": "2570260",
+      "delta_own": "+1%",
+      "value": "2245140",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-04",
+      "filing_time": "17:04",
+      "trade_date": "2026-07-31",
+      "ticker": "CVNA",
+      "company": "Carvana Co.",
+      "insider_name": "Maroone Michael E",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "61.80",
+      "qty": "25000",
+      "owned": "213837",
+      "delta_own": "+13%",
+      "value": "1544981",
+      "cluster_buy": false
     }
   ]
 }
