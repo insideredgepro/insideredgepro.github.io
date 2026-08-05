@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T22:10:40Z",
-  "trade_count": 8868,
+  "last_updated": "2026-08-05T23:51:16Z",
+  "trade_count": 8870,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -141888,6 +141888,38 @@
       "owned": "186388",
       "delta_own": "+10%",
       "value": "27024",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-05",
+      "filing_time": "19:00",
+      "trade_date": "2026-08-03",
+      "ticker": "IR",
+      "company": "Ingersoll Rand Inc.",
+      "insider_name": "Satpathy Aurobind",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "86.68",
+      "qty": "11538",
+      "owned": "11538",
+      "delta_own": "New",
+      "value": "1000091",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-05",
+      "filing_time": "18:21",
+      "trade_date": "2026-08-03",
+      "ticker": "XIIIU",
+      "company": "Churchill Capital Corp Xiii",
+      "insider_name": "Klein Michael Stuart",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "10.00",
+      "qty": "350000",
+      "owned": "350000",
+      "delta_own": "New",
+      "value": "3500000",
       "cluster_buy": false
     }
   ]

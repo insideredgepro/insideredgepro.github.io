@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-05",
-  "entry_count": 1213,
+  "entry_count": 1215,
   "entries": [
     {
       "id": "US|BSBR|2026-06-08|leao mario roberto opice|5.21",
@@ -54633,6 +54633,46 @@
       },
       "latest_price": 4.01,
       "return_pct": 143.03,
+      "last_snapshot": "2026-08-05"
+    },
+    {
+      "id": "US|IR|2026-08-03|satpathy aurobind|86.68",
+      "market": "US",
+      "ticker": "IR",
+      "yf_symbol": "IR",
+      "company": "Ingersoll Rand Inc.",
+      "insider_name": "Satpathy Aurobind",
+      "title": "Dir",
+      "trade_date": "2026-08-03",
+      "trade_price": 86.68,
+      "value": 1000091.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-05": 90.0
+      },
+      "latest_price": 90.0,
+      "return_pct": 3.83,
+      "last_snapshot": "2026-08-05"
+    },
+    {
+      "id": "US|XIIIU|2026-08-03|klein michael stuart|10.0",
+      "market": "US",
+      "ticker": "XIIIU",
+      "yf_symbol": "XIIIU",
+      "company": "Churchill Capital Corp Xiii",
+      "insider_name": "Klein Michael Stuart",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-08-03",
+      "trade_price": 10.0,
+      "value": 3500000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-05": 10.45
+      },
+      "latest_price": 10.45,
+      "return_pct": 4.5,
       "last_snapshot": "2026-08-05"
     }
   ]
