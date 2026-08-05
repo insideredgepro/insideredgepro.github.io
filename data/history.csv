@@ -8716,13 +8716,13 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-03,10:03,2026-07-31,PFBX,Peoples Financial Corp /Ms/,Stilwell Joseph,10%,P - Purchase,22.25,42658,585293,+8%,949094,False
 2026-08-03,11:40,2026-07-31,BCML,Baycom Corp,Perdue Michael J,Dir,P - Purchase,30.17,5000,11182,+81%,150850,False
 2026-08-03,14:37,2026-07-30,DCX,Digital Currency X Technology Inc.,Chen Melissa N,CEO (CEO),P - Purchase,1.25,41000,41000,New,51250,False
-2026-08-03,16:29,2026-07-31,BSX,Boston Scientific Corp,Ludwig Edward J,Dir,P - Purchase,45.48,5000,30359,+20%,227400,False
+2026-08-03,16:29,2026-07-31,BSX,Boston Scientific Corp,Ludwig Edward J,Dir,P - Purchase,45.48,5000,30359,+20%,227400,True
 2026-08-03,16:22,2026-08-03,HUN,Huntsman Corp,Huntsman Peter R,"COB, Pres , CEO",P - Purchase,9.81,100000,8189669,+1%,981000,False
 2026-08-03,16:18,2026-07-31,HOG,"Harley-Davidson, Inc.",Nova Daniel J,Dir,P - Purchase,24.57,40000,47605,+526%,982700,False
 2026-08-03,16:18,2026-07-30,CBAN,Colony Bankcorp Inc,Canup Edward G,CHIEF BANKING OFFICER,P - Purchase,21.80,2000,47026,+4%,43600,False
 2026-08-03,16:11,2026-07-31,BXSY,Bexil Investment Trust,Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,17.18,5000,278872,+2%,85879,False
 2026-08-03,16:01,2026-07-31,PRQR,Proqr Therapeutics N.V.,De Boer Daniel Anton,CEO,P - Purchase,1.77,200000,500000,+67%,353960,True
-2026-08-03,16:01,2026-08-03,APMD,"Apnimed, Inc.",Sekhri Paul J,Dir,P - Purchase,16.00,12500,12500,New,200000,False
+2026-08-03,16:01,2026-08-03,APMD,"Apnimed, Inc.",Sekhri Paul J,Dir,P - Purchase,16.00,12500,12500,New,200000,True
 2026-08-03,17:53,2026-07-30,NXTC,"Nextcure, Inc.","Adar1 Capital Management, LLC",10%,P - Purchase,4.93,329153,722419,+84%,1624121,False
 2026-08-03,17:50,2026-07-31,ACI,"Albertsons Companies, Inc.",McCollam Sharon,"Pres, CFO",P - Purchase,11.48,9000,567051,+2%,103320,True
 2026-08-03,17:19,2026-07-31,SHEN,Shenandoah Telecommunications Co/Va/,Volk James J,"SVP Finance, CFO",P - Purchase,11.67,4283,98175,+5%,50000,False
@@ -8739,7 +8739,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-04,09:24,2026-07-31,CMCO,Columbus McKinnon Corp,Linker John R,"EVP, Finance, CFO",P - Purchase,19.67,7500,7500,New,147525,False
 2026-08-04,13:36,2026-08-04,TLRY,"Tilray Brands, Inc.",Merton Carl A,CFO,P - Purchase,4.62,10000,139753,+8%,46200,False
 2026-08-04,16:50,2026-07-31,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,8.00,52900,3148223,+2%,422976,False
-2026-08-04,16:42,2026-08-03,TSCO,Tractor Supply Co /De/,Hawaux Andre J,Dir,P - Purchase,31.83,3150,18435,+21%,100265,False
+2026-08-04,16:42,2026-08-03,TSCO,Tractor Supply Co /De/,Hawaux Andre J,Dir,P - Purchase,31.83,3150,18435,+21%,100265,True
 2026-08-04,16:30,2026-07-31,JMKE,Jersey Mike'S Subs Inc.,Mercado Betsy,Chief People Officer,P - Purchase,23.00,4065,4065,New,93495,True
 2026-08-04,16:30,2026-07-31,JMKE,Jersey Mike'S Subs Inc.,Whalen James J.,Chief Accounting Officer,P - Purchase,23.00,2500,2500,New,57500,True
 2026-08-04,16:30,2026-07-31,JMKE,Jersey Mike'S Subs Inc.,Skehan Andrew G,See Remarks,P - Purchase,23.00,10000,10000,New,230000,True
@@ -8853,3 +8853,17 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-05,06:30,2026-07-28,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,17.02,473520,83741960,+1%,8060462,False
 2026-08-05,09:27,2026-08-04,CSGP,"Costar Group, Inc.",Florance Andrew C,"Founder, CEO",P - Purchase,29.89,83300,1806165,+5%,2489837,False
 2026-08-05,14:42,2026-08-03,GTE,Gran Tierra Energy Inc.,Lm Asset Management Inc.,10%,P - Purchase,6.89,58000,4915750,+1%,399527,False
+2026-08-05,16:52,2026-08-05,INDV,"Indivior Pharmaceuticals, Inc.",Anderson Woodrow D,Chief Accounting Officer,P - Purchase,36.28,1500,26138,+6%,54420,False
+2026-08-05,16:41,2026-08-04,TSCO,Tractor Supply Co /De/,Morris Edna,Dir,P - Purchase,32.44,1560,294055,+1%,50606,True
+2026-08-05,16:40,2026-08-04,TSCO,Tractor Supply Co /De/,Lawton III Harry A,"Pres, CEO",P - Purchase,32.15,15600,541592,+3%,501524,True
+2026-08-05,16:30,2026-08-03,TLSA,Tiziana Life Sciences Ltd,Elrifi Ivor,CEO,P - Purchase,1.00,667000,4472261,+18%,667000,False
+2026-08-05,16:30,2026-08-03,ANIK,"Anika Therapeutics, Inc.",Fischetti Gary P,Dir,P - Purchase,20.53,2000,54015,+4%,41060,False
+2026-08-05,16:18,2026-08-03,APMD,"Apnimed, Inc.",Morningside Venture Investments Ltd,10%,P - Purchase,16.00,312500,7228337,+5%,5000000,True
+2026-08-05,16:15,2026-08-03,BSX,Boston Scientific Corp,Habiger David C,Dir,P - Purchase,48.13,1182,15060,+9%,56887,True
+2026-08-05,16:15,2026-08-03,BSX,Boston Scientific Corp,Mahoney Michael F,"COB, Pres, CEO",P - Purchase,48.33,186240,1612143,+13%,9001408,True
+2026-08-05,16:10,2026-08-03,COCP,"Cocrystal Pharma, Inc.",Frost Phillip Md Et Al,"Dir, 10%",P - Purchase,0.94,75000,2010651,+4%,70590,False
+2026-08-05,16:07,2026-08-04,EVGN,Evogene Ltd.,Recanati Leon,Dir,P - Purchase,0.50,800000,883886,+954%,400000,False
+2026-08-05,16:04,2026-07-17,JBL,Jabil Inc,Tyagarajan N. V.,Dir,P - Purchase,299.63,500,3464,+17%,149815,False
+2026-08-05,16:03,2026-08-05,PFE,Pfizer Inc,Blaylock Ronald E,Dir,P - Purchase,25.46,39231,71688,+121%,998821,True
+2026-08-05,16:02,2026-08-05,PFE,Pfizer Inc,Buckley Mortimer J,Dir,P - Purchase,25.52,37632,37632,New,960369,True
+2026-08-05,15:33,2026-08-05,CCNE,Cnb Financial Corp/Pa,Peduzzi Michael D,"Pres, CEO",P - Purchase,35.37,1100,60136,+2%,38908,False
