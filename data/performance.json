@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-05",
-  "entry_count": 1206,
+  "entry_count": 1213,
   "entries": [
     {
       "id": "US|BSBR|2026-06-08|leao mario roberto opice|5.21",
@@ -54493,6 +54493,146 @@
       },
       "latest_price": 35.55,
       "return_pct": 0.51,
+      "last_snapshot": "2026-08-05"
+    },
+    {
+      "id": "US|WCC|2026-08-04|castillo daniel j|365.89",
+      "market": "US",
+      "ticker": "WCC",
+      "yf_symbol": "WCC",
+      "company": "Wesco International Inc",
+      "insider_name": "Castillo Daniel J",
+      "title": "EVP, GM, EES",
+      "trade_date": "2026-08-04",
+      "trade_price": 365.89,
+      "value": 351254.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-05": 373.08
+      },
+      "latest_price": 373.08,
+      "return_pct": 1.97,
+      "last_snapshot": "2026-08-05"
+    },
+    {
+      "id": "US|GBFH|2026-08-04|nigro todd anthony|21.07",
+      "market": "US",
+      "ticker": "GBFH",
+      "yf_symbol": "GBFH",
+      "company": "Gbank Financial Holdings Inc.",
+      "insider_name": "Nigro Todd Anthony",
+      "title": "SECRETARY",
+      "trade_date": "2026-08-04",
+      "trade_price": 21.07,
+      "value": 105350.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-05": 20.39
+      },
+      "latest_price": 20.39,
+      "return_pct": -3.23,
+      "last_snapshot": "2026-08-05"
+    },
+    {
+      "id": "US|GBFH|2026-08-04|nigro edward michael|21.51",
+      "market": "US",
+      "ticker": "GBFH",
+      "yf_symbol": "GBFH",
+      "company": "Gbank Financial Holdings Inc.",
+      "insider_name": "Nigro Edward Michael",
+      "title": "CEO, Exec COB",
+      "trade_date": "2026-08-04",
+      "trade_price": 21.51,
+      "value": 197852.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-05": 20.39
+      },
+      "latest_price": 20.39,
+      "return_pct": -5.21,
+      "last_snapshot": "2026-08-05"
+    },
+    {
+      "id": "US|GBFH|2026-08-04|herbst timothy p|21.5",
+      "market": "US",
+      "ticker": "GBFH",
+      "yf_symbol": "GBFH",
+      "company": "Gbank Financial Holdings Inc.",
+      "insider_name": "Herbst Timothy P",
+      "title": "Dir",
+      "trade_date": "2026-08-04",
+      "trade_price": 21.5,
+      "value": 214971.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-05": 20.39
+      },
+      "latest_price": 20.39,
+      "return_pct": -5.16,
+      "last_snapshot": "2026-08-05"
+    },
+    {
+      "id": "US|HLI|2026-08-03|alley j lindsey|124.52",
+      "market": "US",
+      "ticker": "HLI",
+      "yf_symbol": "HLI",
+      "company": "Houlihan Lokey, Inc.",
+      "insider_name": "Alley J Lindsey",
+      "title": "CFO",
+      "trade_date": "2026-08-03",
+      "trade_price": 124.52,
+      "value": 500570.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-05": 128.19
+      },
+      "latest_price": 128.19,
+      "return_pct": 2.95,
+      "last_snapshot": "2026-08-05"
+    },
+    {
+      "id": "US|GBFH|2026-08-03|newgard jeffrey k|21.67",
+      "market": "US",
+      "ticker": "GBFH",
+      "yf_symbol": "GBFH",
+      "company": "Gbank Financial Holdings Inc.",
+      "insider_name": "Newgard Jeffrey K",
+      "title": "Pres, CEO (GBank)",
+      "trade_date": "2026-08-03",
+      "trade_price": 21.67,
+      "value": 699025.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-05": 20.39
+      },
+      "latest_price": 20.39,
+      "return_pct": -5.91,
+      "last_snapshot": "2026-08-05"
+    },
+    {
+      "id": "US|CAMP|2026-08-03|young richard a|1.65",
+      "market": "US",
+      "ticker": "CAMP",
+      "yf_symbol": "CAMP",
+      "company": "Camp4 Therapeutics Corp",
+      "insider_name": "Young Richard A",
+      "title": "Dir",
+      "trade_date": "2026-08-03",
+      "trade_price": 1.65,
+      "value": 27024.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-05": 4.01
+      },
+      "latest_price": 4.01,
+      "return_pct": 143.03,
       "last_snapshot": "2026-08-05"
     }
   ]
