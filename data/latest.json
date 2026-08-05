@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T23:55:41Z",
-  "trade_count": 8753,
+  "last_updated": "2026-08-05T01:46:21Z",
+  "trade_count": 8756,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -140048,6 +140048,54 @@
       "owned": "213837",
       "delta_own": "+13%",
       "value": "1544981",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-04",
+      "filing_time": "21:15",
+      "trade_date": "2026-07-31",
+      "ticker": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "79.54",
+      "qty": "2524",
+      "owned": "5773623",
+      "delta_own": "0%",
+      "value": "200759",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-04",
+      "filing_time": "20:47",
+      "trade_date": "2026-07-31",
+      "ticker": "EWAV",
+      "company": "East West Ave Acquisition Corp.",
+      "insider_name": "Space Summit Capital LLC",
+      "title": "Manager of the LP",
+      "trade_type": "P - Purchase",
+      "price": "10.00",
+      "qty": "1087000",
+      "owned": "996531",
+      "delta_own": "-1202%",
+      "value": "10870000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-04",
+      "filing_time": "19:54",
+      "trade_date": "2026-07-22",
+      "ticker": "BRTMU",
+      "company": "B&R Technology Merger Corp.",
+      "insider_name": "B&R Technology Sponsor LLC (Cayman)",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "10.00",
+      "qty": "687500",
+      "owned": "687500",
+      "delta_own": "New",
+      "value": "6875000",
       "cluster_buy": false
     }
   ]

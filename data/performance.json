@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-04",
-  "entry_count": 1161,
+  "entry_count": 1163,
   "entries": [
     {
       "id": "US|NHI|2026-06-05|mendelsohn d. eric|68.84",
@@ -56133,6 +56133,44 @@
       "latest_price": 68.03,
       "return_pct": 10.08,
       "last_snapshot": "2026-08-04"
+    },
+    {
+      "id": "US|NMM|2026-07-31|frangou angeliki|79.54",
+      "market": "US",
+      "ticker": "NMM",
+      "yf_symbol": "NMM",
+      "company": "Navios Maritime Partners L.P.",
+      "insider_name": "Frangou Angeliki",
+      "title": "See Remarks, 10%",
+      "trade_date": "2026-07-31",
+      "trade_price": 79.54,
+      "value": 200759.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-04": 78.31
+      },
+      "latest_price": 78.31,
+      "return_pct": -1.55,
+      "last_snapshot": "2026-08-04"
+    },
+    {
+      "id": "US|EWAV|2026-07-31|space summit capital llc|10.0",
+      "market": "US",
+      "ticker": "EWAV",
+      "yf_symbol": "EWAV",
+      "company": "East West Ave Acquisition Corp.",
+      "insider_name": "Space Summit Capital LLC",
+      "title": "Manager of the LP",
+      "trade_date": "2026-07-31",
+      "trade_price": 10.0,
+      "value": 10870000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
     }
   ]
 }
