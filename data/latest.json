@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T12:47:48Z",
-  "trade_count": 8845,
+  "last_updated": "2026-08-05T15:08:28Z",
+  "trade_count": 8846,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -141520,6 +141520,22 @@
       "owned": "83741960",
       "delta_own": "+1%",
       "value": "8060462",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-05",
+      "filing_time": "09:27",
+      "trade_date": "2026-08-04",
+      "ticker": "CSGP",
+      "company": "Costar Group, Inc.",
+      "insider_name": "Florance Andrew C",
+      "title": "Founder, CEO",
+      "trade_type": "P - Purchase",
+      "price": "29.89",
+      "qty": "83300",
+      "owned": "1806165",
+      "delta_own": "+5%",
+      "value": "2489837",
       "cluster_buy": false
     }
   ]
