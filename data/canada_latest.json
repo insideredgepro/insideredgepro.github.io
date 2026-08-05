@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T03:45:20Z",
-  "trade_count": 3509,
+  "last_updated": "2026-08-05T16:00:19Z",
+  "trade_count": 3510,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -53693,6 +53693,22 @@
       "qty": "100000",
       "price": "2.2483",
       "value": "224830",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4759289",
+      "trade_date": "2026-08-05",
+      "filing_date": "2026-08-05",
+      "company": "Fireweed Metals Corp.",
+      "ticker": "FWZ",
+      "insider_name": "Childress, Larry",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "100000",
+      "price": "3.2500",
+      "value": "325000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
