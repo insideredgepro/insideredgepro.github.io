@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T17:21:15Z",
-  "trade_count": 8846,
+  "last_updated": "2026-08-05T19:16:10Z",
+  "trade_count": 8847,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -141536,6 +141536,22 @@
       "owned": "1806165",
       "delta_own": "+5%",
       "value": "2489837",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-05",
+      "filing_time": "14:42",
+      "trade_date": "2026-08-03",
+      "ticker": "GTE",
+      "company": "Gran Tierra Energy Inc.",
+      "insider_name": "Lm Asset Management Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "6.89",
+      "qty": "58000",
+      "owned": "4915750",
+      "delta_own": "+1%",
+      "value": "399527",
       "cluster_buy": false
     }
   ]
