@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-06T10:29:06Z",
-  "trade_count": 8871,
+  "last_updated": "2026-08-06T12:51:08Z",
+  "trade_count": 8872,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -141936,6 +141936,22 @@
       "owned": "182193",
       "delta_own": "+87%",
       "value": "1564850",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-06",
+      "filing_time": "08:13",
+      "trade_date": "2026-08-05",
+      "ticker": "BBBY",
+      "company": "Bed Bath & Beyond, Inc.",
+      "insider_name": "Lemonis Marcus",
+      "title": "Exec COB, CEO",
+      "trade_type": "P - Purchase",
+      "price": "4.67",
+      "qty": "43382",
+      "owned": "713138",
+      "delta_own": "+6%",
+      "value": "202594",
       "cluster_buy": false
     }
   ]

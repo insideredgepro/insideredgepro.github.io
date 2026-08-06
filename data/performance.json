@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-06",
-  "entry_count": 1216,
+  "entry_count": 1217,
   "entries": [
     {
       "id": "US|BSBR|2026-06-08|leao mario roberto opice|5.21",
@@ -55643,6 +55643,26 @@
       },
       "latest_price": 185.89,
       "return_pct": 909.72,
+      "last_snapshot": "2026-08-06"
+    },
+    {
+      "id": "US|BBBY|2026-08-05|lemonis marcus|4.67",
+      "market": "US",
+      "ticker": "BBBY",
+      "yf_symbol": "BBBY",
+      "company": "Bed Bath & Beyond, Inc.",
+      "insider_name": "Lemonis Marcus",
+      "title": "Exec COB, CEO",
+      "trade_date": "2026-08-05",
+      "trade_price": 4.67,
+      "value": 202594.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-06": 4.62
+      },
+      "latest_price": 4.62,
+      "return_pct": -1.07,
       "last_snapshot": "2026-08-06"
     }
   ]
