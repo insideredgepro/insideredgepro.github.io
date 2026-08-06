@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-06T16:00:19Z",
-  "trade_count": 3522,
+  "last_updated": "2026-08-06T22:00:25Z",
+  "trade_count": 3523,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -53901,6 +53901,22 @@
       "qty": "500000",
       "price": "0.1520",
       "value": "76000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4760097",
+      "trade_date": "2026-08-06",
+      "filing_date": "2026-08-06",
+      "company": "Phoenix Metals Corp.",
+      "ticker": "PCA",
+      "insider_name": "Campbell, Nicholas James",
+      "title": "Senior Officer",
+      "security": "Common Shares Class A",
+      "qty": "25000",
+      "price": "1.1900",
+      "value": "29750",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
