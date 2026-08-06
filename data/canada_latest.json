@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T22:00:20Z",
-  "trade_count": 3521,
+  "last_updated": "2026-08-06T16:00:19Z",
+  "trade_count": 3522,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -53885,6 +53885,22 @@
       "qty": "30000",
       "price": "0.9100",
       "value": "27300",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4759999",
+      "trade_date": "2026-08-06",
+      "filing_date": "2026-08-06",
+      "company": "Rackla Metals Inc.",
+      "ticker": "RAK",
+      "insider_name": "Gubbins Cox, Alejandro Emiliano",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "500000",
+      "price": "0.1520",
+      "value": "76000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
