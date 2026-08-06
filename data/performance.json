@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-06",
-  "entry_count": 1215,
+  "entry_count": 1216,
   "entries": [
     {
       "id": "US|BSBR|2026-06-08|leao mario roberto opice|5.21",
@@ -55623,6 +55623,26 @@
       },
       "latest_price": 10.45,
       "return_pct": 4.5,
+      "last_snapshot": "2026-08-06"
+    },
+    {
+      "id": "US|TM|2026-08-05|kon kenta|18.41",
+      "market": "US",
+      "ticker": "TM",
+      "yf_symbol": "TM",
+      "company": "Toyota Motor Corp/",
+      "insider_name": "Kon Kenta",
+      "title": "Pres",
+      "trade_date": "2026-08-05",
+      "trade_price": 18.41,
+      "value": 1564850.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-06": 185.89
+      },
+      "latest_price": 185.89,
+      "return_pct": 909.72,
       "last_snapshot": "2026-08-06"
     }
   ]
