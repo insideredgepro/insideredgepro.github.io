@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-06T12:51:08Z",
-  "trade_count": 8872,
+  "last_updated": "2026-08-06T15:07:11Z",
+  "trade_count": 8873,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -141952,6 +141952,22 @@
       "owned": "713138",
       "delta_own": "+6%",
       "value": "202594",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-06",
+      "filing_time": "09:30",
+      "trade_date": "2026-08-04",
+      "ticker": "TLSA",
+      "company": "Tiziana Life Sciences Ltd",
+      "insider_name": "Elrifi Ivor",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.99",
+      "qty": "321423",
+      "owned": "4793684",
+      "delta_own": "+7%",
+      "value": "318909",
       "cluster_buy": false
     }
   ]
