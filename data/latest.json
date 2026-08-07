@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-07T15:47:19Z",
-  "trade_count": 8942,
+  "last_updated": "2026-08-07T16:42:42Z",
+  "trade_count": 8943,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -143072,6 +143072,22 @@
       "owned": "33395940",
       "delta_own": "+1%",
       "value": "2869262",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-07",
+      "filing_time": "10:56",
+      "trade_date": "2026-08-06",
+      "ticker": "DGICA",
+      "company": "Donegal Group Inc",
+      "insider_name": "Donegal Mutual Insurance Co",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "19.67",
+      "qty": "18000",
+      "owned": "18906665",
+      "delta_own": "0%",
+      "value": "354060",
       "cluster_buy": false
     }
   ]
