@@ -8856,7 +8856,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-05,16:52,2026-08-05,INDV,"Indivior Pharmaceuticals, Inc.",Anderson Woodrow D,Chief Accounting Officer,P - Purchase,36.28,1500,26138,+6%,54420,False
 2026-08-05,16:41,2026-08-04,TSCO,Tractor Supply Co /De/,Morris Edna,Dir,P - Purchase,32.44,1560,294055,+1%,50606,True
 2026-08-05,16:40,2026-08-04,TSCO,Tractor Supply Co /De/,Lawton III Harry A,"Pres, CEO",P - Purchase,32.15,15600,541592,+3%,501524,True
-2026-08-05,16:30,2026-08-03,TLSA,Tiziana Life Sciences Ltd,Elrifi Ivor,CEO,P - Purchase,1.00,667000,4472261,+18%,667000,False
+2026-08-05,16:30,2026-08-03,TLSA,Tiziana Life Sciences Ltd,Elrifi Ivor,CEO,P - Purchase,1.00,667000,4472261,+18%,667000,True
 2026-08-05,16:30,2026-08-03,ANIK,"Anika Therapeutics, Inc.",Fischetti Gary P,Dir,P - Purchase,20.53,2000,54015,+4%,41060,False
 2026-08-05,16:18,2026-08-03,APMD,"Apnimed, Inc.",Morningside Venture Investments Ltd,10%,P - Purchase,16.00,312500,7228337,+5%,5000000,True
 2026-08-05,16:15,2026-08-03,BSX,Boston Scientific Corp,Habiger David C,Dir,P - Purchase,48.13,1182,15060,+9%,56887,True
@@ -8877,15 +8877,15 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-05,19:00,2026-08-03,IR,Ingersoll Rand Inc.,Satpathy Aurobind,Dir,P - Purchase,86.68,11538,11538,New,1000091,False
 2026-08-05,18:21,2026-08-03,XIIIU,Churchill Capital Corp Xiii,Klein Michael Stuart,"See Remarks, 10%",P - Purchase,10.00,350000,350000,New,3500000,False
 2026-08-06,06:03,2026-08-05,TM,Toyota Motor Corp/,Kon Kenta,Pres,P - Purchase,18.41,85000,182193,+87%,1564850,False
-2026-08-06,08:13,2026-08-05,BBBY,"Bed Bath & Beyond, Inc.",Lemonis Marcus,"Exec COB, CEO",P - Purchase,4.67,43382,713138,+6%,202594,False
-2026-08-06,09:30,2026-08-04,TLSA,Tiziana Life Sciences Ltd,Elrifi Ivor,CEO,P - Purchase,0.99,321423,4793684,+7%,318909,False
+2026-08-06,08:13,2026-08-05,BBBY,"Bed Bath & Beyond, Inc.",Lemonis Marcus,"Exec COB, CEO",P - Purchase,4.67,43382,713138,+6%,202594,True
+2026-08-06,09:30,2026-08-04,TLSA,Tiziana Life Sciences Ltd,Elrifi Ivor,CEO,P - Purchase,0.99,321423,4793684,+7%,318909,True
 2026-08-06,19:45,2026-06-04,DGAC,Disciplined Growth Acquisition Corp,Disciplined Growth Sponsor LLC,10%,P - Purchase,10.00,181750,181750,New,1817500,False
 2026-08-06,19:42,2026-07-14,REBN,"Reborn Coffee, Inc.",Lim Jung Jae,"CEO, Interim CFO",P - Purchase,1.37,131387,131387,New,180000,False
 2026-08-06,18:36,2026-08-06,LUMN,"Lumen Technologies, Inc.",Johnson Kathleen E,CEO,P - Purchase,6.13,100000,12215666,+1%,612680,False
 2026-08-06,18:15,2026-08-04,ADAG,Adagene Inc.,Luo Peter,CEO,P - Purchase,3.65,23245,180745,+15%,84764,False
 2026-08-06,18:08,2026-08-06,ETR,Entergy Corp /De/,Ropp Ralph Lewis,Dir,P - Purchase,106.08,1000,3423,+41%,106075,False
 2026-08-06,17:41,2026-08-04,SITE,"Siteone Landscape Supply, Inc.",Black Doug,CEO,P - Purchase,102.04,8000,597427,+1%,816280,False
-2026-08-06,17:35,2026-08-06,ATTO,"Attovia Therapeutics, Inc.","Frazier Life Sciences Xi, L.P.",10%,P - Purchase,17.00,588235,6154213,+11%,9999995,False
+2026-08-06,17:35,2026-08-06,ATTO,"Attovia Therapeutics, Inc.","Frazier Life Sciences Xi, L.P.",10%,P - Purchase,17.00,588235,6154213,+11%,9999995,True
 2026-08-06,17:35,2026-08-04,THRY,"Thryv Holdings, Inc.",Paulson & Co. Inc.,10%,P - Purchase,2.81,399548,8843383,+5%,1122376,False
 2026-08-06,17:30,2026-07-31,SAGT,Sagtec Global Ltd,Ng Chen Lok,"CEO, 10%",P - Purchase,0.77,300000,8752600,+4%,231000,True
 2026-08-06,17:30,2026-07-31,SAGT,Sagtec Global Ltd,Loong Xin Yee,COO,P - Purchase,0.77,62500,62500,New,48125,True
@@ -8949,3 +8949,15 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-05,06:30,2026-07-29,CCOE,,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,16.91,109080,33505020,+0%,1844543,False
 2026-08-05,06:30,2026-07-28,CCOE,,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,16.88,169980,33395940,+1%,2869262,False
 2026-08-07,10:56,2026-08-06,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,19.67,18000,18906665,0%,354060,False
+2026-08-07,16:19,2026-08-05,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,22.84,35763,13585206,0%,816772,False
+2026-08-07,16:17,2026-08-05,GBFH,Gbank Financial Holdings Inc.,Griege Charles William Jr.,Dir,P - Purchase,21.03,25000,511681,+5%,525675,True
+2026-08-07,16:16,2026-07-21,TLSA,Tiziana Life Sciences Ltd,Cerrone Gabriele M,"Dir, 10%",P - Purchase,0.99,42357,44814587,0%,41933,True
+2026-08-07,16:16,2026-08-05,BSX,Boston Scientific Corp,Habiger David C,Dir,P - Purchase,47.59,2100,17160,+14%,99937,True
+2026-08-07,16:15,2026-07-21,OKYO,Okyo Pharma Ltd,Cerrone Gabriele M,"Dir, 10%",P - Purchase,1.45,22500,10873916,0%,32625,True
+2026-08-07,16:15,2026-07-20,OKYO,Okyo Pharma Ltd,Cerrone Gabriele M,"Dir, 10%",P - Purchase,1.40,25000,10851416,0%,35000,True
+2026-08-07,16:15,2026-07-21,OKYO,Okyo Pharma Ltd,Mantelli Flavio,CHIEF MEDICAL OFFICER,P - Purchase,1.40,20000,20000,New,28000,True
+2026-08-07,16:15,2026-08-05,ABTC,American Bitcoin Corp.,Mateen Justin,Dir,P - Purchase,6.29,306981,492297,+166%,1929607,False
+2026-08-07,16:05,2026-08-06,BBBY,"Bed Bath & Beyond, Inc.",Tabacco Joseph J Jr,Dir,P - Purchase,4.57,20000,225588,+10%,91400,True
+2026-08-07,16:00,2026-08-06,ADTN,"Adtran Holdings, Inc.",Santo Timothy P,SVP of Finance; CFO,P - Purchase,7.60,6579,59924,+12%,50000,False
+2026-08-07,16:00,2026-08-05,PMN,Promis Neurosciences Inc.,Kaplan Johanne,Chief Development Officer,P - Purchase,13.30,2280,6221,+58%,30324,False
+2026-08-07,15:45,2026-08-06,ATTO,"Attovia Therapeutics, Inc.",Sanofi,10%,P - Purchase,17.00,300000,1082855,+38%,5100000,True
