@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-06",
-  "entry_count": 296,
+  "entry_count": 297,
   "entries": [
     {
       "id": "CA|DIV|2026-06-08|ciampi, johnny|4.77",
@@ -13207,6 +13207,26 @@
       },
       "latest_price": 1.12,
       "return_pct": -5.88,
+      "last_snapshot": "2026-08-06"
+    },
+    {
+      "id": "CA|AURO|2026-08-06|silvercorp metals inc.|0.9633",
+      "market": "CA",
+      "ticker": "AURO",
+      "yf_symbol": "AURO.V",
+      "company": "Auro Metals Inc.",
+      "insider_name": "Silvercorp Metals Inc.",
+      "title": "10% Holder",
+      "trade_date": "2026-08-06",
+      "trade_price": 0.9633,
+      "value": 269724.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-08-06": 0.99
+      },
+      "latest_price": 0.99,
+      "return_pct": 2.77,
       "last_snapshot": "2026-08-06"
     }
   ]

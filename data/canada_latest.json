@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-06T22:00:25Z",
-  "trade_count": 3523,
+  "last_updated": "2026-08-07T03:45:20Z",
+  "trade_count": 3524,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -53917,6 +53917,22 @@
       "qty": "25000",
       "price": "1.1900",
       "value": "29750",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4760428",
+      "trade_date": "2026-08-06",
+      "filing_date": "2026-08-06",
+      "company": "Auro Metals Inc.",
+      "ticker": "AURO",
+      "insider_name": "Silvercorp Metals Inc.",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "280000",
+      "price": "0.9633",
+      "value": "269724",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
