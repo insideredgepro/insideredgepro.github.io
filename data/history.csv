@@ -8771,7 +8771,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-04,17:12,2026-07-31,GGSHD,,Durable Capital Partners Lp,10% Owner,P - Purchase,61.92,36256,2570260,+1%,2245140,True
 2026-08-04,17:04,2026-07-31,CCVNA,,Maroone Michael E,Director,P - Purchase,61.80,25000,168573,+17%,1544981,False
 2026-08-04,16:50,2026-08-03,AACOG,,Opaleye Management Inc.,10% Owner,P - Purchase,8.00,50000,3048223,+2%,400000,False
-2026-08-04,16:42,2026-08-03,TTSCO,,Hawaux Andre J,Director,P - Purchase,31.83,3150,3150,New,100264,False
+2026-08-04,16:42,2026-08-03,TTSCO,,Hawaux Andre J,Director,P - Purchase,31.83,3150,3150,New,100264,True
 2026-08-04,16:30,2026-07-31,JJMKE,,Mercado Betsy,Chief People Officer,P - Purchase,23.00,3265,3265,New,75095,True
 2026-08-04,16:30,2026-07-31,JJMKE,,Whalen James J.,Chief Accounting Officer,P - Purchase,23.00,2500,2500,New,57500,True
 2026-08-04,16:30,2026-07-31,JJMKE,,Skehan Andrew G,See Remarks,P - Purchase,23.00,10000,10000,New,230000,True
@@ -8808,12 +8808,12 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-03,17:19,2026-07-31,SSHEN,,Volk James J,SVP Finance & CFO,P - Purchase,11.67,4283,92671,+5%,50000,False
 2026-08-03,17:10,2026-07-31,DDAR,,Adair Charles L,Director,P - Purchase,60.97,1000,51690,+2%,60970,False
 2026-08-03,17:06,2026-07-31,EEQBK,,Rogerson Donald Scott,Director,P - Purchase,50.25,2000,8103,+33%,100500,True
-2026-08-03,16:29,2026-07-31,BBSX,,Ludwig Edward J,Director,P - Purchase,45.48,5000,30359,+20%,227400,False
+2026-08-03,16:29,2026-07-31,BBSX,,Ludwig Edward J,Director,P - Purchase,45.48,5000,30359,+20%,227400,True
 2026-08-03,16:22,2026-08-03,HHUN,,Huntsman Peter R,"Chairman, President  & CEO",P - Purchase,9.81,100000,7256341,+1%,981000,False
 2026-08-03,16:18,2026-07-31,HHOG,,Nova Daniel J,Director,P - Purchase,24.57,40000,47605,+526%,982700,False
 2026-08-03,16:18,2026-07-30,CCBAN,,Canup Edward G,CHIEF BANKING OFFICER,P - Purchase,21.80,2000,36702,+6%,43600,False
 2026-08-03,16:01,2026-07-31,PPRQR,,De Boer Daniel Anton,Chief Executive Officer,P - Purchase,1.77,200000,500000,+67%,353960,False
-2026-08-03,16:01,2026-08-03,AAPMD,,Sekhri Paul J,Director,P - Purchase,16.00,12500,12500,New,200000,False
+2026-08-03,16:01,2026-08-03,AAPMD,,Sekhri Paul J,Director,P - Purchase,16.00,12500,12500,New,200000,True
 2026-08-03,14:37,2026-07-30,DDCX,,Chen Melissa N,Chief Executive Officer (CEO),P - Purchase,1.25,41000,41000,New,51250,False
 2026-08-03,11:40,2026-07-31,BBCML,,Perdue Michael J,Director,P - Purchase,30.17,5000,8000,+167%,150850,False
 2026-08-03,07:21,2026-07-31,RRDWR,,Avidan Guy,Chief Financial Officer,P - Purchase,25.21,2000,95800,+2%,50420,False
@@ -8897,3 +8897,54 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-06,16:05,2026-08-05,APTV,Aptiv Plc,Meister Paul M,Dir,P - Purchase,47.33,105631,138424,+322%,4999959,False
 2026-08-06,15:27,2026-08-06,BHRB,Burke & Herbert Financial Services Corp.,McLaughlin Shawn Patrick,Dir,P - Purchase,73.25,1000,72000,+1%,73250,False
 2026-08-06,14:36,2026-08-06,RBKB,"Rhinebeck Bancorp, Inc.",Vitale Michael,"EVP, Head of Comm Banking",P - Purchase,12.35,4834,22414,+27%,59700,False
+2026-08-07,10:56,2026-08-06,DDGICA,,Donegal Mutual Insurance Co,10% Owner,P - Purchase,19.67,18000,14154691,+0%,354060,False
+2026-08-06,19:42,2026-07-14,RREBN,,Lim Jung Jae,CEO and Interim CFO,P - Purchase,1.37,131387,131387,New,180000,False
+2026-08-06,18:36,2026-08-06,LLUMN,,Johnson Kathleen E,Chief Executive Officer,P - Purchase,6.13,100000,100000,New,612680,False
+2026-08-06,18:15,2026-08-04,AADAG,,Luo Peter,Chief Executive Officer,P - Purchase,3.65,22966,67966,+51%,83746,False
+2026-08-06,18:08,2026-08-06,EETR,,Ropp Ralph Lewis,Director,P - Purchase,106.08,1000,3423,+41%,106075,False
+2026-08-06,17:41,2026-08-04,SSITE,,Black Doug,CEO,P - Purchase,102.03,8000,8000,New,816280,False
+2026-08-06,17:35,2026-08-06,AATTO,,"Frazier Life Sciences Xi, L.P.",10% Owner,P - Purchase,17.00,588235,6154213,+11%,9999995,False
+2026-08-06,17:35,2026-08-05,TTHRY,,Paulson & Co. Inc.,10% Owner,P - Purchase,2.79,144975,8843383,+2%,404480,False
+2026-08-06,17:35,2026-08-04,TTHRY,,Paulson & Co. Inc.,10% Owner,P - Purchase,2.82,254573,8698408,+3%,717896,False
+2026-08-06,17:30,2026-07-31,SSAGT,,Ng Chen Lok,Chief Executive Officer,P - Purchase,0.77,300000,8752600,+4%,231000,True
+2026-08-06,17:30,2026-07-31,SSAGT,,Loong Xin Yee,Chief Operating Officer,P - Purchase,0.77,62500,62500,New,48125,True
+2026-08-06,17:04,2026-08-04,DDMC,,Abbas Mohammed,President & COO,P - Purchase,29.89,12000,71930,+20%,358705,False
+2026-08-06,16:43,2026-08-04,BBXMT,,Nassau Henry N,Director,P - Purchase,14.34,10000,218523,+5%,143357,False
+2026-08-06,16:33,2026-08-06,GGVA,,Hernandez Carlos M,Director,P - Purchase,123.99,400,5033,+9%,49596,False
+2026-08-06,16:30,2026-08-06,BBV,,Cornog William L,Director,P - Purchase,11.25,50000,70000,+250%,562400,False
+2026-08-06,16:05,2026-08-05,AAPTV,,Meister Paul M,Director,P - Purchase,47.33,105631,105631,New,4999959,False
+2026-08-06,15:27,2026-08-06,BBHRB,,Mclaughlin Shawn Patrick,Director,P - Purchase,73.25,1000,71000,+1%,73250,False
+2026-08-06,14:36,2026-08-06,RRBKB,,Vitale Michael,"EVP, Head of Comm Banking",P - Purchase,12.35,4834,22414,+27%,59700,False
+2026-08-06,09:52,2026-08-04,MMXF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,22.19,9362,2300764,+0%,207743,False
+2026-08-06,09:30,2026-08-05,TTLSA,,Elrifi Ivor,Chief Executive Officer,P - Purchase,1.00,237616,4793684,+5%,237616,False
+2026-08-06,09:30,2026-08-04,TTLSA,,Elrifi Ivor,Chief Executive Officer,P - Purchase,0.97,83807,4556068,+2%,81293,False
+2026-08-06,08:13,2026-08-05,BBBBY,,Lemonis Marcus,EXECUTIVE CHAIRMAN & CEO,P - Purchase,4.67,43382,713138,+6%,202594,False
+2026-08-06,06:03,2026-08-05,TTM,,Kon Kenta,President,P - Purchase,18.41,85000,148100,+135%,1564850,False
+2026-08-05,19:00,2026-08-03,IIR,,Satpathy Aurobind,Director,P - Purchase,86.68,11538,11538,New,1000091,False
+2026-08-05,18:21,2026-08-03,XXIIIU,,Klein Michael Stuart,See Remarks,P - Purchase,10.00,350000,350000,New,3500000,False
+2026-08-05,17:53,2026-08-04,WWCC,,Castillo Daniel J,"EVP & GM, EES",P - Purchase,365.89,960,16305,+6%,351254,False
+2026-08-05,17:24,2026-08-04,GGBFH,,Nigro Todd Anthony,SECRETARY,P - Purchase,21.07,5000,286494,+2%,105350,True
+2026-08-05,17:18,2026-08-04,GGBFH,,Nigro Edward Michael,CEO and Executive Chairman,P - Purchase,21.51,9200,628830,+1%,197852,True
+2026-08-05,17:16,2026-08-04,GGBFH,,Herbst Timothy P,Director,P - Purchase,21.50,10000,327126,+3%,214971,True
+2026-08-05,17:15,2026-08-03,HHLI,,Alley J Lindsey,Chief Financial Officer,P - Purchase,124.52,4020,4020,New,500570,False
+2026-08-05,17:11,2026-08-04,GGBFH,,Newgard Jeffrey K,President/CEO (GBank),P - Purchase,21.54,13065,21661,+152%,281382,True
+2026-08-05,17:11,2026-08-03,GGBFH,,Newgard Jeffrey K,President/CEO (GBank),P - Purchase,21.75,19198,12889,New,417643,True
+2026-08-05,17:09,2026-08-03,CCAMP,,Young Richard A,Director,P - Purchase,1.65,16378,186388,+10%,27024,False
+2026-08-05,16:52,2026-08-05,IINDV,,Anderson Woodrow D,Chief Accounting Officer,P - Purchase,36.28,1500,26138,+6%,54420,False
+2026-08-05,16:41,2026-08-04,TTSCO,,Morris Edna,Director,P - Purchase,32.44,1560,279720,+1%,50606,True
+2026-08-05,16:40,2026-08-04,TTSCO,,Lawton Iii Harry A,President & CEO,P - Purchase,32.15,15600,15600,New,501524,True
+2026-08-05,16:30,2026-08-03,TTLSA,,Elrifi Ivor,Chief Executive Officer,P - Purchase,1.00,667000,4472261,+18%,667000,False
+2026-08-05,16:18,2026-08-03,AAPMD,,Morningside Venture Investment,10% Owner,P - Purchase,16.00,312500,7152713,+5%,5000000,True
+2026-08-05,16:15,2026-08-03,BBSX,,Habiger David C,Director,P - Purchase,48.07,1042,14920,+8%,50084,True
+2026-08-05,16:15,2026-08-03,BBSX,,Mahoney Michael F,"Chairman, President & CEO",P - Purchase,48.33,186240,1590024,+13%,9001408,True
+2026-08-05,16:10,2026-08-03,CCOCP,,Frost Phillip Md Et Al,Director,P - Purchase,0.94,75000,1983551,+4%,70590,False
+2026-08-05,16:07,2026-08-04,EEVGN,,Recanati Leon,Director,P - Purchase,0.50,800000,883886,+954%,400000,False
+2026-08-05,16:04,2026-07-17,JJBL,,Tyagarajan N. V.,Director,P - Purchase,299.63,500,3464,+17%,149815,False
+2026-08-05,16:03,2026-08-05,PPFE,,Blaylock Ronald E,Director,P - Purchase,25.46,39231,66938,+142%,998821,True
+2026-08-05,16:02,2026-08-05,PPFE,,Buckley Mortimer J,Director,P - Purchase,25.52,37632,37632,New,960369,True
+2026-08-05,14:42,2026-08-04,GGTE,,Lm Asset Management Inc.,10% Owner,P - Purchase,6.88,34000,4403200,+1%,234059,False
+2026-08-05,14:42,2026-08-03,GGTE,,Lm Asset Management Inc.,10% Owner,P - Purchase,6.89,24000,4369200,+1%,165468,False
+2026-08-05,09:27,2026-08-04,CCSGP,,Florance Andrew C,Founder and CEO,P - Purchase,29.89,83300,1806165,+5%,2489837,False
+2026-08-05,06:30,2026-07-30,CCOE,,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,17.21,194460,33699480,+1%,3346657,False
+2026-08-05,06:30,2026-07-29,CCOE,,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,16.91,109080,33505020,+0%,1844543,False
+2026-08-05,06:30,2026-07-28,CCOE,,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,16.88,169980,33395940,+1%,2869262,False
