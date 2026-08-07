@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-07T03:45:20Z",
-  "trade_count": 3524,
+  "last_updated": "2026-08-07T16:00:20Z",
+  "trade_count": 3525,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -53933,6 +53933,22 @@
       "qty": "280000",
       "price": "0.9633",
       "value": "269724",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4760582",
+      "trade_date": "2026-08-07",
+      "filing_date": "2026-08-07",
+      "company": "Awale Resources Limited",
+      "ticker": "ARIC",
+      "insider_name": "Fortuna Mining Corp.",
+      "title": "10% Holder",
+      "security": "Common Shares Consolidated",
+      "qty": "972450",
+      "price": "0.8500",
+      "value": "826582",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
