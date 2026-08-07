@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-07",
-  "entry_count": 1299,
+  "entry_count": 1306,
   "entries": [
     {
       "id": "US|BSBR|2026-06-08|leao mario roberto opice|5.21",
@@ -58171,6 +58171,146 @@
       },
       "latest_price": 20.17,
       "return_pct": 18.65,
+      "last_snapshot": "2026-08-07"
+    },
+    {
+      "id": "US|BRVE|2026-08-07|forbion growth opportunities fund iii cooperatief u.a.|18.0",
+      "market": "US",
+      "ticker": "BRVE",
+      "yf_symbol": "BRVE",
+      "company": "Braveheart Bio, Inc.",
+      "insider_name": "Forbion Growth Opportunities Fund III Cooperatief U.A.",
+      "title": "10%",
+      "trade_date": "2026-08-07",
+      "trade_price": 18.0,
+      "value": 64800000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-07": 30.0
+      },
+      "latest_price": 30.0,
+      "return_pct": 66.67,
+      "last_snapshot": "2026-08-07"
+    },
+    {
+      "id": "US|ONMD|2026-07-30|kosasa thomas|0.69",
+      "market": "US",
+      "ticker": "ONMD",
+      "yf_symbol": "ONMD",
+      "company": "Onemednet Corp",
+      "insider_name": "Kosasa Thomas",
+      "title": "Dir, 10%",
+      "trade_date": "2026-07-30",
+      "trade_price": 0.69,
+      "value": 1000000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-07": 0.6245
+      },
+      "latest_price": 0.6245,
+      "return_pct": -9.49,
+      "last_snapshot": "2026-08-07"
+    },
+    {
+      "id": "US|BRVE|2026-08-07|rickey james paul|18.0",
+      "market": "US",
+      "ticker": "BRVE",
+      "yf_symbol": "BRVE",
+      "company": "Braveheart Bio, Inc.",
+      "insider_name": "Rickey James Paul",
+      "title": "CFO",
+      "trade_date": "2026-08-07",
+      "trade_price": 18.0,
+      "value": 499986.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-07": 30.0
+      },
+      "latest_price": 30.0,
+      "return_pct": 66.67,
+      "last_snapshot": "2026-08-07"
+    },
+    {
+      "id": "US|BRVE|2026-08-07|viehbacher christopher|18.0",
+      "market": "US",
+      "ticker": "BRVE",
+      "yf_symbol": "BRVE",
+      "company": "Braveheart Bio, Inc.",
+      "insider_name": "Viehbacher Christopher",
+      "title": "Dir",
+      "trade_date": "2026-08-07",
+      "trade_price": 18.0,
+      "value": 1499994.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-07": 30.0
+      },
+      "latest_price": 30.0,
+      "return_pct": 66.67,
+      "last_snapshot": "2026-08-07"
+    },
+    {
+      "id": "US|BRVE|2026-08-07|malek david i|18.0",
+      "market": "US",
+      "ticker": "BRVE",
+      "yf_symbol": "BRVE",
+      "company": "Braveheart Bio, Inc.",
+      "insider_name": "Malek David I",
+      "title": "Dir",
+      "trade_date": "2026-08-07",
+      "trade_price": 18.0,
+      "value": 74988.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-07": 30.0
+      },
+      "latest_price": 30.0,
+      "return_pct": 66.67,
+      "last_snapshot": "2026-08-07"
+    },
+    {
+      "id": "US|BRVE|2026-08-07|murdoch travis|18.0",
+      "market": "US",
+      "ticker": "BRVE",
+      "yf_symbol": "BRVE",
+      "company": "Braveheart Bio, Inc.",
+      "insider_name": "Murdoch Travis",
+      "title": "CEO, Pres",
+      "trade_date": "2026-08-07",
+      "trade_price": 18.0,
+      "value": 1499994.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-07": 30.0
+      },
+      "latest_price": 30.0,
+      "return_pct": 66.67,
+      "last_snapshot": "2026-08-07"
+    },
+    {
+      "id": "US|BRVE|2026-08-07|lubner david charles|18.0",
+      "market": "US",
+      "ticker": "BRVE",
+      "yf_symbol": "BRVE",
+      "company": "Braveheart Bio, Inc.",
+      "insider_name": "Lubner David Charles",
+      "title": "Dir",
+      "trade_date": "2026-08-07",
+      "trade_price": 18.0,
+      "value": 999990.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-07": 30.0
+      },
+      "latest_price": 30.0,
+      "return_pct": 66.67,
       "last_snapshot": "2026-08-07"
     }
   ]
