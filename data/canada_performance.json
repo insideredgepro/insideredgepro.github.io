@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-07",
-  "entry_count": 304,
+  "entry_count": 305,
   "entries": [
     {
       "id": "CA|DIV|2026-06-08|ciampi, johnny|4.77",
@@ -6397,8 +6397,8 @@
         "2026-08-06": 0.33,
         "2026-08-07": 0.33
       },
-      "latest_price": 0.33,
-      "return_pct": 3.13,
+      "latest_price": 0.29,
+      "return_pct": -9.38,
       "last_snapshot": "2026-08-07"
     },
     {
@@ -13658,6 +13658,26 @@
       },
       "latest_price": 16.92,
       "return_pct": 16820.0,
+      "last_snapshot": "2026-08-07"
+    },
+    {
+      "id": "CA|TLA|2026-08-07|morrison, robert john|0.53",
+      "market": "CA",
+      "ticker": "TLA",
+      "yf_symbol": "TLA.V",
+      "company": "Titan Logix Corp.",
+      "insider_name": "Morrison, Robert John",
+      "title": "10% Holder",
+      "trade_date": "2026-08-07",
+      "trade_price": 0.53,
+      "value": 43460.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-08-07": 0.53
+      },
+      "latest_price": 0.53,
+      "return_pct": 0.0,
       "last_snapshot": "2026-08-07"
     }
   ]

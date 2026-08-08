@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-07T22:00:20Z",
-  "trade_count": 3531,
+  "last_updated": "2026-08-08T03:45:20Z",
+  "trade_count": 3532,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -54045,6 +54045,22 @@
       "qty": "230000",
       "price": "0.1000",
       "value": "23000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4761678",
+      "trade_date": "2026-08-07",
+      "filing_date": "2026-08-07",
+      "company": "Titan Logix Corp.",
+      "ticker": "TLA",
+      "insider_name": "Morrison, Robert John",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "82000",
+      "price": "0.5300",
+      "value": "43460",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
