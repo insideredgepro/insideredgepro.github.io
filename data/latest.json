@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-10T16:43:24Z",
-  "trade_count": 8972,
+  "last_updated": "2026-08-10T17:44:28Z",
+  "trade_count": 8973,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -143552,6 +143552,22 @@
       "owned": "560466",
       "delta_own": "+1%",
       "value": "249446",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "12:57",
+      "trade_date": "2026-08-06",
+      "ticker": "VEON",
+      "company": "Veon Ltd.",
+      "insider_name": "Fabela Augie K II",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "56.00",
+      "qty": "20000",
+      "owned": "335874",
+      "delta_own": "+6%",
+      "value": "1120053",
       "cluster_buy": false
     }
   ]
