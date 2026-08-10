@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-10T18:43:12Z",
-  "trade_count": 8974,
+  "last_updated": "2026-08-10T19:48:09Z",
+  "trade_count": 8978,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -143584,6 +143584,70 @@
       "owned": "449999",
       "delta_own": "0%",
       "value": "111798",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "15:44",
+      "trade_date": "2026-08-07",
+      "ticker": "OBK",
+      "company": "Origin Bancorp, Inc.",
+      "insider_name": "Jones Cecil W.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "53.86",
+      "qty": "3700",
+      "owned": "17647",
+      "delta_own": "+27%",
+      "value": "199282",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "15:24",
+      "trade_date": "2026-08-07",
+      "ticker": "PRTA",
+      "company": "Prothena Corp Public Ltd Co",
+      "insider_name": "Scully William P",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "8.62",
+      "qty": "37500",
+      "owned": "925500",
+      "delta_own": "+4%",
+      "value": "323220",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "15:13",
+      "trade_date": "2026-08-07",
+      "ticker": "EEFT",
+      "company": "Euronet Worldwide, Inc.",
+      "insider_name": "McDonnell Thomas A",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "70.60",
+      "qty": "781",
+      "owned": "101000",
+      "delta_own": "+1%",
+      "value": "55139",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "15:06",
+      "trade_date": "2026-08-10",
+      "ticker": "MATW",
+      "company": "Matthews International Corp",
+      "insider_name": "Schawk David A",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "23.60",
+      "qty": "5000",
+      "owned": "225206",
+      "delta_own": "+2%",
+      "value": "118000",
       "cluster_buy": false
     }
   ]
