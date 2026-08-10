@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-10T17:44:28Z",
-  "trade_count": 8973,
+  "last_updated": "2026-08-10T18:43:12Z",
+  "trade_count": 8974,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -143568,6 +143568,22 @@
       "owned": "335874",
       "delta_own": "+6%",
       "value": "1120053",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "14:23",
+      "trade_date": "2026-08-10",
+      "ticker": "RRBI",
+      "company": "Red River Bancshares Inc",
+      "insider_name": "Price Teddy Ray",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "99.91",
+      "qty": "1119",
+      "owned": "449999",
+      "delta_own": "0%",
+      "value": "111798",
       "cluster_buy": false
     }
   ]
