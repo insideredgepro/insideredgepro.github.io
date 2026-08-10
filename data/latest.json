@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-10T21:32:53Z",
-  "trade_count": 8998,
+  "last_updated": "2026-08-10T22:27:38Z",
+  "trade_count": 9004,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -143808,7 +143808,7 @@
       "owned": "38750",
       "delta_own": "+8%",
       "value": "86400",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-10",
@@ -143969,6 +143969,102 @@
       "delta_own": "+3%",
       "value": "50049",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "18:10",
+      "trade_date": "2026-08-07",
+      "ticker": "MKZR",
+      "company": "Mackenzie Realty Capital, Inc.",
+      "insider_name": "Dixon Robert E",
+      "title": "CEO, Pres",
+      "trade_type": "P - Purchase",
+      "price": "1.60",
+      "qty": "33400",
+      "owned": "246665",
+      "delta_own": "+16%",
+      "value": "53340",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "18:07",
+      "trade_date": "2026-08-10",
+      "ticker": "HUBS",
+      "company": "Hubspot Inc",
+      "insider_name": "Dischler Gerald",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "215.93",
+      "qty": "925",
+      "owned": "1940",
+      "delta_own": "+91%",
+      "value": "199735",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "18:00",
+      "trade_date": "2026-08-07",
+      "ticker": "MKZR",
+      "company": "Mackenzie Realty Capital, Inc.",
+      "insider_name": "Fuller Glen W",
+      "title": "TREASURER",
+      "trade_type": "P - Purchase",
+      "price": "1.60",
+      "qty": "33400",
+      "owned": "192424",
+      "delta_own": "+21%",
+      "value": "53340",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "18:00",
+      "trade_date": "2026-08-07",
+      "ticker": "ET",
+      "company": "Energy Transfer LP",
+      "insider_name": "Perry James Richard",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "20.23",
+      "qty": "12359",
+      "owned": "232569",
+      "delta_own": "+6%",
+      "value": "250000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "17:53",
+      "trade_date": "2026-08-07",
+      "ticker": "MRP",
+      "company": "Millrose Properties, Inc.",
+      "insider_name": "Migoya Carlos A.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "29.18",
+      "qty": "1000",
+      "owned": "30075",
+      "delta_own": "+3%",
+      "value": "29180",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "17:52",
+      "trade_date": "2026-08-07",
+      "ticker": "MKZR",
+      "company": "Mackenzie Realty Capital, Inc.",
+      "insider_name": "Patterson Charles E. II",
+      "title": "GC, Secretary",
+      "trade_type": "P - Purchase",
+      "price": "1.60",
+      "qty": "33400",
+      "owned": "192424",
+      "delta_own": "+21%",
+      "value": "53340",
+      "cluster_buy": true
     }
   ]
 }
