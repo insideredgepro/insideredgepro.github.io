@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-10",
-  "entry_count": 1228,
+  "entry_count": 1229,
   "entries": [
     {
       "id": "US|OUT|2026-06-11|norton james michael|30.81",
@@ -54780,6 +54780,26 @@
       },
       "latest_price": 20.41,
       "return_pct": -2.11,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|BYRN|2026-08-06|elmore leonard j|4.64",
+      "market": "US",
+      "ticker": "BYRN",
+      "yf_symbol": "BYRN",
+      "company": "Byrna Technologies Inc.",
+      "insider_name": "Elmore Leonard J",
+      "title": "Dir",
+      "trade_date": "2026-08-06",
+      "trade_price": 4.64,
+      "value": 46400.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 4.45
+      },
+      "latest_price": 4.45,
+      "return_pct": -4.09,
       "last_snapshot": "2026-08-10"
     }
   ]

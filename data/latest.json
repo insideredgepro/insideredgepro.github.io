@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-10T10:58:59Z",
-  "trade_count": 8969,
+  "last_updated": "2026-08-10T11:47:41Z",
+  "trade_count": 8970,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -143505,6 +143505,22 @@
       "delta_own": "+8%",
       "value": "498315",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "07:00",
+      "trade_date": "2026-08-06",
+      "ticker": "BYRN",
+      "company": "Byrna Technologies Inc.",
+      "insider_name": "Elmore Leonard J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.64",
+      "qty": "10000",
+      "owned": "60811",
+      "delta_own": "+20%",
+      "value": "46400",
+      "cluster_buy": true
     }
   ]
 }
