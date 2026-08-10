@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-10",
-  "entry_count": 1246,
+  "entry_count": 1257,
   "entries": [
     {
       "id": "US|OUT|2026-06-11|norton james michael|30.81",
@@ -55140,6 +55140,226 @@
       },
       "latest_price": 694.35,
       "return_pct": -2.43,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|MRP|2026-08-10|gorson matthew b.|28.8",
+      "market": "US",
+      "ticker": "MRP",
+      "yf_symbol": "MRP",
+      "company": "Millrose Properties, Inc.",
+      "insider_name": "Gorson Matthew B.",
+      "title": "Dir",
+      "trade_date": "2026-08-10",
+      "trade_price": 28.8,
+      "value": 86400.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 28.8
+      },
+      "latest_price": 28.8,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|GLXY|2026-08-10|bandrowczak steven john|19.63",
+      "market": "US",
+      "ticker": "GLXY",
+      "yf_symbol": "GLXY",
+      "company": "Galaxy Digital Inc.",
+      "insider_name": "Bandrowczak Steven John",
+      "title": "Dir",
+      "trade_date": "2026-08-10",
+      "trade_price": 19.63,
+      "value": 100113.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 19.52
+      },
+      "latest_price": 19.52,
+      "return_pct": -0.56,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|CMTG|2026-08-06|mcgillis mike|1.71",
+      "market": "US",
+      "ticker": "CMTG",
+      "yf_symbol": "CMTG",
+      "company": "Claros Mortgage Trust, Inc.",
+      "insider_name": "McGillis Mike",
+      "title": "Pres, CFO",
+      "trade_date": "2026-08-06",
+      "trade_price": 1.71,
+      "value": 42730.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 1.77
+      },
+      "latest_price": 1.77,
+      "return_pct": 3.51,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|LINE|2026-08-07|lemasters robb a.|41.33",
+      "market": "US",
+      "ticker": "LINE",
+      "yf_symbol": "LINE",
+      "company": "Lineage, Inc.",
+      "insider_name": "Lemasters Robb A.",
+      "title": "CFO",
+      "trade_date": "2026-08-07",
+      "trade_price": 41.33,
+      "value": 826638.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 41.35
+      },
+      "latest_price": 41.35,
+      "return_pct": 0.05,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|GPOR|2026-08-07|dell'osso domenic j jr|160.61",
+      "market": "US",
+      "ticker": "GPOR",
+      "yf_symbol": "GPOR",
+      "company": "Gulfport Energy Corp",
+      "insider_name": "Dell'Osso Domenic J Jr",
+      "title": "Pres, CEO",
+      "trade_date": "2026-08-07",
+      "trade_price": 160.61,
+      "value": 256976.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 168.01
+      },
+      "latest_price": 168.01,
+      "return_pct": 4.61,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|FBIN|2026-08-06|singh jesse g|51.3",
+      "market": "US",
+      "ticker": "FBIN",
+      "yf_symbol": "FBIN",
+      "company": "Fortune Brands Innovations, Inc.",
+      "insider_name": "Singh Jesse G",
+      "title": "CEO",
+      "trade_date": "2026-08-06",
+      "trade_price": 51.3,
+      "value": 2015342.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 47.99
+      },
+      "latest_price": 47.99,
+      "return_pct": -6.45,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|CLVT|2026-08-06|cornick kenneth l.|1.86",
+      "market": "US",
+      "ticker": "CLVT",
+      "yf_symbol": "CLVT",
+      "company": "Clarivate Plc",
+      "insider_name": "Cornick Kenneth L.",
+      "title": "Dir",
+      "trade_date": "2026-08-06",
+      "trade_price": 1.86,
+      "value": 1671500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 1.89
+      },
+      "latest_price": 1.89,
+      "return_pct": 1.61,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|CWBC|2026-08-10|gill jagroop|24.88",
+      "market": "US",
+      "ticker": "CWBC",
+      "yf_symbol": "CWBC",
+      "company": "Community West Bancshares",
+      "insider_name": "Gill Jagroop",
+      "title": "Dir",
+      "trade_date": "2026-08-10",
+      "trade_price": 24.88,
+      "value": 118678.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 24.9
+      },
+      "latest_price": 24.9,
+      "return_pct": 0.08,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|PSN|2026-08-07|ball george l.|47.97",
+      "market": "US",
+      "ticker": "PSN",
+      "yf_symbol": "PSN",
+      "company": "Parsons Corp",
+      "insider_name": "Ball George L.",
+      "title": "Dir",
+      "trade_date": "2026-08-07",
+      "trade_price": 47.97,
+      "value": 959400.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 46.13
+      },
+      "latest_price": 46.13,
+      "return_pct": -3.84,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|TRNS|2026-08-06|cairns craig d.|93.97",
+      "market": "US",
+      "ticker": "TRNS",
+      "yf_symbol": "TRNS",
+      "company": "Transcat Inc",
+      "insider_name": "Cairns Craig D.",
+      "title": "Dir",
+      "trade_date": "2026-08-06",
+      "trade_price": 93.97,
+      "value": 98663.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 90.85
+      },
+      "latest_price": 90.85,
+      "return_pct": -3.32,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|CC|2026-08-06|hostetter shane|14.94",
+      "market": "US",
+      "ticker": "CC",
+      "yf_symbol": "CC",
+      "company": "Chemours Co",
+      "insider_name": "Hostetter Shane",
+      "title": "CFO",
+      "trade_date": "2026-08-06",
+      "trade_price": 14.94,
+      "value": 50049.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 14.59
+      },
+      "latest_price": 14.59,
+      "return_pct": -2.34,
       "last_snapshot": "2026-08-10"
     }
   ]
