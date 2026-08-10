@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-10",
-  "entry_count": 1226,
+  "entry_count": 1228,
   "entries": [
     {
       "id": "US|OUT|2026-06-11|norton james michael|30.81",
@@ -54740,6 +54740,46 @@
       },
       "latest_price": 45.34,
       "return_pct": 2.0,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|COE|2026-07-31|huang jack jiajia|18.58",
+      "market": "US",
+      "ticker": "COE",
+      "yf_symbol": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "CEO, 10%",
+      "trade_date": "2026-07-31",
+      "trade_price": 18.58,
+      "value": 13761121.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 19.5
+      },
+      "latest_price": 19.5,
+      "return_pct": 4.95,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|PRCT|2026-08-07|wood larry l|20.85",
+      "market": "US",
+      "ticker": "PRCT",
+      "yf_symbol": "PRCT",
+      "company": "Procept Biorobotics Corp",
+      "insider_name": "Wood Larry L",
+      "title": "Pres, CEO",
+      "trade_date": "2026-08-07",
+      "trade_price": 20.85,
+      "value": 498315.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 20.41
+      },
+      "latest_price": 20.41,
+      "return_pct": -2.11,
       "last_snapshot": "2026-08-10"
     }
   ]
