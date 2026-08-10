@@ -8729,7 +8729,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-03,17:10,2026-07-31,DAR,Darling Ingredients Inc.,Adair Charles L,Dir,P - Purchase,60.97,1000,51690,+2%,60970,False
 2026-08-03,17:06,2026-07-31,EQBK,Equity Bancshares Inc,Rogerson Donald Scott,Dir,P - Purchase,50.25,2000,8103,+33%,100500,True
 2026-08-03,18:42,2026-07-30,HNVR,"Hanover Bancorp, Inc. /Md",O'Connor Kevin M,Pres,P - Purchase,26.88,10000,12300,+435%,268800,False
-2026-08-03,18:23,2026-07-30,MBLY,Mobileye Global Inc.,Yeary Frank D,Dir,P - Purchase,7.98,12360,87488,+16%,98633,False
+2026-08-03,18:23,2026-07-30,MBLY,Mobileye Global Inc.,Yeary Frank D,Dir,P - Purchase,7.98,12360,87488,+16%,98633,True
 2026-08-03,18:12,2026-07-31,GSHD,"Goosehead Insurance, Inc.",Lane Peter R.,Dir,P - Purchase,63.14,1600,1600,New,101024,True
 2026-08-03,18:11,2026-07-31,LGHL,Lion Group Holding Ltd,Hrt Financial LP,10%,P - Purchase,0.94,34355,74710,+85%,32397,False
 2026-08-03,19:25,2026-08-03,CSTM,Constellium Se,Deslarzes Jean-Christophe,Dir,P - Purchase,27.24,1490,43515,+4%,40588,False
@@ -8984,3 +8984,12 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-10,15:24,2026-08-07,PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,8.62,37500,925500,+4%,323220,False
 2026-08-10,15:13,2026-08-07,EEFT,"Euronet Worldwide, Inc.",McDonnell Thomas A,Dir,P - Purchase,70.60,781,101000,+1%,55139,False
 2026-08-10,15:06,2026-08-10,MATW,Matthews International Corp,Schawk David A,Dir,P - Purchase,23.60,5000,225206,+2%,118000,False
+2026-08-10,16:19,2026-08-06,MBLY,Mobileye Global Inc.,Yeboah-Amankwah Safroadu,Dir,P - Purchase,8.46,11841,84336,+16%,100175,True
+2026-08-10,16:14,2026-08-07,ELAN,Elanco Animal Health Inc,Vanhimbergen Robert M,"EVP, CFO",P - Purchase,23.08,4200,137516,+3%,96926,True
+2026-08-10,16:13,2026-08-07,ELAN,Elanco Animal Health Inc,Herendeen Paul,Dir,P - Purchase,23.69,10000,111687,+10%,236850,True
+2026-08-10,16:12,2026-08-06,ATTO,"Attovia Therapeutics, Inc.","Venbio Global Strategic Fund Iv, L.P.",10%,P - Purchase,17.00,382352,4181367,+10%,6499984,True
+2026-08-10,16:06,2026-08-07,BXSY,Bexil Investment Trust,Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,17.78,10000,296182,+3%,177800,False
+2026-08-10,16:05,2026-08-07,DTM,"Dt Midstream, Inc.",Pickle Elaine M,Dir,P - Purchase,132.61,1500,5808,+35%,198915,False
+2026-08-10,16:03,2026-08-10,UCB,United Community Banks Inc,Carande Carl Steven,Dir,P - Purchase,35.35,2101,3689,+132%,74270,False
+2026-08-10,16:03,2026-08-10,CLNE,Clean Energy Fuels Corp.,Corbus Barclay,"Pres, CEO",P - Purchase,1.62,25000,1375021,+2%,40500,False
+2026-08-10,16:03,2026-08-10,CW,Curtiss Wright Corp,Lyash Jeffrey J.,Dir,P - Purchase,711.62,209,257,+436%,148999,False
