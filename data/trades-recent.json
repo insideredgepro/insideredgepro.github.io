@@ -392,7 +392,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Spouse received these restricted stock units (RSUs) as part of her compensation as a former employee of Pinterest (she did not purchase the shares). RSUs vest periodically and can be sold only during predetermined \"trading windows\" -- time periods the company opens after publicly releasing its quarterly financial results -- to prevent insider trading. Spouse completed this transaction after the company's most recent earnings call, consistent with those requirements.",
-    "scraped_at": "2026-08-10T16:10:03.504112+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657228+00:00"
   },
   {
     "id": "20003801754",
@@ -413,7 +413,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503950+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656714+00:00"
   },
   {
     "id": "20003801596",
@@ -749,7 +749,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS IRA Account",
-    "scraped_at": "2026-08-10T16:10:03.504082+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657158+00:00"
   },
   {
     "id": "20003801778",
@@ -770,7 +770,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS Brokerage Account",
-    "scraped_at": "2026-08-10T16:10:03.504087+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657169+00:00"
   },
   {
     "id": "20003801779",
@@ -791,7 +791,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS Brokerage Account",
-    "scraped_at": "2026-08-10T16:10:03.504091+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657179+00:00"
   },
   {
     "id": "20003801780",
@@ -812,7 +812,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS IRA Account",
-    "scraped_at": "2026-08-10T16:10:03.504098+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657197+00:00"
   },
   {
     "id": "20003801598",
@@ -1001,7 +1001,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.504152+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657288+00:00"
   },
   {
     "id": "20003801795",
@@ -1022,7 +1022,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.504156+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657294+00:00"
   },
   {
     "id": "20003801594",
@@ -1235,6 +1235,48 @@
     "scraped_at": "2026-08-06T03:55:02.469370+00:00"
   },
   {
+    "id": "10000066587",
+    "politician_name": "John Fetterman",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "Freeport-McMoRan Inc",
+    "ticker": "FCX:US",
+    "sector": "materials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-24",
+    "trade_published": "2026-08-10",
+    "filed_after_days": "17",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "Rate/Coupon: 9.5% Matures: 2031-06-01",
+    "scraped_at": "2026-08-10T22:10:04.656290+00:00"
+  },
+  {
+    "id": "10000066588",
+    "politician_name": "John Fetterman",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "Hasbro Inc",
+    "ticker": "HAS:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-24",
+    "trade_published": "2026-08-10",
+    "filed_after_days": "17",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "Rate/Coupon: 3.55% Matures: 2026-11-19",
+    "scraped_at": "2026-08-10T22:10:04.656395+00:00"
+  },
+  {
     "id": "20003801792",
     "politician_name": "Diana Harshbarger",
     "party": "Republican",
@@ -1253,7 +1295,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.504141+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657274+00:00"
   },
   {
     "id": "20003801793",
@@ -1274,7 +1316,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.504147+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657281+00:00"
   },
   {
     "id": "20003801735",
@@ -1295,7 +1337,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-08-10T16:10:03.504203+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657388+00:00"
   },
   {
     "id": "20003801736",
@@ -1316,7 +1358,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-08-10T16:10:03.504208+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657395+00:00"
   },
   {
     "id": "20003801737",
@@ -1337,7 +1379,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-08-10T16:10:03.504213+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657402+00:00"
   },
   {
     "id": "20003801738",
@@ -1358,7 +1400,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-08-10T16:10:03.504219+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657411+00:00"
   },
   {
     "id": "20003801739",
@@ -1379,7 +1421,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-08-10T16:10:03.504224+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657419+00:00"
   },
   {
     "id": "20003801740",
@@ -1400,7 +1442,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-08-10T16:10:03.504229+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657425+00:00"
   },
   {
     "id": "20003801741",
@@ -1421,7 +1463,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-08-10T16:10:03.504233+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657436+00:00"
   },
   {
     "id": "20003801742",
@@ -1442,7 +1484,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-08-10T16:10:03.504238+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657444+00:00"
   },
   {
     "id": "20003801743",
@@ -1463,7 +1505,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-08-10T16:10:03.504243+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657451+00:00"
   },
   {
     "id": "20003801593",
@@ -1673,7 +1715,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.504192+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657369+00:00"
   },
   {
     "id": "20003801613",
@@ -2261,7 +2303,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.504162+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657300+00:00"
   },
   {
     "id": "20003801734",
@@ -2282,7 +2324,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-08-10T16:10:03.504198+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657380+00:00"
   },
   {
     "id": "20003801610",
@@ -3629,6 +3671,27 @@
     "scraped_at": "2026-07-18T03:55:02.977647+00:00"
   },
   {
+    "id": "10000066589",
+    "politician_name": "John Fetterman",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "VENUS INDEPENDENT SCHOOL DISTRICT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-07",
+    "trade_published": "2026-08-10",
+    "filed_after_days": "34",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "Rate/Coupon: 5.25% Matures: 2055-08-15",
+    "scraped_at": "2026-08-10T22:10:04.656436+00:00"
+  },
+  {
     "id": "20003801791",
     "politician_name": "Diana Harshbarger",
     "party": "Republican",
@@ -3647,7 +3710,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.504137+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657266+00:00"
   },
   {
     "id": "20003801638",
@@ -3815,7 +3878,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503962+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656741+00:00"
   },
   {
     "id": "20003801759",
@@ -3836,7 +3899,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503980+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656794+00:00"
   },
   {
     "id": "20003801781",
@@ -3857,7 +3920,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS IRA Account",
-    "scraped_at": "2026-08-10T16:10:03.504102+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657210+00:00"
   },
   {
     "id": "20003801782",
@@ -3878,7 +3941,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: UBS Brokerage Account",
-    "scraped_at": "2026-08-10T16:10:03.504107+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657218+00:00"
   },
   {
     "id": "20003801655",
@@ -3941,7 +4004,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.504172+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657325+00:00"
   },
   {
     "id": "20003801799",
@@ -3962,7 +4025,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.504177+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657333+00:00"
   },
   {
     "id": "20003801783",
@@ -3983,7 +4046,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Cole Hargrave Snodgrass & Associates",
-    "scraped_at": "2026-08-10T16:10:03.504182+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657343+00:00"
   },
   {
     "id": "10000066382",
@@ -4529,7 +4592,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503903+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656588+00:00"
   },
   {
     "id": "20003801590",
@@ -5138,7 +5201,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503909+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656598+00:00"
   },
   {
     "id": "20003801749",
@@ -5159,7 +5222,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503924+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656628+00:00"
   },
   {
     "id": "20003801750",
@@ -5180,7 +5243,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503931+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656638+00:00"
   },
   {
     "id": "20003801763",
@@ -5201,7 +5264,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.504001+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656896+00:00"
   },
   {
     "id": "20003801764",
@@ -5222,7 +5285,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.504005+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656912+00:00"
   },
   {
     "id": "20003801767",
@@ -5243,7 +5306,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.504022+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656981+00:00"
   },
   {
     "id": "20003801523",
@@ -7490,7 +7553,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.504117+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657237+00:00"
   },
   {
     "id": "20003801801",
@@ -7511,7 +7574,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.504122+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657244+00:00"
   },
   {
     "id": "20003801802",
@@ -7532,7 +7595,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.504128+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657251+00:00"
   },
   {
     "id": "20003801803",
@@ -7553,7 +7616,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.504133+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657259+00:00"
   },
   {
     "id": "20003801797",
@@ -7574,7 +7637,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.504166+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657307+00:00"
   },
   {
     "id": "20003801573",
@@ -10787,7 +10850,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.503839+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656465+00:00"
   },
   {
     "id": "20003801785",
@@ -10808,7 +10871,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.503864+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656476+00:00"
   },
   {
     "id": "20003801786",
@@ -10829,7 +10892,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.503876+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656487+00:00"
   },
   {
     "id": "20003801787",
@@ -10850,7 +10913,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.503882+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656512+00:00"
   },
   {
     "id": "20003801788",
@@ -10871,7 +10934,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.503887+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656521+00:00"
   },
   {
     "id": "20003801789",
@@ -10892,7 +10955,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.503892+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656533+00:00"
   },
   {
     "id": "20003801790",
@@ -10913,7 +10976,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.503898+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656547+00:00"
   },
   {
     "id": "20003801485",
@@ -24038,7 +24101,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503991+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656841+00:00"
   },
   {
     "id": "20003801771",
@@ -24059,7 +24122,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.504049+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657056+00:00"
   },
   {
     "id": "20003800655",
@@ -34895,7 +34958,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.504010+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656926+00:00"
   },
   {
     "id": "20003798357",
@@ -35021,7 +35084,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.504015+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656949+00:00"
   },
   {
     "id": "20003801685",
@@ -35063,7 +35126,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503986+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656822+00:00"
   },
   {
     "id": "20003801772",
@@ -35084,7 +35147,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.504054+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657075+00:00"
   },
   {
     "id": "20003801757",
@@ -35105,7 +35168,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503967+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656756+00:00"
   },
   {
     "id": "20003798221",
@@ -35147,7 +35210,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Long Term Growth",
-    "scraped_at": "2026-08-10T16:10:03.504326+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657627+00:00"
   },
   {
     "id": "20003801672",
@@ -35168,7 +35231,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Tax Efficient Core",
-    "scraped_at": "2026-08-10T16:10:03.504331+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657637+00:00"
   },
   {
     "id": "20003801713",
@@ -35273,7 +35336,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503945+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656702+00:00"
   },
   {
     "id": "20003801755",
@@ -35294,7 +35357,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503955+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656728+00:00"
   },
   {
     "id": "20003801667",
@@ -35315,7 +35378,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Long Term Growth",
-    "scraped_at": "2026-08-10T16:10:03.504305+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657574+00:00"
   },
   {
     "id": "20003801668",
@@ -35336,7 +35399,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Tax Efficient Core",
-    "scraped_at": "2026-08-10T16:10:03.504310+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657587+00:00"
   },
   {
     "id": "20003798223",
@@ -35378,7 +35441,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Long Term Growth",
-    "scraped_at": "2026-08-10T16:10:03.504267+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657485+00:00"
   },
   {
     "id": "20003801660",
@@ -35399,7 +35462,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Tax Efficient Core",
-    "scraped_at": "2026-08-10T16:10:03.504272+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657496+00:00"
   },
   {
     "id": "20003801692",
@@ -35588,7 +35651,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503935+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656670+00:00"
   },
   {
     "id": "20003801663",
@@ -35609,7 +35672,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Long Term Growth",
-    "scraped_at": "2026-08-10T16:10:03.504286+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657532+00:00"
   },
   {
     "id": "20003801664",
@@ -35630,7 +35693,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Tax Efficient Core",
-    "scraped_at": "2026-08-10T16:10:03.504290+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657544+00:00"
   },
   {
     "id": "20003801679",
@@ -35819,7 +35882,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503974+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656775+00:00"
   },
   {
     "id": "20003801669",
@@ -35840,7 +35903,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Tax Efficient Core",
-    "scraped_at": "2026-08-10T16:10:03.504315+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657602+00:00"
   },
   {
     "id": "20003801670",
@@ -35861,7 +35924,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Long Term Growth",
-    "scraped_at": "2026-08-10T16:10:03.504320+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657615+00:00"
   },
   {
     "id": "20003801686",
@@ -36008,7 +36071,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Tax Efficient Core",
-    "scraped_at": "2026-08-10T16:10:03.504256+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657464+00:00"
   },
   {
     "id": "20003801658",
@@ -36029,7 +36092,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Long Term Growth",
-    "scraped_at": "2026-08-10T16:10:03.504261+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657475+00:00"
   },
   {
     "id": "20003801661",
@@ -36050,7 +36113,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Tax Efficient Core",
-    "scraped_at": "2026-08-10T16:10:03.504276+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657506+00:00"
   },
   {
     "id": "20003801662",
@@ -36071,7 +36134,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Long Term Growth",
-    "scraped_at": "2026-08-10T16:10:03.504281+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657517+00:00"
   },
   {
     "id": "20003801665",
@@ -36092,7 +36155,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Tax Efficient Core",
-    "scraped_at": "2026-08-10T16:10:03.504295+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657553+00:00"
   },
   {
     "id": "20003801666",
@@ -36113,7 +36176,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Long Term Growth",
-    "scraped_at": "2026-08-10T16:10:03.504301+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657564+00:00"
   },
   {
     "id": "20003801673",
@@ -36134,7 +36197,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Tax Efficient Core",
-    "scraped_at": "2026-08-10T16:10:03.504335+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657650+00:00"
   },
   {
     "id": "20003801674",
@@ -36155,7 +36218,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Long Term Growth",
-    "scraped_at": "2026-08-10T16:10:03.504340+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657659+00:00"
   },
   {
     "id": "20003801675",
@@ -36176,7 +36239,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Long Term Growth",
-    "scraped_at": "2026-08-10T16:10:03.504345+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657667+00:00"
   },
   {
     "id": "20003801676",
@@ -36197,7 +36260,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Tax Efficient Core",
-    "scraped_at": "2026-08-10T16:10:03.504350+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657674+00:00"
   },
   {
     "id": "20003801677",
@@ -36806,7 +36869,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503996+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656870+00:00"
   },
   {
     "id": "20003801752",
@@ -36827,7 +36890,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503940+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656686+00:00"
   },
   {
     "id": "20003801768",
@@ -36848,7 +36911,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.504033+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657003+00:00"
   },
   {
     "id": "20003801769",
@@ -36869,7 +36932,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.504038+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657020+00:00"
   },
   {
     "id": "20003801747",
@@ -36890,7 +36953,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503914+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656609+00:00"
   },
   {
     "id": "20003801748",
@@ -36911,7 +36974,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.503919+00:00"
+    "scraped_at": "2026-08-10T22:10:04.656619+00:00"
   },
   {
     "id": "10000064986",
@@ -36953,7 +37016,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.504065+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657106+00:00"
   },
   {
     "id": "20003801702",
@@ -36995,7 +37058,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-10T16:10:03.504187+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657357+00:00"
   },
   {
     "id": "10000064987",
@@ -37079,7 +37142,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Chase Brokerage Account (3935)",
-    "scraped_at": "2026-08-10T16:10:03.504248+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657456+00:00"
   },
   {
     "id": "20003798359",
@@ -37415,7 +37478,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.504044+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657040+00:00"
   },
   {
     "id": "10000066573",
@@ -37688,7 +37751,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.504070+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657120+00:00"
   },
   {
     "id": "20003801776",
@@ -37709,7 +37772,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.504077+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657141+00:00"
   },
   {
     "id": "20003801773",
@@ -37730,7 +37793,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Managed Account",
-    "scraped_at": "2026-08-10T16:10:03.504060+00:00"
+    "scraped_at": "2026-08-10T22:10:04.657092+00:00"
   },
   {
     "id": "10000066579",
