@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-10",
-  "entry_count": 1263,
+  "entry_count": 1269,
   "entries": [
     {
       "id": "US|OUT|2026-06-11|norton james michael|30.81",
@@ -55480,6 +55480,126 @@
       },
       "latest_price": 1.52,
       "return_pct": -5.0,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|NATR|2026-08-06|prescott group capital management, l.l.c.|16.4",
+      "market": "US",
+      "ticker": "NATR",
+      "yf_symbol": "NATR",
+      "company": "Natures Sunshine Products Inc",
+      "insider_name": "Prescott Group Capital Management, L.L.C.",
+      "title": "10%",
+      "trade_date": "2026-08-06",
+      "trade_price": 16.4,
+      "value": 2318912.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 15.77
+      },
+      "latest_price": 15.77,
+      "return_pct": -3.84,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|SNES|2026-08-06|glenbrook capital management|1.3",
+      "market": "US",
+      "ticker": "SNES",
+      "yf_symbol": "SNES",
+      "company": "Senestech, Inc.",
+      "insider_name": "Glenbrook Capital Management",
+      "title": "10%",
+      "trade_date": "2026-08-06",
+      "trade_price": 1.3,
+      "value": 27865.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 1.27
+      },
+      "latest_price": 1.27,
+      "return_pct": -2.31,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|BWMX|2026-08-03|campos luis|17.0",
+      "market": "US",
+      "ticker": "BWMX",
+      "yf_symbol": "BWMX",
+      "company": "Betterware De Mexico, S.A.P.I. De C.V",
+      "insider_name": "Campos Luis",
+      "title": "Chairman, 10%",
+      "trade_date": "2026-08-03",
+      "trade_price": 17.0,
+      "value": 425255.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 16.13
+      },
+      "latest_price": 16.13,
+      "return_pct": -5.12,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|BLSM|2026-08-10|schmid john p.|16.0",
+      "market": "US",
+      "ticker": "BLSM",
+      "yf_symbol": "BLSM",
+      "company": "Blossomhill Therapeutics, Inc.",
+      "insider_name": "Schmid John P.",
+      "title": "Dir",
+      "trade_date": "2026-08-10",
+      "trade_price": 16.0,
+      "value": 96000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 15.99
+      },
+      "latest_price": 15.99,
+      "return_pct": -0.06,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|BLSM|2026-08-10|chen bihua|16.0",
+      "market": "US",
+      "ticker": "BLSM",
+      "yf_symbol": "BLSM",
+      "company": "Blossomhill Therapeutics, Inc.",
+      "insider_name": "Chen Bihua",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-10",
+      "trade_price": 16.0,
+      "value": 5000000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 15.99
+      },
+      "latest_price": 15.99,
+      "return_pct": -0.06,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|BLSM|2026-08-07|liptak vincent paul|15.89",
+      "market": "US",
+      "ticker": "BLSM",
+      "yf_symbol": "BLSM",
+      "company": "Blossomhill Therapeutics, Inc.",
+      "insider_name": "Liptak Vincent Paul",
+      "title": "GC",
+      "trade_date": "2026-08-07",
+      "trade_price": 15.89,
+      "value": 74700.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 15.99
+      },
+      "latest_price": 15.99,
+      "return_pct": 0.63,
       "last_snapshot": "2026-08-10"
     }
   ]
