@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-10T11:47:41Z",
-  "trade_count": 8970,
+  "last_updated": "2026-08-10T12:46:33Z",
+  "trade_count": 8971,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -143521,6 +143521,22 @@
       "delta_own": "+20%",
       "value": "46400",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "08:07",
+      "trade_date": "2026-08-07",
+      "ticker": "BWFG",
+      "company": "Bankwell Financial Group, Inc.",
+      "insider_name": "Seidman Lawrence B",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "66.63",
+      "qty": "10000",
+      "owned": "861759",
+      "delta_own": "+1%",
+      "value": "666254",
+      "cluster_buy": false
     }
   ]
 }

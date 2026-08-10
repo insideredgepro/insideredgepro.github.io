@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-10",
-  "entry_count": 1229,
+  "entry_count": 1230,
   "entries": [
     {
       "id": "US|OUT|2026-06-11|norton james michael|30.81",
@@ -54800,6 +54800,26 @@
       },
       "latest_price": 4.45,
       "return_pct": -4.09,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|BWFG|2026-08-07|seidman lawrence b|66.63",
+      "market": "US",
+      "ticker": "BWFG",
+      "yf_symbol": "BWFG",
+      "company": "Bankwell Financial Group, Inc.",
+      "insider_name": "Seidman Lawrence B",
+      "title": "Dir",
+      "trade_date": "2026-08-07",
+      "trade_price": 66.63,
+      "value": 666254.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 66.9
+      },
+      "latest_price": 66.9,
+      "return_pct": 0.41,
       "last_snapshot": "2026-08-10"
     }
   ]
