@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T17:50:17Z",
-  "trade_count": 9107,
+  "last_updated": "2026-08-11T18:48:22Z",
+  "trade_count": 9108,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -145713,6 +145713,22 @@
       "delta_own": "+827%",
       "value": "250718",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-11",
+      "filing_time": "14:44",
+      "trade_date": "2026-08-10",
+      "ticker": "RMBI",
+      "company": "Richmond Mutual Bancorporation, Inc.",
+      "insider_name": "Jackson Jeffrey A.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "15.92",
+      "qty": "2500",
+      "owned": "67125",
+      "delta_own": "+4%",
+      "value": "39794",
+      "cluster_buy": false
     }
   ]
 }
