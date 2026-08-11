@@ -9120,7 +9120,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-11,16:27,2026-08-07,LILA,Liberty Latin America Ltd.,Malone John C,"Director Emeritus, 10%",P - Purchase,13.38,217032,7666016,+3%,2904772,False
 2026-08-11,16:27,2026-08-07,MGY,Magnolia Oil & Gas Corp,Ropp Ralph Lewis,Dir,P - Purchase,24.63,5000,26007,+24%,123125,True
 2026-08-11,16:25,2026-08-07,MGY,Magnolia Oil & Gas Corp,Khani David M.,Dir,P - Purchase,25.00,8000,30622,+35%,200000,True
-2026-08-11,16:21,2026-08-11,SMRT,"Smartrent, Inc.",Pinczuk Ana G.,Dir,P - Purchase,1.43,107000,385704,+38%,152625,False
+2026-08-11,16:21,2026-08-11,SMRT,"Smartrent, Inc.",Pinczuk Ana G.,Dir,P - Purchase,1.43,107000,385704,+38%,152625,True
 2026-08-11,16:20,2026-08-10,HOG,"Harley-Davidson, Inc.",Starrs Artie,"Pres, CEO",P - Purchase,25.89,10000,25000,+67%,258941,True
 2026-08-11,16:16,2026-08-10,SRI,Stoneridge Inc,Noblet Natalia,"Pres, CEO",P - Purchase,7.31,5000,5000,New,36550,False
 2026-08-11,16:15,2026-08-10,LITB,"Lightinthebox Holding Co., Ltd.",He Jian,"CEO, 10%",P - Purchase,0.26,4254553,4254553,New,1092144,False
@@ -9165,3 +9165,17 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-11,13:32,2026-08-10,GGLRE,,Goldberg Leonard R,Director,P - Purchase,15.42,6000,36000,+20%,92520,False
 2026-08-11,13:32,2026-08-07,GGLRE,,Goldberg Leonard R,Director,P - Purchase,15.62,6000,30000,+25%,93720,False
 2026-08-11,12:50,2026-08-10,BBCML,,Baron Christopher F,President and CEO,P - Purchase,30.39,8250,9247,+827%,250718,True
+2026-08-11,18:11,2026-08-11,KMPR,Kemper Corp,Evans Carl Thomas Jr.,"EVP, Sec., GC",P - Purchase,26.53,1000,91629,+1%,26530,True
+2026-08-11,18:04,2026-08-11,KMPR,Kemper Corp,Camden Bradley T,"EVP, CFO",P - Purchase,26.34,1000,51259,+2%,26340,True
+2026-08-11,17:57,2026-08-11,KMPR,Kemper Corp,Laderman Gerald,Dir,P - Purchase,26.49,4000,33365,+14%,105960,True
+2026-08-11,17:53,2026-08-10,KMPR,Kemper Corp,Gorevic Jason N,Dir,P - Purchase,25.91,5000,31802,+19%,129550,True
+2026-08-11,17:53,2026-08-07,BRVE,"Braveheart Bio, Inc.","Ah Bio Fund Iv, L.P.",10%,P - Purchase,18.00,1100000,10232420,+12%,19800000,True
+2026-08-11,17:45,2026-08-11,DINO,Hf Sinclair Corp,Myers Franklin,CEO,P - Purchase,85.30,15000,194841,+8%,1279500,False
+2026-08-11,17:31,2026-08-07,BRVE,"Braveheart Bio, Inc.",Chimovits Erez,"Dir, 10%",P - Purchase,18.00,1940000,273333,-116%,34920000,True
+2026-08-11,17:27,2026-08-07,BRVE,"Braveheart Bio, Inc.",Orbimed Advisors LLC,"Dir, 10%",P - Purchase,18.00,1940000,273333,-116%,34920000,True
+2026-08-11,17:25,2026-08-07,FRPH,"Frp Holdings, Inc.",Baker John D. III,CEO,P - Purchase,21.91,6800,356341,+2%,148988,False
+2026-08-11,17:24,2026-08-11,SMRT,"Smartrent, Inc.",Martell Frank,CEO,P - Purchase,1.42,100000,3672086,+3%,142260,True
+2026-08-11,17:15,2026-08-07,QVCG,"Qvc Group, Inc.",Goldentree Asset Management LP,10%,P - Purchase,15.35,650808,8518677,+8%,9987293,False
+2026-08-11,17:14,2026-08-10,LAW,"Cs Disco, Inc.",Friedrichsen Eric,CEO,P - Purchase,4.26,7500,1481180,+1%,31950,False
+2026-08-11,17:09,2026-08-10,PLNT,"Planet Fitness, Inc.",Spinelli Stephen Jr,Dir,P - Purchase,49.28,10000,45516,+28%,492800,False
+2026-08-11,17:08,2026-08-07,TXO,"Txo Partners, L.P.",Simpson Bob R,"Dir, 10%",P - Purchase,13.95,250000,9350000,+3%,3487630,False

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-11",
-  "entry_count": 1348,
+  "entry_count": 1362,
   "entries": [
     {
       "id": "US|SRI|2026-06-12|lasky william m|7.46",
@@ -54157,6 +54157,286 @@
       "latest_price": null,
       "return_pct": null,
       "last_snapshot": null
+    },
+    {
+      "id": "US|KMPR|2026-08-11|evans carl thomas jr.|26.53",
+      "market": "US",
+      "ticker": "KMPR",
+      "yf_symbol": "KMPR",
+      "company": "Kemper Corp",
+      "insider_name": "Evans Carl Thomas Jr.",
+      "title": "EVP, Sec., GC",
+      "trade_date": "2026-08-11",
+      "trade_price": 26.53,
+      "value": 26530.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-11": 26.18
+      },
+      "latest_price": 26.18,
+      "return_pct": -1.32,
+      "last_snapshot": "2026-08-11"
+    },
+    {
+      "id": "US|KMPR|2026-08-11|camden bradley t|26.34",
+      "market": "US",
+      "ticker": "KMPR",
+      "yf_symbol": "KMPR",
+      "company": "Kemper Corp",
+      "insider_name": "Camden Bradley T",
+      "title": "EVP, CFO",
+      "trade_date": "2026-08-11",
+      "trade_price": 26.34,
+      "value": 26340.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-11": 26.18
+      },
+      "latest_price": 26.18,
+      "return_pct": -0.61,
+      "last_snapshot": "2026-08-11"
+    },
+    {
+      "id": "US|KMPR|2026-08-11|laderman gerald|26.49",
+      "market": "US",
+      "ticker": "KMPR",
+      "yf_symbol": "KMPR",
+      "company": "Kemper Corp",
+      "insider_name": "Laderman Gerald",
+      "title": "Dir",
+      "trade_date": "2026-08-11",
+      "trade_price": 26.49,
+      "value": 105960.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-11": 26.18
+      },
+      "latest_price": 26.18,
+      "return_pct": -1.17,
+      "last_snapshot": "2026-08-11"
+    },
+    {
+      "id": "US|KMPR|2026-08-10|gorevic jason n|25.91",
+      "market": "US",
+      "ticker": "KMPR",
+      "yf_symbol": "KMPR",
+      "company": "Kemper Corp",
+      "insider_name": "Gorevic Jason N",
+      "title": "Dir",
+      "trade_date": "2026-08-10",
+      "trade_price": 25.91,
+      "value": 129550.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-11": 26.18
+      },
+      "latest_price": 26.18,
+      "return_pct": 1.04,
+      "last_snapshot": "2026-08-11"
+    },
+    {
+      "id": "US|BRVE|2026-08-07|ah bio fund iv, l.p.|18.0",
+      "market": "US",
+      "ticker": "BRVE",
+      "yf_symbol": "BRVE",
+      "company": "Braveheart Bio, Inc.",
+      "insider_name": "Ah Bio Fund Iv, L.P.",
+      "title": "10%",
+      "trade_date": "2026-08-07",
+      "trade_price": 18.0,
+      "value": 19800000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-11": 25.01
+      },
+      "latest_price": 25.01,
+      "return_pct": 38.94,
+      "last_snapshot": "2026-08-11"
+    },
+    {
+      "id": "US|DINO|2026-08-11|myers franklin|85.3",
+      "market": "US",
+      "ticker": "DINO",
+      "yf_symbol": "DINO",
+      "company": "Hf Sinclair Corp",
+      "insider_name": "Myers Franklin",
+      "title": "CEO",
+      "trade_date": "2026-08-11",
+      "trade_price": 85.3,
+      "value": 1279500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-11": 85.55
+      },
+      "latest_price": 85.55,
+      "return_pct": 0.29,
+      "last_snapshot": "2026-08-11"
+    },
+    {
+      "id": "US|BRVE|2026-08-07|chimovits erez|18.0",
+      "market": "US",
+      "ticker": "BRVE",
+      "yf_symbol": "BRVE",
+      "company": "Braveheart Bio, Inc.",
+      "insider_name": "Chimovits Erez",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-07",
+      "trade_price": 18.0,
+      "value": 34920000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-11": 25.01
+      },
+      "latest_price": 25.01,
+      "return_pct": 38.94,
+      "last_snapshot": "2026-08-11"
+    },
+    {
+      "id": "US|BRVE|2026-08-07|orbimed advisors llc|18.0",
+      "market": "US",
+      "ticker": "BRVE",
+      "yf_symbol": "BRVE",
+      "company": "Braveheart Bio, Inc.",
+      "insider_name": "Orbimed Advisors LLC",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-07",
+      "trade_price": 18.0,
+      "value": 34920000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-11": 25.01
+      },
+      "latest_price": 25.01,
+      "return_pct": 38.94,
+      "last_snapshot": "2026-08-11"
+    },
+    {
+      "id": "US|FRPH|2026-08-07|baker john d. iii|21.91",
+      "market": "US",
+      "ticker": "FRPH",
+      "yf_symbol": "FRPH",
+      "company": "Frp Holdings, Inc.",
+      "insider_name": "Baker John D. III",
+      "title": "CEO",
+      "trade_date": "2026-08-07",
+      "trade_price": 21.91,
+      "value": 148988.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-11": 22.12
+      },
+      "latest_price": 22.12,
+      "return_pct": 0.96,
+      "last_snapshot": "2026-08-11"
+    },
+    {
+      "id": "US|SMRT|2026-08-11|martell frank|1.42",
+      "market": "US",
+      "ticker": "SMRT",
+      "yf_symbol": "SMRT",
+      "company": "Smartrent, Inc.",
+      "insider_name": "Martell Frank",
+      "title": "CEO",
+      "trade_date": "2026-08-11",
+      "trade_price": 1.42,
+      "value": 142260.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-11": 1.41
+      },
+      "latest_price": 1.41,
+      "return_pct": -0.7,
+      "last_snapshot": "2026-08-11"
+    },
+    {
+      "id": "US|QVCG|2026-08-07|goldentree asset management lp|15.35",
+      "market": "US",
+      "ticker": "QVCG",
+      "yf_symbol": "QVCG",
+      "company": "Qvc Group, Inc.",
+      "insider_name": "Goldentree Asset Management LP",
+      "title": "10%",
+      "trade_date": "2026-08-07",
+      "trade_price": 15.35,
+      "value": 9987293.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-11": 16.375
+      },
+      "latest_price": 16.375,
+      "return_pct": 6.68,
+      "last_snapshot": "2026-08-11"
+    },
+    {
+      "id": "US|LAW|2026-08-10|friedrichsen eric|4.26",
+      "market": "US",
+      "ticker": "LAW",
+      "yf_symbol": "LAW",
+      "company": "Cs Disco, Inc.",
+      "insider_name": "Friedrichsen Eric",
+      "title": "CEO",
+      "trade_date": "2026-08-10",
+      "trade_price": 4.26,
+      "value": 31950.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-11": 4.21
+      },
+      "latest_price": 4.21,
+      "return_pct": -1.17,
+      "last_snapshot": "2026-08-11"
+    },
+    {
+      "id": "US|PLNT|2026-08-10|spinelli stephen jr|49.28",
+      "market": "US",
+      "ticker": "PLNT",
+      "yf_symbol": "PLNT",
+      "company": "Planet Fitness, Inc.",
+      "insider_name": "Spinelli Stephen Jr",
+      "title": "Dir",
+      "trade_date": "2026-08-10",
+      "trade_price": 49.28,
+      "value": 492800.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-11": 47.92
+      },
+      "latest_price": 47.92,
+      "return_pct": -2.76,
+      "last_snapshot": "2026-08-11"
+    },
+    {
+      "id": "US|TXO|2026-08-07|simpson bob r|13.95",
+      "market": "US",
+      "ticker": "TXO",
+      "yf_symbol": "TXO",
+      "company": "Txo Partners, L.P.",
+      "insider_name": "Simpson Bob R",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-07",
+      "trade_price": 13.95,
+      "value": 3487630.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-11": 14.37
+      },
+      "latest_price": 14.37,
+      "return_pct": 3.01,
+      "last_snapshot": "2026-08-11"
     }
   ]
 }
