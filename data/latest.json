@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T16:48:24Z",
-  "trade_count": 9105,
+  "last_updated": "2026-08-11T17:50:17Z",
+  "trade_count": 9107,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -139344,7 +139344,7 @@
       "owned": "11182",
       "delta_own": "+81%",
       "value": "150850",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-03",
@@ -145680,6 +145680,38 @@
       "owned": "270000",
       "delta_own": "+2%",
       "value": "45153",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-11",
+      "filing_time": "13:32",
+      "trade_date": "2026-08-07",
+      "ticker": "GLRE",
+      "company": "Greenlight Capital Re, Ltd.",
+      "insider_name": "Goldberg Leonard R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "15.52",
+      "qty": "12000",
+      "owned": "309467",
+      "delta_own": "+4%",
+      "value": "186240",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-11",
+      "filing_time": "12:50",
+      "trade_date": "2026-08-10",
+      "ticker": "BCML",
+      "company": "Baycom Corp",
+      "insider_name": "Baron Christopher F",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "30.39",
+      "qty": "8250",
+      "owned": "9247",
+      "delta_own": "+827%",
+      "value": "250718",
       "cluster_buy": true
     }
   ]
