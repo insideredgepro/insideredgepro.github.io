@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-10",
-  "entry_count": 1269,
+  "entry_count": 1273,
   "entries": [
     {
       "id": "US|OUT|2026-06-11|norton james michael|30.81",
@@ -20700,8 +20700,8 @@
         "2026-08-09": 6.39,
         "2026-08-10": 6.39
       },
-      "latest_price": 6.39,
-      "return_pct": 27.29,
+      "latest_price": 6.19,
+      "return_pct": 23.31,
       "last_snapshot": "2026-08-10"
     },
     {
@@ -38257,8 +38257,8 @@
         "2026-08-09": 6.39,
         "2026-08-10": 6.39
       },
-      "latest_price": 6.39,
-      "return_pct": 9.23,
+      "latest_price": 6.19,
+      "return_pct": 5.81,
       "last_snapshot": "2026-08-10"
     },
     {
@@ -43849,8 +43849,8 @@
         "2026-08-09": 6.39,
         "2026-08-10": 6.39
       },
-      "latest_price": 6.39,
-      "return_pct": 21.25,
+      "latest_price": 6.19,
+      "return_pct": 17.46,
       "last_snapshot": "2026-08-10"
     },
     {
@@ -55600,6 +55600,86 @@
       },
       "latest_price": 15.99,
       "return_pct": 0.63,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|LTGO|2026-08-10|foresite capital management v, llc|18.0",
+      "market": "US",
+      "ticker": "LTGO",
+      "yf_symbol": "LTGO",
+      "company": "Latigo Biotherapeutics, Inc.",
+      "insider_name": "Foresite Capital Management V, LLC",
+      "title": "10%",
+      "trade_date": "2026-08-10",
+      "trade_price": 18.0,
+      "value": 2520000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 18.56
+      },
+      "latest_price": 18.56,
+      "return_pct": 3.11,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|AHCO|2026-08-06|samet kenneth a|6.38",
+      "market": "US",
+      "ticker": "AHCO",
+      "yf_symbol": "AHCO",
+      "company": "Adapthealth Corp.",
+      "insider_name": "Samet Kenneth A",
+      "title": "Dir",
+      "trade_date": "2026-08-06",
+      "trade_price": 6.38,
+      "value": 149930.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 5.22
+      },
+      "latest_price": 5.22,
+      "return_pct": -18.18,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|AHCO|2026-08-06|wolf dale b|6.12",
+      "market": "US",
+      "ticker": "AHCO",
+      "yf_symbol": "AHCO",
+      "company": "Adapthealth Corp.",
+      "insider_name": "Wolf Dale B",
+      "title": "Dir",
+      "trade_date": "2026-08-06",
+      "trade_price": 6.12,
+      "value": 244600.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 5.22
+      },
+      "latest_price": 5.22,
+      "return_pct": -14.71,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "US|LTGO|2026-08-10|tananbaum james b.|18.0",
+      "market": "US",
+      "ticker": "LTGO",
+      "yf_symbol": "LTGO",
+      "company": "Latigo Biotherapeutics, Inc.",
+      "insider_name": "Tananbaum James B.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-10",
+      "trade_price": 18.0,
+      "value": 2520000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-10": 18.56
+      },
+      "latest_price": 18.56,
+      "return_pct": 3.11,
       "last_snapshot": "2026-08-10"
     }
   ]

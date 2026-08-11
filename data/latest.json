@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-10T23:25:57Z",
-  "trade_count": 9010,
+  "last_updated": "2026-08-11T01:01:27Z",
+  "trade_count": 9014,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -144160,6 +144160,70 @@
       "owned": "134099",
       "delta_own": "+4%",
       "value": "74700",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "20:21",
+      "trade_date": "2026-08-10",
+      "ticker": "LTGO",
+      "company": "Latigo Biotherapeutics, Inc.",
+      "insider_name": "Foresite Capital Management V, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "18.00",
+      "qty": "140000",
+      "owned": "3414544",
+      "delta_own": "+4%",
+      "value": "2520000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "20:03",
+      "trade_date": "2026-08-06",
+      "ticker": "AHCO",
+      "company": "Adapthealth Corp.",
+      "insider_name": "Samet Kenneth A",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "6.38",
+      "qty": "23500",
+      "owned": "48569",
+      "delta_own": "+94%",
+      "value": "149930",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "20:02",
+      "trade_date": "2026-08-06",
+      "ticker": "AHCO",
+      "company": "Adapthealth Corp.",
+      "insider_name": "Wolf Dale B",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "6.12",
+      "qty": "40000",
+      "owned": "177234",
+      "delta_own": "+29%",
+      "value": "244600",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-10",
+      "filing_time": "20:00",
+      "trade_date": "2026-08-10",
+      "ticker": "LTGO",
+      "company": "Latigo Biotherapeutics, Inc.",
+      "insider_name": "Tananbaum James B.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "18.00",
+      "qty": "140000",
+      "owned": "3414544",
+      "delta_own": "+4%",
+      "value": "2520000",
       "cluster_buy": true
     }
   ]
