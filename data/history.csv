@@ -8718,7 +8718,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-03,14:37,2026-07-30,DCX,Digital Currency X Technology Inc.,Chen Melissa N,CEO (CEO),P - Purchase,1.25,41000,41000,New,51250,False
 2026-08-03,16:29,2026-07-31,BSX,Boston Scientific Corp,Ludwig Edward J,Dir,P - Purchase,45.48,5000,30359,+20%,227400,True
 2026-08-03,16:22,2026-08-03,HUN,Huntsman Corp,Huntsman Peter R,"COB, Pres , CEO",P - Purchase,9.81,100000,8189669,+1%,981000,False
-2026-08-03,16:18,2026-07-31,HOG,"Harley-Davidson, Inc.",Nova Daniel J,Dir,P - Purchase,24.57,40000,47605,+526%,982700,False
+2026-08-03,16:18,2026-07-31,HOG,"Harley-Davidson, Inc.",Nova Daniel J,Dir,P - Purchase,24.57,40000,47605,+526%,982700,True
 2026-08-03,16:18,2026-07-30,CBAN,Colony Bankcorp Inc,Canup Edward G,CHIEF BANKING OFFICER,P - Purchase,21.80,2000,47026,+4%,43600,False
 2026-08-03,16:11,2026-07-31,BXSY,Bexil Investment Trust,Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,17.18,5000,278872,+2%,85879,False
 2026-08-03,16:01,2026-07-31,PRQR,Proqr Therapeutics N.V.,De Boer Daniel Anton,CEO,P - Purchase,1.77,200000,500000,+67%,353960,True
@@ -8894,7 +8894,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-06,16:33,2026-08-06,GVA,Granite Construction Inc,Hernandez Carlos M,Dir,P - Purchase,123.99,400,5033,+9%,49596,False
 2026-08-06,16:30,2026-08-06,BV,"Brightview Holdings, Inc.",Cornog William L,Dir,P - Purchase,11.25,50000,186000,+37%,562400,False
 2026-08-06,16:09,2026-08-05,BXSY,Bexil Investment Trust,Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,17.72,7310,286182,+3%,129517,False
-2026-08-06,16:05,2026-08-05,APTV,Aptiv Plc,Meister Paul M,Dir,P - Purchase,47.33,105631,138424,+322%,4999959,False
+2026-08-06,16:05,2026-08-05,APTV,Aptiv Plc,Meister Paul M,Dir,P - Purchase,47.33,105631,138424,+322%,4999959,True
 2026-08-06,15:27,2026-08-06,BHRB,Burke & Herbert Financial Services Corp.,McLaughlin Shawn Patrick,Dir,P - Purchase,73.25,1000,72000,+1%,73250,False
 2026-08-06,14:36,2026-08-06,RBKB,"Rhinebeck Bancorp, Inc.",Vitale Michael,"EVP, Head of Comm Banking",P - Purchase,12.35,4834,22414,+27%,59700,False
 2026-08-07,10:56,2026-08-06,DDGICA,,Donegal Mutual Insurance Co,10% Owner,P - Purchase,19.67,18000,14154691,+0%,354060,False
@@ -9003,7 +9003,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-10,16:33,2026-08-10,CWBC,Community West Bancshares,Gill Jagroop,Dir,P - Purchase,24.88,4770,588067,+1%,118678,False
 2026-08-10,16:31,2026-08-07,PSN,Parsons Corp,Ball George L.,Dir,P - Purchase,47.97,20000,375383,+6%,959400,False
 2026-08-10,16:31,2026-08-06,TRNS,Transcat Inc,Cairns Craig D.,Dir,P - Purchase,93.97,1050,8393,+14%,98663,False
-2026-08-10,16:30,2026-08-06,CC,Chemours Co,Hostetter Shane,CFO,P - Purchase,14.94,3350,102698,+3%,50049,False
+2026-08-10,16:30,2026-08-06,CC,Chemours Co,Hostetter Shane,CFO,P - Purchase,14.94,3350,102698,+3%,50049,True
 2026-08-10,18:10,2026-08-07,MKZR,"Mackenzie Realty Capital, Inc.",Dixon Robert E,"CEO, Pres",P - Purchase,1.60,33400,246665,+16%,53340,True
 2026-08-10,18:07,2026-08-10,HUBS,Hubspot Inc,Dischler Gerald,Dir,P - Purchase,215.93,925,1940,+91%,199735,False
 2026-08-10,18:00,2026-08-07,MKZR,"Mackenzie Realty Capital, Inc.",Fuller Glen W,TREASURER,P - Purchase,1.60,33400,192424,+21%,53340,True
@@ -9115,3 +9115,19 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-11,12:50,2026-08-10,BCML,Baycom Corp,Baron Christopher F,"Pres, CEO",P - Purchase,30.39,8250,9247,+827%,250718,True
 2026-08-11,14:44,2026-08-10,RMBI,"Richmond Mutual Bancorporation, Inc.",Jackson Jeffrey A.,Dir,P - Purchase,15.92,2500,67125,+4%,39794,False
 2026-08-11,15:49,2026-08-10,CIA,"Citizens, Inc.",Stenberg Jon,"Pres, CEO",P - Purchase,3.99,50000,507674,+11%,199630,False
+2026-08-11,16:29,2026-08-10,STRZ,Starz Entertainment Corp /Cn/,Hirsch Jeffrey,"Pres, CEO",P - Purchase,24.80,10000,556111,+2%,248000,False
+2026-08-11,16:28,2026-08-10,SNEX,Stonex Group Inc.,Thamodaran Dhamu R.,Dir,P - Purchase,64.48,2500,81408,+3%,161206,False
+2026-08-11,16:27,2026-08-07,LILA,Liberty Latin America Ltd.,Malone John C,"Director Emeritus, 10%",P - Purchase,13.38,217032,7666016,+3%,2904772,False
+2026-08-11,16:27,2026-08-07,MGY,Magnolia Oil & Gas Corp,Ropp Ralph Lewis,Dir,P - Purchase,24.63,5000,26007,+24%,123125,True
+2026-08-11,16:25,2026-08-07,MGY,Magnolia Oil & Gas Corp,Khani David M.,Dir,P - Purchase,25.00,8000,30622,+35%,200000,True
+2026-08-11,16:21,2026-08-11,SMRT,"Smartrent, Inc.",Pinczuk Ana G.,Dir,P - Purchase,1.43,107000,385704,+38%,152625,False
+2026-08-11,16:20,2026-08-10,HOG,"Harley-Davidson, Inc.",Starrs Artie,"Pres, CEO",P - Purchase,25.89,10000,25000,+67%,258941,True
+2026-08-11,16:16,2026-08-10,SRI,Stoneridge Inc,Noblet Natalia,"Pres, CEO",P - Purchase,7.31,5000,5000,New,36550,False
+2026-08-11,16:15,2026-08-10,LITB,"Lightinthebox Holding Co., Ltd.",He Jian,"CEO, 10%",P - Purchase,0.26,4254553,4254553,New,1092144,False
+2026-08-11,16:15,2026-08-07,SUNS,"Sunrise Realty Trust, Inc.",Tannenbaum Leonard M,"Exec COB, 10%",P - Purchase,7.76,48109,3779874,+1%,373383,False
+2026-08-11,16:15,2026-08-07,FISV,Fiserv Inc,Fritz Lance M,Dir,P - Purchase,51.95,10000,27207,+58%,519500,False
+2026-08-11,16:10,2026-08-07,CC,Chemours Co,Cowan Alister,Dir,P - Purchase,15.62,13000,56988,+30%,203060,True
+2026-08-11,16:10,2026-08-07,CC,Chemours Co,Foley Michael Robert,See Remarks,P - Purchase,15.51,1934,0,-100%,30000,True
+2026-08-11,16:10,2026-08-07,CC,Chemours Co,Cranston Mary B,Dir,P - Purchase,15.83,6000,113141,+6%,94950,True
+2026-08-11,16:10,2026-08-07,CC,Chemours Co,Martinko Joseph T.,See Remarks,P - Purchase,15.47,1940,55431,+4%,30009,True
+2026-08-11,16:05,2026-08-10,APTV,Aptiv Plc,Clark Kevin P,"Chair, CEO",P - Purchase,48.89,51190,1378226,+4%,2502684,True
