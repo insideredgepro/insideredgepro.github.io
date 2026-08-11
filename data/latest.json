@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T12:43:04Z",
-  "trade_count": 9014,
+  "last_updated": "2026-08-11T14:13:37Z",
+  "trade_count": 9015,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -144225,6 +144225,22 @@
       "delta_own": "+4%",
       "value": "2520000",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-11",
+      "filing_time": "09:40",
+      "trade_date": "2026-08-07",
+      "ticker": "NVR",
+      "company": "Nvr Inc",
+      "insider_name": "Oliver George",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "6431.51",
+      "qty": "63",
+      "owned": "63",
+      "delta_own": "New",
+      "value": "405185",
+      "cluster_buy": false
     }
   ]
 }
