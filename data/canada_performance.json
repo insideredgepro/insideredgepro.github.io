@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-10",
-  "entry_count": 277,
+  "entry_count": 280,
   "entries": [
     {
       "id": "CA|PSIL.CN|2026-06-11|anthony, todd|1.01",
@@ -12082,6 +12082,66 @@
       },
       "latest_price": 16.15,
       "return_pct": 0.31,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "CA|BDI|2026-08-10|warren, daryle jonathan william|17.98",
+      "market": "CA",
+      "ticker": "BDI",
+      "yf_symbol": "BDI.TO",
+      "company": "Black Diamond Group Limited",
+      "insider_name": "Warren, Daryle Jonathan William",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-08-10",
+      "trade_price": 17.98,
+      "value": 17980.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-08-10": 17.99
+      },
+      "latest_price": 17.99,
+      "return_pct": 0.06,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "CA|JAY|2026-08-10|scott, robert james|0.7464",
+      "market": "CA",
+      "ticker": "JAY",
+      "yf_symbol": "JAY.V",
+      "company": "Blue Jay Gold Corp.",
+      "insider_name": "Scott, Robert James",
+      "title": "Senior Officer",
+      "trade_date": "2026-08-10",
+      "trade_price": 0.7464,
+      "value": 16794.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-08-10": 0.74
+      },
+      "latest_price": 0.74,
+      "return_pct": -0.86,
+      "last_snapshot": "2026-08-10"
+    },
+    {
+      "id": "CA|CUPA|2026-08-10|bosse, brian gerald|0.075",
+      "market": "CA",
+      "ticker": "CUPA",
+      "yf_symbol": "CUPA.CN",
+      "company": "Cupani Metals Corp.",
+      "insider_name": "Bosse, Brian Gerald",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-08-10",
+      "trade_price": 0.075,
+      "value": 15000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-08-10": 0.07
+      },
+      "latest_price": 0.07,
+      "return_pct": -6.67,
       "last_snapshot": "2026-08-10"
     }
   ]
