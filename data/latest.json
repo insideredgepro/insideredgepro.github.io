@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T18:48:22Z",
-  "trade_count": 9108,
+  "last_updated": "2026-08-11T19:55:13Z",
+  "trade_count": 9109,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -145728,6 +145728,22 @@
       "owned": "67125",
       "delta_own": "+4%",
       "value": "39794",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-11",
+      "filing_time": "15:49",
+      "trade_date": "2026-08-10",
+      "ticker": "CIA",
+      "company": "Citizens, Inc.",
+      "insider_name": "Stenberg Jon",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.99",
+      "qty": "50000",
+      "owned": "507674",
+      "delta_own": "+11%",
+      "value": "199630",
       "cluster_buy": false
     }
   ]
