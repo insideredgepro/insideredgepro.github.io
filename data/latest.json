@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T15:52:31Z",
-  "trade_count": 9104,
+  "last_updated": "2026-08-11T16:48:24Z",
+  "trade_count": 9105,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -136928,7 +136928,7 @@
       "owned": "57900",
       "delta_own": "+34%",
       "value": "138274",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-07-28",
@@ -145664,6 +145664,22 @@
       "owned": "1082855",
       "delta_own": "+38%",
       "value": "5100000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-11",
+      "filing_time": "11:02",
+      "trade_date": "2026-08-10",
+      "ticker": "KRNY",
+      "company": "Kearny Financial Corp.",
+      "insider_name": "Montanaro Leopold W",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "9.46",
+      "qty": "4773",
+      "owned": "270000",
+      "delta_own": "+2%",
+      "value": "45153",
       "cluster_buy": true
     }
   ]
