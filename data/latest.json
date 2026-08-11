@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T22:32:35Z",
-  "trade_count": 9173,
+  "last_updated": "2026-08-11T23:30:37Z",
+  "trade_count": 9176,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -146768,6 +146768,54 @@
       "owned": "9350000",
       "delta_own": "+3%",
       "value": "3487630",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-11",
+      "filing_time": "19:22",
+      "trade_date": "2026-08-07",
+      "ticker": "AMRC",
+      "company": "Ameresco, Inc.",
+      "insider_name": "Sakellaris George P",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "25.85",
+      "qty": "7000",
+      "owned": "2295597",
+      "delta_own": "0%",
+      "value": "180920",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-11",
+      "filing_time": "19:22",
+      "trade_date": "2026-08-10",
+      "ticker": "AMRC",
+      "company": "Ameresco, Inc.",
+      "insider_name": "Cox Brian C",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "25.07",
+      "qty": "39700",
+      "owned": "39700",
+      "delta_own": "New",
+      "value": "995279",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-11",
+      "filing_time": "18:42",
+      "trade_date": "2026-08-11",
+      "ticker": "HPP",
+      "company": "Hudson Pacific Properties, Inc.",
+      "insider_name": "Bortz Jon E",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "13.40",
+      "qty": "25000",
+      "owned": "35394",
+      "delta_own": "+241%",
+      "value": "335000",
       "cluster_buy": false
     }
   ]
