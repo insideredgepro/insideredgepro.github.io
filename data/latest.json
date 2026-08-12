@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T10:52:24Z",
-  "trade_count": 9180,
+  "last_updated": "2026-08-12T11:39:41Z",
+  "trade_count": 9183,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -146881,6 +146881,54 @@
       "delta_own": "+2%",
       "value": "873300",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-12",
+      "filing_time": "07:23",
+      "trade_date": "2026-08-10",
+      "ticker": "MTDR",
+      "company": "Matador Resources Co",
+      "insider_name": "Foran Joseph Wm",
+      "title": "COB, CEO",
+      "trade_type": "P - Purchase",
+      "price": "51.16",
+      "qty": "3839",
+      "owned": "5464275",
+      "delta_own": "0%",
+      "value": "196396",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-12",
+      "filing_time": "07:00",
+      "trade_date": "2026-08-10",
+      "ticker": "XRN",
+      "company": "Chiron Real Estate Inc.",
+      "insider_name": "Decker Mark Okey Jr",
+      "title": "CEO, Pres",
+      "trade_type": "P - Purchase",
+      "price": "35.88",
+      "qty": "8000",
+      "owned": "71178",
+      "delta_own": "+13%",
+      "value": "287040",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-12",
+      "filing_time": "07:00",
+      "trade_date": "2026-08-10",
+      "ticker": "XRN",
+      "company": "Chiron Real Estate Inc.",
+      "insider_name": "Fitzgerald Charles",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "35.94",
+      "qty": "27600",
+      "owned": "124893",
+      "delta_own": "+28%",
+      "value": "991944",
+      "cluster_buy": true
     }
   ]
 }
