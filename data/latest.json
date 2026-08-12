@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T16:47:40Z",
-  "trade_count": 9186,
+  "last_updated": "2026-08-12T17:51:42Z",
+  "trade_count": 9187,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -146976,6 +146976,22 @@
       "owned": "24535",
       "delta_own": "+1%",
       "value": "50278",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-12",
+      "filing_time": "13:36",
+      "trade_date": "2026-08-10",
+      "ticker": "MUNEX",
+      "company": "Blackrock Municipal Credit Alpha Portfolio, Inc.",
+      "insider_name": "Bank of America Corp /de/",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "12.29",
+      "qty": "12740",
+      "owned": "0",
+      "delta_own": "-100%",
+      "value": "156575",
       "cluster_buy": false
     }
   ]
