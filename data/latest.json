@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T12:46:00Z",
-  "trade_count": 9184,
+  "last_updated": "2026-08-12T14:14:39Z",
+  "trade_count": 9185,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -143648,7 +143648,7 @@
       "owned": "225206",
       "delta_own": "+2%",
       "value": "118000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-10",
@@ -146945,6 +146945,22 @@
       "delta_own": "0%",
       "value": "7725778",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-12",
+      "filing_time": "09:28",
+      "trade_date": "2026-08-10",
+      "ticker": "MATW",
+      "company": "Matthews International Corp",
+      "insider_name": "Nauman J Michael",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "22.97",
+      "qty": "2000",
+      "owned": "7081",
+      "delta_own": "+39%",
+      "value": "45940",
+      "cluster_buy": true
     }
   ]
 }
