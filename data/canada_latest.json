@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T22:00:28Z",
-  "trade_count": 3544,
+  "last_updated": "2026-08-12T03:45:26Z",
+  "trade_count": 3545,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -54253,6 +54253,22 @@
       "qty": "825500",
       "price": "0.3020",
       "value": "249301",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4763243",
+      "trade_date": "2026-08-11",
+      "filing_date": "2026-08-11",
+      "company": "Greenfire Resources Ltd.",
+      "ticker": "GFR",
+      "insider_name": "Germaniuk, Colin",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "3000",
+      "price": "9.2500",
+      "value": "27750",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
