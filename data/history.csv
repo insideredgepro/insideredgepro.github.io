@@ -9115,7 +9115,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-11,12:50,2026-08-10,BCML,Baycom Corp,Baron Christopher F,"Pres, CEO",P - Purchase,30.39,8250,9247,+827%,250718,True
 2026-08-11,14:44,2026-08-10,RMBI,"Richmond Mutual Bancorporation, Inc.",Jackson Jeffrey A.,Dir,P - Purchase,15.92,2500,67125,+4%,39794,False
 2026-08-11,15:49,2026-08-10,CIA,"Citizens, Inc.",Stenberg Jon,"Pres, CEO",P - Purchase,3.99,50000,507674,+11%,199630,False
-2026-08-11,16:29,2026-08-10,STRZ,Starz Entertainment Corp /Cn/,Hirsch Jeffrey,"Pres, CEO",P - Purchase,24.80,10000,556111,+2%,248000,False
+2026-08-11,16:29,2026-08-10,STRZ,Starz Entertainment Corp /Cn/,Hirsch Jeffrey,"Pres, CEO",P - Purchase,24.80,10000,556111,+2%,248000,True
 2026-08-11,16:28,2026-08-10,SNEX,Stonex Group Inc.,Thamodaran Dhamu R.,Dir,P - Purchase,64.48,2500,81408,+3%,161206,False
 2026-08-11,16:27,2026-08-07,LILA,Liberty Latin America Ltd.,Malone John C,"Director Emeritus, 10%",P - Purchase,13.38,217032,7666016,+3%,2904772,False
 2026-08-11,16:27,2026-08-07,MGY,Magnolia Oil & Gas Corp,Ropp Ralph Lewis,Dir,P - Purchase,24.63,5000,26007,+24%,123125,True
@@ -9186,7 +9186,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-11,20:30,2026-08-07,FEMY,Femasys Inc,Lee-Sepsick Kathy,CEO,P - Purchase,3.20,15625,15625,New,50000,True
 2026-08-11,20:19,2025-03-07,CAPS,Capstone Holding Corp.,Strout Gordon Lewis Jr,Dir,P - Purchase,4.00,41500,1363938,+3%,166000,True
 2026-08-11,20:04,2026-08-07,AXIA,Axia Energia S.A.,Batista De Lima Filho Pedro,Dir,P - Purchase,10.25,85200,4594434,+2%,873300,False
-2026-08-12,07:23,2026-08-10,MTDR,Matador Resources Co,Foran Joseph Wm,"COB, CEO",P - Purchase,51.16,3839,5464275,0%,196396,False
+2026-08-12,07:23,2026-08-10,MTDR,Matador Resources Co,Foran Joseph Wm,"COB, CEO",P - Purchase,51.16,3839,5464275,0%,196396,True
 2026-08-12,07:00,2026-08-10,XRN,Chiron Real Estate Inc.,Decker Mark Okey Jr,"CEO, Pres",P - Purchase,35.88,8000,71178,+13%,287040,True
 2026-08-12,07:00,2026-08-10,XRN,Chiron Real Estate Inc.,Fitzgerald Charles,Dir,P - Purchase,35.94,27600,124893,+28%,991944,True
 2026-08-12,07:40,2026-08-06,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,19.53,395580,84878300,0%,7725778,False
@@ -9210,3 +9210,14 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-12,16:05,2026-08-10,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,22.80,5000,60000,+9%,113980,False
 2026-08-12,16:04,2026-08-12,PFE,Pfizer Inc,Bourla Albert,"COB, CEO",P - Purchase,26.34,38000,435555,+10%,1000920,True
 2026-08-12,16:04,2026-08-11,APTV,Aptiv Plc,Mahoney Sean O,Dir,P - Purchase,50.24,11000,31514,+54%,552683,True
+2026-08-12,17:19,2026-08-06,APHP,American Picture House Corp,Battles Timothy Southgate,Dir,P - Purchase,0.10,500000,4932200,+11%,50000,False
+2026-08-12,17:08,2026-08-10,MTDR,Matador Resources Co,Elsener William Thomas,"EVP, Reservoir Engineering",P - Purchase,50.94,850,114879,+1%,43299,True
+2026-08-12,17:04,2026-08-10,STWI,Stagewise Strategies Corp.,Artikkhodjaev Jakhongir Abidovich,10%,P - Purchase,0.14,3000000,4000000,+300%,414000,False
+2026-08-12,16:58,2026-08-12,BBBY,"Bed Bath & Beyond, Inc.",Lemonis Marcus,"Exec COB, CEO",P - Purchase,4.30,23094,736232,+3%,99304,True
+2026-08-12,16:56,2026-08-11,Q,"Qnity Electronics, Inc.",De Bondt Karin,Dir,P - Purchase,138.14,1000,6647,+18%,138136,False
+2026-08-12,16:55,2026-08-10,VIA,"Via Transportation, Inc.",Dinur Arnon,Dir,P - Purchase,22.31,44780,6293371,+1%,998984,False
+2026-08-12,16:52,2026-08-11,SELF,"Global Self Storage, Inc.",Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,5.16,12135,159776,+8%,62601,False
+2026-08-12,16:46,2026-08-10,BLSM,"Blossomhill Therapeutics, Inc.",Gordon Carl L,Dir,P - Purchase,16.00,625000,2714279,+30%,10000000,True
+2026-08-12,16:43,2026-08-12,FUN,Six Flags Entertainment Corporation/New,Reilly John T,"Pres, CEO",P - Purchase,15.80,15713,297736,+6%,248265,False
+2026-08-12,16:43,2026-08-10,BLSM,"Blossomhill Therapeutics, Inc.",Orbimed Advisors LLC,Dir,P - Purchase,16.00,625000,2714279,+30%,10000000,True
+2026-08-12,16:35,2026-08-10,STRZ,Starz Entertainment Corp /Cn/,Kapenstein James M.,SEE REMARKS,P - Purchase,25.73,1000,12302,+9%,25730,True

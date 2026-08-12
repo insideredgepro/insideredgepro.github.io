@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-12",
-  "entry_count": 1337,
+  "entry_count": 1348,
   "entries": [
     {
       "id": "US|NEWT|2026-06-15|sloane barry|14.21",
@@ -49054,8 +49054,8 @@
         "2026-08-11": 20.48,
         "2026-08-12": 20.43
       },
-      "latest_price": 20.435,
-      "return_pct": -84.59,
+      "latest_price": 20.41,
+      "return_pct": -84.61,
       "last_snapshot": "2026-08-12"
     },
     {
@@ -51810,6 +51810,224 @@
       },
       "latest_price": 48.48,
       "return_pct": -3.5,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|APHP|2026-08-06|battles timothy southgate|0.1",
+      "market": "US",
+      "ticker": "APHP",
+      "yf_symbol": "APHP",
+      "company": "American Picture House Corp",
+      "insider_name": "Battles Timothy Southgate",
+      "title": "Dir",
+      "trade_date": "2026-08-06",
+      "trade_price": 0.1,
+      "value": 50000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 0.12
+      },
+      "latest_price": 0.12,
+      "return_pct": 20.0,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|MTDR|2026-08-10|elsener william thomas|50.94",
+      "market": "US",
+      "ticker": "MTDR",
+      "yf_symbol": "MTDR",
+      "company": "Matador Resources Co",
+      "insider_name": "Elsener William Thomas",
+      "title": "EVP, Reservoir Engineering",
+      "trade_date": "2026-08-10",
+      "trade_price": 50.94,
+      "value": 43299.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 52.51
+      },
+      "latest_price": 52.51,
+      "return_pct": 3.08,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|STWI|2026-08-10|artikkhodjaev jakhongir abidovich|0.14",
+      "market": "US",
+      "ticker": "STWI",
+      "yf_symbol": "STWI",
+      "company": "Stagewise Strategies Corp.",
+      "insider_name": "Artikkhodjaev Jakhongir Abidovich",
+      "title": "10%",
+      "trade_date": "2026-08-10",
+      "trade_price": 0.14,
+      "value": 414000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "US|BBBY|2026-08-12|lemonis marcus|4.3",
+      "market": "US",
+      "ticker": "BBBY",
+      "yf_symbol": "BBBY",
+      "company": "Bed Bath & Beyond, Inc.",
+      "insider_name": "Lemonis Marcus",
+      "title": "Exec COB, CEO",
+      "trade_date": "2026-08-12",
+      "trade_price": 4.3,
+      "value": 99304.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 4.23
+      },
+      "latest_price": 4.23,
+      "return_pct": -1.63,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|Q|2026-08-11|de bondt karin|138.14",
+      "market": "US",
+      "ticker": "Q",
+      "yf_symbol": "Q",
+      "company": "Qnity Electronics, Inc.",
+      "insider_name": "De Bondt Karin",
+      "title": "Dir",
+      "trade_date": "2026-08-11",
+      "trade_price": 138.14,
+      "value": 138136.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 142.08
+      },
+      "latest_price": 142.08,
+      "return_pct": 2.85,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|VIA|2026-08-10|dinur arnon|22.31",
+      "market": "US",
+      "ticker": "VIA",
+      "yf_symbol": "VIA",
+      "company": "Via Transportation, Inc.",
+      "insider_name": "Dinur Arnon",
+      "title": "Dir",
+      "trade_date": "2026-08-10",
+      "trade_price": 22.31,
+      "value": 998984.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 25.05
+      },
+      "latest_price": 25.05,
+      "return_pct": 12.28,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|SELF|2026-08-11|winmill & co. inc|5.16",
+      "market": "US",
+      "ticker": "SELF",
+      "yf_symbol": "SELF",
+      "company": "Global Self Storage, Inc.",
+      "insider_name": "Winmill & Co. Inc",
+      "title": "See \"Explanation of Responses\"",
+      "trade_date": "2026-08-11",
+      "trade_price": 5.16,
+      "value": 62601.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 5.13
+      },
+      "latest_price": 5.13,
+      "return_pct": -0.58,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|BLSM|2026-08-10|gordon carl l|16.0",
+      "market": "US",
+      "ticker": "BLSM",
+      "yf_symbol": "BLSM",
+      "company": "Blossomhill Therapeutics, Inc.",
+      "insider_name": "Gordon Carl L",
+      "title": "Dir",
+      "trade_date": "2026-08-10",
+      "trade_price": 16.0,
+      "value": 10000000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 16.24
+      },
+      "latest_price": 16.24,
+      "return_pct": 1.5,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|FUN|2026-08-12|reilly john t|15.8",
+      "market": "US",
+      "ticker": "FUN",
+      "yf_symbol": "FUN",
+      "company": "Six Flags Entertainment Corporation/New",
+      "insider_name": "Reilly John T",
+      "title": "Pres, CEO",
+      "trade_date": "2026-08-12",
+      "trade_price": 15.8,
+      "value": 248265.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 16.44
+      },
+      "latest_price": 16.44,
+      "return_pct": 4.05,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|BLSM|2026-08-10|orbimed advisors llc|16.0",
+      "market": "US",
+      "ticker": "BLSM",
+      "yf_symbol": "BLSM",
+      "company": "Blossomhill Therapeutics, Inc.",
+      "insider_name": "Orbimed Advisors LLC",
+      "title": "Dir",
+      "trade_date": "2026-08-10",
+      "trade_price": 16.0,
+      "value": 10000000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 16.24
+      },
+      "latest_price": 16.24,
+      "return_pct": 1.5,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|STRZ|2026-08-10|kapenstein james m.|25.73",
+      "market": "US",
+      "ticker": "STRZ",
+      "yf_symbol": "STRZ",
+      "company": "Starz Entertainment Corp /Cn/",
+      "insider_name": "Kapenstein James M.",
+      "title": "SEE REMARKS",
+      "trade_date": "2026-08-10",
+      "trade_price": 25.73,
+      "value": 25730.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 25.01
+      },
+      "latest_price": 25.01,
+      "return_pct": -2.8,
       "last_snapshot": "2026-08-12"
     }
   ]
