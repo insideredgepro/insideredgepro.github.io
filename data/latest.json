@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T23:30:37Z",
-  "trade_count": 9176,
+  "last_updated": "2026-08-12T01:08:57Z",
+  "trade_count": 9180,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -146816,6 +146816,70 @@
       "owned": "35394",
       "delta_own": "+241%",
       "value": "335000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-11",
+      "filing_time": "20:37",
+      "trade_date": "2026-08-07",
+      "ticker": "FEMY",
+      "company": "Femasys Inc",
+      "insider_name": "Elefant Dov",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "3.20",
+      "qty": "15625",
+      "owned": "15625",
+      "delta_own": "New",
+      "value": "50000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-11",
+      "filing_time": "20:30",
+      "trade_date": "2026-08-07",
+      "ticker": "FEMY",
+      "company": "Femasys Inc",
+      "insider_name": "Lee-Sepsick Kathy",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.20",
+      "qty": "15625",
+      "owned": "15625",
+      "delta_own": "New",
+      "value": "50000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-11",
+      "filing_time": "20:19",
+      "trade_date": "2025-03-07",
+      "ticker": "CAPS",
+      "company": "Capstone Holding Corp.",
+      "insider_name": "Strout Gordon Lewis Jr",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.00",
+      "qty": "41500",
+      "owned": "1363938",
+      "delta_own": "+3%",
+      "value": "166000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-11",
+      "filing_time": "20:04",
+      "trade_date": "2026-08-07",
+      "ticker": "AXIA",
+      "company": "Axia Energia S.A.",
+      "insider_name": "Batista De Lima Filho Pedro",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "10.25",
+      "qty": "85200",
+      "owned": "4594434",
+      "delta_own": "+2%",
+      "value": "873300",
       "cluster_buy": false
     }
   ]
