@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T14:14:39Z",
-  "trade_count": 9185,
+  "last_updated": "2026-08-12T15:52:03Z",
+  "trade_count": 9186,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -146961,6 +146961,22 @@
       "delta_own": "+39%",
       "value": "45940",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-12",
+      "filing_time": "10:54",
+      "trade_date": "2026-08-11",
+      "ticker": "ATO",
+      "company": "Atmos Energy Corp",
+      "insider_name": "Ware William James",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "167.59",
+      "qty": "300",
+      "owned": "24535",
+      "delta_own": "+1%",
+      "value": "50278",
+      "cluster_buy": false
     }
   ]
 }
