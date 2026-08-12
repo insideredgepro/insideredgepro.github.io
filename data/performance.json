@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-12",
-  "entry_count": 1348,
+  "entry_count": 1353,
   "entries": [
     {
       "id": "US|NEWT|2026-06-15|sloane barry|14.21",
@@ -49054,8 +49054,8 @@
         "2026-08-11": 20.48,
         "2026-08-12": 20.43
       },
-      "latest_price": 20.41,
-      "return_pct": -84.61,
+      "latest_price": 20.435,
+      "return_pct": -84.59,
       "last_snapshot": "2026-08-12"
     },
     {
@@ -52028,6 +52028,106 @@
       },
       "latest_price": 25.01,
       "return_pct": -2.8,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|VIA|2026-08-11|peres nechemia jacob|24.74",
+      "market": "US",
+      "ticker": "VIA",
+      "yf_symbol": "VIA",
+      "company": "Via Transportation, Inc.",
+      "insider_name": "Peres Nechemia Jacob",
+      "title": "Dir",
+      "trade_date": "2026-08-11",
+      "trade_price": 24.74,
+      "value": 249370.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 25.05
+      },
+      "latest_price": 25.05,
+      "return_pct": 1.25,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|ALTO|2026-08-11|nathan gilbert e|4.15",
+      "market": "US",
+      "ticker": "ALTO",
+      "yf_symbol": "ALTO",
+      "company": "Alto Ingredients, Inc.",
+      "insider_name": "Nathan Gilbert E",
+      "title": "Dir",
+      "trade_date": "2026-08-11",
+      "trade_price": 4.15,
+      "value": 207500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 4.06
+      },
+      "latest_price": 4.06,
+      "return_pct": -2.17,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|BX|2026-08-10|porat ruth|137.2",
+      "market": "US",
+      "ticker": "BX",
+      "yf_symbol": "BX",
+      "company": "Blackstone Inc.",
+      "insider_name": "Porat Ruth",
+      "title": "Dir",
+      "trade_date": "2026-08-10",
+      "trade_price": 137.2,
+      "value": 62445.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 146.41
+      },
+      "latest_price": 146.41,
+      "return_pct": 6.71,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|ACDC|2026-08-10|wilks matthew|5.02",
+      "market": "US",
+      "ticker": "ACDC",
+      "yf_symbol": "ACDC",
+      "company": "Profrac Holding Corp.",
+      "insider_name": "Wilks Matthew",
+      "title": "CEO",
+      "trade_date": "2026-08-10",
+      "trade_price": 5.02,
+      "value": 401851.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 5.14
+      },
+      "latest_price": 5.14,
+      "return_pct": 2.39,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|BDSX|2026-08-10|schuler jack w|24.13",
+      "market": "US",
+      "ticker": "BDSX",
+      "yf_symbol": "BDSX",
+      "company": "Biodesix Inc",
+      "insider_name": "Schuler Jack W",
+      "title": "Emeritus Director, 10%",
+      "trade_date": "2026-08-10",
+      "trade_price": 24.13,
+      "value": 665940.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 24.22
+      },
+      "latest_price": 24.22,
+      "return_pct": 0.37,
       "last_snapshot": "2026-08-12"
     }
   ]

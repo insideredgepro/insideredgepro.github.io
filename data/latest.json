@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T21:35:51Z",
-  "trade_count": 9215,
+  "last_updated": "2026-08-12T22:30:42Z",
+  "trade_count": 9220,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -147360,7 +147360,7 @@
       "owned": "6293371",
       "delta_own": "+1%",
       "value": "998984",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-12",
@@ -147441,6 +147441,86 @@
       "delta_own": "+9%",
       "value": "25730",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-12",
+      "filing_time": "18:27",
+      "trade_date": "2026-08-11",
+      "ticker": "VIA",
+      "company": "Via Transportation, Inc.",
+      "insider_name": "Peres Nechemia Jacob",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "24.74",
+      "qty": "10080",
+      "owned": "5172631",
+      "delta_own": "0%",
+      "value": "249370",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-12",
+      "filing_time": "18:17",
+      "trade_date": "2026-08-11",
+      "ticker": "ALTO",
+      "company": "Alto Ingredients, Inc.",
+      "insider_name": "Nathan Gilbert E",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.15",
+      "qty": "50000",
+      "owned": "887593",
+      "delta_own": "+6%",
+      "value": "207500",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-12",
+      "filing_time": "18:03",
+      "trade_date": "2026-08-10",
+      "ticker": "BX",
+      "company": "Blackstone Inc.",
+      "insider_name": "Porat Ruth",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "137.20",
+      "qty": "455",
+      "owned": "51220",
+      "delta_own": "+1%",
+      "value": "62445",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-12",
+      "filing_time": "18:00",
+      "trade_date": "2026-08-10",
+      "ticker": "ACDC",
+      "company": "Profrac Holding Corp.",
+      "insider_name": "Wilks Matthew",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "5.02",
+      "qty": "80000",
+      "owned": "2290224",
+      "delta_own": "+4%",
+      "value": "401851",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-12",
+      "filing_time": "17:55",
+      "trade_date": "2026-08-10",
+      "ticker": "BDSX",
+      "company": "Biodesix Inc",
+      "insider_name": "Schuler Jack W",
+      "title": "Emeritus Director, 10%",
+      "trade_type": "P - Purchase",
+      "price": "24.13",
+      "qty": "27600",
+      "owned": "2340810",
+      "delta_own": "+1%",
+      "value": "665940",
+      "cluster_buy": false
     }
   ]
 }
