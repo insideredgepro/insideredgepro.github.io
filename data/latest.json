@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T18:49:48Z",
-  "trade_count": 9188,
+  "last_updated": "2026-08-12T19:56:28Z",
+  "trade_count": 9190,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -147009,6 +147009,38 @@
       "delta_own": "+2%",
       "value": "43795",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-12",
+      "filing_time": "15:00",
+      "trade_date": "2026-08-11",
+      "ticker": "AVBC",
+      "company": "Avidia Bancorp, Inc.",
+      "insider_name": "Saul Kennedy O",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "21.65",
+      "qty": "5900",
+      "owned": "10050",
+      "delta_own": "+142%",
+      "value": "127733",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-12",
+      "filing_time": "14:59",
+      "trade_date": "2026-08-11",
+      "ticker": "AVBC",
+      "company": "Avidia Bancorp, Inc.",
+      "insider_name": "Grimaldo Joseph F",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "21.44",
+      "qty": "4655",
+      "owned": "64655",
+      "delta_own": "+8%",
+      "value": "99786",
+      "cluster_buy": true
     }
   ]
 }
