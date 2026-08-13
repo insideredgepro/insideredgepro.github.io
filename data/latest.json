@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T18:50:23Z",
-  "trade_count": 9255,
+  "last_updated": "2026-08-13T19:51:51Z",
+  "trade_count": 9256,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -148081,6 +148081,22 @@
       "delta_own": "+70%",
       "value": "223848",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-13",
+      "filing_time": "14:48",
+      "trade_date": "2026-08-12",
+      "ticker": "ATMU",
+      "company": "Atmus Filtration Technologies Inc.",
+      "insider_name": "Macadam Stephen E.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "49.78",
+      "qty": "2000",
+      "owned": "40588",
+      "delta_own": "+5%",
+      "value": "99551",
+      "cluster_buy": false
     }
   ]
 }
