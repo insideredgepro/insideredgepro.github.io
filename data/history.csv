@@ -9204,10 +9204,10 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-12,16:15,2026-08-11,CHCT,Community Healthcare Trust Inc,Hensley Robert Z,Dir,P - Purchase,15.21,8000,103702,+8%,121680,False
 2026-08-12,16:15,2026-08-10,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10%,P - Purchase,215.57,501664,111305646,0%,108145762,False
 2026-08-12,16:13,2026-08-12,WES,"Western Midstream Partners, LP",Forthuber Frederick A.,Dir,P - Purchase,48.62,5140,5140,New,249907,False
-2026-08-12,16:11,2026-08-11,CE,Celanese Corp,Murray Mark Christopher,SVP - Acetyls,P - Purchase,45.52,2153,30432,+8%,98004,False
+2026-08-12,16:11,2026-08-11,CE,Celanese Corp,Murray Mark Christopher,SVP - Acetyls,P - Purchase,45.52,2153,30432,+8%,98004,True
 2026-08-12,16:07,2026-08-11,BXSY,Bexil Investment Trust,Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,17.95,10250,306432,+3%,183988,False
 2026-08-12,16:06,2026-08-11,AME,Ametek Inc/,Stanage Nick L,Dir,P - Purchase,255.85,4000,4760,+526%,1023400,False
-2026-08-12,16:05,2026-08-10,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,22.80,5000,60000,+9%,113980,False
+2026-08-12,16:05,2026-08-10,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,22.80,5000,60000,+9%,113980,True
 2026-08-12,16:04,2026-08-12,PFE,Pfizer Inc,Bourla Albert,"COB, CEO",P - Purchase,26.34,38000,435555,+10%,1000920,True
 2026-08-12,16:04,2026-08-11,APTV,Aptiv Plc,Mahoney Sean O,Dir,P - Purchase,50.24,11000,31514,+54%,552683,True
 2026-08-12,17:19,2026-08-06,APHP,American Picture House Corp,Battles Timothy Southgate,Dir,P - Purchase,0.10,500000,4932200,+11%,50000,False
@@ -9262,3 +9262,13 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-13,10:47,2026-08-12,EMBC,Embecta Corp.,Mann Jeffrey Z,"Pres, Pharm Svc, Prod Mgmt, CL",P - Purchase,4.99,20000,262915,+8%,99800,True
 2026-08-13,10:45,2026-08-12,EMBC,Embecta Corp.,Hombach Robert J.,Dir,P - Purchase,4.97,45000,109587,+70%,223848,True
 2026-08-13,14:48,2026-08-12,ATMU,Atmus Filtration Technologies Inc.,Macadam Stephen E.,Dir,P - Purchase,49.78,2000,40588,+5%,99551,False
+2026-08-13,16:30,2026-08-11,RM,Regional Management Corp.,Lamba Lakhbir S.,"Pres, CEO",P - Purchase,31.65,10000,55734,+22%,316495,False
+2026-08-13,16:28,2026-08-12,ELAN,Elanco Animal Health Inc,Harrington Michael J,Dir,P - Purchase,21.82,5000,131451,+4%,109100,True
+2026-08-13,16:26,2026-08-11,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,10.01,26082,951042,+3%,261199,False
+2026-08-13,16:23,2026-08-12,TNC,Tennant Co,Mulligan Donal L,Dir,P - Purchase,67.34,8000,38175,+27%,538720,True
+2026-08-13,16:22,2026-08-12,TNC,Tennant Co,Morse Timothy R.,Dir,P - Purchase,68.18,1500,10614,+16%,102270,True
+2026-08-13,16:16,2026-08-11,SUNS,"Sunrise Realty Trust, Inc.",Tannenbaum Leonard M,"Exec COB, 10%",P - Purchase,7.60,20000,3799874,+1%,152000,False
+2026-08-13,16:08,2026-08-11,AMH,American Homes 4 Rent,Benham Douglas N,Dir,P - Purchase,23.14,4000,79669,+5%,92555,True
+2026-08-13,16:06,2026-08-12,BW,"Babcock & Wilcox Enterprises, Inc.",Young Kenneth M,CEO,P - Purchase,9.65,7000,1982021,0%,67550,False
+2026-08-13,16:05,2026-08-13,ALT,"Altimmune, Inc.",Durso Jerome Benedict,"Pres, CEO",P - Purchase,2.95,15000,62500,+32%,44250,False
+2026-08-13,16:01,2026-08-11,CE,Celanese Corp,Duffie Ashley B,"SVP, GC",P - Purchase,45.60,600,32616,+2%,27360,True
