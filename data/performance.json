@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-12",
-  "entry_count": 1363,
+  "entry_count": 1367,
   "entries": [
     {
       "id": "US|NEWT|2026-06-15|sloane barry|14.21",
@@ -52316,6 +52316,86 @@
       },
       "latest_price": 25.71,
       "return_pct": 2.84,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|UA|2026-08-11|taleghani reza|5.37",
+      "market": "US",
+      "ticker": "UA",
+      "yf_symbol": "UA",
+      "company": "Under Armour, Inc.",
+      "insider_name": "Taleghani Reza",
+      "title": "CFO",
+      "trade_date": "2026-08-11",
+      "trade_price": 5.37,
+      "value": 100181.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 5.12
+      },
+      "latest_price": 5.12,
+      "return_pct": -4.66,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|OPFI|2026-08-12|schwartz todd g.|7.05",
+      "market": "US",
+      "ticker": "OPFI",
+      "yf_symbol": "OPFI",
+      "company": "Oppfi Inc.",
+      "insider_name": "Schwartz Todd G.",
+      "title": "CEO, 10%",
+      "trade_date": "2026-08-12",
+      "trade_price": 7.05,
+      "value": 422988.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 6.86
+      },
+      "latest_price": 6.86,
+      "return_pct": -2.7,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|UTI|2026-08-10|devincenzi robert thomas|28.21",
+      "market": "US",
+      "ticker": "UTI",
+      "yf_symbol": "UTI",
+      "company": "Universal Technical Institute Inc",
+      "insider_name": "Devincenzi Robert Thomas",
+      "title": "Dir",
+      "trade_date": "2026-08-10",
+      "trade_price": 28.21,
+      "value": 225676.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 25.64
+      },
+      "latest_price": 25.64,
+      "return_pct": -9.11,
+      "last_snapshot": "2026-08-12"
+    },
+    {
+      "id": "US|VISN|2026-08-10|gilstrap charles a|10.75",
+      "market": "US",
+      "ticker": "VISN",
+      "yf_symbol": "VISN",
+      "company": "Vistance Networks, Inc.",
+      "insider_name": "Gilstrap Charles A",
+      "title": "SVP, Treasury, Tax, CAO",
+      "trade_date": "2026-08-10",
+      "trade_price": 10.75,
+      "value": 107500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-12": 11.58
+      },
+      "latest_price": 11.58,
+      "return_pct": 7.72,
       "last_snapshot": "2026-08-12"
     }
   ]
