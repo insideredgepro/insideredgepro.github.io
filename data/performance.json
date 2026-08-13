@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-13",
-  "entry_count": 1398,
+  "entry_count": 1408,
   "entries": [
     {
       "id": "US|NEWT|2026-06-15|sloane barry|14.21",
@@ -53947,6 +53947,206 @@
       },
       "latest_price": 44.3,
       "return_pct": -2.85,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|CC|2026-08-12|familiar calderon gerardo|15.53",
+      "market": "US",
+      "ticker": "CC",
+      "yf_symbol": "CC",
+      "company": "Chemours Co",
+      "insider_name": "Familiar Calderon Gerardo",
+      "title": "See Remarks",
+      "trade_date": "2026-08-12",
+      "trade_price": 15.53,
+      "value": 30051.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 15.26
+      },
+      "latest_price": 15.26,
+      "return_pct": -1.74,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|CEG|2026-08-11|crandall roger w|278.62",
+      "market": "US",
+      "ticker": "CEG",
+      "yf_symbol": "CEG",
+      "company": "Constellation Energy Corp",
+      "insider_name": "Crandall Roger W",
+      "title": "Dir",
+      "trade_date": "2026-08-11",
+      "trade_price": 278.62,
+      "value": 417931.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 278.64
+      },
+      "latest_price": 278.64,
+      "return_pct": 0.01,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|BDSX|2026-08-12|schuler jack w|24.47",
+      "market": "US",
+      "ticker": "BDSX",
+      "yf_symbol": "BDSX",
+      "company": "Biodesix Inc",
+      "insider_name": "Schuler Jack W",
+      "title": "Emeritus Director, 10%",
+      "trade_date": "2026-08-12",
+      "trade_price": 24.47,
+      "value": 366992.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 23.79
+      },
+      "latest_price": 23.79,
+      "return_pct": -2.78,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|CC|2026-08-11|dignam denise|14.95",
+      "market": "US",
+      "ticker": "CC",
+      "yf_symbol": "CC",
+      "company": "Chemours Co",
+      "insider_name": "Dignam Denise",
+      "title": "CEO",
+      "trade_date": "2026-08-11",
+      "trade_price": 14.95,
+      "value": 50501.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 15.26
+      },
+      "latest_price": 15.26,
+      "return_pct": 2.07,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|MTCH|2026-08-11|schiffman glenn|36.63",
+      "market": "US",
+      "ticker": "MTCH",
+      "yf_symbol": "MTCH",
+      "company": "Match Group, Inc.",
+      "insider_name": "Schiffman Glenn",
+      "title": "Dir",
+      "trade_date": "2026-08-11",
+      "trade_price": 36.63,
+      "value": 109890.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 37.28
+      },
+      "latest_price": 37.28,
+      "return_pct": 1.77,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|BRK.B|2026-08-12|o'sullivan michael j.|512.44",
+      "market": "US",
+      "ticker": "BRK.B",
+      "yf_symbol": "BRK.B",
+      "company": "Berkshire Hathaway Inc",
+      "insider_name": "O'Sullivan Michael J.",
+      "title": "See Remarks",
+      "trade_date": "2026-08-12",
+      "trade_price": 512.44,
+      "value": 250072.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 510
+      },
+      "latest_price": 510,
+      "return_pct": -0.48,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|MBGL|2026-08-11|peek mark s|19.61",
+      "market": "US",
+      "ticker": "MBGL",
+      "yf_symbol": "MBGL",
+      "company": "Mobility Global Inc.",
+      "insider_name": "Peek Mark S",
+      "title": "Dir",
+      "trade_date": "2026-08-11",
+      "trade_price": 19.61,
+      "value": 980566.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 19.83
+      },
+      "latest_price": 19.83,
+      "return_pct": 1.12,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|KMPR|2026-08-13|mcanena stephen j|26.5",
+      "market": "US",
+      "ticker": "KMPR",
+      "yf_symbol": "KMPR",
+      "company": "Kemper Corp",
+      "insider_name": "McAnena Stephen J",
+      "title": "Pres, CEO",
+      "trade_date": "2026-08-13",
+      "trade_price": 26.5,
+      "value": 79500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 26.91
+      },
+      "latest_price": 26.91,
+      "return_pct": 1.55,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|PAR|2026-08-12|singh narinder|17.36",
+      "market": "US",
+      "ticker": "PAR",
+      "yf_symbol": "PAR",
+      "company": "Par Technology Corp",
+      "insider_name": "Singh Narinder",
+      "title": "Dir",
+      "trade_date": "2026-08-12",
+      "trade_price": 17.36,
+      "value": 199950.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 18.61
+      },
+      "latest_price": 18.61,
+      "return_pct": 7.2,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|HOG|2026-08-11|littleton gayle|26.38",
+      "market": "US",
+      "ticker": "HOG",
+      "yf_symbol": "HOG",
+      "company": "Harley-Davidson, Inc.",
+      "insider_name": "Littleton Gayle",
+      "title": "CLO, CCO, CAO, Corp Sec",
+      "trade_date": "2026-08-11",
+      "trade_price": 26.38,
+      "value": 197850.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 27.85
+      },
+      "latest_price": 27.85,
+      "return_pct": 5.57,
       "last_snapshot": "2026-08-13"
     }
   ]
