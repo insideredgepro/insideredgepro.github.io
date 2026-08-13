@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T10:53:52Z",
-  "trade_count": 9241,
+  "last_updated": "2026-08-13T11:40:31Z",
+  "trade_count": 9245,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -147856,6 +147856,70 @@
       "owned": "5779973",
       "delta_own": "0%",
       "value": "249978",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-13",
+      "filing_time": "07:00",
+      "trade_date": "2026-08-11",
+      "ticker": "XRN",
+      "company": "Chiron Real Estate Inc.",
+      "insider_name": "Fitzgerald Charles",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "35.78",
+      "qty": "14000",
+      "owned": "138893",
+      "delta_own": "+11%",
+      "value": "500920",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-13",
+      "filing_time": "07:00",
+      "trade_date": "2026-08-11",
+      "ticker": "EVGN",
+      "company": "Evogene Ltd.",
+      "insider_name": "Recanati Leon",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.64",
+      "qty": "460000",
+      "owned": "1343886",
+      "delta_own": "+52%",
+      "value": "292100",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-13",
+      "filing_time": "06:57",
+      "trade_date": "2026-08-11",
+      "ticker": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "19.93",
+      "qty": "592320",
+      "owned": "85470620",
+      "delta_own": "+1%",
+      "value": "11804395",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-13",
+      "filing_time": "06:53",
+      "trade_date": "2026-08-12",
+      "ticker": "BTDR",
+      "company": "Bitdeer Technologies Group",
+      "insider_name": "Potter Michael G",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "9.04",
+      "qty": "25000",
+      "owned": "25000",
+      "delta_own": "New",
+      "value": "226000",
       "cluster_buy": false
     }
   ]
