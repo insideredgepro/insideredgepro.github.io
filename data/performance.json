@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-13",
-  "entry_count": 1409,
+  "entry_count": 1413,
   "entries": [
     {
       "id": "US|NEWT|2026-06-15|sloane barry|14.21",
@@ -24530,8 +24530,8 @@
         "2026-08-12": 10.29,
         "2026-08-13": 9.53
       },
-      "latest_price": 9.59,
-      "return_pct": -6.53,
+      "latest_price": 9.56,
+      "return_pct": -6.82,
       "last_snapshot": "2026-08-13"
     },
     {
@@ -35665,8 +35665,8 @@
         "2026-08-12": 10.29,
         "2026-08-13": 9.53
       },
-      "latest_price": 9.59,
-      "return_pct": -0.83,
+      "latest_price": 9.56,
+      "return_pct": -1.14,
       "last_snapshot": "2026-08-13"
     },
     {
@@ -52212,8 +52212,8 @@
         "2026-08-12": 10.29,
         "2026-08-13": 9.53
       },
-      "latest_price": 9.59,
-      "return_pct": -6.44,
+      "latest_price": 9.56,
+      "return_pct": -6.73,
       "last_snapshot": "2026-08-13"
     },
     {
@@ -54167,6 +54167,86 @@
       },
       "latest_price": 8.55,
       "return_pct": -59.15,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|DFH|2026-08-11|beckwitt richard|14.05",
+      "market": "US",
+      "ticker": "DFH",
+      "yf_symbol": "DFH",
+      "company": "Dream Finders Homes, Inc.",
+      "insider_name": "Beckwitt Richard",
+      "title": "Dir",
+      "trade_date": "2026-08-11",
+      "trade_price": 14.05,
+      "value": 1264740.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 14.84
+      },
+      "latest_price": 14.84,
+      "return_pct": 5.62,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|LILA|2026-08-11|malone john c|8.5",
+      "market": "US",
+      "ticker": "LILA",
+      "yf_symbol": "LILA",
+      "company": "Liberty Latin America Ltd.",
+      "insider_name": "Malone John C",
+      "title": "Director Emeritus, 10%",
+      "trade_date": "2026-08-11",
+      "trade_price": 8.5,
+      "value": 430913.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 8.55
+      },
+      "latest_price": 8.55,
+      "return_pct": 0.59,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|CODI|2026-08-12|keller stephen|12.01",
+      "market": "US",
+      "ticker": "CODI",
+      "yf_symbol": "CODI",
+      "company": "Compass Diversified Holdings",
+      "insider_name": "Keller Stephen",
+      "title": "See Remark (a)",
+      "trade_date": "2026-08-12",
+      "trade_price": 12.01,
+      "value": 120143.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 12.28
+      },
+      "latest_price": 12.28,
+      "return_pct": 2.25,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|CODI|2026-08-12|sawtelle zachary t.|12.09",
+      "market": "US",
+      "ticker": "CODI",
+      "yf_symbol": "CODI",
+      "company": "Compass Diversified Holdings",
+      "insider_name": "Sawtelle Zachary T.",
+      "title": "See Remark (a)",
+      "trade_date": "2026-08-12",
+      "trade_price": 12.09,
+      "value": 386808.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 12.28
+      },
+      "latest_price": 12.28,
+      "return_pct": 1.57,
       "last_snapshot": "2026-08-13"
     }
   ]

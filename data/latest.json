@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T22:32:03Z",
-  "trade_count": 9277,
+  "last_updated": "2026-08-13T23:32:19Z",
+  "trade_count": 9281,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -148432,6 +148432,70 @@
       "owned": "41192",
       "delta_own": "+73%",
       "value": "364695",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-13",
+      "filing_time": "18:48",
+      "trade_date": "2026-08-11",
+      "ticker": "DFH",
+      "company": "Dream Finders Homes, Inc.",
+      "insider_name": "Beckwitt Richard",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "14.05",
+      "qty": "90000",
+      "owned": "90000",
+      "delta_own": "New",
+      "value": "1264740",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-13",
+      "filing_time": "18:46",
+      "trade_date": "2026-08-11",
+      "ticker": "LILA",
+      "company": "Liberty Latin America Ltd.",
+      "insider_name": "Malone John C",
+      "title": "Director Emeritus, 10%",
+      "trade_type": "P - Purchase",
+      "price": "8.50",
+      "qty": "50696",
+      "owned": "3954066",
+      "delta_own": "+1%",
+      "value": "430913",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-13",
+      "filing_time": "18:32",
+      "trade_date": "2026-08-12",
+      "ticker": "CODI",
+      "company": "Compass Diversified Holdings",
+      "insider_name": "Keller Stephen",
+      "title": "See Remark (a)",
+      "trade_type": "P - Purchase",
+      "price": "12.01",
+      "qty": "10000",
+      "owned": "51840",
+      "delta_own": "+24%",
+      "value": "120143",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-13",
+      "filing_time": "18:31",
+      "trade_date": "2026-08-12",
+      "ticker": "CODI",
+      "company": "Compass Diversified Holdings",
+      "insider_name": "Sawtelle Zachary T.",
+      "title": "See Remark (a)",
+      "trade_type": "P - Purchase",
+      "price": "12.09",
+      "qty": "32000",
+      "owned": "65216",
+      "delta_own": "+96%",
+      "value": "386808",
       "cluster_buy": true
     }
   ]
