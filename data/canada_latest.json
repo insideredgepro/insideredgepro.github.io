@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T22:00:20Z",
-  "trade_count": 3550,
+  "last_updated": "2026-08-13T03:45:24Z",
+  "trade_count": 3551,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -54349,6 +54349,22 @@
       "qty": "25000",
       "price": "2.5800",
       "value": "64500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4763582",
+      "trade_date": "2026-08-12",
+      "filing_date": "2026-08-12",
+      "company": "Visionary Copper and Gold Mines Inc.",
+      "ticker": "VCG",
+      "insider_name": "Jennings, Ross",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "1.2400",
+      "value": "24800",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-12",
-  "entry_count": 276,
+  "entry_count": 277,
   "entries": [
     {
       "id": "CA|CDR|2026-06-15|streu, donald james|2.74",
@@ -11937,6 +11937,26 @@
       "latest_price": null,
       "return_pct": null,
       "last_snapshot": null
+    },
+    {
+      "id": "CA|VCG|2026-08-12|jennings, ross|1.24",
+      "market": "CA",
+      "ticker": "VCG",
+      "yf_symbol": "VCG.V",
+      "company": "Visionary Copper and Gold Mines Inc.",
+      "insider_name": "Jennings, Ross",
+      "title": "10% Holder",
+      "trade_date": "2026-08-12",
+      "trade_price": 1.24,
+      "value": 24800.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-08-12": 1.25
+      },
+      "latest_price": 1.25,
+      "return_pct": 0.81,
+      "last_snapshot": "2026-08-12"
     }
   ]
 }
