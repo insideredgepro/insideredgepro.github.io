@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-14",
-  "entry_count": 1450,
+  "entry_count": 1453,
   "entries": [
     {
       "id": "US|NEWT|2026-06-15|sloane barry|14.21",
@@ -55971,6 +55971,66 @@
       },
       "latest_price": 214.71,
       "return_pct": -0.51,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|ANGX|2026-08-12|sarowitz steven i|3.83",
+      "market": "US",
+      "ticker": "ANGX",
+      "yf_symbol": "ANGX",
+      "company": "Angel Studios, Inc.",
+      "insider_name": "Sarowitz Steven I",
+      "title": "Dir",
+      "trade_date": "2026-08-12",
+      "trade_price": 3.83,
+      "value": 1355594.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 4.37
+      },
+      "latest_price": 4.37,
+      "return_pct": 14.1,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|CLPR|2026-08-12|levinson sam|3.16",
+      "market": "US",
+      "ticker": "CLPR",
+      "yf_symbol": "CLPR",
+      "company": "Clipper Realty Inc.",
+      "insider_name": "Levinson Sam",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-12",
+      "trade_price": 3.16,
+      "value": 488796.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 3.34
+      },
+      "latest_price": 3.34,
+      "return_pct": 5.7,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|JCTC|2026-08-12|ajb investment fund ii, lp|2.9",
+      "market": "US",
+      "ticker": "JCTC",
+      "yf_symbol": "JCTC",
+      "company": "Jewett Cameron Trading Co Ltd",
+      "insider_name": "Ajb Investment Fund Ii, LP",
+      "title": "10%",
+      "trade_date": "2026-08-12",
+      "trade_price": 2.9,
+      "value": 49300.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 2.91
+      },
+      "latest_price": 2.91,
+      "return_pct": 0.34,
       "last_snapshot": "2026-08-14"
     }
   ]

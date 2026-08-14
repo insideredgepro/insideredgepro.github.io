@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T21:17:18Z",
-  "trade_count": 9318,
+  "last_updated": "2026-08-14T22:13:21Z",
+  "trade_count": 9321,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -149072,7 +149072,7 @@
       "owned": "55531",
       "delta_own": "+110%",
       "value": "125007",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-14",
@@ -149088,6 +149088,54 @@
       "owned": "111668606",
       "delta_own": "0%",
       "value": "78329177",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "18:05",
+      "trade_date": "2026-08-12",
+      "ticker": "ANGX",
+      "company": "Angel Studios, Inc.",
+      "insider_name": "Sarowitz Steven I",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.83",
+      "qty": "353815",
+      "owned": "683303",
+      "delta_own": "+107%",
+      "value": "1355594",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "17:46",
+      "trade_date": "2026-08-12",
+      "ticker": "CLPR",
+      "company": "Clipper Realty Inc.",
+      "insider_name": "Levinson Sam",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "3.16",
+      "qty": "154764",
+      "owned": "9135223",
+      "delta_own": "+2%",
+      "value": "488796",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "17:36",
+      "trade_date": "2026-08-12",
+      "ticker": "JCTC",
+      "company": "Jewett Cameron Trading Co Ltd",
+      "insider_name": "Ajb Investment Fund Ii, LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.90",
+      "qty": "16978",
+      "owned": "456350",
+      "delta_own": "+4%",
+      "value": "49300",
       "cluster_buy": false
     }
   ]
