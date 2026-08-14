@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T10:02:11Z",
-  "trade_count": 9289,
+  "last_updated": "2026-08-14T11:37:22Z",
+  "trade_count": 9290,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -143824,7 +143824,7 @@
       "owned": "39186",
       "delta_own": "+15%",
       "value": "100113",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-10",
@@ -148625,6 +148625,22 @@
       "delta_own": "0%",
       "value": "427680",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "06:54",
+      "trade_date": "2026-08-12",
+      "ticker": "GLXY",
+      "company": "Galaxy Digital Inc.",
+      "insider_name": "Deason Douglas R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "21.54",
+      "qty": "12000",
+      "owned": "102348",
+      "delta_own": "+13%",
+      "value": "258432",
+      "cluster_buy": true
     }
   ]
 }

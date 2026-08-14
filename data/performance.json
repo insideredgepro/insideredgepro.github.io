@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-14",
-  "entry_count": 1421,
+  "entry_count": 1422,
   "entries": [
     {
       "id": "US|NEWT|2026-06-15|sloane barry|14.21",
@@ -55389,6 +55389,26 @@
       },
       "latest_price": 7.13,
       "return_pct": 0.0,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|GLXY|2026-08-12|deason douglas r|21.54",
+      "market": "US",
+      "ticker": "GLXY",
+      "yf_symbol": "GLXY",
+      "company": "Galaxy Digital Inc.",
+      "insider_name": "Deason Douglas R",
+      "title": "Dir",
+      "trade_date": "2026-08-12",
+      "trade_price": 21.54,
+      "value": 258432.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 20.95
+      },
+      "latest_price": 20.95,
+      "return_pct": -2.74,
       "last_snapshot": "2026-08-14"
     }
   ]
