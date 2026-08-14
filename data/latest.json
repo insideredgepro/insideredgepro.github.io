@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T15:42:28Z",
-  "trade_count": 9296,
+  "last_updated": "2026-08-14T16:41:21Z",
+  "trade_count": 9300,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -148736,6 +148736,70 @@
       "owned": "479423",
       "delta_own": "+35%",
       "value": "501638",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "12:33",
+      "trade_date": "2026-08-12",
+      "ticker": "MSS",
+      "company": "Maison Solutions Inc.",
+      "insider_name": "Hrt Financial LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "1.41",
+      "qty": "30112",
+      "owned": "131242",
+      "delta_own": "+30%",
+      "value": "42608",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "12:17",
+      "trade_date": "2026-08-14",
+      "ticker": "SODI",
+      "company": "Solitron Devices Inc",
+      "insider_name": "Eriksen Howard Timothy",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "28.50",
+      "qty": "8000",
+      "owned": "332660",
+      "delta_own": "+2%",
+      "value": "228000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "12:04",
+      "trade_date": "2026-08-14",
+      "ticker": "ABCL",
+      "company": "Abcellera Biologics Inc.",
+      "insider_name": "Booth Andrew",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "10.32",
+      "qty": "37200",
+      "owned": "613759",
+      "delta_own": "+6%",
+      "value": "383904",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "11:50",
+      "trade_date": "2026-08-12",
+      "ticker": "ABCL",
+      "company": "Abcellera Biologics Inc.",
+      "insider_name": "Hayden Michael R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "10.37",
+      "qty": "46387",
+      "owned": "1438029",
+      "delta_own": "+3%",
+      "value": "481033",
       "cluster_buy": true
     }
   ]
