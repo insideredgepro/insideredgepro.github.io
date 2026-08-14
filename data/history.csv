@@ -9269,7 +9269,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-13,16:22,2026-08-12,TNC,Tennant Co,Morse Timothy R.,Dir,P - Purchase,68.18,1500,10614,+16%,102270,True
 2026-08-13,16:16,2026-08-11,SUNS,"Sunrise Realty Trust, Inc.",Tannenbaum Leonard M,"Exec COB, 10%",P - Purchase,7.60,20000,3799874,+1%,152000,False
 2026-08-13,16:08,2026-08-11,AMH,American Homes 4 Rent,Benham Douglas N,Dir,P - Purchase,23.14,4000,79669,+5%,92555,True
-2026-08-13,16:06,2026-08-12,BW,"Babcock & Wilcox Enterprises, Inc.",Young Kenneth M,CEO,P - Purchase,9.65,7000,1982021,0%,67550,False
+2026-08-13,16:06,2026-08-12,BW,"Babcock & Wilcox Enterprises, Inc.",Young Kenneth M,CEO,P - Purchase,9.65,7000,1982021,0%,67550,True
 2026-08-13,16:05,2026-08-13,ALT,"Altimmune, Inc.",Durso Jerome Benedict,"Pres, CEO",P - Purchase,2.95,15000,62500,+32%,44250,False
 2026-08-13,16:01,2026-08-11,CE,Celanese Corp,Duffie Ashley B,"SVP, GC",P - Purchase,45.60,600,32616,+2%,27360,True
 2026-08-13,17:25,2026-08-12,CC,Chemours Co,Familiar Calderon Gerardo,See Remarks,P - Purchase,15.53,1935,58547,+3%,30051,True
@@ -9309,3 +9309,11 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-14,13:23,2026-08-12,EMPD,Empery Digital Inc.,"Empery Asset Management, LP",10%,P - Purchase,2.91,1400000,4430345,+46%,4072090,False
 2026-08-14,14:01,2026-08-12,BPRN,"Princeton Bancorp, Inc.",Tuchman Martin,"Dir, 10%",P - Purchase,42.98,10534,792817,+1%,452730,False
 2026-08-14,13:44,2026-08-13,KEEL,Keel Infrastructure Corp.,Gagnon Benjamin,CEO,P - Purchase,3.33,58888,1347736,+5%,196097,False
+2026-08-14,16:15,2026-08-13,CODI,Compass Diversified Holdings,Enterline Larry L,See Remark (a),P - Purchase,12.42,67114,100000,+204%,833395,True
+2026-08-14,16:15,2026-08-12,ETN,Eaton Corp Plc,Johnson Gerald,Dir,P - Purchase,460.81,200,1829,+12%,92162,False
+2026-08-14,16:15,2026-08-12,CODI,Compass Diversified Holdings,Shaffer Teri,See Remark (a),P - Purchase,12.25,11881,27304,+77%,145555,True
+2026-08-14,16:14,2026-08-13,BW,"Babcock & Wilcox Enterprises, Inc.",Moeller Philip D,Dir,P - Purchase,9.50,5000,240809,+2%,47500,True
+2026-08-14,16:10,2026-08-13,FGBI,"First Guaranty Bancshares, Inc.",Walker Robert W,Dir,P - Purchase,8.40,5500,56621,+11%,46200,False
+2026-08-14,16:05,2026-08-12,SLGL,Sol-Gel Technologies Ltd.,Opaleye Management Inc.,10%,P - Purchase,71.50,951,509887,0%,67997,False
+2026-08-14,16:01,2026-08-12,QTRX,Quanterix Corp,Donnelly William P,Dir,P - Purchase,2.88,99400,99400,New,286354,False
+2026-08-14,16:01,2026-08-06,AHCO,Adapthealth Corp.,Wolf Dale B,Dir,P - Purchase,6.30,20000,177234,+13%,126000,True
