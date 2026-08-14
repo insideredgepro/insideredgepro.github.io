@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T16:41:21Z",
-  "trade_count": 9300,
+  "last_updated": "2026-08-14T17:45:32Z",
+  "trade_count": 9301,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -148801,6 +148801,22 @@
       "delta_own": "+3%",
       "value": "481033",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "13:23",
+      "trade_date": "2026-08-12",
+      "ticker": "EMPD",
+      "company": "Empery Digital Inc.",
+      "insider_name": "Empery Asset Management, LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.91",
+      "qty": "1400000",
+      "owned": "4430345",
+      "delta_own": "+46%",
+      "value": "4072090",
+      "cluster_buy": false
     }
   ]
 }
