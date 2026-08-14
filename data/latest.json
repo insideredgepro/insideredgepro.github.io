@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T01:09:13Z",
-  "trade_count": 9286,
+  "last_updated": "2026-08-14T03:57:16Z",
+  "trade_count": 9289,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -148577,6 +148577,54 @@
       "delta_own": "New",
       "value": "495855",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-13",
+      "filing_time": "21:52",
+      "trade_date": "2026-08-05",
+      "ticker": "ATTO",
+      "company": "Attovia Therapeutics, Inc.",
+      "insider_name": "Walsh Colin",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "17.58",
+      "qty": "585000",
+      "owned": "3020632",
+      "delta_own": "+24%",
+      "value": "10285000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-13",
+      "filing_time": "21:51",
+      "trade_date": "2026-08-05",
+      "ticker": "ATTO",
+      "company": "Attovia Therapeutics, Inc.",
+      "insider_name": "Goldman Sachs Group Inc",
+      "title": "Former 10% Owner",
+      "trade_type": "P - Purchase",
+      "price": "17.58",
+      "qty": "585000",
+      "owned": "3020632",
+      "delta_own": "+24%",
+      "value": "10285000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-13",
+      "filing_time": "21:09",
+      "trade_date": "2026-08-13",
+      "ticker": "OPFI",
+      "company": "Oppfi Inc.",
+      "insider_name": "Schwartz Todd G.",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "7.13",
+      "qty": "60000",
+      "owned": "27460835",
+      "delta_own": "0%",
+      "value": "427680",
+      "cluster_buy": false
     }
   ]
 }
