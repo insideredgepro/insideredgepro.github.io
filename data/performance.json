@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-13",
-  "entry_count": 1413,
+  "entry_count": 1418,
   "entries": [
     {
       "id": "US|NEWT|2026-06-15|sloane barry|14.21",
@@ -24530,8 +24530,8 @@
         "2026-08-12": 10.29,
         "2026-08-13": 9.53
       },
-      "latest_price": 9.56,
-      "return_pct": -6.82,
+      "latest_price": 9.59,
+      "return_pct": -6.53,
       "last_snapshot": "2026-08-13"
     },
     {
@@ -35665,8 +35665,8 @@
         "2026-08-12": 10.29,
         "2026-08-13": 9.53
       },
-      "latest_price": 9.56,
-      "return_pct": -1.14,
+      "latest_price": 9.59,
+      "return_pct": -0.83,
       "last_snapshot": "2026-08-13"
     },
     {
@@ -52212,8 +52212,8 @@
         "2026-08-12": 10.29,
         "2026-08-13": 9.53
       },
-      "latest_price": 9.56,
-      "return_pct": -6.73,
+      "latest_price": 9.59,
+      "return_pct": -6.44,
       "last_snapshot": "2026-08-13"
     },
     {
@@ -54247,6 +54247,106 @@
       },
       "latest_price": 12.28,
       "return_pct": 1.57,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|TXO|2026-08-12|simpson bob r|14.34",
+      "market": "US",
+      "ticker": "TXO",
+      "yf_symbol": "TXO",
+      "company": "Txo Partners, L.P.",
+      "insider_name": "Simpson Bob R",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-12",
+      "trade_price": 14.34,
+      "value": 2150545.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 14.17
+      },
+      "latest_price": 14.17,
+      "return_pct": -1.19,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|CVRX|2026-08-13|binkowski brent|2.91",
+      "market": "US",
+      "ticker": "CVRX",
+      "yf_symbol": "CVRX",
+      "company": "Cvrx, Inc.",
+      "insider_name": "Binkowski Brent",
+      "title": "COO",
+      "trade_date": "2026-08-13",
+      "trade_price": 2.91,
+      "value": 76432.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 2.94
+      },
+      "latest_price": 2.94,
+      "return_pct": 1.03,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|LTC|2026-08-11|gruber david l|38.3",
+      "market": "US",
+      "ticker": "LTC",
+      "yf_symbol": "LTC",
+      "company": "Ltc Properties Inc",
+      "insider_name": "Gruber David L",
+      "title": "Dir",
+      "trade_date": "2026-08-11",
+      "trade_price": 38.3,
+      "value": 153200.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 38.97
+      },
+      "latest_price": 38.97,
+      "return_pct": 1.75,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|XRN|2026-08-11|decker mark okey jr|35.92",
+      "market": "US",
+      "ticker": "XRN",
+      "yf_symbol": "XRN",
+      "company": "Chiron Real Estate Inc.",
+      "insider_name": "Decker Mark Okey Jr",
+      "title": "CEO, Pres",
+      "trade_date": "2026-08-11",
+      "trade_price": 35.92,
+      "value": 246950.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 36.58
+      },
+      "latest_price": 36.58,
+      "return_pct": 1.84,
+      "last_snapshot": "2026-08-13"
+    },
+    {
+      "id": "US|XRN|2026-08-12|roseth aaron robert|36.73",
+      "market": "US",
+      "ticker": "XRN",
+      "yf_symbol": "XRN",
+      "company": "Chiron Real Estate Inc.",
+      "insider_name": "Roseth Aaron Robert",
+      "title": "COO",
+      "trade_date": "2026-08-12",
+      "trade_price": 36.73,
+      "value": 495855.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-13": 36.58
+      },
+      "latest_price": 36.58,
+      "return_pct": -0.41,
       "last_snapshot": "2026-08-13"
     }
   ]
