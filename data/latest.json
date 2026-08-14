@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T17:45:32Z",
-  "trade_count": 9301,
+  "last_updated": "2026-08-14T18:41:44Z",
+  "trade_count": 9303,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -148816,6 +148816,38 @@
       "owned": "4430345",
       "delta_own": "+46%",
       "value": "4072090",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "14:01",
+      "trade_date": "2026-08-12",
+      "ticker": "BPRN",
+      "company": "Princeton Bancorp, Inc.",
+      "insider_name": "Tuchman Martin",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "42.98",
+      "qty": "10534",
+      "owned": "792817",
+      "delta_own": "+1%",
+      "value": "452730",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "13:44",
+      "trade_date": "2026-08-13",
+      "ticker": "KEEL",
+      "company": "Keel Infrastructure Corp.",
+      "insider_name": "Gagnon Benjamin",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.33",
+      "qty": "58888",
+      "owned": "1347736",
+      "delta_own": "+5%",
+      "value": "196097",
       "cluster_buy": false
     }
   ]
