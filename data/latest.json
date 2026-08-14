@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T11:37:22Z",
-  "trade_count": 9290,
+  "last_updated": "2026-08-14T12:42:58Z",
+  "trade_count": 9296,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -142240,7 +142240,7 @@
       "owned": "72000",
       "delta_own": "+1%",
       "value": "73250",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-06",
@@ -148640,6 +148640,102 @@
       "owned": "102348",
       "delta_own": "+13%",
       "value": "258432",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "08:40",
+      "trade_date": "2026-08-12",
+      "ticker": "VVV",
+      "company": "Valvoline Inc",
+      "insider_name": "Denny Jordan M.",
+      "title": "Chief Accounting Officer",
+      "trade_type": "P - Purchase",
+      "price": "33.20",
+      "qty": "1506",
+      "owned": "4121",
+      "delta_own": "+58%",
+      "value": "49999",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "08:33",
+      "trade_date": "2026-08-12",
+      "ticker": "BHRB",
+      "company": "Burke & Herbert Financial Services Corp.",
+      "insider_name": "Poillon Diane",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "73.67",
+      "qty": "1200",
+      "owned": "4128",
+      "delta_own": "+41%",
+      "value": "88398",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "08:29",
+      "trade_date": "2026-08-13",
+      "ticker": "CMC",
+      "company": "Commercial Metals Co",
+      "insider_name": "McPherson John R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "71.92",
+      "qty": "1390",
+      "owned": "28649",
+      "delta_own": "+5%",
+      "value": "99969",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "08:11",
+      "trade_date": "2026-08-13",
+      "ticker": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Troim Tor Olav",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.02",
+      "qty": "1500000",
+      "owned": "28767808",
+      "delta_own": "+6%",
+      "value": "6036750",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "07:40",
+      "trade_date": "2026-08-12",
+      "ticker": "MTDR",
+      "company": "Matador Resources Co",
+      "insider_name": "Foran Joseph Wm",
+      "title": "COB, CEO",
+      "trade_type": "P - Purchase",
+      "price": "51.92",
+      "qty": "15000",
+      "owned": "5479275",
+      "delta_own": "0%",
+      "value": "778800",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "07:37",
+      "trade_date": "2026-08-13",
+      "ticker": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Currie Jeffrey",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.01",
+      "qty": "125000",
+      "owned": "479423",
+      "delta_own": "+35%",
+      "value": "501638",
       "cluster_buy": true
     }
   ]

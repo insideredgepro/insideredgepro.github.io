@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-14",
-  "entry_count": 1422,
+  "entry_count": 1428,
   "entries": [
     {
       "id": "US|NEWT|2026-06-15|sloane barry|14.21",
@@ -55409,6 +55409,126 @@
       },
       "latest_price": 20.95,
       "return_pct": -2.74,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|VVV|2026-08-12|denny jordan m.|33.2",
+      "market": "US",
+      "ticker": "VVV",
+      "yf_symbol": "VVV",
+      "company": "Valvoline Inc",
+      "insider_name": "Denny Jordan M.",
+      "title": "Chief Accounting Officer",
+      "trade_date": "2026-08-12",
+      "trade_price": 33.2,
+      "value": 49999.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 33.77
+      },
+      "latest_price": 33.77,
+      "return_pct": 1.72,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|BHRB|2026-08-12|poillon diane|73.67",
+      "market": "US",
+      "ticker": "BHRB",
+      "yf_symbol": "BHRB",
+      "company": "Burke & Herbert Financial Services Corp.",
+      "insider_name": "Poillon Diane",
+      "title": "Dir",
+      "trade_date": "2026-08-12",
+      "trade_price": 73.67,
+      "value": 88398.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 73.2
+      },
+      "latest_price": 73.2,
+      "return_pct": -0.64,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|CMC|2026-08-13|mcpherson john r|71.92",
+      "market": "US",
+      "ticker": "CMC",
+      "yf_symbol": "CMC",
+      "company": "Commercial Metals Co",
+      "insider_name": "McPherson John R",
+      "title": "Dir",
+      "trade_date": "2026-08-13",
+      "trade_price": 71.92,
+      "value": 99969.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 72.13
+      },
+      "latest_price": 72.13,
+      "return_pct": 0.29,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|BORR|2026-08-13|troim tor olav|4.02",
+      "market": "US",
+      "ticker": "BORR",
+      "yf_symbol": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Troim Tor Olav",
+      "title": "Dir",
+      "trade_date": "2026-08-13",
+      "trade_price": 4.02,
+      "value": 6036750.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 4.04
+      },
+      "latest_price": 4.04,
+      "return_pct": 0.5,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|MTDR|2026-08-12|foran joseph wm|51.92",
+      "market": "US",
+      "ticker": "MTDR",
+      "yf_symbol": "MTDR",
+      "company": "Matador Resources Co",
+      "insider_name": "Foran Joseph Wm",
+      "title": "COB, CEO",
+      "trade_date": "2026-08-12",
+      "trade_price": 51.92,
+      "value": 778800.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 51.6
+      },
+      "latest_price": 51.6,
+      "return_pct": -0.62,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|BORR|2026-08-13|currie jeffrey|4.01",
+      "market": "US",
+      "ticker": "BORR",
+      "yf_symbol": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Currie Jeffrey",
+      "title": "Dir",
+      "trade_date": "2026-08-13",
+      "trade_price": 4.01,
+      "value": 501638.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 4.04
+      },
+      "latest_price": 4.04,
+      "return_pct": 0.75,
       "last_snapshot": "2026-08-14"
     }
   ]
