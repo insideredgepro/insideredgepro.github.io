@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-14",
-  "entry_count": 1443,
+  "entry_count": 1450,
   "entries": [
     {
       "id": "US|NEWT|2026-06-15|sloane barry|14.21",
@@ -50345,8 +50345,8 @@
         "2026-08-13": 108.72,
         "2026-08-14": 109.95
       },
-      "latest_price": 109.575,
-      "return_pct": 441.65,
+      "latest_price": 109.451,
+      "return_pct": 441.03,
       "last_snapshot": "2026-08-14"
     },
     {
@@ -55831,6 +55831,146 @@
       },
       "latest_price": 5.81,
       "return_pct": -7.78,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|HDSN|2026-08-12|hartree partners, lp|5.5",
+      "market": "US",
+      "ticker": "HDSN",
+      "yf_symbol": "HDSN",
+      "company": "Hudson Technologies Inc /Ny",
+      "insider_name": "Hartree Partners, LP",
+      "title": "10%",
+      "trade_date": "2026-08-12",
+      "trade_price": 5.5,
+      "value": 28589.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 5.67
+      },
+      "latest_price": 5.67,
+      "return_pct": 3.09,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|INTC|2026-08-11|tan lip bu|95.0",
+      "market": "US",
+      "ticker": "INTC",
+      "yf_symbol": "INTC",
+      "company": "Intel Corp",
+      "insider_name": "Tan Lip Bu",
+      "title": "CEO",
+      "trade_date": "2026-08-11",
+      "trade_price": 95.0,
+      "value": 9999985.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 102.5
+      },
+      "latest_price": 102.5,
+      "return_pct": 7.89,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|AAT|2026-08-13|rady ernest s|22.84",
+      "market": "US",
+      "ticker": "AAT",
+      "yf_symbol": "AAT",
+      "company": "American Assets Trust, Inc.",
+      "insider_name": "Rady Ernest S",
+      "title": "Exec COB, 10%",
+      "trade_date": "2026-08-13",
+      "trade_price": 22.84,
+      "value": 3425500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 22.77
+      },
+      "latest_price": 22.77,
+      "return_pct": -0.31,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|BXSY|2026-08-13|winmill & co. inc|18.04",
+      "market": "US",
+      "ticker": "BXSY",
+      "yf_symbol": "BXSY",
+      "company": "Bexil Investment Trust",
+      "insider_name": "Winmill & Co. Inc",
+      "title": "See \"Explanation of Responses\"",
+      "trade_date": "2026-08-13",
+      "trade_price": 18.04,
+      "value": 188569.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 18.08
+      },
+      "latest_price": 18.08,
+      "return_pct": 0.22,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|SELF|2026-08-13|winmill & co. inc|5.21",
+      "market": "US",
+      "ticker": "SELF",
+      "yf_symbol": "SELF",
+      "company": "Global Self Storage, Inc.",
+      "insider_name": "Winmill & Co. Inc",
+      "title": "See \"Explanation of Responses\"",
+      "trade_date": "2026-08-13",
+      "trade_price": 5.21,
+      "value": 60788.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 5.35
+      },
+      "latest_price": 5.35,
+      "return_pct": 2.69,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|ANGX|2026-08-13|harmon neal|4.31",
+      "market": "US",
+      "ticker": "ANGX",
+      "yf_symbol": "ANGX",
+      "company": "Angel Studios, Inc.",
+      "insider_name": "Harmon Neal",
+      "title": "CEO",
+      "trade_date": "2026-08-13",
+      "trade_price": 4.31,
+      "value": 125007.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 4.37
+      },
+      "latest_price": 4.37,
+      "return_pct": 1.39,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|RSG|2026-08-12|cascade investment, l.l.c.|215.81",
+      "market": "US",
+      "ticker": "RSG",
+      "yf_symbol": "RSG",
+      "company": "Republic Services, Inc.",
+      "insider_name": "Cascade Investment, L.L.C.",
+      "title": "10%",
+      "trade_date": "2026-08-12",
+      "trade_price": 215.81,
+      "value": 78329177.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 214.71
+      },
+      "latest_price": 214.71,
+      "return_pct": -0.51,
       "last_snapshot": "2026-08-14"
     }
   ]
