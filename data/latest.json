@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T22:13:21Z",
-  "trade_count": 9321,
+  "last_updated": "2026-08-14T23:13:08Z",
+  "trade_count": 9322,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -149136,6 +149136,22 @@
       "owned": "456350",
       "delta_own": "+4%",
       "value": "49300",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "18:23",
+      "trade_date": "2026-08-13",
+      "ticker": "BROS",
+      "company": "Dutch Bros Inc.",
+      "insider_name": "Penegor Todd Allan",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "51.56",
+      "qty": "2000",
+      "owned": "7358",
+      "delta_own": "+37%",
+      "value": "103120",
       "cluster_buy": false
     }
   ]

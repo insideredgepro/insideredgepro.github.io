@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-14",
-  "entry_count": 1453,
+  "entry_count": 1454,
   "entries": [
     {
       "id": "US|NEWT|2026-06-15|sloane barry|14.21",
@@ -56031,6 +56031,26 @@
       },
       "latest_price": 2.91,
       "return_pct": 0.34,
+      "last_snapshot": "2026-08-14"
+    },
+    {
+      "id": "US|BROS|2026-08-13|penegor todd allan|51.56",
+      "market": "US",
+      "ticker": "BROS",
+      "yf_symbol": "BROS",
+      "company": "Dutch Bros Inc.",
+      "insider_name": "Penegor Todd Allan",
+      "title": "Dir",
+      "trade_date": "2026-08-13",
+      "trade_price": 51.56,
+      "value": 103120.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-14": 52.02
+      },
+      "latest_price": 52.02,
+      "return_pct": 0.89,
       "last_snapshot": "2026-08-14"
     }
   ]
