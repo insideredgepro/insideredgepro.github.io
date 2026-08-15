@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T23:13:08Z",
-  "trade_count": 9322,
+  "last_updated": "2026-08-15T09:25:47Z",
+  "trade_count": 9328,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -137200,7 +137200,7 @@
       "owned": "220972",
       "delta_own": "+76%",
       "value": "99996",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-07-29",
@@ -149152,6 +149152,102 @@
       "owned": "7358",
       "delta_own": "+37%",
       "value": "103120",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "20:14",
+      "trade_date": "2026-08-13",
+      "ticker": "PAL",
+      "company": "Proficient Auto Logistics, Inc",
+      "insider_name": "Lal Rohit",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "5.45",
+      "qty": "50000",
+      "owned": "71903",
+      "delta_own": "+228%",
+      "value": "272500",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "20:09",
+      "trade_date": "2026-08-14",
+      "ticker": "INFQ",
+      "company": "Infleqtion, Inc.",
+      "insider_name": "Maverick Capital Ltd",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "12.42",
+      "qty": "52071",
+      "owned": "1929577",
+      "delta_own": "+3%",
+      "value": "646836",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "20:00",
+      "trade_date": "2026-08-12",
+      "ticker": "UTI",
+      "company": "Universal Technical Institute Inc",
+      "insider_name": "Devincenzi Robert Thomas",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "25.95",
+      "qty": "1000",
+      "owned": "149330",
+      "delta_own": "+1%",
+      "value": "25945",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "19:52",
+      "trade_date": "2026-08-12",
+      "ticker": "OTLK",
+      "company": "Outlook Therapeutics, Inc.",
+      "insider_name": "Sukhtian Ghiath M.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.99",
+      "qty": "2525252",
+      "owned": "24617320",
+      "delta_own": "+11%",
+      "value": "2499999",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "19:37",
+      "trade_date": "2026-08-14",
+      "ticker": "OPFI",
+      "company": "Oppfi Inc.",
+      "insider_name": "Schwartz Todd G.",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "7.20",
+      "qty": "20000",
+      "owned": "27480835",
+      "delta_own": "0%",
+      "value": "144012",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-14",
+      "filing_time": "19:26",
+      "trade_date": "2026-08-14",
+      "ticker": "OPEN",
+      "company": "Opendoor Technologies Inc.",
+      "insider_name": "Nejatian Kasra",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.62",
+      "qty": "27625",
+      "owned": "83605924",
+      "delta_own": "0%",
+      "value": "100003",
       "cluster_buy": false
     }
   ]

@@ -8580,7 +8580,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-29,07:40,2026-07-27,NNOX,Nano-X Imaging Ltd.,Suesskind Dan S,Dir,P - Purchase,0.93,50000,75336,+197%,46500,True
 2026-07-29,07:35,2026-07-28,NNOX,Nano-X Imaging Ltd.,Kainan Noga,Dir,P - Purchase,0.90,33000,59130,+126%,29700,True
 2026-07-29,14:56,2026-07-28,EQBK,Equity Bancshares Inc,Schlehuber Lisa Ann,Dir,P - Purchase,50.98,989,2092,+90%,50429,True
-2026-07-29,15:19,2026-07-29,OTLK,"Outlook Therapeutics, Inc.",Sukhtian Faisal Ghiath,Dir,P - Purchase,1.05,95398,220972,+76%,99996,False
+2026-07-29,15:19,2026-07-29,OTLK,"Outlook Therapeutics, Inc.",Sukhtian Faisal Ghiath,Dir,P - Purchase,1.05,95398,220972,+76%,99996,True
 2026-07-29,16:39,2026-07-27,BWMX,"Betterware De Mexico, S.A.P.I. De C.V",Campos Luis,"Chairman, 10%",P - Purchase,16.41,46830,20249565,0%,768480,False
 2026-07-29,16:19,2026-07-28,BFST,"Business First Bancshares, Inc.",Day Rick D.,Dir,P - Purchase,31.61,1500,269901,+1%,47415,False
 2026-07-29,16:17,2026-07-28,BXSY,Bexil Investment Trust,Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,16.99,7029,273872,+3%,119446,False
@@ -9328,3 +9328,9 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-14,17:46,2026-08-12,CLPR,Clipper Realty Inc.,Levinson Sam,"Dir, 10%",P - Purchase,3.16,154764,9135223,+2%,488796,False
 2026-08-14,17:36,2026-08-12,JCTC,Jewett Cameron Trading Co Ltd,"Ajb Investment Fund Ii, LP",10%,P - Purchase,2.90,16978,456350,+4%,49300,False
 2026-08-14,18:23,2026-08-13,BROS,Dutch Bros Inc.,Penegor Todd Allan,Dir,P - Purchase,51.56,2000,7358,+37%,103120,False
+2026-08-14,20:14,2026-08-13,PAL,"Proficient Auto Logistics, Inc",Lal Rohit,Dir,P - Purchase,5.45,50000,71903,+228%,272500,False
+2026-08-14,20:09,2026-08-14,INFQ,"Infleqtion, Inc.",Maverick Capital Ltd,Dir,P - Purchase,12.42,52071,1929577,+3%,646836,False
+2026-08-14,20:00,2026-08-12,UTI,Universal Technical Institute Inc,Devincenzi Robert Thomas,Dir,P - Purchase,25.95,1000,149330,+1%,25945,False
+2026-08-14,19:52,2026-08-12,OTLK,"Outlook Therapeutics, Inc.",Sukhtian Ghiath M.,"Dir, 10%",P - Purchase,0.99,2525252,24617320,+11%,2499999,True
+2026-08-14,19:37,2026-08-14,OPFI,Oppfi Inc.,Schwartz Todd G.,"CEO, 10%",P - Purchase,7.20,20000,27480835,0%,144012,False
+2026-08-14,19:26,2026-08-14,OPEN,Opendoor Technologies Inc.,Nejatian Kasra,CEO,P - Purchase,3.62,27625,83605924,0%,100003,False
