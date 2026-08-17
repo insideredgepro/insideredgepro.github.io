@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T14:18:56Z",
-  "trade_count": 9348,
+  "last_updated": "2026-08-17T15:17:15Z",
+  "trade_count": 9350,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -149440,7 +149440,7 @@
       "owned": "338573",
       "delta_own": "+5%",
       "value": "306900",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-17",
@@ -149569,6 +149569,38 @@
       "delta_own": "+8%",
       "value": "319780",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-17",
+      "filing_time": "10:26",
+      "trade_date": "2026-08-13",
+      "ticker": "TISI",
+      "company": "Team Inc",
+      "insider_name": "McGinnis Pamela J.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "22.90",
+      "qty": "2000",
+      "owned": "3332",
+      "delta_own": "+150%",
+      "value": "45800",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-17",
+      "filing_time": "10:22",
+      "trade_date": "2026-08-14",
+      "ticker": "REZI",
+      "company": "Resideo Technologies, Inc.",
+      "insider_name": "Foster Joshua Peter",
+      "title": "SVP, GC, Corp Sec",
+      "trade_type": "P - Purchase",
+      "price": "20.58",
+      "qty": "15317",
+      "owned": "183509",
+      "delta_own": "+9%",
+      "value": "315224",
+      "cluster_buy": true
     }
   ]
 }
