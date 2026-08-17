@@ -434,7 +434,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-08-17T02:00:05.868546+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016414+00:00"
   },
   {
     "id": "20003801818",
@@ -710,6 +710,552 @@
     "scraped_at": "2026-08-06T03:55:02.469261+00:00"
   },
   {
+    "id": "20003802154",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Abbott Laboratories",
+    "ticker": "ABT:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$105.61",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.015987+00:00"
+  },
+  {
+    "id": "20003802155",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Air Products and Chemicals Inc",
+    "ticker": "APD:US",
+    "sector": "materials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$300.20",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016013+00:00"
+  },
+  {
+    "id": "20003802156",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "American Water Works Company Inc",
+    "ticker": "AWK:US",
+    "sector": "utilities",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$136.81",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016023+00:00"
+  },
+  {
+    "id": "20003802157",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Analog Devices Inc",
+    "ticker": "ADI:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$366.67",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016029+00:00"
+  },
+  {
+    "id": "20003802158",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Apple Inc",
+    "ticker": "AAPL:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$333.43",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016034+00:00"
+  },
+  {
+    "id": "20003802159",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Automatic Data Processing Inc",
+    "ticker": "ADP:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$263.87",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016039+00:00"
+  },
+  {
+    "id": "20003802160",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Berkshire Hathaway Inc",
+    "ticker": "BRK/B:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$509.68",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016044+00:00"
+  },
+  {
+    "id": "20003802161",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Blackrock Inc",
+    "ticker": "BLK:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$1,098.37",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016051+00:00"
+  },
+  {
+    "id": "20003802162",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Cisco Systems Inc",
+    "ticker": "CSCO:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$113.56",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016056+00:00"
+  },
+  {
+    "id": "20003802163",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Costco Wholesale Corp",
+    "ticker": "COST:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$954.17",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016062+00:00"
+  },
+  {
+    "id": "20003802164",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Emerson Electric Co",
+    "ticker": "EMR:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$148.64",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016069+00:00"
+  },
+  {
+    "id": "20003802165",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "The Home Depot Inc",
+    "ticker": "HD:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$333.35",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016075+00:00"
+  },
+  {
+    "id": "20003802166",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Illinois Tool Works Inc",
+    "ticker": "ITW:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$283.70",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016082+00:00"
+  },
+  {
+    "id": "20003802167",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Intercontinental Exchange Inc",
+    "ticker": "ICE:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$156.27",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016087+00:00"
+  },
+  {
+    "id": "20003802168",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Johnson & Johnson",
+    "ticker": "JNJ:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$255.82",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016092+00:00"
+  },
+  {
+    "id": "20003802169",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "L3Harris Technologies Inc",
+    "ticker": "LHX:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$271.90",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016097+00:00"
+  },
+  {
+    "id": "20003802170",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "McDonald's Corp",
+    "ticker": "MCD:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$268.44",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016102+00:00"
+  },
+  {
+    "id": "20003802171",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Medtronic PLC",
+    "ticker": "MDT:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$85.71",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016109+00:00"
+  },
+  {
+    "id": "20003802172",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Microsoft Corp",
+    "ticker": "MSFT:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$451.10",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016114+00:00"
+  },
+  {
+    "id": "20003802173",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "NextEra Energy Inc",
+    "ticker": "NEE:US",
+    "sector": "utilities",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$87.93",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016119+00:00"
+  },
+  {
+    "id": "20003802174",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "PepsiCo Inc",
+    "ticker": "PEP:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$140.20",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016125+00:00"
+  },
+  {
+    "id": "20003802175",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "The Procter & Gamble Co",
+    "ticker": "PG:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$143.96",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016130+00:00"
+  },
+  {
+    "id": "20003802176",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Realty Income Corp",
+    "ticker": "O:US",
+    "sector": "real-estate",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$64.43",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016135+00:00"
+  },
+  {
+    "id": "20003802177",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Unitedhealth Group Inc",
+    "ticker": "UNH:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$421.47",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016140+00:00"
+  },
+  {
+    "id": "20003802178",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Visa Inc",
+    "ticker": "V:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$366.27",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016145+00:00"
+  },
+  {
+    "id": "20003802179",
+    "politician_name": "Richard McCormick",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Walmart Inc",
+    "ticker": "WMT:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-30",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "15",
+    "price": "$111.10",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Growth Partners Roth IRA",
+    "scraped_at": "2026-08-17T16:10:03.016150+00:00"
+  },
+  {
     "id": "20003801845",
     "politician_name": "Rohit Khanna",
     "party": "Democrat",
@@ -728,7 +1274,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-08-17T02:00:05.868584+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016449+00:00"
   },
   {
     "id": "20003801853",
@@ -749,7 +1295,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-08-17T02:00:05.868630+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016491+00:00"
   },
   {
     "id": "20003801595",
@@ -980,7 +1526,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868428+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016303+00:00"
   },
   {
     "id": "20003802129",
@@ -1001,7 +1547,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868433+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016308+00:00"
   },
   {
     "id": "20003802130",
@@ -1022,7 +1568,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868439+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016313+00:00"
   },
   {
     "id": "20003802131",
@@ -1043,7 +1589,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868444+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016318+00:00"
   },
   {
     "id": "20003802132",
@@ -1064,7 +1610,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868450+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016324+00:00"
   },
   {
     "id": "20003802133",
@@ -1085,7 +1631,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868457+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016329+00:00"
   },
   {
     "id": "20003802134",
@@ -1106,7 +1652,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868462+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016336+00:00"
   },
   {
     "id": "20003802135",
@@ -1127,7 +1673,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868467+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016342+00:00"
   },
   {
     "id": "20003802136",
@@ -1148,7 +1694,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868474+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016348+00:00"
   },
   {
     "id": "20003802137",
@@ -1169,7 +1715,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868479+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016353+00:00"
   },
   {
     "id": "20003802138",
@@ -1190,7 +1736,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868484+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016358+00:00"
   },
   {
     "id": "20003801777",
@@ -2261,7 +2807,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-08-17T02:00:05.868578+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016445+00:00"
   },
   {
     "id": "20003801846",
@@ -2282,7 +2828,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-08-17T02:00:05.868589+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016454+00:00"
   },
   {
     "id": "20003801852",
@@ -2303,7 +2849,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-08-17T02:00:05.868623+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016485+00:00"
   },
   {
     "id": "20003801857",
@@ -2324,7 +2870,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-08-17T02:00:05.868653+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016511+00:00"
   },
   {
     "id": "20003801835",
@@ -3101,7 +3647,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Subholding Of: Victoria Kelly Trust ICA",
-    "scraped_at": "2026-08-17T02:00:05.868551+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016420+00:00"
   },
   {
     "id": "20003801836",
@@ -3395,7 +3941,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-08-17T02:00:05.868563+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016430+00:00"
   },
   {
     "id": "20003801842",
@@ -3416,7 +3962,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-08-17T02:00:05.868567+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016435+00:00"
   },
   {
     "id": "20003801858",
@@ -3437,7 +3983,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-08-17T02:00:05.868658+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016516+00:00"
   },
   {
     "id": "20003801812",
@@ -3647,7 +4193,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-08-17T02:00:05.868607+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016469+00:00"
   },
   {
     "id": "20003801833",
@@ -3773,7 +4319,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-08-17T02:00:05.868612+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016473+00:00"
   },
   {
     "id": "20003801856",
@@ -3794,7 +4340,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-08-17T02:00:05.868647+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016507+00:00"
   },
   {
     "id": "10000066391",
@@ -4970,7 +5516,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Self",
     "comment": "Rate/Coupon: 4.0% Matures: 2032-01-01",
-    "scraped_at": "2026-08-17T02:00:05.868258+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016190+00:00"
   },
   {
     "id": "20003801861",
@@ -5747,7 +6293,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-08-17T02:00:05.868602+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016464+00:00"
   },
   {
     "id": "20003801851",
@@ -5768,7 +6314,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-08-17T02:00:05.868617+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016478+00:00"
   },
   {
     "id": "20003801854",
@@ -5789,7 +6335,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-08-17T02:00:05.868637+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016496+00:00"
   },
   {
     "id": "20003801855",
@@ -5810,7 +6356,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-08-17T02:00:05.868642+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016501+00:00"
   },
   {
     "id": "20003801526",
@@ -5855,6 +6401,48 @@
     "scraped_at": "2026-07-22T16:10:03.283124+00:00"
   },
   {
+    "id": "20003802152",
+    "politician_name": "Michael Guest",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MS",
+    "company": "Exxon Mobil Corp",
+    "ticker": "XOM:US",
+    "sector": "energy",
+    "transaction_type": "EXCHANGE",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-02",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "43",
+    "price": "$137.09",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust - KF19 Description: Shares surrendered through name change",
+    "scraped_at": "2026-08-17T16:10:03.016178+00:00"
+  },
+  {
+    "id": "20003802153",
+    "politician_name": "Michael Guest",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MS",
+    "company": "Exxon Mobil Corp",
+    "ticker": "XOM:US",
+    "sector": "energy",
+    "transaction_type": "EXCHANGE",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-02",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "43",
+    "price": "$137.09",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: KINV - CP Description: Shares surrendered through name change",
+    "scraped_at": "2026-08-17T16:10:03.016185+00:00"
+  },
+  {
     "id": "10000066602",
     "politician_name": "Mark Warner",
     "party": "Democrat",
@@ -5873,7 +6461,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5.0% Matures: 2031-12-15",
-    "scraped_at": "2026-08-17T02:00:05.868286+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016195+00:00"
   },
   {
     "id": "10000066603",
@@ -5894,7 +6482,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5.0% Matures: 2031-02-01",
-    "scraped_at": "2026-08-17T02:00:05.868297+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016200+00:00"
   },
   {
     "id": "20003801843",
@@ -5915,7 +6503,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren",
-    "scraped_at": "2026-08-17T02:00:05.868572+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016440+00:00"
   },
   {
     "id": "20003801847",
@@ -5936,7 +6524,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Ahuja Grandchildren's Education Trust",
-    "scraped_at": "2026-08-17T02:00:05.868595+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016459+00:00"
   },
   {
     "id": "20003801640",
@@ -6020,7 +6608,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Description: All investment decisions related to my personal financial portfolio are delegated to professional financial",
-    "scraped_at": "2026-08-17T02:00:05.868556+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016425+00:00"
   },
   {
     "id": "20003801859",
@@ -6209,7 +6797,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Focus Partners IRA Description: 14040HDC6",
-    "scraped_at": "2026-08-17T02:00:05.868418+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016294+00:00"
   },
   {
     "id": "20003802120",
@@ -6230,7 +6818,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Focus Partners IRA Description: 404121AJ4",
-    "scraped_at": "2026-08-17T02:00:05.868423+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016298+00:00"
   },
   {
     "id": "20003801798",
@@ -25280,27 +25868,6 @@
     "scraped_at": "2026-06-08T16:10:02.025365+00:00"
   },
   {
-    "id": "20003798222",
-    "politician_name": "Dwight Evans",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "PA",
-    "company": "American Tower Corp",
-    "ticker": "AMT:US",
-    "sector": "real-estate",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-05-11",
-    "trade_published": "2026-05-18",
-    "filed_after_days": "4",
-    "price": "$177.47",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: CETERA",
-    "scraped_at": "2026-05-21T08:19:33.776630+00:00"
-  },
-  {
     "id": "20003800674",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -26265,69 +26832,6 @@
     "owner": "Not Disclosed",
     "comment": "",
     "scraped_at": "2026-05-29T10:33:49.256374+00:00"
-  },
-  {
-    "id": "20003798224",
-    "politician_name": "Dwight Evans",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "PA",
-    "company": "Intel Corp",
-    "ticker": "INTC:US",
-    "sector": "information-technology",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-05-07",
-    "trade_published": "2026-05-18",
-    "filed_after_days": "8",
-    "price": "$109.62",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: CETERA",
-    "scraped_at": "2026-05-21T08:19:33.776641+00:00"
-  },
-  {
-    "id": "20003798225",
-    "politician_name": "Dwight Evans",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "PA",
-    "company": "Quanta Services Inc",
-    "ticker": "PWR:US",
-    "sector": "industrials",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-05-07",
-    "trade_published": "2026-05-18",
-    "filed_after_days": "8",
-    "price": "$750.73",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: CETERA",
-    "scraped_at": "2026-05-21T08:19:33.776645+00:00"
-  },
-  {
-    "id": "20003798226",
-    "politician_name": "Dwight Evans",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "PA",
-    "company": "Thermo Fisher Scientific Inc",
-    "ticker": "TMO:US",
-    "sector": "health-care",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-05-07",
-    "trade_published": "2026-05-18",
-    "filed_after_days": "8",
-    "price": "$474.46",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: CETERA",
-    "scraped_at": "2026-05-21T08:19:33.776650+00:00"
   },
   {
     "id": "20003801761",
@@ -34853,7 +35357,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868315+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016205+00:00"
   },
   {
     "id": "20003801760",
@@ -34919,25 +35423,67 @@
     "scraped_at": "2026-08-13T03:55:03.812189+00:00"
   },
   {
-    "id": "20003798221",
-    "politician_name": "Stephen Cohen",
-    "party": "Democrat",
+    "id": "20003802149",
+    "politician_name": "Michael Guest",
+    "party": "Republican",
     "chamber": "House",
-    "state": "TN",
-    "company": "SONY FINANCIAL GROUP INC",
-    "ticker": "SFGYY:US",
-    "sector": "financials",
-    "transaction_type": "BUY",
+    "state": "MS",
+    "company": "Airbnb Inc",
+    "ticker": "ABNB:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
     "tx_type_extended": "",
-    "traded_on": "2025-12-26",
-    "trade_published": "2026-05-18",
-    "filed_after_days": "140",
-    "price": "$5.18",
+    "traded_on": "2025-12-16",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "241",
+    "price": "$132.01",
     "value": 8000,
     "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Amended. Subholding Of: Stephens SEP IRA",
-    "scraped_at": "2026-05-20T11:41:37.796334+00:00"
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust - KF19",
+    "scraped_at": "2026-08-17T16:10:03.016156+00:00"
+  },
+  {
+    "id": "20003802150",
+    "politician_name": "Michael Guest",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MS",
+    "company": "Chevron Corp",
+    "ticker": "CVX:US",
+    "sector": "energy",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2025-12-16",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "241",
+    "price": "$146.75",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust - KF19",
+    "scraped_at": "2026-08-17T16:10:03.016166+00:00"
+  },
+  {
+    "id": "20003802151",
+    "politician_name": "Michael Guest",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MS",
+    "company": "e.l.f. Beauty Inc",
+    "ticker": "ELF:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2025-12-16",
+    "trade_published": "2026-08-17",
+    "filed_after_days": "241",
+    "price": "$78.77",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust - KF19",
+    "scraped_at": "2026-08-17T16:10:03.016173+00:00"
   },
   {
     "id": "20003801671",
@@ -35150,27 +35696,6 @@
     "scraped_at": "2026-08-11T03:55:03.436091+00:00"
   },
   {
-    "id": "20003798223",
-    "politician_name": "Dwight Evans",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "PA",
-    "company": "CVS Health Corp",
-    "ticker": "CVS:US",
-    "sector": "health-care",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2025-11-21",
-    "trade_published": "2026-05-18",
-    "filed_after_days": "175",
-    "price": "$78.03",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Amended. Subholding Of: PERSHING LLC",
-    "scraped_at": "2026-05-21T08:19:33.776636+00:00"
-  },
-  {
     "id": "10000066597",
     "politician_name": "Timothy Sheehy",
     "party": "Republican",
@@ -35189,7 +35714,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Self",
     "comment": "Asset of, and sale made at the direction of, Max Ventures New World Opportunities Fund LP. It is unclear whether filer's indirect interest through multiple layers of ownership requires reporting the transaction. Filer is reporting in the interest of public disclosure. Company: Sana Labs AB  (Stockholm, Sweden) Description: Education/Training",
-    "scraped_at": "2026-08-17T02:00:05.868494+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016368+00:00"
   },
   {
     "id": "10000066598",
@@ -35210,7 +35735,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "Asset of, and investment made at the direction of, WCAS XIV Co-Investors LLC subsidiary. It is unclear whether filer's indirect interest through multiple layers of ownership requires reporting the transaction. Filer is reporting in the interest of public disclosure. Company: Grant Street Group  (Pittsburgh, PA) Description: Software Company",
-    "scraped_at": "2026-08-17T02:00:05.868499+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016372+00:00"
   },
   {
     "id": "20003801659",
@@ -35462,7 +35987,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868324+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016211+00:00"
   },
   {
     "id": "20003801663",
@@ -36764,7 +37289,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Coinbase cryptocurrency wallet",
-    "scraped_at": "2026-08-17T02:00:05.868332+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016217+00:00"
   },
   {
     "id": "20003801837",
@@ -36806,7 +37331,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "Asset of, and investment made at the direction of, WCAS XIV Co-Investors LLC subsidiary. It is unclear whether filer's indirect interest through multiple layers of ownership requires reporting the transaction. Filer is reporting in the interest of public disclosure. Company: AIA Contract Documents  (Washington, DC) Description: Construction Contract Software",
-    "scraped_at": "2026-08-17T02:00:05.868504+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016376+00:00"
   },
   {
     "id": "20003801747",
@@ -36869,7 +37394,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Self",
     "comment": "Asset of, and sale made at the direction of, Ansett Aerospace Holdings LLC. It is unclear whether filer's indirect interest through multiple layers of ownership requires reporting the transaction. Filer is reporting in the interest of public disclosure. Company: Regaero Holdings Pty Ltd  (Melbourne, Australia) Description: Aviation Training Facilities",
-    "scraped_at": "2026-08-17T02:00:05.868489+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016362+00:00"
   },
   {
     "id": "10000066600",
@@ -36890,7 +37415,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "Asset of, and investment made at the direction of, WCAS XIV Co-Investors LLC subsidiary. It is unclear whether filer's indirect interest through multiple layers of ownership requires reporting the transaction. Filer is reporting in the interest of public disclosure. Company: Constitution Surgery Alliance  (Avon, CT) Description: Healthcare Company",
-    "scraped_at": "2026-08-17T02:00:05.868510+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016382+00:00"
   },
   {
     "id": "20003801774",
@@ -36956,27 +37481,6 @@
     "scraped_at": "2026-08-12T03:55:04.034074+00:00"
   },
   {
-    "id": "20003798227",
-    "politician_name": "Valerie Hoyle",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "OR",
-    "company": "LPL Financial Holdings Inc",
-    "ticker": "LPLA:US",
-    "sector": "financials",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2025-04-02",
-    "trade_published": "2026-05-18",
-    "filed_after_days": "408",
-    "price": "$338.40",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "Subholding Of: Fidelity Rollover IRA Description: Sale inadvertently omitted from PTR filed on 9/12/25. Filer and filer's spouse no longer hold any stocks. All stocks were sold in 2025",
-    "scraped_at": "2026-05-21T08:19:33.776624+00:00"
-  },
-  {
     "id": "20003801656",
     "politician_name": "Julie Johnson",
     "party": "Democrat",
@@ -37016,7 +37520,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: United Bank Brokerage Account",
-    "scraped_at": "2026-08-17T02:00:05.868338+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016222+00:00"
   },
   {
     "id": "20003802122",
@@ -37037,7 +37541,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: United Bank Brokerage Account",
-    "scraped_at": "2026-08-17T02:00:05.868343+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016227+00:00"
   },
   {
     "id": "20003802123",
@@ -37058,7 +37562,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: United Bank Brokerage Account",
-    "scraped_at": "2026-08-17T02:00:05.868349+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016231+00:00"
   },
   {
     "id": "20003802124",
@@ -37079,7 +37583,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: United Bank Brokerage Account",
-    "scraped_at": "2026-08-17T02:00:05.868355+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016237+00:00"
   },
   {
     "id": "20003798359",
@@ -37121,7 +37625,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Self",
     "comment": "Rate/Coupon: 5.0% Matures: 2040-01-01",
-    "scraped_at": "2026-08-17T02:00:05.868514+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016386+00:00"
   },
   {
     "id": "10000066591",
@@ -37142,7 +37646,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5.0% Matures: 05/01/2026",
-    "scraped_at": "2026-08-17T02:00:05.868519+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016391+00:00"
   },
   {
     "id": "10000066592",
@@ -37163,7 +37667,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5.0% Matures: 05/01/2026",
-    "scraped_at": "2026-08-17T02:00:05.868525+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016396+00:00"
   },
   {
     "id": "10000066593",
@@ -37184,7 +37688,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5.0% Matures: 07/01/2054",
-    "scraped_at": "2026-08-17T02:00:05.868530+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016400+00:00"
   },
   {
     "id": "10000066594",
@@ -37205,7 +37709,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Self",
     "comment": "Rate/Coupon: 5.0% Matures: 07/01/2054",
-    "scraped_at": "2026-08-17T02:00:05.868535+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016404+00:00"
   },
   {
     "id": "10000066595",
@@ -37226,7 +37730,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5.0% Matures: 07/01/2054",
-    "scraped_at": "2026-08-17T02:00:05.868541+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016409+00:00"
   },
   {
     "id": "20003798387",
@@ -37877,7 +38381,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868389+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016269+00:00"
   },
   {
     "id": "20003802145",
@@ -37898,7 +38402,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868396+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016274+00:00"
   },
   {
     "id": "20003802146",
@@ -37919,7 +38423,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868401+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016279+00:00"
   },
   {
     "id": "20003802147",
@@ -37940,7 +38444,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868406+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016284+00:00"
   },
   {
     "id": "20003802148",
@@ -37961,7 +38465,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868411+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016289+00:00"
   },
   {
     "id": "10000066579",
@@ -38108,7 +38612,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868362+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016243+00:00"
   },
   {
     "id": "20003802140",
@@ -38129,7 +38633,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868367+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016248+00:00"
   },
   {
     "id": "20003802141",
@@ -38150,7 +38654,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868374+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016253+00:00"
   },
   {
     "id": "20003802142",
@@ -38171,7 +38675,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868379+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016258+00:00"
   },
   {
     "id": "20003802143",
@@ -38192,7 +38696,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-17T02:00:05.868384+00:00"
+    "scraped_at": "2026-08-17T16:10:03.016263+00:00"
   },
   {
     "id": "10000066554",
