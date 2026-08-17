@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T19:21:22Z",
-  "trade_count": 9354,
+  "last_updated": "2026-08-17T20:16:12Z",
+  "trade_count": 9358,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -149664,6 +149664,70 @@
       "owned": "182479",
       "delta_own": "+3%",
       "value": "32120",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-17",
+      "filing_time": "16:10",
+      "trade_date": "2026-08-14",
+      "ticker": "CE",
+      "company": "Celanese Corp",
+      "insider_name": "Kyrish Chuck",
+      "title": "SVP, CFO",
+      "trade_type": "P - Purchase",
+      "price": "45.52",
+      "qty": "2300",
+      "owned": "29114",
+      "delta_own": "+9%",
+      "value": "104698",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-17",
+      "filing_time": "16:05",
+      "trade_date": "2026-08-13",
+      "ticker": "MDXH",
+      "company": "Mdxhealth Sa",
+      "insider_name": "Mvm Partners, LLC",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.45",
+      "qty": "2202643",
+      "owned": "6903100",
+      "delta_own": "+47%",
+      "value": "1000000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-17",
+      "filing_time": "16:02",
+      "trade_date": "2026-08-13",
+      "ticker": "APTV",
+      "company": "Aptiv Plc",
+      "insider_name": "Agnevall Hakan",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "48.58",
+      "qty": "4100",
+      "owned": "17797",
+      "delta_own": "+30%",
+      "value": "199182",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-17",
+      "filing_time": "16:00",
+      "trade_date": "2026-08-17",
+      "ticker": "HGBL",
+      "company": "Heritage Global Inc.",
+      "insider_name": "Dove Nicholas Kirk",
+      "title": "Pres, Industrial Assets",
+      "trade_type": "P - Purchase",
+      "price": "1.10",
+      "qty": "60000",
+      "owned": "186000",
+      "delta_own": "+48%",
+      "value": "65940",
       "cluster_buy": false
     }
   ]
