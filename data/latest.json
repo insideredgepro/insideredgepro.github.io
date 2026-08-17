@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T15:17:15Z",
-  "trade_count": 9350,
+  "last_updated": "2026-08-17T16:16:56Z",
+  "trade_count": 9354,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -149601,6 +149601,70 @@
       "delta_own": "+9%",
       "value": "315224",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-17",
+      "filing_time": "11:49",
+      "trade_date": "2026-08-13",
+      "ticker": "MLAB",
+      "company": "Mesa Laboratories Inc /Co/",
+      "insider_name": "Kadia Siddhartha",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "112.80",
+      "qty": "7093",
+      "owned": "7093",
+      "delta_own": "New",
+      "value": "800090",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-17",
+      "filing_time": "11:38",
+      "trade_date": "2026-08-14",
+      "ticker": "MATW",
+      "company": "Matthews International Corp",
+      "insider_name": "Richards Aleta W.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "23.06",
+      "qty": "3000",
+      "owned": "12535",
+      "delta_own": "+31%",
+      "value": "69180",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-17",
+      "filing_time": "11:27",
+      "trade_date": "2026-08-13",
+      "ticker": "MLAB",
+      "company": "Mesa Laboratories Inc /Co/",
+      "insider_name": "Tripeny R Tony",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "113.69",
+      "qty": "900",
+      "owned": "6298",
+      "delta_own": "+17%",
+      "value": "102321",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-17",
+      "filing_time": "11:18",
+      "trade_date": "2026-08-14",
+      "ticker": "SKAS",
+      "company": "Saker Aviation Services, Inc.",
+      "insider_name": "Eriksen Howard Timothy",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "5.84",
+      "qty": "5500",
+      "owned": "182479",
+      "delta_own": "+3%",
+      "value": "32120",
+      "cluster_buy": false
     }
   ]
 }
