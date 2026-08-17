@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-17",
-  "entry_count": 1345,
+  "entry_count": 1347,
   "entries": [
     {
       "id": "US|CAES|2026-06-18|cantor ep holdings vii, llc|10.0",
@@ -49717,6 +49717,46 @@
       },
       "latest_price": 14.87,
       "return_pct": 0.95,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|RICK|2026-08-14|langan eric scott|30.8",
+      "market": "US",
+      "ticker": "RICK",
+      "yf_symbol": "RICK",
+      "company": "Rci Hospitality Holdings, Inc.",
+      "insider_name": "Langan Eric Scott",
+      "title": "Dir",
+      "trade_date": "2026-08-14",
+      "trade_price": 30.8,
+      "value": 50204.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 30.87
+      },
+      "latest_price": 30.87,
+      "return_pct": 0.23,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|REZI|2026-08-14|surran thomas a|20.46",
+      "market": "US",
+      "ticker": "REZI",
+      "yf_symbol": "REZI",
+      "company": "Resideo Technologies, Inc.",
+      "insider_name": "Surran Thomas A",
+      "title": "Pres, CEO",
+      "trade_date": "2026-08-14",
+      "trade_price": 20.46,
+      "value": 306900.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 20.5
+      },
+      "latest_price": 20.5,
+      "return_pct": 0.2,
       "last_snapshot": "2026-08-17"
     }
   ]

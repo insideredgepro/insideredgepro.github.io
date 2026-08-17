@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T11:17:19Z",
-  "trade_count": 9338,
+  "last_updated": "2026-08-17T12:24:22Z",
+  "trade_count": 9340,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -149409,6 +149409,38 @@
       "delta_own": "+6%",
       "value": "294600",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-17",
+      "filing_time": "07:24",
+      "trade_date": "2026-08-14",
+      "ticker": "RICK",
+      "company": "Rci Hospitality Holdings, Inc.",
+      "insider_name": "Langan Eric Scott",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "30.80",
+      "qty": "1630",
+      "owned": "708000",
+      "delta_own": "0%",
+      "value": "50204",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-17",
+      "filing_time": "07:21",
+      "trade_date": "2026-08-14",
+      "ticker": "REZI",
+      "company": "Resideo Technologies, Inc.",
+      "insider_name": "Surran Thomas A",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "20.46",
+      "qty": "15000",
+      "owned": "338573",
+      "delta_own": "+5%",
+      "value": "306900",
+      "cluster_buy": false
     }
   ]
 }
