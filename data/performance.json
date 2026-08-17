@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-17",
-  "entry_count": 1379,
+  "entry_count": 1390,
   "entries": [
     {
       "id": "US|CAES|2026-06-18|cantor ep holdings vii, llc|10.0",
@@ -50397,6 +50397,226 @@
       },
       "latest_price": 14.67,
       "return_pct": -3.04,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|WULF|2026-08-14|bucella michael c.|16.99",
+      "market": "US",
+      "ticker": "WULF",
+      "yf_symbol": "WULF",
+      "company": "Terawulf Inc.",
+      "insider_name": "Bucella Michael C.",
+      "title": "Dir",
+      "trade_date": "2026-08-14",
+      "trade_price": 16.99,
+      "value": 99950.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 17.6
+      },
+      "latest_price": 17.6,
+      "return_pct": 3.59,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|CDNL|2026-08-14|lee richard melvin jr.|36.82",
+      "market": "US",
+      "ticker": "CDNL",
+      "yf_symbol": "CDNL",
+      "company": "Cardinal Infrastructure Group Inc.",
+      "insider_name": "Lee Richard Melvin Jr.",
+      "title": "Dir",
+      "trade_date": "2026-08-14",
+      "trade_price": 36.82,
+      "value": 1252040.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 39.23
+      },
+      "latest_price": 39.23,
+      "return_pct": 6.55,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|CDNL|2026-08-14|rowe michael bruce jr.|36.53",
+      "market": "US",
+      "ticker": "CDNL",
+      "yf_symbol": "CDNL",
+      "company": "Cardinal Infrastructure Group Inc.",
+      "insider_name": "Rowe Michael Bruce Jr.",
+      "title": "CFO",
+      "trade_date": "2026-08-14",
+      "trade_price": 36.53,
+      "value": 255710.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 39.23
+      },
+      "latest_price": 39.23,
+      "return_pct": 7.39,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|CDNL|2026-08-14|wood anthony leon jr.|39.36",
+      "market": "US",
+      "ticker": "CDNL",
+      "yf_symbol": "CDNL",
+      "company": "Cardinal Infrastructure Group Inc.",
+      "insider_name": "Wood Anthony Leon Jr.",
+      "title": "Dir",
+      "trade_date": "2026-08-14",
+      "trade_price": 39.36,
+      "value": 2023079.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 39.23
+      },
+      "latest_price": 39.23,
+      "return_pct": -0.33,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|CDNL|2026-08-14|spivey jeremy simmons|38.41",
+      "market": "US",
+      "ticker": "CDNL",
+      "yf_symbol": "CDNL",
+      "company": "Cardinal Infrastructure Group Inc.",
+      "insider_name": "Spivey Jeremy Simmons",
+      "title": "CEO",
+      "trade_date": "2026-08-14",
+      "trade_price": 38.41,
+      "value": 3201428.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 39.23
+      },
+      "latest_price": 39.23,
+      "return_pct": 2.13,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|SUJA|2026-08-13|paine schwartz food chain fund v gp, ltd.|6.41",
+      "market": "US",
+      "ticker": "SUJA",
+      "yf_symbol": "SUJA",
+      "company": "Suja Life, Inc.",
+      "insider_name": "Paine Schwartz Food Chain Fund V Gp, Ltd.",
+      "title": "10%",
+      "trade_date": "2026-08-13",
+      "trade_price": 6.41,
+      "value": 2558449.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 6.65
+      },
+      "latest_price": 6.65,
+      "return_pct": 3.74,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|CDNL|2026-08-14|zelman ivy|39.61",
+      "market": "US",
+      "ticker": "CDNL",
+      "yf_symbol": "CDNL",
+      "company": "Cardinal Infrastructure Group Inc.",
+      "insider_name": "Zelman Ivy",
+      "title": "Dir",
+      "trade_date": "2026-08-14",
+      "trade_price": 39.61,
+      "value": 500948.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 39.23
+      },
+      "latest_price": 39.23,
+      "return_pct": -0.96,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|CDNL|2026-08-14|wood benjamin|39.48",
+      "market": "US",
+      "ticker": "CDNL",
+      "yf_symbol": "CDNL",
+      "company": "Cardinal Infrastructure Group Inc.",
+      "insider_name": "Wood Benjamin",
+      "title": "COO",
+      "trade_date": "2026-08-14",
+      "trade_price": 39.48,
+      "value": 1014594.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 39.23
+      },
+      "latest_price": 39.23,
+      "return_pct": -0.63,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|XRN|2026-08-14|whitlock matthew fitzsimmons|36.8",
+      "market": "US",
+      "ticker": "XRN",
+      "yf_symbol": "XRN",
+      "company": "Chiron Real Estate Inc.",
+      "insider_name": "Whitlock Matthew Fitzsimmons",
+      "title": "Chief Investment Officer",
+      "trade_date": "2026-08-14",
+      "trade_price": 36.8,
+      "value": 36795.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 36.37
+      },
+      "latest_price": 36.37,
+      "return_pct": -1.17,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|CMCL|2026-08-13|ndlovu july|23.03",
+      "market": "US",
+      "ticker": "CMCL",
+      "yf_symbol": "CMCL",
+      "company": "Caledonia Mining Corp Plc",
+      "insider_name": "Ndlovu July",
+      "title": "Dir",
+      "trade_date": "2026-08-13",
+      "trade_price": 23.03,
+      "value": 492842.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 23.45
+      },
+      "latest_price": 23.45,
+      "return_pct": 1.82,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|CRT|2026-08-13|oliver eric l|10.36",
+      "market": "US",
+      "ticker": "CRT",
+      "yf_symbol": "CRT",
+      "company": "Cross Timbers Royalty Trust",
+      "insider_name": "Oliver Eric L",
+      "title": "10%",
+      "trade_date": "2026-08-13",
+      "trade_price": 10.36,
+      "value": 131558.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 10.57
+      },
+      "latest_price": 10.57,
+      "return_pct": 2.03,
       "last_snapshot": "2026-08-17"
     }
   ]
