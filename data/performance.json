@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-17",
-  "entry_count": 1390,
+  "entry_count": 1392,
   "entries": [
     {
       "id": "US|CAES|2026-06-18|cantor ep holdings vii, llc|10.0",
@@ -50617,6 +50617,46 @@
       },
       "latest_price": 10.57,
       "return_pct": 2.03,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|NTHI|2026-08-14|heshmatpour amir f|3.91",
+      "market": "US",
+      "ticker": "NTHI",
+      "yf_symbol": "NTHI",
+      "company": "Neonc Technologies Holdings, Inc.",
+      "insider_name": "Heshmatpour Amir F",
+      "title": "CEO, Pres, 10%",
+      "trade_date": "2026-08-14",
+      "trade_price": 3.91,
+      "value": 58580.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 4.91
+      },
+      "latest_price": 4.91,
+      "return_pct": 25.58,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|PODC|2026-08-14|merriman d jonathan|3.04",
+      "market": "US",
+      "ticker": "PODC",
+      "yf_symbol": "PODC",
+      "company": "Podcastone, Inc.",
+      "insider_name": "Merriman D Jonathan",
+      "title": "Dir",
+      "trade_date": "2026-08-14",
+      "trade_price": 3.04,
+      "value": 86040.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 2.83
+      },
+      "latest_price": 2.83,
+      "return_pct": -6.91,
       "last_snapshot": "2026-08-17"
     }
   ]
