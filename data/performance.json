@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-17",
-  "entry_count": 1336,
+  "entry_count": 1343,
   "entries": [
     {
       "id": "US|CAES|2026-06-18|cantor ep holdings vii, llc|10.0",
@@ -49541,6 +49541,142 @@
       },
       "latest_price": 3.64,
       "return_pct": 0.55,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|ECOR|2026-08-13|errico thomas j.|9.85",
+      "market": "US",
+      "ticker": "ECOR",
+      "yf_symbol": "ECOR",
+      "company": "Electrocore, Inc.",
+      "insider_name": "Errico Thomas J.",
+      "title": "Dir",
+      "trade_date": "2026-08-13",
+      "trade_price": 9.85,
+      "value": 49272.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 9.97
+      },
+      "latest_price": 9.97,
+      "return_pct": 1.22,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|ENHA|2026-08-14|apeiron investment group ltd.|1.97",
+      "market": "US",
+      "ticker": "ENHA",
+      "yf_symbol": "ENHA",
+      "company": "Enhanced Group Inc.",
+      "insider_name": "Apeiron Investment Group Ltd.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-14",
+      "trade_price": 1.97,
+      "value": 295620.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 1.96
+      },
+      "latest_price": 1.96,
+      "return_pct": -0.51,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|EDAP|2026-08-14|horn david r.|4.75",
+      "market": "US",
+      "ticker": "EDAP",
+      "yf_symbol": "EDAP",
+      "company": "Edap Tms Sa",
+      "insider_name": "Horn David R.",
+      "title": "Dir",
+      "trade_date": "2026-08-14",
+      "trade_price": 4.75,
+      "value": 47500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "US|FOCL|2026-08-14|schulz fran|4.75",
+      "market": "US",
+      "ticker": "FOCL",
+      "yf_symbol": "FOCL",
+      "company": "Edap Tms Sa",
+      "insider_name": "Schulz Fran",
+      "title": "Dir",
+      "trade_date": "2026-08-14",
+      "trade_price": 4.75,
+      "value": 47500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 4.76
+      },
+      "latest_price": 4.76,
+      "return_pct": 0.21,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|EDAP|2026-08-14|levine joshua|4.75",
+      "market": "US",
+      "ticker": "EDAP",
+      "yf_symbol": "EDAP",
+      "company": "Edap Tms Sa",
+      "insider_name": "Levine Joshua",
+      "title": "Dir",
+      "trade_date": "2026-08-14",
+      "trade_price": 4.75,
+      "value": 47500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "US|FOCL|2026-08-14|willsey lance|4.75",
+      "market": "US",
+      "ticker": "FOCL",
+      "yf_symbol": "FOCL",
+      "company": "Edap Tms Sa",
+      "insider_name": "Willsey Lance",
+      "title": "Dir",
+      "trade_date": "2026-08-14",
+      "trade_price": 4.75,
+      "value": 237500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 4.76
+      },
+      "latest_price": 4.76,
+      "return_pct": 0.21,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|FOCL|2026-08-14|rhodes ryan|4.75",
+      "market": "US",
+      "ticker": "FOCL",
+      "yf_symbol": "FOCL",
+      "company": "Edap Tms Sa",
+      "insider_name": "Rhodes Ryan",
+      "title": "CEO",
+      "trade_date": "2026-08-14",
+      "trade_price": 4.75,
+      "value": 99750.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 4.76
+      },
+      "latest_price": 4.76,
+      "return_pct": 0.21,
       "last_snapshot": "2026-08-17"
     }
   ]
