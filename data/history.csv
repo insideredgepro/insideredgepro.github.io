@@ -9250,7 +9250,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-13,07:00,2026-08-11,XRN,Chiron Real Estate Inc.,Fitzgerald Charles,Dir,P - Purchase,35.78,14000,138893,+11%,500920,True
 2026-08-13,07:00,2026-08-11,EVGN,Evogene Ltd.,Recanati Leon,Dir,P - Purchase,0.64,460000,1343886,+52%,292100,False
 2026-08-13,06:57,2026-08-11,COE,51Talk Online Education Group,Huang Jack Jiajia,"CEO, 10%",P - Purchase,19.93,592320,85470620,+1%,11804395,False
-2026-08-13,06:53,2026-08-12,BTDR,Bitdeer Technologies Group,Potter Michael G,CFO,P - Purchase,9.04,25000,25000,New,226000,False
+2026-08-13,06:53,2026-08-12,BTDR,Bitdeer Technologies Group,Potter Michael G,CFO,P - Purchase,9.04,25000,25000,New,226000,True
 2026-08-13,09:54,2026-08-06,KRRO,"Korro Bio, Inc.",Lynx1 Capital Management LP,10%,P - Purchase,11.79,6684,1544980,0%,78809,False
 2026-08-13,11:46,2026-08-11,AMRZ,Amrize Ltd,Clark Stephen S,Chief People Officer,P - Purchase,47.31,5260,10637,+98%,248851,True
 2026-08-13,11:41,2026-08-11,AMRZ,Amrize Ltd,Brouwer Roald,CTO,P - Purchase,46.36,1500,21490,+8%,69540,True
@@ -9346,3 +9346,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-17,07:02,2026-08-13,VFC,V F Corp,Carucci Richard,Dir,P - Purchase,14.73,20000,356215,+6%,294600,True
 2026-08-17,07:24,2026-08-14,RICK,"Rci Hospitality Holdings, Inc.",Langan Eric Scott,Dir,P - Purchase,30.80,1630,708000,0%,50204,False
 2026-08-17,07:21,2026-08-14,REZI,"Resideo Technologies, Inc.",Surran Thomas A,"Pres, CEO",P - Purchase,20.46,15000,338573,+5%,306900,False
+2026-08-17,08:30,2026-08-14,ACCS,Access Newswire Inc.,Balbirnie Brian R,"Dir, CEO, 10%",P - Purchase,4.95,10000,644667,+2%,49500,False
+2026-08-17,08:30,2026-08-13,ACON,"Aclarion, Inc.",Bond Ryan,Dir,P - Purchase,2.37,21122,76122,+38%,50059,False
+2026-08-17,08:26,2026-08-14,BTDR,Bitdeer Technologies Group,Basit Haris Fozan,Chief Strategy Officer,P - Purchase,8.84,25000,35000,+250%,221000,True
+2026-08-17,08:24,2026-08-14,ONON,On Holding AG,Bernhard Olivier,Exec Officer,P - Purchase,30.67,65000,5228184,+1%,1993791,True
+2026-08-17,08:23,2026-08-14,ONON,On Holding AG,Coppetti Caspar Felix,"Exec Officer, Co-CEO",P - Purchase,30.67,65000,2440855,+3%,1993791,True

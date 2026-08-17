@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T12:24:22Z",
-  "trade_count": 9340,
+  "last_updated": "2026-08-17T13:33:33Z",
+  "trade_count": 9345,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -147920,7 +147920,7 @@
       "owned": "25000",
       "delta_own": "New",
       "value": "226000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-13",
@@ -149441,6 +149441,86 @@
       "delta_own": "+5%",
       "value": "306900",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-17",
+      "filing_time": "08:30",
+      "trade_date": "2026-08-14",
+      "ticker": "ACCS",
+      "company": "Access Newswire Inc.",
+      "insider_name": "Balbirnie Brian R",
+      "title": "Dir, CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "4.95",
+      "qty": "10000",
+      "owned": "644667",
+      "delta_own": "+2%",
+      "value": "49500",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-17",
+      "filing_time": "08:30",
+      "trade_date": "2026-08-13",
+      "ticker": "ACON",
+      "company": "Aclarion, Inc.",
+      "insider_name": "Bond Ryan",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.37",
+      "qty": "21122",
+      "owned": "76122",
+      "delta_own": "+38%",
+      "value": "50059",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-17",
+      "filing_time": "08:26",
+      "trade_date": "2026-08-14",
+      "ticker": "BTDR",
+      "company": "Bitdeer Technologies Group",
+      "insider_name": "Basit Haris Fozan",
+      "title": "Chief Strategy Officer",
+      "trade_type": "P - Purchase",
+      "price": "8.84",
+      "qty": "25000",
+      "owned": "35000",
+      "delta_own": "+250%",
+      "value": "221000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-17",
+      "filing_time": "08:24",
+      "trade_date": "2026-08-14",
+      "ticker": "ONON",
+      "company": "On Holding AG",
+      "insider_name": "Bernhard Olivier",
+      "title": "Exec Officer",
+      "trade_type": "P - Purchase",
+      "price": "30.67",
+      "qty": "65000",
+      "owned": "5228184",
+      "delta_own": "+1%",
+      "value": "1993791",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-17",
+      "filing_time": "08:23",
+      "trade_date": "2026-08-14",
+      "ticker": "ONON",
+      "company": "On Holding AG",
+      "insider_name": "Coppetti Caspar Felix",
+      "title": "Exec Officer, Co-CEO",
+      "trade_type": "P - Purchase",
+      "price": "30.67",
+      "qty": "65000",
+      "owned": "2440855",
+      "delta_own": "+3%",
+      "value": "1993791",
+      "cluster_buy": true
     }
   ]
 }
