@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T02:01:01Z",
-  "trade_count": 3562,
+  "last_updated": "2026-08-17T16:00:54Z",
+  "trade_count": 3563,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -54541,6 +54541,22 @@
       "qty": "13000",
       "price": "3.0400",
       "value": "39520",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4765003",
+      "trade_date": "2026-08-17",
+      "filing_date": "2026-08-17",
+      "company": "Profound Medical Corp.",
+      "ticker": "PRN",
+      "insider_name": "Tamberrino, Thomas Michael",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "3755",
+      "price": "6.6944",
+      "value": "25137",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
