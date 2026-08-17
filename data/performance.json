@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-17",
-  "entry_count": 1343,
+  "entry_count": 1345,
   "entries": [
     {
       "id": "US|CAES|2026-06-18|cantor ep holdings vii, llc|10.0",
@@ -49677,6 +49677,46 @@
       },
       "latest_price": 4.76,
       "return_pct": 0.21,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|BORR|2026-08-14|troim tor olav|4.39",
+      "market": "US",
+      "ticker": "BORR",
+      "yf_symbol": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Troim Tor Olav",
+      "title": "Dir",
+      "trade_date": "2026-08-14",
+      "trade_price": 4.39,
+      "value": 2193400.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 4.43
+      },
+      "latest_price": 4.43,
+      "return_pct": 0.91,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|VFC|2026-08-13|carucci richard|14.73",
+      "market": "US",
+      "ticker": "VFC",
+      "yf_symbol": "VFC",
+      "company": "V F Corp",
+      "insider_name": "Carucci Richard",
+      "title": "Dir",
+      "trade_date": "2026-08-13",
+      "trade_price": 14.73,
+      "value": 294600.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 14.87
+      },
+      "latest_price": 14.87,
+      "return_pct": 0.95,
       "last_snapshot": "2026-08-17"
     }
   ]

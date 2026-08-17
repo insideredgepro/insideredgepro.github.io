@@ -8712,7 +8712,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-07-31,18:23,2026-07-02,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,5.21,14882,2136618,+1%,77535,True
 2026-08-03,07:21,2026-07-31,RDWR,Radware Ltd,Avidan Guy,CFO,P - Purchase,25.21,2000,95800,+2%,50420,False
 2026-08-03,07:00,2026-07-31,FTAI,Ftai Aviation Ltd.,Moreno David,Pres,P - Purchase,201.27,2475,211844,+1%,498143,False
-2026-08-03,06:56,2026-07-31,VFC,V F Corp,Darrell Bracken,"Pres, Chief Exec Officer",P - Purchase,14.98,32894,1402109,+2%,492752,False
+2026-08-03,06:56,2026-07-31,VFC,V F Corp,Darrell Bracken,"Pres, Chief Exec Officer",P - Purchase,14.98,32894,1402109,+2%,492752,True
 2026-08-03,10:03,2026-07-31,PFBX,Peoples Financial Corp /Ms/,Stilwell Joseph,10%,P - Purchase,22.25,42658,585293,+8%,949094,False
 2026-08-03,11:40,2026-07-31,BCML,Baycom Corp,Perdue Michael J,Dir,P - Purchase,30.17,5000,11182,+81%,150850,True
 2026-08-03,14:37,2026-07-30,DCX,Digital Currency X Technology Inc.,Chen Melissa N,CEO (CEO),P - Purchase,1.25,41000,41000,New,51250,False
@@ -9342,3 +9342,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-17,06:03,2026-07-07,TDIC,Dreamland Ltd,Seto Wai Yue,"CEO, 10%",P - Purchase,3.75,972000,1149890,+546%,3645000,False
 2026-08-17,06:01,2026-08-14,FOCL,Edap Tms Sa,Willsey Lance,Dir,P - Purchase,4.75,50000,1291780,+4%,237500,True
 2026-08-17,06:01,2026-08-14,FOCL,Edap Tms Sa,Rhodes Ryan,CEO,P - Purchase,4.75,21000,626649,+3%,99750,True
+2026-08-17,07:04,2026-08-14,BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,4.39,500000,29267808,+2%,2193400,True
+2026-08-17,07:02,2026-08-13,VFC,V F Corp,Carucci Richard,Dir,P - Purchase,14.73,20000,356215,+6%,294600,True
