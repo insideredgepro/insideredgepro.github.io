@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T09:23:21Z",
-  "trade_count": 9395,
+  "last_updated": "2026-08-18T10:19:08Z",
+  "trade_count": 9396,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -150320,6 +150320,22 @@
       "owned": "2348108",
       "delta_own": "+12%",
       "value": "6126812",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "06:06",
+      "trade_date": "2026-04-23",
+      "ticker": "ENSC",
+      "company": "Ensysce Biosciences, Inc.",
+      "insider_name": "Gower Bob G",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.49",
+      "qty": "908614",
+      "owned": "916740",
+      "delta_own": ">999%",
+      "value": "444169",
       "cluster_buy": false
     }
   ]
