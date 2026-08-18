@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-18",
-  "entry_count": 1356,
+  "entry_count": 1358,
   "entries": [
     {
       "id": "US|MSTR|2026-06-22|le phong|90.8",
@@ -48388,6 +48388,46 @@
       },
       "latest_price": 25.82,
       "return_pct": 3.9,
+      "last_snapshot": "2026-08-18"
+    },
+    {
+      "id": "US|ASST|2026-08-14|rochard pierre|12.54",
+      "market": "US",
+      "ticker": "ASST",
+      "yf_symbol": "ASST",
+      "company": "Strive, Inc.",
+      "insider_name": "Rochard Pierre",
+      "title": "Dir",
+      "trade_date": "2026-08-14",
+      "trade_price": 12.54,
+      "value": 199386.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-18": 12.315
+      },
+      "latest_price": 12.315,
+      "return_pct": -1.79,
+      "last_snapshot": "2026-08-18"
+    },
+    {
+      "id": "US|REZI|2026-08-17|mehta amit ashvin|20.68",
+      "market": "US",
+      "ticker": "REZI",
+      "yf_symbol": "REZI",
+      "company": "Resideo Technologies, Inc.",
+      "insider_name": "Mehta Amit Ashvin",
+      "title": "SVP, Strategy, Business Ops",
+      "trade_date": "2026-08-17",
+      "trade_price": 20.68,
+      "value": 225999.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-18": 20.5
+      },
+      "latest_price": 20.5,
+      "return_pct": -0.87,
       "last_snapshot": "2026-08-18"
     }
   ]

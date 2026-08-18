@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T11:17:25Z",
-  "trade_count": 9396,
+  "last_updated": "2026-08-18T12:26:16Z",
+  "trade_count": 9398,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -150337,6 +150337,38 @@
       "delta_own": ">999%",
       "value": "444169",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "07:59",
+      "trade_date": "2026-08-14",
+      "ticker": "ASST",
+      "company": "Strive, Inc.",
+      "insider_name": "Rochard Pierre",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "12.54",
+      "qty": "15900",
+      "owned": "15900",
+      "delta_own": "New",
+      "value": "199386",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "07:33",
+      "trade_date": "2026-08-17",
+      "ticker": "REZI",
+      "company": "Resideo Technologies, Inc.",
+      "insider_name": "Mehta Amit Ashvin",
+      "title": "SVP, Strategy, Business Ops",
+      "trade_type": "P - Purchase",
+      "price": "20.68",
+      "qty": "10928",
+      "owned": "57362",
+      "delta_own": "+24%",
+      "value": "225999",
+      "cluster_buy": true
     }
   ]
 }
