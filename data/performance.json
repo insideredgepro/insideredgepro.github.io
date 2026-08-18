@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-17",
-  "entry_count": 1400,
+  "entry_count": 1402,
   "entries": [
     {
       "id": "US|CAES|2026-06-18|cantor ep holdings vii, llc|10.0",
@@ -50817,6 +50817,46 @@
       },
       "latest_price": 23.55,
       "return_pct": 67.38,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|MOBI|2026-08-13|tansey casey m|11.63",
+      "market": "US",
+      "ticker": "MOBI",
+      "yf_symbol": "MOBI",
+      "company": "Mobia Medical, Inc.",
+      "insider_name": "Tansey Casey M",
+      "title": "Dir",
+      "trade_date": "2026-08-13",
+      "trade_price": 11.63,
+      "value": 797173.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 11.74
+      },
+      "latest_price": 11.74,
+      "return_pct": 0.95,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "US|LWAY|2026-08-13|divisadero street capital management, lp|24.85",
+      "market": "US",
+      "ticker": "LWAY",
+      "yf_symbol": "LWAY",
+      "company": "Lifeway Foods, Inc.",
+      "insider_name": "Divisadero Street Capital Management, LP",
+      "title": "10%",
+      "trade_date": "2026-08-13",
+      "trade_price": 24.85,
+      "value": 6126812.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-17": 24.75
+      },
+      "latest_price": 24.75,
+      "return_pct": -0.4,
       "last_snapshot": "2026-08-17"
     }
   ]
