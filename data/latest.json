@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T18:23:47Z",
-  "trade_count": 9404,
+  "last_updated": "2026-08-18T19:21:52Z",
+  "trade_count": 9406,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -150465,6 +150465,38 @@
       "delta_own": "+33%",
       "value": "117769",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "14:45",
+      "trade_date": "2026-08-18",
+      "ticker": "ABCL",
+      "company": "Abcellera Biologics Inc.",
+      "insider_name": "Montalbano John S.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "11.03",
+      "qty": "10000",
+      "owned": "256000",
+      "delta_own": "+4%",
+      "value": "110300",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "14:30",
+      "trade_date": "2026-08-18",
+      "ticker": "NTHI",
+      "company": "Neonc Technologies Holdings, Inc.",
+      "insider_name": "Heshmatpour Amir F",
+      "title": "CEO, Pres, 10%",
+      "trade_type": "P - Purchase",
+      "price": "5.54",
+      "qty": "9000",
+      "owned": "7616140",
+      "delta_own": "0%",
+      "value": "49860",
+      "cluster_buy": false
     }
   ]
 }
