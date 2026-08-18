@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T22:00:22Z",
-  "trade_count": 3570,
+  "last_updated": "2026-08-18T03:45:22Z",
+  "trade_count": 3571,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -54669,6 +54669,22 @@
       "qty": "30800",
       "price": "1.5919",
       "value": "49030",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4765504",
+      "trade_date": "2026-08-17",
+      "filing_date": "2026-08-17",
+      "company": "Sendero Resources Corp.",
+      "ticker": "SEND",
+      "insider_name": "Gillis, Jeremy",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "0.8600",
+      "value": "17200",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false

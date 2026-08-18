@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-17",
-  "entry_count": 263,
+  "entry_count": 264,
   "entries": [
     {
       "id": "CA|AAV|2026-06-18|keyser, geoffrey|9.84",
@@ -11077,6 +11077,26 @@
       },
       "latest_price": 1.6,
       "return_pct": 0.51,
+      "last_snapshot": "2026-08-17"
+    },
+    {
+      "id": "CA|SEND|2026-08-17|gillis, jeremy|0.86",
+      "market": "CA",
+      "ticker": "SEND",
+      "yf_symbol": "SEND.V",
+      "company": "Sendero Resources Corp.",
+      "insider_name": "Gillis, Jeremy",
+      "title": "10% Holder",
+      "trade_date": "2026-08-17",
+      "trade_price": 0.86,
+      "value": 17200.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-08-17": 0.91
+      },
+      "latest_price": 0.91,
+      "return_pct": 5.81,
       "last_snapshot": "2026-08-17"
     }
   ]
