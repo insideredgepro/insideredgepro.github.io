@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T13:35:36Z",
-  "trade_count": 9399,
+  "last_updated": "2026-08-18T14:23:26Z",
+  "trade_count": 9401,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -150384,6 +150384,38 @@
       "owned": "33062812",
       "delta_own": "+1%",
       "value": "330420",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "10:13",
+      "trade_date": "2026-08-17",
+      "ticker": "ECG",
+      "company": "Everus Construction Group, Inc.",
+      "insider_name": "Sparby David M",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "144.95",
+      "qty": "1000",
+      "owned": "19658",
+      "delta_own": "+5%",
+      "value": "144950",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "09:43",
+      "trade_date": "2026-08-17",
+      "ticker": "NRGV",
+      "company": "Energy Vault Holdings, Inc.",
+      "insider_name": "Hixon Dylan",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.88",
+      "qty": "27472",
+      "owned": "1130657",
+      "delta_own": "+2%",
+      "value": "106536",
       "cluster_buy": false
     }
   ]
