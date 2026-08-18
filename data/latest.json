@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T21:15:03Z",
-  "trade_count": 9424,
+  "last_updated": "2026-08-18T22:13:11Z",
+  "trade_count": 9428,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -146688,7 +146688,7 @@
       "owned": "356341",
       "delta_own": "+2%",
       "value": "148988",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-11",
@@ -150785,6 +150785,70 @@
       "delta_own": "+3%",
       "value": "49470",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "17:51",
+      "trade_date": "2026-08-17",
+      "ticker": "AUGO",
+      "company": "Aura Minerals Inc.",
+      "insider_name": "Sousa Mauad Bruno",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "78.93",
+      "qty": "11000",
+      "owned": "448765",
+      "delta_own": "+3%",
+      "value": "868230",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "17:38",
+      "trade_date": "2026-08-17",
+      "ticker": "FRPH",
+      "company": "Frp Holdings, Inc.",
+      "insider_name": "Baker John D II",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "21.97",
+      "qty": "9146",
+      "owned": "3345007",
+      "delta_own": "0%",
+      "value": "200936",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "17:26",
+      "trade_date": "2026-08-17",
+      "ticker": "CDNL",
+      "company": "Cardinal Infrastructure Group Inc.",
+      "insider_name": "Wimmer Richard Bennett",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "39.13",
+      "qty": "7500",
+      "owned": "29349",
+      "delta_own": "+34%",
+      "value": "293475",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "17:15",
+      "trade_date": "2026-08-17",
+      "ticker": "AVD",
+      "company": "American Vanguard Corp",
+      "insider_name": "Macicek Steven D",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.09",
+      "qty": "19000",
+      "owned": "99711",
+      "delta_own": "+24%",
+      "value": "39710",
+      "cluster_buy": false
     }
   ]
 }

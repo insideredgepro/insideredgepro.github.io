@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-18",
-  "entry_count": 1384,
+  "entry_count": 1388,
   "entries": [
     {
       "id": "US|MSTR|2026-06-22|le phong|90.8",
@@ -48948,6 +48948,86 @@
       },
       "latest_price": 4.94,
       "return_pct": -3.14,
+      "last_snapshot": "2026-08-18"
+    },
+    {
+      "id": "US|AUGO|2026-08-17|sousa mauad bruno|78.93",
+      "market": "US",
+      "ticker": "AUGO",
+      "yf_symbol": "AUGO",
+      "company": "Aura Minerals Inc.",
+      "insider_name": "Sousa Mauad Bruno",
+      "title": "Dir",
+      "trade_date": "2026-08-17",
+      "trade_price": 78.93,
+      "value": 868230.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-18": 76.24
+      },
+      "latest_price": 76.24,
+      "return_pct": -3.41,
+      "last_snapshot": "2026-08-18"
+    },
+    {
+      "id": "US|FRPH|2026-08-17|baker john d ii|21.97",
+      "market": "US",
+      "ticker": "FRPH",
+      "yf_symbol": "FRPH",
+      "company": "Frp Holdings, Inc.",
+      "insider_name": "Baker John D II",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-17",
+      "trade_price": 21.97,
+      "value": 200936.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-18": 22.01
+      },
+      "latest_price": 22.01,
+      "return_pct": 0.18,
+      "last_snapshot": "2026-08-18"
+    },
+    {
+      "id": "US|CDNL|2026-08-17|wimmer richard bennett|39.13",
+      "market": "US",
+      "ticker": "CDNL",
+      "yf_symbol": "CDNL",
+      "company": "Cardinal Infrastructure Group Inc.",
+      "insider_name": "Wimmer Richard Bennett",
+      "title": "Dir",
+      "trade_date": "2026-08-17",
+      "trade_price": 39.13,
+      "value": 293475.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-18": 45.14
+      },
+      "latest_price": 45.14,
+      "return_pct": 15.36,
+      "last_snapshot": "2026-08-18"
+    },
+    {
+      "id": "US|AVD|2026-08-17|macicek steven d|2.09",
+      "market": "US",
+      "ticker": "AVD",
+      "yf_symbol": "AVD",
+      "company": "American Vanguard Corp",
+      "insider_name": "Macicek Steven D",
+      "title": "Dir",
+      "trade_date": "2026-08-17",
+      "trade_price": 2.09,
+      "value": 39710.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-18": 2.17
+      },
+      "latest_price": 2.17,
+      "return_pct": 3.83,
       "last_snapshot": "2026-08-18"
     }
   ]
