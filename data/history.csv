@@ -9122,7 +9122,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-11,16:25,2026-08-07,MGY,Magnolia Oil & Gas Corp,Khani David M.,Dir,P - Purchase,25.00,8000,30622,+35%,200000,True
 2026-08-11,16:21,2026-08-11,SMRT,"Smartrent, Inc.",Pinczuk Ana G.,Dir,P - Purchase,1.43,107000,385704,+38%,152625,True
 2026-08-11,16:20,2026-08-10,HOG,"Harley-Davidson, Inc.",Starrs Artie,"Pres, CEO",P - Purchase,25.89,10000,25000,+67%,258941,True
-2026-08-11,16:16,2026-08-10,SRI,Stoneridge Inc,Noblet Natalia,"Pres, CEO",P - Purchase,7.31,5000,5000,New,36550,False
+2026-08-11,16:16,2026-08-10,SRI,Stoneridge Inc,Noblet Natalia,"Pres, CEO",P - Purchase,7.31,5000,5000,New,36550,True
 2026-08-11,16:15,2026-08-10,LITB,"Lightinthebox Holding Co., Ltd.",He Jian,"CEO, 10%",P - Purchase,0.26,4254553,4254553,New,1092144,False
 2026-08-11,16:15,2026-08-07,SUNS,"Sunrise Realty Trust, Inc.",Tannenbaum Leonard M,"Exec COB, 10%",P - Purchase,7.76,48109,3779874,+1%,373383,False
 2026-08-11,16:15,2026-08-07,FISV,Fiserv Inc,Fritz Lance M,Dir,P - Purchase,51.95,10000,27207,+58%,519500,False
@@ -9408,3 +9408,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-18,10:13,2026-08-17,ECG,"Everus Construction Group, Inc.",Sparby David M,Dir,P - Purchase,144.95,1000,19658,+5%,144950,False
 2026-08-18,09:43,2026-08-17,NRGV,"Energy Vault Holdings, Inc.",Hixon Dylan,Dir,P - Purchase,3.88,27472,1130657,+2%,106536,False
 2026-08-18,11:52,2026-08-14,SKYH,Sky Harbour Group Corp,Gessow Andrew J,Dir,P - Purchase,10.85,5000,22910,+28%,54250,False
+2026-08-18,12:34,2026-08-18,SRI,Stoneridge Inc,Humphrey Scott Randall,"CFO, Treasurer",P - Purchase,7.01,6000,6000,New,42060,True
+2026-08-18,12:29,2026-08-17,AMRZ,Amrize Ltd,Poletti Samuel Jonas,"Chief Strategy, M, A Officer",P - Purchase,46.92,2510,10155,+33%,117769,True

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T16:20:58Z",
-  "trade_count": 9402,
+  "last_updated": "2026-08-18T17:19:02Z",
+  "trade_count": 9404,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -145872,7 +145872,7 @@
       "owned": "5000",
       "delta_own": "New",
       "value": "36550",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-11",
@@ -150433,6 +150433,38 @@
       "delta_own": "+28%",
       "value": "54250",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "12:34",
+      "trade_date": "2026-08-18",
+      "ticker": "SRI",
+      "company": "Stoneridge Inc",
+      "insider_name": "Humphrey Scott Randall",
+      "title": "CFO, Treasurer",
+      "trade_type": "P - Purchase",
+      "price": "7.01",
+      "qty": "6000",
+      "owned": "6000",
+      "delta_own": "New",
+      "value": "42060",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "12:29",
+      "trade_date": "2026-08-17",
+      "ticker": "AMRZ",
+      "company": "Amrize Ltd",
+      "insider_name": "Poletti Samuel Jonas",
+      "title": "Chief Strategy, M, A Officer",
+      "trade_type": "P - Purchase",
+      "price": "46.92",
+      "qty": "2510",
+      "owned": "10155",
+      "delta_own": "+33%",
+      "value": "117769",
+      "cluster_buy": true
     }
   ]
 }
