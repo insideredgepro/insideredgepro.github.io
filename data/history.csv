@@ -9346,7 +9346,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-17,07:02,2026-08-13,VFC,V F Corp,Carucci Richard,Dir,P - Purchase,14.73,20000,356215,+6%,294600,True
 2026-08-17,07:24,2026-08-14,RICK,"Rci Hospitality Holdings, Inc.",Langan Eric Scott,Dir,P - Purchase,30.80,1630,708000,0%,50204,False
 2026-08-17,07:21,2026-08-14,REZI,"Resideo Technologies, Inc.",Surran Thomas A,"Pres, CEO",P - Purchase,20.46,15000,338573,+5%,306900,True
-2026-08-17,08:30,2026-08-14,ACCS,Access Newswire Inc.,Balbirnie Brian R,"Dir, CEO, 10%",P - Purchase,4.95,10000,644667,+2%,49500,False
+2026-08-17,08:30,2026-08-14,ACCS,Access Newswire Inc.,Balbirnie Brian R,"Dir, CEO, 10%",P - Purchase,4.95,10000,644667,+2%,49500,True
 2026-08-17,08:30,2026-08-13,ACON,"Aclarion, Inc.",Bond Ryan,Dir,P - Purchase,2.37,21122,76122,+38%,50059,False
 2026-08-17,08:26,2026-08-14,BTDR,Bitdeer Technologies Group,Basit Haris Fozan,Chief Strategy Officer,P - Purchase,8.84,25000,35000,+250%,221000,True
 2026-08-17,08:24,2026-08-14,ONON,On Holding AG,Bernhard Olivier,Exec Officer,P - Purchase,30.67,65000,5228184,+1%,1993791,True
@@ -9389,7 +9389,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-17,17:24,2026-08-14,XRN,Chiron Real Estate Inc.,Whitlock Matthew Fitzsimmons,Chief Investment Officer,P - Purchase,36.80,1000,2000,+100%,36795,True
 2026-08-17,17:21,2026-08-13,CMCL,Caledonia Mining Corp Plc,Ndlovu July,Dir,P - Purchase,23.03,21400,250489,+9%,492842,False
 2026-08-17,17:17,2026-08-13,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,10.36,12696,963738,+1%,131558,False
-2026-08-17,18:49,2026-08-14,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"CEO, Pres, 10%",P - Purchase,3.91,15000,7607140,0%,58580,False
+2026-08-17,18:49,2026-08-14,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"CEO, Pres, 10%",P - Purchase,3.91,15000,7607140,0%,58580,True
 2026-08-17,18:37,2026-08-14,PODC,"Podcastone, Inc.",Merriman D Jonathan,Dir,P - Purchase,3.04,28300,592595,+5%,86040,False
 2026-08-17,20:04,2026-08-13,DKL,"Delek Logistics Partners, LP",Soreq Avigal,Pres,P - Purchase,50.00,2500,84782,+3%,125000,True
 2026-08-17,20:02,2026-08-13,DKL,"Delek Logistics Partners, LP",Hobbs Mark Wayne,EVP,P - Purchase,50.00,4000,24125,+20%,200000,True
@@ -9411,8 +9411,22 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-18,12:34,2026-08-18,SRI,Stoneridge Inc,Humphrey Scott Randall,"CFO, Treasurer",P - Purchase,7.01,6000,6000,New,42060,True
 2026-08-18,12:29,2026-08-17,AMRZ,Amrize Ltd,Poletti Samuel Jonas,"Chief Strategy, M, A Officer",P - Purchase,46.92,2510,10155,+33%,117769,True
 2026-08-18,14:45,2026-08-18,ABCL,Abcellera Biologics Inc.,Montalbano John S.,Dir,P - Purchase,11.03,10000,256000,+4%,110300,True
-2026-08-18,14:30,2026-08-18,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"CEO, Pres, 10%",P - Purchase,5.54,9000,7616140,0%,49860,False
+2026-08-18,14:30,2026-08-18,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"CEO, Pres, 10%",P - Purchase,5.54,9000,7616140,0%,49860,True
 2026-08-18,16:08,2026-08-18,EYPT,"Eyepoint, Inc.",Zaderej Karen L.,Dir,P - Purchase,4.93,10600,49100,+28%,52258,False
 2026-08-18,16:05,2026-08-14,FGBI,"First Guaranty Bancshares, Inc.",Walker Robert W,Dir,P - Purchase,19.22,1601,1601,New,30771,False
 2026-08-18,16:04,2026-08-14,EVLV,"Evolv Technologies Holdings, Inc.",Glat Neil,Dir,P - Purchase,5.74,8500,252100,+3%,48790,True
 2026-08-18,16:04,2026-08-14,EVLV,"Evolv Technologies Holdings, Inc.",Kuhl Henrik,Dir,P - Purchase,5.73,15000,24291,+161%,85950,True
+2026-08-18,17:00,2026-08-17,VRCA,Verrica Pharmaceuticals Inc.,Zawitz David,COO,P - Purchase,4.98,6000,27000,+29%,29880,True
+2026-08-18,17:00,2026-08-17,VRCA,Verrica Pharmaceuticals Inc.,Rosenberg Noah L.,CMO,P - Purchase,4.91,6230,8587,+264%,30610,True
+2026-08-18,17:00,2026-08-14,VRCA,Verrica Pharmaceuticals Inc.,Rieger Jayson,"CEO, Pres",P - Purchase,5.03,25000,208298,+14%,125750,True
+2026-08-18,16:55,2026-08-17,NVRI,Enviri Corp,Haznedar Carolann I,Dir,P - Purchase,20.46,4875,42955,+13%,99747,False
+2026-08-18,16:54,2026-08-14,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10%,P - Purchase,215.26,356050,112024656,0%,76643506,False
+2026-08-18,16:51,2026-08-14,FTI,Technipfmc Plc,Mullins Eric D.,Dir,P - Purchase,78.55,6365,8070,+373%,499971,False
+2026-08-18,16:34,2026-08-14,LILA,Liberty Latin America Ltd.,Malone John C,"Director Emeritus, 10%",P - Purchase,8.50,6761,3960827,0%,57469,True
+2026-08-18,16:32,2026-08-18,ELAN,Elanco Animal Health Inc,O'Neill Shiv,"GC, CORP SEC",P - Purchase,23.58,3998,87832,+5%,94273,True
+2026-08-18,16:27,2026-08-17,CNP,Centerpoint Energy Inc,Fitch Laurie Lee,Dir,P - Purchase,40.70,1000,12395,+9%,40700,False
+2026-08-18,16:16,2026-08-17,BXSY,Bexil Investment Trust,Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,18.04,7700,324582,+2%,138941,False
+2026-08-18,16:16,2026-08-17,SELF,"Global Self Storage, Inc.",Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,5.33,12853,184287,+7%,68443,False
+2026-08-18,16:15,2026-08-14,CODI,Compass Diversified Holdings,Richter Glenn R,See Remarks (a),P - Purchase,13.14,38051,38051,New,499986,True
+2026-08-18,16:13,2026-08-14,NTHI,"Neonc Technologies Holdings, Inc.",Chen Thomas C,"CEO, 10%",P - Purchase,3.86,36259,4660135,+1%,140000,True
+2026-08-18,16:13,2026-08-17,ACCS,Access Newswire Inc.,Rein Graeme P.,Dir,P - Purchase,5.10,9700,299445,+3%,49470,True
