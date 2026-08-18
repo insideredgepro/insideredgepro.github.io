@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T03:45:22Z",
-  "trade_count": 3571,
+  "last_updated": "2026-08-18T16:00:21Z",
+  "trade_count": 3572,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -54685,6 +54685,22 @@
       "qty": "20000",
       "price": "0.8600",
       "value": "17200",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4765718",
+      "trade_date": "2026-08-18",
+      "filing_date": "2026-08-18",
+      "company": "Entree Resources Ltd.",
+      "ticker": "ETG",
+      "insider_name": "Adams, Christopher",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "8200",
+      "price": "2.5200",
+      "value": "20664",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
