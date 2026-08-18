@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T12:26:16Z",
-  "trade_count": 9398,
+  "last_updated": "2026-08-18T13:35:36Z",
+  "trade_count": 9399,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -150369,6 +150369,22 @@
       "delta_own": "+24%",
       "value": "225999",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "08:55",
+      "trade_date": "2026-08-17",
+      "ticker": "ENHA",
+      "company": "Enhanced Group Inc.",
+      "insider_name": "Apeiron Investment Group Ltd.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.65",
+      "qty": "200000",
+      "owned": "33062812",
+      "delta_own": "+1%",
+      "value": "330420",
+      "cluster_buy": false
     }
   ]
 }
