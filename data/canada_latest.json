@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T16:00:21Z",
-  "trade_count": 3572,
+  "last_updated": "2026-08-18T22:00:43Z",
+  "trade_count": 3576,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -54415,7 +54415,7 @@
       "value": "35440",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4764303",
@@ -54701,6 +54701,70 @@
       "qty": "8200",
       "price": "2.5200",
       "value": "20664",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4765901",
+      "trade_date": "2026-08-18",
+      "filing_date": "2026-08-18",
+      "company": "Altus Group Limited",
+      "ticker": "AIF",
+      "insider_name": "Brennan, William",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "6329",
+      "price": "46.9100",
+      "value": "296893",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4765799",
+      "trade_date": "2026-08-18",
+      "filing_date": "2026-08-18",
+      "company": "Dominion Lending Centres Inc. Centres Hypothecaires Dominion Inc.",
+      "ticker": "DLCG",
+      "insider_name": "Bruno, Trevor",
+      "title": "Director",
+      "security": "Common Shares Class A",
+      "qty": "39400",
+      "price": "9.0000",
+      "value": "354600",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4765859",
+      "trade_date": "2026-08-18",
+      "filing_date": "2026-08-18",
+      "company": "Freeman Gold Corp.",
+      "ticker": "FMAN",
+      "insider_name": "Marcotte, Simon",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "102500",
+      "price": "0.3744",
+      "value": "38376",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4765846",
+      "trade_date": "2026-08-18",
+      "filing_date": "2026-08-18",
+      "company": "i-80 Gold Corp.",
+      "ticker": "IAU",
+      "insider_name": "Young, Richard Scott",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "1000000",
+      "price": "2.2510",
+      "value": "2251000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
