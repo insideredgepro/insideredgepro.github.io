@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T22:13:11Z",
-  "trade_count": 9428,
+  "last_updated": "2026-08-18T23:13:39Z",
+  "trade_count": 9430,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -150848,6 +150848,38 @@
       "owned": "99711",
       "delta_own": "+24%",
       "value": "39710",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "19:06",
+      "trade_date": "2026-08-14",
+      "ticker": "EQPT",
+      "company": "Equipmentshare.Com Inc",
+      "insider_name": "Schlacks William J.",
+      "title": "Founder, Pres",
+      "trade_type": "P - Purchase",
+      "price": "20.43",
+      "qty": "8950",
+      "owned": "14365498",
+      "delta_own": "0%",
+      "value": "182884",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "18:55",
+      "trade_date": "2026-08-14",
+      "ticker": "MLPT",
+      "company": "Maplight Therapeutics, Inc.",
+      "insider_name": "Catalyst4, Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "11.38",
+      "qty": "4400000",
+      "owned": "25306689",
+      "delta_own": "+21%",
+      "value": "50072000",
       "cluster_buy": false
     }
   ]

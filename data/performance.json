@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-18",
-  "entry_count": 1388,
+  "entry_count": 1390,
   "entries": [
     {
       "id": "US|MSTR|2026-06-22|le phong|90.8",
@@ -49029,6 +49029,44 @@
       "latest_price": 2.17,
       "return_pct": 3.83,
       "last_snapshot": "2026-08-18"
+    },
+    {
+      "id": "US|EQPT|2026-08-14|schlacks william j.|20.43",
+      "market": "US",
+      "ticker": "EQPT",
+      "yf_symbol": "EQPT",
+      "company": "Equipmentshare.Com Inc",
+      "insider_name": "Schlacks William J.",
+      "title": "Founder, Pres",
+      "trade_date": "2026-08-14",
+      "trade_price": 20.43,
+      "value": 182884.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-18": 19.54
+      },
+      "latest_price": 19.54,
+      "return_pct": -4.36,
+      "last_snapshot": "2026-08-18"
+    },
+    {
+      "id": "US|MLPT|2026-08-14|catalyst4, inc.|11.38",
+      "market": "US",
+      "ticker": "MLPT",
+      "yf_symbol": "MLPT",
+      "company": "Maplight Therapeutics, Inc.",
+      "insider_name": "Catalyst4, Inc.",
+      "title": "10%",
+      "trade_date": "2026-08-14",
+      "trade_price": 11.38,
+      "value": 50072000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
     }
   ]
 }
