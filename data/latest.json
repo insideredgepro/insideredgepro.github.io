@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T15:22:25Z",
-  "trade_count": 9401,
+  "last_updated": "2026-08-18T16:20:58Z",
+  "trade_count": 9402,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -150416,6 +150416,22 @@
       "owned": "1130657",
       "delta_own": "+2%",
       "value": "106536",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "11:52",
+      "trade_date": "2026-08-14",
+      "ticker": "SKYH",
+      "company": "Sky Harbour Group Corp",
+      "insider_name": "Gessow Andrew J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "10.85",
+      "qty": "5000",
+      "owned": "22910",
+      "delta_own": "+28%",
+      "value": "54250",
       "cluster_buy": false
     }
   ]
