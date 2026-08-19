@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T22:15:41Z",
-  "trade_count": 9595,
+  "last_updated": "2026-08-19T23:14:58Z",
+  "trade_count": 9596,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -153521,6 +153521,22 @@
       "delta_own": "+11%",
       "value": "468225",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "18:34",
+      "trade_date": "2026-08-17",
+      "ticker": "MFP",
+      "company": "Midera Food Processing, Inc.",
+      "insider_name": "Nerbonne Robert A",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "45.05",
+      "qty": "10900",
+      "owned": "47258",
+      "delta_own": "+30%",
+      "value": "491045",
+      "cluster_buy": false
     }
   ]
 }

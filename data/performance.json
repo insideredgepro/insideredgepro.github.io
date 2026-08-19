@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-19",
-  "entry_count": 1553,
+  "entry_count": 1554,
   "entries": [
     {
       "id": "US|MSTR|2026-06-22|le phong|90.8",
@@ -44761,8 +44761,8 @@
         "2026-08-18": 0.12,
         "2026-08-19": 0.12
       },
-      "latest_price": 0.095,
-      "return_pct": -5.0,
+      "latest_price": 0.12,
+      "return_pct": 20.0,
       "last_snapshot": "2026-08-19"
     },
     {
@@ -53007,6 +53007,26 @@
       },
       "latest_price": 10.59,
       "return_pct": 1.73,
+      "last_snapshot": "2026-08-19"
+    },
+    {
+      "id": "US|MFP|2026-08-17|nerbonne robert a|45.05",
+      "market": "US",
+      "ticker": "MFP",
+      "yf_symbol": "MFP",
+      "company": "Midera Food Processing, Inc.",
+      "insider_name": "Nerbonne Robert A",
+      "title": "Dir",
+      "trade_date": "2026-08-17",
+      "trade_price": 45.05,
+      "value": 491045.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-19": 45.71
+      },
+      "latest_price": 45.71,
+      "return_pct": 1.47,
       "last_snapshot": "2026-08-19"
     }
   ]
