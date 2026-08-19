@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T19:19:32Z",
-  "trade_count": 9577,
+  "last_updated": "2026-08-19T20:17:23Z",
+  "trade_count": 9580,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -153233,6 +153233,54 @@
       "delta_own": "+33%",
       "value": "2111557",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "16:14",
+      "trade_date": "2026-08-19",
+      "ticker": "DMLP",
+      "company": "Dorchester Minerals, L.P.",
+      "insider_name": "Moriyama Leslie A",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "28.30",
+      "qty": "5197",
+      "owned": "103405",
+      "delta_own": "+5%",
+      "value": "147075",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "15:46",
+      "trade_date": "2026-08-18",
+      "ticker": "UTGN",
+      "company": "Utg Inc",
+      "insider_name": "First Southern Funding LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "59.00",
+      "qty": "4808",
+      "owned": "1698491",
+      "delta_own": "0%",
+      "value": "283672",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "15:19",
+      "trade_date": "2026-08-18",
+      "ticker": "UTGN",
+      "company": "Utg Inc",
+      "insider_name": "Correll Jesse T",
+      "title": "COB, CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "59.00",
+      "qty": "4808",
+      "owned": "2057712",
+      "delta_own": "0%",
+      "value": "283672",
+      "cluster_buy": true
     }
   ]
 }
