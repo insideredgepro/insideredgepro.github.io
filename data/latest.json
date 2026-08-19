@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T13:39:28Z",
-  "trade_count": 9569,
+  "last_updated": "2026-08-19T14:25:58Z",
+  "trade_count": 9570,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -153105,6 +153105,22 @@
       "delta_own": "+11%",
       "value": "2499999",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "09:44",
+      "trade_date": "2026-08-17",
+      "ticker": "AAVBC",
+      "company": "",
+      "insider_name": "Doane Thomas",
+      "title": "EVP- Human Resources",
+      "trade_type": "P - Purchase",
+      "price": "22.31",
+      "qty": "1726",
+      "owned": "19422",
+      "delta_own": "+10%",
+      "value": "38507",
+      "cluster_buy": false
     }
   ]
 }
