@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-18",
-  "entry_count": 249,
+  "entry_count": 252,
   "entries": [
     {
       "id": "CA|ACX|2026-06-19|maxwell, roderick donald|6.25",
@@ -10213,6 +10213,66 @@
       },
       "latest_price": 2.21,
       "return_pct": -1.82,
+      "last_snapshot": "2026-08-18"
+    },
+    {
+      "id": "CA|AAUC|2026-08-18|marrone, peter|29.15",
+      "market": "CA",
+      "ticker": "AAUC",
+      "yf_symbol": "AAUC.TO",
+      "company": "Allied Gold Corporation",
+      "insider_name": "Marrone, Peter",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-08-18",
+      "trade_price": 29.15,
+      "value": 1020250.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-08-18": 29.22
+      },
+      "latest_price": 29.22,
+      "return_pct": 0.24,
+      "last_snapshot": "2026-08-18"
+    },
+    {
+      "id": "CA|EQB|2026-08-18|loblaw companies limited|138.7592",
+      "market": "CA",
+      "ticker": "EQB",
+      "yf_symbol": "EQB.TO",
+      "company": "EQB Inc.",
+      "insider_name": "Loblaw Companies Limited",
+      "title": "10% Holder",
+      "trade_date": "2026-08-18",
+      "trade_price": 138.7592,
+      "value": 1110073.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-08-18": 138.2
+      },
+      "latest_price": 138.2,
+      "return_pct": -0.4,
+      "last_snapshot": "2026-08-18"
+    },
+    {
+      "id": "CA|GPS|2026-08-18|williams, rupert edward|0.15",
+      "market": "CA",
+      "ticker": "GPS",
+      "yf_symbol": "GPS.V",
+      "company": "Great Plains Metals Corp.",
+      "insider_name": "Williams, Rupert Edward",
+      "title": "Director",
+      "trade_date": "2026-08-18",
+      "trade_price": 0.15,
+      "value": 18750.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-08-18": 0.15
+      },
+      "latest_price": 0.15,
+      "return_pct": 0.0,
       "last_snapshot": "2026-08-18"
     }
   ]
