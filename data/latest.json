@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T16:23:09Z",
-  "trade_count": 9571,
+  "last_updated": "2026-08-19T17:19:06Z",
+  "trade_count": 9574,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -150976,7 +150976,7 @@
       "owned": "347500",
       "delta_own": "-107%",
       "value": "1440720",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-19",
@@ -153137,6 +153137,54 @@
       "delta_own": "+3,405%",
       "value": "1050000",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "10:30",
+      "trade_date": "2026-08-18",
+      "ticker": "ATXG",
+      "company": "Addentax Group Corp.",
+      "insider_name": "Hong Zhiwang",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "4.80",
+      "qty": "218750",
+      "owned": "225174",
+      "delta_own": ">999%",
+      "value": "1050000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "09:44",
+      "trade_date": "2026-08-17",
+      "ticker": "AVBC",
+      "company": "Avidia Bancorp, Inc.",
+      "insider_name": "Doane Thomas",
+      "title": "EVP- HR",
+      "trade_type": "P - Purchase",
+      "price": "22.31",
+      "qty": "1726",
+      "owned": "20659",
+      "delta_own": "+9%",
+      "value": "38507",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "08:41",
+      "trade_date": "2026-08-07",
+      "ticker": "CCHH",
+      "company": "Cch Holdings Ltd",
+      "insider_name": "Ng Yah Ling",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.28",
+      "qty": "469987",
+      "owned": "469987",
+      "delta_own": "New",
+      "value": "129716",
+      "cluster_buy": true
     }
   ]
 }
