@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-18",
-  "entry_count": 1392,
+  "entry_count": 1393,
   "entries": [
     {
       "id": "US|MSTR|2026-06-22|le phong|90.8",
@@ -49106,6 +49106,26 @@
       },
       "latest_price": 6.57,
       "return_pct": -3.67,
+      "last_snapshot": "2026-08-18"
+    },
+    {
+      "id": "US|ASND|2026-08-14|bienaime jean jacques|246.33",
+      "market": "US",
+      "ticker": "ASND",
+      "yf_symbol": "ASND",
+      "company": "Ascendis Pharma A/S",
+      "insider_name": "Bienaime Jean Jacques",
+      "title": "Dir",
+      "trade_date": "2026-08-14",
+      "trade_price": 246.33,
+      "value": 492654.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-18": 248.85
+      },
+      "latest_price": 248.85,
+      "return_pct": 1.02,
       "last_snapshot": "2026-08-18"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T00:42:07Z",
-  "trade_count": 9433,
+  "last_updated": "2026-08-19T02:13:51Z",
+  "trade_count": 9434,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -150929,6 +150929,22 @@
       "delta_own": "+42%",
       "value": "65830",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "21:02",
+      "trade_date": "2026-08-14",
+      "ticker": "ASND",
+      "company": "Ascendis Pharma A/S",
+      "insider_name": "Bienaime Jean Jacques",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "246.33",
+      "qty": "2000",
+      "owned": "2900",
+      "delta_own": "+222%",
+      "value": "492654",
+      "cluster_buy": false
     }
   ]
 }
