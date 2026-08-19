@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T21:17:52Z",
-  "trade_count": 9590,
+  "last_updated": "2026-08-19T22:15:41Z",
+  "trade_count": 9595,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -153441,6 +153441,86 @@
       "delta_own": "+11%",
       "value": "42475",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "18:11",
+      "trade_date": "2026-08-14",
+      "ticker": "ZNTL",
+      "company": "Zentalis Pharmaceuticals, Inc.",
+      "insider_name": "Walters Group",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "3.50",
+      "qty": "4335000",
+      "owned": "17844973",
+      "delta_own": "+32%",
+      "value": "15172500",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "17:55",
+      "trade_date": "2026-08-17",
+      "ticker": "BLND",
+      "company": "Blend Labs, Inc.",
+      "insider_name": "Haveli Investments, L.P.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.44",
+      "qty": "17397",
+      "owned": "18841054",
+      "delta_own": "0%",
+      "value": "25120",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "17:29",
+      "trade_date": "2026-08-17",
+      "ticker": "UUU",
+      "company": "Universal Safety Products, Inc.",
+      "insider_name": "Ault Milton C III",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "5.12",
+      "qty": "39303",
+      "owned": "1093355",
+      "delta_own": "+4%",
+      "value": "201393",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "17:23",
+      "trade_date": "2026-08-17",
+      "ticker": "REFI",
+      "company": "Chicago Atlantic Real Estate Finance, Inc.",
+      "insider_name": "Mazarakis John",
+      "title": "Exec COB",
+      "trade_type": "P - Purchase",
+      "price": "10.25",
+      "qty": "25000",
+      "owned": "515230",
+      "delta_own": "+5%",
+      "value": "256325",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "17:22",
+      "trade_date": "2026-08-17",
+      "ticker": "REFI",
+      "company": "Chicago Atlantic Real Estate Finance, Inc.",
+      "insider_name": "Cappell Anthony",
+      "title": "Co-CEO",
+      "trade_type": "P - Purchase",
+      "price": "10.41",
+      "qty": "45000",
+      "owned": "466706",
+      "delta_own": "+11%",
+      "value": "468225",
+      "cluster_buy": true
     }
   ]
 }

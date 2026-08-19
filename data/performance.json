@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-19",
-  "entry_count": 1548,
+  "entry_count": 1553,
   "entries": [
     {
       "id": "US|MSTR|2026-06-22|le phong|90.8",
@@ -52907,6 +52907,106 @@
       },
       "latest_price": 0.81,
       "return_pct": -4.71,
+      "last_snapshot": "2026-08-19"
+    },
+    {
+      "id": "US|ZNTL|2026-08-14|walters group|3.5",
+      "market": "US",
+      "ticker": "ZNTL",
+      "yf_symbol": "ZNTL",
+      "company": "Zentalis Pharmaceuticals, Inc.",
+      "insider_name": "Walters Group",
+      "title": "10%",
+      "trade_date": "2026-08-14",
+      "trade_price": 3.5,
+      "value": 15172500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-19": 3.82
+      },
+      "latest_price": 3.82,
+      "return_pct": 9.14,
+      "last_snapshot": "2026-08-19"
+    },
+    {
+      "id": "US|BLND|2026-08-17|haveli investments, l.p.|1.44",
+      "market": "US",
+      "ticker": "BLND",
+      "yf_symbol": "BLND",
+      "company": "Blend Labs, Inc.",
+      "insider_name": "Haveli Investments, L.P.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-17",
+      "trade_price": 1.44,
+      "value": 25120.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-19": 1.5
+      },
+      "latest_price": 1.5,
+      "return_pct": 4.17,
+      "last_snapshot": "2026-08-19"
+    },
+    {
+      "id": "US|UUU|2026-08-17|ault milton c iii|5.12",
+      "market": "US",
+      "ticker": "UUU",
+      "yf_symbol": "UUU",
+      "company": "Universal Safety Products, Inc.",
+      "insider_name": "Ault Milton C III",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-17",
+      "trade_price": 5.12,
+      "value": 201393.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-19": 6.24
+      },
+      "latest_price": 6.24,
+      "return_pct": 21.88,
+      "last_snapshot": "2026-08-19"
+    },
+    {
+      "id": "US|REFI|2026-08-17|mazarakis john|10.25",
+      "market": "US",
+      "ticker": "REFI",
+      "yf_symbol": "REFI",
+      "company": "Chicago Atlantic Real Estate Finance, Inc.",
+      "insider_name": "Mazarakis John",
+      "title": "Exec COB",
+      "trade_date": "2026-08-17",
+      "trade_price": 10.25,
+      "value": 256325.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-19": 10.59
+      },
+      "latest_price": 10.59,
+      "return_pct": 3.32,
+      "last_snapshot": "2026-08-19"
+    },
+    {
+      "id": "US|REFI|2026-08-17|cappell anthony|10.41",
+      "market": "US",
+      "ticker": "REFI",
+      "yf_symbol": "REFI",
+      "company": "Chicago Atlantic Real Estate Finance, Inc.",
+      "insider_name": "Cappell Anthony",
+      "title": "Co-CEO",
+      "trade_date": "2026-08-17",
+      "trade_price": 10.41,
+      "value": 468225.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-19": 10.59
+      },
+      "latest_price": 10.59,
+      "return_pct": 1.73,
       "last_snapshot": "2026-08-19"
     }
   ]
