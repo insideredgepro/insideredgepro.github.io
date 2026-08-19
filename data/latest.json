@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T23:13:39Z",
-  "trade_count": 9430,
+  "last_updated": "2026-08-19T00:42:07Z",
+  "trade_count": 9433,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93600,7 +93600,7 @@
       "owned": "41543",
       "delta_own": "+14%",
       "value": "295104",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-07",
@@ -150881,6 +150881,54 @@
       "delta_own": "+21%",
       "value": "50072000",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "20:31",
+      "trade_date": "2026-08-13",
+      "ticker": "CODI",
+      "company": "Compass Diversified Holdings",
+      "insider_name": "Sawtelle Zachary T.",
+      "title": "See Remark (a)",
+      "trade_type": "P - Purchase",
+      "price": "12.42",
+      "qty": "17000",
+      "owned": "73588",
+      "delta_own": "+30%",
+      "value": "211147",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "19:33",
+      "trade_date": "2026-08-14",
+      "ticker": "BGDE",
+      "company": "Big Digital Energy, Inc.",
+      "insider_name": "Endeavor Blockchain, LLC",
+      "title": "SEE REMARKS, 10%",
+      "trade_type": "P - Purchase",
+      "price": "6.82",
+      "qty": "69690",
+      "owned": "1624700",
+      "delta_own": "+4%",
+      "value": "475048",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-18",
+      "filing_time": "19:12",
+      "trade_date": "2026-04-17",
+      "ticker": "FUL",
+      "company": "Fuller H B Co",
+      "insider_name": "Rasmussen Trangsrud Teresa J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "65.83",
+      "qty": "1000",
+      "owned": "3391",
+      "delta_own": "+42%",
+      "value": "65830",
+      "cluster_buy": true
     }
   ]
 }

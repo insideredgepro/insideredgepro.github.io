@@ -5848,7 +5848,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-07,16:15,2026-04-06,XZO,"Exzeo Group, Inc.",Patel Paresh,CEO,P - Purchase,14.26,2000,1600013,0%,28520,True
 2026-04-07,17:30,2026-04-01,CTGO,Contango Silver & Gold Inc.,Nauman Clynton R.,Dir,P - Purchase,18.56,10000,24550,+69%,185600,False
 2026-04-07,17:22,2026-04-06,LW,"Lamb Weston Holdings, Inc.",Bensen Peter J,Dir,P - Purchase,39.45,5000,37697,+15%,197225,True
-2026-04-07,16:57,2026-04-07,FUL,Fuller H B Co,Mastin Celeste Beeks,"Pres, CEO",P - Purchase,57.08,5170,41543,+14%,295104,False
+2026-04-07,16:57,2026-04-07,FUL,Fuller H B Co,Mastin Celeste Beeks,"Pres, CEO",P - Purchase,57.08,5170,41543,+14%,295104,True
 2026-04-07,18:27,2026-04-07,LPCN,Lipocine Inc.,Higuchi John W.,Dir,P - Purchase,2.03,40000,203797,+24%,81200,True
 2026-04-08,09:09,2026-04-07,AIRS,"Airsculpt Technologies, Inc.",Chernett Jorey,10%,P - Purchase,2.93,60000,6993761,+1%,175800,False
 2026-04-08,14:09,2026-04-08,BETR,Better Home & Finance Holding Co,Talwar Harit,Dir,P - Purchase,33.34,1000,31698,+3%,33340,True
@@ -9436,3 +9436,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-18,17:15,2026-08-17,AVD,American Vanguard Corp,Macicek Steven D,Dir,P - Purchase,2.09,19000,99711,+24%,39710,False
 2026-08-18,19:06,2026-08-14,EQPT,Equipmentshare.Com Inc,Schlacks William J.,"Founder, Pres",P - Purchase,20.43,8950,14365498,0%,182884,False
 2026-08-18,18:55,2026-08-14,MLPT,"Maplight Therapeutics, Inc.","Catalyst4, Inc.",10%,P - Purchase,11.38,4400000,25306689,+21%,50072000,False
+2026-08-18,20:31,2026-08-13,CODI,Compass Diversified Holdings,Sawtelle Zachary T.,See Remark (a),P - Purchase,12.42,17000,73588,+30%,211147,True
+2026-08-18,19:33,2026-08-14,BGDE,"Big Digital Energy, Inc.","Endeavor Blockchain, LLC","SEE REMARKS, 10%",P - Purchase,6.82,69690,1624700,+4%,475048,False
+2026-08-18,19:12,2026-04-17,FUL,Fuller H B Co,Rasmussen Trangsrud Teresa J,Dir,P - Purchase,65.83,1000,3391,+42%,65830,True

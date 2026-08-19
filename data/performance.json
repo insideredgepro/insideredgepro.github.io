@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-18",
-  "entry_count": 1390,
+  "entry_count": 1392,
   "entries": [
     {
       "id": "US|MSTR|2026-06-22|le phong|90.8",
@@ -49067,6 +49067,46 @@
       "latest_price": null,
       "return_pct": null,
       "last_snapshot": null
+    },
+    {
+      "id": "US|CODI|2026-08-13|sawtelle zachary t.|12.42",
+      "market": "US",
+      "ticker": "CODI",
+      "yf_symbol": "CODI",
+      "company": "Compass Diversified Holdings",
+      "insider_name": "Sawtelle Zachary T.",
+      "title": "See Remark (a)",
+      "trade_date": "2026-08-13",
+      "trade_price": 12.42,
+      "value": 211147.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-18": 11.88
+      },
+      "latest_price": 11.88,
+      "return_pct": -4.35,
+      "last_snapshot": "2026-08-18"
+    },
+    {
+      "id": "US|BGDE|2026-08-14|endeavor blockchain, llc|6.82",
+      "market": "US",
+      "ticker": "BGDE",
+      "yf_symbol": "BGDE",
+      "company": "Big Digital Energy, Inc.",
+      "insider_name": "Endeavor Blockchain, LLC",
+      "title": "SEE REMARKS, 10%",
+      "trade_date": "2026-08-14",
+      "trade_price": 6.82,
+      "value": 475048.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-18": 6.57
+      },
+      "latest_price": 6.57,
+      "return_pct": -3.67,
+      "last_snapshot": "2026-08-18"
     }
   ]
 }
