@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T14:25:58Z",
-  "trade_count": 9570,
+  "last_updated": "2026-08-19T15:24:22Z",
+  "trade_count": 9571,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -153120,6 +153120,22 @@
       "owned": "19422",
       "delta_own": "+10%",
       "value": "38507",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "10:30",
+      "trade_date": "2026-08-18",
+      "ticker": "AATXG",
+      "company": "",
+      "insider_name": "Hong Zhiwang",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "4.80",
+      "qty": "218750",
+      "owned": "225174",
+      "delta_own": "+3,405%",
+      "value": "1050000",
       "cluster_buy": false
     }
   ]
