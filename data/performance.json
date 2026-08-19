@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-19",
-  "entry_count": 1393,
+  "entry_count": 1395,
   "entries": [
     {
       "id": "US|MSTR|2026-06-22|le phong|90.8",
@@ -50073,6 +50073,46 @@
       },
       "latest_price": 248.85,
       "return_pct": 1.02,
+      "last_snapshot": "2026-08-19"
+    },
+    {
+      "id": "US|NVRI|2026-08-18|minan peter francis|20.27",
+      "market": "US",
+      "ticker": "NVRI",
+      "yf_symbol": "NVRI",
+      "company": "Enviri Corp",
+      "insider_name": "Minan Peter Francis",
+      "title": "EVP, CFO",
+      "trade_date": "2026-08-18",
+      "trade_price": 20.27,
+      "value": 59715.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-19": 19.66
+      },
+      "latest_price": 19.66,
+      "return_pct": -3.01,
+      "last_snapshot": "2026-08-19"
+    },
+    {
+      "id": "US|CCHH|2026-07-24|goh kok e|0.28",
+      "market": "US",
+      "ticker": "CCHH",
+      "yf_symbol": "CCHH",
+      "company": "Cch Holdings Ltd",
+      "insider_name": "Goh Kok E",
+      "title": "COB, CEO, COO",
+      "trade_date": "2026-07-24",
+      "trade_price": 0.28,
+      "value": 1440720.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-19": 1.38
+      },
+      "latest_price": 1.38,
+      "return_pct": 392.86,
       "last_snapshot": "2026-08-19"
     }
   ]

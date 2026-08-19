@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T11:17:13Z",
-  "trade_count": 9434,
+  "last_updated": "2026-08-19T12:25:55Z",
+  "trade_count": 9436,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -150624,7 +150624,7 @@
       "owned": "42955",
       "delta_own": "+13%",
       "value": "99747",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-18",
@@ -150944,6 +150944,38 @@
       "owned": "2900",
       "delta_own": "+222%",
       "value": "492654",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "08:11",
+      "trade_date": "2026-08-18",
+      "ticker": "NVRI",
+      "company": "Enviri Corp",
+      "insider_name": "Minan Peter Francis",
+      "title": "EVP, CFO",
+      "trade_type": "P - Purchase",
+      "price": "20.27",
+      "qty": "2946",
+      "owned": "97505",
+      "delta_own": "+3%",
+      "value": "59715",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "07:48",
+      "trade_date": "2026-07-24",
+      "ticker": "CCHH",
+      "company": "Cch Holdings Ltd",
+      "insider_name": "Goh Kok E",
+      "title": "COB, CEO, COO",
+      "trade_type": "P - Purchase",
+      "price": "0.28",
+      "qty": "5220000",
+      "owned": "347500",
+      "delta_own": "-107%",
+      "value": "1440720",
       "cluster_buy": false
     }
   ]
