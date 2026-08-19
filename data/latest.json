@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T18:21:02Z",
-  "trade_count": 9574,
+  "last_updated": "2026-08-19T19:19:32Z",
+  "trade_count": 9577,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -153185,6 +153185,54 @@
       "delta_own": "New",
       "value": "129716",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "15:03",
+      "trade_date": "2026-08-18",
+      "ticker": "LIN",
+      "company": "Linde Plc",
+      "insider_name": "Reynolds Paula Rosput",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "479.12",
+      "qty": "100",
+      "owned": "1532",
+      "delta_own": "+7%",
+      "value": "47912",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "14:51",
+      "trade_date": "2026-08-18",
+      "ticker": "EMYB",
+      "company": "Embassy Bancorp, Inc.",
+      "insider_name": "Lobach David M Jr",
+      "title": "COB, Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "22.33",
+      "qty": "2000",
+      "owned": "550249",
+      "delta_own": "0%",
+      "value": "44660",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "14:22",
+      "trade_date": "2026-08-18",
+      "ticker": "BKKT",
+      "company": "Bakkt, Inc.",
+      "insider_name": "Alfred Michael",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "7.12",
+      "qty": "296567",
+      "owned": "1201567",
+      "delta_own": "+33%",
+      "value": "2111557",
+      "cluster_buy": false
     }
   ]
 }
