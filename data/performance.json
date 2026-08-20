@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-20",
-  "entry_count": 1566,
+  "entry_count": 1575,
   "entries": [
     {
       "id": "US|MSTR|2026-06-22|le phong|90.8",
@@ -37139,8 +37139,8 @@
         "2026-08-19": 27.25,
         "2026-08-20": 28.24
       },
-      "latest_price": 27.815,
-      "return_pct": 9.25,
+      "latest_price": 27.79,
+      "return_pct": 9.15,
       "last_snapshot": "2026-08-20"
     },
     {
@@ -37174,8 +37174,8 @@
         "2026-08-19": 27.25,
         "2026-08-20": 28.24
       },
-      "latest_price": 27.815,
-      "return_pct": 8.99,
+      "latest_price": 27.79,
+      "return_pct": 8.89,
       "last_snapshot": "2026-08-20"
     },
     {
@@ -41770,8 +41770,8 @@
         "2026-08-19": 105.51,
         "2026-08-20": 107.41
       },
-      "latest_price": 108.11,
-      "return_pct": 434.4,
+      "latest_price": 108.962,
+      "return_pct": 438.62,
       "last_snapshot": "2026-08-20"
     },
     {
@@ -45438,8 +45438,8 @@
         "2026-08-19": 27.25,
         "2026-08-20": 28.24
       },
-      "latest_price": 27.815,
-      "return_pct": 5.6,
+      "latest_price": 27.79,
+      "return_pct": 5.5,
       "last_snapshot": "2026-08-20"
     },
     {
@@ -54244,6 +54244,186 @@
       },
       "latest_price": 15.0,
       "return_pct": 8.38,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|ET|2026-08-18|warren kelcy l|21.26",
+      "market": "US",
+      "ticker": "ET",
+      "yf_symbol": "ET",
+      "company": "Energy Transfer LP",
+      "insider_name": "Warren Kelcy L",
+      "title": "Dir",
+      "trade_date": "2026-08-18",
+      "trade_price": 21.26,
+      "value": 21263520.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 21.21
+      },
+      "latest_price": 21.21,
+      "return_pct": -0.24,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|KEEL|2026-08-20|wilson liam daniel|3.25",
+      "market": "US",
+      "ticker": "KEEL",
+      "yf_symbol": "KEEL",
+      "company": "Keel Infrastructure Corp.",
+      "insider_name": "Wilson Liam Daniel",
+      "title": "COO",
+      "trade_date": "2026-08-20",
+      "trade_price": 3.25,
+      "value": 99999.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 3.37
+      },
+      "latest_price": 3.37,
+      "return_pct": 3.69,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|BWA|2026-08-19|kalathur rajesh|67.59",
+      "market": "US",
+      "ticker": "BWA",
+      "yf_symbol": "BWA",
+      "company": "Borgwarner Inc",
+      "insider_name": "Kalathur Rajesh",
+      "title": "Dir",
+      "trade_date": "2026-08-19",
+      "trade_price": 67.59,
+      "value": 500664.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 64.8
+      },
+      "latest_price": 64.8,
+      "return_pct": -4.13,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|AIAI|2026-08-19|affeldt eric|5.96",
+      "market": "US",
+      "ticker": "AIAI",
+      "yf_symbol": "AIAI",
+      "company": "Aiai Holdings Corp",
+      "insider_name": "Affeldt Eric",
+      "title": "Dir",
+      "trade_date": "2026-08-19",
+      "trade_price": 5.96,
+      "value": 29800.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 4.53
+      },
+      "latest_price": 4.53,
+      "return_pct": -23.99,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|PAM|2026-08-18|mindlin marcos marcelo|3.34",
+      "market": "US",
+      "ticker": "PAM",
+      "yf_symbol": "PAM",
+      "company": "Pampa Energy Inc.",
+      "insider_name": "Mindlin Marcos Marcelo",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-18",
+      "trade_price": 3.34,
+      "value": 4342831.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 79.39
+      },
+      "latest_price": 79.39,
+      "return_pct": 2276.95,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|SMRT|2026-08-19|bohjalian thomas n|1.39",
+      "market": "US",
+      "ticker": "SMRT",
+      "yf_symbol": "SMRT",
+      "company": "Smartrent, Inc.",
+      "insider_name": "Bohjalian Thomas N",
+      "title": "Dir",
+      "trade_date": "2026-08-19",
+      "trade_price": 1.39,
+      "value": 76395.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 1.35
+      },
+      "latest_price": 1.35,
+      "return_pct": -2.88,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|RSG|2026-08-18|cascade investment, l.l.c.|220.08",
+      "market": "US",
+      "ticker": "RSG",
+      "yf_symbol": "RSG",
+      "company": "Republic Services, Inc.",
+      "insider_name": "Cascade Investment, L.L.C.",
+      "title": "10%",
+      "trade_date": "2026-08-18",
+      "trade_price": 220.08,
+      "value": 83402937.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 219.5
+      },
+      "latest_price": 219.5,
+      "return_pct": -0.26,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|SELF|2026-08-19|winmill & co. inc|5.41",
+      "market": "US",
+      "ticker": "SELF",
+      "yf_symbol": "SELF",
+      "company": "Global Self Storage, Inc.",
+      "insider_name": "Winmill & Co. Inc",
+      "title": "See \"Explanation of Responses\"",
+      "trade_date": "2026-08-19",
+      "trade_price": 5.41,
+      "value": 74579.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 5.55
+      },
+      "latest_price": 5.55,
+      "return_pct": 2.59,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|CBAN|2026-08-18|canup edward g|21.63",
+      "market": "US",
+      "ticker": "CBAN",
+      "yf_symbol": "CBAN",
+      "company": "Colony Bankcorp Inc",
+      "insider_name": "Canup Edward G",
+      "title": "CHIEF BANKING OFFICER",
+      "trade_date": "2026-08-18",
+      "trade_price": 21.63,
+      "value": 86500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 21.38
+      },
+      "latest_price": 21.38,
+      "return_pct": -1.16,
       "last_snapshot": "2026-08-20"
     }
   ]
