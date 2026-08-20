@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-20T19:24:07Z",
-  "trade_count": 9605,
+  "last_updated": "2026-08-20T20:18:40Z",
+  "trade_count": 9609,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -153680,6 +153680,70 @@
       "owned": "100",
       "delta_own": "+100%",
       "value": "108405",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-20",
+      "filing_time": "16:14",
+      "trade_date": "2026-08-19",
+      "ticker": "OPFI",
+      "company": "Oppfi Inc.",
+      "insider_name": "Schwartz Todd G.",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "7.16",
+      "qty": "3500",
+      "owned": "27491385",
+      "delta_own": "0%",
+      "value": "25053",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-20",
+      "filing_time": "16:13",
+      "trade_date": "2026-08-18",
+      "ticker": "CORZ",
+      "company": "Core Scientific, Inc./Tx",
+      "insider_name": "Weiss Eric Stanton",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "19.19",
+      "qty": "7000",
+      "owned": "259262",
+      "delta_own": "+3%",
+      "value": "134358",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-20",
+      "filing_time": "16:05",
+      "trade_date": "2026-08-18",
+      "ticker": "LFT",
+      "company": "Lument Finance Trust, Inc.",
+      "insider_name": "Flynn James Peter",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.61",
+      "qty": "44000",
+      "owned": "422939",
+      "delta_own": "+12%",
+      "value": "26734",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-20",
+      "filing_time": "16:01",
+      "trade_date": "2026-08-18",
+      "ticker": "WW",
+      "company": "Ww International, Inc.",
+      "insider_name": "Sjoqvist Nikolaj H",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "13.84",
+      "qty": "7235",
+      "owned": "19620",
+      "delta_own": "+58%",
+      "value": "100132",
       "cluster_buy": false
     }
   ]
