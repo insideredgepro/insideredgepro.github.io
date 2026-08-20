@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T23:14:58Z",
-  "trade_count": 9596,
+  "last_updated": "2026-08-20T00:41:49Z",
+  "trade_count": 9597,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -121152,7 +121152,7 @@
       "owned": "6882239",
       "delta_own": "+11%",
       "value": "700000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-06-09",
@@ -153537,6 +153537,22 @@
       "delta_own": "+30%",
       "value": "491045",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "19:42",
+      "trade_date": "2026-06-05",
+      "ticker": "LIQT",
+      "company": "Liqtech International Inc",
+      "insider_name": "Wowk Robert",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.00",
+      "qty": "50000",
+      "owned": "50000",
+      "delta_own": "New",
+      "value": "50000",
+      "cluster_buy": true
     }
   ]
 }

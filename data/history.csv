@@ -7577,7 +7577,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-06-09,16:58,2026-06-09,RCEL,"Avita Medical, Inc.",Woody Joseph Fralin,Dir,P - Purchase,4.19,10000,102761,+11%,41900,False
 2026-06-09,16:55,2026-06-05,EYE,"National Vision Holdings, Inc.",Nicholson Michael J,Dir,P - Purchase,15.52,50000,60719,+466%,776000,False
 2026-06-09,16:53,2026-06-05,AWHL,Aspira Women'S Health Inc.,Schuler Jack W,10%,P - Purchase,0.45,222222,4052587,+6%,100000,False
-2026-06-09,16:51,2026-06-05,LIQT,Liqtech International Inc,Bleichroeder LP,10%,P - Purchase,1.00,700000,6882239,+11%,700000,False
+2026-06-09,16:51,2026-06-05,LIQT,Liqtech International Inc,Bleichroeder LP,10%,P - Purchase,1.00,700000,6882239,+11%,700000,True
 2026-06-09,16:50,2026-06-05,STRR,"Star Equity Holdings, Inc.",Eberwein Jeffrey E.,"CEO, 10%",P - Purchase,11.42,16292,1103830,+1%,186123,False
 2026-06-09,16:38,2026-06-08,PSQH,"Psq Holdings, Inc.",Langston Willie,Dir,P - Purchase,0.50,50000,396205,+14%,25190,False
 2026-06-09,16:30,2026-06-08,PEB,Pebblebrook Hotel Trust,Bortz Jon E,"COB, CEO",P - Purchase,16.97,40000,1815110,+2%,678600,False
@@ -9602,3 +9602,4 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-19,17:23,2026-08-17,REFI,"Chicago Atlantic Real Estate Finance, Inc.",Mazarakis John,Exec COB,P - Purchase,10.25,25000,515230,+5%,256325,True
 2026-08-19,17:22,2026-08-17,REFI,"Chicago Atlantic Real Estate Finance, Inc.",Cappell Anthony,Co-CEO,P - Purchase,10.41,45000,466706,+11%,468225,True
 2026-08-19,18:34,2026-08-17,MFP,"Midera Food Processing, Inc.",Nerbonne Robert A,Dir,P - Purchase,45.05,10900,47258,+30%,491045,False
+2026-08-19,19:42,2026-06-05,LIQT,Liqtech International Inc,Wowk Robert,Dir,P - Purchase,1.00,50000,50000,New,50000,True
