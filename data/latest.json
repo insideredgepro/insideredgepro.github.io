@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-20T14:26:41Z",
-  "trade_count": 9602,
+  "last_updated": "2026-08-20T15:25:10Z",
+  "trade_count": 9603,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -153632,6 +153632,22 @@
       "owned": "3559057",
       "delta_own": "+2%",
       "value": "37466",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-20",
+      "filing_time": "11:09",
+      "trade_date": "2026-08-18",
+      "ticker": "FFIN",
+      "company": "First Financial Bankshares Inc",
+      "insider_name": "Denny Michael B.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "34.66",
+      "qty": "3000",
+      "owned": "113850",
+      "delta_own": "+3%",
+      "value": "103980",
       "cluster_buy": false
     }
   ]
