@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-20T00:41:49Z",
-  "trade_count": 9597,
+  "last_updated": "2026-08-20T02:12:12Z",
+  "trade_count": 9599,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -153552,6 +153552,38 @@
       "owned": "50000",
       "delta_own": "New",
       "value": "50000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "21:01",
+      "trade_date": "2026-08-17",
+      "ticker": "LBGJ",
+      "company": "Li Bang International Corp Inc.",
+      "insider_name": "Li Funa",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.40",
+      "qty": "15088",
+      "owned": "15220",
+      "delta_own": ">999%",
+      "value": "51299",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-19",
+      "filing_time": "20:59",
+      "trade_date": "2026-08-17",
+      "ticker": "LBGJ",
+      "company": "Li Bang International Corp Inc.",
+      "insider_name": "Huang Feng",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.40",
+      "qty": "73147",
+      "owned": "73788",
+      "delta_own": ">999%",
+      "value": "248700",
       "cluster_buy": true
     }
   ]

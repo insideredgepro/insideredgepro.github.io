@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-19",
-  "entry_count": 1554,
+  "entry_count": 1556,
   "entries": [
     {
       "id": "US|MSTR|2026-06-22|le phong|90.8",
@@ -615,8 +615,8 @@
         "2026-08-18": 18.91,
         "2026-08-19": 18.95
       },
-      "latest_price": 18.95,
-      "return_pct": 7.06,
+      "latest_price": 19.0,
+      "return_pct": 7.34,
       "last_snapshot": "2026-08-19"
     },
     {
@@ -5011,8 +5011,8 @@
         "2026-08-18": 846.45,
         "2026-08-19": 855.0
       },
-      "latest_price": 836.15,
-      "return_pct": 7.36,
+      "latest_price": 855,
+      "return_pct": 9.78,
       "last_snapshot": "2026-08-19"
     },
     {
@@ -37021,8 +37021,8 @@
         "2026-08-18": 4.35,
         "2026-08-19": 4.26
       },
-      "latest_price": 4.26,
-      "return_pct": -8.78,
+      "latest_price": 4.27,
+      "return_pct": -8.57,
       "last_snapshot": "2026-08-19"
     },
     {
@@ -38853,8 +38853,8 @@
         "2026-08-18": 4.35,
         "2026-08-19": 4.26
       },
-      "latest_price": 4.26,
-      "return_pct": -6.78,
+      "latest_price": 4.27,
+      "return_pct": -6.56,
       "last_snapshot": "2026-08-19"
     },
     {
@@ -44275,8 +44275,8 @@
         "2026-08-18": 12.26,
         "2026-08-19": 12.15
       },
-      "latest_price": 12.15,
-      "return_pct": -1.14,
+      "latest_price": 12.22,
+      "return_pct": -0.57,
       "last_snapshot": "2026-08-19"
     },
     {
@@ -44833,8 +44833,8 @@
         "2026-08-18": 4.35,
         "2026-08-19": 4.26
       },
-      "latest_price": 4.26,
-      "return_pct": -0.93,
+      "latest_price": 4.27,
+      "return_pct": -0.7,
       "last_snapshot": "2026-08-19"
     },
     {
@@ -53027,6 +53027,46 @@
       },
       "latest_price": 45.71,
       "return_pct": 1.47,
+      "last_snapshot": "2026-08-19"
+    },
+    {
+      "id": "US|LBGJ|2026-08-17|li funa|3.4",
+      "market": "US",
+      "ticker": "LBGJ",
+      "yf_symbol": "LBGJ",
+      "company": "Li Bang International Corp Inc.",
+      "insider_name": "Li Funa",
+      "title": "Dir",
+      "trade_date": "2026-08-17",
+      "trade_price": 3.4,
+      "value": 51299.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-19": 3.15
+      },
+      "latest_price": 3.15,
+      "return_pct": -7.35,
+      "last_snapshot": "2026-08-19"
+    },
+    {
+      "id": "US|LBGJ|2026-08-17|huang feng|3.4",
+      "market": "US",
+      "ticker": "LBGJ",
+      "yf_symbol": "LBGJ",
+      "company": "Li Bang International Corp Inc.",
+      "insider_name": "Huang Feng",
+      "title": "CEO",
+      "trade_date": "2026-08-17",
+      "trade_price": 3.4,
+      "value": 248700.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-19": 3.15
+      },
+      "latest_price": 3.15,
+      "return_pct": -7.35,
       "last_snapshot": "2026-08-19"
     }
   ]
