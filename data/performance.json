@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-20",
-  "entry_count": 1580,
+  "entry_count": 1584,
   "entries": [
     {
       "id": "US|MSTR|2026-06-22|le phong|90.8",
@@ -54524,6 +54524,86 @@
       },
       "latest_price": 9.1,
       "return_pct": -52.41,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|BAER|2026-08-19|kelter jeffrey e|1.18",
+      "market": "US",
+      "ticker": "BAER",
+      "yf_symbol": "BAER",
+      "company": "Bridger Aerospace Group Holdings, Inc.",
+      "insider_name": "Kelter Jeffrey E",
+      "title": "Dir",
+      "trade_date": "2026-08-19",
+      "trade_price": 1.18,
+      "value": 354050.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 1.15
+      },
+      "latest_price": 1.15,
+      "return_pct": -2.54,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|KWY|2026-08-18|horowitz joshua|9.83",
+      "market": "US",
+      "ticker": "KWY",
+      "yf_symbol": "KWY",
+      "company": "Kingsway Corp",
+      "insider_name": "Horowitz Joshua",
+      "title": "Dir",
+      "trade_date": "2026-08-18",
+      "trade_price": 9.83,
+      "value": 89484.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 10.03
+      },
+      "latest_price": 10.03,
+      "return_pct": 2.03,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|IAUX|2026-08-18|young richard scott|1.62",
+      "market": "US",
+      "ticker": "IAUX",
+      "yf_symbol": "IAUX",
+      "company": "I-80 Gold Corp.",
+      "insider_name": "Young Richard Scott",
+      "title": "Pres, CEO",
+      "trade_date": "2026-08-18",
+      "trade_price": 1.62,
+      "value": 1620000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 1.76
+      },
+      "latest_price": 1.76,
+      "return_pct": 8.64,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|SENS|2026-08-19|roeder douglas a|8.98",
+      "market": "US",
+      "ticker": "SENS",
+      "yf_symbol": "SENS",
+      "company": "Senseonics Holdings, Inc.",
+      "insider_name": "Roeder Douglas A",
+      "title": "Dir",
+      "trade_date": "2026-08-19",
+      "trade_price": 8.98,
+      "value": 125300.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 8.82
+      },
+      "latest_price": 8.82,
+      "return_pct": -1.78,
       "last_snapshot": "2026-08-20"
     }
   ]
