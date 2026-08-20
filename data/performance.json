@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-20",
-  "entry_count": 1575,
+  "entry_count": 1580,
   "entries": [
     {
       "id": "US|MSTR|2026-06-22|le phong|90.8",
@@ -54424,6 +54424,106 @@
       },
       "latest_price": 21.38,
       "return_pct": -1.16,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|SGRY|2026-08-18|deluca teresa|14.33",
+      "market": "US",
+      "ticker": "SGRY",
+      "yf_symbol": "SGRY",
+      "company": "Surgery Partners, Inc.",
+      "insider_name": "Deluca Teresa",
+      "title": "Dir",
+      "trade_date": "2026-08-18",
+      "trade_price": 14.33,
+      "value": 161213.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 13.94
+      },
+      "latest_price": 13.94,
+      "return_pct": -2.72,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|SUJA|2026-08-18|paine schwartz food chain fund v gp, ltd.|7.16",
+      "market": "US",
+      "ticker": "SUJA",
+      "yf_symbol": "SUJA",
+      "company": "Suja Life, Inc.",
+      "insider_name": "Paine Schwartz Food Chain Fund V Gp, Ltd.",
+      "title": "10%",
+      "trade_date": "2026-08-18",
+      "trade_price": 7.16,
+      "value": 4064271.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 7.5
+      },
+      "latest_price": 7.5,
+      "return_pct": 4.75,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|CLPR|2026-08-18|levinson sam|3.15",
+      "market": "US",
+      "ticker": "CLPR",
+      "yf_symbol": "CLPR",
+      "company": "Clipper Realty Inc.",
+      "insider_name": "Levinson Sam",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-18",
+      "trade_price": 3.15,
+      "value": 310591.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 3.23
+      },
+      "latest_price": 3.23,
+      "return_pct": 2.54,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|NAKA|2026-08-18|bailey david f|5.12",
+      "market": "US",
+      "ticker": "NAKA",
+      "yf_symbol": "NAKA",
+      "company": "Nakamoto Inc.",
+      "insider_name": "Bailey David F",
+      "title": "CEO, 10%",
+      "trade_date": "2026-08-18",
+      "trade_price": 5.12,
+      "value": 25161.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 6.3
+      },
+      "latest_price": 6.3,
+      "return_pct": 23.05,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|FGBI|2026-08-18|walker robert w|19.12",
+      "market": "US",
+      "ticker": "FGBI",
+      "yf_symbol": "FGBI",
+      "company": "First Guaranty Bancshares, Inc.",
+      "insider_name": "Walker Robert W",
+      "title": "Dir",
+      "trade_date": "2026-08-18",
+      "trade_price": 19.12,
+      "value": 68850.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 9.1
+      },
+      "latest_price": 9.1,
+      "return_pct": -52.41,
       "last_snapshot": "2026-08-20"
     }
   ]
