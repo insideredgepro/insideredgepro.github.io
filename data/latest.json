@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-20T11:19:05Z",
-  "trade_count": 9599,
+  "last_updated": "2026-08-20T12:28:38Z",
+  "trade_count": 9601,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -153585,6 +153585,38 @@
       "delta_own": ">999%",
       "value": "248700",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-20",
+      "filing_time": "07:41",
+      "trade_date": "2026-08-18",
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider_name": "Yuan Lipen",
+      "title": "VP",
+      "trade_type": "P - Purchase",
+      "price": "74.05",
+      "qty": "2350",
+      "owned": "10260",
+      "delta_own": "+30%",
+      "value": "174023",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-20",
+      "filing_time": "07:30",
+      "trade_date": "2026-08-18",
+      "ticker": "ENHA",
+      "company": "Enhanced Group Inc.",
+      "insider_name": "Apeiron Investment Group Ltd.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.66",
+      "qty": "1767316",
+      "owned": "36950951",
+      "delta_own": "+5%",
+      "value": "2936658",
+      "cluster_buy": false
     }
   ]
 }
