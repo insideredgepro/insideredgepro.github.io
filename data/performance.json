@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-21",
-  "entry_count": 1603,
+  "entry_count": 1613,
   "entries": [
     {
       "id": "US|MSTR|2026-06-22|le phong|90.8",
@@ -8580,8 +8580,8 @@
         "2026-08-20": 169.97,
         "2026-08-21": 156.41
       },
-      "latest_price": 153.15,
-      "return_pct": -4.82,
+      "latest_price": 153.21,
+      "return_pct": -4.78,
       "last_snapshot": "2026-08-21"
     },
     {
@@ -26985,8 +26985,8 @@
         "2026-08-20": 16.22,
         "2026-08-21": 16.27
       },
-      "latest_price": 16.445,
-      "return_pct": 12.71,
+      "latest_price": 16.43,
+      "return_pct": 12.61,
       "last_snapshot": "2026-08-21"
     },
     {
@@ -34015,8 +34015,8 @@
         "2026-08-20": 27.66,
         "2026-08-21": 27.63
       },
-      "latest_price": 28.19,
-      "return_pct": 14.73,
+      "latest_price": 28.2,
+      "return_pct": 14.77,
       "last_snapshot": "2026-08-21"
     },
     {
@@ -37697,8 +37697,8 @@
         "2026-08-20": 28.24,
         "2026-08-21": 27.79
       },
-      "latest_price": 28.065,
-      "return_pct": 10.23,
+      "latest_price": 28.07,
+      "return_pct": 10.25,
       "last_snapshot": "2026-08-21"
     },
     {
@@ -37733,8 +37733,8 @@
         "2026-08-20": 28.24,
         "2026-08-21": 27.79
       },
-      "latest_price": 28.065,
-      "return_pct": 9.97,
+      "latest_price": 28.07,
+      "return_pct": 9.99,
       "last_snapshot": "2026-08-21"
     },
     {
@@ -42433,8 +42433,8 @@
         "2026-08-20": 107.41,
         "2026-08-21": 108.96
       },
-      "latest_price": 110.81,
-      "return_pct": 447.75,
+      "latest_price": 110.538,
+      "return_pct": 446.41,
       "last_snapshot": "2026-08-21"
     },
     {
@@ -42835,8 +42835,8 @@
         "2026-08-20": 20.42,
         "2026-08-21": 20.37
       },
-      "latest_price": 20.38,
-      "return_pct": -84.63,
+      "latest_price": 20.4038,
+      "return_pct": -84.61,
       "last_snapshot": "2026-08-21"
     },
     {
@@ -43987,8 +43987,8 @@
         "2026-08-20": 27.66,
         "2026-08-21": 27.63
       },
-      "latest_price": 28.19,
-      "return_pct": 8.88,
+      "latest_price": 28.2,
+      "return_pct": 8.92,
       "last_snapshot": "2026-08-21"
     },
     {
@@ -46169,8 +46169,8 @@
         "2026-08-20": 28.24,
         "2026-08-21": 27.79
       },
-      "latest_price": 28.065,
-      "return_pct": 6.55,
+      "latest_price": 28.07,
+      "return_pct": 6.57,
       "last_snapshot": "2026-08-21"
     },
     {
@@ -48139,8 +48139,8 @@
         "2026-08-20": 27.66,
         "2026-08-21": 27.63
       },
-      "latest_price": 28.19,
-      "return_pct": 6.86,
+      "latest_price": 28.2,
+      "return_pct": 6.9,
       "last_snapshot": "2026-08-21"
     },
     {
@@ -55993,6 +55993,206 @@
       },
       "latest_price": 3.46,
       "return_pct": -0.57,
+      "last_snapshot": "2026-08-21"
+    },
+    {
+      "id": "US|ALK|2026-08-20|minicucci benito|40.06",
+      "market": "US",
+      "ticker": "ALK",
+      "yf_symbol": "ALK",
+      "company": "Alaska Air Group, Inc.",
+      "insider_name": "Minicucci Benito",
+      "title": "CEO, Pres",
+      "trade_date": "2026-08-20",
+      "trade_price": 40.06,
+      "value": 1001510.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-21": 40.41
+      },
+      "latest_price": 40.41,
+      "return_pct": 0.87,
+      "last_snapshot": "2026-08-21"
+    },
+    {
+      "id": "US|NBBK|2026-08-20|campanelli joseph p|21.75",
+      "market": "US",
+      "ticker": "NBBK",
+      "yf_symbol": "NBBK",
+      "company": "Nb Bancorp, Inc.",
+      "insider_name": "Campanelli Joseph P",
+      "title": "Pres, CEO",
+      "trade_date": "2026-08-20",
+      "trade_price": 21.75,
+      "value": 43500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-21": 21.98
+      },
+      "latest_price": 21.98,
+      "return_pct": 1.06,
+      "last_snapshot": "2026-08-21"
+    },
+    {
+      "id": "US|CMCO|2026-08-20|stephens christopher j|17.14",
+      "market": "US",
+      "ticker": "CMCO",
+      "yf_symbol": "CMCO",
+      "company": "Columbus McKinnon Corp",
+      "insider_name": "Stephens Christopher J",
+      "title": "Dir",
+      "trade_date": "2026-08-20",
+      "trade_price": 17.14,
+      "value": 47135.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-21": 17.62
+      },
+      "latest_price": 17.62,
+      "return_pct": 2.8,
+      "last_snapshot": "2026-08-21"
+    },
+    {
+      "id": "US|KEEL|2026-08-21|gagnon benjamin|3.33",
+      "market": "US",
+      "ticker": "KEEL",
+      "yf_symbol": "KEEL",
+      "company": "Keel Infrastructure Corp.",
+      "insider_name": "Gagnon Benjamin",
+      "title": "CEO",
+      "trade_date": "2026-08-21",
+      "trade_price": 3.33,
+      "value": 129497.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-21": 3.32
+      },
+      "latest_price": 3.32,
+      "return_pct": -0.3,
+      "last_snapshot": "2026-08-21"
+    },
+    {
+      "id": "US|DFDV|2026-08-20|kang daniel|3.88",
+      "market": "US",
+      "ticker": "DFDV",
+      "yf_symbol": "DFDV",
+      "company": "Defi Development Corp.",
+      "insider_name": "Kang Daniel",
+      "title": "Chief Strategy Officer",
+      "trade_date": "2026-08-20",
+      "trade_price": 3.88,
+      "value": 42680.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-21": 3.94
+      },
+      "latest_price": 3.94,
+      "return_pct": 1.55,
+      "last_snapshot": "2026-08-21"
+    },
+    {
+      "id": "US|NOMD|2026-08-19|baldew ruben|11.85",
+      "market": "US",
+      "ticker": "NOMD",
+      "yf_symbol": "NOMD",
+      "company": "Nomad Foods Ltd",
+      "insider_name": "Baldew Ruben",
+      "title": "CFO",
+      "trade_date": "2026-08-19",
+      "trade_price": 11.85,
+      "value": 335231.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-21": 11.81
+      },
+      "latest_price": 11.81,
+      "return_pct": -0.34,
+      "last_snapshot": "2026-08-21"
+    },
+    {
+      "id": "US|AAT|2026-08-21|rady ernest s|22.75",
+      "market": "US",
+      "ticker": "AAT",
+      "yf_symbol": "AAT",
+      "company": "American Assets Trust, Inc.",
+      "insider_name": "Rady Ernest S",
+      "title": "Exec COB, 10%",
+      "trade_date": "2026-08-21",
+      "trade_price": 22.75,
+      "value": 1137500.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-21": 22.83
+      },
+      "latest_price": 22.83,
+      "return_pct": 0.35,
+      "last_snapshot": "2026-08-21"
+    },
+    {
+      "id": "US|DXST|2026-08-06|sun dingxin|2.0",
+      "market": "US",
+      "ticker": "DXST",
+      "yf_symbol": "DXST",
+      "company": "Decent Holding Inc.",
+      "insider_name": "Sun Dingxin",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-06",
+      "trade_price": 2.0,
+      "value": 800000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-21": 2.52
+      },
+      "latest_price": 2.52,
+      "return_pct": 26.0,
+      "last_snapshot": "2026-08-21"
+    },
+    {
+      "id": "US|ELAN|2026-08-20|kurzius lawrence erik|23.4",
+      "market": "US",
+      "ticker": "ELAN",
+      "yf_symbol": "ELAN",
+      "company": "Elanco Animal Health Inc",
+      "insider_name": "Kurzius Lawrence Erik",
+      "title": "Dir",
+      "trade_date": "2026-08-20",
+      "trade_price": 23.4,
+      "value": 935920.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-21": 23.97
+      },
+      "latest_price": 23.97,
+      "return_pct": 2.44,
+      "last_snapshot": "2026-08-21"
+    },
+    {
+      "id": "US|QVCG|2026-08-19|goldentree asset management lp|15.21",
+      "market": "US",
+      "ticker": "QVCG",
+      "yf_symbol": "QVCG",
+      "company": "Qvc Group, Inc.",
+      "insider_name": "Goldentree Asset Management LP",
+      "title": "10%",
+      "trade_date": "2026-08-19",
+      "trade_price": 15.21,
+      "value": 217173.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-21": 15.5
+      },
+      "latest_price": 15.5,
+      "return_pct": 1.91,
       "last_snapshot": "2026-08-21"
     }
   ]
