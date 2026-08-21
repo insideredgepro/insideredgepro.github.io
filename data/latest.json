@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T13:38:08Z",
-  "trade_count": 9639,
+  "last_updated": "2026-08-21T14:25:20Z",
+  "trade_count": 9640,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -154225,6 +154225,22 @@
       "delta_own": "+4%",
       "value": "337500",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-21",
+      "filing_time": "10:13",
+      "trade_date": "2026-08-19",
+      "ticker": "IDAI",
+      "company": "T Stamp Inc",
+      "insider_name": "Genner Gareth Neville",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.01",
+      "qty": "10000",
+      "owned": "150075",
+      "delta_own": "+7%",
+      "value": "30103",
+      "cluster_buy": false
     }
   ]
 }
