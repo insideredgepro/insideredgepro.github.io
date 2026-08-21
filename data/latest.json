@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T19:20:22Z",
-  "trade_count": 9647,
+  "last_updated": "2026-08-21T20:16:18Z",
+  "trade_count": 9649,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -154352,6 +154352,38 @@
       "owned": "935500",
       "delta_own": "+6%",
       "value": "439430",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-21",
+      "filing_time": "16:09",
+      "trade_date": "2026-08-20",
+      "ticker": "ALCO",
+      "company": "Alico, Inc.",
+      "insider_name": "Speron Eric H.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "39.73",
+      "qty": "1250",
+      "owned": "2310",
+      "delta_own": "+118%",
+      "value": "49665",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-21",
+      "filing_time": "16:05",
+      "trade_date": "2026-08-20",
+      "ticker": "AMPG",
+      "company": "Amplitech Group, Inc.",
+      "insider_name": "Maqbool Fawad",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "3.48",
+      "qty": "12247",
+      "owned": "2726611",
+      "delta_own": "0%",
+      "value": "42649",
       "cluster_buy": false
     }
   ]
