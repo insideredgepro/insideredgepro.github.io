@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-20",
-  "entry_count": 1584,
+  "entry_count": 1586,
   "entries": [
     {
       "id": "US|MSTR|2026-06-22|le phong|90.8",
@@ -37592,8 +37592,8 @@
         "2026-08-19": 4.26,
         "2026-08-20": 4.27
       },
-      "latest_price": 4.27,
-      "return_pct": -8.57,
+      "latest_price": 4.17,
+      "return_pct": -10.71,
       "last_snapshot": "2026-08-20"
     },
     {
@@ -39452,8 +39452,8 @@
         "2026-08-19": 4.26,
         "2026-08-20": 4.27
       },
-      "latest_price": 4.27,
-      "return_pct": -6.56,
+      "latest_price": 4.17,
+      "return_pct": -8.75,
       "last_snapshot": "2026-08-20"
     },
     {
@@ -45568,8 +45568,8 @@
         "2026-08-19": 4.26,
         "2026-08-20": 4.27
       },
-      "latest_price": 4.27,
-      "return_pct": -0.7,
+      "latest_price": 4.17,
+      "return_pct": -3.02,
       "last_snapshot": "2026-08-20"
     },
     {
@@ -49267,8 +49267,8 @@
         "2026-08-19": 5.65,
         "2026-08-20": 5.65
       },
-      "latest_price": 5.65,
-      "return_pct": -3.25,
+      "latest_price": 6.98,
+      "return_pct": 19.52,
       "last_snapshot": "2026-08-20"
     },
     {
@@ -54604,6 +54604,46 @@
       },
       "latest_price": 8.82,
       "return_pct": -1.78,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|AMR|2026-08-20|courtis kenneth s.|193.5",
+      "market": "US",
+      "ticker": "AMR",
+      "yf_symbol": "AMR",
+      "company": "Alpha Metallurgical Resources, Inc.",
+      "insider_name": "Courtis Kenneth S.",
+      "title": "Dir",
+      "trade_date": "2026-08-20",
+      "trade_price": 193.5,
+      "value": 2902552.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 194.3
+      },
+      "latest_price": 194.3,
+      "return_pct": 0.41,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|RAIN|2026-08-19|seidl randy|0.95",
+      "market": "US",
+      "ticker": "RAIN",
+      "yf_symbol": "RAIN",
+      "company": "Rain Enhancement Technologies Holdco, Inc.",
+      "insider_name": "Seidl Randy",
+      "title": "CEO",
+      "trade_date": "2026-08-19",
+      "trade_price": 0.95,
+      "value": 104225.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 0.88
+      },
+      "latest_price": 0.88,
+      "return_pct": -7.37,
       "last_snapshot": "2026-08-20"
     }
   ]

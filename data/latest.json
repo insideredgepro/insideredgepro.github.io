@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-20T23:17:33Z",
-  "trade_count": 9627,
+  "last_updated": "2026-08-21T00:45:16Z",
+  "trade_count": 9629,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -154032,6 +154032,38 @@
       "owned": "171191",
       "delta_own": "+9%",
       "value": "125300",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-20",
+      "filing_time": "20:43",
+      "trade_date": "2026-08-20",
+      "ticker": "AMR",
+      "company": "Alpha Metallurgical Resources, Inc.",
+      "insider_name": "Courtis Kenneth S.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "193.50",
+      "qty": "15000",
+      "owned": "1000394",
+      "delta_own": "+2%",
+      "value": "2902552",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-20",
+      "filing_time": "19:38",
+      "trade_date": "2026-08-19",
+      "ticker": "RAIN",
+      "company": "Rain Enhancement Technologies Holdco, Inc.",
+      "insider_name": "Seidl Randy",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.95",
+      "qty": "110000",
+      "owned": "754834",
+      "delta_own": "+17%",
+      "value": "104225",
       "cluster_buy": false
     }
   ]
