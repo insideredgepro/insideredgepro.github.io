@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T22:14:09Z",
-  "trade_count": 9660,
+  "last_updated": "2026-08-21T23:15:33Z",
+  "trade_count": 9663,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -154560,6 +154560,54 @@
       "owned": "50251",
       "delta_own": "+17%",
       "value": "40221",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-21",
+      "filing_time": "19:07",
+      "trade_date": "2026-08-20",
+      "ticker": "GO",
+      "company": "Grocery Outlet Holding Corp.",
+      "insider_name": "Miller Paul Blaine",
+      "title": "See Remarks",
+      "trade_type": "P - Purchase",
+      "price": "10.90",
+      "qty": "8000",
+      "owned": "72171",
+      "delta_own": "+12%",
+      "value": "87200",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-21",
+      "filing_time": "18:58",
+      "trade_date": "2026-08-19",
+      "ticker": "ZWS",
+      "company": "Zurn Elkay Water Solutions Corp",
+      "insider_name": "Butler Jacques Donavon",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "49.60",
+      "qty": "2016",
+      "owned": "37487",
+      "delta_own": "+6%",
+      "value": "99994",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-21",
+      "filing_time": "18:21",
+      "trade_date": "2026-08-19",
+      "ticker": "NAKA",
+      "company": "Nakamoto Inc.",
+      "insider_name": "Bailey David F",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "5.68",
+      "qty": "36986",
+      "owned": "3217380",
+      "delta_own": "+1%",
+      "value": "209990",
       "cluster_buy": false
     }
   ]

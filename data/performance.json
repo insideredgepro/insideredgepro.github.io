@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-21",
-  "entry_count": 1614,
+  "entry_count": 1617,
   "entries": [
     {
       "id": "US|MSTR|2026-06-22|le phong|90.8",
@@ -56213,6 +56213,66 @@
       },
       "latest_price": 5.61,
       "return_pct": 0.54,
+      "last_snapshot": "2026-08-21"
+    },
+    {
+      "id": "US|GO|2026-08-20|miller paul blaine|10.9",
+      "market": "US",
+      "ticker": "GO",
+      "yf_symbol": "GO",
+      "company": "Grocery Outlet Holding Corp.",
+      "insider_name": "Miller Paul Blaine",
+      "title": "See Remarks",
+      "trade_date": "2026-08-20",
+      "trade_price": 10.9,
+      "value": 87200.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-21": 11.6
+      },
+      "latest_price": 11.6,
+      "return_pct": 6.42,
+      "last_snapshot": "2026-08-21"
+    },
+    {
+      "id": "US|ZWS|2026-08-19|butler jacques donavon|49.6",
+      "market": "US",
+      "ticker": "ZWS",
+      "yf_symbol": "ZWS",
+      "company": "Zurn Elkay Water Solutions Corp",
+      "insider_name": "Butler Jacques Donavon",
+      "title": "Dir",
+      "trade_date": "2026-08-19",
+      "trade_price": 49.6,
+      "value": 99994.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-21": 49.01
+      },
+      "latest_price": 49.01,
+      "return_pct": -1.19,
+      "last_snapshot": "2026-08-21"
+    },
+    {
+      "id": "US|NAKA|2026-08-19|bailey david f|5.68",
+      "market": "US",
+      "ticker": "NAKA",
+      "yf_symbol": "NAKA",
+      "company": "Nakamoto Inc.",
+      "insider_name": "Bailey David F",
+      "title": "CEO, 10%",
+      "trade_date": "2026-08-19",
+      "trade_price": 5.68,
+      "value": 209990.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-21": 7.06
+      },
+      "latest_price": 7.06,
+      "return_pct": 24.3,
       "last_snapshot": "2026-08-21"
     }
   ]
