@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T14:25:20Z",
-  "trade_count": 9640,
+  "last_updated": "2026-08-21T15:24:30Z",
+  "trade_count": 9641,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -149584,7 +149584,7 @@
       "owned": "3332",
       "delta_own": "+150%",
       "value": "45800",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-17",
@@ -154241,6 +154241,22 @@
       "delta_own": "+7%",
       "value": "30103",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-21",
+      "filing_time": "11:21",
+      "trade_date": "2026-08-18",
+      "ticker": "TISI",
+      "company": "Team Inc",
+      "insider_name": "Horton Anthony R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "22.71",
+      "qty": "2000",
+      "owned": "24082",
+      "delta_own": "+9%",
+      "value": "45420",
+      "cluster_buy": true
     }
   ]
 }
