@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T21:15:20Z",
-  "trade_count": 9659,
+  "last_updated": "2026-08-21T22:14:09Z",
+  "trade_count": 9660,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -154544,6 +154544,22 @@
       "owned": "8643004",
       "delta_own": "0%",
       "value": "217173",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-21",
+      "filing_time": "17:24",
+      "trade_date": "2026-08-20",
+      "ticker": "FOSL",
+      "company": "Fossil Group, Inc.",
+      "insider_name": "Edwards Pamela J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "5.58",
+      "qty": "7208",
+      "owned": "50251",
+      "delta_own": "+17%",
+      "value": "40221",
       "cluster_buy": false
     }
   ]

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-21",
-  "entry_count": 1613,
+  "entry_count": 1614,
   "entries": [
     {
       "id": "US|MSTR|2026-06-22|le phong|90.8",
@@ -56193,6 +56193,26 @@
       },
       "latest_price": 15.5,
       "return_pct": 1.91,
+      "last_snapshot": "2026-08-21"
+    },
+    {
+      "id": "US|FOSL|2026-08-20|edwards pamela j|5.58",
+      "market": "US",
+      "ticker": "FOSL",
+      "yf_symbol": "FOSL",
+      "company": "Fossil Group, Inc.",
+      "insider_name": "Edwards Pamela J",
+      "title": "Dir",
+      "trade_date": "2026-08-20",
+      "trade_price": 5.58,
+      "value": 40221.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-21": 5.61
+      },
+      "latest_price": 5.61,
+      "return_pct": 0.54,
       "last_snapshot": "2026-08-21"
     }
   ]
