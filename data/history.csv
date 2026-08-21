@@ -9609,7 +9609,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-20,07:30,2026-08-18,ENHA,Enhanced Group Inc.,Apeiron Investment Group Ltd.,"Dir, 10%",P - Purchase,1.66,1767316,36950951,+5%,2936658,False
 2026-08-20,08:30,2026-07-31,LOOP,"Loop Industries, Inc.",Geygan Jeffrey Richart,Dir,P - Purchase,0.69,53990,3559057,+2%,37466,False
 2026-08-20,11:09,2026-08-18,FFIN,First Financial Bankshares Inc,Denny Michael B.,Dir,P - Purchase,34.66,3000,113850,+3%,103980,False
-2026-08-20,11:45,2026-08-19,DGXX,Digi Power X Inc.,Amar Michel,"CEO, 10%",P - Purchase,3.60,20000,5985480,0%,72000,False
+2026-08-20,11:45,2026-08-19,DGXX,Digi Power X Inc.,Amar Michel,"CEO, 10%",P - Purchase,3.60,20000,5985480,0%,72000,True
 2026-08-20,12:33,2026-08-19,FCNCA,First Citizens Bancshares Inc /De/,Morais Diane E.,Dir,P - Purchase,2168.11,50,100,+100%,108405,False
 2026-08-20,16:14,2026-08-19,OPFI,Oppfi Inc.,Schwartz Todd G.,"CEO, 10%",P - Purchase,7.16,3500,27491385,0%,25053,False
 2026-08-20,16:13,2026-08-18,CORZ,"Core Scientific, Inc./Tx",Weiss Eric Stanton,Dir,P - Purchase,19.19,7000,259262,+3%,134358,False
@@ -9649,3 +9649,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-21,11:21,2026-08-18,TISI,Team Inc,Horton Anthony R,Dir,P - Purchase,22.71,2000,24082,+9%,45420,True
 2026-08-21,11:58,2026-08-20,BCML,Baycom Corp,Laverne Robert G.,Dir,P - Purchase,29.95,1000,91628,+1%,29950,True
 2026-08-21,11:26,2026-08-19,RAIN,"Rain Enhancement Technologies Holdco, Inc.",Seidl Randy,CEO,P - Purchase,0.95,110000,754834,+17%,104225,False
+2026-08-21,13:13,2026-08-20,DGXX,Digi Power X Inc.,Amar Alec,Pres,P - Purchase,3.86,10000,1423949,+1%,38600,True
+2026-08-21,12:35,2026-08-19,MED,Medifast Inc,Kiai Parsa,Dir,P - Purchase,11.63,72487,18977,-135%,842699,False

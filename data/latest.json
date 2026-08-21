@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T16:22:11Z",
-  "trade_count": 9643,
+  "last_updated": "2026-08-21T17:21:40Z",
+  "trade_count": 9645,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -153664,7 +153664,7 @@
       "owned": "5985480",
       "delta_own": "0%",
       "value": "72000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-20",
@@ -154288,6 +154288,38 @@
       "owned": "754834",
       "delta_own": "+17%",
       "value": "104225",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-21",
+      "filing_time": "13:13",
+      "trade_date": "2026-08-20",
+      "ticker": "DGXX",
+      "company": "Digi Power X Inc.",
+      "insider_name": "Amar Alec",
+      "title": "Pres",
+      "trade_type": "P - Purchase",
+      "price": "3.86",
+      "qty": "10000",
+      "owned": "1423949",
+      "delta_own": "+1%",
+      "value": "38600",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-21",
+      "filing_time": "12:35",
+      "trade_date": "2026-08-19",
+      "ticker": "MED",
+      "company": "Medifast Inc",
+      "insider_name": "Kiai Parsa",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "11.63",
+      "qty": "72487",
+      "owned": "18977",
+      "delta_own": "-135%",
+      "value": "842699",
       "cluster_buy": false
     }
   ]
