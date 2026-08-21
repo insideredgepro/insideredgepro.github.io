@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-20",
-  "entry_count": 1586,
+  "entry_count": 1588,
   "entries": [
     {
       "id": "US|MSTR|2026-06-22|le phong|90.8",
@@ -42170,8 +42170,8 @@
         "2026-08-19": 20.42,
         "2026-08-20": 20.42
       },
-      "latest_price": 20.42,
-      "return_pct": -84.6,
+      "latest_price": 20.37,
+      "return_pct": -84.64,
       "last_snapshot": "2026-08-20"
     },
     {
@@ -44990,8 +44990,8 @@
         "2026-08-19": 12.15,
         "2026-08-20": 12.22
       },
-      "latest_price": 12.22,
-      "return_pct": -0.57,
+      "latest_price": 12.18,
+      "return_pct": -0.9,
       "last_snapshot": "2026-08-20"
     },
     {
@@ -54644,6 +54644,46 @@
       },
       "latest_price": 0.88,
       "return_pct": -7.37,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|NTHI|2026-08-18|chen thomas c|5.49",
+      "market": "US",
+      "ticker": "NTHI",
+      "yf_symbol": "NTHI",
+      "company": "Neonc Technologies Holdings, Inc.",
+      "insider_name": "Chen Thomas C",
+      "title": "CEO, 10%",
+      "trade_date": "2026-08-18",
+      "trade_price": 5.49,
+      "value": 69998.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 4.56
+      },
+      "latest_price": 4.56,
+      "return_pct": -16.94,
+      "last_snapshot": "2026-08-20"
+    },
+    {
+      "id": "US|MOBI|2026-08-18|tansey casey m|12.07",
+      "market": "US",
+      "ticker": "MOBI",
+      "yf_symbol": "MOBI",
+      "company": "Mobia Medical, Inc.",
+      "insider_name": "Tansey Casey M",
+      "title": "Dir",
+      "trade_date": "2026-08-18",
+      "trade_price": 12.07,
+      "value": 198523.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-20": 10.95
+      },
+      "latest_price": 10.95,
+      "return_pct": -9.28,
       "last_snapshot": "2026-08-20"
     }
   ]

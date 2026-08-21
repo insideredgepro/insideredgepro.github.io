@@ -5840,7 +5840,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-06,18:33,2026-04-06,LPCN,Lipocine Inc.,Patel Mahesh V.,CEO,P - Purchase,2.03,25000,160679,+18%,50750,True
 2026-04-06,21:11,2026-04-06,CMTV,Community Bancorp /Vt,Caldwell Christopher L.,"Pres, CEO, Dir of Company, Ban",P - Purchase,35.30,1000,12000,+9%,35299,True
 2026-04-06,21:06,2026-04-06,CMTV,Community Bancorp /Vt,Lamberton Wayne,Dir,P - Purchase,34.32,1350,10045,+16%,46332,True
-2026-04-06,20:55,2026-04-02,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"Pres, 10%",P - Purchase,6.14,25000,7537140,0%,153398,False
+2026-04-06,20:55,2026-04-02,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"Pres, 10%",P - Purchase,6.14,25000,7537140,0%,153398,True
 2026-04-07,06:19,2026-03-30,HUIZ,Huize Holding Ltd,Ma Cunjun,"CEO, 10%",P - Purchase,0.01,7842032,7942232,>999%,113976,False
 2026-04-07,12:28,2026-04-02,LCFY,Locafy Ltd,Jackson Jason Dale,COO,P - Purchase,4.20,9285,11050,+526%,38997,False
 2026-04-07,15:19,2026-04-06,MKZR,"Mackenzie Realty Capital, Inc.",Dixon Robert E,"CEO, Pres",P - Purchase,3.50,10000,146665,+7%,34972,True
@@ -5871,7 +5871,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-10,16:16,2026-04-09,XZO,"Exzeo Group, Inc.",Patel Paresh,Chief Executive Officer,P - Purchase,15.74,2000,1606013,+0%,31480,False
 2026-04-10,16:05,2026-04-08,USAU,U.S. Gold Corp.,NORMAN LUKE ANTHONY,Director,P - Purchase,14.63,10000,278759,+4%,146300,False
 2026-04-10,16:04,2026-04-08,AYI,Acuity Inc.,O'Shaughnessy Laura,Director,P - Purchase,282.98,1000,3111,+47%,282980,False
-2026-04-10,15:29,2026-04-10,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,President,P - Purchase,4.89,10000,3042000,+0%,48950,False
+2026-04-10,15:29,2026-04-10,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,President,P - Purchase,4.89,10000,3042000,+0%,48950,True
 2026-04-10,12:15,2026-04-08,ENR,"Energizer Holdings, Inc.","Aqua Capital, Ltd.",10% Owner,P - Purchase,17.47,14372,7019372,+0%,251054,False
 2026-04-10,06:18,2026-04-08,BZUN,Baozun Inc.,Wu Junhua,Chief Strategy Officer,P - Purchase,2.54,30886,122314,+34%,78450,True
 2026-04-09,21:58,2026-04-07,SG,"Sweetgreen, Inc.",GOLDMAN SACHS GROUP INC,10% Owner,P - Purchase,5.69,594553,11900255,+5%,3382595,False
@@ -5886,8 +5886,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-09,16:19,2026-04-09,CNXC,Concentrix Corp,Valentine Andre S,Chief Financial Officer,P - Purchase,27.95,2500,89066,+3%,69869,True
 2026-04-09,16:16,2026-04-08,XZO,"Exzeo Group, Inc.",Patel Paresh,Chief Executive Officer,P - Purchase,15.05,2000,1604013,+0%,30100,False
 2026-04-09,16:07,2026-04-07,PCF,High Income Securities Fund,GOLDSTEIN PHILLIP,Affiliate of the Adviser,P - Purchase,5.45,5088,46441,+12%,27725,False
-2026-04-09,14:43,2026-04-09,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,President,P - Purchase,5.19,5000,3032000,+0%,25950,False
-2026-04-09,14:43,2026-04-08,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,President,P - Purchase,5.61,10000,3027000,+0%,56050,False
+2026-04-09,14:43,2026-04-09,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,President,P - Purchase,5.19,5000,3032000,+0%,25950,True
+2026-04-09,14:43,2026-04-08,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,President,P - Purchase,5.61,10000,3027000,+0%,56050,True
 2026-04-09,13:10,2026-04-08,MXF,"The Mexico Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,22.17,2200,1781146,+0%,48774,False
 2026-04-09,13:07,2026-04-08,GF,"The New Germany Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,11.41,22744,2832311,+1%,259509,False
 2026-04-09,12:04,2026-04-02,LGHL,Lion Group Holding Ltd.,HRT FINANCIAL LP,10% Owner,P - Purchase,0.83,31629,23179,New,26252,True
@@ -5902,8 +5902,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-08,15:30,2026-04-08,KYN,"Kayne Anderson Energy Infrastructure Fund, Inc.",Baker James C,President,P - Purchase,13.67,25000,978019,+3%,341750,False
 2026-04-07,16:34,2026-04-06,MXF,"The Mexico Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,21.23,3814,1778946,+0%,80971,False
 2026-04-07,16:32,2026-04-06,GF,"The New Germany Fund, Inc.","Saba Capital Management, L.P.",10% Owner,P - Purchase,10.63,140564,2809567,+5%,1494195,False
-2026-04-06,20:55,2026-04-06,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,President,P - Purchase,6.32,5000,3017000,+0%,31600,False
-2026-04-06,20:55,2026-04-02,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,President,P - Purchase,6.09,20000,3012000,+1%,121798,False
+2026-04-06,20:55,2026-04-06,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,President,P - Purchase,6.32,5000,3017000,+0%,31600,True
+2026-04-06,20:55,2026-04-02,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,President,P - Purchase,6.09,20000,3012000,+1%,121798,True
 2026-04-06,16:38,2026-04-02,SWZ,"Total Return Securities, Inc.",Dakos Andrew,President and CEO,P - Purchase,5.93,4863,88,New,28828,False
 2026-04-06,16:33,2026-04-02,GSBD,"Goldman Sachs BDC, Inc.",Evans Carlos E,Director,P - Purchase,9.02,50000,64446,+346%,451035,False
 2026-04-06,12:31,2026-04-02,BAC,Bank of America Corporation,BANK OF AMERICA CORP /DE/,10% Owner,P - Purchase,8.68,3359,3359,New,29156,False
@@ -5938,7 +5938,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-09,18:41,2026-04-07,SPRU,Spruce Power Holding Corp,Steel Partners Holdings L.P.,10%,P - Purchase,3.99,19532,3381099,+1%,77900,True
 2026-04-09,18:33,2026-04-07,RPAY,Repay Holdings Corp,"Forager Fund, L.P.",10%,P - Purchase,2.52,913711,11106648,+9%,2304426,False
 2026-04-09,18:00,2026-04-07,LW,"Lamb Weston Holdings, Inc.","Jana Partners Management, LP",See Remarks,P - Purchase,41.11,236000,10397960,+2%,9702040,True
-2026-04-09,14:43,2026-04-08,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"Pres, 10%",P - Purchase,5.47,15000,7552140,0%,82000,False
+2026-04-09,14:43,2026-04-08,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"Pres, 10%",P - Purchase,5.47,15000,7552140,0%,82000,True
 2026-04-09,12:04,2026-04-02,LGHL,Lion Group Holding Ltd,Hrt Financial LP,10%,P - Purchase,0.86,56652,41765,-381%,48808,True
 2026-04-09,06:31,2026-04-07,BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,2.54,23600,1341722,+2%,60048,True
 2026-04-13,16:05,2026-03-31,SMC,Summit Midstream Corp,"Connect Midstream, LLC",10%,P - Purchase,31.08,1220918,1367397,+834%,37946131,False
@@ -6084,7 +6084,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-04-23,16:05,2026-04-23,BMI,Badger Meter Inc,Wrocklage Robert,EVP-N.A. Muncipal Utility,P - Purchase,122.35,1000,23321,+4%,122350,True
 2026-04-23,18:50,2026-04-21,PRLD,Prelude Therapeutics Inc,Bonita David P,"Dir, 10%",P - Purchase,4.44,2815315,1652426,-242%,12499999,True
 2026-04-23,18:48,2026-04-21,PRLD,Prelude Therapeutics Inc,Orbimed Advisors LLC,"Dir, 10%",P - Purchase,4.44,2815315,1652426,-242%,12499999,True
-2026-04-23,21:34,2026-04-23,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"Pres, 10%",P - Purchase,4.90,10000,7572140,0%,49000,False
+2026-04-23,21:34,2026-04-23,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"Pres, 10%",P - Purchase,4.90,10000,7572140,0%,49000,True
 2026-04-23,21:25,2026-04-22,PMN,Promis Neurosciences Inc.,Kirwin Patrick D.,Dir,P - Purchase,11.33,4000,10093,+66%,45320,False
 2026-04-24,09:22,2026-04-23,SMPL,Simply Good Foods Co,Kilts James M,Dir,P - Purchase,12.39,80000,3783524,+2%,991480,False
 2026-04-24,08:40,2026-04-01,ONMD,Onemednet Corp,Yu Jeffrey,"Chief Medical Officer, 10%",P - Purchase,0.83,903614,9761236,+10%,750000,False
@@ -9635,3 +9635,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-20,18:25,2026-08-19,SENS,"Senseonics Holdings, Inc.",Roeder Douglas A,Dir,P - Purchase,8.98,13953,171191,+9%,125300,False
 2026-08-20,20:43,2026-08-20,AMR,"Alpha Metallurgical Resources, Inc.",Courtis Kenneth S.,Dir,P - Purchase,193.50,15000,1000394,+2%,2902552,False
 2026-08-20,19:38,2026-08-19,RAIN,"Rain Enhancement Technologies Holdco, Inc.",Seidl Randy,CEO,P - Purchase,0.95,110000,754834,+17%,104225,False
+2026-08-20,21:15,2026-08-18,NTHI,"Neonc Technologies Holdings, Inc.",Chen Thomas C,"CEO, 10%",P - Purchase,5.49,12757,4674788,0%,69998,True
+2026-08-20,21:15,2026-04-10,NTHI,"Neonc Technologies Holdings, Inc.",Chen Thomas C,"Chief Scientific Officer, 10%",P - Purchase,4.09,47207,4671083,+1%,192899,True
+2026-08-20,21:05,2026-08-18,MOBI,"Mobia Medical, Inc.",Tansey Casey M,Dir,P - Purchase,12.07,16441,318332,+5%,198523,False

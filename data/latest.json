@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T00:45:16Z",
-  "trade_count": 9629,
+  "last_updated": "2026-08-21T02:18:53Z",
+  "trade_count": 9632,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -93472,7 +93472,7 @@
       "owned": "7537140",
       "delta_own": "0%",
       "value": "153398",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-07",
@@ -93968,7 +93968,7 @@
       "owned": "3042000",
       "delta_own": "+0%",
       "value": "48950",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-10",
@@ -94208,7 +94208,7 @@
       "owned": "3032000",
       "delta_own": "+0%",
       "value": "25950",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-09",
@@ -94224,7 +94224,7 @@
       "owned": "3027000",
       "delta_own": "+0%",
       "value": "56050",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-09",
@@ -94464,7 +94464,7 @@
       "owned": "3017000",
       "delta_own": "+0%",
       "value": "31600",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-06",
@@ -94480,7 +94480,7 @@
       "owned": "3012000",
       "delta_own": "+1%",
       "value": "121798",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-06",
@@ -95040,7 +95040,7 @@
       "owned": "7552140",
       "delta_own": "0%",
       "value": "82000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-09",
@@ -97296,7 +97296,7 @@
       "owned": "7572140",
       "delta_own": "0%",
       "value": "49000",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-04-23",
@@ -154064,6 +154064,54 @@
       "owned": "754834",
       "delta_own": "+17%",
       "value": "104225",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-20",
+      "filing_time": "21:15",
+      "trade_date": "2026-08-18",
+      "ticker": "NTHI",
+      "company": "Neonc Technologies Holdings, Inc.",
+      "insider_name": "Chen Thomas C",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "5.49",
+      "qty": "12757",
+      "owned": "4674788",
+      "delta_own": "0%",
+      "value": "69998",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-20",
+      "filing_time": "21:15",
+      "trade_date": "2026-04-10",
+      "ticker": "NTHI",
+      "company": "Neonc Technologies Holdings, Inc.",
+      "insider_name": "Chen Thomas C",
+      "title": "Chief Scientific Officer, 10%",
+      "trade_type": "P - Purchase",
+      "price": "4.09",
+      "qty": "47207",
+      "owned": "4671083",
+      "delta_own": "+1%",
+      "value": "192899",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-20",
+      "filing_time": "21:05",
+      "trade_date": "2026-08-18",
+      "ticker": "MOBI",
+      "company": "Mobia Medical, Inc.",
+      "insider_name": "Tansey Casey M",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "12.07",
+      "qty": "16441",
+      "owned": "318332",
+      "delta_own": "+5%",
+      "value": "198523",
       "cluster_buy": false
     }
   ]
