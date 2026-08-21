@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T17:21:40Z",
-  "trade_count": 9645,
+  "last_updated": "2026-08-21T18:24:33Z",
+  "trade_count": 9646,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -154321,6 +154321,22 @@
       "delta_own": "-135%",
       "value": "842699",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-21",
+      "filing_time": "13:49",
+      "trade_date": "2026-08-18",
+      "ticker": "REFI",
+      "company": "Chicago Atlantic Real Estate Finance, Inc.",
+      "insider_name": "Sack Peter",
+      "title": "Co-CEO",
+      "trade_type": "P - Purchase",
+      "price": "10.44",
+      "qty": "5000",
+      "owned": "123356",
+      "delta_own": "+4%",
+      "value": "52220",
+      "cluster_buy": true
     }
   ]
 }
