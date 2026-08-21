@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T15:24:30Z",
-  "trade_count": 9641,
+  "last_updated": "2026-08-21T16:22:11Z",
+  "trade_count": 9643,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -154257,6 +154257,38 @@
       "delta_own": "+9%",
       "value": "45420",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-21",
+      "filing_time": "11:58",
+      "trade_date": "2026-08-20",
+      "ticker": "BCML",
+      "company": "Baycom Corp",
+      "insider_name": "Laverne Robert G.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "29.95",
+      "qty": "1000",
+      "owned": "91628",
+      "delta_own": "+1%",
+      "value": "29950",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-21",
+      "filing_time": "11:26",
+      "trade_date": "2026-08-19",
+      "ticker": "RAIN",
+      "company": "Rain Enhancement Technologies Holdco, Inc.",
+      "insider_name": "Seidl Randy",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.95",
+      "qty": "110000",
+      "owned": "754834",
+      "delta_own": "+17%",
+      "value": "104225",
+      "cluster_buy": false
     }
   ]
 }
