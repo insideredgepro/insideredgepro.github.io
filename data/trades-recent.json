@@ -392,7 +392,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-08-22T03:55:03.245540+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862423+00:00"
   },
   {
     "id": "20003802211",
@@ -413,7 +413,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.245617+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862438+00:00"
   },
   {
     "id": "20003802200",
@@ -434,7 +434,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Description: Automatic stock dividend reinvestment.",
-    "scraped_at": "2026-08-22T03:55:03.246034+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862557+00:00"
   },
   {
     "id": "20003802212",
@@ -455,7 +455,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-08-22T03:55:03.245449+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862410+00:00"
   },
   {
     "id": "20003802213",
@@ -476,7 +476,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-08-22T03:55:03.245509+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862417+00:00"
   },
   {
     "id": "20003802215",
@@ -497,7 +497,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-08-22T03:55:03.245582+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862428+00:00"
   },
   {
     "id": "20003802216",
@@ -518,7 +518,28 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-08-22T03:55:03.245597+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862433+00:00"
+  },
+  {
+    "id": "20003802219",
+    "politician_name": "Suzan DelBene",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "STATE OF WASHINGTON",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-08-07",
+    "trade_published": "2026-08-24",
+    "filed_after_days": "14",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-08-24T16:10:02.862404+00:00"
   },
   {
     "id": "20003801744",
@@ -542,6 +563,48 @@
     "scraped_at": "2026-08-13T03:55:03.812323+00:00"
   },
   {
+    "id": "20003802217",
+    "politician_name": "Suzan DelBene",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "CALIFORNIA COMMUNITY CHOICE FINANCING AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-08-06",
+    "trade_published": "2026-08-24",
+    "filed_after_days": "15",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-08-24T16:10:02.862395+00:00"
+  },
+  {
+    "id": "20003802218",
+    "politician_name": "Suzan DelBene",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "ENERGY SOUTHEAST A COOPERATIVE DISTRICT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-08-06",
+    "trade_published": "2026-08-24",
+    "filed_after_days": "15",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Joint",
+    "comment": "",
+    "scraped_at": "2026-08-24T16:10:02.862400+00:00"
+  },
+  {
     "id": "20003802181",
     "politician_name": "Stephen Cohen",
     "party": "Democrat",
@@ -560,7 +623,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "U.S. Tres Bill Int. Rate 0.00% Mat 8/5/2027 [GS] Subholding Of: Stephens Advantage Account",
-    "scraped_at": "2026-08-22T03:55:03.246275+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862636+00:00"
   },
   {
     "id": "20003801754",
@@ -602,7 +665,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "JPMorgan Chase BK N A INSTL CTF DEP ACT/365 4.200% MAT 8/11/2027 [CS] Subholding Of: Stephens Advantage Account Description: Corporate Bond",
-    "scraped_at": "2026-08-22T03:55:03.246260+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862632+00:00"
   },
   {
     "id": "20003802116",
@@ -791,7 +854,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246289+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862641+00:00"
   },
   {
     "id": "20003801834",
@@ -938,7 +1001,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246132+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862588+00:00"
   },
   {
     "id": "10000066605",
@@ -959,7 +1022,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246360+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862666+00:00"
   },
   {
     "id": "20003802154",
@@ -980,7 +1043,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246430+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862691+00:00"
   },
   {
     "id": "20003802155",
@@ -1001,7 +1064,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246444+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862696+00:00"
   },
   {
     "id": "20003802156",
@@ -1022,7 +1085,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246457+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862702+00:00"
   },
   {
     "id": "20003802157",
@@ -1043,7 +1106,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246470+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862706+00:00"
   },
   {
     "id": "20003802158",
@@ -1064,7 +1127,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246500+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862711+00:00"
   },
   {
     "id": "20003802159",
@@ -1085,7 +1148,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246513+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862716+00:00"
   },
   {
     "id": "20003802160",
@@ -1106,7 +1169,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246529+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862722+00:00"
   },
   {
     "id": "20003802161",
@@ -1127,7 +1190,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246544+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862727+00:00"
   },
   {
     "id": "20003802162",
@@ -1148,7 +1211,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246560+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862732+00:00"
   },
   {
     "id": "20003802163",
@@ -1169,7 +1232,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246577+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862736+00:00"
   },
   {
     "id": "20003802164",
@@ -1190,7 +1253,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246592+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862741+00:00"
   },
   {
     "id": "20003802165",
@@ -1211,7 +1274,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246605+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862748+00:00"
   },
   {
     "id": "20003802166",
@@ -1232,7 +1295,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246618+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862753+00:00"
   },
   {
     "id": "20003802167",
@@ -1253,7 +1316,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246632+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862757+00:00"
   },
   {
     "id": "20003802168",
@@ -1274,7 +1337,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246645+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862763+00:00"
   },
   {
     "id": "20003802169",
@@ -1295,7 +1358,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246658+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862768+00:00"
   },
   {
     "id": "20003802170",
@@ -1316,7 +1379,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246674+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862775+00:00"
   },
   {
     "id": "20003802171",
@@ -1337,7 +1400,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246687+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862779+00:00"
   },
   {
     "id": "20003802172",
@@ -1358,7 +1421,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246700+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862784+00:00"
   },
   {
     "id": "20003802173",
@@ -1379,7 +1442,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246713+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862789+00:00"
   },
   {
     "id": "20003802174",
@@ -1400,7 +1463,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246729+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862794+00:00"
   },
   {
     "id": "20003802175",
@@ -1421,7 +1484,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246745+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862799+00:00"
   },
   {
     "id": "20003802176",
@@ -1442,7 +1505,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246758+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862805+00:00"
   },
   {
     "id": "20003802177",
@@ -1463,7 +1526,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246771+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862810+00:00"
   },
   {
     "id": "20003802178",
@@ -1484,7 +1547,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246784+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862815+00:00"
   },
   {
     "id": "20003802179",
@@ -1505,7 +1568,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Growth Partners Roth IRA",
-    "scraped_at": "2026-08-22T03:55:03.246808+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862819+00:00"
   },
   {
     "id": "20003801845",
@@ -1694,7 +1757,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-08-22T03:55:03.246047+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862561+00:00"
   },
   {
     "id": "20003801618",
@@ -1781,6 +1844,48 @@
     "scraped_at": "2026-08-06T03:55:02.469265+00:00"
   },
   {
+    "id": "20003802222",
+    "politician_name": "Nancy Pelosi",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "CA",
+    "company": "Bloom Energy Corp",
+    "ticker": "BE:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-28",
+    "trade_published": "2026-08-24",
+    "filed_after_days": "24",
+    "price": "$166.84",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Spouse",
+    "comment": "Description: Purchased 5,000 shares.",
+    "scraped_at": "2026-08-24T16:10:02.862368+00:00"
+  },
+  {
+    "id": "20003802223",
+    "politician_name": "Nancy Pelosi",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "CA",
+    "company": "Bloom Energy Corp",
+    "ticker": "BE:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-28",
+    "trade_published": "2026-08-24",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Spouse",
+    "comment": "Description: Purchased 100 call options with a strike price of $100 and an expiration date of 6/17/27.",
+    "scraped_at": "2026-08-24T16:10:02.862374+00:00"
+  },
+  {
     "id": "20003802189",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -1799,7 +1904,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-08-22T03:55:03.246162+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862592+00:00"
   },
   {
     "id": "20003802192",
@@ -1820,7 +1925,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246198+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862607+00:00"
   },
   {
     "id": "20003802194",
@@ -1841,7 +1946,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246222+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862616+00:00"
   },
   {
     "id": "20003802195",
@@ -1862,7 +1967,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246236+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862622+00:00"
   },
   {
     "id": "20003802128",
@@ -2348,6 +2453,27 @@
     "scraped_at": "2026-08-06T03:55:02.469302+00:00"
   },
   {
+    "id": "20003802226",
+    "politician_name": "Nancy Pelosi",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "CA",
+    "company": "REOF XXV LLC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-27",
+    "trade_published": "2026-08-24",
+    "filed_after_days": "25",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Not Disclosed",
+    "comment": "Description: Additional investment in LLC which is acquiring and restoring a luxury hotel property in San Francisco, CA.",
+    "scraped_at": "2026-08-24T16:10:02.862389+00:00"
+  },
+  {
     "id": "20003802191",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -2366,7 +2492,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246186+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862603+00:00"
   },
   {
     "id": "20003802193",
@@ -2387,7 +2513,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246210+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862611+00:00"
   },
   {
     "id": "20003801794",
@@ -2642,6 +2768,90 @@
     "scraped_at": "2026-08-06T03:55:02.469370+00:00"
   },
   {
+    "id": "20003802220",
+    "politician_name": "Nancy Pelosi",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "CA",
+    "company": "Bloom Energy Corp",
+    "ticker": "BE:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-24",
+    "trade_published": "2026-08-24",
+    "filed_after_days": "28",
+    "price": "$184.89",
+    "value": 3000000,
+    "amount": "$1M\u2013$5M",
+    "owner": "Spouse",
+    "comment": "Description: Purchased 10,000 shares.",
+    "scraped_at": "2026-08-24T16:10:02.862333+00:00"
+  },
+  {
+    "id": "20003802221",
+    "politician_name": "Nancy Pelosi",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "CA",
+    "company": "Bloom Energy Corp",
+    "ticker": "BE:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-24",
+    "trade_published": "2026-08-24",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 3000000,
+    "amount": "$1M\u2013$5M",
+    "owner": "Spouse",
+    "comment": "Description: Purchased 100 call options with a strike price of $100 and an expiration date of 6/17/27.",
+    "scraped_at": "2026-08-24T16:10:02.862356+00:00"
+  },
+  {
+    "id": "20003802224",
+    "politician_name": "Nancy Pelosi",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "CA",
+    "company": "Intel Corp",
+    "ticker": "INTC:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-24",
+    "trade_published": "2026-08-24",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "Description: Purchased 50 call options with a strike price of $50 and an expiration date of 6/17/27.",
+    "scraped_at": "2026-08-24T16:10:02.862378+00:00"
+  },
+  {
+    "id": "20003802225",
+    "politician_name": "Nancy Pelosi",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "CA",
+    "company": "Intel Corp",
+    "ticker": "INTC:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-07-24",
+    "trade_published": "2026-08-24",
+    "filed_after_days": "28",
+    "price": "$92.32",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Spouse",
+    "comment": "Description: Purchased 10,000 shares.",
+    "scraped_at": "2026-08-24T16:10:02.862384+00:00"
+  },
+  {
     "id": "20003802184",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -2660,7 +2870,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246074+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862570+00:00"
   },
   {
     "id": "20003802185",
@@ -2681,7 +2891,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246089+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862575+00:00"
   },
   {
     "id": "20003802186",
@@ -2702,7 +2912,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246101+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862580+00:00"
   },
   {
     "id": "20003801804",
@@ -3269,7 +3479,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246174+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862598+00:00"
   },
   {
     "id": "10000066617",
@@ -3290,7 +3500,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246303+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862646+00:00"
   },
   {
     "id": "10000066606",
@@ -3311,7 +3521,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246374+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862671+00:00"
   },
   {
     "id": "20003801844",
@@ -3584,7 +3794,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.245830+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862489+00:00"
   },
   {
     "id": "20003802201",
@@ -3605,7 +3815,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-08-22T03:55:03.245888+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862509+00:00"
   },
   {
     "id": "20003802205",
@@ -3626,7 +3836,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-08-22T03:55:03.245964+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862530+00:00"
   },
   {
     "id": "20003802183",
@@ -3647,7 +3857,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246059+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862566+00:00"
   },
   {
     "id": "20003802196",
@@ -3668,7 +3878,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-08-22T03:55:03.246248+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862627+00:00"
   },
   {
     "id": "20003801860",
@@ -4823,7 +5033,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.245846+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862494+00:00"
   },
   {
     "id": "20003802209",
@@ -4844,7 +5054,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.245861+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862500+00:00"
   },
   {
     "id": "20003802210",
@@ -4865,7 +5075,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.245874+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862504+00:00"
   },
   {
     "id": "20003802197",
@@ -4886,7 +5096,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: LIVTR",
-    "scraped_at": "2026-08-22T03:55:03.245995+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862539+00:00"
   },
   {
     "id": "20003802198",
@@ -4907,7 +5117,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: LIVTR",
-    "scraped_at": "2026-08-22T03:55:03.246008+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862545+00:00"
   },
   {
     "id": "20003802199",
@@ -4928,7 +5138,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: LIVTR",
-    "scraped_at": "2026-08-22T03:55:03.246020+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862552+00:00"
   },
   {
     "id": "20003801849",
@@ -6020,7 +6230,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246319+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862652+00:00"
   },
   {
     "id": "10000066604",
@@ -6041,7 +6251,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246346+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862662+00:00"
   },
   {
     "id": "20003802202",
@@ -6062,7 +6272,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-08-22T03:55:03.245921+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862515+00:00"
   },
   {
     "id": "20003802206",
@@ -6083,7 +6293,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-08-22T03:55:03.245977+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862535+00:00"
   },
   {
     "id": "20003801611",
@@ -6356,7 +6566,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-08-22T03:55:03.245935+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862520+00:00"
   },
   {
     "id": "20003802204",
@@ -6377,7 +6587,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-08-22T03:55:03.245951+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862525+00:00"
   },
   {
     "id": "10000066601",
@@ -7301,7 +7511,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246332+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862657+00:00"
   },
   {
     "id": "10000066607",
@@ -7322,7 +7532,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246388+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862677+00:00"
   },
   {
     "id": "10000066608",
@@ -7343,7 +7553,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246401+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862682+00:00"
   },
   {
     "id": "10000066609",
@@ -7364,7 +7574,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246413+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862686+00:00"
   },
   {
     "id": "20003802152",
@@ -7385,7 +7595,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust - KF19 Description: Shares surrendered through name change",
-    "scraped_at": "2026-08-22T03:55:03.246866+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862839+00:00"
   },
   {
     "id": "20003802153",
@@ -7574,7 +7784,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246113+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862584+00:00"
   },
   {
     "id": "20003802115",
@@ -23915,48 +24125,6 @@
     "scraped_at": "2026-06-08T16:10:02.025333+00:00"
   },
   {
-    "id": "20003798323",
-    "politician_name": "Jacob Auchincloss",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "MA",
-    "company": "State Street Corporation",
-    "ticker": "STT:US",
-    "sector": "financials",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-05-18",
-    "trade_published": "2026-05-25",
-    "filed_after_days": "4",
-    "price": "$153.74",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "Subholding Of: Fidelity Brokerage - MG Description: RSU distribution",
-    "scraped_at": "2026-06-04T13:45:31.466408+00:00"
-  },
-  {
-    "id": "20003798324",
-    "politician_name": "Jacob Auchincloss",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "MA",
-    "company": "State Street Corporation",
-    "ticker": "STT:US",
-    "sector": "financials",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-05-18",
-    "trade_published": "2026-05-25",
-    "filed_after_days": "4",
-    "price": "$153.74",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "Subholding Of: Fidelity Brokerage - MG Description: RSU distribution",
-    "scraped_at": "2026-06-04T13:45:31.466414+00:00"
-  },
-  {
     "id": "20003800657",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -28283,27 +28451,6 @@
     "scraped_at": "2026-06-08T16:10:02.025382+00:00"
   },
   {
-    "id": "10000065035",
-    "politician_name": "Bernie Moreno",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "OH",
-    "company": "ETORO GROUP LTD",
-    "ticker": "ETOR:US",
-    "sector": "financials",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-05-06",
-    "trade_published": "2026-05-23",
-    "filed_after_days": "16",
-    "price": "$38.61",
-    "value": 175000,
-    "amount": "$100K\u2013$250K",
-    "owner": "Self",
-    "comment": "",
-    "scraped_at": "2026-06-04T13:45:31.466419+00:00"
-  },
-  {
     "id": "20003801516",
     "politician_name": "Daniel Crenshaw",
     "party": "Republican",
@@ -30950,27 +31097,6 @@
     "scraped_at": "2026-06-04T13:45:31.466339+00:00"
   },
   {
-    "id": "20003798325",
-    "politician_name": "Thomas Kean Jr",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "NJ",
-    "company": "Analog Devices Inc",
-    "ticker": "ADI:US",
-    "sector": "information-technology",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-04-29",
-    "trade_published": "2026-05-25",
-    "filed_after_days": "23",
-    "price": "$389.31",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-06-04T13:45:31.466382+00:00"
-  },
-  {
     "id": "20003801515",
     "politician_name": "Daniel Crenshaw",
     "party": "Republican",
@@ -31095,27 +31221,6 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Fidelity Investments IRA",
     "scraped_at": "2026-06-09T03:55:03.038480+00:00"
-  },
-  {
-    "id": "20003798328",
-    "politician_name": "Thomas Kean Jr",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "NJ",
-    "company": "Take-Two Interactive Software Inc",
-    "ticker": "TTWO:US",
-    "sector": "communication-services",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-04-21",
-    "trade_published": "2026-05-25",
-    "filed_after_days": "31",
-    "price": "$217.65",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-06-04T13:45:31.466397+00:00"
   },
   {
     "id": "20003798333",
@@ -31326,69 +31431,6 @@
     "owner": "Spouse",
     "comment": "Subholding Of: Morgan Stanley - Rollover IRA",
     "scraped_at": "2026-06-04T13:45:31.466364+00:00"
-  },
-  {
-    "id": "20003798327",
-    "politician_name": "Thomas Kean Jr",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "NJ",
-    "company": "nVent Electric PLC",
-    "ticker": "NVT:US",
-    "sector": "industrials",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-04-15",
-    "trade_published": "2026-05-25",
-    "filed_after_days": "37",
-    "price": "$131.38",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-06-04T13:45:31.466392+00:00"
-  },
-  {
-    "id": "20003798326",
-    "politician_name": "Thomas Kean Jr",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "NJ",
-    "company": "First Citizens BancShares Inc",
-    "ticker": "FCNCA:US",
-    "sector": "financials",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-04-14",
-    "trade_published": "2026-05-25",
-    "filed_after_days": "38",
-    "price": "$1,990.98",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-06-04T13:45:31.466388+00:00"
-  },
-  {
-    "id": "20003798329",
-    "politician_name": "Thomas Kean Jr",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "NJ",
-    "company": "Texas Instruments Inc",
-    "ticker": "TXN:US",
-    "sector": "information-technology",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-04-14",
-    "trade_published": "2026-05-25",
-    "filed_after_days": "38",
-    "price": "$218.87",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-06-04T13:45:31.466404+00:00"
   },
   {
     "id": "10000065671",
@@ -33698,7 +33740,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust - KF19",
-    "scraped_at": "2026-08-22T03:55:03.246824+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862825+00:00"
   },
   {
     "id": "20003802150",
@@ -33719,7 +33761,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust - KF19",
-    "scraped_at": "2026-08-22T03:55:03.246836+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862830+00:00"
   },
   {
     "id": "20003802151",
@@ -33740,7 +33782,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust - KF19",
-    "scraped_at": "2026-08-22T03:55:03.246849+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862834+00:00"
   },
   {
     "id": "20003801671",
@@ -35756,7 +35798,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.245660+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862456+00:00"
   },
   {
     "id": "10000066620",
@@ -35777,7 +35819,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.245633+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862444+00:00"
   },
   {
     "id": "10000066621",
@@ -35798,7 +35840,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.245647+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862451+00:00"
   },
   {
     "id": "10000066623",
@@ -35819,7 +35861,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.245674+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862460+00:00"
   },
   {
     "id": "10000066624",
@@ -35840,7 +35882,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.245688+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862465+00:00"
   },
   {
     "id": "10000066625",
@@ -35861,7 +35903,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.245702+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862470+00:00"
   },
   {
     "id": "10000066626",
@@ -35882,7 +35924,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.245719+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862476+00:00"
   },
   {
     "id": "10000066627",
@@ -35903,7 +35945,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.245732+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862480+00:00"
   },
   {
     "id": "10000066628",
@@ -35924,7 +35966,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.245745+00:00"
+    "scraped_at": "2026-08-24T16:10:02.862485+00:00"
   },
   {
     "id": "20003801656",
