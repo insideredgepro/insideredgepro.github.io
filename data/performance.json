@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-24",
-  "entry_count": 1702,
+  "entry_count": 1709,
   "entries": [
     {
       "id": "US|CLNE|2026-06-25|scully stephen|1.75",
@@ -39947,8 +39947,8 @@
         "2026-08-23": 110.54,
         "2026-08-24": 110.54
       },
-      "latest_price": 107.59,
-      "return_pct": 431.83,
+      "latest_price": 107.504,
+      "return_pct": 431.41,
       "last_snapshot": "2026-08-24"
     },
     {
@@ -54123,8 +54123,8 @@
         "2026-08-23": 1.81,
         "2026-08-24": 1.81
       },
-      "latest_price": 1.91,
-      "return_pct": 17.9,
+      "latest_price": 1.92,
+      "return_pct": 18.52,
       "last_snapshot": "2026-08-24"
     },
     {
@@ -56204,8 +56204,8 @@
       "snapshots": {
         "2026-08-24": 110.54
       },
-      "latest_price": 107.59,
-      "return_pct": 406.07,
+      "latest_price": 107.504,
+      "return_pct": 405.66,
       "last_snapshot": "2026-08-24"
     },
     {
@@ -56224,8 +56224,8 @@
       "snapshots": {
         "2026-08-24": 110.54
       },
-      "latest_price": 107.59,
-      "return_pct": 405.83,
+      "latest_price": 107.504,
+      "return_pct": 405.43,
       "last_snapshot": "2026-08-24"
     },
     {
@@ -57560,6 +57560,146 @@
       },
       "latest_price": 107.12,
       "return_pct": 2.12,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|ACCS|2026-08-24|rein graeme p.|4.95",
+      "market": "US",
+      "ticker": "ACCS",
+      "yf_symbol": "ACCS",
+      "company": "Access Newswire Inc.",
+      "insider_name": "Rein Graeme P.",
+      "title": "Dir",
+      "trade_date": "2026-08-24",
+      "trade_price": 4.95,
+      "value": 29692.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 4.95
+      },
+      "latest_price": 4.95,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|MSGM|2026-08-20|red oak partners, llc|3.83",
+      "market": "US",
+      "ticker": "MSGM",
+      "yf_symbol": "MSGM",
+      "company": "Motorsport Games Inc.",
+      "insider_name": "Red Oak Partners, LLC",
+      "title": "10%",
+      "trade_date": "2026-08-20",
+      "trade_price": 3.83,
+      "value": 108501.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 4.05
+      },
+      "latest_price": 4.05,
+      "return_pct": 5.74,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|TMCI|2026-08-20|treace john t.|4.41",
+      "market": "US",
+      "ticker": "TMCI",
+      "yf_symbol": "TMCI",
+      "company": "Treace Medical Concepts, Inc.",
+      "insider_name": "Treace John T.",
+      "title": "CEO, 10%",
+      "trade_date": "2026-08-20",
+      "trade_price": 4.41,
+      "value": 246654.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 4.37
+      },
+      "latest_price": 4.37,
+      "return_pct": -0.91,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|HRI|2026-08-21|olsson erik|163.0",
+      "market": "US",
+      "ticker": "HRI",
+      "yf_symbol": "HRI",
+      "company": "Herc Holdings Inc",
+      "insider_name": "Olsson Erik",
+      "title": "Dir",
+      "trade_date": "2026-08-21",
+      "trade_price": 163.0,
+      "value": 502855.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 158.0
+      },
+      "latest_price": 158.0,
+      "return_pct": -3.07,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|LYTS|2026-08-24|marshall ernest w jr|19.73",
+      "market": "US",
+      "ticker": "LYTS",
+      "yf_symbol": "LYTS",
+      "company": "Lsi Industries Inc",
+      "insider_name": "Marshall Ernest W Jr",
+      "title": "Dir",
+      "trade_date": "2026-08-24",
+      "trade_price": 19.73,
+      "value": 39456.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 19.59
+      },
+      "latest_price": 19.59,
+      "return_pct": -0.71,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|EQPT|2026-08-21|schlacks william j.|18.64",
+      "market": "US",
+      "ticker": "EQPT",
+      "yf_symbol": "EQPT",
+      "company": "Equipmentshare.Com Inc",
+      "insider_name": "Schlacks William J.",
+      "title": "Founder, Pres",
+      "trade_date": "2026-08-21",
+      "trade_price": 18.64,
+      "value": 37280.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 18.76
+      },
+      "latest_price": 18.76,
+      "return_pct": 0.64,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|VERI|2026-08-21|steelberg ryan|0.85",
+      "market": "US",
+      "ticker": "VERI",
+      "yf_symbol": "VERI",
+      "company": "Veritone, Inc.",
+      "insider_name": "Steelberg Ryan",
+      "title": "Pres, CEO",
+      "trade_date": "2026-08-21",
+      "trade_price": 0.85,
+      "value": 126637.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 0.8562
+      },
+      "latest_price": 0.8562,
+      "return_pct": 0.73,
       "last_snapshot": "2026-08-24"
     }
   ]
