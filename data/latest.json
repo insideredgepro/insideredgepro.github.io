@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T11:19:21Z",
-  "trade_count": 9786,
+  "last_updated": "2026-08-24T12:29:26Z",
+  "trade_count": 9789,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -156576,6 +156576,54 @@
       "owned": "13792418",
       "delta_own": "+3%",
       "value": "4984000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-24",
+      "filing_time": "08:17",
+      "trade_date": "2026-08-24",
+      "ticker": "BABA",
+      "company": "Alibaba Group Holding Ltd",
+      "insider_name": "Tsai Joseph C",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "14.29",
+      "qty": "720000",
+      "owned": "116364406",
+      "delta_own": "+1%",
+      "value": "10288800",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-24",
+      "filing_time": "08:09",
+      "trade_date": "2026-08-21",
+      "ticker": "MHH",
+      "company": "Mastech Digital, Inc.",
+      "insider_name": "Shaw Steven A",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "7.47",
+      "qty": "5000",
+      "owned": "1365100",
+      "delta_own": "0%",
+      "value": "37350",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-24",
+      "filing_time": "07:20",
+      "trade_date": "2026-08-20",
+      "ticker": "SCOR",
+      "company": "Comscore, Inc.",
+      "insider_name": "Kline David",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "5.29",
+      "qty": "7000",
+      "owned": "7000",
+      "delta_own": "New",
+      "value": "37030",
       "cluster_buy": false
     }
   ]

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-24",
-  "entry_count": 1679,
+  "entry_count": 1682,
   "entries": [
     {
       "id": "US|CLNE|2026-06-25|scully stephen|1.75",
@@ -57100,6 +57100,66 @@
       },
       "latest_price": 119.34,
       "return_pct": 738.06,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|BABA|2026-08-24|tsai joseph c|14.29",
+      "market": "US",
+      "ticker": "BABA",
+      "yf_symbol": "BABA",
+      "company": "Alibaba Group Holding Ltd",
+      "insider_name": "Tsai Joseph C",
+      "title": "Dir",
+      "trade_date": "2026-08-24",
+      "trade_price": 14.29,
+      "value": 10288800.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 119.34
+      },
+      "latest_price": 119.34,
+      "return_pct": 735.13,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|MHH|2026-08-21|shaw steven a|7.47",
+      "market": "US",
+      "ticker": "MHH",
+      "yf_symbol": "MHH",
+      "company": "Mastech Digital, Inc.",
+      "insider_name": "Shaw Steven A",
+      "title": "10%",
+      "trade_date": "2026-08-21",
+      "trade_price": 7.47,
+      "value": 37350.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 7.5
+      },
+      "latest_price": 7.5,
+      "return_pct": 0.4,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|SCOR|2026-08-20|kline david|5.29",
+      "market": "US",
+      "ticker": "SCOR",
+      "yf_symbol": "SCOR",
+      "company": "Comscore, Inc.",
+      "insider_name": "Kline David",
+      "title": "Dir",
+      "trade_date": "2026-08-20",
+      "trade_price": 5.29,
+      "value": 37030.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 5.08
+      },
+      "latest_price": 5.08,
+      "return_pct": -3.97,
       "last_snapshot": "2026-08-24"
     }
   ]
