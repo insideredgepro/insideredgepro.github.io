@@ -9371,7 +9371,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-17,17:04,2026-08-17,KEEL,Keel Infrastructure Corp.,Wilson Liam Daniel,COO,P - Purchase,3.78,26472,70209,+61%,100064,True
 2026-08-17,16:51,2026-08-14,BFLY,"Butterfly Network, Inc.",Phanstiel S. Louise,Dir,P - Purchase,8.68,115200,691413,+20%,999510,False
 2026-08-17,16:50,2026-08-13,SUNS,"Sunrise Realty Trust, Inc.",Tannenbaum Leonard M,"Exec COB, 10%",P - Purchase,7.50,50000,3849874,+1%,375000,False
-2026-08-17,16:48,2026-08-14,DFDV,Defi Development Corp.,Kang Daniel,Chief Strategy Officer,P - Purchase,2.91,13000,67033,+24%,37830,False
+2026-08-17,16:48,2026-08-14,DFDV,Defi Development Corp.,Kang Daniel,Chief Strategy Officer,P - Purchase,2.91,13000,67033,+24%,37830,True
 2026-08-17,16:47,2026-08-17,AXIA,Axia Energia S.A.,Corso Matte Ana Silvia,Dir,P - Purchase,9.73,3000,22605,+15%,29190,True
 2026-08-17,16:45,2026-08-17,KURA,"Kura Oncology, Inc.",Wilson Troy Edward,"Pres, CEO",P - Purchase,11.12,100000,1114650,+10%,1112000,False
 2026-08-17,16:38,2026-08-13,GLIBK,Liberty Capital Corp/Nv,Malone John C,"Dir, 10%",P - Purchase,26.00,1000,2730304,0%,26000,False
@@ -9612,7 +9612,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-20,11:45,2026-08-19,DGXX,Digi Power X Inc.,Amar Michel,"CEO, 10%",P - Purchase,3.60,20000,5985480,0%,72000,True
 2026-08-20,12:33,2026-08-19,FCNCA,First Citizens Bancshares Inc /De/,Morais Diane E.,Dir,P - Purchase,2168.11,50,100,+100%,108405,False
 2026-08-20,16:14,2026-08-19,OPFI,Oppfi Inc.,Schwartz Todd G.,"CEO, 10%",P - Purchase,7.16,3500,27491385,0%,25053,False
-2026-08-20,16:13,2026-08-18,CORZ,"Core Scientific, Inc./Tx",Weiss Eric Stanton,Dir,P - Purchase,19.19,7000,259262,+3%,134358,False
+2026-08-20,16:13,2026-08-18,CORZ,"Core Scientific, Inc./Tx",Weiss Eric Stanton,Dir,P - Purchase,19.19,7000,259262,+3%,134358,True
 2026-08-20,16:05,2026-08-18,LFT,"Lument Finance Trust, Inc.",Flynn James Peter,CEO,P - Purchase,0.61,44000,422939,+12%,26734,False
 2026-08-20,16:01,2026-08-18,WW,"Ww International, Inc.",Sjoqvist Nikolaj H,Dir,P - Purchase,13.84,7235,19620,+58%,100132,False
 2026-08-20,17:14,2026-08-18,ET,Energy Transfer LP,Warren Kelcy L,Dir,P - Purchase,21.26,1000000,455659009,0%,21263520,True
@@ -9659,7 +9659,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-21,16:57,2026-08-20,NBBK,"Nb Bancorp, Inc.",Campanelli Joseph P,"Pres, CEO",P - Purchase,21.75,2000,484687,0%,43500,False
 2026-08-21,16:43,2026-08-20,CMCO,Columbus McKinnon Corp,Stephens Christopher J,Dir,P - Purchase,17.14,2750,22317,+14%,47135,False
 2026-08-21,16:42,2026-08-21,KEEL,Keel Infrastructure Corp.,Gagnon Benjamin,CEO,P - Purchase,3.33,38888,1386624,+3%,129497,True
-2026-08-21,16:40,2026-08-20,DFDV,Defi Development Corp.,Kang Daniel,Chief Strategy Officer,P - Purchase,3.88,11000,78033,+16%,42680,False
+2026-08-21,16:40,2026-08-20,DFDV,Defi Development Corp.,Kang Daniel,Chief Strategy Officer,P - Purchase,3.88,11000,78033,+16%,42680,True
 2026-08-21,16:30,2026-08-19,NOMD,Nomad Foods Ltd,Baldew Ruben,CFO,P - Purchase,11.85,28290,367172,+8%,335231,False
 2026-08-21,16:27,2026-08-21,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,22.75,50000,14042035,0%,1137500,False
 2026-08-21,16:25,2026-08-06,DXST,Decent Holding Inc.,Sun Dingxin,"Dir, 10%",P - Purchase,2.00,400000,600000,+200%,800000,False
@@ -9799,6 +9799,19 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-24,11:09,2026-08-21,AIAI,Aiai Holdings Corp,Carlton Charles Craig,10%,P - Purchase,6.98,14250,9213250,0%,99428,True
 2026-08-24,11:06,2026-08-21,SCTH,"Securetech Innovations, Inc.",Sitra J Scott,"Pres, CEO, 10%",P - Purchase,100000.00,1000,126390,+1%,100000000,False
 2026-08-24,12:28,2026-08-20,MATW,Matthews International Corp,Nauman J Michael,Dir,P - Purchase,21.96,1900,9081,+26%,41724,True
-2026-08-24,15:08,2026-08-20,SRTS,"Sensus Healthcare, Inc.",Sachetta Eric,Dir,P - Purchase,3.16,31000,176706,+21%,97850,False
+2026-08-24,15:08,2026-08-20,SRTS,"Sensus Healthcare, Inc.",Sachetta Eric,Dir,P - Purchase,3.16,31000,176706,+21%,97850,True
 2026-08-24,14:52,2026-08-21,ACOG,Alpha Cognition Inc.,Wills Robert James,Dir,P - Purchase,9.62,10000,32241,+45%,96200,False
 2026-08-24,14:41,2026-08-17,BFC,Bank First Corp,Pearson Tracy C,Dir,P - Purchase,156.97,1024,1024,New,160737,False
+2026-08-24,16:17,2026-08-21,AMR,"Alpha Metallurgical Resources, Inc.",Courtis Kenneth S.,Dir,P - Purchase,210.51,15000,1015394,+1%,3157631,False
+2026-08-24,16:15,2026-08-20,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10%,P - Purchase,220.30,400286,112803911,0%,88183049,False
+2026-08-24,16:14,2026-08-21,DFDV,Defi Development Corp.,White Parker,10%,P - Purchase,3.91,10069,3107277,0%,39321,True
+2026-08-24,16:13,2026-08-21,OPFI,Oppfi Inc.,Schwartz Todd G.,"CEO, 10%",P - Purchase,7.07,3550,27498385,0%,25104,False
+2026-08-24,16:11,2026-08-20,CORZ,"Core Scientific, Inc./Tx",Crain Elizabeth,Dir,P - Purchase,18.33,6000,71348,+9%,109994,True
+2026-08-24,16:11,2026-08-20,BNL,"Broadstone Net Lease, Inc.",Imperiale Richard P,Dir,P - Purchase,21.16,10000,31250,+47%,211600,False
+2026-08-24,16:05,2026-08-20,ODYS,Odysight.Ai Inc.,Goldwasser Benad,Dir,P - Purchase,3.20,46875,240816,+24%,150000,True
+2026-08-24,16:05,2026-08-20,ODYS,Odysight.Ai Inc.,Vurembrand Zeev,Dir,P - Purchase,3.20,31250,46250,+208%,100000,True
+2026-08-24,16:05,2026-08-20,ODYS,Odysight.Ai Inc.,Arkin Moshe,"Dir, 10%",P - Purchase,3.20,1125000,6708981,+20%,3600000,True
+2026-08-24,16:03,2026-08-24,VST,Vistra Corp.,Burke James A,"Pres, CEO",P - Purchase,135.00,2000,1235636,0%,270000,False
+2026-08-24,16:03,2026-08-21,SELF,"Global Self Storage, Inc.",Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,5.54,15139,213204,+8%,83851,False
+2026-08-24,16:00,2026-08-20,SRTS,"Sensus Healthcare, Inc.",Sardano Joseph C,CEO,P - Purchase,3.02,20000,1220293,+2%,60486,True
+2026-08-24,15:44,2026-08-24,TTMI,Ttm Technologies Inc,Geveden Rex D,Dir,P - Purchase,104.90,5000,99824,+5%,524500,False
