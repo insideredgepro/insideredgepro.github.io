@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T14:34:29Z",
-  "trade_count": 9789,
+  "last_updated": "2026-08-24T15:30:32Z",
+  "trade_count": 9792,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -153808,7 +153808,7 @@
       "owned": "128114",
       "delta_own": "+4%",
       "value": "29800",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-20",
@@ -156624,6 +156624,54 @@
       "owned": "7000",
       "delta_own": "New",
       "value": "37030",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-24",
+      "filing_time": "11:24",
+      "trade_date": "2026-08-21",
+      "ticker": "BLX",
+      "company": "Bladex, Inc.",
+      "insider_name": "Tizzoni Alejandro Horacio",
+      "title": "Chief Risk Officer",
+      "trade_type": "P - Purchase",
+      "price": "53.00",
+      "qty": "1850",
+      "owned": "79901",
+      "delta_own": "+2%",
+      "value": "98050",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-24",
+      "filing_time": "11:09",
+      "trade_date": "2026-08-21",
+      "ticker": "AIAI",
+      "company": "Aiai Holdings Corp",
+      "insider_name": "Carlton Charles Craig",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "6.98",
+      "qty": "14250",
+      "owned": "9213250",
+      "delta_own": "0%",
+      "value": "99428",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-24",
+      "filing_time": "11:06",
+      "trade_date": "2026-08-21",
+      "ticker": "SCTH",
+      "company": "Securetech Innovations, Inc.",
+      "insider_name": "Sitra J Scott",
+      "title": "Pres, CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "100000.00",
+      "qty": "1000",
+      "owned": "126390",
+      "delta_own": "+1%",
+      "value": "100000000",
       "cluster_buy": false
     }
   ]

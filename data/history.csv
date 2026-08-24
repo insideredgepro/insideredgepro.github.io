@@ -9618,7 +9618,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-20,17:14,2026-08-18,ET,Energy Transfer LP,Warren Kelcy L,Dir,P - Purchase,21.26,1000000,455659009,0%,21263520,True
 2026-08-20,17:10,2026-08-20,KEEL,Keel Infrastructure Corp.,Wilson Liam Daniel,COO,P - Purchase,3.25,30769,100978,+44%,99999,True
 2026-08-20,17:07,2026-08-19,BWA,Borgwarner Inc,Kalathur Rajesh,Dir,P - Purchase,67.59,7407,7407,New,500664,False
-2026-08-20,17:07,2026-08-19,AIAI,Aiai Holdings Corp,Affeldt Eric,Dir,P - Purchase,5.96,5000,128114,+4%,29800,False
+2026-08-20,17:07,2026-08-19,AIAI,Aiai Holdings Corp,Affeldt Eric,Dir,P - Purchase,5.96,5000,128114,+4%,29800,True
 2026-08-20,17:06,2026-08-18,PAM,Pampa Energy Inc.,Mindlin Marcos Marcelo,"Dir, 10%",P - Purchase,3.34,1299925,21355592,+6%,4342831,False
 2026-08-20,17:00,2026-08-19,SMRT,"Smartrent, Inc.",Bohjalian Thomas N,Dir,P - Purchase,1.39,55000,781062,+8%,76395,True
 2026-08-20,16:36,2026-08-18,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10%,P - Purchase,220.08,378969,112403625,0%,83402937,False
@@ -9795,3 +9795,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-24,08:17,2026-08-24,BABA,Alibaba Group Holding Ltd,Tsai Joseph C,Dir,P - Purchase,14.29,720000,116364406,+1%,10288800,True
 2026-08-24,08:09,2026-08-21,MHH,"Mastech Digital, Inc.",Shaw Steven A,10%,P - Purchase,7.47,5000,1365100,0%,37350,False
 2026-08-24,07:20,2026-08-20,SCOR,"Comscore, Inc.",Kline David,Dir,P - Purchase,5.29,7000,7000,New,37030,False
+2026-08-24,11:24,2026-08-21,BLX,"Bladex, Inc.",Tizzoni Alejandro Horacio,Chief Risk Officer,P - Purchase,53.00,1850,79901,+2%,98050,False
+2026-08-24,11:09,2026-08-21,AIAI,Aiai Holdings Corp,Carlton Charles Craig,10%,P - Purchase,6.98,14250,9213250,0%,99428,True
+2026-08-24,11:06,2026-08-21,SCTH,"Securetech Innovations, Inc.",Sitra J Scott,"Pres, CEO, 10%",P - Purchase,100000.00,1000,126390,+1%,100000000,False
