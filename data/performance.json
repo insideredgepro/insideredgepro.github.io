@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-24",
-  "entry_count": 1677,
+  "entry_count": 1679,
   "entries": [
     {
       "id": "US|CLNE|2026-06-25|scully stephen|1.75",
@@ -57061,6 +57061,46 @@
       "latest_price": null,
       "return_pct": null,
       "last_snapshot": null
+    },
+    {
+      "id": "US|PODD|2026-08-21|mcevoy ashley|147.47",
+      "market": "US",
+      "ticker": "PODD",
+      "yf_symbol": "PODD",
+      "company": "Insulet Corp",
+      "insider_name": "McEvoy Ashley",
+      "title": "Pres, CEO",
+      "trade_date": "2026-08-21",
+      "trade_price": 147.47,
+      "value": 162217.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 148.16
+      },
+      "latest_price": 148.16,
+      "return_pct": 0.47,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|BABA|2026-08-24|wu yongming|14.24",
+      "market": "US",
+      "ticker": "BABA",
+      "yf_symbol": "BABA",
+      "company": "Alibaba Group Holding Ltd",
+      "insider_name": "Wu Yongming",
+      "title": "CEO",
+      "trade_date": "2026-08-24",
+      "trade_price": 14.24,
+      "value": 4984000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 119.34
+      },
+      "latest_price": 119.34,
+      "return_pct": 738.06,
+      "last_snapshot": "2026-08-24"
     }
   ]
 }
