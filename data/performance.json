@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-24",
-  "entry_count": 1709,
+  "entry_count": 1715,
   "entries": [
     {
       "id": "US|CLNE|2026-06-25|scully stephen|1.75",
@@ -8493,8 +8493,8 @@
         "2026-08-23": 8.39,
         "2026-08-24": 8.39
       },
-      "latest_price": 8.35,
-      "return_pct": -57.55,
+      "latest_price": 8.39,
+      "return_pct": -57.35,
       "last_snapshot": "2026-08-24"
     },
     {
@@ -9123,8 +9123,8 @@
         "2026-08-23": 8.39,
         "2026-08-24": 8.39
       },
-      "latest_price": 8.35,
-      "return_pct": 19.97,
+      "latest_price": 8.39,
+      "return_pct": 20.55,
       "last_snapshot": "2026-08-24"
     },
     {
@@ -9193,8 +9193,8 @@
         "2026-08-23": 8.39,
         "2026-08-24": 8.39
       },
-      "latest_price": 8.35,
-      "return_pct": -59.17,
+      "latest_price": 8.39,
+      "return_pct": -58.97,
       "last_snapshot": "2026-08-24"
     },
     {
@@ -9263,8 +9263,8 @@
         "2026-08-23": 8.39,
         "2026-08-24": 8.39
       },
-      "latest_price": 8.35,
-      "return_pct": 19.29,
+      "latest_price": 8.39,
+      "return_pct": 19.86,
       "last_snapshot": "2026-08-24"
     },
     {
@@ -57700,6 +57700,126 @@
       },
       "latest_price": 0.8562,
       "return_pct": 0.73,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|TENX|2026-08-20|adar1 capital management, llc|1.77",
+      "market": "US",
+      "ticker": "TENX",
+      "yf_symbol": "TENX",
+      "company": "Tenax Therapeutics, Inc.",
+      "insider_name": "Adar1 Capital Management, LLC",
+      "title": "10%",
+      "trade_date": "2026-08-20",
+      "trade_price": 1.77,
+      "value": 1814147.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 1.85
+      },
+      "latest_price": 1.85,
+      "return_pct": 4.52,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|GEVO|2026-08-21|barber james j|1.54",
+      "market": "US",
+      "ticker": "GEVO",
+      "yf_symbol": "GEVO",
+      "company": "Gevo, Inc.",
+      "insider_name": "Barber James J",
+      "title": "Dir",
+      "trade_date": "2026-08-21",
+      "trade_price": 1.54,
+      "value": 77000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 1.53
+      },
+      "latest_price": 1.53,
+      "return_pct": -0.65,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|KURA|2026-08-24|wilson troy edward|12.39",
+      "market": "US",
+      "ticker": "KURA",
+      "yf_symbol": "KURA",
+      "company": "Kura Oncology, Inc.",
+      "insider_name": "Wilson Troy Edward",
+      "title": "Pres, CEO",
+      "trade_date": "2026-08-24",
+      "trade_price": 12.39,
+      "value": 1239000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 12.4
+      },
+      "latest_price": 12.4,
+      "return_pct": 0.08,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|USAC|2026-08-20|whitehurst bradford d.|26.22",
+      "market": "US",
+      "ticker": "USAC",
+      "yf_symbol": "USAC",
+      "company": "USA Compression Partners, LP",
+      "insider_name": "Whitehurst Bradford D.",
+      "title": "Dir",
+      "trade_date": "2026-08-20",
+      "trade_price": 26.22,
+      "value": 262200.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 26.44
+      },
+      "latest_price": 26.44,
+      "return_pct": 0.84,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|SLNH|2026-08-20|picchi michael|1.15",
+      "market": "US",
+      "ticker": "SLNH",
+      "yf_symbol": "SLNH",
+      "company": "Soluna Holdings, Inc",
+      "insider_name": "Picchi Michael",
+      "title": "CFO",
+      "trade_date": "2026-08-20",
+      "trade_price": 1.15,
+      "value": 34400.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 1.145
+      },
+      "latest_price": 1.145,
+      "return_pct": -0.43,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|ABCL|2026-08-24|hayden michael r|10.64",
+      "market": "US",
+      "ticker": "ABCL",
+      "yf_symbol": "ABCL",
+      "company": "Abcellera Biologics Inc.",
+      "insider_name": "Hayden Michael R",
+      "title": "Dir",
+      "trade_date": "2026-08-24",
+      "trade_price": 10.64,
+      "value": 570442.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 10.61
+      },
+      "latest_price": 10.61,
+      "return_pct": -0.28,
       "last_snapshot": "2026-08-24"
     }
   ]
