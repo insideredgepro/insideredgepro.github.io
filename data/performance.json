@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-25",
-  "entry_count": 1690,
+  "entry_count": 1692,
   "entries": [
     {
       "id": "US|DPC|2026-06-26|sanders nick|33.0",
@@ -56750,6 +56750,46 @@
       },
       "latest_price": 118.47,
       "return_pct": 718.73,
+      "last_snapshot": "2026-08-25"
+    },
+    {
+      "id": "US|BORR|2026-08-25|troim tor olav|4.37",
+      "market": "US",
+      "ticker": "BORR",
+      "yf_symbol": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Troim Tor Olav",
+      "title": "Dir",
+      "trade_date": "2026-08-25",
+      "trade_price": 4.37,
+      "value": 874620.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-25": 4.38
+      },
+      "latest_price": 4.38,
+      "return_pct": 0.23,
+      "last_snapshot": "2026-08-25"
+    },
+    {
+      "id": "US|AIAI|2026-08-24|carlton charles craig|6.09",
+      "market": "US",
+      "ticker": "AIAI",
+      "yf_symbol": "AIAI",
+      "company": "Aiai Holdings Corp",
+      "insider_name": "Carlton Charles Craig",
+      "title": "10%",
+      "trade_date": "2026-08-24",
+      "trade_price": 6.09,
+      "value": 50243.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-25": 5.31
+      },
+      "latest_price": 5.31,
+      "return_pct": -12.81,
       "last_snapshot": "2026-08-25"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T10:22:56Z",
-  "trade_count": 9826,
+  "last_updated": "2026-08-25T11:19:21Z",
+  "trade_count": 9828,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -157216,6 +157216,38 @@
       "owned": "117084406",
       "delta_own": "+1%",
       "value": "10418400",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "07:06",
+      "trade_date": "2026-08-25",
+      "ticker": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Troim Tor Olav",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.37",
+      "qty": "200000",
+      "owned": "29467808",
+      "delta_own": "+1%",
+      "value": "874620",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "06:56",
+      "trade_date": "2026-08-24",
+      "ticker": "AIAI",
+      "company": "Aiai Holdings Corp",
+      "insider_name": "Carlton Charles Craig",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "6.09",
+      "qty": "8250",
+      "owned": "9221250",
+      "delta_own": "0%",
+      "value": "50243",
       "cluster_buy": true
     }
   ]
