@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T14:35:45Z",
-  "trade_count": 9834,
+  "last_updated": "2026-08-25T15:34:48Z",
+  "trade_count": 9836,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -157345,6 +157345,38 @@
       "delta_own": "0%",
       "value": "377404",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "10:59",
+      "trade_date": "2026-08-21",
+      "ticker": "TISI",
+      "company": "Team Inc",
+      "insider_name": "Roeder Clinton William",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "22.89",
+      "qty": "9000",
+      "owned": "9000",
+      "delta_own": "New",
+      "value": "206040",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "10:56",
+      "trade_date": "2026-08-21",
+      "ticker": "TISI",
+      "company": "Team Inc",
+      "insider_name": "Horton Anthony R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "23.03",
+      "qty": "4000",
+      "owned": "28082",
+      "delta_own": "+17%",
+      "value": "92100",
+      "cluster_buy": true
     }
   ]
 }
