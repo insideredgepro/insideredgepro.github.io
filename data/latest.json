@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T12:30:05Z",
-  "trade_count": 9829,
+  "last_updated": "2026-08-25T13:42:32Z",
+  "trade_count": 9831,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -157265,6 +157265,38 @@
       "delta_own": "+3%",
       "value": "43175",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "09:30",
+      "trade_date": "2026-08-21",
+      "ticker": "EPSN",
+      "company": "Epsilon Energy Ltd.",
+      "insider_name": "Stabell Jason",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "5.61",
+      "qty": "26313",
+      "owned": "1169034",
+      "delta_own": "+2%",
+      "value": "147714",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "09:26",
+      "trade_date": "2026-08-24",
+      "ticker": "SRTS",
+      "company": "Sensus Healthcare, Inc.",
+      "insider_name": "Sachetta Eric",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.25",
+      "qty": "34697",
+      "owned": "211403",
+      "delta_own": "+20%",
+      "value": "112904",
+      "cluster_buy": true
     }
   ]
 }
