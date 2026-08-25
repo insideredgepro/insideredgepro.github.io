@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-25",
-  "entry_count": 1688,
+  "entry_count": 1690,
   "entries": [
     {
       "id": "US|DPC|2026-06-26|sanders nick|33.0",
@@ -56710,6 +56710,46 @@
       },
       "latest_price": 21.82,
       "return_pct": 7.28,
+      "last_snapshot": "2026-08-25"
+    },
+    {
+      "id": "US|AIJTY|2026-08-14|daqing ye|0.88",
+      "market": "US",
+      "ticker": "AIJTY",
+      "yf_symbol": "AIJTY",
+      "company": "Jianpu Technology Inc.",
+      "insider_name": "Daqing Ye",
+      "title": "Dir",
+      "trade_date": "2026-08-14",
+      "trade_price": 0.88,
+      "value": 33202.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-25": 0.926
+      },
+      "latest_price": 0.926,
+      "return_pct": 5.23,
+      "last_snapshot": "2026-08-25"
+    },
+    {
+      "id": "US|BABA|2026-08-25|tsai joseph c|14.47",
+      "market": "US",
+      "ticker": "BABA",
+      "yf_symbol": "BABA",
+      "company": "Alibaba Group Holding Ltd",
+      "insider_name": "Tsai Joseph C",
+      "title": "Dir",
+      "trade_date": "2026-08-25",
+      "trade_price": 14.47,
+      "value": 10418400.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-25": 118.47
+      },
+      "latest_price": 118.47,
+      "return_pct": 718.73,
       "last_snapshot": "2026-08-25"
     }
   ]

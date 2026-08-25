@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T09:25:45Z",
-  "trade_count": 9824,
+  "last_updated": "2026-08-25T10:22:56Z",
+  "trade_count": 9826,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -157185,6 +157185,38 @@
       "delta_own": "+28%",
       "value": "501998",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "06:17",
+      "trade_date": "2026-08-14",
+      "ticker": "AIJTY",
+      "company": "Jianpu Technology Inc.",
+      "insider_name": "Daqing Ye",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.88",
+      "qty": "37604",
+      "owned": "262729",
+      "delta_own": "+17%",
+      "value": "33202",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "06:01",
+      "trade_date": "2026-08-25",
+      "ticker": "BABA",
+      "company": "Alibaba Group Holding Ltd",
+      "insider_name": "Tsai Joseph C",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "14.47",
+      "qty": "720000",
+      "owned": "117084406",
+      "delta_own": "+1%",
+      "value": "10418400",
+      "cluster_buy": true
     }
   ]
 }
