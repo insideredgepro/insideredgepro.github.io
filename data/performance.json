@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-25",
-  "entry_count": 1711,
+  "entry_count": 1712,
   "entries": [
     {
       "id": "US|DPC|2026-06-26|sanders nick|33.0",
@@ -57170,6 +57170,26 @@
       },
       "latest_price": 14.25,
       "return_pct": -0.63,
+      "last_snapshot": "2026-08-25"
+    },
+    {
+      "id": "US|HYNE|2026-08-24|healy walter f|16.58",
+      "market": "US",
+      "ticker": "HYNE",
+      "yf_symbol": "HYNE",
+      "company": "Hoyne Bancorp, Inc.",
+      "insider_name": "Healy Walter F",
+      "title": "Pres, CEO, Dir",
+      "trade_date": "2026-08-24",
+      "trade_price": 16.58,
+      "value": 25670.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-25": 16.47
+      },
+      "latest_price": 16.47,
+      "return_pct": -0.66,
       "last_snapshot": "2026-08-25"
     }
   ]

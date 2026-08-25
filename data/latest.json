@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T22:17:18Z",
-  "trade_count": 9847,
+  "last_updated": "2026-08-25T23:17:41Z",
+  "trade_count": 9848,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -157552,6 +157552,22 @@
       "owned": "53450",
       "delta_own": "+7%",
       "value": "49456",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "18:37",
+      "trade_date": "2026-08-24",
+      "ticker": "HYNE",
+      "company": "Hoyne Bancorp, Inc.",
+      "insider_name": "Healy Walter F",
+      "title": "Pres, CEO, Dir",
+      "trade_type": "P - Purchase",
+      "price": "16.58",
+      "qty": "1548",
+      "owned": "41294",
+      "delta_own": "+4%",
+      "value": "25670",
       "cluster_buy": false
     }
   ]
