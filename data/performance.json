@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-25",
-  "entry_count": 1710,
+  "entry_count": 1711,
   "entries": [
     {
       "id": "US|DPC|2026-06-26|sanders nick|33.0",
@@ -57150,6 +57150,26 @@
       },
       "latest_price": 178.57,
       "return_pct": 0.89,
+      "last_snapshot": "2026-08-25"
+    },
+    {
+      "id": "US|ASYS|2026-08-24|shechter guy|14.34",
+      "market": "US",
+      "ticker": "ASYS",
+      "yf_symbol": "ASYS",
+      "company": "Amtech Systems Inc",
+      "insider_name": "Shechter Guy",
+      "title": "Pres, CEO",
+      "trade_date": "2026-08-24",
+      "trade_price": 14.34,
+      "value": 49456.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-25": 14.25
+      },
+      "latest_price": 14.25,
+      "return_pct": -0.63,
       "last_snapshot": "2026-08-25"
     }
   ]

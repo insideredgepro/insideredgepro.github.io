@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T21:19:20Z",
-  "trade_count": 9846,
+  "last_updated": "2026-08-25T22:17:18Z",
+  "trade_count": 9847,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -157536,6 +157536,22 @@
       "owned": "7936",
       "delta_own": "+55%",
       "value": "500733",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "18:13",
+      "trade_date": "2026-08-24",
+      "ticker": "ASYS",
+      "company": "Amtech Systems Inc",
+      "insider_name": "Shechter Guy",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "14.34",
+      "qty": "3450",
+      "owned": "53450",
+      "delta_own": "+7%",
+      "value": "49456",
       "cluster_buy": false
     }
   ]
