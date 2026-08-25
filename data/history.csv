@@ -9633,7 +9633,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-20,18:37,2026-08-18,KWY,Kingsway Corp,Horowitz Joshua,Dir,P - Purchase,9.83,9103,413603,+2%,89484,False
 2026-08-20,18:30,2026-08-18,IAUX,I-80 Gold Corp.,Young Richard Scott,"Pres, CEO",P - Purchase,1.62,1000000,6337000,+19%,1620000,False
 2026-08-20,18:25,2026-08-19,SENS,"Senseonics Holdings, Inc.",Roeder Douglas A,Dir,P - Purchase,8.98,13953,171191,+9%,125300,False
-2026-08-20,20:43,2026-08-20,AMR,"Alpha Metallurgical Resources, Inc.",Courtis Kenneth S.,Dir,P - Purchase,193.50,15000,1000394,+2%,2902552,False
+2026-08-20,20:43,2026-08-20,AMR,"Alpha Metallurgical Resources, Inc.",Courtis Kenneth S.,Dir,P - Purchase,193.50,15000,1000394,+2%,2902552,True
 2026-08-20,19:38,2026-08-19,RAIN,"Rain Enhancement Technologies Holdco, Inc.",Seidl Randy,CEO,P - Purchase,0.95,110000,754834,+17%,104225,False
 2026-08-20,21:15,2026-08-18,NTHI,"Neonc Technologies Holdings, Inc.",Chen Thomas C,"CEO, 10%",P - Purchase,5.49,12757,4674788,0%,69998,True
 2026-08-20,21:15,2026-04-10,NTHI,"Neonc Technologies Holdings, Inc.",Chen Thomas C,"Chief Scientific Officer, 10%",P - Purchase,4.09,47207,4671083,+1%,192899,True
@@ -9802,7 +9802,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-24,15:08,2026-08-20,SRTS,"Sensus Healthcare, Inc.",Sachetta Eric,Dir,P - Purchase,3.16,31000,176706,+21%,97850,True
 2026-08-24,14:52,2026-08-21,ACOG,Alpha Cognition Inc.,Wills Robert James,Dir,P - Purchase,9.62,10000,32241,+45%,96200,False
 2026-08-24,14:41,2026-08-17,BFC,Bank First Corp,Pearson Tracy C,Dir,P - Purchase,156.97,1024,1024,New,160737,False
-2026-08-24,16:17,2026-08-21,AMR,"Alpha Metallurgical Resources, Inc.",Courtis Kenneth S.,Dir,P - Purchase,210.51,15000,1015394,+1%,3157631,False
+2026-08-24,16:17,2026-08-21,AMR,"Alpha Metallurgical Resources, Inc.",Courtis Kenneth S.,Dir,P - Purchase,210.51,15000,1015394,+1%,3157631,True
 2026-08-24,16:15,2026-08-20,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10%,P - Purchase,220.30,400286,112803911,0%,88183049,False
 2026-08-24,16:14,2026-08-21,DFDV,Defi Development Corp.,White Parker,10%,P - Purchase,3.91,10069,3107277,0%,39321,True
 2026-08-24,16:13,2026-08-21,OPFI,Oppfi Inc.,Schwartz Todd G.,"CEO, 10%",P - Purchase,7.07,3550,27498385,0%,25104,False
@@ -9845,3 +9845,4 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-25,11:55,2026-08-21,NGL,Ngl Energy Partners LP,Raymond John T,Dir,P - Purchase,16.22,26626,76626,+53%,432002,False
 2026-08-25,13:40,2026-08-21,BCML,Baycom Corp,Laverne Robert G.,Dir,P - Purchase,29.85,1000,92628,+1%,29850,True
 2026-08-25,13:26,2026-08-24,RBA,Rb Global Inc.,Harford Chloe,Dir,P - Purchase,83.74,1200,1200,New,100488,False
+2026-08-25,15:02,2026-08-21,AMR,"Alpha Metallurgical Resources, Inc.",Gorzynski Michael,"See Remarks, 10%",P - Purchase,208.92,10000,1453012,+1%,2089169,True

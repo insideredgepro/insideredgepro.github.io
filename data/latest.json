@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T18:25:51Z",
-  "trade_count": 9839,
+  "last_updated": "2026-08-25T19:25:19Z",
+  "trade_count": 9840,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -154048,7 +154048,7 @@
       "owned": "1000394",
       "delta_own": "+2%",
       "value": "2902552",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-20",
@@ -156752,7 +156752,7 @@
       "owned": "1015394",
       "delta_own": "+1%",
       "value": "3157631",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-24",
@@ -157425,6 +157425,22 @@
       "delta_own": "New",
       "value": "100488",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "15:02",
+      "trade_date": "2026-08-21",
+      "ticker": "AMR",
+      "company": "Alpha Metallurgical Resources, Inc.",
+      "insider_name": "Gorzynski Michael",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "208.92",
+      "qty": "10000",
+      "owned": "1453012",
+      "delta_own": "+1%",
+      "value": "2089169",
+      "cluster_buy": true
     }
   ]
 }
