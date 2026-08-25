@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T15:34:48Z",
-  "trade_count": 9836,
+  "last_updated": "2026-08-25T16:26:12Z",
+  "trade_count": 9837,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -157377,6 +157377,22 @@
       "delta_own": "+17%",
       "value": "92100",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "11:55",
+      "trade_date": "2026-08-21",
+      "ticker": "NGL",
+      "company": "Ngl Energy Partners LP",
+      "insider_name": "Raymond John T",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "16.22",
+      "qty": "26626",
+      "owned": "76626",
+      "delta_own": "+53%",
+      "value": "432002",
+      "cluster_buy": false
     }
   ]
 }
