@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T17:23:44Z",
-  "trade_count": 9837,
+  "last_updated": "2026-08-25T18:25:51Z",
+  "trade_count": 9839,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -157392,6 +157392,38 @@
       "owned": "76626",
       "delta_own": "+53%",
       "value": "432002",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "13:40",
+      "trade_date": "2026-08-21",
+      "ticker": "BCML",
+      "company": "Baycom Corp",
+      "insider_name": "Laverne Robert G.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "29.85",
+      "qty": "1000",
+      "owned": "92628",
+      "delta_own": "+1%",
+      "value": "29850",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "13:26",
+      "trade_date": "2026-08-24",
+      "ticker": "RBA",
+      "company": "Rb Global Inc.",
+      "insider_name": "Harford Chloe",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "83.74",
+      "qty": "1200",
+      "owned": "1200",
+      "delta_own": "New",
+      "value": "100488",
       "cluster_buy": false
     }
   ]
