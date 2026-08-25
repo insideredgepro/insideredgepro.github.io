@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T13:42:32Z",
-  "trade_count": 9831,
+  "last_updated": "2026-08-25T14:35:45Z",
+  "trade_count": 9834,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -157297,6 +157297,54 @@
       "delta_own": "+20%",
       "value": "112904",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "10:11",
+      "trade_date": "2026-08-24",
+      "ticker": "HKHC",
+      "company": "Horizon Kinetics Holding Corp",
+      "insider_name": "Rosenthal Brent D",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "27.00",
+      "qty": "2000",
+      "owned": "4450",
+      "delta_own": "+82%",
+      "value": "54000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "09:59",
+      "trade_date": "2026-08-25",
+      "ticker": "GRML",
+      "company": "Greenland Mines Ltd",
+      "insider_name": "Leblanc Jeff",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "9.72",
+      "qty": "14000",
+      "owned": "110406",
+      "delta_own": "+15%",
+      "value": "136080",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "09:58",
+      "trade_date": "2026-08-21",
+      "ticker": "DGICA",
+      "company": "Donegal Group Inc",
+      "insider_name": "Donegal Mutual Insurance Co",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "18.87",
+      "qty": "20000",
+      "owned": "18966180",
+      "delta_own": "0%",
+      "value": "377404",
+      "cluster_buy": false
     }
   ]
 }
