@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-24",
-  "entry_count": 1716,
+  "entry_count": 1717,
   "entries": [
     {
       "id": "US|CLNE|2026-06-25|scully stephen|1.75",
@@ -35402,8 +35402,8 @@
         "2026-08-23": 4.15,
         "2026-08-24": 4.15
       },
-      "latest_price": 4.15,
-      "return_pct": -11.13,
+      "latest_price": 3.9,
+      "return_pct": -16.49,
       "last_snapshot": "2026-08-24"
     },
     {
@@ -37374,8 +37374,8 @@
         "2026-08-23": 4.15,
         "2026-08-24": 4.15
       },
-      "latest_price": 4.15,
-      "return_pct": -9.19,
+      "latest_price": 3.9,
+      "return_pct": -14.66,
       "last_snapshot": "2026-08-24"
     },
     {
@@ -40356,8 +40356,8 @@
         "2026-08-23": 20.4,
         "2026-08-24": 20.4
       },
-      "latest_price": 20.4,
-      "return_pct": -84.62,
+      "latest_price": 20.41,
+      "return_pct": -84.61,
       "last_snapshot": "2026-08-24"
     },
     {
@@ -43376,8 +43376,8 @@
         "2026-08-23": 12.15,
         "2026-08-24": 12.15
       },
-      "latest_price": 12.15,
-      "return_pct": -1.14,
+      "latest_price": 12.16,
+      "return_pct": -1.06,
       "last_snapshot": "2026-08-24"
     },
     {
@@ -44034,8 +44034,8 @@
         "2026-08-23": 4.15,
         "2026-08-24": 4.15
       },
-      "latest_price": 4.15,
-      "return_pct": -3.49,
+      "latest_price": 3.9,
+      "return_pct": -9.3,
       "last_snapshot": "2026-08-24"
     },
     {
@@ -57841,6 +57841,26 @@
       },
       "latest_price": 128.68,
       "return_pct": 9.2,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|PRE|2026-08-20|yeung danny sheng wu|20.34",
+      "market": "US",
+      "ticker": "PRE",
+      "yf_symbol": "PRE",
+      "company": "Prenetics Global Ltd",
+      "insider_name": "Yeung Danny Sheng Wu",
+      "title": "CEO",
+      "trade_date": "2026-08-20",
+      "trade_price": 20.34,
+      "value": 501998.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 21.82
+      },
+      "latest_price": 21.82,
+      "return_pct": 7.28,
       "last_snapshot": "2026-08-24"
     }
   ]
