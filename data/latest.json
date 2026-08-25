@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T23:15:51Z",
-  "trade_count": 9822,
+  "last_updated": "2026-08-25T00:43:57Z",
+  "trade_count": 9823,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -157153,6 +157153,22 @@
       "delta_own": "+4%",
       "value": "570442",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-24",
+      "filing_time": "19:28",
+      "trade_date": "2026-08-20",
+      "ticker": "RHLD",
+      "company": "Resolute Holdings Management, Inc.",
+      "insider_name": "Schoen Kurt",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "117.84",
+      "qty": "375",
+      "owned": "3225",
+      "delta_own": "+13%",
+      "value": "44190",
+      "cluster_buy": false
     }
   ]
 }

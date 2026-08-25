@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-24",
-  "entry_count": 1715,
+  "entry_count": 1716,
   "entries": [
     {
       "id": "US|CLNE|2026-06-25|scully stephen|1.75",
@@ -4613,11 +4613,12 @@
         "2026-08-20": 0.09,
         "2026-08-21": 0.09,
         "2026-08-22": 0.09,
-        "2026-08-23": 0.09
+        "2026-08-23": 0.09,
+        "2026-08-24": 0.468
       },
-      "latest_price": 0.09,
-      "return_pct": -99.53,
-      "last_snapshot": "2026-08-23"
+      "latest_price": 0.468,
+      "return_pct": -97.54,
+      "last_snapshot": "2026-08-24"
     },
     {
       "id": "US|FGBI|2026-06-30|smith edgar r. iii|10.61",
@@ -57218,7 +57219,7 @@
       "snapshots": {
         "2026-08-24": 21.0
       },
-      "latest_price": 21.0,
+      "latest_price": 21.05,
       "return_pct": -99.98,
       "last_snapshot": "2026-08-24"
     },
@@ -57820,6 +57821,26 @@
       },
       "latest_price": 10.61,
       "return_pct": -0.28,
+      "last_snapshot": "2026-08-24"
+    },
+    {
+      "id": "US|RHLD|2026-08-20|schoen kurt|117.84",
+      "market": "US",
+      "ticker": "RHLD",
+      "yf_symbol": "RHLD",
+      "company": "Resolute Holdings Management, Inc.",
+      "insider_name": "Schoen Kurt",
+      "title": "CFO",
+      "trade_date": "2026-08-20",
+      "trade_price": 117.84,
+      "value": 44190.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-24": 128.68
+      },
+      "latest_price": 128.68,
+      "return_pct": 9.2,
       "last_snapshot": "2026-08-24"
     }
   ]
