@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T11:19:21Z",
-  "trade_count": 9828,
+  "last_updated": "2026-08-25T12:30:05Z",
+  "trade_count": 9829,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -157249,6 +157249,22 @@
       "delta_own": "0%",
       "value": "50243",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "08:00",
+      "trade_date": "2026-08-21",
+      "ticker": "PODC",
+      "company": "Podcastone, Inc.",
+      "insider_name": "Merriman D Jonathan",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.75",
+      "qty": "15700",
+      "owned": "608295",
+      "delta_own": "+3%",
+      "value": "43175",
+      "cluster_buy": false
     }
   ]
 }

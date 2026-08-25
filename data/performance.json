@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-25",
-  "entry_count": 1692,
+  "entry_count": 1693,
   "entries": [
     {
       "id": "US|DPC|2026-06-26|sanders nick|33.0",
@@ -56790,6 +56790,26 @@
       },
       "latest_price": 5.31,
       "return_pct": -12.81,
+      "last_snapshot": "2026-08-25"
+    },
+    {
+      "id": "US|PODC|2026-08-21|merriman d jonathan|2.75",
+      "market": "US",
+      "ticker": "PODC",
+      "yf_symbol": "PODC",
+      "company": "Podcastone, Inc.",
+      "insider_name": "Merriman D Jonathan",
+      "title": "Dir",
+      "trade_date": "2026-08-21",
+      "trade_price": 2.75,
+      "value": 43175.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-25": 2.65
+      },
+      "latest_price": 2.65,
+      "return_pct": -3.64,
       "last_snapshot": "2026-08-25"
     }
   ]
