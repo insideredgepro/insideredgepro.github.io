@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T19:25:19Z",
-  "trade_count": 9840,
+  "last_updated": "2026-08-25T20:19:06Z",
+  "trade_count": 9843,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -157441,6 +157441,54 @@
       "delta_own": "+1%",
       "value": "2089169",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "16:05",
+      "trade_date": "2026-08-21",
+      "ticker": "VENU",
+      "company": "Venu Holding Corp",
+      "insider_name": "Finke Thomas M",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.92",
+      "qty": "30000",
+      "owned": "74961",
+      "delta_own": "+67%",
+      "value": "57600",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "15:53",
+      "trade_date": "2026-08-25",
+      "ticker": "AMRZ",
+      "company": "Amrize Ltd",
+      "insider_name": "Forrest Nollaig",
+      "title": "Chief Mktg, Corp Affairs Off",
+      "trade_type": "P - Purchase",
+      "price": "44.15",
+      "qty": "1500",
+      "owned": "21639",
+      "delta_own": "+7%",
+      "value": "66225",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "15:38",
+      "trade_date": "2026-08-21",
+      "ticker": "PAM",
+      "company": "Pampa Energy Inc.",
+      "insider_name": "Mindlin Marcos Marcelo",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "3.38",
+      "qty": "675000",
+      "owned": "22030592",
+      "delta_own": "+3%",
+      "value": "2278800",
+      "cluster_buy": false
     }
   ]
 }
