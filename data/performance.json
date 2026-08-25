@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-25",
-  "entry_count": 1707,
+  "entry_count": 1710,
   "entries": [
     {
       "id": "US|DPC|2026-06-26|sanders nick|33.0",
@@ -38367,8 +38367,8 @@
         "2026-08-24": 110.54,
         "2026-08-25": 107.5
       },
-      "latest_price": 111.3,
-      "return_pct": 450.17,
+      "latest_price": 111.2,
+      "return_pct": 449.68,
       "last_snapshot": "2026-08-25"
     },
     {
@@ -55010,8 +55010,8 @@
         "2026-08-24": 110.54,
         "2026-08-25": 107.5
       },
-      "latest_price": 111.3,
-      "return_pct": 423.52,
+      "latest_price": 111.2,
+      "return_pct": 423.05,
       "last_snapshot": "2026-08-25"
     },
     {
@@ -55031,8 +55031,8 @@
         "2026-08-24": 110.54,
         "2026-08-25": 107.5
       },
-      "latest_price": 111.3,
-      "return_pct": 423.27,
+      "latest_price": 111.2,
+      "return_pct": 422.8,
       "last_snapshot": "2026-08-25"
     },
     {
@@ -57090,6 +57090,66 @@
       },
       "latest_price": 79.76,
       "return_pct": 2259.76,
+      "last_snapshot": "2026-08-25"
+    },
+    {
+      "id": "US|AMR|2026-08-25|courtis kenneth s.|216.53",
+      "market": "US",
+      "ticker": "AMR",
+      "yf_symbol": "AMR",
+      "company": "Alpha Metallurgical Resources, Inc.",
+      "insider_name": "Courtis Kenneth S.",
+      "title": "Dir",
+      "trade_date": "2026-08-25",
+      "trade_price": 216.53,
+      "value": 1082665.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-25": 215.63
+      },
+      "latest_price": 215.63,
+      "return_pct": -0.42,
+      "last_snapshot": "2026-08-25"
+    },
+    {
+      "id": "US|QVCG|2026-08-21|goldentree asset management lp|15.23",
+      "market": "US",
+      "ticker": "QVCG",
+      "yf_symbol": "QVCG",
+      "company": "Qvc Group, Inc.",
+      "insider_name": "Goldentree Asset Management LP",
+      "title": "10%",
+      "trade_date": "2026-08-21",
+      "trade_price": 15.23,
+      "value": 44019.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-25": 15.75
+      },
+      "latest_price": 15.75,
+      "return_pct": 3.41,
+      "last_snapshot": "2026-08-25"
+    },
+    {
+      "id": "US|AMT|2026-08-21|kalathur rajesh|177.0",
+      "market": "US",
+      "ticker": "AMT",
+      "yf_symbol": "AMT",
+      "company": "American Tower Corp /Ma/",
+      "insider_name": "Kalathur Rajesh",
+      "title": "Dir",
+      "trade_date": "2026-08-21",
+      "trade_price": 177.0,
+      "value": 500733.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-25": 178.57
+      },
+      "latest_price": 178.57,
+      "return_pct": 0.89,
       "last_snapshot": "2026-08-25"
     }
   ]

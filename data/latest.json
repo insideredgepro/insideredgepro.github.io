@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T20:19:06Z",
-  "trade_count": 9843,
+  "last_updated": "2026-08-25T21:19:20Z",
+  "trade_count": 9846,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -157488,6 +157488,54 @@
       "owned": "22030592",
       "delta_own": "+3%",
       "value": "2278800",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "17:05",
+      "trade_date": "2026-08-25",
+      "ticker": "AMR",
+      "company": "Alpha Metallurgical Resources, Inc.",
+      "insider_name": "Courtis Kenneth S.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "216.53",
+      "qty": "5000",
+      "owned": "1020394",
+      "delta_own": "0%",
+      "value": "1082665",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "16:30",
+      "trade_date": "2026-08-21",
+      "ticker": "QVCG",
+      "company": "Qvc Group, Inc.",
+      "insider_name": "Goldentree Asset Management LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "15.23",
+      "qty": "2890",
+      "owned": "8645894",
+      "delta_own": "0%",
+      "value": "44019",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "16:23",
+      "trade_date": "2026-08-21",
+      "ticker": "AMT",
+      "company": "American Tower Corp /Ma/",
+      "insider_name": "Kalathur Rajesh",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "177.00",
+      "qty": "2829",
+      "owned": "7936",
+      "delta_own": "+55%",
+      "value": "500733",
       "cluster_buy": false
     }
   ]
