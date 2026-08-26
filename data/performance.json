@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-25",
-  "entry_count": 1712,
+  "entry_count": 1715,
   "entries": [
     {
       "id": "US|DPC|2026-06-26|sanders nick|33.0",
@@ -57190,6 +57190,66 @@
       },
       "latest_price": 16.47,
       "return_pct": -0.66,
+      "last_snapshot": "2026-08-25"
+    },
+    {
+      "id": "US|TTMI|2026-08-25|roks edwin|111.77",
+      "market": "US",
+      "ticker": "TTMI",
+      "yf_symbol": "TTMI",
+      "company": "Ttm Technologies Inc",
+      "insider_name": "Roks Edwin",
+      "title": "Pres, CEO",
+      "trade_date": "2026-08-25",
+      "trade_price": 111.77,
+      "value": 1117700.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-25": 112.3
+      },
+      "latest_price": 112.3,
+      "return_pct": 0.47,
+      "last_snapshot": "2026-08-25"
+    },
+    {
+      "id": "US|SUJA|2026-08-21|paine schwartz food chain fund v gp, ltd.|8.72",
+      "market": "US",
+      "ticker": "SUJA",
+      "yf_symbol": "SUJA",
+      "company": "Suja Life, Inc.",
+      "insider_name": "Paine Schwartz Food Chain Fund V Gp, Ltd.",
+      "title": "10%",
+      "trade_date": "2026-08-21",
+      "trade_price": 8.72,
+      "value": 5723741.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-25": 9.33
+      },
+      "latest_price": 9.33,
+      "return_pct": 7.0,
+      "last_snapshot": "2026-08-25"
+    },
+    {
+      "id": "US|AMRC|2026-08-21|cox brian c|21.64",
+      "market": "US",
+      "ticker": "AMRC",
+      "yf_symbol": "AMRC",
+      "company": "Ameresco, Inc.",
+      "insider_name": "Cox Brian C",
+      "title": "Dir",
+      "trade_date": "2026-08-21",
+      "trade_price": 21.64,
+      "value": 100085.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-25": 22.07
+      },
+      "latest_price": 22.07,
+      "return_pct": 1.99,
       "last_snapshot": "2026-08-25"
     }
   ]

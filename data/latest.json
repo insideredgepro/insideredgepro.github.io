@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T23:17:41Z",
-  "trade_count": 9848,
+  "last_updated": "2026-08-26T00:45:18Z",
+  "trade_count": 9851,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -156944,7 +156944,7 @@
       "owned": "99824",
       "delta_own": "+5%",
       "value": "524500",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-24",
@@ -157569,6 +157569,54 @@
       "delta_own": "+4%",
       "value": "25670",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "20:42",
+      "trade_date": "2026-08-25",
+      "ticker": "TTMI",
+      "company": "Ttm Technologies Inc",
+      "insider_name": "Roks Edwin",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "111.77",
+      "qty": "10000",
+      "owned": "64814",
+      "delta_own": "+18%",
+      "value": "1117700",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "19:31",
+      "trade_date": "2026-08-21",
+      "ticker": "SUJA",
+      "company": "Suja Life, Inc.",
+      "insider_name": "Paine Schwartz Food Chain Fund V Gp, Ltd.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "8.72",
+      "qty": "656548",
+      "owned": "10444005",
+      "delta_own": "+7%",
+      "value": "5723741",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-25",
+      "filing_time": "19:25",
+      "trade_date": "2026-08-21",
+      "ticker": "AMRC",
+      "company": "Ameresco, Inc.",
+      "insider_name": "Cox Brian C",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "21.64",
+      "qty": "4625",
+      "owned": "44325",
+      "delta_own": "+12%",
+      "value": "100085",
+      "cluster_buy": true
     }
   ]
 }
