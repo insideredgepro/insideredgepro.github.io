@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-26T12:33:37Z",
-  "trade_count": 9853,
+  "last_updated": "2026-08-26T13:46:29Z",
+  "trade_count": 9854,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -157648,6 +157648,22 @@
       "owned": "666200",
       "delta_own": "+4%",
       "value": "51470",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-26",
+      "filing_time": "08:32",
+      "trade_date": "2026-08-25",
+      "ticker": "CVM",
+      "company": "Cel Sci Corp",
+      "insider_name": "Kersten Geert R",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.38",
+      "qty": "100000",
+      "owned": "627689",
+      "delta_own": "+19%",
+      "value": "138000",
       "cluster_buy": false
     }
   ]
