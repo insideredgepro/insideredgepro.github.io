@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-26",
-  "entry_count": 1683,
+  "entry_count": 1685,
   "entries": [
     {
       "id": "US|TSM|2026-06-29|tien bor-zen|76.17",
@@ -2495,8 +2495,8 @@
         "2026-08-25": 0.365,
         "2026-08-26": 0.367
       },
-      "latest_price": 0.367,
-      "return_pct": -71.55,
+      "latest_price": 0.3665,
+      "return_pct": -71.59,
       "last_snapshot": "2026-08-26"
     },
     {
@@ -4784,8 +4784,8 @@
         "2026-08-25": 0.365,
         "2026-08-26": 0.367
       },
-      "latest_price": 0.367,
-      "return_pct": -73.41,
+      "latest_price": 0.3665,
+      "return_pct": -73.44,
       "last_snapshot": "2026-08-26"
     },
     {
@@ -6915,8 +6915,8 @@
         "2026-08-25": 0.365,
         "2026-08-26": 0.367
       },
-      "latest_price": 0.367,
-      "return_pct": -44.39,
+      "latest_price": 0.3665,
+      "return_pct": -44.47,
       "last_snapshot": "2026-08-26"
     },
     {
@@ -55926,6 +55926,46 @@
       },
       "latest_price": 22.07,
       "return_pct": 1.99,
+      "last_snapshot": "2026-08-26"
+    },
+    {
+      "id": "US|PRE|2026-08-24|rosin brian j|21.55",
+      "market": "US",
+      "ticker": "PRE",
+      "yf_symbol": "PRE",
+      "company": "Prenetics Global Ltd",
+      "insider_name": "Rosin Brian J",
+      "title": "CFO of IM8 (US) LLC",
+      "trade_date": "2026-08-24",
+      "trade_price": 21.55,
+      "value": 497700.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-26": 23.25
+      },
+      "latest_price": 23.25,
+      "return_pct": 7.89,
+      "last_snapshot": "2026-08-26"
+    },
+    {
+      "id": "US|FTCI|2026-08-25|carroll anthony|2.08",
+      "market": "US",
+      "ticker": "FTCI",
+      "yf_symbol": "FTCI",
+      "company": "Ftc Solar, Inc.",
+      "insider_name": "Carroll Anthony",
+      "title": "CEO",
+      "trade_date": "2026-08-25",
+      "trade_price": 2.08,
+      "value": 51470.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-26": 1.99
+      },
+      "latest_price": 1.99,
+      "return_pct": -4.33,
       "last_snapshot": "2026-08-26"
     }
   ]

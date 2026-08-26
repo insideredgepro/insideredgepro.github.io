@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-26T11:21:11Z",
-  "trade_count": 9851,
+  "last_updated": "2026-08-26T12:33:37Z",
+  "trade_count": 9853,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -157184,7 +157184,7 @@
       "owned": "112416",
       "delta_own": "+28%",
       "value": "501998",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-25",
@@ -157617,6 +157617,38 @@
       "delta_own": "+12%",
       "value": "100085",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-26",
+      "filing_time": "08:23",
+      "trade_date": "2026-08-24",
+      "ticker": "PRE",
+      "company": "Prenetics Global Ltd",
+      "insider_name": "Rosin Brian J",
+      "title": "CFO of IM8 (US) LLC",
+      "trade_type": "P - Purchase",
+      "price": "21.55",
+      "qty": "23100",
+      "owned": "23100",
+      "delta_own": "New",
+      "value": "497700",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-26",
+      "filing_time": "08:00",
+      "trade_date": "2026-08-25",
+      "ticker": "FTCI",
+      "company": "Ftc Solar, Inc.",
+      "insider_name": "Carroll Anthony",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.08",
+      "qty": "24745",
+      "owned": "666200",
+      "delta_own": "+4%",
+      "value": "51470",
+      "cluster_buy": false
     }
   ]
 }
