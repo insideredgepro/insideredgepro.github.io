@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-26T16:11:23Z",
-  "trade_count": 9942,
+  "last_updated": "2026-08-26T18:52:47Z",
+  "trade_count": 9943,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -159072,6 +159072,22 @@
       "owned": "33681",
       "delta_own": "+35%",
       "value": "79896",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-26",
+      "filing_time": "12:17",
+      "trade_date": "2026-08-25",
+      "ticker": "MAIR",
+      "company": "Madison Air Solutions Corp",
+      "insider_name": "La Force Andrew Hudson III",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "27.84",
+      "qty": "20000",
+      "owned": "36713",
+      "delta_own": "+120%",
+      "value": "556800",
       "cluster_buy": false
     }
   ]
