@@ -9581,7 +9581,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-19,09:44,2026-08-17,AVBC,"Avidia Bancorp, Inc.",Doane Thomas,EVP- HR,P - Purchase,22.31,1726,20659,+9%,38507,True
 2026-08-19,08:41,2026-08-07,CCHH,Cch Holdings Ltd,Ng Yah Ling,Dir,P - Purchase,0.28,469987,469987,New,129716,True
 2026-08-19,15:03,2026-08-18,LIN,Linde Plc,Reynolds Paula Rosput,Dir,P - Purchase,479.12,100,1532,+7%,47912,False
-2026-08-19,14:51,2026-08-18,EMYB,"Embassy Bancorp, Inc.",Lobach David M Jr,"COB, Pres, CEO",P - Purchase,22.33,2000,550249,0%,44660,False
+2026-08-19,14:51,2026-08-18,EMYB,"Embassy Bancorp, Inc.",Lobach David M Jr,"COB, Pres, CEO",P - Purchase,22.33,2000,550249,0%,44660,True
 2026-08-19,14:22,2026-08-18,BKKT,"Bakkt, Inc.",Alfred Michael,Dir,P - Purchase,7.12,296567,1201567,+33%,2111557,False
 2026-08-19,16:14,2026-08-19,DMLP,"Dorchester Minerals, L.P.",Moriyama Leslie A,CFO,P - Purchase,28.30,5197,103405,+5%,147075,False
 2026-08-19,15:46,2026-08-18,UTGN,Utg Inc,First Southern Funding LLC,10%,P - Purchase,59.00,4808,1698491,0%,283672,True
@@ -9660,7 +9660,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-21,16:43,2026-08-20,CMCO,Columbus McKinnon Corp,Stephens Christopher J,Dir,P - Purchase,17.14,2750,22317,+14%,47135,False
 2026-08-21,16:42,2026-08-21,KEEL,Keel Infrastructure Corp.,Gagnon Benjamin,CEO,P - Purchase,3.33,38888,1386624,+3%,129497,True
 2026-08-21,16:40,2026-08-20,DFDV,Defi Development Corp.,Kang Daniel,Chief Strategy Officer,P - Purchase,3.88,11000,78033,+16%,42680,True
-2026-08-21,16:30,2026-08-19,NOMD,Nomad Foods Ltd,Baldew Ruben,CFO,P - Purchase,11.85,28290,367172,+8%,335231,False
+2026-08-21,16:30,2026-08-19,NOMD,Nomad Foods Ltd,Baldew Ruben,CFO,P - Purchase,11.85,28290,367172,+8%,335231,True
 2026-08-21,16:27,2026-08-21,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,22.75,50000,14042035,0%,1137500,False
 2026-08-21,16:25,2026-08-06,DXST,Decent Holding Inc.,Sun Dingxin,"Dir, 10%",P - Purchase,2.00,400000,600000,+200%,800000,False
 2026-08-21,16:16,2026-08-20,ELAN,Elanco Animal Health Inc,Kurzius Lawrence Erik,Dir,P - Purchase,23.40,40000,188647,+27%,935920,True
@@ -9949,3 +9949,22 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-26,10:57,2026-08-25,AMRZ,Amrize Ltd,Singleton Denise R,"GC, Corp Sec",P - Purchase,44.12,3500,7500,+88%,154403,True
 2026-08-26,10:05,2026-04-14,OPTX,"Syntec Optics Holdings, Inc.",Manzone Albert,Dir,P - Purchase,9.20,8681,33681,+35%,79896,False
 2026-08-26,12:17,2026-08-25,MAIR,Madison Air Solutions Corp,La Force Andrew Hudson III,Dir,P - Purchase,27.84,20000,36713,+120%,556800,False
+2026-08-26,17:00,2026-08-21,EQBK,Equity Bancshares Inc,Rogerson Donald Scott,Dir,P - Purchase,50.00,2000,10103,+25%,100000,False
+2026-08-26,16:54,2026-08-24,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,22.83,79729,14121764,+1%,1820537,False
+2026-08-26,16:52,2026-08-24,FNKO,"Funko, Inc.",Denson Charles D,Dir,P - Purchase,6.85,72992,308384,+31%,499995,False
+2026-08-26,16:47,2026-08-25,SELF,"Global Self Storage, Inc.",Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,5.65,15308,228512,+7%,86452,False
+2026-08-26,16:42,2026-08-25,NGL,Ngl Energy Partners LP,Raymond John T,Dir,P - Purchase,16.98,300000,376626,+392%,5094000,False
+2026-08-26,16:30,2026-08-24,LDI,"Loandepot, Inc.",Hsieh Anthony Li,"Exec Chair, CEO, Pres, 10%",P - Purchase,0.91,471466,688962,+217%,430861,False
+2026-08-26,16:30,2026-08-24,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,22.42,6000,66000,+10%,134517,True
+2026-08-26,16:28,2026-08-24,AMRC,"Ameresco, Inc.",Miller Jennifer L,Dir,P - Purchase,20.96,2000,34546,+6%,41920,True
+2026-08-26,16:28,2026-08-24,AMRC,"Ameresco, Inc.",Sutton Joseph W.,Dir,P - Purchase,20.87,9700,213601,+5%,202439,True
+2026-08-26,16:28,2026-08-24,AMRC,"Ameresco, Inc.",Sakellaris George P,"CEO, 10%",P - Purchase,21.43,10000,2305597,0%,214297,True
+2026-08-26,16:23,2026-08-24,NOMD,Nomad Foods Ltd,Brisby Dominic,CEO,P - Purchase,12.38,50000,726794,+7%,619000,True
+2026-08-26,16:15,2026-08-20,PRTS,"Carparts.Com, Inc.",Phelps Barry,Dir,P - Purchase,6.48,10000,345788,+3%,64767,False
+2026-08-26,16:15,2026-08-25,BRTMU,B&R Technology Merger Corp.,B&R Technology Sponsor LLC (Cayman),10%,P - Purchase,10.00,52500,740000,+8%,525000,False
+2026-08-26,16:15,2026-08-24,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10%,P - Purchase,222.43,571116,113375027,+1%,127030343,False
+2026-08-26,16:12,2026-08-25,FCCO,First Community Corp /Sc/,Sosebee Jane S,Dir,P - Purchase,33.95,1250,10950,+13%,42431,False
+2026-08-26,16:06,2026-08-24,JUSH,Jushi Holdings Inc.,Cacioppo James,"CEO, 10%",P - Purchase,0.48,706112,15624577,+5%,342154,False
+2026-08-26,16:03,2026-08-25,OPFI,Oppfi Inc.,Schwartz Todd G.,"CEO, 10%",P - Purchase,7.25,3475,27505335,0%,25205,False
+2026-08-26,15:57,2026-08-26,EMYB,"Embassy Bancorp, Inc.",Lesavoy Bernard M,Dir,P - Purchase,22.29,1446,220832,+1%,32234,True
+2026-08-26,15:15,2026-08-25,FGL,Founder Group Ltd,Hrt Financial LP,10%,P - Purchase,0.23,232055,278140,+504%,52212,False
