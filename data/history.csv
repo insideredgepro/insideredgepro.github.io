@@ -9842,7 +9842,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-25,09:58,2026-08-21,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,18.87,20000,18966180,0%,377404,False
 2026-08-25,10:59,2026-08-21,TISI,Team Inc,Roeder Clinton William,CFO,P - Purchase,22.89,9000,9000,New,206040,True
 2026-08-25,10:56,2026-08-21,TISI,Team Inc,Horton Anthony R,Dir,P - Purchase,23.03,4000,28082,+17%,92100,True
-2026-08-25,11:55,2026-08-21,NGL,Ngl Energy Partners LP,Raymond John T,Dir,P - Purchase,16.22,26626,76626,+53%,432002,False
+2026-08-25,11:55,2026-08-21,NGL,Ngl Energy Partners LP,Raymond John T,Dir,P - Purchase,16.22,26626,76626,+53%,432002,True
 2026-08-25,13:40,2026-08-21,BCML,Baycom Corp,Laverne Robert G.,Dir,P - Purchase,29.85,1000,92628,+1%,29850,True
 2026-08-25,13:26,2026-08-24,RBA,Rb Global Inc.,Harford Chloe,Dir,P - Purchase,83.74,1200,1200,New,100488,False
 2026-08-25,15:02,2026-08-21,AMR,"Alpha Metallurgical Resources, Inc.",Gorzynski Michael,"See Remarks, 10%",P - Purchase,208.92,10000,1453012,+1%,2089169,True
@@ -9953,7 +9953,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-26,16:54,2026-08-24,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,22.83,79729,14121764,+1%,1820537,False
 2026-08-26,16:52,2026-08-24,FNKO,"Funko, Inc.",Denson Charles D,Dir,P - Purchase,6.85,72992,308384,+31%,499995,False
 2026-08-26,16:47,2026-08-25,SELF,"Global Self Storage, Inc.",Winmill & Co. Inc,"See ""Explanation of Responses""",P - Purchase,5.65,15308,228512,+7%,86452,False
-2026-08-26,16:42,2026-08-25,NGL,Ngl Energy Partners LP,Raymond John T,Dir,P - Purchase,16.98,300000,376626,+392%,5094000,False
+2026-08-26,16:42,2026-08-25,NGL,Ngl Energy Partners LP,Raymond John T,Dir,P - Purchase,16.98,300000,376626,+392%,5094000,True
 2026-08-26,16:30,2026-08-24,LDI,"Loandepot, Inc.",Hsieh Anthony Li,"Exec Chair, CEO, Pres, 10%",P - Purchase,0.91,471466,688962,+217%,430861,False
 2026-08-26,16:30,2026-08-24,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,22.42,6000,66000,+10%,134517,True
 2026-08-26,16:28,2026-08-24,AMRC,"Ameresco, Inc.",Miller Jennifer L,Dir,P - Purchase,20.96,2000,34546,+6%,41920,True
@@ -9968,3 +9968,12 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-26,16:03,2026-08-25,OPFI,Oppfi Inc.,Schwartz Todd G.,"CEO, 10%",P - Purchase,7.25,3475,27505335,0%,25205,False
 2026-08-26,15:57,2026-08-26,EMYB,"Embassy Bancorp, Inc.",Lesavoy Bernard M,Dir,P - Purchase,22.29,1446,220832,+1%,32234,True
 2026-08-26,15:15,2026-08-25,FGL,Founder Group Ltd,Hrt Financial LP,10%,P - Purchase,0.23,232055,278140,+504%,52212,False
+2026-08-26,19:12,2026-08-21,ACDC,Profrac Holding Corp.,"Thrc Holdings, LP",10%,P - Purchase,4.72,607227,83816235,+1%,2867649,True
+2026-08-26,19:11,2026-08-21,ACDC,Profrac Holding Corp.,Wilks Dan H.,10%,P - Purchase,4.72,607227,88107422,+1%,2867649,True
+2026-08-26,18:50,2026-08-24,UUU,"Universal Safety Products, Inc.",Ault Milton C III,"Dir, 10%",P - Purchase,6.23,29429,1151962,+3%,183476,False
+2026-08-26,18:46,2026-08-25,BSX,Boston Scientific Corp,Morano Susan E,Dir,P - Purchase,49.22,2040,13784,+17%,100408,False
+2026-08-26,18:18,2026-08-25,NGL,Ngl Energy Partners LP,Collingsworth James M,Dir,P - Purchase,16.83,11008,774878,+1%,185226,True
+2026-08-26,17:52,2026-08-24,OPLN,"Openlane, Inc.",Kelly Peter J,CEO,P - Purchase,33.72,14830,14830,New,499999,False
+2026-08-26,17:44,2026-08-25,NPB,Northpointe Bancshares Inc,Williams Charles Alan,"COB, CEO, 10%",P - Purchase,16.95,78312,3225180,+2%,1327106,False
+2026-08-26,17:36,2026-08-26,AMRZ,Amrize Ltd,Sanche Jacques Wolf,Dir,P - Purchase,45.02,4150,9806,+73%,186833,True
+2026-08-26,17:31,2026-08-24,HDSN,Hudson Technologies Inc /Ny,"Hartree Partners, LP",10%,P - Purchase,5.50,100612,5200000,+2%,553047,False

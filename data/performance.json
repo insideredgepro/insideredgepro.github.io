@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-26",
-  "entry_count": 1792,
+  "entry_count": 1801,
   "entries": [
     {
       "id": "US|TSM|2026-06-29|tien bor-zen|76.17",
@@ -31856,8 +31856,8 @@
         "2026-08-25": 3.9,
         "2026-08-26": 4.06
       },
-      "latest_price": 4.06,
-      "return_pct": -13.06,
+      "latest_price": 4.01,
+      "return_pct": -14.13,
       "last_snapshot": "2026-08-26"
     },
     {
@@ -33884,8 +33884,8 @@
         "2026-08-25": 3.9,
         "2026-08-26": 4.06
       },
-      "latest_price": 4.06,
-      "return_pct": -11.16,
+      "latest_price": 4.01,
+      "return_pct": -12.25,
       "last_snapshot": "2026-08-26"
     },
     {
@@ -36998,8 +36998,8 @@
         "2026-08-25": 20.41,
         "2026-08-26": 20.39
       },
-      "latest_price": 20.39,
-      "return_pct": -84.62,
+      "latest_price": 20.44,
+      "return_pct": -84.59,
       "last_snapshot": "2026-08-26"
     },
     {
@@ -40816,8 +40816,8 @@
         "2026-08-25": 3.9,
         "2026-08-26": 4.06
       },
-      "latest_price": 4.06,
-      "return_pct": -5.58,
+      "latest_price": 4.01,
+      "return_pct": -6.74,
       "last_snapshot": "2026-08-26"
     },
     {
@@ -54653,7 +54653,7 @@
         "2026-08-25": 21.05,
         "2026-08-26": 21.05
       },
-      "latest_price": 22.2,
+      "latest_price": 21.0,
       "return_pct": -99.98,
       "last_snapshot": "2026-08-26"
     },
@@ -57942,6 +57942,186 @@
       },
       "latest_price": 0.1922,
       "return_pct": -16.43,
+      "last_snapshot": "2026-08-26"
+    },
+    {
+      "id": "US|ACDC|2026-08-21|thrc holdings, lp|4.72",
+      "market": "US",
+      "ticker": "ACDC",
+      "yf_symbol": "ACDC",
+      "company": "Profrac Holding Corp.",
+      "insider_name": "Thrc Holdings, LP",
+      "title": "10%",
+      "trade_date": "2026-08-21",
+      "trade_price": 4.72,
+      "value": 2867649.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-26": 4.62
+      },
+      "latest_price": 4.62,
+      "return_pct": -2.12,
+      "last_snapshot": "2026-08-26"
+    },
+    {
+      "id": "US|ACDC|2026-08-21|wilks dan h.|4.72",
+      "market": "US",
+      "ticker": "ACDC",
+      "yf_symbol": "ACDC",
+      "company": "Profrac Holding Corp.",
+      "insider_name": "Wilks Dan H.",
+      "title": "10%",
+      "trade_date": "2026-08-21",
+      "trade_price": 4.72,
+      "value": 2867649.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-26": 4.62
+      },
+      "latest_price": 4.62,
+      "return_pct": -2.12,
+      "last_snapshot": "2026-08-26"
+    },
+    {
+      "id": "US|UUU|2026-08-24|ault milton c iii|6.23",
+      "market": "US",
+      "ticker": "UUU",
+      "yf_symbol": "UUU",
+      "company": "Universal Safety Products, Inc.",
+      "insider_name": "Ault Milton C III",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-24",
+      "trade_price": 6.23,
+      "value": 183476.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-26": 5.66
+      },
+      "latest_price": 5.66,
+      "return_pct": -9.15,
+      "last_snapshot": "2026-08-26"
+    },
+    {
+      "id": "US|BSX|2026-08-25|morano susan e|49.22",
+      "market": "US",
+      "ticker": "BSX",
+      "yf_symbol": "BSX",
+      "company": "Boston Scientific Corp",
+      "insider_name": "Morano Susan E",
+      "title": "Dir",
+      "trade_date": "2026-08-25",
+      "trade_price": 49.22,
+      "value": 100408.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-26": 48.17
+      },
+      "latest_price": 48.17,
+      "return_pct": -2.13,
+      "last_snapshot": "2026-08-26"
+    },
+    {
+      "id": "US|NGL|2026-08-25|collingsworth james m|16.83",
+      "market": "US",
+      "ticker": "NGL",
+      "yf_symbol": "NGL",
+      "company": "Ngl Energy Partners LP",
+      "insider_name": "Collingsworth James M",
+      "title": "Dir",
+      "trade_date": "2026-08-25",
+      "trade_price": 16.83,
+      "value": 185226.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-26": 17.2
+      },
+      "latest_price": 17.2,
+      "return_pct": 2.2,
+      "last_snapshot": "2026-08-26"
+    },
+    {
+      "id": "US|OPLN|2026-08-24|kelly peter j|33.72",
+      "market": "US",
+      "ticker": "OPLN",
+      "yf_symbol": "OPLN",
+      "company": "Openlane, Inc.",
+      "insider_name": "Kelly Peter J",
+      "title": "CEO",
+      "trade_date": "2026-08-24",
+      "trade_price": 33.72,
+      "value": 499999.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-26": 34.65
+      },
+      "latest_price": 34.65,
+      "return_pct": 2.76,
+      "last_snapshot": "2026-08-26"
+    },
+    {
+      "id": "US|NPB|2026-08-25|williams charles alan|16.95",
+      "market": "US",
+      "ticker": "NPB",
+      "yf_symbol": "NPB",
+      "company": "Northpointe Bancshares Inc",
+      "insider_name": "Williams Charles Alan",
+      "title": "COB, CEO, 10%",
+      "trade_date": "2026-08-25",
+      "trade_price": 16.95,
+      "value": 1327106.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-26": 16.89
+      },
+      "latest_price": 16.89,
+      "return_pct": -0.35,
+      "last_snapshot": "2026-08-26"
+    },
+    {
+      "id": "US|AMRZ|2026-08-26|sanche jacques wolf|45.02",
+      "market": "US",
+      "ticker": "AMRZ",
+      "yf_symbol": "AMRZ",
+      "company": "Amrize Ltd",
+      "insider_name": "Sanche Jacques Wolf",
+      "title": "Dir",
+      "trade_date": "2026-08-26",
+      "trade_price": 45.02,
+      "value": 186833.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-26": 44.74
+      },
+      "latest_price": 44.74,
+      "return_pct": -0.62,
+      "last_snapshot": "2026-08-26"
+    },
+    {
+      "id": "US|HDSN|2026-08-24|hartree partners, lp|5.5",
+      "market": "US",
+      "ticker": "HDSN",
+      "yf_symbol": "HDSN",
+      "company": "Hudson Technologies Inc /Ny",
+      "insider_name": "Hartree Partners, LP",
+      "title": "10%",
+      "trade_date": "2026-08-24",
+      "trade_price": 5.5,
+      "value": 553047.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-26": 5.29
+      },
+      "latest_price": 5.29,
+      "return_pct": -3.82,
       "last_snapshot": "2026-08-26"
     }
   ]
