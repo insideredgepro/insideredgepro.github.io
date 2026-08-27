@@ -9826,7 +9826,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-24,18:01,2026-08-21,GEVO,"Gevo, Inc.",Barber James J,Dir,P - Purchase,1.54,50000,120000,+71%,77000,False
 2026-08-24,17:30,2026-08-24,KURA,"Kura Oncology, Inc.",Wilson Troy Edward,"Pres, CEO",P - Purchase,12.39,100000,1214650,+9%,1239000,False
 2026-08-24,17:25,2026-08-20,USAC,"USA Compression Partners, LP",Whitehurst Bradford D.,Dir,P - Purchase,26.22,10000,43616,+30%,262200,False
-2026-08-24,17:24,2026-08-20,SLNH,"Soluna Holdings, Inc",Picchi Michael,CFO,P - Purchase,1.15,30000,1411250,+2%,34400,False
+2026-08-24,17:24,2026-08-20,SLNH,"Soluna Holdings, Inc",Picchi Michael,CFO,P - Purchase,1.15,30000,1411250,+2%,34400,True
 2026-08-24,17:21,2026-08-24,ABCL,Abcellera Biologics Inc.,Hayden Michael R,Dir,P - Purchase,10.64,53613,1491642,+4%,570442,True
 2026-08-24,19:28,2026-08-20,RHLD,"Resolute Holdings Management, Inc.",Schoen Kurt,CFO,P - Purchase,117.84,375,3225,+13%,44190,False
 2026-08-24,21:41,2026-08-20,PRE,Prenetics Global Ltd,Yeung Danny Sheng Wu,CEO,P - Purchase,20.34,24681,112416,+28%,501998,True
@@ -9948,7 +9948,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-26,11:20,2026-08-25,BWFG,"Bankwell Financial Group, Inc.",Seidman Lawrence B,Dir,P - Purchase,65.92,2540,864299,0%,167426,False
 2026-08-26,10:57,2026-08-25,AMRZ,Amrize Ltd,Singleton Denise R,"GC, Corp Sec",P - Purchase,44.12,3500,7500,+88%,154403,True
 2026-08-26,10:05,2026-04-14,OPTX,"Syntec Optics Holdings, Inc.",Manzone Albert,Dir,P - Purchase,9.20,8681,33681,+35%,79896,False
-2026-08-26,12:17,2026-08-25,MAIR,Madison Air Solutions Corp,La Force Andrew Hudson III,Dir,P - Purchase,27.84,20000,36713,+120%,556800,False
+2026-08-26,12:17,2026-08-25,MAIR,Madison Air Solutions Corp,La Force Andrew Hudson III,Dir,P - Purchase,27.84,20000,36713,+120%,556800,True
 2026-08-26,17:00,2026-08-21,EQBK,Equity Bancshares Inc,Rogerson Donald Scott,Dir,P - Purchase,50.00,2000,10103,+25%,100000,False
 2026-08-26,16:54,2026-08-24,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,22.83,79729,14121764,+1%,1820537,False
 2026-08-26,16:52,2026-08-24,FNKO,"Funko, Inc.",Denson Charles D,Dir,P - Purchase,6.85,72992,308384,+31%,499995,False
@@ -9978,3 +9978,29 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-26,17:36,2026-08-26,AMRZ,Amrize Ltd,Sanche Jacques Wolf,Dir,P - Purchase,45.02,4150,9806,+73%,186833,True
 2026-08-26,17:31,2026-08-24,HDSN,Hudson Technologies Inc /Ny,"Hartree Partners, LP",10%,P - Purchase,5.50,100612,5200000,+2%,553047,False
 2026-08-27,07:29,2026-08-26,SCOR,"Comscore, Inc.",McLaughlin Matthew F.,CEO,P - Purchase,5.26,20000,165739,+14%,105200,True
+2026-08-27,19:14,2026-08-26,NYC,American Strategic Investment Co.,Schorsch Nicholas S,10%,P - Purchase,6.75,10000,826179,+1%,67450,False
+2026-08-27,19:03,2026-08-26,RGNX,Regenxbio Inc.,Ciongoli Gregory Austin,Dir,P - Purchase,9.25,102603,118035,+665%,949381,False
+2026-08-27,18:56,2026-08-26,SLNH,"Soluna Holdings, Inc",Belizaire John,CEO,P - Purchase,1.20,50000,7063105,+1%,60000,True
+2026-08-27,18:40,2026-08-26,LDI,"Loandepot, Inc.",Hsieh Anthony Li,"Exec Chair, CEO, Pres, 10%",P - Purchase,0.90,322961,1011923,+47%,289270,False
+2026-08-27,18:06,2026-08-27,SGI,Somnigroup International Inc.,Thompson Scott L,"CEO, Pres",P - Purchase,62.84,30000,4123634,+1%,1885314,False
+2026-08-27,18:02,2026-08-27,JTTT,Jatt III Acquisition Corp,Jatt Ventures III L.P.,10%,P - Purchase,10.00,234000,1959000,+14%,2340000,False
+2026-08-27,18:00,2026-08-25,KDP,Keurig Dr Pepper Inc.,Alt Aaron E,Dir,P - Purchase,31.83,7862,7862,New,250247,False
+2026-08-27,17:27,2026-08-20,BMRA,Biomerica Inc,Gary M. Huff,Dir,P - Purchase,1.60,31250,51250,+156%,50000,True
+2026-08-27,17:24,2026-08-26,BMRA,Biomerica Inc,Barbieri Allen,Exec Vice COB,P - Purchase,1.60,20000,73542,+37%,32000,True
+2026-08-27,17:23,2026-08-26,BMRA,Biomerica Inc,Irani Zackary S.,CEO,P - Purchase,1.60,31250,242570,+15%,50000,True
+2026-08-27,17:09,2026-08-25,HWKN,Hawkins Inc,Lange Douglas A.,VP - Water Treatment Group,P - Purchase,118.75,910,29932,+3%,108066,False
+2026-08-27,17:07,2026-08-27,HYLN,Hyliion Holdings Corp.,Cubbage Vincent T.,Dir,P - Purchase,3.40,50000,1131363,+5%,170000,False
+2026-08-27,16:38,2026-08-25,WELL,Welltower Inc.,Gundlach Andrew,Dir,P - Purchase,240.77,10000,57500,+21%,2407650,False
+2026-08-27,16:30,2026-08-27,RDVT,"Red Violet, Inc.",Livek William Paul,Dir,P - Purchase,71.49,2000,22733,+10%,142980,False
+2026-08-27,16:30,2026-08-25,QVCG,"Qvc Group, Inc.",Goldentree Asset Management LP,10%,P - Purchase,15.24,2451,8648345,0%,37358,False
+2026-08-27,16:27,2026-08-26,IPGP,Ipg Photonics Corp,Peeler John R,Dir,P - Purchase,73.58,2710,20886,+15%,199400,False
+2026-08-27,16:22,2026-08-26,CODI,Compass Diversified Holdings,Kim Eugene L.,See Remarks (a),P - Purchase,11.47,20000,20000,New,229376,True
+2026-08-27,16:15,2026-08-25,MAIR,Madison Air Solutions Corp,Bertarelli Ernesto,10%,P - Purchase,24.97,8770524,53611595,+20%,218999984,True
+2026-08-27,16:11,2026-08-25,CBK,"Commercial Bancgroup, Inc.",Metheny Philip J.,"EVP, CFO",P - Purchase,34.70,770,14502,+6%,26720,False
+2026-08-27,16:05,2026-08-25,VENU,Venu Holding Corp,Finke Thomas M,Dir,P - Purchase,1.95,54644,129605,+73%,106501,False
+2026-08-27,16:04,2026-08-26,OPFI,Oppfi Inc.,Schwartz Todd G.,"CEO, 10%",P - Purchase,7.19,3500,27508835,0%,25163,False
+2026-08-27,16:00,2026-08-27,INDV,"Indivior Pharmaceuticals, Inc.",Anderson Woodrow D,Chief Accounting Officer,P - Purchase,35.69,1500,27638,+6%,53535,False
+2026-08-27,16:00,2026-08-26,IMTX,Immatics N.V.,Perceptive Advisors LLC,Dir,P - Purchase,8.69,863060,11246516,+8%,7499991,False
+2026-08-27,15:12,2026-08-25,CINF,Cincinnati Financial Corp,Debbink Dirk J,Dir,P - Purchase,171.64,1000,62059,+2%,171640,False
+2026-08-27,14:23,2026-08-26,AVBC,"Avidia Bancorp, Inc.",Grimaldo Joseph F,Dir,P - Purchase,22.02,5000,69655,+8%,110088,True
+2026-08-27,13:54,2026-08-25,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,19.05,19508,18985688,0%,371649,False
