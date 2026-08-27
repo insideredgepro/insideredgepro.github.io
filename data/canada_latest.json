@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-27T16:00:20Z",
-  "trade_count": 3686,
+  "last_updated": "2026-08-27T22:00:21Z",
+  "trade_count": 3688,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -56525,6 +56525,38 @@
       "qty": "50000",
       "price": "1.1800",
       "value": "59000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4769503",
+      "trade_date": "2026-08-27",
+      "filing_date": "2026-08-27",
+      "company": "Barksdale Resources Corp.",
+      "ticker": "BRO",
+      "insider_name": "Medalist Capital Ltd.",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "651000",
+      "price": "0.1358",
+      "value": "88405",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4769473",
+      "trade_date": "2026-08-27",
+      "filing_date": "2026-08-27",
+      "company": "Mirasol Resources Ltd.",
+      "ticker": "MRZ",
+      "insider_name": "Pountney, Glenn",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "53000",
+      "price": "0.3400",
+      "value": "18020",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
