@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-27T23:23:39Z",
-  "trade_count": 9998,
+  "last_updated": "2026-08-28T08:05:19Z",
+  "trade_count": 9999,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -159969,6 +159969,22 @@
       "delta_own": "0%",
       "value": "371649",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-27",
+      "filing_time": "19:51",
+      "trade_date": "2026-08-26",
+      "ticker": "AMRC",
+      "company": "Ameresco, Inc.",
+      "insider_name": "Sakellaris George P",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "22.66",
+      "qty": "5000",
+      "owned": "2310597",
+      "delta_own": "0%",
+      "value": "113280",
+      "cluster_buy": true
     }
   ]
 }
