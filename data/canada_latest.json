@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28T03:45:22Z",
-  "trade_count": 3689,
+  "last_updated": "2026-08-28T21:08:03Z",
+  "trade_count": 3690,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -54607,7 +54607,7 @@
       "value": "19250",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4765253",
@@ -54623,7 +54623,7 @@
       "value": "19560",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4765376",
@@ -56576,6 +56576,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4769786",
+      "trade_date": "2026-08-28",
+      "filing_date": "2026-08-28",
+      "company": "Diagnos Inc",
+      "ticker": "DGX",
+      "insider_name": "Dunn, Robert",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "105000",
+      "price": "0.4750",
+      "value": "49875",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
