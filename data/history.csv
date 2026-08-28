@@ -9858,7 +9858,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-25,19:31,2026-08-21,SUJA,"Suja Life, Inc.","Paine Schwartz Food Chain Fund V Gp, Ltd.",10%,P - Purchase,8.72,656548,10444005,+7%,5723741,False
 2026-08-25,19:25,2026-08-21,AMRC,"Ameresco, Inc.",Cox Brian C,Dir,P - Purchase,21.64,4625,44325,+12%,100085,True
 2026-08-26,08:23,2026-08-24,PRE,Prenetics Global Ltd,Rosin Brian J,CFO of IM8 (US) LLC,P - Purchase,21.55,23100,23100,New,497700,True
-2026-08-26,08:00,2026-08-25,FTCI,"Ftc Solar, Inc.",Carroll Anthony,CEO,P - Purchase,2.08,24745,666200,+4%,51470,False
+2026-08-26,08:00,2026-08-25,FTCI,"Ftc Solar, Inc.",Carroll Anthony,CEO,P - Purchase,2.08,24745,666200,+4%,51470,True
 2026-08-26,08:32,2026-08-25,CVM,Cel Sci Corp,Kersten Geert R,CEO,P - Purchase,1.38,100000,627689,+19%,138000,False
 2026-08-26,10:05,2026-08-19,OOPTX,,Manzone Albert,Director,P - Purchase,8.12,3681,33681,+12%,29896,False
 2026-08-26,10:05,2026-04-14,OOPTX,,Manzone Albert,Director,P - Purchase,10.00,5000,30000,+20%,50000,False
@@ -10005,3 +10005,23 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-27,14:23,2026-08-26,AVBC,"Avidia Bancorp, Inc.",Grimaldo Joseph F,Dir,P - Purchase,22.02,5000,69655,+8%,110088,True
 2026-08-27,13:54,2026-08-25,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,19.05,19508,18985688,0%,371649,False
 2026-08-27,19:51,2026-08-26,AMRC,"Ameresco, Inc.",Sakellaris George P,"CEO, 10%",P - Purchase,22.66,5000,2310597,0%,113280,True
+2026-08-28,16:24,2026-08-26,DKS,"Dick'S Sporting Goods, Inc.",Mathrani Sandeep,Dir,P - Purchase,128.89,1550,13761,+13%,199783,True
+2026-08-28,16:24,2026-08-27,DKS,"Dick'S Sporting Goods, Inc.",Barrenechea Mark J,Dir,P - Purchase,130.72,17000,27790,+158%,2222240,True
+2026-08-28,16:23,2026-08-26,DKS,"Dick'S Sporting Goods, Inc.",Eddy Robert W.,Dir,P - Purchase,128.70,4000,10886,+58%,514780,True
+2026-08-28,16:23,2026-08-26,DKS,"Dick'S Sporting Goods, Inc.",Colombo William J,Dir,P - Purchase,128.77,6100,180925,+3%,785500,True
+2026-08-28,16:15,2026-08-27,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,22.54,100000,14221764,+1%,2254000,False
+2026-08-28,16:12,2026-08-27,OPFI,Oppfi Inc.,Schwartz Todd G.,"CEO, 10%",P - Purchase,7.13,3550,27512385,0%,25312,False
+2026-08-28,16:08,2026-08-26,JMSB,"John Marshall Bancorp, Inc.",Kinney Jonathan Craig,Dir,P - Purchase,22.92,2357,615551,0%,54022,False
+2026-08-28,16:07,2026-08-26,JUSH,Jushi Holdings Inc.,Cacioppo James,"CEO, 10%",P - Purchase,0.49,994000,16618577,+6%,492000,False
+2026-08-28,15:24,2026-08-26,REFI,"Chicago Atlantic Real Estate Finance, Inc.",Mazarakis John,Exec COB,P - Purchase,10.67,47711,563086,+9%,508940,True
+2026-08-28,15:00,2026-05-28,SIEB,Siebert Financial Corp,Gebbia Richard,Member of 10% owner group,P - Purchase,1.86,15000,20715003,0%,27900,False
+2026-08-28,14:53,2026-08-26,HWBK,"Hawthorn Bancshares, Inc.",Hettinger Shawna M.,Dir,P - Purchase,38.47,1300,5924,+28%,50000,False
+2026-08-28,14:32,2026-08-27,UTGN,Utg Inc,First Southern Funding LLC,10%,P - Purchase,59.75,1000,1699491,0%,59750,True
+2026-08-28,14:29,2026-08-26,SRTS,"Sensus Healthcare, Inc.",Sachetta Eric,Dir,P - Purchase,3.23,20633,232036,+10%,66682,True
+2026-08-28,13:57,2026-08-27,UTGN,Utg Inc,Correll Jesse T,"COB, CEO, 10%",P - Purchase,59.75,1000,2058712,0%,59750,True
+2026-08-28,12:47,2026-08-26,MED,Medifast Inc,Kiai Parsa,Dir,P - Purchase,12.26,43150,20270,-189%,529157,False
+2026-08-28,11:52,2026-08-27,NGL,Ngl Energy Partners LP,Collingsworth James M,Dir,P - Purchase,17.00,2289,777167,0%,38913,True
+2026-08-28,11:32,2026-08-27,ESEA,Euroseas Ltd.,Pittas Aristeidis P,Dir,P - Purchase,75.86,750,58425,+1%,56898,False
+2026-08-28,09:11,2026-08-26,FTCI,"Ftc Solar, Inc.",Sadasivam Shaker,Dir,P - Purchase,2.19,33290,416508,+9%,72905,True
+2026-08-28,07:54,2026-08-26,KLAR,Klarna Group Plc,Siemiatkowski Sebastian,CEO,P - Purchase,14.37,692506,25344322,+3%,9949164,False
+2026-08-28,07:38,2026-08-26,MTDR,Matador Resources Co,Foran Joseph Wm,"COB, CEO",P - Purchase,54.49,555,5480230,0%,30242,False
