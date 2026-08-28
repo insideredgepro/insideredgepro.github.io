@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-27",
-  "entry_count": 314,
+  "entry_count": 315,
   "entries": [
     {
       "id": "CA|AUAU|2026-06-29|reyes, javier|0.7066",
@@ -10484,6 +10484,26 @@
       },
       "latest_price": 0.34,
       "return_pct": 0.0,
+      "last_snapshot": "2026-08-27"
+    },
+    {
+      "id": "CA|LMCU|2026-08-27|pandoff, jordan|10.6621",
+      "market": "CA",
+      "ticker": "LMCU",
+      "yf_symbol": "LMCU.TO",
+      "company": "Lumina Metals Corp.",
+      "insider_name": "Pandoff, Jordan",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-08-27",
+      "trade_price": 10.6621,
+      "value": 90627.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-08-27": 10.78
+      },
+      "latest_price": 10.78,
+      "return_pct": 1.11,
       "last_snapshot": "2026-08-27"
     }
   ]
