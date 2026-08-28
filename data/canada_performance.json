@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-28",
-  "entry_count": 316,
+  "entry_count": 317,
   "entries": [
     {
       "id": "CA|AUAU|2026-06-29|reyes, javier|0.7066",
@@ -10821,6 +10821,26 @@
       },
       "latest_price": 5.23,
       "return_pct": 1001.05,
+      "last_snapshot": "2026-08-28"
+    },
+    {
+      "id": "CA|FRX|2026-08-28|andrade, robert christopher|5.1",
+      "market": "CA",
+      "ticker": "FRX",
+      "yf_symbol": "FRX.TO",
+      "company": "Fennec Pharmaceuticals Inc.",
+      "insider_name": "Andrade, Robert Christopher",
+      "title": "Senior Officer",
+      "trade_date": "2026-08-28",
+      "trade_price": 5.1,
+      "value": 111832.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-08-28": 17.0
+      },
+      "latest_price": 17.0,
+      "return_pct": 233.33,
       "last_snapshot": "2026-08-28"
     }
   ]

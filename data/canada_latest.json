@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28T21:08:03Z",
-  "trade_count": 3690,
+  "last_updated": "2026-08-28T22:00:17Z",
+  "trade_count": 3691,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -56592,6 +56592,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4770042",
+      "trade_date": "2026-08-28",
+      "filing_date": "2026-08-28",
+      "company": "Fennec Pharmaceuticals Inc.",
+      "ticker": "FRX",
+      "insider_name": "Andrade, Robert Christopher",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "21928",
+      "price": "5.1000",
+      "value": "111832",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }
