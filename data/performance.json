@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-28",
-  "entry_count": 1848,
+  "entry_count": 1857,
   "entries": [
     {
       "id": "US|TSM|2026-06-29|tien bor-zen|76.17",
@@ -61171,6 +61171,184 @@
       },
       "latest_price": 56.39,
       "return_pct": 3.49,
+      "last_snapshot": "2026-08-28"
+    },
+    {
+      "id": "US|OPTU|2026-07-29|subin neil s|0.81",
+      "market": "US",
+      "ticker": "OPTU",
+      "yf_symbol": "OPTU",
+      "company": "Optimum Communications, Inc.",
+      "insider_name": "Subin Neil S",
+      "title": "10%",
+      "trade_date": "2026-07-29",
+      "trade_price": 0.81,
+      "value": 2454822.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-28": 1.02
+      },
+      "latest_price": 1.02,
+      "return_pct": 25.93,
+      "last_snapshot": "2026-08-28"
+    },
+    {
+      "id": "US|BIVI|2026-08-27|do cuong v|2.08",
+      "market": "US",
+      "ticker": "BIVI",
+      "yf_symbol": "BIVI",
+      "company": "Biovie Inc.",
+      "insider_name": "Do Cuong V",
+      "title": "Pres, CEO",
+      "trade_date": "2026-08-27",
+      "trade_price": 2.08,
+      "value": 31637.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-28": 2.16
+      },
+      "latest_price": 2.16,
+      "return_pct": 3.85,
+      "last_snapshot": "2026-08-28"
+    },
+    {
+      "id": "US|PLSE|2026-08-26|teplitsky liane rae|48.29",
+      "market": "US",
+      "ticker": "PLSE",
+      "yf_symbol": "PLSE",
+      "company": "Pulse Biosciences, Inc.",
+      "insider_name": "Teplitsky Liane Rae",
+      "title": "COO",
+      "trade_date": "2026-08-26",
+      "trade_price": 48.29,
+      "value": 99965.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-28": 47.57
+      },
+      "latest_price": 47.57,
+      "return_pct": -1.49,
+      "last_snapshot": "2026-08-28"
+    },
+    {
+      "id": "US|UAMY|2026-08-28|evans gary c|4.92",
+      "market": "US",
+      "ticker": "UAMY",
+      "yf_symbol": "UAMY",
+      "company": "United States Antimony Corp",
+      "insider_name": "Evans Gary C",
+      "title": "COB, CEO",
+      "trade_date": "2026-08-28",
+      "trade_price": 4.92,
+      "value": 98400.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-28": 4.85
+      },
+      "latest_price": 4.85,
+      "return_pct": -1.42,
+      "last_snapshot": "2026-08-28"
+    },
+    {
+      "id": "US|BATL|2026-08-26|rogers william d|1.3",
+      "market": "US",
+      "ticker": "BATL",
+      "yf_symbol": "BATL",
+      "company": "Battalion Oil Corp",
+      "insider_name": "Rogers William D",
+      "title": "Dir",
+      "trade_date": "2026-08-26",
+      "trade_price": 1.3,
+      "value": 91168.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-28": 1.31
+      },
+      "latest_price": 1.31,
+      "return_pct": 0.77,
+      "last_snapshot": "2026-08-28"
+    },
+    {
+      "id": "US|SUJA|2026-08-26|paine schwartz food chain fund v gp, ltd.|9.35",
+      "market": "US",
+      "ticker": "SUJA",
+      "yf_symbol": "SUJA",
+      "company": "Suja Life, Inc.",
+      "insider_name": "Paine Schwartz Food Chain Fund V Gp, Ltd.",
+      "title": "10%",
+      "trade_date": "2026-08-26",
+      "trade_price": 9.35,
+      "value": 6097155.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-28": 9.37
+      },
+      "latest_price": 9.37,
+      "return_pct": 0.21,
+      "last_snapshot": "2026-08-28"
+    },
+    {
+      "id": "US|RNAQ|2026-08-28|grossman jonas|10.0",
+      "market": "US",
+      "ticker": "RNAQ",
+      "yf_symbol": "RNAQ",
+      "company": "Rainier Acquisition Corp",
+      "insider_name": "Grossman Jonas",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-28",
+      "trade_price": 10.0,
+      "value": 1943750.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "US|SITE|2026-08-26|black doug|96.13",
+      "market": "US",
+      "ticker": "SITE",
+      "yf_symbol": "SITE",
+      "company": "Siteone Landscape Supply, Inc.",
+      "insider_name": "Black Doug",
+      "title": "CEO",
+      "trade_date": "2026-08-26",
+      "trade_price": 96.13,
+      "value": 480650.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-28": 96.39
+      },
+      "latest_price": 96.39,
+      "return_pct": 0.27,
+      "last_snapshot": "2026-08-28"
+    },
+    {
+      "id": "US|RSG|2026-08-26|cascade investment, l.l.c.|220.52",
+      "market": "US",
+      "ticker": "RSG",
+      "yf_symbol": "RSG",
+      "company": "Republic Services, Inc.",
+      "insider_name": "Cascade Investment, L.L.C.",
+      "title": "10%",
+      "trade_date": "2026-08-26",
+      "trade_price": 220.52,
+      "value": 123511813.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-28": 222.11
+      },
+      "latest_price": 222.11,
+      "return_pct": 0.72,
       "last_snapshot": "2026-08-28"
     }
   ]
