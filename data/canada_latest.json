@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28T22:00:17Z",
-  "trade_count": 3691,
+  "last_updated": "2026-08-29T03:45:19Z",
+  "trade_count": 3693,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -56605,6 +56605,38 @@
       "qty": "21928",
       "price": "5.1000",
       "value": "111832",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4770142",
+      "trade_date": "2026-08-28",
+      "filing_date": "2026-08-28",
+      "company": "Apollo Silver Corp. formerly, Apollo Gold and Silver Corp.",
+      "ticker": "APGO",
+      "insider_name": "Sutherland, Colin",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "3.4200",
+      "value": "34200",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4770093",
+      "trade_date": "2026-08-28",
+      "filing_date": "2026-08-28",
+      "company": "NFI Group Inc.",
+      "ticker": "NFI",
+      "insider_name": "Gray, Adam L.",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "40900",
+      "price": "22.5452",
+      "value": "922098",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false

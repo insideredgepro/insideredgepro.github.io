@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-28",
-  "entry_count": 317,
+  "entry_count": 319,
   "entries": [
     {
       "id": "CA|AUAU|2026-06-29|reyes, javier|0.7066",
@@ -10841,6 +10841,46 @@
       },
       "latest_price": 17.0,
       "return_pct": 233.33,
+      "last_snapshot": "2026-08-28"
+    },
+    {
+      "id": "CA|APGO|2026-08-28|sutherland, colin|3.42",
+      "market": "CA",
+      "ticker": "APGO",
+      "yf_symbol": "APGO.V",
+      "company": "Apollo Silver Corp. formerly, Apollo Gold and Silver Corp.",
+      "insider_name": "Sutherland, Colin",
+      "title": "Senior Officer",
+      "trade_date": "2026-08-28",
+      "trade_price": 3.42,
+      "value": 34200.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-08-28": 3.28
+      },
+      "latest_price": 3.28,
+      "return_pct": -4.09,
+      "last_snapshot": "2026-08-28"
+    },
+    {
+      "id": "CA|NFI|2026-08-28|gray, adam l.|22.5452",
+      "market": "CA",
+      "ticker": "NFI",
+      "yf_symbol": "NFI.TO",
+      "company": "NFI Group Inc.",
+      "insider_name": "Gray, Adam L.",
+      "title": "Director",
+      "trade_date": "2026-08-28",
+      "trade_price": 22.5452,
+      "value": 922098.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-08-28": 22.55
+      },
+      "latest_price": 22.55,
+      "return_pct": 0.02,
       "last_snapshot": "2026-08-28"
     }
   ]
