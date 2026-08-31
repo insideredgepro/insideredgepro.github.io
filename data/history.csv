@@ -9795,7 +9795,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-24,08:17,2026-08-24,BABA,Alibaba Group Holding Ltd,Tsai Joseph C,Dir,P - Purchase,14.29,720000,116364406,+1%,10288800,True
 2026-08-24,08:09,2026-08-21,MHH,"Mastech Digital, Inc.",Shaw Steven A,10%,P - Purchase,7.47,5000,1365100,0%,37350,False
 2026-08-24,07:20,2026-08-20,SCOR,"Comscore, Inc.",Kline David,Dir,P - Purchase,5.29,7000,7000,New,37030,True
-2026-08-24,11:24,2026-08-21,BLX,"Bladex, Inc.",Tizzoni Alejandro Horacio,Chief Risk Officer,P - Purchase,53.00,1850,79901,+2%,98050,False
+2026-08-24,11:24,2026-08-21,BLX,"Bladex, Inc.",Tizzoni Alejandro Horacio,Chief Risk Officer,P - Purchase,53.00,1850,79901,+2%,98050,True
 2026-08-24,11:09,2026-08-21,AIAI,Aiai Holdings Corp,Carlton Charles Craig,10%,P - Purchase,6.98,14250,9213250,0%,99428,True
 2026-08-24,11:06,2026-08-21,SCTH,"Securetech Innovations, Inc.",Sitra J Scott,"Pres, CEO, 10%",P - Purchase,100000.00,1000,126390,+1%,100000000,False
 2026-08-24,12:28,2026-08-20,MATW,Matthews International Corp,Nauman J Michael,Dir,P - Purchase,21.96,1900,9081,+26%,41724,True
@@ -10024,7 +10024,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-28,11:32,2026-08-27,ESEA,Euroseas Ltd.,Pittas Aristeidis P,Dir,P - Purchase,75.86,750,58425,+1%,56898,False
 2026-08-28,09:11,2026-08-26,FTCI,"Ftc Solar, Inc.",Sadasivam Shaker,Dir,P - Purchase,2.19,33290,416508,+9%,72905,True
 2026-08-28,07:54,2026-08-26,KLAR,Klarna Group Plc,Siemiatkowski Sebastian,CEO,P - Purchase,14.37,692506,25344322,+3%,9949164,False
-2026-08-28,07:38,2026-08-26,MTDR,Matador Resources Co,Foran Joseph Wm,"COB, CEO",P - Purchase,54.49,555,5480230,0%,30242,False
+2026-08-28,07:38,2026-08-26,MTDR,Matador Resources Co,Foran Joseph Wm,"COB, CEO",P - Purchase,54.49,555,5480230,0%,30242,True
 2026-08-28,21:37,2026-07-29,OPTU,"Optimum Communications, Inc.",Subin Neil S,10%,P - Purchase,0.81,3032354,19549309,+18%,2454822,False
 2026-08-28,20:57,2026-08-27,BIVI,Biovie Inc.,Do Cuong V,"Pres, CEO",P - Purchase,2.08,15210,16117,>999%,31637,False
 2026-08-28,19:48,2026-08-26,PLSE,"Pulse Biosciences, Inc.",Teplitsky Liane Rae,COO,P - Purchase,48.29,2070,2070,New,99965,False
@@ -10036,3 +10036,16 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-28,17:35,2026-08-28,RNAQ,Rainier Acquisition Corp,Grossman Jonas,"Dir, 10%",P - Purchase,10.00,194375,194375,New,1943750,False
 2026-08-28,17:11,2026-08-26,SITE,"Siteone Landscape Supply, Inc.",Black Doug,CEO,P - Purchase,96.13,5000,602427,+1%,480650,False
 2026-08-28,16:50,2026-08-26,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10%,P - Purchase,220.52,560100,113935127,0%,123511813,False
+2026-08-31,12:35,2026-08-28,SRTS,"Sensus Healthcare, Inc.",Sachetta Eric,Dir,P - Purchase,3.48,64841,296877,+28%,225616,True
+2026-08-31,11:40,2026-08-28,AAON,"Aaon, Inc.",Shaub Matthew,EVP,P - Purchase,76.42,457,3136,+17%,34924,False
+2026-08-31,11:16,2026-08-28,BLX,"Bladex, Inc.",Van Hoorde Annette Marie,CFO,P - Purchase,55.00,1454,23132,+7%,79970,True
+2026-08-31,09:21,2026-08-28,ORBS,Eightco Holdings Inc.,O'Donnell Kevin J,CEO,P - Purchase,0.81,50000,1296485,+4%,40385,False
+2026-08-31,09:19,2026-08-27,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,19.07,20000,19005688,0%,381450,False
+2026-08-31,08:50,2026-08-27,CTEV,Claritev Corp,Dalton Travis,"Pres, CEO, Exec Chair",P - Purchase,38.71,6450,550675,+1%,249664,False
+2026-08-31,08:00,2026-08-27,TNXP,Tonix Pharmaceuticals Holding Corp.,Lederman Seth,CEO,P - Purchase,13.79,2000,31007,+7%,27580,False
+2026-08-31,07:35,2026-08-27,MTDR,Matador Resources Co,Calvert Christopher P,"EVP, CFO",P - Purchase,56.64,2500,129624,+2%,141600,True
+2026-08-31,07:10,2026-08-28,SCOR,"Comscore, Inc.",Livek William Paul,Dir,P - Purchase,5.23,20000,217473,+10%,104600,True
+2026-08-31,07:01,2026-08-30,SHMD,Schmid Group N.V.,Schmid Anette,"Dir, 10%",P - Purchase,3.16,69000,13749589,+1%,218199,False
+2026-08-31,07:00,2026-08-27,ADC,Agree Realty Corp,Rakolta John Jr,Dir,P - Purchase,73.23,20136,622343,+3%,1474599,False
+2026-08-31,06:20,2006-08-28,SHMD,Schmid Group N.V.,Schuetz Arthur Josef Hermann,CFO Schmid Group N.V.,P - Purchase,3.23,15200,29512,+106%,49096,False
+2026-08-31,06:00,2026-04-14,ALZN,"Alzamend Neuro, Inc.",Ault Milton C III,Dir,P - Purchase,1.01,110388,129777,+569%,110965,False
