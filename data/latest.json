@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-01T12:27:51Z",
-  "trade_count": 10066,
+  "last_updated": "2026-09-01T17:06:24Z",
+  "trade_count": 10067,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -161057,6 +161057,22 @@
       "delta_own": "+22%",
       "value": "271913",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-01",
+      "filing_time": "12:29",
+      "trade_date": "2026-08-28",
+      "ticker": "CURI",
+      "company": "Curiositystream Inc.",
+      "insider_name": "Stinchcomb Clinton Larry",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.60",
+      "qty": "20000",
+      "owned": "3021260",
+      "delta_own": "+1%",
+      "value": "52060",
+      "cluster_buy": false
     }
   ]
 }
