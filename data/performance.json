@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-01",
-  "entry_count": 1770,
+  "entry_count": 1772,
   "entries": [
     {
       "id": "US|HTO|2026-07-07|atlas infrastructure partners (uk) ltd.|62.03",
@@ -57261,6 +57261,46 @@
       },
       "latest_price": 69.1,
       "return_pct": -0.13,
+      "last_snapshot": "2026-09-01"
+    },
+    {
+      "id": "US|AMRC|2026-08-28|sakellaris george p|22.13",
+      "market": "US",
+      "ticker": "AMRC",
+      "yf_symbol": "AMRC",
+      "company": "Ameresco, Inc.",
+      "insider_name": "Sakellaris George P",
+      "title": "CEO, 10%",
+      "trade_date": "2026-08-28",
+      "trade_price": 22.13,
+      "value": 66390.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-01": 22.12
+      },
+      "latest_price": 22.12,
+      "return_pct": -0.05,
+      "last_snapshot": "2026-09-01"
+    },
+    {
+      "id": "US|FTCI|2026-08-28|sadasivam shaker|2.69",
+      "market": "US",
+      "ticker": "FTCI",
+      "yf_symbol": "FTCI",
+      "company": "Ftc Solar, Inc.",
+      "insider_name": "Sadasivam Shaker",
+      "title": "Dir",
+      "trade_date": "2026-08-28",
+      "trade_price": 2.69,
+      "value": 271913.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-01": 2.35
+      },
+      "latest_price": 2.35,
+      "return_pct": -12.64,
       "last_snapshot": "2026-09-01"
     }
   ]

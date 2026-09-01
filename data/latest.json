@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-01T07:01:12Z",
-  "trade_count": 10064,
+  "last_updated": "2026-09-01T12:27:51Z",
+  "trade_count": 10066,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -161025,6 +161025,38 @@
       "delta_own": "+8%",
       "value": "2790326",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-01",
+      "filing_time": "08:09",
+      "trade_date": "2026-08-28",
+      "ticker": "AMRC",
+      "company": "Ameresco, Inc.",
+      "insider_name": "Sakellaris George P",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "22.13",
+      "qty": "3000",
+      "owned": "2313597",
+      "delta_own": "0%",
+      "value": "66390",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-01",
+      "filing_time": "08:00",
+      "trade_date": "2026-08-28",
+      "ticker": "FTCI",
+      "company": "Ftc Solar, Inc.",
+      "insider_name": "Sadasivam Shaker",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.69",
+      "qty": "101083",
+      "owned": "557184",
+      "delta_own": "+22%",
+      "value": "271913",
+      "cluster_buy": true
     }
   ]
 }
