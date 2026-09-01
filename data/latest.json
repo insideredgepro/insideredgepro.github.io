@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31T22:13:23Z",
-  "trade_count": 10057,
+  "last_updated": "2026-09-01T01:32:08Z",
+  "trade_count": 10064,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -154576,7 +154576,7 @@
       "owned": "72171",
       "delta_own": "+12%",
       "value": "87200",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-21",
@@ -159280,7 +159280,7 @@
       "owned": "345788",
       "delta_own": "+3%",
       "value": "64767",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-26",
@@ -160912,6 +160912,118 @@
       "owned": "3001260",
       "delta_own": "+1%",
       "value": "76590",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-31",
+      "filing_time": "21:23",
+      "trade_date": "2026-08-27",
+      "ticker": "GO",
+      "company": "Grocery Outlet Holding Corp.",
+      "insider_name": "Jaros Carey F.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "11.70",
+      "qty": "15000",
+      "owned": "109934",
+      "delta_own": "+16%",
+      "value": "175500",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-31",
+      "filing_time": "21:00",
+      "trade_date": "2026-08-27",
+      "ticker": "GPUS",
+      "company": "Hyperscale Data, Inc.",
+      "insider_name": "Ault Milton C III",
+      "title": "Exec COB, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.29",
+      "qty": "296641",
+      "owned": "994851",
+      "delta_own": "+42%",
+      "value": "86545",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-31",
+      "filing_time": "20:16",
+      "trade_date": "2026-08-31",
+      "ticker": "BJRI",
+      "company": "Bjs Restaurants Inc",
+      "insider_name": "Richmond C Bradford",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "63.25",
+      "qty": "753",
+      "owned": "38455",
+      "delta_own": "+2%",
+      "value": "47627",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-31",
+      "filing_time": "20:00",
+      "trade_date": "2026-08-27",
+      "ticker": "UUU",
+      "company": "Universal Safety Products, Inc.",
+      "insider_name": "Ault Milton C III",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "5.40",
+      "qty": "18800",
+      "owned": "1170762",
+      "delta_own": "+2%",
+      "value": "101430",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-08-31",
+      "filing_time": "18:56",
+      "trade_date": "2026-08-27",
+      "ticker": "PRTS",
+      "company": "Carparts.Com, Inc.",
+      "insider_name": "Huffaker Michael",
+      "title": "COO",
+      "trade_type": "P - Purchase",
+      "price": "7.05",
+      "qty": "12162",
+      "owned": "60102",
+      "delta_own": "+25%",
+      "value": "85788",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-31",
+      "filing_time": "18:55",
+      "trade_date": "2026-08-27",
+      "ticker": "PRTS",
+      "company": "Carparts.Com, Inc.",
+      "insider_name": "Meniane David",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "7.05",
+      "qty": "12164",
+      "owned": "219875",
+      "delta_own": "+6%",
+      "value": "85803",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-08-31",
+      "filing_time": "18:24",
+      "trade_date": "2026-08-28",
+      "ticker": "SLGL",
+      "company": "Sol-Gel Technologies Ltd.",
+      "insider_name": "Opaleye Management Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "69.19",
+      "qty": "40330",
+      "owned": "540217",
+      "delta_own": "+8%",
+      "value": "2790326",
       "cluster_buy": false
     }
   ]

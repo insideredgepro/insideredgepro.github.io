@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-31",
-  "entry_count": 1784,
+  "entry_count": 1791,
   "entries": [
     {
       "id": "US|LIME|2026-07-02|uber technologies, inc|25.0",
@@ -7292,8 +7292,8 @@
         "2026-08-30": 6.91,
         "2026-08-31": 6.91
       },
-      "latest_price": 6.91,
-      "return_pct": 32.38,
+      "latest_price": 6.77,
+      "return_pct": 29.69,
       "last_snapshot": "2026-08-31"
     },
     {
@@ -57680,6 +57680,146 @@
       },
       "latest_price": 2.68,
       "return_pct": 5.1,
+      "last_snapshot": "2026-08-31"
+    },
+    {
+      "id": "US|GO|2026-08-27|jaros carey f.|11.7",
+      "market": "US",
+      "ticker": "GO",
+      "yf_symbol": "GO",
+      "company": "Grocery Outlet Holding Corp.",
+      "insider_name": "Jaros Carey F.",
+      "title": "Dir",
+      "trade_date": "2026-08-27",
+      "trade_price": 11.7,
+      "value": 175500.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-31": 11.95
+      },
+      "latest_price": 11.95,
+      "return_pct": 2.14,
+      "last_snapshot": "2026-08-31"
+    },
+    {
+      "id": "US|GPUS|2026-08-27|ault milton c iii|0.29",
+      "market": "US",
+      "ticker": "GPUS",
+      "yf_symbol": "GPUS",
+      "company": "Hyperscale Data, Inc.",
+      "insider_name": "Ault Milton C III",
+      "title": "Exec COB, 10%",
+      "trade_date": "2026-08-27",
+      "trade_price": 0.29,
+      "value": 86545.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-31": 0.2801
+      },
+      "latest_price": 0.2801,
+      "return_pct": -3.41,
+      "last_snapshot": "2026-08-31"
+    },
+    {
+      "id": "US|BJRI|2026-08-31|richmond c bradford|63.25",
+      "market": "US",
+      "ticker": "BJRI",
+      "yf_symbol": "BJRI",
+      "company": "Bjs Restaurants Inc",
+      "insider_name": "Richmond C Bradford",
+      "title": "Dir",
+      "trade_date": "2026-08-31",
+      "trade_price": 63.25,
+      "value": 47627.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-31": 63.59
+      },
+      "latest_price": 63.59,
+      "return_pct": 0.54,
+      "last_snapshot": "2026-08-31"
+    },
+    {
+      "id": "US|UUU|2026-08-27|ault milton c iii|5.4",
+      "market": "US",
+      "ticker": "UUU",
+      "yf_symbol": "UUU",
+      "company": "Universal Safety Products, Inc.",
+      "insider_name": "Ault Milton C III",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-27",
+      "trade_price": 5.4,
+      "value": 101430.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-31": 5.06
+      },
+      "latest_price": 5.06,
+      "return_pct": -6.3,
+      "last_snapshot": "2026-08-31"
+    },
+    {
+      "id": "US|PRTS|2026-08-27|huffaker michael|7.05",
+      "market": "US",
+      "ticker": "PRTS",
+      "yf_symbol": "PRTS",
+      "company": "Carparts.Com, Inc.",
+      "insider_name": "Huffaker Michael",
+      "title": "COO",
+      "trade_date": "2026-08-27",
+      "trade_price": 7.05,
+      "value": 85788.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-31": 7.23
+      },
+      "latest_price": 7.23,
+      "return_pct": 2.55,
+      "last_snapshot": "2026-08-31"
+    },
+    {
+      "id": "US|PRTS|2026-08-27|meniane david|7.05",
+      "market": "US",
+      "ticker": "PRTS",
+      "yf_symbol": "PRTS",
+      "company": "Carparts.Com, Inc.",
+      "insider_name": "Meniane David",
+      "title": "CEO",
+      "trade_date": "2026-08-27",
+      "trade_price": 7.05,
+      "value": 85803.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-31": 7.23
+      },
+      "latest_price": 7.23,
+      "return_pct": 2.55,
+      "last_snapshot": "2026-08-31"
+    },
+    {
+      "id": "US|SLGL|2026-08-28|opaleye management inc.|69.19",
+      "market": "US",
+      "ticker": "SLGL",
+      "yf_symbol": "SLGL",
+      "company": "Sol-Gel Technologies Ltd.",
+      "insider_name": "Opaleye Management Inc.",
+      "title": "10%",
+      "trade_date": "2026-08-28",
+      "trade_price": 69.19,
+      "value": 2790326.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-08-31": 69.1
+      },
+      "latest_price": 69.1,
+      "return_pct": -0.13,
       "last_snapshot": "2026-08-31"
     }
   ]

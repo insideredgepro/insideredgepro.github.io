@@ -9666,7 +9666,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-21,16:16,2026-08-20,ELAN,Elanco Animal Health Inc,Kurzius Lawrence Erik,Dir,P - Purchase,23.40,40000,188647,+27%,935920,True
 2026-08-21,16:15,2026-08-19,QVCG,"Qvc Group, Inc.",Goldentree Asset Management LP,10%,P - Purchase,15.21,14280,8643004,0%,217173,False
 2026-08-21,17:24,2026-08-20,FOSL,"Fossil Group, Inc.",Edwards Pamela J,Dir,P - Purchase,5.58,7208,50251,+17%,40221,False
-2026-08-21,19:07,2026-08-20,GO,Grocery Outlet Holding Corp.,Miller Paul Blaine,See Remarks,P - Purchase,10.90,8000,72171,+12%,87200,False
+2026-08-21,19:07,2026-08-20,GO,Grocery Outlet Holding Corp.,Miller Paul Blaine,See Remarks,P - Purchase,10.90,8000,72171,+12%,87200,True
 2026-08-21,18:58,2026-08-19,ZWS,Zurn Elkay Water Solutions Corp,Butler Jacques Donavon,Dir,P - Purchase,49.60,2016,37487,+6%,99994,False
 2026-08-21,18:21,2026-08-19,NAKA,Nakamoto Inc.,Bailey David F,"CEO, 10%",P - Purchase,5.68,36986,3217380,+1%,209990,False
 2026-08-21,20:00,2026-08-20,UUU,"Universal Safety Products, Inc.",Ault Milton C III,"Dir, 10%",P - Purchase,6.28,29178,1122533,+3%,183344,False
@@ -9960,7 +9960,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-26,16:28,2026-08-24,AMRC,"Ameresco, Inc.",Sutton Joseph W.,Dir,P - Purchase,20.87,9700,213601,+5%,202439,True
 2026-08-26,16:28,2026-08-24,AMRC,"Ameresco, Inc.",Sakellaris George P,"CEO, 10%",P - Purchase,21.43,10000,2305597,0%,214297,True
 2026-08-26,16:23,2026-08-24,NOMD,Nomad Foods Ltd,Brisby Dominic,CEO,P - Purchase,12.38,50000,726794,+7%,619000,True
-2026-08-26,16:15,2026-08-20,PRTS,"Carparts.Com, Inc.",Phelps Barry,Dir,P - Purchase,6.48,10000,345788,+3%,64767,False
+2026-08-26,16:15,2026-08-20,PRTS,"Carparts.Com, Inc.",Phelps Barry,Dir,P - Purchase,6.48,10000,345788,+3%,64767,True
 2026-08-26,16:15,2026-08-25,BRTMU,B&R Technology Merger Corp.,B&R Technology Sponsor LLC (Cayman),10%,P - Purchase,10.00,52500,740000,+8%,525000,False
 2026-08-26,16:15,2026-08-24,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10%,P - Purchase,222.43,571116,113375027,+1%,127030343,False
 2026-08-26,16:12,2026-08-25,FCCO,First Community Corp /Sc/,Sosebee Jane S,Dir,P - Purchase,33.95,1250,10950,+13%,42431,False
@@ -10063,3 +10063,10 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-31,15:19,2026-08-31,CVBF,Cvb Financial Corp,Maddox Mike,Dir,P - Purchase,22.03,10000,13138,+319%,220300,False
 2026-08-31,13:54,2026-08-28,ALLE,Allegion Plc,Mizell Steven,Dir,P - Purchase,158.28,170,5899,+3%,26908,False
 2026-08-31,13:41,2026-08-27,CURI,Curiositystream Inc.,Stinchcomb Clinton Larry,"Pres, CEO",P - Purchase,2.55,30000,3001260,+1%,76590,False
+2026-08-31,21:23,2026-08-27,GO,Grocery Outlet Holding Corp.,Jaros Carey F.,Dir,P - Purchase,11.70,15000,109934,+16%,175500,True
+2026-08-31,21:00,2026-08-27,GPUS,"Hyperscale Data, Inc.",Ault Milton C III,"Exec COB, 10%",P - Purchase,0.29,296641,994851,+42%,86545,False
+2026-08-31,20:16,2026-08-31,BJRI,Bjs Restaurants Inc,Richmond C Bradford,Dir,P - Purchase,63.25,753,38455,+2%,47627,False
+2026-08-31,20:00,2026-08-27,UUU,"Universal Safety Products, Inc.",Ault Milton C III,"Dir, 10%",P - Purchase,5.40,18800,1170762,+2%,101430,False
+2026-08-31,18:56,2026-08-27,PRTS,"Carparts.Com, Inc.",Huffaker Michael,COO,P - Purchase,7.05,12162,60102,+25%,85788,True
+2026-08-31,18:55,2026-08-27,PRTS,"Carparts.Com, Inc.",Meniane David,CEO,P - Purchase,7.05,12164,219875,+6%,85803,True
+2026-08-31,18:24,2026-08-28,SLGL,Sol-Gel Technologies Ltd.,Opaleye Management Inc.,10%,P - Purchase,69.19,40330,540217,+8%,2790326,False
