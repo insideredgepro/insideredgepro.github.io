@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-08-31",
-  "entry_count": 312,
+  "entry_count": 313,
   "entries": [
     {
       "id": "CA|CDR|2026-07-02|streu, donald james|2.7",
@@ -10531,6 +10531,26 @@
       },
       "latest_price": 0.9,
       "return_pct": 0.0,
+      "last_snapshot": "2026-08-31"
+    },
+    {
+      "id": "CA|SWP|2026-08-31|spur point capital inc.|7.37",
+      "market": "CA",
+      "ticker": "SWP",
+      "yf_symbol": "SWP.TO",
+      "company": "Swiss Water Decaffeinated Coffee Inc.",
+      "insider_name": "Spur Point Capital Inc.",
+      "title": "10% Holder",
+      "trade_date": "2026-08-31",
+      "trade_price": 7.37,
+      "value": 92862.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-08-31": 8.24
+      },
+      "latest_price": 8.24,
+      "return_pct": 11.8,
       "last_snapshot": "2026-08-31"
     }
   ]
