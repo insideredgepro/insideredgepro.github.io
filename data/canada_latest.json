@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-01T03:45:24Z",
-  "trade_count": 3700,
+  "last_updated": "2026-09-01T16:00:23Z",
+  "trade_count": 3701,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -56749,6 +56749,22 @@
       "qty": "12600",
       "price": "7.3700",
       "value": "92862",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4770668",
+      "trade_date": "2026-09-01",
+      "filing_date": "2026-09-01",
+      "company": "Union Power Metals Corporation",
+      "ticker": "UPPR",
+      "insider_name": "Dao, Derrick",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "100000",
+      "price": "0.2000",
+      "value": "20000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
