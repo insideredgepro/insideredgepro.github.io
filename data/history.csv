@@ -9434,7 +9434,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-18,17:38,2026-08-17,FRPH,"Frp Holdings, Inc.",Baker John D II,"Dir, 10%",P - Purchase,21.97,9146,3345007,0%,200936,True
 2026-08-18,17:26,2026-08-17,CDNL,Cardinal Infrastructure Group Inc.,Wimmer Richard Bennett,Dir,P - Purchase,39.13,7500,29349,+34%,293475,True
 2026-08-18,17:15,2026-08-17,AVD,American Vanguard Corp,Macicek Steven D,Dir,P - Purchase,2.09,19000,99711,+24%,39710,False
-2026-08-18,19:06,2026-08-14,EQPT,Equipmentshare.Com Inc,Schlacks William J.,"Founder, Pres",P - Purchase,20.43,8950,14365498,0%,182884,False
+2026-08-18,19:06,2026-08-14,EQPT,Equipmentshare.Com Inc,Schlacks William J.,"Founder, Pres",P - Purchase,20.43,8950,14365498,0%,182884,True
 2026-08-18,18:55,2026-08-14,MLPT,"Maplight Therapeutics, Inc.","Catalyst4, Inc.",10%,P - Purchase,11.38,4400000,25306689,+21%,50072000,False
 2026-08-18,20:31,2026-08-13,CODI,Compass Diversified Holdings,Sawtelle Zachary T.,See Remark (a),P - Purchase,12.42,17000,73588,+30%,211147,True
 2026-08-18,19:33,2026-08-14,BGDE,"Big Digital Energy, Inc.","Endeavor Blockchain, LLC","SEE REMARKS, 10%",P - Purchase,6.82,69690,1624700,+4%,475048,False
@@ -9820,7 +9820,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-24,17:00,2026-08-20,TMCI,"Treace Medical Concepts, Inc.",Treace John T.,"CEO, 10%",P - Purchase,4.41,55944,12728512,0%,246654,False
 2026-08-24,16:49,2026-08-21,HRI,Herc Holdings Inc,Olsson Erik,Dir,P - Purchase,163.00,3085,3724,+483%,502855,False
 2026-08-24,16:46,2026-08-24,LYTS,Lsi Industries Inc,Marshall Ernest W Jr,Dir,P - Purchase,19.73,2000,28643,+8%,39456,False
-2026-08-24,16:34,2026-08-21,EQPT,Equipmentshare.Com Inc,Schlacks William J.,"Founder, Pres",P - Purchase,18.64,2000,14367498,0%,37280,False
+2026-08-24,16:34,2026-08-21,EQPT,Equipmentshare.Com Inc,Schlacks William J.,"Founder, Pres",P - Purchase,18.64,2000,14367498,0%,37280,True
 2026-08-24,16:30,2026-08-21,VERI,"Veritone, Inc.",Steelberg Ryan,"Pres, CEO",P - Purchase,0.85,148810,4934501,+3%,126637,False
 2026-08-24,18:12,2026-08-20,TENX,"Tenax Therapeutics, Inc.","Adar1 Capital Management, LLC",10%,P - Purchase,1.77,1025867,4853818,+27%,1814147,False
 2026-08-24,18:01,2026-08-21,GEVO,"Gevo, Inc.",Barber James J,Dir,P - Purchase,1.54,50000,120000,+71%,77000,False
@@ -10028,7 +10028,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-28,21:37,2026-07-29,OPTU,"Optimum Communications, Inc.",Subin Neil S,10%,P - Purchase,0.81,3032354,19549309,+18%,2454822,False
 2026-08-28,20:57,2026-08-27,BIVI,Biovie Inc.,Do Cuong V,"Pres, CEO",P - Purchase,2.08,15210,16117,>999%,31637,False
 2026-08-28,19:48,2026-08-26,PLSE,"Pulse Biosciences, Inc.",Teplitsky Liane Rae,COO,P - Purchase,48.29,2070,2070,New,99965,False
-2026-08-28,18:59,2026-08-28,UAMY,United States Antimony Corp,Evans Gary C,"COB, CEO",P - Purchase,4.92,20000,2590028,+1%,98400,False
+2026-08-28,18:59,2026-08-28,UAMY,United States Antimony Corp,Evans Gary C,"COB, CEO",P - Purchase,4.92,20000,2590028,+1%,98400,True
 2026-08-28,18:36,2026-08-26,BATL,Battalion Oil Corp,Rogers William D,Dir,P - Purchase,1.30,70000,74000,>999%,91168,False
 2026-08-28,18:32,2026-08-26,SUJA,"Suja Life, Inc.","Paine Schwartz Food Chain Fund V Gp, Ltd.",10%,P - Purchase,9.35,652248,11096253,+6%,6097155,False
 2026-08-28,17:38,2026-08-05,ATTO,"Attovia Therapeutics, Inc.",Walsh Colin,Dir,P - Purchase,17.58,585000,3020632,+24%,10285000,True
@@ -10078,3 +10078,17 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-01,16:05,2026-08-27,AIIR,Air Global Plc,Brazier Stuart Damon,CEO,P - Purchase,7.35,6000,1087757,+1%,44128,True
 2026-09-01,16:05,2026-08-27,AIIR,Air Global Plc,Lotfy Bassem,CFO,P - Purchase,7.97,4450,254639,+2%,35479,True
 2026-09-01,14:05,2026-08-31,CIA,"Citizens, Inc.",Harwood Michael Philip,Dir,P - Purchase,3.80,10000,11096,+913%,38000,False
+2026-09-01,18:25,2026-08-28,LILA,Liberty Latin America Ltd.,Malone John C,"Director Emeritus, 10%",P - Purchase,8.49,121286,4082113,+3%,1029706,False
+2026-09-01,17:31,2026-09-01,UAMY,United States Antimony Corp,Carrabba Joseph A,Dir,P - Purchase,4.72,21300,198401,+12%,100536,True
+2026-09-01,17:07,2026-08-28,EQPT,Equipmentshare.Com Inc,Schlacks Jabbok,"Founder, CEO",P - Purchase,17.62,25000,14381548,0%,440395,True
+2026-09-01,17:03,2026-09-01,DY,Dycom Industries Inc,Fallon David Joseph,Dir,P - Purchase,286.92,700,1043,+204%,200844,False
+2026-09-01,17:00,2026-08-28,LUCK,Lucky Strike Entertainment Corp,Young John Alan,Dir,P - Purchase,150.94,4200,89718,+5%,633944,True
+2026-09-01,16:59,2026-08-28,LUCK,Lucky Strike Entertainment Corp,Mathrani Sandeep,Dir,P - Purchase,6.41,9350,9350,New,59957,True
+2026-09-01,16:47,2026-08-31,IIPR,Innovative Industrial Properties Inc,Ives Bruce Alan,Dir,P - Purchase,56.70,528,3180,+20%,29938,False
+2026-09-01,16:46,2026-08-28,TNON,"Tenon Medical, Inc.",Hrt Financial LP,10%,P - Purchase,5.58,18357,454,-103%,102458,False
+2026-09-01,16:38,2026-08-31,ITT,Itt Inc.,Savi Luca,"Pres, CEO",P - Purchase,199.56,5019,267373,+2%,1001592,False
+2026-09-01,16:34,2026-09-01,BLNE,"Beeline Holdings, Inc.",Liuzza Nicholas Reyland Jr,"CEO, 10%",P - Purchase,1.03,96000,5147908,+2%,98880,False
+2026-09-01,16:31,2026-08-28,LINE,"Lineage, Inc.",Marchetti Kevin Patrick,"CO-Exec COB, 10%",P - Purchase,39.50,25000,155587807,0%,987555,False
+2026-09-01,16:27,2026-08-31,ASTS,"Ast Spacemobile, Inc.",Cisneros Adriana,Dir,P - Purchase,57.22,10822,2380961,0%,619200,False
+2026-09-01,16:16,2026-08-26,MAIA,"Maia Biotechnology, Inc.",Guerrero Ramiro,Dir,P - Purchase,1.38,133790,735701,+22%,184103,False
+2026-09-01,16:15,2026-08-28,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10%,P - Purchase,221.53,552400,114487527,0%,122370391,False
