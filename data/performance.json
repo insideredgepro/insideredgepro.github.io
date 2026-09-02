@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-01",
-  "entry_count": 1792,
+  "entry_count": 1793,
   "entries": [
     {
       "id": "US|HTO|2026-07-07|atlas infrastructure partners (uk) ltd.|62.03",
@@ -4767,8 +4767,8 @@
         "2026-08-31": 15.35,
         "2026-09-01": 15.0
       },
-      "latest_price": 15,
-      "return_pct": -9.37,
+      "latest_price": 15.22,
+      "return_pct": -8.04,
       "last_snapshot": "2026-09-01"
     },
     {
@@ -7983,8 +7983,8 @@
         "2026-08-31": 15.35,
         "2026-09-01": 15.0
       },
-      "latest_price": 15,
-      "return_pct": -8.81,
+      "latest_price": 15.22,
+      "return_pct": -7.48,
       "last_snapshot": "2026-09-01"
     },
     {
@@ -8051,8 +8051,8 @@
         "2026-08-31": 15.35,
         "2026-09-01": 15.0
       },
-      "latest_price": 15,
-      "return_pct": -10.29,
+      "latest_price": 15.22,
+      "return_pct": -8.97,
       "last_snapshot": "2026-09-01"
     },
     {
@@ -8119,8 +8119,8 @@
         "2026-08-31": 15.35,
         "2026-09-01": 15.0
       },
-      "latest_price": 15,
-      "return_pct": -8.87,
+      "latest_price": 15.22,
+      "return_pct": -7.53,
       "last_snapshot": "2026-09-01"
     },
     {
@@ -11474,8 +11474,8 @@
         "2026-08-31": 15.35,
         "2026-09-01": 15.0
       },
-      "latest_price": 15,
-      "return_pct": -12.38,
+      "latest_price": 15.22,
+      "return_pct": -11.1,
       "last_snapshot": "2026-09-01"
     },
     {
@@ -13608,8 +13608,8 @@
         "2026-08-31": 15.35,
         "2026-09-01": 15.0
       },
-      "latest_price": 15,
-      "return_pct": -11.03,
+      "latest_price": 15.22,
+      "return_pct": -9.73,
       "last_snapshot": "2026-09-01"
     },
     {
@@ -15264,8 +15264,8 @@
         "2026-08-31": 15.35,
         "2026-09-01": 15.0
       },
-      "latest_price": 15,
-      "return_pct": -7.29,
+      "latest_price": 15.22,
+      "return_pct": -5.93,
       "last_snapshot": "2026-09-01"
     },
     {
@@ -18948,8 +18948,8 @@
         "2026-08-31": 15.35,
         "2026-09-01": 15.0
       },
-      "latest_price": 15,
-      "return_pct": -10.5,
+      "latest_price": 15.22,
+      "return_pct": -9.19,
       "last_snapshot": "2026-09-01"
     },
     {
@@ -24181,8 +24181,8 @@
         "2026-08-31": 15.35,
         "2026-09-01": 15.0
       },
-      "latest_price": 15,
-      "return_pct": -11.87,
+      "latest_price": 15.22,
+      "return_pct": -10.58,
       "last_snapshot": "2026-09-01"
     },
     {
@@ -28356,8 +28356,8 @@
         "2026-08-31": 15.35,
         "2026-09-01": 15.0
       },
-      "latest_price": 15,
-      "return_pct": -19.27,
+      "latest_price": 15.22,
+      "return_pct": -18.08,
       "last_snapshot": "2026-09-01"
     },
     {
@@ -34454,8 +34454,8 @@
         "2026-08-31": 15.35,
         "2026-09-01": 15.0
       },
-      "latest_price": 15,
-      "return_pct": -23.2,
+      "latest_price": 15.22,
+      "return_pct": -22.07,
       "last_snapshot": "2026-09-01"
     },
     {
@@ -36651,8 +36651,8 @@
         "2026-08-31": 15.35,
         "2026-09-01": 15.0
       },
-      "latest_price": 15,
-      "return_pct": -24.74,
+      "latest_price": 15.22,
+      "return_pct": -23.63,
       "last_snapshot": "2026-09-01"
     },
     {
@@ -57701,6 +57701,26 @@
       },
       "latest_price": 223.29,
       "return_pct": 0.79,
+      "last_snapshot": "2026-09-01"
+    },
+    {
+      "id": "US|AUGO|2026-08-28|sousa mauad bruno|86.48",
+      "market": "US",
+      "ticker": "AUGO",
+      "yf_symbol": "AUGO",
+      "company": "Aura Minerals Inc.",
+      "insider_name": "Sousa Mauad Bruno",
+      "title": "Dir",
+      "trade_date": "2026-08-28",
+      "trade_price": 86.48,
+      "value": 21792751.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-01": 79.045
+      },
+      "latest_price": 79.045,
+      "return_pct": -8.6,
       "last_snapshot": "2026-09-01"
     }
   ]

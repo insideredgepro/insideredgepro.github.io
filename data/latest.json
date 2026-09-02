@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-01T22:55:03Z",
-  "trade_count": 10086,
+  "last_updated": "2026-09-02T00:41:52Z",
+  "trade_count": 10087,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -161376,6 +161376,22 @@
       "owned": "114487527",
       "delta_own": "0%",
       "value": "122370391",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-01",
+      "filing_time": "19:50",
+      "trade_date": "2026-08-28",
+      "ticker": "AUGO",
+      "company": "Aura Minerals Inc.",
+      "insider_name": "Sousa Mauad Bruno",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "86.48",
+      "qty": "252000",
+      "owned": "290856",
+      "delta_own": "+649%",
+      "value": "21792751",
       "cluster_buy": false
     }
   ]
