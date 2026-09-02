@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T00:41:52Z",
-  "trade_count": 10087,
+  "last_updated": "2026-09-02T05:16:38Z",
+  "trade_count": 10091,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -161393,6 +161393,70 @@
       "delta_own": "+649%",
       "value": "21792751",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-01",
+      "filing_time": "21:40",
+      "trade_date": "2026-08-31",
+      "ticker": "QNRX",
+      "company": "Quoin Pharmaceuticals, Ltd.",
+      "insider_name": "Carter Denise P.",
+      "title": "COO",
+      "trade_type": "P - Purchase",
+      "price": "4.88",
+      "qty": "20490",
+      "owned": "37709",
+      "delta_own": "+119%",
+      "value": "99991",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-01",
+      "filing_time": "21:39",
+      "trade_date": "2026-08-31",
+      "ticker": "QNRX",
+      "company": "Quoin Pharmaceuticals, Ltd.",
+      "insider_name": "Myers Michael",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "4.88",
+      "qty": "20490",
+      "owned": "37713",
+      "delta_own": "+119%",
+      "value": "99991",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-01",
+      "filing_time": "21:39",
+      "trade_date": "2026-08-31",
+      "ticker": "QNRX",
+      "company": "Quoin Pharmaceuticals, Ltd.",
+      "insider_name": "Lawlor Sally Bridget",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "4.88",
+      "qty": "10244",
+      "owned": "10684",
+      "delta_own": ">999%",
+      "value": "49991",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-01",
+      "filing_time": "21:38",
+      "trade_date": "2026-08-31",
+      "ticker": "QNRX",
+      "company": "Quoin Pharmaceuticals, Ltd.",
+      "insider_name": "Culverwell Anthony James",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.88",
+      "qty": "6146",
+      "owned": "40364",
+      "delta_own": "+18%",
+      "value": "29992",
+      "cluster_buy": true
     }
   ]
 }
