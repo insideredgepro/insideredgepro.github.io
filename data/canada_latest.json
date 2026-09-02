@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T03:45:22Z",
-  "trade_count": 3709,
+  "last_updated": "2026-09-02T16:00:18Z",
+  "trade_count": 3710,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -56799,7 +56799,7 @@
       "value": "35100",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4771363",
@@ -56896,6 +56896,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
+    },
+    {
+      "transaction_id": "4771974",
+      "trade_date": "2026-09-02",
+      "filing_date": "2026-09-02",
+      "company": "Awale Resources Limited",
+      "ticker": "ARIC",
+      "insider_name": "Moreau, Anthony",
+      "title": "Director",
+      "security": "Common Shares Consolidated",
+      "qty": "50000",
+      "price": "0.7900",
+      "value": "39500",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
     }
   ]
 }
