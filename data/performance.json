@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-02",
-  "entry_count": 1830,
+  "entry_count": 1834,
   "entries": [
     {
       "id": "US|HTO|2026-07-07|atlas infrastructure partners (uk) ltd.|62.03",
@@ -52017,7 +52017,7 @@
         "2026-09-01": 22.0,
         "2026-09-02": 22.0
       },
-      "latest_price": 20.0,
+      "latest_price": 21.5,
       "return_pct": -99.98,
       "last_snapshot": "2026-09-02"
     },
@@ -59494,6 +59494,86 @@
       },
       "latest_price": 5.29,
       "return_pct": 14.01,
+      "last_snapshot": "2026-09-02"
+    },
+    {
+      "id": "US|PLSE|2026-08-31|teplitsky liane rae|49.37",
+      "market": "US",
+      "ticker": "PLSE",
+      "yf_symbol": "PLSE",
+      "company": "Pulse Biosciences, Inc.",
+      "insider_name": "Teplitsky Liane Rae",
+      "title": "COO",
+      "trade_date": "2026-08-31",
+      "trade_price": 49.37,
+      "value": 99971.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-02": 52.68
+      },
+      "latest_price": 52.68,
+      "return_pct": 6.7,
+      "last_snapshot": "2026-09-02"
+    },
+    {
+      "id": "US|GROV|2026-09-01|karp jason h.|1.04",
+      "market": "US",
+      "ticker": "GROV",
+      "yf_symbol": "GROV",
+      "company": "Grove Collaborative Holdings, Inc.",
+      "insider_name": "Karp Jason H.",
+      "title": "Dir",
+      "trade_date": "2026-09-01",
+      "trade_price": 1.04,
+      "value": 72886.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-02": 1.1
+      },
+      "latest_price": 1.1,
+      "return_pct": 5.77,
+      "last_snapshot": "2026-09-02"
+    },
+    {
+      "id": "US|CLPR|2026-08-31|levinson sam|3.24",
+      "market": "US",
+      "ticker": "CLPR",
+      "yf_symbol": "CLPR",
+      "company": "Clipper Realty Inc.",
+      "insider_name": "Levinson Sam",
+      "title": "Dir, 10%",
+      "trade_date": "2026-08-31",
+      "trade_price": 3.24,
+      "value": 26134.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-02": 3.26
+      },
+      "latest_price": 3.26,
+      "return_pct": 0.62,
+      "last_snapshot": "2026-09-02"
+    },
+    {
+      "id": "US|TENX|2026-08-31|adar1 capital management, llc|1.79",
+      "market": "US",
+      "ticker": "TENX",
+      "yf_symbol": "TENX",
+      "company": "Tenax Therapeutics, Inc.",
+      "insider_name": "Adar1 Capital Management, LLC",
+      "title": "10%",
+      "trade_date": "2026-08-31",
+      "trade_price": 1.79,
+      "value": 1381750.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-02": 1.85
+      },
+      "latest_price": 1.85,
+      "return_pct": 3.35,
       "last_snapshot": "2026-09-02"
     }
   ]

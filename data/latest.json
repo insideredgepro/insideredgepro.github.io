@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T21:29:11Z",
-  "trade_count": 10126,
+  "last_updated": "2026-09-02T23:42:32Z",
+  "trade_count": 10130,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -161968,7 +161968,7 @@
       "owned": "815472",
       "delta_own": "+12%",
       "value": "94689",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-09-02",
@@ -162017,6 +162017,70 @@
       "delta_own": "+2%",
       "value": "92700",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-02",
+      "filing_time": "19:38",
+      "trade_date": "2026-08-31",
+      "ticker": "PLSE",
+      "company": "Pulse Biosciences, Inc.",
+      "insider_name": "Teplitsky Liane Rae",
+      "title": "COO",
+      "trade_type": "P - Purchase",
+      "price": "49.37",
+      "qty": "2025",
+      "owned": "4095",
+      "delta_own": "+98%",
+      "value": "99971",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-02",
+      "filing_time": "18:41",
+      "trade_date": "2026-09-01",
+      "ticker": "GROV",
+      "company": "Grove Collaborative Holdings, Inc.",
+      "insider_name": "Karp Jason H.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.04",
+      "qty": "70200",
+      "owned": "1701310",
+      "delta_own": "+4%",
+      "value": "72886",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-02",
+      "filing_time": "18:04",
+      "trade_date": "2026-08-31",
+      "ticker": "CLPR",
+      "company": "Clipper Realty Inc.",
+      "insider_name": "Levinson Sam",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "3.24",
+      "qty": "8063",
+      "owned": "9241921",
+      "delta_own": "0%",
+      "value": "26134",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-02",
+      "filing_time": "17:52",
+      "trade_date": "2026-08-31",
+      "ticker": "TENX",
+      "company": "Tenax Therapeutics, Inc.",
+      "insider_name": "Adar1 Capital Management, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "1.79",
+      "qty": "770333",
+      "owned": "5624151",
+      "delta_own": "+16%",
+      "value": "1381750",
+      "cluster_buy": false
     }
   ]
 }
