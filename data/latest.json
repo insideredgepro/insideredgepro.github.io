@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T12:22:41Z",
-  "trade_count": 10132,
+  "last_updated": "2026-09-03T16:46:23Z",
+  "trade_count": 10135,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -162112,6 +162112,54 @@
       "owned": "86467",
       "delta_own": "+13%",
       "value": "39600",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-03",
+      "filing_time": "12:40",
+      "trade_date": "2026-09-02",
+      "ticker": "AMRZ",
+      "company": "Amrize Ltd",
+      "insider_name": "Jenisch Jan Philipp",
+      "title": "COB, CEO",
+      "trade_type": "P - Purchase",
+      "price": "42.47",
+      "qty": "30000",
+      "owned": "2286000",
+      "delta_own": "+1%",
+      "value": "1274080",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-03",
+      "filing_time": "11:02",
+      "trade_date": "2026-09-01",
+      "ticker": "FUSB",
+      "company": "First Us Bancshares, Inc.",
+      "insider_name": "Field Robert C",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "16.39",
+      "qty": "3588",
+      "owned": "14548",
+      "delta_own": "+33%",
+      "value": "58810",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-03",
+      "filing_time": "10:41",
+      "trade_date": "2026-09-01",
+      "ticker": "OWLS",
+      "company": "Obook Holdings Inc.",
+      "insider_name": "Wang Chun Kai",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "5.02",
+      "qty": "12358",
+      "owned": "3124808",
+      "delta_own": "0%",
+      "value": "62025",
       "cluster_buy": false
     }
   ]
