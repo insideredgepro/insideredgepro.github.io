@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T23:42:32Z",
-  "trade_count": 10130,
+  "last_updated": "2026-09-03T02:10:43Z",
+  "trade_count": 10132,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -162080,6 +162080,38 @@
       "owned": "5624151",
       "delta_own": "+16%",
       "value": "1381750",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-02",
+      "filing_time": "20:00",
+      "trade_date": "2026-09-02",
+      "ticker": "BJRI",
+      "company": "Bjs Restaurants Inc",
+      "insider_name": "Richmond C Bradford",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "61.05",
+      "qty": "500",
+      "owned": "38955",
+      "delta_own": "+1%",
+      "value": "30525",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-02",
+      "filing_time": "19:50",
+      "trade_date": "2026-08-31",
+      "ticker": "CAMP",
+      "company": "Camp4 Therapeutics Corp",
+      "insider_name": "Gold Kelly",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "3.96",
+      "qty": "10000",
+      "owned": "86467",
+      "delta_own": "+13%",
+      "value": "39600",
       "cluster_buy": false
     }
   ]
