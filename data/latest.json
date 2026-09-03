@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T16:46:23Z",
-  "trade_count": 10135,
+  "last_updated": "2026-09-03T19:31:51Z",
+  "trade_count": 10136,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -162160,6 +162160,22 @@
       "owned": "3124808",
       "delta_own": "0%",
       "value": "62025",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-03",
+      "filing_time": "14:40",
+      "trade_date": "2026-09-02",
+      "ticker": "TRST",
+      "company": "Trustco Bank Corp N Y",
+      "insider_name": "McCormick Lauren Ann",
+      "title": "VP,Treasurer, Asst. Corp. Sec.",
+      "trade_type": "P - Purchase",
+      "price": "57.34",
+      "qty": "436",
+      "owned": "45751",
+      "delta_own": "+1%",
+      "value": "25000",
       "cluster_buy": false
     }
   ]
