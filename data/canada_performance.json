@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-03",
-  "entry_count": 312,
+  "entry_count": 313,
   "entries": [
     {
       "id": "CA|TOU|2026-07-06|angevine, jill terilee|59.0",
@@ -10715,6 +10715,26 @@
       },
       "latest_price": 0.15,
       "return_pct": 11.11,
+      "last_snapshot": "2026-09-03"
+    },
+    {
+      "id": "CA|SOIL|2026-09-03|jeffrey, john|6.4985",
+      "market": "CA",
+      "ticker": "SOIL",
+      "yf_symbol": "SOIL.TO",
+      "company": "Saturn Oil & Gas Inc.",
+      "insider_name": "Jeffrey, John",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-09-03",
+      "trade_price": 6.4985,
+      "value": 64985.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-09-03": 6.5
+      },
+      "latest_price": 6.5,
+      "return_pct": 0.02,
       "last_snapshot": "2026-09-03"
     }
   ]

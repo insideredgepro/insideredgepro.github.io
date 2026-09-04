@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T22:00:22Z",
-  "trade_count": 3717,
+  "last_updated": "2026-09-04T03:45:20Z",
+  "trade_count": 3718,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -57021,6 +57021,22 @@
       "qty": "134500",
       "price": "0.1350",
       "value": "18157",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4773401",
+      "trade_date": "2026-09-03",
+      "filing_date": "2026-09-03",
+      "company": "Saturn Oil & Gas Inc.",
+      "ticker": "SOIL",
+      "insider_name": "Jeffrey, John",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "6.4985",
+      "value": "64985",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
