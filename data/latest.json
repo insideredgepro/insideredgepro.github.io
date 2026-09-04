@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-04T14:40:02Z",
-  "trade_count": 10151,
+  "last_updated": "2026-09-04T17:55:53Z",
+  "trade_count": 10154,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -162417,6 +162417,54 @@
       "delta_own": "0%",
       "value": "154180",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-04",
+      "filing_time": "13:04",
+      "trade_date": "2026-09-01",
+      "ticker": "SMID",
+      "company": "Smith Midland Corp",
+      "insider_name": "Smith Ashley B",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "26.87",
+      "qty": "2000",
+      "owned": "180539",
+      "delta_own": "+1%",
+      "value": "53740",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-04",
+      "filing_time": "13:03",
+      "trade_date": "2026-09-02",
+      "ticker": "SMID",
+      "company": "Smith Midland Corp",
+      "insider_name": "Smith Matthew I",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "27.15",
+      "qty": "2000",
+      "owned": "12205",
+      "delta_own": "+20%",
+      "value": "54300",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-04",
+      "filing_time": "12:43",
+      "trade_date": "2026-09-03",
+      "ticker": "CWBHF",
+      "company": "Charlotte'S Web Holdings, Inc.",
+      "insider_name": "Kunkel Raymond J.",
+      "title": "COO",
+      "trade_type": "P - Purchase",
+      "price": "0.29",
+      "qty": "137935",
+      "owned": "920208",
+      "delta_own": "+18%",
+      "value": "39311",
+      "cluster_buy": false
     }
   ]
 }
