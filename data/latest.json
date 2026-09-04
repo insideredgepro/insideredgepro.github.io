@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-04T20:03:57Z",
-  "trade_count": 10157,
+  "last_updated": "2026-09-04T22:39:33Z",
+  "trade_count": 10161,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -162513,6 +162513,70 @@
       "delta_own": "+1%",
       "value": "36755",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-04",
+      "filing_time": "18:20",
+      "trade_date": "2026-09-04",
+      "ticker": "ATRA",
+      "company": "Atara Biotherapeutics, Inc.",
+      "insider_name": "Cherry Brian N",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "9.60",
+      "qty": "104166",
+      "owned": "166486",
+      "delta_own": "+167%",
+      "value": "999994",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-04",
+      "filing_time": "17:43",
+      "trade_date": "2026-09-02",
+      "ticker": "HDSN",
+      "company": "Hudson Technologies Inc /Ny",
+      "insider_name": "Hartree Partners, LP",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "5.10",
+      "qty": "5317",
+      "owned": "5205317",
+      "delta_own": "0%",
+      "value": "27117",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-04",
+      "filing_time": "16:30",
+      "trade_date": "2026-09-02",
+      "ticker": "ENHA",
+      "company": "Enhanced Group Inc.",
+      "insider_name": "Apeiron Investment Group Ltd.",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.58",
+      "qty": "133107",
+      "owned": "37084058",
+      "delta_own": "0%",
+      "value": "209779",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-04",
+      "filing_time": "16:11",
+      "trade_date": "2026-09-02",
+      "ticker": "EQPT",
+      "company": "Equipmentshare.Com Inc",
+      "insider_name": "Schlacks William J.",
+      "title": "Founder, Pres",
+      "trade_type": "P - Purchase",
+      "price": "17.79",
+      "qty": "10000",
+      "owned": "14377498",
+      "delta_own": "0%",
+      "value": "177900",
+      "cluster_buy": true
     }
   ]
 }
