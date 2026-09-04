@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-04T17:55:53Z",
-  "trade_count": 10154,
+  "last_updated": "2026-09-04T20:03:57Z",
+  "trade_count": 10157,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -162464,6 +162464,54 @@
       "owned": "920208",
       "delta_own": "+18%",
       "value": "39311",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-04",
+      "filing_time": "16:01",
+      "trade_date": "2026-09-03",
+      "ticker": "OPFI",
+      "company": "Oppfi Inc.",
+      "insider_name": "Schwartz Todd G.",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "7.33",
+      "qty": "3450",
+      "owned": "27529985",
+      "delta_own": "0%",
+      "value": "25305",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-04",
+      "filing_time": "16:00",
+      "trade_date": "2026-09-02",
+      "ticker": "MSCI",
+      "company": "Msci Inc.",
+      "insider_name": "Taneja Rajat",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "560.00",
+      "qty": "1786",
+      "owned": "5404",
+      "delta_own": "+49%",
+      "value": "1000160",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-04",
+      "filing_time": "13:58",
+      "trade_date": "2026-09-02",
+      "ticker": "CSBB",
+      "company": "Csb Bancorp, Inc.",
+      "insider_name": "Steiner Eddie L",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "73.51",
+      "qty": "500",
+      "owned": "75642",
+      "delta_own": "+1%",
+      "value": "36755",
       "cluster_buy": false
     }
   ]
