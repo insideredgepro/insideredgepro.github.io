@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-04T10:12:56Z",
-  "trade_count": 10149,
+  "last_updated": "2026-09-04T14:40:02Z",
+  "trade_count": 10151,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -162385,6 +162385,38 @@
       "delta_own": "+5%",
       "value": "38475",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-04",
+      "filing_time": "08:09",
+      "trade_date": "2026-09-02",
+      "ticker": "DGICA",
+      "company": "Donegal Group Inc",
+      "insider_name": "Donegal Mutual Insurance Co",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "19.48",
+      "qty": "19595",
+      "owned": "19044540",
+      "delta_own": "0%",
+      "value": "381768",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-04",
+      "filing_time": "06:30",
+      "trade_date": "2026-07-02",
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider_name": "Fang Shu-Hua",
+      "title": "SVP, GC",
+      "trade_type": "P - Purchase",
+      "price": "77.09",
+      "qty": "2000",
+      "owned": "1365659",
+      "delta_own": "0%",
+      "value": "154180",
+      "cluster_buy": true
     }
   ]
 }
