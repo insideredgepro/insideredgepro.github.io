@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-04T00:33:34Z",
-  "trade_count": 10147,
+  "last_updated": "2026-09-04T05:15:49Z",
+  "trade_count": 10148,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -162352,6 +162352,22 @@
       "owned": "24704",
       "delta_own": "+530%",
       "value": "999990",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-03",
+      "filing_time": "20:33",
+      "trade_date": "2026-09-02",
+      "ticker": "AON",
+      "company": "Aon Plc",
+      "insider_name": "Knight Lester B",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "327.48",
+      "qty": "20000",
+      "owned": "318864",
+      "delta_own": "+7%",
+      "value": "6549688",
       "cluster_buy": false
     }
   ]
