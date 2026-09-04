@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-04T16:00:20Z",
-  "trade_count": 3718,
+  "last_updated": "2026-09-04T22:00:21Z",
+  "trade_count": 3719,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -57037,6 +57037,22 @@
       "qty": "10000",
       "price": "6.4985",
       "value": "64985",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4774224",
+      "trade_date": "2026-09-04",
+      "filing_date": "2026-09-04",
+      "company": "Maple Leaf Foods Inc.",
+      "ticker": "MFI",
+      "insider_name": "Macdonald, Andrew Gordon",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "10000",
+      "price": "26.7819",
+      "value": "267819",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
