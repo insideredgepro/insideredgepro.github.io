@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-05T00:29:31Z",
-  "trade_count": 10161,
+  "last_updated": "2026-09-05T12:26:51Z",
+  "trade_count": 10164,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -161168,7 +161168,7 @@
       "owned": "4082113",
       "delta_own": "+3%",
       "value": "1029706",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-09-01",
@@ -162576,6 +162576,54 @@
       "owned": "14377498",
       "delta_own": "0%",
       "value": "177900",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-04",
+      "filing_time": "21:31",
+      "trade_date": "2026-08-31",
+      "ticker": "LILA",
+      "company": "Liberty Latin America Ltd.",
+      "insider_name": "De Angoitia Alfonso",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "20.95",
+      "qty": "476190",
+      "owned": "491084",
+      "delta_own": ">999%",
+      "value": "9978488",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-04",
+      "filing_time": "21:00",
+      "trade_date": "2026-09-02",
+      "ticker": "ENOV",
+      "company": "Enovis Corp",
+      "insider_name": "Engert Oliver",
+      "title": "Chief Administrative Officer",
+      "trade_type": "P - Purchase",
+      "price": "19.74",
+      "qty": "7598",
+      "owned": "61238",
+      "delta_own": "+14%",
+      "value": "149971",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-04",
+      "filing_time": "21:00",
+      "trade_date": "2026-09-04",
+      "ticker": "ENOV",
+      "company": "Enovis Corp",
+      "insider_name": "McDonald Damien",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "19.15",
+      "qty": "13035",
+      "owned": "247077",
+      "delta_own": "+6%",
+      "value": "249620",
       "cluster_buy": true
     }
   ]

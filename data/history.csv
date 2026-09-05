@@ -10078,7 +10078,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-01,16:05,2026-08-27,AIIR,Air Global Plc,Brazier Stuart Damon,CEO,P - Purchase,7.35,6000,1087757,+1%,44128,True
 2026-09-01,16:05,2026-08-27,AIIR,Air Global Plc,Lotfy Bassem,CFO,P - Purchase,7.97,4450,254639,+2%,35479,True
 2026-09-01,14:05,2026-08-31,CIA,"Citizens, Inc.",Harwood Michael Philip,Dir,P - Purchase,3.80,10000,11096,+913%,38000,False
-2026-09-01,18:25,2026-08-28,LILA,Liberty Latin America Ltd.,Malone John C,"Director Emeritus, 10%",P - Purchase,8.49,121286,4082113,+3%,1029706,False
+2026-09-01,18:25,2026-08-28,LILA,Liberty Latin America Ltd.,Malone John C,"Director Emeritus, 10%",P - Purchase,8.49,121286,4082113,+3%,1029706,True
 2026-09-01,17:31,2026-09-01,UAMY,United States Antimony Corp,Carrabba Joseph A,Dir,P - Purchase,4.72,21300,198401,+12%,100536,True
 2026-09-01,17:07,2026-08-28,EQPT,Equipmentshare.Com Inc,Schlacks Jabbok,"Founder, CEO",P - Purchase,17.62,25000,14381548,0%,440395,True
 2026-09-01,17:03,2026-09-01,DY,Dycom Industries Inc,Fallon David Joseph,Dir,P - Purchase,286.92,700,1043,+204%,200844,False
@@ -10167,3 +10167,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-04,17:43,2026-09-02,HDSN,Hudson Technologies Inc /Ny,"Hartree Partners, LP",10%,P - Purchase,5.10,5317,5205317,0%,27117,False
 2026-09-04,16:30,2026-09-02,ENHA,Enhanced Group Inc.,Apeiron Investment Group Ltd.,"Dir, 10%",P - Purchase,1.58,133107,37084058,0%,209779,False
 2026-09-04,16:11,2026-09-02,EQPT,Equipmentshare.Com Inc,Schlacks William J.,"Founder, Pres",P - Purchase,17.79,10000,14377498,0%,177900,True
+2026-09-04,21:31,2026-08-31,LILA,Liberty Latin America Ltd.,De Angoitia Alfonso,Dir,P - Purchase,20.95,476190,491084,>999%,9978488,True
+2026-09-04,21:00,2026-09-02,ENOV,Enovis Corp,Engert Oliver,Chief Administrative Officer,P - Purchase,19.74,7598,61238,+14%,149971,True
+2026-09-04,21:00,2026-09-04,ENOV,Enovis Corp,McDonald Damien,CEO,P - Purchase,19.15,13035,247077,+6%,249620,True
