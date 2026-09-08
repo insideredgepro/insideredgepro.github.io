@@ -10064,7 +10064,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-31,13:54,2026-08-28,ALLE,Allegion Plc,Mizell Steven,Dir,P - Purchase,158.28,170,5899,+3%,26908,False
 2026-08-31,13:41,2026-08-27,CURI,Curiositystream Inc.,Stinchcomb Clinton Larry,"Pres, CEO",P - Purchase,2.55,30000,3001260,+1%,76590,False
 2026-08-31,21:23,2026-08-27,GO,Grocery Outlet Holding Corp.,Jaros Carey F.,Dir,P - Purchase,11.70,15000,109934,+16%,175500,True
-2026-08-31,21:00,2026-08-27,GPUS,"Hyperscale Data, Inc.",Ault Milton C III,"Exec COB, 10%",P - Purchase,0.29,296641,994851,+42%,86545,False
+2026-08-31,21:00,2026-08-27,GPUS,"Hyperscale Data, Inc.",Ault Milton C III,"Exec COB, 10%",P - Purchase,0.29,296641,994851,+42%,86545,True
 2026-08-31,20:16,2026-08-31,BJRI,Bjs Restaurants Inc,Richmond C Bradford,Dir,P - Purchase,63.25,753,38455,+2%,47627,False
 2026-08-31,20:00,2026-08-27,UUU,"Universal Safety Products, Inc.",Ault Milton C III,"Dir, 10%",P - Purchase,5.40,18800,1170762,+2%,101430,False
 2026-08-31,18:56,2026-08-27,PRTS,"Carparts.Com, Inc.",Huffaker Michael,COO,P - Purchase,7.05,12162,60102,+25%,85788,True
@@ -10112,7 +10112,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-02,17:20,2026-08-31,SUJA,"Suja Life, Inc.","Paine Schwartz Food Chain Fund V Gp, Ltd.",10%,P - Purchase,10.27,525000,11621253,+5%,5390000,False
 2026-09-02,16:49,2026-08-31,CAVA,"Cava Group, Inc.",Thompson Douglas W.,Chief Operations Officer,P - Purchase,66.52,6500,19371,+51%,432380,False
 2026-09-02,16:40,2026-08-31,LDI,"Loandepot, Inc.",Hsieh Anthony Li,"Exec Chair, CEO, Pres, 10%",P - Purchase,0.94,205573,1217496,+20%,192578,False
-2026-09-02,16:38,2026-09-01,GPUS,"Hyperscale Data, Inc.",Ault Milton C III,"Exec COB, 10%",P - Purchase,0.24,149999,1144850,+15%,36537,False
+2026-09-02,16:38,2026-09-01,GPUS,"Hyperscale Data, Inc.",Ault Milton C III,"Exec COB, 10%",P - Purchase,0.24,149999,1144850,+15%,36537,True
 2026-09-02,16:34,2026-08-28,BGDE,"Big Digital Energy, Inc.","Endeavor Blockchain, LLC","SEE REMARKS, 10%",P - Purchase,6.57,50135,1779700,+3%,329216,False
 2026-09-02,16:32,2026-08-31,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,22.45,166636,14388400,+1%,3740910,False
 2026-09-02,16:26,2026-09-02,TTI,Tetra Technologies Inc,John Angela D,Dir,P - Purchase,6.50,10000,97434,+11%,65000,False
@@ -10294,3 +10294,25 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-08,15:40,2026-09-04,KMT,Kennametal Inc,Harshman Richard J,Dir,P - Purchase,30.21,5000,5000,New,151050,False
 2026-09-08,14:39,2026-09-03,TISI,Team Inc,Roeder Clinton William,CFO,P - Purchase,27.59,8000,17000,+89%,220720,True
 2026-09-08,13:29,2026-09-04,GRNT,"Granite Ridge Resources, Inc.",Kettler Ronald Kyle,CFO,P - Purchase,5.05,6000,135276,+5%,30300,True
+2026-09-08,18:04,2026-09-08,PDYN,Palladyne Ai Corp.,Wolff Benjamin G,"Pres, CEO",P - Purchase,5.79,17121,7817013,0%,99129,False
+2026-09-08,17:59,2026-09-08,NRIM,Northrim Bancorp Inc,Thomas Linda C,Dir,P - Purchase,26.20,1200,6688,+22%,31440,False
+2026-09-08,17:32,2026-09-03,ARQ,"Arq, Inc.",Steinmetz Shimon,CFO,P - Purchase,2.22,16270,359293,+5%,36148,False
+2026-09-08,17:28,2026-09-03,GPI,Group 1 Automotive Inc,"Conifer Management, L.L.C.",10%,P - Purchase,289.77,140280,1362640,+11%,40649370,False
+2026-09-08,17:23,2026-09-08,INBX,"Inhibrx Biosciences, Inc.",Kayyem Jon Faiz,Dir,P - Purchase,113.52,5000,1064046,0%,567580,True
+2026-09-08,17:16,2026-09-03,TENX,"Tenax Therapeutics, Inc.","Adar1 Capital Management, LLC",10%,P - Purchase,1.78,900000,6524151,+16%,1604160,False
+2026-09-08,17:16,2026-09-03,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,10.87,6263,976237,+1%,68085,False
+2026-09-08,16:44,2026-09-03,CMTG,"Claros Mortgage Trust, Inc.",Mack Richard,"CEO, COB",P - Purchase,1.59,220603,3110911,+8%,351241,False
+2026-09-08,16:33,2026-09-03,EIKN,"Eikon Therapeutics, Inc.","Column Group IV Gp, LP",10%,P - Purchase,11.56,89200,5869343,+2%,1031045,False
+2026-09-08,16:32,2026-09-03,GOLD,"Gold.Com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A.",10%,P - Purchase,39.30,100000,3670787,+3%,3930350,False
+2026-09-08,16:26,2026-09-08,INBX,"Inhibrx Biosciences, Inc.",Forsyth Douglas,Dir,P - Purchase,114.65,2500,227064,+1%,286617,True
+2026-09-08,16:25,2026-09-04,GPUS,"Hyperscale Data, Inc.",Nisser Henry Carl,"Pres, GC",P - Purchase,0.19,250000,250000,New,46775,True
+2026-09-08,16:20,2026-09-04,GPUS,"Hyperscale Data, Inc.",Horne William B.,CEO,P - Purchase,0.20,160000,305000,+110%,31220,True
+2026-09-08,16:16,2026-09-03,OPAL,Opal Fuels Inc.,Comora Adam,Co-CEO,P - Purchase,2.08,20000,509626,+4%,41600,True
+2026-09-08,16:15,2026-09-03,GPUS,"Hyperscale Data, Inc.",Ault Milton C III,"Exec COB, 10%",P - Purchase,0.19,2148691,3293541,+188%,406517,True
+2026-09-08,16:15,2026-09-03,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10%,P - Purchase,223.99,735303,115756830,+1%,164701666,False
+2026-09-08,16:12,2026-09-04,PCT,"Purecycle Technologies, Inc.",Musa Fernando,Dir,P - Purchase,6.38,15479,175983,+10%,98756,False
+2026-09-08,16:09,2026-09-04,SCOR,"Comscore, Inc.",McLaughlin Matthew F.,CEO,P - Purchase,5.08,20000,185739,+12%,101638,True
+2026-09-08,16:09,2026-09-04,OPFI,Oppfi Inc.,Schwartz Todd G.,"CEO, 10%",P - Purchase,7.35,3500,27533485,0%,25741,False
+2026-09-08,16:04,2026-09-08,INBX,"Inhibrx Biosciences, Inc.",Lappe Mark,CEO,P - Purchase,105.82,25000,950413,+3%,2645399,True
+2026-09-08,16:00,2026-09-04,YDES,Yd Bio Ltd,Shen Ethan Phd,CEO,P - Purchase,3.67,18378,54363389,0%,67447,False
+2026-09-08,15:51,2026-09-04,TSN,"Tyson Foods, Inc.",Schomburger Jeffrey K,"Pres, CEO Elect",P - Purchase,51.50,19450,100130,+24%,1001617,False
