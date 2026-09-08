@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T16:56:55Z",
-  "trade_count": 10285,
+  "last_updated": "2026-09-08T19:42:11Z",
+  "trade_count": 10288,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -161648,7 +161648,7 @@
       "owned": "154143",
       "delta_own": "+3%",
       "value": "25200",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-09-02",
@@ -164561,6 +164561,54 @@
       "delta_own": "+20%",
       "value": "66999",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-08",
+      "filing_time": "15:40",
+      "trade_date": "2026-09-04",
+      "ticker": "KMT",
+      "company": "Kennametal Inc",
+      "insider_name": "Harshman Richard J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "30.21",
+      "qty": "5000",
+      "owned": "5000",
+      "delta_own": "New",
+      "value": "151050",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-08",
+      "filing_time": "14:39",
+      "trade_date": "2026-09-03",
+      "ticker": "TISI",
+      "company": "Team Inc",
+      "insider_name": "Roeder Clinton William",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "27.59",
+      "qty": "8000",
+      "owned": "17000",
+      "delta_own": "+89%",
+      "value": "220720",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-08",
+      "filing_time": "13:29",
+      "trade_date": "2026-09-04",
+      "ticker": "GRNT",
+      "company": "Granite Ridge Resources, Inc.",
+      "insider_name": "Kettler Ronald Kyle",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "5.05",
+      "qty": "6000",
+      "owned": "135276",
+      "delta_own": "+5%",
+      "value": "30300",
+      "cluster_buy": true
     }
   ]
 }

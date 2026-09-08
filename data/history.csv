@@ -10108,7 +10108,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-02,09:00,2026-09-01,EMPD,Empery Digital Inc.,"Empery Asset Management, LP",10%,P - Purchase,3.59,500000,4930345,+11%,1793100,False
 2026-09-02,08:17,2026-08-31,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,19.17,19257,19024945,0%,369199,False
 2026-09-02,08:01,2026-05-28,NIVF,Newgenivf Group Ltd,Cheung Kong Yiu,"Dir, 10%",P - Purchase,1.12,3722223,3722223,New,4163335,True
-2026-09-02,12:27,2026-09-01,GRNT,"Granite Ridge Resources, Inc.",McCartney John,Dir,P - Purchase,5.04,5000,154143,+3%,25200,False
+2026-09-02,12:27,2026-09-01,GRNT,"Granite Ridge Resources, Inc.",McCartney John,Dir,P - Purchase,5.04,5000,154143,+3%,25200,True
 2026-09-02,17:20,2026-08-31,SUJA,"Suja Life, Inc.","Paine Schwartz Food Chain Fund V Gp, Ltd.",10%,P - Purchase,10.27,525000,11621253,+5%,5390000,False
 2026-09-02,16:49,2026-08-31,CAVA,"Cava Group, Inc.",Thompson Douglas W.,Chief Operations Officer,P - Purchase,66.52,6500,19371,+51%,432380,False
 2026-09-02,16:40,2026-08-31,LDI,"Loandepot, Inc.",Hsieh Anthony Li,"Exec Chair, CEO, Pres, 10%",P - Purchase,0.94,205573,1217496,+20%,192578,False
@@ -10291,3 +10291,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-08,07:35,2026-08-31,SHMD,Schmid Group N.V.,Speth Ralf,Dir,P - Purchase,3.15,68000,269311,+34%,214330,True
 2026-09-08,07:02,2026-09-04,UBER,"Uber Technologies, Inc",Macdonald Andrew,See Remarks,P - Purchase,75.83,70000,426320,+20%,5308064,False
 2026-09-08,08:31,2026-08-27,NMTC,Neuroone Medical Technologies Corp,Wambeke David J.,Chief Business Officer,P - Purchase,2.01,33333,199999,+20%,66999,False
+2026-09-08,15:40,2026-09-04,KMT,Kennametal Inc,Harshman Richard J,Dir,P - Purchase,30.21,5000,5000,New,151050,False
+2026-09-08,14:39,2026-09-03,TISI,Team Inc,Roeder Clinton William,CFO,P - Purchase,27.59,8000,17000,+89%,220720,True
+2026-09-08,13:29,2026-09-04,GRNT,"Granite Ridge Resources, Inc.",Kettler Ronald Kyle,CFO,P - Purchase,5.05,6000,135276,+5%,30300,True
