@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T03:45:48Z",
-  "trade_count": 3719,
+  "last_updated": "2026-09-08T16:01:07Z",
+  "trade_count": 3720,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -57053,6 +57053,22 @@
       "qty": "10000",
       "price": "26.7819",
       "value": "267819",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4774549",
+      "trade_date": "2026-09-08",
+      "filing_date": "2026-09-08",
+      "company": "Swiss Water Decaffeinated Coffee Inc.",
+      "ticker": "SWP",
+      "insider_name": "Spur Point Capital Inc.",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "46709",
+      "price": "8.2600",
+      "value": "385816",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
