@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T07:36:17Z",
-  "trade_count": 10281,
+  "last_updated": "2026-09-08T12:25:53Z",
+  "trade_count": 10284,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -160640,7 +160640,7 @@
       "owned": "13749589",
       "delta_own": "+1%",
       "value": "218199",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-31",
@@ -164496,6 +164496,54 @@
       "owned": "89718",
       "delta_own": "+1%",
       "value": "614000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-08",
+      "filing_time": "08:15",
+      "trade_date": "2026-09-03",
+      "ticker": "OBIO",
+      "company": "Orchestra Biomed Holdings, Inc.",
+      "insider_name": "Hochman David P",
+      "title": "See Remarks",
+      "trade_type": "P - Purchase",
+      "price": "4.79",
+      "qty": "10000",
+      "owned": "1516085",
+      "delta_own": "+1%",
+      "value": "47900",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-08",
+      "filing_time": "07:35",
+      "trade_date": "2026-08-31",
+      "ticker": "SHMD",
+      "company": "Schmid Group N.V.",
+      "insider_name": "Speth Ralf",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.15",
+      "qty": "68000",
+      "owned": "269311",
+      "delta_own": "+34%",
+      "value": "214330",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-08",
+      "filing_time": "07:02",
+      "trade_date": "2026-09-04",
+      "ticker": "UBER",
+      "company": "Uber Technologies, Inc",
+      "insider_name": "Macdonald Andrew",
+      "title": "See Remarks",
+      "trade_type": "P - Purchase",
+      "price": "75.83",
+      "qty": "70000",
+      "owned": "426320",
+      "delta_own": "+20%",
+      "value": "5308064",
       "cluster_buy": false
     }
   ]

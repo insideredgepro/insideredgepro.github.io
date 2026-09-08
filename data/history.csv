@@ -10045,7 +10045,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-31,08:00,2026-08-27,TNXP,Tonix Pharmaceuticals Holding Corp.,Lederman Seth,CEO,P - Purchase,13.79,2000,31007,+7%,27580,False
 2026-08-31,07:35,2026-08-27,MTDR,Matador Resources Co,Calvert Christopher P,"EVP, CFO",P - Purchase,56.64,2500,129624,+2%,141600,True
 2026-08-31,07:10,2026-08-28,SCOR,"Comscore, Inc.",Livek William Paul,Dir,P - Purchase,5.23,20000,217473,+10%,104600,True
-2026-08-31,07:01,2026-08-30,SHMD,Schmid Group N.V.,Schmid Anette,"Dir, 10%",P - Purchase,3.16,69000,13749589,+1%,218199,False
+2026-08-31,07:01,2026-08-30,SHMD,Schmid Group N.V.,Schmid Anette,"Dir, 10%",P - Purchase,3.16,69000,13749589,+1%,218199,True
 2026-08-31,07:00,2026-08-27,ADC,Agree Realty Corp,Rakolta John Jr,Dir,P - Purchase,73.23,20136,622343,+3%,1474599,False
 2026-08-31,06:20,2006-08-28,SHMD,Schmid Group N.V.,Schuetz Arthur Josef Hermann,CFO Schmid Group N.V.,P - Purchase,3.23,15200,29512,+106%,49096,False
 2026-08-31,06:00,2026-04-14,ALZN,"Alzamend Neuro, Inc.",Ault Milton C III,Dir,P - Purchase,1.01,110388,129777,+569%,110965,False
@@ -10287,3 +10287,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-01,17:02,2026-08-31,AAFCG,,Tannenbaum Leonard M,Director,P - Purchase,3.60,53273,6834076,+1%,191783,False
 2026-09-01,17:02,2026-08-28,AAFCG,,Tannenbaum Leonard M,Director,P - Purchase,3.53,65752,6780803,+1%,232105,False
 2026-09-01,17:00,2026-09-01,LLUCK,,Young John Alan,Director,P - Purchase,614.00,1000,89718,+1%,614000,False
+2026-09-08,08:15,2026-09-03,OBIO,"Orchestra Biomed Holdings, Inc.",Hochman David P,See Remarks,P - Purchase,4.79,10000,1516085,+1%,47900,False
+2026-09-08,07:35,2026-08-31,SHMD,Schmid Group N.V.,Speth Ralf,Dir,P - Purchase,3.15,68000,269311,+34%,214330,True
+2026-09-08,07:02,2026-09-04,UBER,"Uber Technologies, Inc",Macdonald Andrew,See Remarks,P - Purchase,75.83,70000,426320,+20%,5308064,False
