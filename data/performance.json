@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-09",
-  "entry_count": 1919,
+  "entry_count": 1929,
   "entries": [
     {
       "id": "US|YEXT|2026-07-13|englander daniel j|5.22",
@@ -62749,6 +62749,204 @@
       },
       "latest_price": 67.67,
       "return_pct": 5.36,
+      "last_snapshot": "2026-09-09"
+    },
+    {
+      "id": "US|SLGL|2026-09-04|opaleye management inc.|68.88",
+      "market": "US",
+      "ticker": "SLGL",
+      "yf_symbol": "SLGL",
+      "company": "Sol-Gel Technologies Ltd.",
+      "insider_name": "Opaleye Management Inc.",
+      "title": "10%",
+      "trade_date": "2026-09-04",
+      "trade_price": 68.88,
+      "value": 687160.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-09": 69.18
+      },
+      "latest_price": 69.18,
+      "return_pct": 0.44,
+      "last_snapshot": "2026-09-09"
+    },
+    {
+      "id": "US|AGPU|2026-09-08|zhu theodore|11.24",
+      "market": "US",
+      "ticker": "AGPU",
+      "yf_symbol": "AGPU",
+      "company": "Axe Compute Inc.",
+      "insider_name": "Zhu Theodore",
+      "title": "Dir",
+      "trade_date": "2026-09-08",
+      "trade_price": 11.24,
+      "value": 98325.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-09": 10.92
+      },
+      "latest_price": 10.92,
+      "return_pct": -2.85,
+      "last_snapshot": "2026-09-09"
+    },
+    {
+      "id": "US|ENHA|2026-09-04|apeiron investment group ltd.|1.59",
+      "market": "US",
+      "ticker": "ENHA",
+      "yf_symbol": "ENHA",
+      "company": "Enhanced Group Inc.",
+      "insider_name": "Apeiron Investment Group Ltd.",
+      "title": "Dir, 10%",
+      "trade_date": "2026-09-04",
+      "trade_price": 1.59,
+      "value": 286349.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-09": 1.62
+      },
+      "latest_price": 1.62,
+      "return_pct": 1.89,
+      "last_snapshot": "2026-09-09"
+    },
+    {
+      "id": "US|PRTS|2026-09-04|huffaker michael|9.42",
+      "market": "US",
+      "ticker": "PRTS",
+      "yf_symbol": "PRTS",
+      "company": "Carparts.Com, Inc.",
+      "insider_name": "Huffaker Michael",
+      "title": "COO",
+      "trade_date": "2026-09-04",
+      "trade_price": 9.42,
+      "value": 748462.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-09": 10.0
+      },
+      "latest_price": 10.0,
+      "return_pct": 6.16,
+      "last_snapshot": "2026-09-09"
+    },
+    {
+      "id": "US|CVSI|2026-07-16|cheever charlie e iii|0.02",
+      "market": "US",
+      "ticker": "CVSI",
+      "yf_symbol": "CVSI",
+      "company": "Cv Sciences, Inc.",
+      "insider_name": "Cheever Charlie E III",
+      "title": "10%",
+      "trade_date": "2026-07-16",
+      "trade_price": 0.02,
+      "value": 114816.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-09": 0.02
+      },
+      "latest_price": 0.02,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-09-09"
+    },
+    {
+      "id": "US|PRTS|2026-09-04|meniane david|9.42",
+      "market": "US",
+      "ticker": "PRTS",
+      "yf_symbol": "PRTS",
+      "company": "Carparts.Com, Inc.",
+      "insider_name": "Meniane David",
+      "title": "CEO",
+      "trade_date": "2026-09-04",
+      "trade_price": 9.42,
+      "value": 749239.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-09": 10.0
+      },
+      "latest_price": 10.0,
+      "return_pct": 6.16,
+      "last_snapshot": "2026-09-09"
+    },
+    {
+      "id": "US|OXM|2026-09-09|chubb thomas caldecot iii|30.93",
+      "market": "US",
+      "ticker": "OXM",
+      "yf_symbol": "OXM",
+      "company": "Oxford Industries Inc",
+      "insider_name": "Chubb Thomas Caldecot III",
+      "title": "CEO, Pres",
+      "trade_date": "2026-09-09",
+      "trade_price": 30.93,
+      "value": 108268.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-09": 30.65
+      },
+      "latest_price": 30.65,
+      "return_pct": -0.91,
+      "last_snapshot": "2026-09-09"
+    },
+    {
+      "id": "US|GME|2026-09-09|grube james|19.12",
+      "market": "US",
+      "ticker": "GME",
+      "yf_symbol": "GME",
+      "company": "Gamestop Corp.",
+      "insider_name": "Grube James",
+      "title": "Dir",
+      "trade_date": "2026-09-09",
+      "trade_price": 19.12,
+      "value": 196076.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-09": 19.89
+      },
+      "latest_price": 19.89,
+      "return_pct": 4.03,
+      "last_snapshot": "2026-09-09"
+    },
+    {
+      "id": "US|CYBN|2026-09-01|so eric h. l.|11.81",
+      "market": "US",
+      "ticker": "CYBN",
+      "yf_symbol": "CYBN",
+      "company": "Cybin Inc.",
+      "insider_name": "So Eric H. L.",
+      "title": "Exec Chair",
+      "trade_date": "2026-09-01",
+      "trade_price": 11.81,
+      "value": 1121475.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "US|GWAV|2026-08-27|meeks danny|3.72",
+      "market": "US",
+      "ticker": "GWAV",
+      "yf_symbol": "GWAV",
+      "company": "Greenwave Technology Solutions, Inc.",
+      "insider_name": "Meeks Danny",
+      "title": "CEO, 10%",
+      "trade_date": "2026-08-27",
+      "trade_price": 3.72,
+      "value": 8000002.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-09": 4.375
+      },
+      "latest_price": 4.375,
+      "return_pct": 17.61,
       "last_snapshot": "2026-09-09"
     }
   ]

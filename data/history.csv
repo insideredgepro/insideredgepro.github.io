@@ -10320,7 +10320,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-08,20:25,2026-09-03,PAMT,Pamt Corp,Moroun Matthew T,"Dir, 10%",P - Purchase,9.56,3268000,16007907,+26%,31225740,False
 2026-09-08,19:03,2026-09-03,SUJA,"Suja Life, Inc.","Paine Schwartz Food Chain Fund V Gp, Ltd.",10%,P - Purchase,10.42,300000,11921253,+3%,3126250,False
 2026-09-08,19:00,2026-09-03,QVCG,"Qvc Group, Inc.",Goldentree Asset Management LP,10%,P - Purchase,16.45,720000,9391951,+8%,11844000,False
-2026-09-08,18:11,2026-09-08,GME,Gamestop Corp.,Cheng Lawrence,Dir,P - Purchase,18.80,55000,143000,+63%,1033956,False
+2026-09-08,18:11,2026-09-08,GME,Gamestop Corp.,Cheng Lawrence,Dir,P - Purchase,18.80,55000,143000,+63%,1033956,True
 2026-09-08,21:00,2026-09-04,ENOV,Enovis Corp,Engert Oliver,Chief Administrative Officer,P - Purchase,18.80,2660,63898,+4%,50008,True
 2026-09-08,21:00,2026-09-04,EENOV,,Engert Oliver,Chief Administrative Officer,P - Purchase,18.80,2660,63898,+4%,50008,True
 2026-09-08,20:36,2026-09-08,AAMR,,Courtis Kenneth S.,Director,P - Purchase,225.83,10000,1035394,+1%,2258289,False
@@ -10371,7 +10371,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-09,10:41,2026-09-08,BWFG,"Bankwell Financial Group, Inc.",Seidman Lawrence B,"Dir, 10%",P - Purchase,66.94,5266,869565,+1%,352507,True
 2026-09-09,08:41,2026-09-08,BWFG,"Bankwell Financial Group, Inc.",Dale Eric J,Dir,P - Purchase,67.11,530,83945,+1%,35568,True
 2026-09-09,11:29,2026-09-04,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,19.24,16368,14308934,0%,314844,False
-2026-09-09,11:03,2026-08-31,CYBN,Cybin Inc.,Glavine Paul,Chief Growth Officer,P - Purchase,11.59,90000,4302193,+2%,1042677,False
+2026-09-09,11:03,2026-08-31,CYBN,Cybin Inc.,Glavine Paul,Chief Growth Officer,P - Purchase,11.59,90000,4302193,+2%,1042677,True
 2026-09-09,17:12,2026-09-09,DY,Dycom Industries Inc,Peyovich Daniel S,"Pres, CEO",P - Purchase,296.76,850,71343,+1%,252246,True
 2026-09-09,16:32,2026-09-08,KRMD,"Koru Medical Systems, Inc.",Kalbermatten Adam R,Chief Commercial Officer,P - Purchase,3.16,32000,394017,+9%,101120,False
 2026-09-09,16:30,2026-09-09,LTRX,Lantronix Inc,Awsare Saleel,"Pres, CEO",P - Purchase,5.18,15000,453381,+3%,77685,False
@@ -10382,3 +10382,14 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-09,16:05,2026-09-04,CTSO,Cytosorbents Corp,Chan Phillip P.,CEO,P - Purchase,0.35,200000,1944432,+11%,70000,False
 2026-09-09,16:02,2026-09-09,CTM,"Castellum, Inc.",Merriman Andrew,COO,P - Purchase,0.62,50000,588531,+9%,30972,False
 2026-09-09,14:55,2026-09-08,SEI,"Solaris Energy Infrastructure, Inc.",Teague Aj,Dir,P - Purchase,64.23,7800,131825,+6%,500994,False
+2026-09-09,19:18,2026-09-04,SLGL,Sol-Gel Technologies Ltd.,Opaleye Management Inc.,10%,P - Purchase,68.88,9976,551876,+2%,687160,False
+2026-09-09,19:09,2026-09-08,AGPU,Axe Compute Inc.,Zhu Theodore,Dir,P - Purchase,11.24,8750,16314,+116%,98325,False
+2026-09-09,19:08,2026-09-04,ENHA,Enhanced Group Inc.,Apeiron Investment Group Ltd.,"Dir, 10%",P - Purchase,1.59,179713,37263771,0%,286349,False
+2026-09-09,18:46,2026-08-20,PRTS,"Carparts.Com, Inc.",Phelps Barry,Dir,P - Purchase,6.48,10000,43577,+30%,64767,True
+2026-09-09,18:43,2026-09-04,PRTS,"Carparts.Com, Inc.",Huffaker Michael,COO,P - Purchase,9.42,79458,139560,+132%,748462,True
+2026-09-09,18:43,2026-07-16,CVSI,"Cv Sciences, Inc.",Cheever Charlie E III,10%,P - Purchase,0.02,5740816,26648711,+27%,114816,False
+2026-09-09,18:40,2026-09-04,PRTS,"Carparts.Com, Inc.",Meniane David,CEO,P - Purchase,9.42,79539,299414,+36%,749239,True
+2026-09-09,18:20,2026-09-09,OXM,Oxford Industries Inc,Chubb Thomas Caldecot III,"CEO, Pres",P - Purchase,30.93,3500,174666,+2%,108268,False
+2026-09-09,18:17,2026-09-09,GME,Gamestop Corp.,Grube James,Dir,P - Purchase,19.12,10255,39694,+35%,196076,True
+2026-09-09,17:47,2026-09-01,CYBN,Cybin Inc.,So Eric H. L.,Exec Chair,P - Purchase,11.81,95000,4318630,+2%,1121475,True
+2026-09-09,17:42,2026-08-27,GWAV,"Greenwave Technology Solutions, Inc.",Meeks Danny,"CEO, 10%",P - Purchase,3.72,2152853,2188354,>999%,8000002,False
