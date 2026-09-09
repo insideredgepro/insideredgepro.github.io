@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T10:29:07Z",
-  "trade_count": 10362,
+  "last_updated": "2026-09-09T14:55:55Z",
+  "trade_count": 10364,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -159040,7 +159040,7 @@
       "owned": "864299",
       "delta_own": "0%",
       "value": "167426",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-08-26",
@@ -165793,6 +165793,38 @@
       "delta_own": "+20%",
       "value": "5308064",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-09",
+      "filing_time": "10:41",
+      "trade_date": "2026-09-08",
+      "ticker": "BWFG",
+      "company": "Bankwell Financial Group, Inc.",
+      "insider_name": "Seidman Lawrence B",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "66.94",
+      "qty": "5266",
+      "owned": "869565",
+      "delta_own": "+1%",
+      "value": "352507",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-09",
+      "filing_time": "08:41",
+      "trade_date": "2026-09-08",
+      "ticker": "BWFG",
+      "company": "Bankwell Financial Group, Inc.",
+      "insider_name": "Dale Eric J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "67.11",
+      "qty": "530",
+      "owned": "83945",
+      "delta_own": "+1%",
+      "value": "35568",
+      "cluster_buy": true
     }
   ]
 }
