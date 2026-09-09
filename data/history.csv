@@ -10081,7 +10081,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-01,18:25,2026-08-28,LILA,Liberty Latin America Ltd.,Malone John C,"Director Emeritus, 10%",P - Purchase,8.49,121286,4082113,+3%,1029706,True
 2026-09-01,17:31,2026-09-01,UAMY,United States Antimony Corp,Carrabba Joseph A,Dir,P - Purchase,4.72,21300,198401,+12%,100536,True
 2026-09-01,17:07,2026-08-28,EQPT,Equipmentshare.Com Inc,Schlacks Jabbok,"Founder, CEO",P - Purchase,17.62,25000,14381548,0%,440395,True
-2026-09-01,17:03,2026-09-01,DY,Dycom Industries Inc,Fallon David Joseph,Dir,P - Purchase,286.92,700,1043,+204%,200844,False
+2026-09-01,17:03,2026-09-01,DY,Dycom Industries Inc,Fallon David Joseph,Dir,P - Purchase,286.92,700,1043,+204%,200844,True
 2026-09-01,17:00,2026-08-28,LUCK,Lucky Strike Entertainment Corp,Young John Alan,Dir,P - Purchase,150.94,4200,89718,+5%,633944,True
 2026-09-01,16:59,2026-08-28,LUCK,Lucky Strike Entertainment Corp,Mathrani Sandeep,Dir,P - Purchase,6.41,9350,9350,New,59957,True
 2026-09-01,16:47,2026-08-31,IIPR,Innovative Industrial Properties Inc,Ives Bruce Alan,Dir,P - Purchase,56.70,528,3180,+20%,29938,False
@@ -10372,3 +10372,13 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-09,08:41,2026-09-08,BWFG,"Bankwell Financial Group, Inc.",Dale Eric J,Dir,P - Purchase,67.11,530,83945,+1%,35568,True
 2026-09-09,11:29,2026-09-04,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,19.24,16368,14308934,0%,314844,False
 2026-09-09,11:03,2026-08-31,CYBN,Cybin Inc.,Glavine Paul,Chief Growth Officer,P - Purchase,11.59,90000,4302193,+2%,1042677,False
+2026-09-09,17:12,2026-09-09,DY,Dycom Industries Inc,Peyovich Daniel S,"Pres, CEO",P - Purchase,296.76,850,71343,+1%,252246,True
+2026-09-09,16:32,2026-09-08,KRMD,"Koru Medical Systems, Inc.",Kalbermatten Adam R,Chief Commercial Officer,P - Purchase,3.16,32000,394017,+9%,101120,False
+2026-09-09,16:30,2026-09-09,LTRX,Lantronix Inc,Awsare Saleel,"Pres, CEO",P - Purchase,5.18,15000,453381,+3%,77685,False
+2026-09-09,16:27,2026-09-08,OPFI,Oppfi Inc.,Schwartz Todd G.,"CEO, 10%",P - Purchase,7.41,3475,27536960,0%,25737,False
+2026-09-09,16:16,2026-09-09,LUCK,Lucky Strike Entertainment Corp,Shannon Thomas F.,"CEO, 10%",P - Purchase,5.86,30000,5394000,+1%,175800,True
+2026-09-09,16:15,2026-09-03,GPUS,"Hyperscale Data, Inc.",Ault Milton C III,"Exec COB, 10%",P - Purchase,0.19,2148691,3293541,+188%,406517,True
+2026-09-09,16:07,2026-09-04,EVLV,"Evolv Technologies Holdings, Inc.",Shapiro Richard A,Dir,P - Purchase,4.96,32600,181065,+22%,161739,False
+2026-09-09,16:05,2026-09-04,CTSO,Cytosorbents Corp,Chan Phillip P.,CEO,P - Purchase,0.35,200000,1944432,+11%,70000,False
+2026-09-09,16:02,2026-09-09,CTM,"Castellum, Inc.",Merriman Andrew,COO,P - Purchase,0.62,50000,588531,+9%,30972,False
+2026-09-09,14:55,2026-09-08,SEI,"Solaris Energy Infrastructure, Inc.",Teague Aj,Dir,P - Purchase,64.23,7800,131825,+6%,500994,False
