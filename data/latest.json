@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T14:55:55Z",
-  "trade_count": 10364,
+  "last_updated": "2026-09-09T18:12:54Z",
+  "trade_count": 10366,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -165825,6 +165825,38 @@
       "delta_own": "+1%",
       "value": "35568",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-09",
+      "filing_time": "11:29",
+      "trade_date": "2026-09-04",
+      "ticker": "DGICA",
+      "company": "Donegal Group Inc",
+      "insider_name": "Donegal Mutual Insurance Co",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "19.24",
+      "qty": "16368",
+      "owned": "14308934",
+      "delta_own": "0%",
+      "value": "314844",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-09",
+      "filing_time": "11:03",
+      "trade_date": "2026-08-31",
+      "ticker": "CYBN",
+      "company": "Cybin Inc.",
+      "insider_name": "Glavine Paul",
+      "title": "Chief Growth Officer",
+      "trade_type": "P - Purchase",
+      "price": "11.59",
+      "qty": "90000",
+      "owned": "4302193",
+      "delta_own": "+2%",
+      "value": "1042677",
+      "cluster_buy": false
     }
   ]
 }
