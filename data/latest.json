@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T00:54:26Z",
-  "trade_count": 10315,
+  "last_updated": "2026-09-09T05:35:55Z",
+  "trade_count": 10316,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -165041,6 +165041,22 @@
       "delta_own": "+63%",
       "value": "1033956",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-08",
+      "filing_time": "21:00",
+      "trade_date": "2026-09-04",
+      "ticker": "ENOV",
+      "company": "Enovis Corp",
+      "insider_name": "Engert Oliver",
+      "title": "Chief Administrative Officer",
+      "trade_type": "P - Purchase",
+      "price": "18.80",
+      "qty": "2660",
+      "owned": "63898",
+      "delta_own": "+4%",
+      "value": "50008",
+      "cluster_buy": true
     }
   ]
 }
