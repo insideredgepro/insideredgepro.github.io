@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T22:00:20Z",
-  "trade_count": 3726,
+  "last_updated": "2026-09-09T03:45:23Z",
+  "trade_count": 3727,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -57165,6 +57165,22 @@
       "qty": "335000",
       "price": "0.3117",
       "value": "104419",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4775028",
+      "trade_date": "2026-09-08",
+      "filing_date": "2026-09-08",
+      "company": "Altus Group Limited",
+      "ticker": "AIF",
+      "insider_name": "Brennan, William",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "9743",
+      "price": "46.8835",
+      "value": "456785",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false

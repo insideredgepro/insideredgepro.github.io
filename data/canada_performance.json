@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-08",
-  "entry_count": 294,
+  "entry_count": 295,
   "entries": [
     {
       "id": "CA|CEU|2026-07-10|hooks, john michael|16.282",
@@ -10179,6 +10179,26 @@
       },
       "latest_price": 0.31,
       "return_pct": -0.55,
+      "last_snapshot": "2026-09-08"
+    },
+    {
+      "id": "CA|AIF|2026-09-08|brennan, william|46.8835",
+      "market": "CA",
+      "ticker": "AIF",
+      "yf_symbol": "AIF.TO",
+      "company": "Altus Group Limited",
+      "insider_name": "Brennan, William",
+      "title": "Director",
+      "trade_date": "2026-09-08",
+      "trade_price": 46.8835,
+      "value": 456785.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-09-08": 46.82
+      },
+      "latest_price": 46.82,
+      "return_pct": -0.14,
       "last_snapshot": "2026-09-08"
     }
   ]
