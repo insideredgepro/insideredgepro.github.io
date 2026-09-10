@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T23:42:56Z",
-  "trade_count": 10387,
+  "last_updated": "2026-09-10T02:12:56Z",
+  "trade_count": 10388,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -166192,6 +166192,22 @@
       "owned": "2188354",
       "delta_own": ">999%",
       "value": "8000002",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-09",
+      "filing_time": "21:39",
+      "trade_date": "2026-09-04",
+      "ticker": "ALMS",
+      "company": "Alumis Inc.",
+      "insider_name": "Akkaraju Srinivas",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "10.87",
+      "qty": "986721",
+      "owned": "7239362",
+      "delta_own": "+16%",
+      "value": "10726255",
       "cluster_buy": false
     }
   ]
