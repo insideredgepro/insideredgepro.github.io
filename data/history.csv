@@ -10289,7 +10289,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-01,17:00,2026-09-01,LLUCK,,Young John Alan,Director,P - Purchase,614.00,1000,89718,+1%,614000,False
 2026-09-08,08:15,2026-09-03,OBIO,"Orchestra Biomed Holdings, Inc.",Hochman David P,See Remarks,P - Purchase,4.79,10000,1516085,+1%,47900,False
 2026-09-08,07:35,2026-08-31,SHMD,Schmid Group N.V.,Speth Ralf,Dir,P - Purchase,3.15,68000,269311,+34%,214330,True
-2026-09-08,07:02,2026-09-04,UBER,"Uber Technologies, Inc",Macdonald Andrew,See Remarks,P - Purchase,75.83,70000,426320,+20%,5308064,False
+2026-09-08,07:02,2026-09-04,UBER,"Uber Technologies, Inc",Macdonald Andrew,See Remarks,P - Purchase,75.83,70000,426320,+20%,5308064,True
 2026-09-08,08:31,2026-08-27,NMTC,Neuroone Medical Technologies Corp,Wambeke David J.,Chief Business Officer,P - Purchase,2.01,33333,199999,+20%,66999,False
 2026-09-08,15:40,2026-09-04,KMT,Kennametal Inc,Harshman Richard J,Dir,P - Purchase,30.21,5000,5000,New,151050,False
 2026-09-08,14:39,2026-09-03,TISI,Team Inc,Roeder Clinton William,CFO,P - Purchase,27.59,8000,17000,+89%,220720,True
@@ -10397,3 +10397,4 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-10,07:30,2026-09-09,GRCE,"Grace Therapeutics, Inc.",Kohli Prashant,CEO,P - Purchase,2.14,100000,121357,+468%,214000,False
 2026-09-10,06:21,2026-09-04,CYBN,Cybin Inc.,So Eric H. L.,Exec Chair,P - Purchase,12.09,100000,4418630,+2%,1208900,True
 2026-09-10,06:19,2026-09-03,CYBN,Cybin Inc.,Glavine Paul,Chief Growth Officer,P - Purchase,11.78,100000,4402193,+2%,1178280,True
+2026-09-10,12:40,2026-09-10,UBER,"Uber Technologies, Inc",Khosrowshahi Dara,CEO,P - Purchase,70.96,141000,1367100,+11%,10005952,True

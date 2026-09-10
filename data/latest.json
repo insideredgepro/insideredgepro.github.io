@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T12:31:46Z",
-  "trade_count": 10391,
+  "last_updated": "2026-09-10T16:47:02Z",
+  "trade_count": 10392,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -164544,7 +164544,7 @@
       "owned": "426320",
       "delta_own": "+20%",
       "value": "5308064",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-09-08",
@@ -166256,6 +166256,22 @@
       "owned": "4402193",
       "delta_own": "+2%",
       "value": "1178280",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-10",
+      "filing_time": "12:40",
+      "trade_date": "2026-09-10",
+      "ticker": "UBER",
+      "company": "Uber Technologies, Inc",
+      "insider_name": "Khosrowshahi Dara",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "70.96",
+      "qty": "141000",
+      "owned": "1367100",
+      "delta_own": "+11%",
+      "value": "10005952",
       "cluster_buy": true
     }
   ]
