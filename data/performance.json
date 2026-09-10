@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-10",
-  "entry_count": 1930,
+  "entry_count": 1933,
   "entries": [
     {
       "id": "US|YEXT|2026-07-13|englander daniel j|5.22",
@@ -6231,8 +6231,8 @@
         "2026-09-09": 3.63,
         "2026-09-10": 3.585
       },
-      "latest_price": 3.585,
-      "return_pct": 3.31,
+      "latest_price": 3.59,
+      "return_pct": 3.46,
       "last_snapshot": "2026-09-10"
     },
     {
@@ -6714,8 +6714,8 @@
         "2026-09-09": 3.63,
         "2026-09-10": 3.585
       },
-      "latest_price": 3.585,
-      "return_pct": 4.82,
+      "latest_price": 3.59,
+      "return_pct": 4.97,
       "last_snapshot": "2026-09-10"
     },
     {
@@ -6783,8 +6783,8 @@
         "2026-09-09": 3.63,
         "2026-09-10": 3.585
       },
-      "latest_price": 3.585,
-      "return_pct": 1.56,
+      "latest_price": 3.59,
+      "return_pct": 1.7,
       "last_snapshot": "2026-09-10"
     },
     {
@@ -9029,8 +9029,8 @@
         "2026-09-09": 3.63,
         "2026-09-10": 3.585
       },
-      "latest_price": 3.585,
-      "return_pct": -1.24,
+      "latest_price": 3.59,
+      "return_pct": -1.1,
       "last_snapshot": "2026-09-10"
     },
     {
@@ -12644,11 +12644,12 @@
         "2026-09-06": 28.8,
         "2026-09-07": 28.8,
         "2026-09-08": 28.8,
-        "2026-09-09": 28.78
+        "2026-09-09": 28.78,
+        "2026-09-10": 28.8
       },
       "latest_price": 28.8,
       "return_pct": -0.45,
-      "last_snapshot": "2026-09-09"
+      "last_snapshot": "2026-09-10"
     },
     {
       "id": "US|IONS|2026-07-30|hayden michael r|52.94",
@@ -18528,8 +18529,8 @@
         "2026-09-09": 0.51,
         "2026-09-10": 0.502
       },
-      "latest_price": 0.502,
-      "return_pct": 0.4,
+      "latest_price": 0.5,
+      "return_pct": 0.0,
       "last_snapshot": "2026-09-10"
     },
     {
@@ -22772,8 +22773,8 @@
         "2026-09-09": 3.63,
         "2026-09-10": 3.585
       },
-      "latest_price": 3.585,
-      "return_pct": -22.74,
+      "latest_price": 3.59,
+      "return_pct": -22.63,
       "last_snapshot": "2026-09-10"
     },
     {
@@ -32258,8 +32259,8 @@
         "2026-09-09": 0.51,
         "2026-09-10": 0.502
       },
-      "latest_price": 0.502,
-      "return_pct": -21.56,
+      "latest_price": 0.5,
+      "return_pct": -21.88,
       "last_snapshot": "2026-09-10"
     },
     {
@@ -49513,7 +49514,7 @@
         "2026-09-09": 20.1,
         "2026-09-10": 20.69
       },
-      "latest_price": 20.69,
+      "latest_price": 20.6,
       "return_pct": -99.98,
       "last_snapshot": "2026-09-10"
     },
@@ -64034,6 +64035,62 @@
       "latest_price": 9.8,
       "return_pct": -9.84,
       "last_snapshot": "2026-09-10"
+    },
+    {
+      "id": "US|GRCE|2026-09-09|kohli prashant|2.14",
+      "market": "US",
+      "ticker": "GRCE",
+      "yf_symbol": "GRCE",
+      "company": "Grace Therapeutics, Inc.",
+      "insider_name": "Kohli Prashant",
+      "title": "CEO",
+      "trade_date": "2026-09-09",
+      "trade_price": 2.14,
+      "value": 214000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-10": 2.14
+      },
+      "latest_price": 2.14,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-09-10"
+    },
+    {
+      "id": "US|CYBN|2026-09-04|so eric h. l.|12.09",
+      "market": "US",
+      "ticker": "CYBN",
+      "yf_symbol": "CYBN",
+      "company": "Cybin Inc.",
+      "insider_name": "So Eric H. L.",
+      "title": "Exec Chair",
+      "trade_date": "2026-09-04",
+      "trade_price": 12.09,
+      "value": 1208900.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
+    },
+    {
+      "id": "US|CYBN|2026-09-03|glavine paul|11.78",
+      "market": "US",
+      "ticker": "CYBN",
+      "yf_symbol": "CYBN",
+      "company": "Cybin Inc.",
+      "insider_name": "Glavine Paul",
+      "title": "Chief Growth Officer",
+      "trade_date": "2026-09-03",
+      "trade_price": 11.78,
+      "value": 1178280.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {},
+      "latest_price": null,
+      "return_pct": null,
+      "last_snapshot": null
     }
   ]
 }
