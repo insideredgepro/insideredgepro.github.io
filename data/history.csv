@@ -10283,10 +10283,10 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-01,17:31,2026-09-01,UUAMY,,Carrabba Joseph A,Director,P - Purchase,4.72,21300,198401,+12%,100536,True
 2026-09-01,17:07,2026-08-31,EEQPT,,Schlacks Jabbok,Founder & CEO,P - Purchase,17.46,15500,75000,+26%,270630,True
 2026-09-01,17:07,2026-08-28,EEQPT,,Schlacks Jabbok,Founder & CEO,P - Purchase,17.87,9500,59500,+19%,169765,True
-2026-09-01,17:03,2026-09-01,DDY,,Fallon David Joseph,Director,P - Purchase,286.92,700,1043,+204%,200844,False
+2026-09-01,17:03,2026-09-01,DDY,,Fallon David Joseph,Director,P - Purchase,286.92,700,1043,+204%,200844,True
 2026-09-01,17:02,2026-08-31,AAFCG,,Tannenbaum Leonard M,Director,P - Purchase,3.60,53273,6834076,+1%,191783,False
 2026-09-01,17:02,2026-08-28,AAFCG,,Tannenbaum Leonard M,Director,P - Purchase,3.53,65752,6780803,+1%,232105,False
-2026-09-01,17:00,2026-09-01,LLUCK,,Young John Alan,Director,P - Purchase,614.00,1000,89718,+1%,614000,False
+2026-09-01,17:00,2026-09-01,LLUCK,,Young John Alan,Director,P - Purchase,614.00,1000,89718,+1%,614000,True
 2026-09-08,08:15,2026-09-03,OBIO,"Orchestra Biomed Holdings, Inc.",Hochman David P,See Remarks,P - Purchase,4.79,10000,1516085,+1%,47900,False
 2026-09-08,07:35,2026-08-31,SHMD,Schmid Group N.V.,Speth Ralf,Dir,P - Purchase,3.15,68000,269311,+34%,214330,True
 2026-09-08,07:02,2026-09-04,UBER,"Uber Technologies, Inc",Macdonald Andrew,See Remarks,P - Purchase,75.83,70000,426320,+20%,5308064,True
@@ -10329,7 +10329,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-08,19:03,2026-09-04,SSUJA,,Paine Schwartz Food Chain Fund,10% Owner,P - Purchase,10.48,125000,11871253,+1%,1310000,False
 2026-09-08,19:03,2026-09-03,SSUJA,,Paine Schwartz Food Chain Fund,10% Owner,P - Purchase,10.57,125000,11746253,+1%,1321250,False
 2026-09-08,19:00,2026-09-03,QQVCG,,Goldentree Asset Management Lp,10% Owner,P - Purchase,16.45,720000,9391951,+8%,11844000,False
-2026-09-08,18:11,2026-09-08,GGME,Invesco Next Gen Media and Gaming ETF,Cheng Lawrence,Director,P - Purchase,18.80,55000,143000,+62%,1033956,False
+2026-09-08,18:11,2026-09-08,GGME,Invesco Next Gen Media and Gaming ETF,Cheng Lawrence,Director,P - Purchase,18.80,55000,143000,+62%,1033956,True
 2026-09-08,18:04,2026-09-08,PPDYN,,Wolff Benjamin G,PRESIDENT & CEO,P - Purchase,5.79,17121,400240,+4%,99129,False
 2026-09-08,17:59,2026-09-08,NNRIM,,Thomas Linda C,Director,P - Purchase,26.20,1200,6688,+22%,31440,False
 2026-09-08,17:28,2026-09-04,GGPI,,"Conifer Management, L.L.C.",10% Owner,P - Purchase,300.15,57159,1362640,+4%,17156527,False
@@ -10357,9 +10357,9 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-08,15:40,2026-09-04,KKMT,,Harshman Richard J,Director,P - Purchase,30.21,5000,5000,New,151050,False
 2026-09-08,14:39,2026-09-03,TTISI,,Roeder Clinton William,Chief Financial Officer,P - Purchase,27.59,8000,17000,+89%,220720,True
 2026-09-08,13:29,2026-09-04,GGRNT,,Kettler Ronald Kyle,Chief Financial Officer,P - Purchase,5.05,6000,135276,+5%,30300,True
-2026-09-08,13:26,2026-09-03,DDXYZ,,Prasad Sohail,President and CEO,P - Purchase,32.14,9760,64000,+18%,313686,False
-2026-09-08,13:26,2026-09-02,DDXYZ,,Prasad Sohail,President and CEO,P - Purchase,31.53,13240,54240,+32%,417457,False
-2026-09-08,13:26,2026-09-01,DDXYZ,,Prasad Sohail,President and CEO,P - Purchase,31.40,33000,41000,+412%,1036200,False
+2026-09-08,13:26,2026-09-03,DDXYZ,,Prasad Sohail,President and CEO,P - Purchase,32.14,9760,64000,+18%,313686,True
+2026-09-08,13:26,2026-09-02,DDXYZ,,Prasad Sohail,President and CEO,P - Purchase,31.53,13240,54240,+32%,417457,True
+2026-09-08,13:26,2026-09-01,DDXYZ,,Prasad Sohail,President and CEO,P - Purchase,31.40,33000,41000,+412%,1036200,True
 2026-09-08,09:57,2026-09-04,EECF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,12.36,6800,1628462,+0%,84048,False
 2026-09-08,09:57,2026-09-03,EECF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,12.25,5000,1621662,+0%,61250,False
 2026-09-08,09:36,2026-09-03,GGF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,11.56,3721,3684805,+0%,43015,False
@@ -10367,7 +10367,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-08,08:15,2026-09-03,OOBIO,,Hochman David P,See Remarks,P - Purchase,4.79,10000,1070746,+1%,47900,False
 2026-09-08,07:35,2026-09-02,SSHMD,,Speth Ralf,Director,P - Purchase,3.05,33000,269311,+14%,100650,False
 2026-09-08,07:35,2026-08-31,SSHMD,,Speth Ralf,Director,P - Purchase,3.25,35000,236311,+17%,113680,False
-2026-09-08,07:02,2026-09-04,UUBER,,Macdonald Andrew,See Remarks,P - Purchase,75.83,70000,426320,+20%,5308064,False
+2026-09-08,07:02,2026-09-04,UUBER,,Macdonald Andrew,See Remarks,P - Purchase,75.83,70000,426320,+20%,5308064,True
 2026-09-09,10:41,2026-09-08,BWFG,"Bankwell Financial Group, Inc.",Seidman Lawrence B,"Dir, 10%",P - Purchase,66.94,5266,869565,+1%,352507,True
 2026-09-09,08:41,2026-09-08,BWFG,"Bankwell Financial Group, Inc.",Dale Eric J,Dir,P - Purchase,67.11,530,83945,+1%,35568,True
 2026-09-09,11:29,2026-09-04,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,19.24,16368,14308934,0%,314844,False
@@ -10398,3 +10398,58 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-10,06:21,2026-09-04,CYBN,Cybin Inc.,So Eric H. L.,Exec Chair,P - Purchase,12.09,100000,4418630,+2%,1208900,True
 2026-09-10,06:19,2026-09-03,CYBN,Cybin Inc.,Glavine Paul,Chief Growth Officer,P - Purchase,11.78,100000,4402193,+2%,1178280,True
 2026-09-10,12:40,2026-09-10,UBER,"Uber Technologies, Inc",Khosrowshahi Dara,CEO,P - Purchase,70.96,141000,1367100,+11%,10005952,True
+2026-09-10,17:55,2026-09-10,GGME,Invesco Next Gen Media and Gaming ETF,Cohen Ryan,"President, CEO and Chairman",P - Purchase,20.38,1000000,39347842,+3%,20375900,True
+2026-09-10,17:23,2026-09-10,AAOMR,,Minami W D,Director,P - Purchase,8.10,6800,87118,+8%,55080,False
+2026-09-10,17:03,2026-09-10,CCELH,,Fieldly John,Chief Executive Officer,P - Purchase,27.44,18000,956063,+2%,493843,False
+2026-09-10,17:03,2026-09-09,CCLPR,,Levinson Sam,Director,P - Purchase,3.31,110710,379014,+41%,365941,False
+2026-09-10,16:43,2026-09-08,PPNBK,,De Tomasi Mario,Director,P - Purchase,0.96,63000,272941,+30%,60480,False
+2026-09-10,16:22,2026-09-09,SSLNG,,Kuntz Edward L,Director,P - Purchase,5.41,5000,74839,+7%,27050,False
+2026-09-10,16:15,2026-09-08,CCRT,233529,Oliver Eric L,10% Owner,P - Purchase,10.94,6142,982379,+1%,67193,False
+2026-09-10,16:15,2026-09-09,CCRT,233529,Oliver Eric L,10% Owner,P - Purchase,11.29,7134,989513,+1%,80543,False
+2026-09-10,16:15,2026-09-08,RRSG,,"Cascade Investment, L.L.C.",10% Owner,P - Purchase,221.49,409500,116166330,+0%,90698742,False
+2026-09-10,16:15,2026-09-09,RRSG,,"Cascade Investment, L.L.C.",10% Owner,P - Purchase,221.31,311304,116477634,+0%,68894299,False
+2026-09-10,16:12,2026-09-09,RRWAY,,Rovner Michael,Co-Chief Executive Officer,P - Purchase,6.57,7000,7000,New,45990,False
+2026-09-10,16:09,2026-09-09,OOPFI,,Schwartz Todd G.,Chief Executive Officer,P - Purchase,7.59,3450,633308,+1%,26190,False
+2026-09-10,12:40,2026-09-10,UUBER,,Khosrowshahi Dara,Chief Executive Officer,P - Purchase,70.96,141000,1367100,+11%,10005952,True
+2026-09-10,09:31,2026-08-31,DDXYZ,,Silver Ethan,Chief Operating Officer,P - Purchase,33.19,753,753,New,25000,True
+2026-09-10,07:30,2026-09-09,GGRCE,,Kohli Prashant,Chief Executive Officer,P - Purchase,2.14,100000,121357,+468%,214000,False
+2026-09-10,06:21,2026-09-04,HHELP,,So Eric H. L.,Executive Chair,P - Purchase,12.09,100000,4365014,+2%,1208900,True
+2026-09-10,06:19,2026-09-03,HHELP,,Glavine Paul,Chief Growth Officer,P - Purchase,11.78,100000,4171252,+2%,1178280,True
+2026-09-09,21:39,2026-09-04,AALMS,,Akkaraju Srinivas,Director,P - Purchase,11.17,440140,4711801,+10%,4917684,False
+2026-09-09,21:39,2026-09-08,AALMS,,Akkaraju Srinivas,Director,P - Purchase,10.63,546581,4937026,+12%,5808571,False
+2026-09-09,19:18,2026-09-04,SSLGL,,Opaleye Management Inc.,10% Owner,P - Purchase,69.14,3018,529918,+1%,208677,False
+2026-09-09,19:18,2026-09-08,SSLGL,,Opaleye Management Inc.,10% Owner,P - Purchase,68.82,3861,533779,+1%,265703,False
+2026-09-09,19:18,2026-09-09,SSLGL,,Opaleye Management Inc.,10% Owner,P - Purchase,68.70,3097,536876,+1%,212779,False
+2026-09-09,19:09,2026-09-08,AAGPU,,Zhu Theodore,Director,P - Purchase,11.24,8750,16314,+116%,98325,False
+2026-09-09,19:08,2026-09-04,EENHA,,Apeiron Investment Group Ltd.,Director,P - Purchase,1.61,21034,37105092,+0%,33898,False
+2026-09-09,19:08,2026-09-08,EENHA,,Apeiron Investment Group Ltd.,Director,P - Purchase,1.57,59337,37164429,+0%,93076,False
+2026-09-09,19:08,2026-09-09,EENHA,,Apeiron Investment Group Ltd.,Director,P - Purchase,1.60,99342,37263771,+0%,159374,False
+2026-09-09,18:43,2026-09-04,PPRTS,,Huffaker Michael,COO,P - Purchase,9.11,21160,81262,+35%,192768,True
+2026-09-09,18:43,2026-09-08,PPRTS,,Huffaker Michael,COO,P - Purchase,9.35,21718,102980,+27%,203063,True
+2026-09-09,18:43,2026-09-09,PPRTS,,Huffaker Michael,COO,P - Purchase,9.64,36580,139560,+36%,352631,True
+2026-09-09,18:40,2026-09-04,PPRTS,,Meniane David,CEO,P - Purchase,9.11,21154,241029,+10%,192713,True
+2026-09-09,18:40,2026-09-08,PPRTS,,Meniane David,CEO,P - Purchase,9.35,21742,262771,+9%,203288,True
+2026-09-09,18:40,2026-09-09,PPRTS,,Meniane David,CEO,P - Purchase,9.64,36643,299414,+14%,353239,True
+2026-09-09,18:20,2026-09-09,OOXM,,Chubb Thomas Caldecot Iii,CEO and President,P - Purchase,30.93,3500,33700,+12%,108268,False
+2026-09-09,18:17,2026-09-09,GGME,Invesco Next Gen Media and Gaming ETF,Grube James,Director,P - Purchase,19.12,10255,39694,+35%,196076,True
+2026-09-09,17:47,2026-09-01,HHELP,,So Eric H. L.,Executive Chair,P - Purchase,11.80,95000,4265014,+2%,1121475,True
+2026-09-09,17:42,2026-08-27,GGWAV,,Meeks Danny,Chief Executive Officer,P - Purchase,3.72,2152853,2188354,"+6,064%",8000002,False
+2026-09-09,17:12,2026-09-09,DDY,,Peyovich Daniel S,President & CEO,P - Purchase,296.76,850,61343,+1%,252246,True
+2026-09-09,16:32,2026-09-08,KKRMD,,Kalbermatten Adam R,Chief Commercial Officer,P - Purchase,3.16,32000,394017,+9%,101120,False
+2026-09-09,16:30,2026-09-09,LLTRX,,Awsare Saleel,President & CEO,P - Purchase,5.18,15000,453381,+3%,77685,False
+2026-09-09,16:27,2026-09-08,OOPFI,,Schwartz Todd G.,Chief Executive Officer,P - Purchase,7.41,3475,629858,+1%,25737,False
+2026-09-09,16:16,2026-09-09,LLUCK,,Shannon Thomas F.,Chief Executive Officer,P - Purchase,5.86,30000,3144000,+1%,175800,True
+2026-09-09,16:15,2026-09-04,GGPUS,,Ault Milton C Iii,Executive Chairman,P - Purchase,0.19,196800,679500,+41%,37904,True
+2026-09-09,16:15,2026-09-04,GGPUS,,Ault Milton C Iii,Executive Chairman,P - Purchase,0.19,1913691,2613692,+273%,361496,True
+2026-09-09,16:10,2026-09-04,PPSEC,,Barry John F,CHIEF EXECUTIVE OFFICER,P - Purchase,2.24,1217105,90479988,+1%,2726315,False
+2026-09-09,16:07,2026-09-04,EEVLV,,Shapiro Richard A,Director,P - Purchase,4.96,13500,93065,+17%,66960,False
+2026-09-09,16:07,2026-09-04,EEVLV,,Shapiro Richard A,Director,P - Purchase,4.96,19100,39000,+96%,94779,False
+2026-09-09,16:05,2026-09-04,CCTSO,,Chan Phillip P.,Chief Executive Officer,P - Purchase,0.35,200000,1944432,+11%,70000,False
+2026-09-09,16:02,2026-09-09,CCTM,,Merriman Andrew,Chief Operating Officer,P - Purchase,0.62,50000,588531,+9%,30972,False
+2026-09-09,14:55,2026-09-08,SSEI,,Teague Aj,Director,P - Purchase,64.21,3900,116865,+3%,250419,False
+2026-09-09,14:55,2026-09-08,SSEI,,Teague Aj,Director,P - Purchase,64.25,3900,14960,+35%,250575,False
+2026-09-09,11:29,2026-09-04,DDGICA,,Donegal Mutual Insurance Co,10% Owner,P - Purchase,19.39,6368,14298934,+0%,123486,False
+2026-09-09,11:29,2026-09-08,DDGICA,,Donegal Mutual Insurance Co,10% Owner,P - Purchase,19.14,10000,14308934,+0%,191358,False
+2026-09-09,11:03,2026-08-31,HHELP,,Glavine Paul,Chief Growth Officer,P - Purchase,11.59,90000,4071252,+2%,1042677,True
+2026-09-09,10:41,2026-09-08,BBWFG,,Seidman Lawrence B,Director,P - Purchase,66.94,5266,225640,+2%,352507,True
+2026-09-09,08:41,2026-09-08,BBWFG,,Dale Eric J,Director,P - Purchase,67.11,530,43026,+1%,35568,True
