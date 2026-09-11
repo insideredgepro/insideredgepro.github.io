@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-10",
-  "entry_count": 305,
+  "entry_count": 308,
   "entries": [
     {
       "id": "CA|QST|2026-07-13|huizinga, paul|0.29",
@@ -10523,6 +10523,66 @@
       },
       "latest_price": 1.58,
       "return_pct": -1.25,
+      "last_snapshot": "2026-09-10"
+    },
+    {
+      "id": "CA|AIF|2026-09-10|brennan, william|43.8035",
+      "market": "CA",
+      "ticker": "AIF",
+      "yf_symbol": "AIF.TO",
+      "company": "Altus Group Limited",
+      "insider_name": "Brennan, William",
+      "title": "Director",
+      "trade_date": "2026-09-10",
+      "trade_price": 43.8035,
+      "value": 237458.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-09-10": 44.07
+      },
+      "latest_price": 44.07,
+      "return_pct": 0.61,
+      "last_snapshot": "2026-09-10"
+    },
+    {
+      "id": "CA|OC|2026-09-10|lotan holdings inc.|0.12",
+      "market": "CA",
+      "ticker": "OC",
+      "yf_symbol": "OC.V",
+      "company": "Olive Resource Capital Inc.",
+      "insider_name": "Lotan Holdings Inc.",
+      "title": "10% Holder",
+      "trade_date": "2026-09-10",
+      "trade_price": 0.12,
+      "value": 42540.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-09-10": 0.12
+      },
+      "latest_price": 0.12,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-09-10"
+    },
+    {
+      "id": "CA|SEND|2026-09-10|gillis, jeremy|0.74",
+      "market": "CA",
+      "ticker": "SEND",
+      "yf_symbol": "SEND.V",
+      "company": "Sendero Resources Corp.",
+      "insider_name": "Gillis, Jeremy",
+      "title": "Senior Officer",
+      "trade_date": "2026-09-10",
+      "trade_price": 0.74,
+      "value": 38480.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-09-10": 0.7
+      },
+      "latest_price": 0.7,
+      "return_pct": -5.41,
       "last_snapshot": "2026-09-10"
     }
   ]
