@@ -10291,7 +10291,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-08,07:35,2026-08-31,SHMD,Schmid Group N.V.,Speth Ralf,Dir,P - Purchase,3.15,68000,269311,+34%,214330,True
 2026-09-08,07:02,2026-09-04,UBER,"Uber Technologies, Inc",Macdonald Andrew,See Remarks,P - Purchase,75.83,70000,426320,+20%,5308064,True
 2026-09-08,08:31,2026-08-27,NMTC,Neuroone Medical Technologies Corp,Wambeke David J.,Chief Business Officer,P - Purchase,2.01,33333,199999,+20%,66999,False
-2026-09-08,15:40,2026-09-04,KMT,Kennametal Inc,Harshman Richard J,Dir,P - Purchase,30.21,5000,5000,New,151050,False
+2026-09-08,15:40,2026-09-04,KMT,Kennametal Inc,Harshman Richard J,Dir,P - Purchase,30.21,5000,5000,New,151050,True
 2026-09-08,14:39,2026-09-03,TISI,Team Inc,Roeder Clinton William,CFO,P - Purchase,27.59,8000,17000,+89%,220720,True
 2026-09-08,13:29,2026-09-04,GRNT,"Granite Ridge Resources, Inc.",Kettler Ronald Kyle,CFO,P - Purchase,5.05,6000,135276,+5%,30300,True
 2026-09-08,18:04,2026-09-08,PDYN,Palladyne Ai Corp.,Wolff Benjamin G,"Pres, CEO",P - Purchase,5.79,17121,7817013,0%,99129,False
@@ -10474,3 +10474,12 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-10,16:15,2026-09-08,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10%,P - Purchase,221.41,720804,116477634,+1%,159593041,False
 2026-09-10,16:09,2026-09-09,OPFI,Oppfi Inc.,Schwartz Todd G.,"CEO, 10%",P - Purchase,7.59,3450,27540410,0%,26190,False
 2026-09-10,16:05,2026-09-08,GRCE,"Grace Therapeutics, Inc.",Opaleye Management Inc.,10%,P - Purchase,2.09,15229,2775229,+1%,31896,True
+2026-09-11,09:24,2026-09-10,KMT,Kennametal Inc,Chowbey Sanjay,"Pres, CEO",P - Purchase,29.10,7000,246839,+3%,203700,True
+2026-09-11,09:04,2026-09-08,CYBN,Cybin Inc.,Glavine Paul,Chief Growth Officer,P - Purchase,12.47,100000,4502193,+2%,1247190,True
+2026-09-11,09:01,2026-09-08,CYBN,Cybin Inc.,So Eric H. L.,Exec Chair,P - Purchase,12.39,100000,4518630,+2%,1238670,True
+2026-09-11,08:59,2026-09-09,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,19.13,23469,19084377,0%,448912,False
+2026-09-11,07:30,2026-09-09,CLIK,Click Holdings Ltd.,Chan Chun Sing,"CEO, 10%",P - Purchase,1.03,48200,4654200,+1%,49869,False
+2026-09-11,07:30,2026-09-09,RLMD,"Relmada Therapeutics, Inc.",Shenouda Maged,CFO,P - Purchase,4.22,200000,1000000,+25%,843990,True
+2026-09-11,07:30,2026-09-09,RLMD,"Relmada Therapeutics, Inc.",Traversa Sergio,CEO,P - Purchase,4.14,200000,1500000,+15%,828000,True
+2026-09-10,19:13,2026-09-10,UPST,"Upstart Holdings, Inc.",Gu Paul,CEO,P - Purchase,25.55,50000,1347546,+4%,1277500,False
+2026-09-10,18:30,2026-09-08,QVCG,"Qvc Group, Inc.",Goldentree Asset Management LP,10%,P - Purchase,16.25,1600000,10991951,+17%,26000000,False
