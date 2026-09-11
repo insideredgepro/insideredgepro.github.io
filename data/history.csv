@@ -10104,7 +10104,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-02,10:18,2026-08-31,WIX,Wix.Com Ltd.,Abrahami Avishai,CEO,P - Purchase,59.89,709,1148106,0%,42462,True
 2026-09-02,09:38,2026-08-31,VST,Vistra Corp.,Burke James A,"Pres, CEO",P - Purchase,135.49,6665,1242301,+1%,903069,False
 2026-09-02,09:37,2026-09-01,ALRS,Alerus Financial Corp,Bolton Jeffrey,Dir,P - Purchase,32.45,1000,15163,+7%,32450,False
-2026-09-02,09:19,2026-09-01,PNFP,"Pinnacle Financial Partners, Inc.",Blair Kevin S.,CEO,P - Purchase,97.48,2565,152397,+2%,250036,False
+2026-09-02,09:19,2026-09-01,PNFP,"Pinnacle Financial Partners, Inc.",Blair Kevin S.,CEO,P - Purchase,97.48,2565,152397,+2%,250036,True
 2026-09-02,09:00,2026-09-01,EMPD,Empery Digital Inc.,"Empery Asset Management, LP",10%,P - Purchase,3.59,500000,4930345,+11%,1793100,False
 2026-09-02,08:17,2026-08-31,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,19.17,19257,19024945,0%,369199,False
 2026-09-02,08:01,2026-05-28,NIVF,Newgenivf Group Ltd,Cheung Kong Yiu,"Dir, 10%",P - Purchase,1.12,3722223,3722223,New,4163335,True
@@ -10483,3 +10483,15 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-11,07:30,2026-09-09,RLMD,"Relmada Therapeutics, Inc.",Traversa Sergio,CEO,P - Purchase,4.14,200000,1500000,+15%,828000,True
 2026-09-10,19:13,2026-09-10,UPST,"Upstart Holdings, Inc.",Gu Paul,CEO,P - Purchase,25.55,50000,1347546,+4%,1277500,False
 2026-09-10,18:30,2026-09-08,QVCG,"Qvc Group, Inc.",Goldentree Asset Management LP,10%,P - Purchase,16.25,1600000,10991951,+17%,26000000,False
+2026-09-11,17:14,2026-09-11,GLOO,"Gloo Holdings, Inc.",Gelsinger Patrick P,See Remarks,P - Purchase,3.34,50000,365499,+16%,166875,False
+2026-09-11,17:05,2026-09-10,GREE,Vulcan Infrastructure & Power Inc.,Rogers George Ted III,Dir,P - Purchase,1.71,2923976,3055467,>999%,4999999,False
+2026-09-11,17:01,2026-09-10,OPFI,Oppfi Inc.,Schwartz Todd G.,"CEO, 10%",P - Purchase,7.56,3350,27543760,0%,25314,False
+2026-09-11,16:15,2026-09-09,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,33.78,136466,122125993,0%,4609644,False
+2026-09-11,16:10,2026-09-09,USLM,United States Lime & Minerals Inc,Candou Holdings Ltd.,10%,P - Purchase,110.00,20000,17673780,0%,2200000,False
+2026-09-11,16:09,2026-09-10,PNFP,"Pinnacle Financial Partners, Inc.",Montana Gregory G,Dir,P - Purchase,98.61,500,4959,+11%,49305,True
+2026-09-11,16:09,2026-09-09,ANGX,"Angel Studios, Inc.",Sarowitz Steven I,Dir,P - Purchase,5.19,488637,1240841,+65%,2536403,False
+2026-09-11,16:08,2026-09-09,GPI,Group 1 Automotive Inc,"Conifer Management, L.L.C.",10%,P - Purchase,281.78,84000,1446640,+6%,23669114,False
+2026-09-11,16:05,2026-09-10,FGBI,"First Guaranty Bancshares, Inc.",Walker Robert W,Dir,P - Purchase,10.91,8500,70323,+14%,92730,False
+2026-09-11,15:10,2026-09-09,RGCO,Rgc Resources Inc,Williamson John B III,Dir,P - Purchase,21.33,1309,179319,+1%,27914,False
+2026-09-11,14:32,2026-09-09,MO,"Altria Group, Inc.",McQuade Kathryn B.,Dir,P - Purchase,67.62,1500,114929,+1%,101430,False
+2026-09-11,14:13,2026-09-08,TNON,"Tenon Medical, Inc.",Hrt Financial LP,10%,P - Purchase,3.54,108140,15839,-117%,382985,False
