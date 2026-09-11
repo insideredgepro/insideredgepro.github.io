@@ -10394,7 +10394,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-09,17:47,2026-09-01,CYBN,Cybin Inc.,So Eric H. L.,Exec Chair,P - Purchase,11.81,95000,4318630,+2%,1121475,True
 2026-09-09,17:42,2026-08-27,GWAV,"Greenwave Technology Solutions, Inc.",Meeks Danny,"CEO, 10%",P - Purchase,3.72,2152853,2188354,>999%,8000002,False
 2026-09-09,21:39,2026-09-04,ALMS,Alumis Inc.,Akkaraju Srinivas,Dir,P - Purchase,10.87,986721,7239362,+16%,10726255,False
-2026-09-10,07:30,2026-09-09,GRCE,"Grace Therapeutics, Inc.",Kohli Prashant,CEO,P - Purchase,2.14,100000,121357,+468%,214000,False
+2026-09-10,07:30,2026-09-09,GRCE,"Grace Therapeutics, Inc.",Kohli Prashant,CEO,P - Purchase,2.14,100000,121357,+468%,214000,True
 2026-09-10,06:21,2026-09-04,CYBN,Cybin Inc.,So Eric H. L.,Exec Chair,P - Purchase,12.09,100000,4418630,+2%,1208900,True
 2026-09-10,06:19,2026-09-03,CYBN,Cybin Inc.,Glavine Paul,Chief Growth Officer,P - Purchase,11.78,100000,4402193,+2%,1178280,True
 2026-09-10,12:40,2026-09-10,UBER,"Uber Technologies, Inc",Khosrowshahi Dara,CEO,P - Purchase,70.96,141000,1367100,+11%,10005952,True
@@ -10460,3 +10460,17 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-10,18:30,2026-09-08,QQVCG,,Goldentree Asset Management Lp,10% Owner,P - Purchase,16.25,1600000,10991951,+17%,26000000,False
 2026-09-10,18:16,2026-09-08,GGBFH,,Voinovich Michael C,Director,P - Purchase,20.00,2500,85559,+3%,50000,False
 2026-09-10,18:15,2026-09-10,GGME,Invesco Next Gen Media and Gaming ETF,Attal Alain,Director,P - Purchase,20.00,5000,601464,+1%,100000,True
+2026-09-10,20:58,2026-09-10,ATEC,"Alphatec Holdings, Inc.",Miles Patrick,CEO,P - Purchase,8.81,115000,6154451,+2%,1013150,False
+2026-09-10,20:01,2026-09-10,PRTS,"Carparts.Com, Inc.",Huffaker Michael,COO,P - Purchase,10.06,13250,152810,+9%,133295,True
+2026-09-10,19:57,2026-09-10,PRTS,"Carparts.Com, Inc.",Meniane David,CEO,P - Purchase,10.06,13250,312664,+4%,133295,True
+2026-09-10,19:53,2026-09-09,RBA,Rb Global Inc.,Stein Deborah,Dir,P - Purchase,80.91,500,2325,+27%,40454,False
+2026-09-10,17:55,2026-09-10,GME,Gamestop Corp.,Cohen Ryan,"Pres, CEO, COB",P - Purchase,20.38,1000000,39347842,+3%,20375900,True
+2026-09-10,17:23,2026-09-10,AOMR,"Angel Oak Mortgage Reit, Inc.",Minami W D,Dir,P - Purchase,8.10,6800,87118,+8%,55080,False
+2026-09-10,17:03,2026-09-10,CELH,"Celsius Holdings, Inc.",Fieldly John,CEO,P - Purchase,27.44,18000,956063,+2%,493843,False
+2026-09-10,17:03,2026-09-08,CLPR,Clipper Realty Inc.,Levinson Sam,"Dir, 10%",P - Purchase,3.30,117552,9359473,+1%,388131,False
+2026-09-10,16:43,2026-09-08,PNBK,Patriot National Bancorp Inc,De Tomasi Mario,Dir,P - Purchase,0.96,63000,272941,+30%,60480,False
+2026-09-10,16:22,2026-09-09,SLNG,"Stabilis Solutions, Inc.",Kuntz Edward L,Dir,P - Purchase,5.41,5000,74839,+7%,27050,False
+2026-09-10,16:15,2026-09-08,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,11.13,13276,989513,+1%,147736,False
+2026-09-10,16:15,2026-09-08,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10%,P - Purchase,221.41,720804,116477634,+1%,159593041,False
+2026-09-10,16:09,2026-09-09,OPFI,Oppfi Inc.,Schwartz Todd G.,"CEO, 10%",P - Purchase,7.59,3450,27540410,0%,26190,False
+2026-09-10,16:05,2026-09-08,GRCE,"Grace Therapeutics, Inc.",Opaleye Management Inc.,10%,P - Purchase,2.09,15229,2775229,+1%,31896,True
