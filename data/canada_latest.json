@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-11T03:45:25Z",
-  "trade_count": 3744,
+  "last_updated": "2026-09-11T16:01:05Z",
+  "trade_count": 3746,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -57453,6 +57453,38 @@
       "qty": "52000",
       "price": "0.7400",
       "value": "38480",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4776635",
+      "trade_date": "2026-09-11",
+      "filing_date": "2026-09-11",
+      "company": "Lithium Ionic Corp.",
+      "ticker": "LTH",
+      "insider_name": "Westendorf, Michael Thomas",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "45490",
+      "price": "0.6600",
+      "value": "30023",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4776618",
+      "trade_date": "2026-09-11",
+      "filing_date": "2026-09-11",
+      "company": "Tourmaline Oil Corp.",
+      "ticker": "TOU",
+      "insider_name": "Rose, Mike",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "5000",
+      "price": "61.4548",
+      "value": "307274",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
