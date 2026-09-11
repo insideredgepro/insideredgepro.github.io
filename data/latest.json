@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-11T21:28:14Z",
-  "trade_count": 10489,
+  "last_updated": "2026-09-11T23:43:18Z",
+  "trade_count": 10490,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -167824,6 +167824,22 @@
       "owned": "15839",
       "delta_own": "-117%",
       "value": "382985",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-11",
+      "filing_time": "19:18",
+      "trade_date": "2026-09-11",
+      "ticker": "PVH",
+      "company": "Pvh Corp. /De/",
+      "insider_name": "Larsson Stefan",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "70.53",
+      "qty": "14179",
+      "owned": "349889",
+      "delta_own": "+4%",
+      "value": "1000001",
       "cluster_buy": false
     }
   ]
