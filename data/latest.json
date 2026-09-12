@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-11T23:43:18Z",
-  "trade_count": 10490,
+  "last_updated": "2026-09-12T12:40:38Z",
+  "trade_count": 10491,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -167841,6 +167841,22 @@
       "delta_own": "+4%",
       "value": "1000001",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-11",
+      "filing_time": "21:59",
+      "trade_date": "2026-09-09",
+      "ticker": "GPUS",
+      "company": "Hyperscale Data, Inc.",
+      "insider_name": "Ault Milton C III",
+      "title": "Exec COB, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.19",
+      "qty": "178300",
+      "owned": "3471841",
+      "delta_own": "+5%",
+      "value": "33652",
+      "cluster_buy": true
     }
   ]
 }
