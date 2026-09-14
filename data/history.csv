@@ -9964,7 +9964,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-26,16:15,2026-08-25,BRTMU,B&R Technology Merger Corp.,B&R Technology Sponsor LLC (Cayman),10%,P - Purchase,10.00,52500,740000,+8%,525000,False
 2026-08-26,16:15,2026-08-24,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10%,P - Purchase,222.43,571116,113375027,+1%,127030343,False
 2026-08-26,16:12,2026-08-25,FCCO,First Community Corp /Sc/,Sosebee Jane S,Dir,P - Purchase,33.95,1250,10950,+13%,42431,False
-2026-08-26,16:06,2026-08-24,JUSH,Jushi Holdings Inc.,Cacioppo James,"CEO, 10%",P - Purchase,0.48,706112,15624577,+5%,342154,False
+2026-08-26,16:06,2026-08-24,JUSH,Jushi Holdings Inc.,Cacioppo James,"CEO, 10%",P - Purchase,0.48,706112,15624577,+5%,342154,True
 2026-08-26,16:03,2026-08-25,OPFI,Oppfi Inc.,Schwartz Todd G.,"CEO, 10%",P - Purchase,7.25,3475,27505335,0%,25205,False
 2026-08-26,15:57,2026-08-26,EMYB,"Embassy Bancorp, Inc.",Lesavoy Bernard M,Dir,P - Purchase,22.29,1446,220832,+1%,32234,True
 2026-08-26,15:15,2026-08-25,FGL,Founder Group Ltd,Hrt Financial LP,10%,P - Purchase,0.23,232055,278140,+504%,52212,False
@@ -10012,7 +10012,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-08-28,16:15,2026-08-27,AAT,"American Assets Trust, Inc.",Rady Ernest S,"Exec COB, 10%",P - Purchase,22.54,100000,14221764,+1%,2254000,False
 2026-08-28,16:12,2026-08-27,OPFI,Oppfi Inc.,Schwartz Todd G.,"CEO, 10%",P - Purchase,7.13,3550,27512385,0%,25312,False
 2026-08-28,16:08,2026-08-26,JMSB,"John Marshall Bancorp, Inc.",Kinney Jonathan Craig,Dir,P - Purchase,22.92,2357,615551,0%,54022,False
-2026-08-28,16:07,2026-08-26,JUSH,Jushi Holdings Inc.,Cacioppo James,"CEO, 10%",P - Purchase,0.49,994000,16618577,+6%,492000,False
+2026-08-28,16:07,2026-08-26,JUSH,Jushi Holdings Inc.,Cacioppo James,"CEO, 10%",P - Purchase,0.49,994000,16618577,+6%,492000,True
 2026-08-28,15:24,2026-08-26,REFI,"Chicago Atlantic Real Estate Finance, Inc.",Mazarakis John,Exec COB,P - Purchase,10.67,47711,563086,+9%,508940,True
 2026-08-28,15:00,2026-05-28,SIEB,Siebert Financial Corp,Gebbia Richard,Member of 10% owner group,P - Purchase,1.86,15000,20715003,0%,27900,False
 2026-08-28,14:53,2026-08-26,HWBK,"Hawthorn Bancshares, Inc.",Hettinger Shawna M.,Dir,P - Purchase,38.47,1300,5924,+28%,50000,False
@@ -10122,7 +10122,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-02,16:21,2026-09-01,OPAL,Opal Fuels Inc.,Comora Adam,Co-CEO,P - Purchase,1.93,50000,489626,+11%,96500,True
 2026-09-02,16:19,2026-08-31,OPAL,Opal Fuels Inc.,Nisar Nadeem,Dir,P - Purchase,1.95,20000,267785,+8%,38900,True
 2026-09-02,16:17,2026-08-27,RCT,Redcloud Holdings Plc,Senn Nikolaus Beat,"Dir, 10%",P - Purchase,0.25,2500000,10151524,+33%,625000,False
-2026-09-02,16:10,2026-08-31,JUSH,Jushi Holdings Inc.,Cacioppo James,"CEO, 10%",P - Purchase,0.52,319686,16938263,+2%,165272,False
+2026-09-02,16:10,2026-08-31,JUSH,Jushi Holdings Inc.,Cacioppo James,"CEO, 10%",P - Purchase,0.52,319686,16938263,+2%,165272,True
 2026-09-02,16:10,2026-09-02,MIR,"Mirion Technologies, Inc.",Schopfer Brian,CFO,P - Purchase,15.60,20000,1333225,+2%,312000,False
 2026-09-02,16:08,2019-06-26,SYK,Stryker Corp,Brainerd Mary K,Dir,P - Purchase,204.09,131,7921,+2%,26736,False
 2026-09-02,16:05,2026-08-31,ADC,Agree Realty Corp,Rakolta John Jr,Dir,P - Purchase,72.42,10000,632343,+2%,724200,False
@@ -10510,3 +10510,16 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-14,13:11,2026-09-11,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,19.23,54725,19139102,0%,1052415,False
 2026-09-14,12:11,2026-09-09,BLNE,"Beeline Holdings, Inc.",Liuzza Nicholas Reyland Jr,"CEO, 10%",P - Purchase,1.02,148890,5296798,+3%,152318,False
 2026-09-14,11:43,2026-09-11,GRNT,"Granite Ridge Resources, Inc.",Miller Matthew Reade,Dir,P - Purchase,5.03,10000,1974292,+1%,50300,True
+2026-09-14,19:33,2026-09-14,DVN,Devon Energy Corp/De,Gaspar Clay M,"Pres, CEO",P - Purchase,51.08,3913,999616,0%,199876,False
+2026-09-14,19:12,2026-09-08,GPUS,"Hyperscale Data, Inc.",Ault Milton C III,"Exec COB, 10%",P - Purchase,0.19,258500,3552041,+8%,48810,True
+2026-09-14,18:58,2026-09-10,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10%,P - Purchase,222.63,580810,117058444,0%,129305617,False
+2026-09-14,18:42,2025-03-03,CZR,"Caesars Entertainment, Inc.",Tomick David P,Dir,P - Purchase,33.36,1850,43192,+4%,61716,True
+2026-09-14,18:30,2026-09-11,FBDT,"First Breach, Inc.",Low Jordan Zachary,"Pres, COO",P - Purchase,0.67,140000,5762400,+2%,94164,False
+2026-09-14,17:23,2026-09-10,SLGL,Sol-Gel Technologies Ltd.,Opaleye Management Inc.,10%,P - Purchase,66.39,3124,555000,+1%,207399,False
+2026-09-14,17:21,2026-09-10,CROX,"Crocs, Inc.",Smach Thomas J,Dir,P - Purchase,109.38,4000,211728,+2%,437530,False
+2026-09-14,17:05,2026-09-10,DFH,"Dream Finders Homes, Inc.",Beckwitt Richard,Dir,P - Purchase,12.07,10000,100000,+11%,120700,False
+2026-09-14,16:39,2026-09-14,ALTO,"Alto Ingredients, Inc.",Nathan Gilbert E,Dir,P - Purchase,3.93,10000,897593,+1%,39299,False
+2026-09-14,16:14,2026-09-11,ANGX,"Angel Studios, Inc.",Sarowitz Steven I,Dir,P - Purchase,5.33,88647,1329488,+7%,472604,False
+2026-09-14,16:06,2026-09-03,JUSH,Jushi Holdings Inc.,Arsenault Denis J.,10%,P - Purchase,0.59,133134,7811033,+2%,79002,True
+2026-09-14,16:05,2026-09-10,SDHC,Smith Douglas Homes Corp.,Bradbury Thomas L,"Dir, 10%",P - Purchase,10.31,19360,78278,+33%,199522,False
+2026-09-14,16:05,2026-09-10,AMH,American Homes 4 Rent,Corrigan Jack E,Dir,P - Purchase,21.51,9000,75000,+14%,193559,False
