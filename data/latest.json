@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T15:28:26Z",
-  "trade_count": 10499,
+  "last_updated": "2026-09-14T20:04:55Z",
+  "trade_count": 10504,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -167985,6 +167985,86 @@
       "delta_own": "0%",
       "value": "135620",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-14",
+      "filing_time": "16:00",
+      "trade_date": "2026-09-10",
+      "ticker": "ECVT",
+      "company": "Ecovyst Inc.",
+      "insider_name": "Humble Patti A.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "10.05",
+      "qty": "24875",
+      "owned": "33974",
+      "delta_own": "+273%",
+      "value": "249994",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-14",
+      "filing_time": "15:08",
+      "trade_date": "2026-09-14",
+      "ticker": "OFLX",
+      "company": "Omega Flex, Inc.",
+      "insider_name": "Unger Matthew Francis",
+      "title": "VP - CFO",
+      "trade_type": "P - Purchase",
+      "price": "25.42",
+      "qty": "1000",
+      "owned": "1000",
+      "delta_own": "New",
+      "value": "25420",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-14",
+      "filing_time": "13:11",
+      "trade_date": "2026-09-11",
+      "ticker": "DGICA",
+      "company": "Donegal Group Inc",
+      "insider_name": "Donegal Mutual Insurance Co",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "19.23",
+      "qty": "54725",
+      "owned": "19139102",
+      "delta_own": "0%",
+      "value": "1052415",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-14",
+      "filing_time": "12:11",
+      "trade_date": "2026-09-09",
+      "ticker": "BLNE",
+      "company": "Beeline Holdings, Inc.",
+      "insider_name": "Liuzza Nicholas Reyland Jr",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.02",
+      "qty": "148890",
+      "owned": "5296798",
+      "delta_own": "+3%",
+      "value": "152318",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-14",
+      "filing_time": "11:43",
+      "trade_date": "2026-09-11",
+      "ticker": "GRNT",
+      "company": "Granite Ridge Resources, Inc.",
+      "insider_name": "Miller Matthew Reade",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "5.03",
+      "qty": "10000",
+      "owned": "1974292",
+      "delta_own": "+1%",
+      "value": "50300",
+      "cluster_buy": true
     }
   ]
 }
