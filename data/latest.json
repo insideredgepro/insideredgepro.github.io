@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-15T14:01:57Z",
-  "trade_count": 10527,
+  "last_updated": "2026-09-15T18:36:28Z",
+  "trade_count": 10530,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -168432,6 +168432,54 @@
       "owned": "1259221",
       "delta_own": "+6%",
       "value": "100010",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-15",
+      "filing_time": "14:24",
+      "trade_date": "2026-09-15",
+      "ticker": "RWT",
+      "company": "Redwood Trust Inc",
+      "insider_name": "Kubicek Greg H",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.85",
+      "qty": "50000",
+      "owned": "158368",
+      "delta_own": "+46%",
+      "value": "192560",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-15",
+      "filing_time": "13:50",
+      "trade_date": "2026-09-15",
+      "ticker": "RWT",
+      "company": "Redwood Trust Inc",
+      "insider_name": "Abate Christopher J",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.84",
+      "qty": "100000",
+      "owned": "679283",
+      "delta_own": "+17%",
+      "value": "383900",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-15",
+      "filing_time": "13:16",
+      "trade_date": "2026-09-15",
+      "ticker": "RWT",
+      "company": "Redwood Trust Inc",
+      "insider_name": "Carillo Brooke",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "3.85",
+      "qty": "26065",
+      "owned": "140481",
+      "delta_own": "+23%",
+      "value": "100238",
       "cluster_buy": true
     }
   ]
