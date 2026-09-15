@@ -10498,7 +10498,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-11,19:18,2026-09-11,PVH,Pvh Corp. /De/,Larsson Stefan,CEO,P - Purchase,70.53,14179,349889,+4%,1000001,False
 2026-09-11,21:59,2026-09-09,GPUS,"Hyperscale Data, Inc.",Ault Milton C III,"Exec COB, 10%",P - Purchase,0.19,178300,3471841,+5%,33652,True
 2026-09-14,09:15,2026-09-10,ANIX,Anixa Biosciences Inc,Titterton Lewis H Jr,Dir,P - Purchase,2.73,10000,996967,+1%,27300,False
-2026-09-14,09:03,2026-09-10,MAIA,"Maia Biotechnology, Inc.",Guerrero Ramiro,Dir,P - Purchase,1.32,37595,773296,+5%,49516,False
+2026-09-14,09:03,2026-09-10,MAIA,"Maia Biotechnology, Inc.",Guerrero Ramiro,Dir,P - Purchase,1.32,37595,773296,+5%,49516,True
 2026-09-14,08:49,2026-09-11,HLMN,Hillman Solutions Corp.,Kraft Robert O.,"CFO, Treasurer",P - Purchase,7.00,35500,697090,+5%,248500,False
 2026-09-14,08:00,2026-09-10,DOMH,Dominari Holdings Inc.,Hayes Anthony,CEO,P - Purchase,2.09,100000,4600873,+2%,209190,True
 2026-09-14,08:00,2026-09-10,DOMH,Dominari Holdings Inc.,Wool Kyle Michael,Pres,P - Purchase,2.09,100000,4311828,+2%,209190,True
@@ -10529,3 +10529,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-14,19:45,2026-09-14,PMTS,Cpi Card Group Inc.,Riley H Sanford,Non-Executive Chairman,P - Purchase,21.50,13953,282632,+5%,299990,True
 2026-09-14,19:42,2026-09-14,PMTS,Cpi Card Group Inc.,Peters Nicholas,Dir,P - Purchase,21.50,11628,59598,+24%,250002,True
 2026-09-14,19:37,2026-09-14,PMTS,Cpi Card Group Inc.,Sheinbaum Marc,Dir,P - Purchase,21.50,4651,26500,+21%,99997,True
+2026-09-15,08:56,2026-09-11,EOSE,"Eos Energy Enterprises, Inc.",Song Haiyan,Dir,P - Purchase,3.91,15000,15000,New,58700,False
+2026-09-15,08:46,2026-09-11,URG,Ur-Energy Inc,Walle Jade,VP FINANCE,P - Purchase,1.29,75581,327481,+30%,97499,False
+2026-09-15,08:00,2026-09-14,NNOX,Nano-X Imaging Ltd.,Suesskind Dan S,Dir,P - Purchase,0.76,60000,135336,+80%,45300,False
+2026-09-15,06:33,2026-09-14,MAIA,"Maia Biotechnology, Inc.",Vitoc Vlad,"CEO, 10%",P - Purchase,1.37,73000,1259221,+6%,100010,True

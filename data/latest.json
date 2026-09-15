@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-15T08:12:53Z",
-  "trade_count": 10523,
+  "last_updated": "2026-09-15T14:01:57Z",
+  "trade_count": 10527,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -167888,7 +167888,7 @@
       "owned": "773296",
       "delta_own": "+5%",
       "value": "49516",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-09-14",
@@ -168368,6 +168368,70 @@
       "owned": "26500",
       "delta_own": "+21%",
       "value": "99997",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-15",
+      "filing_time": "08:56",
+      "trade_date": "2026-09-11",
+      "ticker": "EOSE",
+      "company": "Eos Energy Enterprises, Inc.",
+      "insider_name": "Song Haiyan",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.91",
+      "qty": "15000",
+      "owned": "15000",
+      "delta_own": "New",
+      "value": "58700",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-15",
+      "filing_time": "08:46",
+      "trade_date": "2026-09-11",
+      "ticker": "URG",
+      "company": "Ur-Energy Inc",
+      "insider_name": "Walle Jade",
+      "title": "VP FINANCE",
+      "trade_type": "P - Purchase",
+      "price": "1.29",
+      "qty": "75581",
+      "owned": "327481",
+      "delta_own": "+30%",
+      "value": "97499",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-15",
+      "filing_time": "08:00",
+      "trade_date": "2026-09-14",
+      "ticker": "NNOX",
+      "company": "Nano-X Imaging Ltd.",
+      "insider_name": "Suesskind Dan S",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.76",
+      "qty": "60000",
+      "owned": "135336",
+      "delta_own": "+80%",
+      "value": "45300",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-15",
+      "filing_time": "06:33",
+      "trade_date": "2026-09-14",
+      "ticker": "MAIA",
+      "company": "Maia Biotechnology, Inc.",
+      "insider_name": "Vitoc Vlad",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.37",
+      "qty": "73000",
+      "owned": "1259221",
+      "delta_own": "+6%",
+      "value": "100010",
       "cluster_buy": true
     }
   ]
