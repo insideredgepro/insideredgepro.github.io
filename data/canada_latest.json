@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T22:01:18Z",
-  "trade_count": 3761,
+  "last_updated": "2026-09-15T03:45:29Z",
+  "trade_count": 3762,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -57728,6 +57728,22 @@
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": true
+    },
+    {
+      "transaction_id": "4777394",
+      "trade_date": "2026-09-14",
+      "filing_date": "2026-09-14",
+      "company": "Southern Energy Corp.",
+      "ticker": "SOU",
+      "insider_name": "Swanberg, Dean Sylvan",
+      "title": "10% Holder",
+      "security": "Common Shares",
+      "qty": "1000000",
+      "price": "0.0700",
+      "value": "70000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-14",
-  "entry_count": 308,
+  "entry_count": 309,
   "entries": [
     {
       "id": "CA|APGO|2026-07-16|bowering, andrew william|2.385",
@@ -10687,6 +10687,26 @@
         "2026-09-14": 9.52
       },
       "latest_price": 9.52,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-09-14"
+    },
+    {
+      "id": "CA|SOU|2026-09-14|swanberg, dean sylvan|0.07",
+      "market": "CA",
+      "ticker": "SOU",
+      "yf_symbol": "SOU.V",
+      "company": "Southern Energy Corp.",
+      "insider_name": "Swanberg, Dean Sylvan",
+      "title": "10% Holder",
+      "trade_date": "2026-09-14",
+      "trade_price": 0.07,
+      "value": 70000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-09-14": 0.07
+      },
+      "latest_price": 0.07,
       "return_pct": 0.0,
       "last_snapshot": "2026-09-14"
     }
