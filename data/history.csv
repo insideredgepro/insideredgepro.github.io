@@ -10389,7 +10389,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-09,18:43,2026-09-04,PRTS,"Carparts.Com, Inc.",Huffaker Michael,COO,P - Purchase,9.42,79458,139560,+132%,748462,True
 2026-09-09,18:43,2026-07-16,CVSI,"Cv Sciences, Inc.",Cheever Charlie E III,10%,P - Purchase,0.02,5740816,26648711,+27%,114816,False
 2026-09-09,18:40,2026-09-04,PRTS,"Carparts.Com, Inc.",Meniane David,CEO,P - Purchase,9.42,79539,299414,+36%,749239,True
-2026-09-09,18:20,2026-09-09,OXM,Oxford Industries Inc,Chubb Thomas Caldecot III,"CEO, Pres",P - Purchase,30.93,3500,174666,+2%,108268,False
+2026-09-09,18:20,2026-09-09,OXM,Oxford Industries Inc,Chubb Thomas Caldecot III,"CEO, Pres",P - Purchase,30.93,3500,174666,+2%,108268,True
 2026-09-09,18:17,2026-09-09,GME,Gamestop Corp.,Grube James,Dir,P - Purchase,19.12,10255,39694,+35%,196076,True
 2026-09-09,17:47,2026-09-01,CYBN,Cybin Inc.,So Eric H. L.,Exec Chair,P - Purchase,11.81,95000,4318630,+2%,1121475,True
 2026-09-09,17:42,2026-08-27,GWAV,"Greenwave Technology Solutions, Inc.",Meeks Danny,"CEO, 10%",P - Purchase,3.72,2152853,2188354,>999%,8000002,False
@@ -10466,7 +10466,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-10,19:53,2026-09-09,RBA,Rb Global Inc.,Stein Deborah,Dir,P - Purchase,80.91,500,2325,+27%,40454,False
 2026-09-10,17:55,2026-09-10,GME,Gamestop Corp.,Cohen Ryan,"Pres, CEO, COB",P - Purchase,20.38,1000000,39347842,+3%,20375900,True
 2026-09-10,17:23,2026-09-10,AOMR,"Angel Oak Mortgage Reit, Inc.",Minami W D,Dir,P - Purchase,8.10,6800,87118,+8%,55080,False
-2026-09-10,17:03,2026-09-10,CELH,"Celsius Holdings, Inc.",Fieldly John,CEO,P - Purchase,27.44,18000,956063,+2%,493843,False
+2026-09-10,17:03,2026-09-10,CELH,"Celsius Holdings, Inc.",Fieldly John,CEO,P - Purchase,27.44,18000,956063,+2%,493843,True
 2026-09-10,17:03,2026-09-08,CLPR,Clipper Realty Inc.,Levinson Sam,"Dir, 10%",P - Purchase,3.30,117552,9359473,+1%,388131,False
 2026-09-10,16:43,2026-09-08,PNBK,Patriot National Bancorp Inc,De Tomasi Mario,Dir,P - Purchase,0.96,63000,272941,+30%,60480,False
 2026-09-10,16:22,2026-09-09,SLNG,"Stabilis Solutions, Inc.",Kuntz Edward L,Dir,P - Purchase,5.41,5000,74839,+7%,27050,False
@@ -10536,3 +10536,22 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-15,14:24,2026-09-15,RWT,Redwood Trust Inc,Kubicek Greg H,Dir,P - Purchase,3.85,50000,158368,+46%,192560,True
 2026-09-15,13:50,2026-09-15,RWT,Redwood Trust Inc,Abate Christopher J,CEO,P - Purchase,3.84,100000,679283,+17%,383900,True
 2026-09-15,13:16,2026-09-15,RWT,Redwood Trust Inc,Carillo Brooke,CFO,P - Purchase,3.85,26065,140481,+23%,100238,True
+2026-09-15,17:07,2025-07-24,CARL,"Carlsmed, Inc.","Presidio Management Group Xii, L.L.C.",10%,P - Purchase,15.00,200000,200000,New,3000000,True
+2026-09-15,16:56,2026-09-11,COO,"Cooper Companies, Inc.",Rosebrough Walter M Jr,Dir,P - Purchase,54.16,10000,20832,+92%,541640,True
+2026-09-15,16:53,2026-09-14,COO,"Cooper Companies, Inc.",Kurzius Lawrence Erik,Dir,P - Purchase,53.92,10000,21099,+90%,539150,True
+2026-09-15,16:46,2026-09-11,COO,"Cooper Companies, Inc.",Keel Paul A,Dir,P - Purchase,53.18,4701,4701,New,250000,True
+2026-09-15,16:44,2026-09-11,ARE,"Alexandria Real Estate Equities, Inc.",Marcus Joel S,Exec COB,P - Purchase,49.68,5000,597724,+1%,248400,False
+2026-09-15,16:41,2026-05-18,CSAN,Cosan S.A.,Cordes Burkhard Otto,Dir,P - Purchase,4.38,159000,2408942,+7%,696030,True
+2026-09-15,16:40,2026-09-11,EVRG,"Evergy, Inc.",Rolph Jonathan D,Dir,P - Purchase,81.47,1640,1810,+965%,133611,False
+2026-09-15,16:30,2026-09-14,NAMS,Newamsterdam Pharma Co N.V.,Davidson Michael H.,CEO,P - Purchase,22.65,10000,1078638,+1%,226500,False
+2026-09-15,16:29,2026-09-14,GIII,G III Apparel Group Ltd /De/,Goldfarb Morris,CEO,P - Purchase,27.94,40000,5264349,+1%,1117600,False
+2026-09-15,16:25,2026-09-11,OPFI,Oppfi Inc.,Schwartz Todd G.,"CEO, 10%",P - Purchase,7.90,5240,27549000,0%,41405,False
+2026-09-15,16:24,2026-09-14,FCEL,Fuelcell Energy Inc,Livingston III Homer John,Dir,P - Purchase,15.05,16404,42747,+62%,246955,False
+2026-09-15,16:17,2026-09-15,OXM,Oxford Industries Inc,Grassmyer Scott,EVP,P - Purchase,29.73,1000,38636,+3%,29730,True
+2026-09-15,16:17,2026-09-14,CELH,"Celsius Holdings, Inc.",Desantis Damon,Dir,P - Purchase,27.78,36000,2728187,+1%,1000200,True
+2026-09-15,16:15,2026-09-11,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,11.46,16360,1005873,+2%,187486,False
+2026-09-15,16:15,2026-09-11,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,34.61,171144,122473437,0%,5923208,False
+2026-09-15,16:05,2026-09-11,VENU,Venu Holding Corp,Roth Jay W,"CEO, COB, 10%",P - Purchase,1.75,200000,10538633,+2%,350000,True
+2026-09-15,16:05,2026-09-11,VENU,Venu Holding Corp,Finke Thomas M,Dir,P - Purchase,1.75,200000,329605,+154%,350000,True
+2026-09-15,16:03,2026-08-27,PETV,"Petvivo Holdings, Inc.","A.L. Sarroff Fund, LLC",10%,P - Purchase,0.68,58602,20960800,0%,40022,False
+2026-09-15,15:45,2026-09-11,CSPI,Csp Inc /Ma/,Nerges Joseph R,10%,P - Purchase,7.84,4600,1423500,0%,36078,False
