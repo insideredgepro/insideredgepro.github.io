@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-15T21:50:36Z",
-  "trade_count": 10549,
+  "last_updated": "2026-09-15T23:52:27Z",
+  "trade_count": 10550,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -168784,6 +168784,22 @@
       "owned": "1423500",
       "delta_own": "0%",
       "value": "36078",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-15",
+      "filing_time": "19:21",
+      "trade_date": "2026-09-11",
+      "ticker": "LMB",
+      "company": "Limbach Holdings, Inc.",
+      "insider_name": "Horowitz Joshua",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "50.00",
+      "qty": "7820",
+      "owned": "215205",
+      "delta_own": "+4%",
+      "value": "391013",
       "cluster_buy": false
     }
   ]
