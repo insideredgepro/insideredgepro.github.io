@@ -10504,7 +10504,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-14,08:00,2026-09-10,DOMH,Dominari Holdings Inc.,Wool Kyle Michael,Pres,P - Purchase,2.09,100000,4311828,+2%,209190,True
 2026-09-14,07:27,2026-09-09,ALP,Alpha Compute Corp,Villani Fiorenzo,See Remarks,P - Purchase,5.07,7000,35971,+24%,35455,True
 2026-09-14,07:25,2026-09-09,ALP,Alpha Compute Corp,Kaiser Brittany,CEO,P - Purchase,5.35,9350,16766,+126%,49997,True
-2026-09-14,06:00,2026-09-11,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"CEO, Pres, 10%",P - Purchase,3.67,37000,7653140,0%,135620,False
+2026-09-14,06:00,2026-09-11,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"CEO, Pres, 10%",P - Purchase,3.67,37000,7653140,0%,135620,True
 2026-09-14,16:00,2026-09-10,ECVT,Ecovyst Inc.,Humble Patti A.,Dir,P - Purchase,10.05,24875,33974,+273%,249994,False
 2026-09-14,15:08,2026-09-14,OFLX,"Omega Flex, Inc.",Unger Matthew Francis,VP - CFO,P - Purchase,25.42,1000,1000,New,25420,False
 2026-09-14,13:11,2026-09-11,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,19.23,54725,19139102,0%,1052415,False
@@ -10556,3 +10556,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-15,16:03,2026-08-27,PETV,"Petvivo Holdings, Inc.","A.L. Sarroff Fund, LLC",10%,P - Purchase,0.68,58602,20960800,0%,40022,False
 2026-09-15,15:45,2026-09-11,CSPI,Csp Inc /Ma/,Nerges Joseph R,10%,P - Purchase,7.84,4600,1423500,0%,36078,False
 2026-09-15,19:21,2026-09-11,LMB,"Limbach Holdings, Inc.",Horowitz Joshua,Dir,P - Purchase,50.00,7820,215205,+4%,391013,False
+2026-09-15,21:55,2026-09-11,LCU,Lion Copper & Gold Corp.,Alford Tony L,"Dir, 10%",P - Purchase,4.90,11297,5351577,0%,55366,False
+2026-09-15,21:30,2026-09-11,FTK,Flotek Industries Inc/Cn/,Wilks Matthew,Dir,P - Purchase,26.01,1319493,1537285,+606%,34320013,False
+2026-09-15,20:48,2026-09-14,STI,Solidion Technology Inc.,Tjon Karin-Joyce,Dir,P - Purchase,7.20,5000,58053,+9%,36000,False
+2026-09-15,20:47,2026-09-14,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"CEO, Pres, 10%",P - Purchase,3.50,50000,7703140,+1%,174795,True
+2026-09-15,20:45,2026-09-11,NTHI,"Neonc Technologies Holdings, Inc.",Chen Thomas C,"CEO, 10%",P - Purchase,3.70,10798,4685586,0%,40000,True

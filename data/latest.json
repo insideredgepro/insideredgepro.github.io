@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-15T23:52:27Z",
-  "trade_count": 10550,
+  "last_updated": "2026-09-16T02:29:06Z",
+  "trade_count": 10555,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -167984,7 +167984,7 @@
       "owned": "7653140",
       "delta_own": "0%",
       "value": "135620",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-09-14",
@@ -168801,6 +168801,86 @@
       "delta_own": "+4%",
       "value": "391013",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-15",
+      "filing_time": "21:55",
+      "trade_date": "2026-09-11",
+      "ticker": "LCU",
+      "company": "Lion Copper & Gold Corp.",
+      "insider_name": "Alford Tony L",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "4.90",
+      "qty": "11297",
+      "owned": "5351577",
+      "delta_own": "0%",
+      "value": "55366",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-15",
+      "filing_time": "21:30",
+      "trade_date": "2026-09-11",
+      "ticker": "FTK",
+      "company": "Flotek Industries Inc/Cn/",
+      "insider_name": "Wilks Matthew",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "26.01",
+      "qty": "1319493",
+      "owned": "1537285",
+      "delta_own": "+606%",
+      "value": "34320013",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-15",
+      "filing_time": "20:48",
+      "trade_date": "2026-09-14",
+      "ticker": "STI",
+      "company": "Solidion Technology Inc.",
+      "insider_name": "Tjon Karin-Joyce",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "7.20",
+      "qty": "5000",
+      "owned": "58053",
+      "delta_own": "+9%",
+      "value": "36000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-15",
+      "filing_time": "20:47",
+      "trade_date": "2026-09-14",
+      "ticker": "NTHI",
+      "company": "Neonc Technologies Holdings, Inc.",
+      "insider_name": "Heshmatpour Amir F",
+      "title": "CEO, Pres, 10%",
+      "trade_type": "P - Purchase",
+      "price": "3.50",
+      "qty": "50000",
+      "owned": "7703140",
+      "delta_own": "+1%",
+      "value": "174795",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-15",
+      "filing_time": "20:45",
+      "trade_date": "2026-09-11",
+      "ticker": "NTHI",
+      "company": "Neonc Technologies Holdings, Inc.",
+      "insider_name": "Chen Thomas C",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "3.70",
+      "qty": "10798",
+      "owned": "4685586",
+      "delta_own": "0%",
+      "value": "40000",
+      "cluster_buy": true
     }
   ]
 }
