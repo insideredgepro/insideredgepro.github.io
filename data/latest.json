@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T08:06:23Z",
-  "trade_count": 10555,
+  "last_updated": "2026-09-16T13:56:00Z",
+  "trade_count": 10558,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -162384,7 +162384,7 @@
       "owned": "267270",
       "delta_own": "+5%",
       "value": "38475",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-09-04",
@@ -168880,6 +168880,54 @@
       "owned": "4685586",
       "delta_own": "0%",
       "value": "40000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-16",
+      "filing_time": "09:00",
+      "trade_date": "2026-09-15",
+      "ticker": "CELH",
+      "company": "Celsius Holdings, Inc.",
+      "insider_name": "Kravitz Hal",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "28.00",
+      "qty": "12000",
+      "owned": "239158",
+      "delta_own": "+5%",
+      "value": "336000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-16",
+      "filing_time": "08:47",
+      "trade_date": "2026-09-14",
+      "ticker": "AVBC",
+      "company": "Avidia Bancorp, Inc.",
+      "insider_name": "Murphy Michael Dennis",
+      "title": "Chairman of the Board",
+      "trade_type": "P - Purchase",
+      "price": "22.12",
+      "qty": "5000",
+      "owned": "83080",
+      "delta_own": "+6%",
+      "value": "110600",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-16",
+      "filing_time": "06:14",
+      "trade_date": "2026-09-14",
+      "ticker": "BZUN",
+      "company": "Baozun Inc.",
+      "insider_name": "Qiu Wenbin",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.73",
+      "qty": "14600",
+      "owned": "1638472",
+      "delta_own": "+1%",
+      "value": "39858",
       "cluster_buy": true
     }
   ]
