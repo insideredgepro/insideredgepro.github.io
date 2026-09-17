@@ -10601,7 +10601,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-16,16:52,2026-09-14,HCAT,"Health Catalyst, Inc.",Kohl Simeon,CEO,P - Purchase,1.79,59000,2856385,+2%,105439,False
 2026-09-16,16:45,2026-09-14,CLPR,Clipper Realty Inc.,Levinson Sam,"Dir, 10%",P - Purchase,3.29,9084,9368557,0%,29879,False
 2026-09-16,21:41,2026-09-15,WULF,Terawulf Inc.,Bucella Michael C.,Dir,P - Purchase,14.79,6085,350789,+2%,89967,False
-2026-09-16,21:16,2026-09-14,MNR,Mach Natural Resources LP,Ward Tom L.,"See Remarks, 10%",P - Purchase,11.60,172413,28353502,+1%,1999991,False
+2026-09-16,21:16,2026-09-14,MNR,Mach Natural Resources LP,Ward Tom L.,"See Remarks, 10%",P - Purchase,11.60,172413,28353502,+1%,1999991,True
 2026-09-16,21:06,2026-09-14,FLNT,"Fluent, Inc.",Global Value Investment Corp.,10%,P - Purchase,3.38,12376,3238877,0%,41831,True
 2026-09-16,21:06,2026-09-14,FLNT,"Fluent, Inc.",Geygan James,"Dir, 10%",P - Purchase,3.38,12376,3238877,0%,41831,True
 2026-09-17,08:51,2026-09-16,BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,4.30,1000000,30467808,+3%,4299500,False
@@ -10630,3 +10630,13 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-17,15:56,2026-09-16,EML,Eastern Co,Everets John,Dir,P - Purchase,25.25,1037,143541,+1%,26184,True
 2026-09-17,15:52,2026-09-16,EML,Eastern Co,Galbato Chan,Dir,P - Purchase,25.25,1217,5384,+29%,30729,True
 2026-09-17,14:28,2026-09-16,USO,"United States Oil Fund, LP",Hrt Financial LP,10%,P - Purchase,155.30,43638,128543,+51%,6776820,False
+2026-09-17,18:45,2026-09-15,XBP,"Xbp Global Holdings, Inc.",Chadha Par,Dir,P - Purchase,2.83,204946,3180389,+7%,579997,True
+2026-09-17,18:43,2026-09-15,XBP,"Xbp Global Holdings, Inc.",Jonovic Andrej,CEO,P - Purchase,2.83,31500,244700,+15%,89145,True
+2026-09-17,18:25,2026-09-14,ALP,Alpha Compute Corp,Villani Fiorenzo,See Remarks,P - Purchase,4.11,26547,62538,+74%,108987,True
+2026-09-17,17:46,2026-09-16,INBX,"Inhibrx Biosciences, Inc.",Kayyem Jon Faiz,Dir,P - Purchase,100.00,5000,1069046,0%,500000,True
+2026-09-17,17:11,2026-09-15,MNR,Mach Natural Resources LP,McMullen William Wallace,"See Remarks, 10%",P - Purchase,11.27,34514,74894431,0%,388902,True
+2026-09-17,16:59,2026-09-15,SKIL,Skillsoft Corp.,Hovsepian Ronald W,"CEO, Exec Chair",P - Purchase,5.57,5929,347278,+2%,33003,True
+2026-09-17,16:57,2026-09-15,SKIL,Skillsoft Corp.,Frankola Jim,Dir,P - Purchase,5.14,25000,132736,+23%,128595,True
+2026-09-17,16:54,2026-09-16,BWMX,"Betterware De Mexico, S.A.P.I. De C.V",Chevallier Santiago Campos,MD Betterware Mexico,P - Purchase,16.46,15000,60000,+33%,246924,True
+2026-09-17,16:54,2026-09-15,BWMX,"Betterware De Mexico, S.A.P.I. De C.V",Campos Luis,"Chairman, 10%",P - Purchase,16.34,80000,20358497,0%,1307102,True
+2026-09-17,16:53,2026-09-15,BWMX,"Betterware De Mexico, S.A.P.I. De C.V",Chevallier Andres Campos,CEO,P - Purchase,16.44,45000,275000,+20%,739785,True
