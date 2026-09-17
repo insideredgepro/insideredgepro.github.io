@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-17T14:00:08Z",
-  "trade_count": 10604,
+  "last_updated": "2026-09-17T17:55:46Z",
+  "trade_count": 10608,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -169664,6 +169664,70 @@
       "owned": "281170",
       "delta_own": "+5%",
       "value": "37947",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-17",
+      "filing_time": "11:02",
+      "trade_date": "2026-09-15",
+      "ticker": "SBLK",
+      "company": "Star Bulk Carriers Corp.",
+      "insider_name": "Zagari Raffaele",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "28.27",
+      "qty": "60000",
+      "owned": "1990580",
+      "delta_own": "+3%",
+      "value": "1696200",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-17",
+      "filing_time": "10:39",
+      "trade_date": "2026-09-15",
+      "ticker": "SBLK",
+      "company": "Star Bulk Carriers Corp.",
+      "insider_name": "Plakantonaki Charis",
+      "title": "Chief Strategy Officer",
+      "trade_type": "P - Purchase",
+      "price": "28.27",
+      "qty": "3000",
+      "owned": "58778",
+      "delta_own": "+5%",
+      "value": "84810",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-17",
+      "filing_time": "10:14",
+      "trade_date": "2026-09-15",
+      "ticker": "SBLK",
+      "company": "Star Bulk Carriers Corp.",
+      "insider_name": "Pappa Milena Maria",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "28.27",
+      "qty": "74400",
+      "owned": "3170074",
+      "delta_own": "+2%",
+      "value": "2103288",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-17",
+      "filing_time": "10:04",
+      "trade_date": "2026-09-15",
+      "ticker": "SBLK",
+      "company": "Star Bulk Carriers Corp.",
+      "insider_name": "Pappas Alexandros",
+      "title": "Head of Operations",
+      "trade_type": "P - Purchase",
+      "price": "28.27",
+      "qty": "74400",
+      "owned": "2535150",
+      "delta_own": "+3%",
+      "value": "2103288",
       "cluster_buy": true
     }
   ]
