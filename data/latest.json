@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T23:25:54Z",
-  "trade_count": 10594,
+  "last_updated": "2026-09-17T02:32:40Z",
+  "trade_count": 10598,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -169505,6 +169505,70 @@
       "delta_own": "0%",
       "value": "29879",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-16",
+      "filing_time": "21:41",
+      "trade_date": "2026-09-15",
+      "ticker": "WULF",
+      "company": "Terawulf Inc.",
+      "insider_name": "Bucella Michael C.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "14.79",
+      "qty": "6085",
+      "owned": "350789",
+      "delta_own": "+2%",
+      "value": "89967",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-16",
+      "filing_time": "21:16",
+      "trade_date": "2026-09-14",
+      "ticker": "MNR",
+      "company": "Mach Natural Resources LP",
+      "insider_name": "Ward Tom L.",
+      "title": "See Remarks, 10%",
+      "trade_type": "P - Purchase",
+      "price": "11.60",
+      "qty": "172413",
+      "owned": "28353502",
+      "delta_own": "+1%",
+      "value": "1999991",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-16",
+      "filing_time": "21:06",
+      "trade_date": "2026-09-14",
+      "ticker": "FLNT",
+      "company": "Fluent, Inc.",
+      "insider_name": "Global Value Investment Corp.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "3.38",
+      "qty": "12376",
+      "owned": "3238877",
+      "delta_own": "0%",
+      "value": "41831",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-16",
+      "filing_time": "21:06",
+      "trade_date": "2026-09-14",
+      "ticker": "FLNT",
+      "company": "Fluent, Inc.",
+      "insider_name": "Geygan James",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "3.38",
+      "qty": "12376",
+      "owned": "3238877",
+      "delta_own": "0%",
+      "value": "41831",
+      "cluster_buy": true
     }
   ]
 }
