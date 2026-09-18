@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T07:47:48Z",
-  "trade_count": 10635,
+  "last_updated": "2026-09-18T12:32:36Z",
+  "trade_count": 10639,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -170160,6 +170160,70 @@
       "owned": "55274",
       "delta_own": ">999%",
       "value": "101760",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-18",
+      "filing_time": "08:29",
+      "trade_date": "2026-09-16",
+      "ticker": "KRMN",
+      "company": "Karman Holdings Inc.",
+      "insider_name": "Stinnett David",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "37.32",
+      "qty": "27000",
+      "owned": "3530395",
+      "delta_own": "+1%",
+      "value": "1007648",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-18",
+      "filing_time": "08:20",
+      "trade_date": "2026-09-17",
+      "ticker": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Troim Tor Olav",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.38",
+      "qty": "150000",
+      "owned": "30617808",
+      "delta_own": "0%",
+      "value": "656925",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-18",
+      "filing_time": "07:52",
+      "trade_date": "2026-09-17",
+      "ticker": "TFC",
+      "company": "Truist Financial Corp",
+      "insider_name": "Lyons Michael P.",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "48.36",
+      "qty": "21000",
+      "owned": "21000",
+      "delta_own": "New",
+      "value": "1015577",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-18",
+      "filing_time": "06:48",
+      "trade_date": "2026-09-16",
+      "ticker": "BZUN",
+      "company": "Baozun Inc.",
+      "insider_name": "Qiu Wenbin",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.79",
+      "qty": "14400",
+      "owned": "1652872",
+      "delta_own": "+1%",
+      "value": "40166",
       "cluster_buy": true
     }
   ]
