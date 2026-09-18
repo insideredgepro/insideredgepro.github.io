@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T12:32:36Z",
-  "trade_count": 10639,
+  "last_updated": "2026-09-18T16:50:43Z",
+  "trade_count": 10641,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -170225,6 +170225,38 @@
       "delta_own": "+1%",
       "value": "40166",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-18",
+      "filing_time": "10:35",
+      "trade_date": "2026-09-18",
+      "ticker": "THRY",
+      "company": "Thryv Holdings, Inc.",
+      "insider_name": "Walsh Joe",
+      "title": "COB, CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.80",
+      "qty": "25000",
+      "owned": "2413305",
+      "delta_own": "+1%",
+      "value": "45000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-18",
+      "filing_time": "08:43",
+      "trade_date": "2026-09-11",
+      "ticker": "ECOR",
+      "company": "Electrocore, Inc.",
+      "insider_name": "Fox Michael",
+      "title": "See Remarks",
+      "trade_type": "P - Purchase",
+      "price": "9.80",
+      "qty": "5000",
+      "owned": "130000",
+      "delta_own": "+4%",
+      "value": "49004",
+      "cluster_buy": false
     }
   ]
 }
