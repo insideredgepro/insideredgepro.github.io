@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-17T23:17:18Z",
-  "trade_count": 10634,
+  "last_updated": "2026-09-18T02:18:38Z",
+  "trade_count": 10635,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -164704,7 +164704,7 @@
       "owned": "6524151",
       "delta_own": "+16%",
       "value": "1604160",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-09-08",
@@ -170144,6 +170144,22 @@
       "owned": "275000",
       "delta_own": "+20%",
       "value": "739785",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-17",
+      "filing_time": "21:30",
+      "trade_date": "2026-09-16",
+      "ticker": "TENX",
+      "company": "Tenax Therapeutics, Inc.",
+      "insider_name": "Doogan Declan",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.92",
+      "qty": "53000",
+      "owned": "55274",
+      "delta_own": ">999%",
+      "value": "101760",
       "cluster_buy": true
     }
   ]
