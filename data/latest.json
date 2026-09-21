@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-21T15:30:55Z",
-  "trade_count": 10654,
+  "last_updated": "2026-09-21T20:13:32Z",
+  "trade_count": 10655,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -170464,6 +170464,22 @@
       "owned": "1737169",
       "delta_own": "+8%",
       "value": "101250",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-21",
+      "filing_time": "12:53",
+      "trade_date": "2026-09-17",
+      "ticker": "RTB",
+      "company": "Rtb Digital, Inc.",
+      "insider_name": "Dorsett Jason Christopher",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "10.36",
+      "qty": "19000",
+      "owned": "4193028",
+      "delta_own": "0%",
+      "value": "196840",
       "cluster_buy": false
     }
   ]
