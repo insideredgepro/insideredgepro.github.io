@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-21T08:23:36Z",
-  "trade_count": 10651,
+  "last_updated": "2026-09-21T15:30:55Z",
+  "trade_count": 10654,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -169584,7 +169584,7 @@
       "owned": "30467808",
       "delta_own": "+3%",
       "value": "4299500",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-09-17",
@@ -170192,7 +170192,7 @@
       "owned": "30617808",
       "delta_own": "0%",
       "value": "656925",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-09-18",
@@ -170416,6 +170416,54 @@
       "owned": "2926655",
       "delta_own": "+43%",
       "value": "4999996",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-21",
+      "filing_time": "11:12",
+      "trade_date": "2026-09-18",
+      "ticker": "CTRI",
+      "company": "Centuri Holdings, Inc.",
+      "insider_name": "Demaria Dustin",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "19.27",
+      "qty": "5200",
+      "owned": "12936",
+      "delta_own": "+67%",
+      "value": "100204",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-21",
+      "filing_time": "07:09",
+      "trade_date": "2026-09-18",
+      "ticker": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Morand De Oliveira Bruno",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "4.40",
+      "qty": "45500",
+      "owned": "1490328",
+      "delta_own": "+3%",
+      "value": "200200",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-21",
+      "filing_time": "07:05",
+      "trade_date": "2026-09-18",
+      "ticker": "EU",
+      "company": "Encore Energy Corp.",
+      "insider_name": "Sheriff William M",
+      "title": "Exec COB",
+      "trade_type": "P - Purchase",
+      "price": "0.81",
+      "qty": "125000",
+      "owned": "1737169",
+      "delta_own": "+8%",
+      "value": "101250",
       "cluster_buy": false
     }
   ]
