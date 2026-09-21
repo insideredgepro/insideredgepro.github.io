@@ -10514,7 +10514,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-14,19:12,2026-09-08,GPUS,"Hyperscale Data, Inc.",Ault Milton C III,"Exec COB, 10%",P - Purchase,0.19,258500,3552041,+8%,48810,True
 2026-09-14,18:58,2026-09-10,RSG,"Republic Services, Inc.","Cascade Investment, L.L.C.",10%,P - Purchase,222.63,580810,117058444,0%,129305617,False
 2026-09-14,18:42,2025-03-03,CZR,"Caesars Entertainment, Inc.",Tomick David P,Dir,P - Purchase,33.36,1850,43192,+4%,61716,True
-2026-09-14,18:30,2026-09-11,FBDT,"First Breach, Inc.",Low Jordan Zachary,"Pres, COO",P - Purchase,0.67,140000,5762400,+2%,94164,False
+2026-09-14,18:30,2026-09-11,FBDT,"First Breach, Inc.",Low Jordan Zachary,"Pres, COO",P - Purchase,0.67,140000,5762400,+2%,94164,True
 2026-09-14,17:23,2026-09-10,SLGL,Sol-Gel Technologies Ltd.,Opaleye Management Inc.,10%,P - Purchase,66.39,3124,555000,+1%,207399,False
 2026-09-14,17:21,2026-09-10,CROX,"Crocs, Inc.",Smach Thomas J,Dir,P - Purchase,109.38,4000,211728,+2%,437530,True
 2026-09-14,17:05,2026-09-10,DFH,"Dream Finders Homes, Inc.",Beckwitt Richard,Dir,P - Purchase,12.07,10000,100000,+11%,120700,False
@@ -10661,3 +10661,20 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-21,07:09,2026-09-18,BORR,Borr Drilling Ltd,Morand De Oliveira Bruno,CEO,P - Purchase,4.40,45500,1490328,+3%,200200,True
 2026-09-21,07:05,2026-09-18,EU,Encore Energy Corp.,Sheriff William M,Exec COB,P - Purchase,0.81,125000,1737169,+8%,101250,False
 2026-09-21,12:53,2026-09-17,RTB,"Rtb Digital, Inc.",Dorsett Jason Christopher,10%,P - Purchase,10.36,19000,4193028,0%,196840,False
+2026-09-21,18:48,2026-09-16,EPSN,Epsilon Energy Ltd.,Stabell Jason,CEO,P - Purchase,5.91,23104,1192138,+2%,136553,False
+2026-09-21,18:18,2026-09-18,CRM,"Salesforce, Inc.",Kirk David Blair,Dir,P - Purchase,239.33,4176,18748,+29%,999451,False
+2026-09-21,17:55,2026-09-17,GLP,Global Partners LP,Global Gp LLC,General Partner,P - Purchase,50.36,10000,171584,+6%,503550,False
+2026-09-21,17:37,2026-09-18,BBD,Bank Bradesco,Da Cunha Paulo Roberto Simoes,Dir,P - Purchase,17.98,46874,264605,+22%,842795,True
+2026-09-21,17:07,2026-09-21,CYBN,Cybin Inc.,Halstead Michael,CEO,P - Purchase,13.47,100000,168568,+146%,1347050,True
+2026-09-21,17:04,2026-09-21,GME,Gamestop Corp.,Cohen Ryan,"Pres, CEO, COB",P - Purchase,22.94,1150680,40498522,+3%,26393723,True
+2026-09-21,17:00,2026-09-18,FBDT,"First Breach, Inc.",Leith Charles Kenneth,Chief Revenue Officer,P - Purchase,0.91,50000,218506,+30%,45330,True
+2026-09-21,16:44,2026-09-18,GSAT,"Globalstar, Inc.",Monroe James III,"Dir, 10%",P - Purchase,82.52,361600,74419849,0%,29839232,False
+2026-09-21,16:34,2026-09-17,SKIL,Skillsoft Corp.,Hovsepian Ronald W,"CEO, Exec Chair",P - Purchase,6.46,15468,362746,+4%,99866,True
+2026-09-21,16:32,2026-09-17,GPI,Group 1 Automotive Inc,"Conifer Management, L.L.C.",10%,P - Purchase,256.78,65650,1512290,+5%,16857715,False
+2026-09-21,16:31,2026-09-17,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,35.20,174760,123475852,0%,6150731,False
+2026-09-21,16:31,2025-09-12,GHM,Graham Corp,Gregorio Mauro,Dir,P - Purchase,49.01,1200,1200,New,58812,False
+2026-09-21,16:26,2026-09-18,BBD,Bank Bradesco,De Oliveira Andre Luis Duarte,Exec Officer,P - Purchase,17.98,309111,553173,+127%,5557816,True
+2026-09-21,16:23,2026-09-18,PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,8.43,100000,1062500,+10%,843460,False
+2026-09-21,16:23,2026-09-18,BBD,Bank Bradesco,Panico Alexandre,Exec Officer,P - Purchase,17.98,43620,184984,+31%,784288,True
+2026-09-21,16:20,2026-09-18,BBD,Bank Bradesco,De Souza Cintia Scovine Barcelos,Exec Officer,P - Purchase,17.98,60093,275197,+28%,1080472,True
+2026-09-21,16:19,2026-09-18,BBD,Bank Bradesco,Pedras Carlos Henrique Villela,Exec Officer,P - Purchase,17.98,55850,163646,+52%,1004183,True
