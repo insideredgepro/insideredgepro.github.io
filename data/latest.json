@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T20:41:27Z",
-  "trade_count": 10707,
+  "last_updated": "2026-09-22T23:23:55Z",
+  "trade_count": 10710,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -171313,6 +171313,54 @@
       "delta_own": "0%",
       "value": "25510",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-22",
+      "filing_time": "16:46",
+      "trade_date": "2026-09-22",
+      "ticker": "BFRG",
+      "company": "Bullfrog Ai Holdings, Inc.",
+      "insider_name": "Blacher Joshua",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "0.53",
+      "qty": "50000",
+      "owned": "65000",
+      "delta_own": "+333%",
+      "value": "26425",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-22",
+      "filing_time": "16:45",
+      "trade_date": "2026-09-22",
+      "ticker": "BFRG",
+      "company": "Bullfrog Ai Holdings, Inc.",
+      "insider_name": "Singh Vininder",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.60",
+      "qty": "75000",
+      "owned": "2442446",
+      "delta_own": "+3%",
+      "value": "44918",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-22",
+      "filing_time": "16:40",
+      "trade_date": "2026-09-18",
+      "ticker": "SEZL",
+      "company": "Sezzle Inc.",
+      "insider_name": "Hunt Bryan Cecil",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "115.86",
+      "qty": "250",
+      "owned": "3985",
+      "delta_own": "+7%",
+      "value": "28965",
+      "cluster_buy": false
     }
   ]
 }
