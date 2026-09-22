@@ -10689,7 +10689,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-22,08:26,2026-09-18,BBD,Bank Bradesco,Alvarez Denise Aguiar,Dir,P - Purchase,17.98,130596,6002223,+2%,2348116,True
 2026-09-22,08:21,2026-09-18,BBD,Bank Bradesco,Pavarina Denise Pauli,Dir,P - Purchase,17.98,46874,412864,+13%,842795,True
 2026-09-22,08:00,2026-09-18,DUOT,"Duos Technologies Group, Inc.",Nixon James Craig,Dir,P - Purchase,8.55,5764,84523,+7%,49287,False
-2026-09-22,07:28,2026-09-22,VFF,"Village Farms International, Inc.",Degiglio Michael A,CEO,P - Purchase,2.89,35000,9730775,0%,101259,False
+2026-09-22,07:28,2026-09-22,VFF,"Village Farms International, Inc.",Degiglio Michael A,CEO,P - Purchase,2.89,35000,9730775,0%,101259,True
 2026-09-22,07:00,2026-09-14,ECOR,"Electrocore, Inc.",Errico Thomas J.,Dir,P - Purchase,9.82,5000,363904,+1%,49082,True
 2026-09-22,06:21,2026-09-18,BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,2.87,13900,1666772,+1%,39825,True
 2026-09-22,11:23,2026-09-18,BBD,Bank Bradesco,Caffarelli Paulo Rogerio,Dir,P - Purchase,17.98,31266,31266,New,562163,True
@@ -10704,3 +10704,12 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-22,10:15,2026-09-18,BBD,Bank Bradesco,Freiberger Fernando,Exec Officer,P - Purchase,17.98,49550,238935,+26%,890909,True
 2026-09-22,10:11,2026-09-18,BBD,Bank Bradesco,Ramalho Miranda Jose Augusto,Exec Officer,P - Purchase,17.98,63719,220933,+41%,1145668,True
 2026-09-22,10:02,2026-09-17,NYAX,Nayax Ltd.,Ben-Avi David,"CTO, Co Founder",P - Purchase,42.91,1014,6590148,0%,43511,False
+2026-09-22,16:30,2026-09-18,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,34.88,131333,123607185,0%,4581512,False
+2026-09-22,16:14,2026-09-15,NWPP,New Peoples Bankshares Inc,White Blaine Scott,"Dir, 10%",P - Purchase,4.85,5500,5661830,0%,26680,False
+2026-09-22,16:06,2026-09-21,FLNC,"Fluence Energy, Inc.",Bulls Herman E,Dir,P - Purchase,7.36,10000,169550,+6%,73600,True
+2026-09-22,16:05,2026-09-22,VFF,"Village Farms International, Inc.",Woodward Christopher C.,Dir,P - Purchase,3.06,10000,383953,+3%,30580,True
+2026-09-22,16:03,2026-09-21,FLNC,"Fluence Energy, Inc.",Von Heynitz Harald,Dir,P - Purchase,7.36,7000,65550,+12%,51520,True
+2026-09-22,16:00,2026-09-22,SAIC,Science Applications International Corp,Cush C. David,Dir,P - Purchase,132.50,1000,2220,+82%,132500,False
+2026-09-22,14:23,2026-09-18,BCBP,Bcb Bancorp Inc,Obrien Thomas M,CEO,P - Purchase,7.75,160000,869220,+23%,1240000,True
+2026-09-22,14:19,2026-09-18,BCBP,Bcb Bancorp Inc,Chaudhry Jawad,CFO,P - Purchase,7.75,10000,62500,+19%,77500,True
+2026-09-22,14:00,2026-09-22,BUKS,Butler National Corp,Daly Joseph Patrick,"Dir, 10%",P - Purchase,4.05,6303,8910000,0%,25510,True
