@@ -10646,7 +10646,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-18,07:52,2026-09-17,TFC,Truist Financial Corp,Lyons Michael P.,"Pres, CEO",P - Purchase,48.36,21000,21000,New,1015577,False
 2026-09-18,06:48,2026-09-16,BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,2.79,14400,1652872,+1%,40166,True
 2026-09-18,10:35,2026-09-18,THRY,"Thryv Holdings, Inc.",Walsh Joe,"COB, CEO",P - Purchase,1.80,25000,2413305,+1%,45000,False
-2026-09-18,08:43,2026-09-11,ECOR,"Electrocore, Inc.",Fox Michael,See Remarks,P - Purchase,9.80,5000,130000,+4%,49004,False
+2026-09-18,08:43,2026-09-11,ECOR,"Electrocore, Inc.",Fox Michael,See Remarks,P - Purchase,9.80,5000,130000,+4%,49004,True
 2026-09-18,17:34,2026-09-16,THM,International Tower Hill Mines Ltd,Wiens David Victor,CEO,P - Purchase,2.39,83682,684047,+14%,200000,False
 2026-09-18,17:29,2026-09-16,LILA,Liberty Latin America Ltd.,Malone John C,"Director Emeritus, 10%",P - Purchase,20.43,37082,3799728,+1%,757757,False
 2026-09-18,17:00,2026-08-27,ELOG,Eastern International Ltd.,Wong Albert,"CEO, 10%",P - Purchase,1.00,200000,200000,New,200000,False
@@ -10683,3 +10683,12 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-21,21:01,2026-09-21,GME,Gamestop Corp.,Attal Alain,Dir,P - Purchase,22.97,17500,618964,+3%,401958,True
 2026-09-21,20:41,2026-09-21,GRAB,Grab Holdings Ltd,Hungate Alexander Charles,"Pres, COO",P - Purchase,2.89,299571,6411550,+5%,866839,True
 2026-09-21,20:40,2026-09-21,GRAB,Grab Holdings Ltd,Tan Anthony Ping Yeow,CEO,P - Purchase,2.89,10350000,10778498,>999%,29876310,True
+2026-09-22,09:16,2026-09-18,BBD,Bank Bradesco,Nunes Regina Helena Jorge,Dir,P - Purchase,17.98,31266,31266,New,562163,True
+2026-09-22,09:07,2026-09-18,BBD,Bank Bradesco,Marcilio Juliano Ribeiro,Exec Officer,P - Purchase,17.98,60779,329067,+23%,1092806,True
+2026-09-22,08:50,2026-09-18,BBD,Bank Bradesco,Alvarez Rubens Aguiar,Dir,P - Purchase,17.98,46874,264605,+22%,842795,True
+2026-09-22,08:26,2026-09-18,BBD,Bank Bradesco,Alvarez Denise Aguiar,Dir,P - Purchase,17.98,130596,6002223,+2%,2348116,True
+2026-09-22,08:21,2026-09-18,BBD,Bank Bradesco,Pavarina Denise Pauli,Dir,P - Purchase,17.98,46874,412864,+13%,842795,True
+2026-09-22,08:00,2026-09-18,DUOT,"Duos Technologies Group, Inc.",Nixon James Craig,Dir,P - Purchase,8.55,5764,84523,+7%,49287,False
+2026-09-22,07:28,2026-09-22,VFF,"Village Farms International, Inc.",Degiglio Michael A,CEO,P - Purchase,2.89,35000,9730775,0%,101259,False
+2026-09-22,07:00,2026-09-14,ECOR,"Electrocore, Inc.",Errico Thomas J.,Dir,P - Purchase,9.82,5000,363904,+1%,49082,True
+2026-09-22,06:21,2026-09-18,BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,2.87,13900,1666772,+1%,39825,True
