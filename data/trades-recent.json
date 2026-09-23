@@ -374,6 +374,27 @@
     "scraped_at": "2026-03-03T06:07:47.231168"
   },
   {
+    "id": "20003802829",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Apple Inc",
+    "ticker": "AAPL:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-22",
+    "trade_published": "2026-09-23",
+    "filed_after_days": "",
+    "price": "$339.75",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: IRA One",
+    "scraped_at": "2026-09-23T22:10:02.948052+00:00"
+  },
+  {
     "id": "20003802803",
     "politician_name": "Peter Sessions",
     "party": "Republican",
@@ -392,7 +413,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-09-23T03:55:05.430893+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948212+00:00"
   },
   {
     "id": "20003802804",
@@ -413,7 +434,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET Invest",
-    "scraped_at": "2026-09-23T03:55:05.430911+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948219+00:00"
   },
   {
     "id": "20003802801",
@@ -434,7 +455,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-09-23T03:55:05.430929+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948224+00:00"
   },
   {
     "id": "20003802802",
@@ -455,7 +476,28 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-09-23T03:55:05.430951+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948229+00:00"
+  },
+  {
+    "id": "20003802828",
+    "politician_name": "Sheri Biggs",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "SC",
+    "company": "The Bank of Nova Scotia",
+    "ticker": "BNS:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-01",
+    "trade_published": "2026-09-23",
+    "filed_after_days": "21",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Spouse",
+    "comment": "Subholding Of: W.S.B Trust > Rockefeller Cap. Mgmt 3 Description: Structured investment product based on SPX.",
+    "scraped_at": "2026-09-23T22:10:02.948098+00:00"
   },
   {
     "id": "10000066866",
@@ -476,7 +518,28 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Dividend reinvestment",
-    "scraped_at": "2026-09-23T03:55:05.430872+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948207+00:00"
+  },
+  {
+    "id": "20003802825",
+    "politician_name": "Sheri Biggs",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "SC",
+    "company": "ALPHAKEYS BLACKSTONE LIFE SCIENCES VI LP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-08-31",
+    "trade_published": "2026-09-23",
+    "filed_after_days": "22",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: W.S.B Trust > UBS Financial Services 26 Description: Professionally managed account.",
+    "scraped_at": "2026-09-23T22:10:02.948076+00:00"
   },
   {
     "id": "20003802809",
@@ -497,7 +560,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.430630+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948141+00:00"
   },
   {
     "id": "20003802816",
@@ -518,7 +581,28 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.430747+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948178+00:00"
+  },
+  {
+    "id": "20003802826",
+    "politician_name": "Sheri Biggs",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "SC",
+    "company": "APOLLO DEBT SOLUTIONS BDC",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-08-28",
+    "trade_published": "2026-09-23",
+    "filed_after_days": "25",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: W.S.B Trust > UBS Financial Services 26 Description: Dividend reinvestment in a professionally managed account \u2013 Business Development Company.",
+    "scraped_at": "2026-09-23T22:10:02.948087+00:00"
   },
   {
     "id": "20003802718",
@@ -602,7 +686,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-09-23T03:55:05.431742+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948509+00:00"
   },
   {
     "id": "20003802760",
@@ -623,7 +707,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-09-23T03:55:05.431782+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948522+00:00"
   },
   {
     "id": "20003802763",
@@ -644,7 +728,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-09-23T03:55:05.431834+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948536+00:00"
   },
   {
     "id": "10000066857",
@@ -665,7 +749,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.431871+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948548+00:00"
   },
   {
     "id": "10000066852",
@@ -686,7 +770,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.431943+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948569+00:00"
   },
   {
     "id": "20003802720",
@@ -833,7 +917,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Fidelity Roth IRA",
-    "scraped_at": "2026-09-23T03:55:05.430974+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948234+00:00"
   },
   {
     "id": "20003802790",
@@ -854,7 +938,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity Roth IRA",
-    "scraped_at": "2026-09-23T03:55:05.430991+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948239+00:00"
   },
   {
     "id": "20003802796",
@@ -875,7 +959,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity Roth IRA Description: Lord Abbett Short Duration High Yield bond fund (LSYIX)",
-    "scraped_at": "2026-09-23T03:55:05.431090+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948270+00:00"
   },
   {
     "id": "20003802797",
@@ -896,7 +980,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity Roth IRA",
-    "scraped_at": "2026-09-23T03:55:05.431107+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948275+00:00"
   },
   {
     "id": "20003802798",
@@ -917,7 +1001,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Fidelity Roth IRA",
-    "scraped_at": "2026-09-23T03:55:05.431136+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948280+00:00"
   },
   {
     "id": "20003802799",
@@ -938,7 +1022,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Fidelity Roth IRA",
-    "scraped_at": "2026-09-23T03:55:05.431158+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948285+00:00"
   },
   {
     "id": "20003802800",
@@ -959,7 +1043,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity Roth IRA",
-    "scraped_at": "2026-09-23T03:55:05.431175+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948289+00:00"
   },
   {
     "id": "20003802725",
@@ -2303,7 +2387,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-09-23T03:55:05.431817+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948531+00:00"
   },
   {
     "id": "20003802666",
@@ -2429,7 +2513,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.430592+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948129+00:00"
   },
   {
     "id": "20003802791",
@@ -2450,7 +2534,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity Roth IRA",
-    "scraped_at": "2026-09-23T03:55:05.431008+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948246+00:00"
   },
   {
     "id": "20003802792",
@@ -2471,7 +2555,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Fidelity Roth IRA",
-    "scraped_at": "2026-09-23T03:55:05.431025+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948251+00:00"
   },
   {
     "id": "20003802793",
@@ -2492,7 +2576,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Fidelity Roth IRA",
-    "scraped_at": "2026-09-23T03:55:05.431042+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948256+00:00"
   },
   {
     "id": "20003802794",
@@ -2513,7 +2597,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Fidelity Roth IRA",
-    "scraped_at": "2026-09-23T03:55:05.431059+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948261+00:00"
   },
   {
     "id": "20003802795",
@@ -2534,7 +2618,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Fidelity Roth IRA",
-    "scraped_at": "2026-09-23T03:55:05.431075+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948266+00:00"
   },
   {
     "id": "10000066862",
@@ -2555,7 +2639,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Option Type: Call Strike price: $75.00 Expires: 2026-08-21",
-    "scraped_at": "2026-09-23T03:55:05.431191+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948296+00:00"
   },
   {
     "id": "20003802774",
@@ -2576,7 +2660,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: CP Roth IRA Description: Shares received thru merger",
-    "scraped_at": "2026-09-23T03:55:05.431495+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948373+00:00"
   },
   {
     "id": "20003802775",
@@ -2597,7 +2681,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Roth IRA Description: Shares received thru merger",
-    "scraped_at": "2026-09-23T03:55:05.431518+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948377+00:00"
   },
   {
     "id": "20003802776",
@@ -2618,7 +2702,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Roth IRA Description: Shares surrendered thru merger",
-    "scraped_at": "2026-09-23T03:55:05.431534+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948382+00:00"
   },
   {
     "id": "20003802777",
@@ -2639,7 +2723,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: CP Roth IRA Description: Shares surrendered thru merger",
-    "scraped_at": "2026-09-23T03:55:05.431553+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948387+00:00"
   },
   {
     "id": "20003802766",
@@ -2660,7 +2744,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.431685+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948426+00:00"
   },
   {
     "id": "10000066858",
@@ -2681,7 +2765,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.431888+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948553+00:00"
   },
   {
     "id": "10000066853",
@@ -2702,7 +2786,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.431958+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948573+00:00"
   },
   {
     "id": "20003802701",
@@ -2723,7 +2807,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-09-23T03:55:05.432043+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948597+00:00"
   },
   {
     "id": "20003802705",
@@ -2744,7 +2828,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-09-23T03:55:05.432124+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948619+00:00"
   },
   {
     "id": "20003802706",
@@ -2765,7 +2849,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-09-23T03:55:05.432141+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948624+00:00"
   },
   {
     "id": "20003802710",
@@ -2894,6 +2978,27 @@
     "scraped_at": "2026-09-11T03:55:03.483571+00:00"
   },
   {
+    "id": "20003802827",
+    "politician_name": "Sheri Biggs",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "SC",
+    "company": "The Bank of Nova Scotia",
+    "ticker": "BNS:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-08-19",
+    "trade_published": "2026-09-23",
+    "filed_after_days": "34",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Spouse",
+    "comment": "Subholding Of: W.S.B Trust > Rockefeller Cap. Mgmt 3 Description: Professionally managed account. Structured product based on XLE.",
+    "scraped_at": "2026-09-23T22:10:02.948093+00:00"
+  },
+  {
     "id": "20003802811",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -2912,7 +3017,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.430662+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948150+00:00"
   },
   {
     "id": "10000066865",
@@ -2933,7 +3038,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Option Type: Call Strike price: $75.00 Expires: 2026-08-21",
-    "scraped_at": "2026-09-23T03:55:05.431240+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948312+00:00"
   },
   {
     "id": "10000066859",
@@ -2954,7 +3059,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.431909+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948557+00:00"
   },
   {
     "id": "10000066854",
@@ -2975,7 +3080,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.431975+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948578+00:00"
   },
   {
     "id": "10000066855",
@@ -2996,7 +3101,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.431993+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948582+00:00"
   },
   {
     "id": "20003802708",
@@ -3017,7 +3122,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-09-23T03:55:05.432174+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948635+00:00"
   },
   {
     "id": "20003802709",
@@ -3479,7 +3584,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-09-23T03:55:05.432026+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948592+00:00"
   },
   {
     "id": "20003802702",
@@ -3500,7 +3605,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-09-23T03:55:05.432064+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948602+00:00"
   },
   {
     "id": "20003802704",
@@ -3521,7 +3626,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-09-23T03:55:05.432108+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948612+00:00"
   },
   {
     "id": "20003802707",
@@ -3542,7 +3647,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-09-23T03:55:05.432157+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948630+00:00"
   },
   {
     "id": "20003802711",
@@ -4193,7 +4298,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "VMRK - Vivmark Residential Common Shares of Beneficial Interest (Received)",
-    "scraped_at": "2026-09-23T03:55:05.431225+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948307+00:00"
   },
   {
     "id": "20003802768",
@@ -4214,7 +4319,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Portfolio Management Active Assets Account Description: Call options; Strike price $340; Expires 10/16/2026",
-    "scraped_at": "2026-09-23T03:55:05.431586+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948399+00:00"
   },
   {
     "id": "20003802769",
@@ -4235,7 +4340,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Portfolio Management Active Assets Account Description: Call options; Strike price $330; Expires 10/16/2026",
-    "scraped_at": "2026-09-23T03:55:05.431600+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948404+00:00"
   },
   {
     "id": "20003802770",
@@ -4256,7 +4361,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Portfolio Management Active Assets Account Description: Call options; Strike price $340; Expires 12/18/2026",
-    "scraped_at": "2026-09-23T03:55:05.431616+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948408+00:00"
   },
   {
     "id": "20003802771",
@@ -4277,7 +4382,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Portfolio Management Active Assets Account Description: Call options; Strike price $335; Expires 12/18/2026",
-    "scraped_at": "2026-09-23T03:55:05.431631+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948413+00:00"
   },
   {
     "id": "20003802614",
@@ -4655,7 +4760,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.430482+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948119+00:00"
   },
   {
     "id": "20003802815",
@@ -4676,7 +4781,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.430727+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948173+00:00"
   },
   {
     "id": "20003802819",
@@ -4697,7 +4802,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.430801+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948191+00:00"
   },
   {
     "id": "20003802820",
@@ -4718,7 +4823,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.430816+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948197+00:00"
   },
   {
     "id": "10000066860",
@@ -4739,7 +4844,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.431926+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948562+00:00"
   },
   {
     "id": "10000066856",
@@ -4760,7 +4865,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.432009+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948587+00:00"
   },
   {
     "id": "20003802687",
@@ -5036,6 +5141,69 @@
     "scraped_at": "2026-08-28T03:55:04.108590+00:00"
   },
   {
+    "id": "20003802822",
+    "politician_name": "Richard Allen",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Broadcom Inc",
+    "ticker": "AVGO:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-08-12",
+    "trade_published": "2026-09-23",
+    "filed_after_days": "41",
+    "price": "$416.05",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: R.W. Allen & Associates, Inc. > RWA&A - Securities",
+    "scraped_at": "2026-09-23T22:10:02.948104+00:00"
+  },
+  {
+    "id": "20003802823",
+    "politician_name": "Richard Allen",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "ROLLINS Inc",
+    "ticker": "ROL:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-08-12",
+    "trade_published": "2026-09-23",
+    "filed_after_days": "41",
+    "price": "$36.52",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: R.W. Allen & Associates, Inc. > RWA&A - Securities",
+    "scraped_at": "2026-09-23T22:10:02.948109+00:00"
+  },
+  {
+    "id": "20003802824",
+    "politician_name": "Richard Allen",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "GA",
+    "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+    "ticker": "TSM:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-08-12",
+    "trade_published": "2026-09-23",
+    "filed_after_days": "41",
+    "price": "$429.15",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: R.W. Allen & Associates, Inc. > RWA&A - Securities",
+    "scraped_at": "2026-09-23T22:10:02.948114+00:00"
+  },
+  {
     "id": "20003802808",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -5054,7 +5222,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Description: Private Equity General Partnership",
-    "scraped_at": "2026-09-23T03:55:05.430613+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948134+00:00"
   },
   {
     "id": "20003802780",
@@ -5075,7 +5243,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Moran Wealth IRA",
-    "scraped_at": "2026-09-23T03:55:05.431394+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948353+00:00"
   },
   {
     "id": "20003802781",
@@ -5096,7 +5264,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Moran Wealth IRA",
-    "scraped_at": "2026-09-23T03:55:05.431412+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948358+00:00"
   },
   {
     "id": "20003802697",
@@ -5348,7 +5516,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Moran Wealth IRA",
-    "scraped_at": "2026-09-23T03:55:05.431361+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948341+00:00"
   },
   {
     "id": "20003802779",
@@ -5369,7 +5537,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Moran Wealth IRA",
-    "scraped_at": "2026-09-23T03:55:05.431377+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948348+00:00"
   },
   {
     "id": "20003802782",
@@ -5390,7 +5558,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Moran Wealth IRA",
-    "scraped_at": "2026-09-23T03:55:05.431430+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948363+00:00"
   },
   {
     "id": "20003802783",
@@ -5411,7 +5579,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Moran Wealth IRA",
-    "scraped_at": "2026-09-23T03:55:05.431458+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948368+00:00"
   },
   {
     "id": "20003802746",
@@ -6020,7 +6188,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.430710+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948163+00:00"
   },
   {
     "id": "20003802759",
@@ -6041,7 +6209,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-09-23T03:55:05.431759+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948517+00:00"
   },
   {
     "id": "20003802761",
@@ -6062,7 +6230,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-09-23T03:55:05.431799+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948527+00:00"
   },
   {
     "id": "20003802671",
@@ -8183,7 +8351,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.430831+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948201+00:00"
   },
   {
     "id": "20003802786",
@@ -8204,7 +8372,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.431287+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948327+00:00"
   },
   {
     "id": "20003802767",
@@ -8225,7 +8393,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-09-23T03:55:05.431570+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948393+00:00"
   },
   {
     "id": "20003802772",
@@ -8246,7 +8414,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-09-23T03:55:05.431648+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948417+00:00"
   },
   {
     "id": "20003802773",
@@ -8267,7 +8435,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
-    "scraped_at": "2026-09-23T03:55:05.431666+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948422+00:00"
   },
   {
     "id": "20003802619",
@@ -8624,7 +8792,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Description: Pooled Investment Fund",
-    "scraped_at": "2026-09-23T03:55:05.430694+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948158+00:00"
   },
   {
     "id": "20003802818",
@@ -8645,7 +8813,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.430782+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948186+00:00"
   },
   {
     "id": "10000066861",
@@ -8666,7 +8834,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.431850+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948541+00:00"
   },
   {
     "id": "20003802721",
@@ -9170,7 +9338,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.430558+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948124+00:00"
   },
   {
     "id": "10000066863",
@@ -9191,7 +9359,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Sale due to corporate transaction",
-    "scraped_at": "2026-09-23T03:55:05.431207+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948302+00:00"
   },
   {
     "id": "20003802703",
@@ -9212,7 +9380,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-09-23T03:55:05.432091+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948607+00:00"
   },
   {
     "id": "20003802659",
@@ -9422,7 +9590,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.430646+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948145+00:00"
   },
   {
     "id": "20003802812",
@@ -9443,7 +9611,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: TPT RO Affiliate I LLC Description: Online Health",
-    "scraped_at": "2026-09-23T03:55:05.430679+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948154+00:00"
   },
   {
     "id": "20003802817",
@@ -9464,7 +9632,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.430767+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948182+00:00"
   },
   {
     "id": "20003802611",
@@ -10472,7 +10640,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.431256+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948316+00:00"
   },
   {
     "id": "20003802785",
@@ -10493,7 +10661,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.431272+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948322+00:00"
   },
   {
     "id": "20003802787",
@@ -10514,7 +10682,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.431307+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948332+00:00"
   },
   {
     "id": "20003802788",
@@ -10535,7 +10703,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-09-23T03:55:05.431343+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948336+00:00"
   },
   {
     "id": "20003802284",
@@ -31790,48 +31958,6 @@
     "scraped_at": "2026-07-06T16:11:50.314868+00:00"
   },
   {
-    "id": "20003800682",
-    "politician_name": "Nancy Pelosi",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "CA",
-    "company": "Intel Corp",
-    "ticker": "INTC:US",
-    "sector": "information-technology",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-05-29",
-    "trade_published": "2026-06-24",
-    "filed_after_days": "25",
-    "price": "N/A",
-    "value": 3000000,
-    "amount": "$1M\u2013$5M",
-    "owner": "Spouse",
-    "comment": "Description: Purchased 200 call options with a strike price of $50 and an expiration date of 3/19/27.",
-    "scraped_at": "2026-07-03T03:55:03.130023+00:00"
-  },
-  {
-    "id": "20003800683",
-    "politician_name": "Nancy Pelosi",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "CA",
-    "company": "Uber Technologies Inc",
-    "ticker": "UBER:US",
-    "sector": "industrials",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-05-29",
-    "trade_published": "2026-06-24",
-    "filed_after_days": "25",
-    "price": "N/A",
-    "value": 750000,
-    "amount": "$500K\u2013$1M",
-    "owner": "Spouse",
-    "comment": "Description: Purchased 200 call options with a strike price of $50 and an expiration date of 3/19/27.",
-    "scraped_at": "2026-07-03T03:55:03.130028+00:00"
-  },
-  {
     "id": "20003800690",
     "politician_name": "Gregory Stanton",
     "party": "Democrat",
@@ -32628,69 +32754,6 @@
     "owner": "Spouse",
     "comment": "",
     "scraped_at": "2026-07-22T16:10:03.283129+00:00"
-  },
-  {
-    "id": "20003800679",
-    "politician_name": "Neal Dunn",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "FL",
-    "company": "AT&T Inc",
-    "ticker": "T:US",
-    "sector": "communication-services",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-05-11",
-    "trade_published": "2026-06-24",
-    "filed_after_days": "43",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed",
-    "comment": "Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Perpetual Preferred Stock, Series A (T$A) [ST] Subholding Of: IRA #3",
-    "scraped_at": "2026-07-03T03:55:03.130034+00:00"
-  },
-  {
-    "id": "20003800680",
-    "politician_name": "Neal Dunn",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "FL",
-    "company": "JP MORGAN CHASE FINANCE LTD",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-05-11",
-    "trade_published": "2026-06-24",
-    "filed_after_days": "43",
-    "price": "N/A",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Not Disclosed",
-    "comment": "Depositary Shares Preferred Series GG [OT] Subholding Of: IRA #3 Description: Preferred Stock",
-    "scraped_at": "2026-07-03T03:55:03.130039+00:00"
-  },
-  {
-    "id": "20003800681",
-    "politician_name": "Neal Dunn",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "FL",
-    "company": "Regions Financial Corp",
-    "ticker": "RF:US",
-    "sector": "financials",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-05-11",
-    "trade_published": "2026-06-24",
-    "filed_after_days": "43",
-    "price": "N/A",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Not Disclosed",
-    "comment": "Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E (RF$E) [ST] Subholding Of: IRA #3",
-    "scraped_at": "2026-07-03T03:55:03.130044+00:00"
   },
   {
     "id": "20003801761",
@@ -37247,7 +37310,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Raymond James Brokerage Account Description: This Transaction was misidentified as a sale of AMERICAN FUNDS SMALLCAP WORLD FUND CL A",
-    "scraped_at": "2026-09-23T03:55:05.431702+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948467+00:00"
   },
   {
     "id": "20003802764",
@@ -37268,7 +37331,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Raymond James Brokerage Account",
-    "scraped_at": "2026-09-23T03:55:05.431724+00:00"
+    "scraped_at": "2026-09-23T22:10:02.948504+00:00"
   },
   {
     "id": "20003801774",
