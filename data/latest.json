@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-23T13:59:13Z",
-  "trade_count": 10713,
+  "last_updated": "2026-09-23T18:17:52Z",
+  "trade_count": 10716,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -171409,6 +171409,54 @@
       "delta_own": "+2%",
       "value": "67550",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-23",
+      "filing_time": "13:11",
+      "trade_date": "2026-09-21",
+      "ticker": "RTB",
+      "company": "Rtb Digital, Inc.",
+      "insider_name": "Dorsett Jason Christopher",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "8.32",
+      "qty": "11000",
+      "owned": "4204028",
+      "delta_own": "0%",
+      "value": "91520",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-23",
+      "filing_time": "10:44",
+      "trade_date": "2026-09-21",
+      "ticker": "AXIA",
+      "company": "Axia Energia S.A.",
+      "insider_name": "Batista De Lima Filho Pedro",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "10.55",
+      "qty": "91000",
+      "owned": "5053399",
+      "delta_own": "+2%",
+      "value": "960050",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-23",
+      "filing_time": "10:10",
+      "trade_date": "2026-09-22",
+      "ticker": "GOAI",
+      "company": "Eva Live Inc",
+      "insider_name": "Boulette David",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "2.03",
+      "qty": "18478",
+      "owned": "23246425",
+      "delta_own": "0%",
+      "value": "37510",
+      "cluster_buy": false
     }
   ]
 }
