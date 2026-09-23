@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-23T08:07:42Z",
-  "trade_count": 10711,
+  "last_updated": "2026-09-23T13:59:13Z",
+  "trade_count": 10713,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -171377,6 +171377,38 @@
       "delta_own": "+60%",
       "value": "100000",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-23",
+      "filing_time": "09:25",
+      "trade_date": "2026-09-22",
+      "ticker": "RCT",
+      "company": "Redcloud Holdings Plc",
+      "insider_name": "Floyd Justin Beck Hinton",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.50",
+      "qty": "74000",
+      "owned": "1661037",
+      "delta_own": "+5%",
+      "value": "185000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-23",
+      "filing_time": "07:00",
+      "trade_date": "2026-09-21",
+      "ticker": "ADC",
+      "company": "Agree Realty Corp",
+      "insider_name": "Erlich Craig",
+      "title": "CHIEF GROWTH OFFICER",
+      "trade_type": "P - Purchase",
+      "price": "67.55",
+      "qty": "1000",
+      "owned": "65386",
+      "delta_own": "+2%",
+      "value": "67550",
+      "cluster_buy": true
     }
   ]
 }
