@@ -10688,7 +10688,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-22,08:50,2026-09-18,BBD,Bank Bradesco,Alvarez Rubens Aguiar,Dir,P - Purchase,17.98,46874,264605,+22%,842795,True
 2026-09-22,08:26,2026-09-18,BBD,Bank Bradesco,Alvarez Denise Aguiar,Dir,P - Purchase,17.98,130596,6002223,+2%,2348116,True
 2026-09-22,08:21,2026-09-18,BBD,Bank Bradesco,Pavarina Denise Pauli,Dir,P - Purchase,17.98,46874,412864,+13%,842795,True
-2026-09-22,08:00,2026-09-18,DUOT,"Duos Technologies Group, Inc.",Nixon James Craig,Dir,P - Purchase,8.55,5764,84523,+7%,49287,False
+2026-09-22,08:00,2026-09-18,DUOT,"Duos Technologies Group, Inc.",Nixon James Craig,Dir,P - Purchase,8.55,5764,84523,+7%,49287,True
 2026-09-22,07:28,2026-09-22,VFF,"Village Farms International, Inc.",Degiglio Michael A,CEO,P - Purchase,2.89,35000,9730775,0%,101259,True
 2026-09-22,07:00,2026-09-14,ECOR,"Electrocore, Inc.",Errico Thomas J.,Dir,P - Purchase,9.82,5000,363904,+1%,49082,True
 2026-09-22,06:21,2026-09-18,BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,2.87,13900,1666772,+1%,39825,True
@@ -10722,3 +10722,17 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-23,13:11,2026-09-21,RTB,"Rtb Digital, Inc.",Dorsett Jason Christopher,10%,P - Purchase,8.32,11000,4204028,0%,91520,False
 2026-09-23,10:44,2026-09-21,AXIA,Axia Energia S.A.,Batista De Lima Filho Pedro,Dir,P - Purchase,10.55,91000,5053399,+2%,960050,False
 2026-09-23,10:10,2026-09-22,GOAI,Eva Live Inc,Boulette David,"CEO, 10%",P - Purchase,2.03,18478,23246425,0%,37510,False
+2026-09-23,17:48,2026-09-22,AIAI,Aiai Holdings Corp,Affeldt Eric,Dir,P - Purchase,3.50,42857,170971,+33%,150000,False
+2026-09-23,17:35,2026-09-21,ETRA,"Electra Therapeutics, Inc.",Gordon Carl L,"Dir, 10%",P - Purchase,15.00,1333333,1758279,+314%,19999995,True
+2026-09-23,17:29,2026-09-21,ETRA,"Electra Therapeutics, Inc.",Orbimed Advisors LLC,"Dir, 10%",P - Purchase,15.00,1333333,1758279,+314%,19999995,True
+2026-09-23,17:29,2026-09-15,CV,"Capsovision, Inc",Shen Ching Hang,10%,P - Purchase,5.69,878734,7279261,+14%,4999996,False
+2026-09-23,17:22,2026-09-23,ALNT,Allient Inc,Winter Michael R,Dir,P - Purchase,108.97,457,40458,+1%,49799,False
+2026-09-23,17:03,2026-09-21,HDSN,Hudson Technologies Inc /Ny,"Hartree Partners, LP",10%,P - Purchase,5.10,13515,5229968,0%,68923,False
+2026-09-23,16:59,2026-09-23,INBX,"Inhibrx Biosciences, Inc.",Kayyem Jon Faiz,Dir,P - Purchase,100.00,5000,1074046,0%,500000,False
+2026-09-23,16:41,2026-09-21,INR,"Infinity Natural Resources, Inc.",Gieselman Scott,Dir,P - Purchase,12.78,28467,137396,+26%,363777,False
+2026-09-23,16:37,2026-09-22,ALP,Alpha Compute Corp,Villani Fiorenzo,See Remarks,P - Purchase,4.40,10000,72538,+16%,44047,True
+2026-09-23,16:30,2026-09-21,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,35.08,212828,123820013,0%,7465942,False
+2026-09-23,16:30,2026-09-22,DUOT,"Duos Technologies Group, Inc.",Recker Frank Douglas,CEO,P - Purchase,9.14,9250,409250,+2%,84557,True
+2026-09-23,16:30,2026-09-21,SKIL,Skillsoft Corp.,Hovsepian Ronald W,"CEO, Exec Chair",P - Purchase,6.10,8325,371071,+2%,50772,True
+2026-09-23,16:28,2026-08-31,TNC,Tennant Co,Allen Patrick E,Dir,P - Purchase,69.42,3000,4927,+156%,208250,False
+2026-09-23,15:52,2026-09-18,OFIX,Orthofix Medical Inc.,"Juniper Investment Company, LLC",10%,P - Purchase,8.81,310000,4792043,+7%,2732097,False
