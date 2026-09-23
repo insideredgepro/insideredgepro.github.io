@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T23:23:55Z",
-  "trade_count": 10710,
+  "last_updated": "2026-09-23T02:32:03Z",
+  "trade_count": 10711,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -171360,6 +171360,22 @@
       "owned": "3985",
       "delta_own": "+7%",
       "value": "28965",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-22",
+      "filing_time": "21:57",
+      "trade_date": "2026-09-17",
+      "ticker": "NTRP",
+      "company": "Nexttrip, Inc.",
+      "insider_name": "Kaplan Andrew Jay",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.89",
+      "qty": "52910",
+      "owned": "140742",
+      "delta_own": "+60%",
+      "value": "100000",
       "cluster_buy": false
     }
   ]
