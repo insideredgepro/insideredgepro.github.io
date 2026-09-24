@@ -10703,7 +10703,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-22,10:19,2026-09-18,BBD,Bank Bradesco,Bueno Julio Cesar,Exec Officer,P - Purchase,17.98,56355,336549,+20%,1013263,True
 2026-09-22,10:15,2026-09-18,BBD,Bank Bradesco,Freiberger Fernando,Exec Officer,P - Purchase,17.98,49550,238935,+26%,890909,True
 2026-09-22,10:11,2026-09-18,BBD,Bank Bradesco,Ramalho Miranda Jose Augusto,Exec Officer,P - Purchase,17.98,63719,220933,+41%,1145668,True
-2026-09-22,10:02,2026-09-17,NYAX,Nayax Ltd.,Ben-Avi David,"CTO, Co Founder",P - Purchase,42.91,1014,6590148,0%,43511,False
+2026-09-22,10:02,2026-09-17,NYAX,Nayax Ltd.,Ben-Avi David,"CTO, Co Founder",P - Purchase,42.91,1014,6590148,0%,43511,True
 2026-09-22,16:30,2026-09-18,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,34.88,131333,123607185,0%,4581512,False
 2026-09-22,16:14,2026-09-15,NWPP,New Peoples Bankshares Inc,White Blaine Scott,"Dir, 10%",P - Purchase,4.85,5500,5661830,0%,26680,False
 2026-09-22,16:06,2026-09-21,FLNC,"Fluence Energy, Inc.",Bulls Herman E,Dir,P - Purchase,7.36,10000,169550,+6%,73600,True
@@ -10741,3 +10741,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-23,21:01,2026-09-18,CV,"Capsovision, Inc",Harari Eliyahou Et Al,10%,P - Purchase,5.69,1757469,878734,-200%,9999999,True
 2026-09-23,20:58,2026-09-22,DFDV,Defi Development Corp.,Kang Daniel,Chief Strategy Officer,P - Purchase,8.83,10440,88473,+13%,92183,False
 2026-09-24,08:29,2026-09-23,UXIN,Uxin Ltd,Li Bin (William),Dir,P - Purchase,0.01,104931794,2147483647,+1%,996852,False
+2026-09-24,12:56,2026-09-24,NYAX,Nayax Ltd.,Nechmad Yair,"CEO, Co Founder, COB",P - Purchase,44.09,104511,7433558,+1%,4607723,True
+2026-09-24,12:41,2026-09-22,NYAX,Nayax Ltd.,Ben-Avi David,"CTO, Co Founder",P - Purchase,43.10,2354,6592502,0%,101465,True
