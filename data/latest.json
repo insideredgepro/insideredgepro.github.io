@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-23T21:55:19Z",
-  "trade_count": 10730,
+  "last_updated": "2026-09-24T00:08:05Z",
+  "trade_count": 10732,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -171680,6 +171680,38 @@
       "owned": "4792043",
       "delta_own": "+7%",
       "value": "2732097",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-23",
+      "filing_time": "18:19",
+      "trade_date": "2026-09-21",
+      "ticker": "GRCE",
+      "company": "Grace Therapeutics, Inc.",
+      "insider_name": "Opaleye Management Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.10",
+      "qty": "15089",
+      "owned": "2855318",
+      "delta_own": "+1%",
+      "value": "31687",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-23",
+      "filing_time": "18:02",
+      "trade_date": "2026-09-21",
+      "ticker": "SPRU",
+      "company": "Spruce Power Holding Corp",
+      "insider_name": "Steel Partners Holdings L.P.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.04",
+      "qty": "52780",
+      "owned": "3482160",
+      "delta_own": "+2%",
+      "value": "107671",
       "cluster_buy": false
     }
   ]
