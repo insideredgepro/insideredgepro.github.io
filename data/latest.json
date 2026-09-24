@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-24T10:47:44Z",
-  "trade_count": 10734,
+  "last_updated": "2026-09-24T15:37:40Z",
+  "trade_count": 10735,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -171744,6 +171744,22 @@
       "owned": "88473",
       "delta_own": "+13%",
       "value": "92183",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-24",
+      "filing_time": "08:29",
+      "trade_date": "2026-09-23",
+      "ticker": "UXIN",
+      "company": "Uxin Ltd",
+      "insider_name": "Li Bin (William)",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.01",
+      "qty": "104931794",
+      "owned": "2147483647",
+      "delta_own": "+1%",
+      "value": "996852",
       "cluster_buy": false
     }
   ]
