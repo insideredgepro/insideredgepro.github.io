@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-24T00:08:05Z",
-  "trade_count": 10732,
+  "last_updated": "2026-09-24T05:40:09Z",
+  "trade_count": 10734,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -170416,7 +170416,7 @@
       "owned": "2926655",
       "delta_own": "+43%",
       "value": "4999996",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-09-21",
@@ -171520,7 +171520,7 @@
       "owned": "7279261",
       "delta_own": "+14%",
       "value": "4999996",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-09-23",
@@ -171712,6 +171712,38 @@
       "owned": "3482160",
       "delta_own": "+2%",
       "value": "107671",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-23",
+      "filing_time": "21:01",
+      "trade_date": "2026-09-18",
+      "ticker": "CV",
+      "company": "Capsovision, Inc",
+      "insider_name": "Harari Eliyahou Et Al",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "5.69",
+      "qty": "1757469",
+      "owned": "878734",
+      "delta_own": "-200%",
+      "value": "9999999",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-23",
+      "filing_time": "20:58",
+      "trade_date": "2026-09-22",
+      "ticker": "DFDV",
+      "company": "Defi Development Corp.",
+      "insider_name": "Kang Daniel",
+      "title": "Chief Strategy Officer",
+      "trade_type": "P - Purchase",
+      "price": "8.83",
+      "qty": "10440",
+      "owned": "88473",
+      "delta_own": "+13%",
+      "value": "92183",
       "cluster_buy": false
     }
   ]
