@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-09-25",
-  "entry_count": 2048,
+  "entry_count": 2050,
   "entries": [
     {
       "id": "US|OVLY|2026-07-27|strong gary|32.5",
@@ -4053,8 +4053,8 @@
         "2026-09-24": 0.073,
         "2026-09-25": 0.06
       },
-      "latest_price": 0.06,
-      "return_pct": -95.2,
+      "latest_price": 0.0603,
+      "return_pct": -95.18,
       "last_snapshot": "2026-09-25"
     },
     {
@@ -17534,7 +17534,7 @@
         "2026-09-24": 6241.6099,
         "2026-09-25": 6235.49
       },
-      "latest_price": 6235.49,
+      "latest_price": 6235.4902,
       "return_pct": -3.05,
       "last_snapshot": "2026-09-25"
     },
@@ -32941,11 +32941,12 @@
         "2026-09-21": 6.51,
         "2026-09-22": 6.5,
         "2026-09-23": 6.5,
-        "2026-09-24": 6.2
+        "2026-09-24": 6.2,
+        "2026-09-25": 6.2
       },
       "latest_price": 6.2,
       "return_pct": 6.16,
-      "last_snapshot": "2026-09-24"
+      "last_snapshot": "2026-09-25"
     },
     {
       "id": "US|CE|2026-08-14|kyrish chuck|45.52",
@@ -44953,8 +44954,8 @@
         "2026-09-24": 0.264,
         "2026-09-25": 0.2602
       },
-      "latest_price": 0.2602,
-      "return_pct": 23.9,
+      "latest_price": 0.26,
+      "return_pct": 23.81,
       "last_snapshot": "2026-09-25"
     },
     {
@@ -68906,8 +68907,8 @@
         "2026-09-24": 0.9404,
         "2026-09-25": 0.93
       },
-      "latest_price": 0.93,
-      "return_pct": -3.12,
+      "latest_price": 0.925,
+      "return_pct": -3.65,
       "last_snapshot": "2026-09-25"
     },
     {
@@ -73480,8 +73481,8 @@
         "2026-09-24": 25.58,
         "2026-09-25": 24.5975
       },
-      "latest_price": 24.5975,
-      "return_pct": -2.58,
+      "latest_price": 24.6,
+      "return_pct": -2.57,
       "last_snapshot": "2026-09-25"
     },
     {
@@ -73508,8 +73509,8 @@
         "2026-09-24": 25.58,
         "2026-09-25": 24.5975
       },
-      "latest_price": 24.5975,
-      "return_pct": -2.58,
+      "latest_price": 24.6,
+      "return_pct": -2.57,
       "last_snapshot": "2026-09-25"
     },
     {
@@ -73536,8 +73537,8 @@
         "2026-09-24": 25.58,
         "2026-09-25": 24.5975
       },
-      "latest_price": 24.5975,
-      "return_pct": -2.58,
+      "latest_price": 24.6,
+      "return_pct": -2.57,
       "last_snapshot": "2026-09-25"
     },
     {
@@ -73564,8 +73565,8 @@
         "2026-09-24": 25.58,
         "2026-09-25": 24.5975
       },
-      "latest_price": 24.5975,
-      "return_pct": -2.58,
+      "latest_price": 24.6,
+      "return_pct": -2.57,
       "last_snapshot": "2026-09-25"
     },
     {
@@ -75416,11 +75417,12 @@
       "snapshots": {
         "2026-09-22": 4.9,
         "2026-09-23": 4.9,
-        "2026-09-24": 4.99
+        "2026-09-24": 4.99,
+        "2026-09-25": 4.9
       },
       "latest_price": 4.9,
       "return_pct": 1.03,
-      "last_snapshot": "2026-09-24"
+      "last_snapshot": "2026-09-25"
     },
     {
       "id": "US|FLNC|2026-09-21|bulls herman e|7.36",
@@ -76424,6 +76426,46 @@
       },
       "latest_price": 64.58,
       "return_pct": 0.14,
+      "last_snapshot": "2026-09-25"
+    },
+    {
+      "id": "US|NCT|2026-09-25|zhu muchun|0.4",
+      "market": "US",
+      "ticker": "NCT",
+      "yf_symbol": "NCT",
+      "company": "Intercont (Cayman) Ltd",
+      "insider_name": "Zhu Muchun",
+      "title": "CEO, COB",
+      "trade_date": "2026-09-25",
+      "trade_price": 0.4,
+      "value": 650000.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-25": 4.65
+      },
+      "latest_price": 4.65,
+      "return_pct": 1062.5,
+      "last_snapshot": "2026-09-25"
+    },
+    {
+      "id": "US|MSC|2026-09-23|ho lawrence yau lung|0.2",
+      "market": "US",
+      "ticker": "MSC",
+      "yf_symbol": "MSC",
+      "company": "Studio City International Holdings Ltd",
+      "insider_name": "Ho Lawrence Yau Lung",
+      "title": "Dir",
+      "trade_date": "2026-09-23",
+      "trade_price": 0.2,
+      "value": 206320.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-09-25": 0.85
+      },
+      "latest_price": 0.85,
+      "return_pct": 325.0,
       "last_snapshot": "2026-09-25"
     }
   ]

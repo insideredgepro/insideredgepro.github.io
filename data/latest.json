@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-25T06:52:38Z",
-  "trade_count": 10747,
+  "last_updated": "2026-09-25T12:26:42Z",
+  "trade_count": 10749,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -171953,6 +171953,38 @@
       "delta_own": "+3%",
       "value": "64490",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-25",
+      "filing_time": "06:06",
+      "trade_date": "2026-09-25",
+      "ticker": "NCT",
+      "company": "Intercont (Cayman) Ltd",
+      "insider_name": "Zhu Muchun",
+      "title": "CEO, COB",
+      "trade_type": "P - Purchase",
+      "price": "0.40",
+      "qty": "1625000",
+      "owned": "1831598",
+      "delta_own": "+787%",
+      "value": "650000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-25",
+      "filing_time": "06:01",
+      "trade_date": "2026-09-23",
+      "ticker": "MSC",
+      "company": "Studio City International Holdings Ltd",
+      "insider_name": "Ho Lawrence Yau Lung",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "0.20",
+      "qty": "1043600",
+      "owned": "464139192",
+      "delta_own": "0%",
+      "value": "206320",
+      "cluster_buy": false
     }
   ]
 }
