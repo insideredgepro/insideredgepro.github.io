@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-25T17:39:32Z",
-  "trade_count": 10753,
+  "last_updated": "2026-09-25T20:54:37Z",
+  "trade_count": 10760,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -171744,7 +171744,7 @@
       "owned": "88473",
       "delta_own": "+13%",
       "value": "92183",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-09-24",
@@ -172049,6 +172049,118 @@
       "delta_own": "+5%",
       "value": "131907",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-25",
+      "filing_time": "16:35",
+      "trade_date": "2026-09-24",
+      "ticker": "URG",
+      "company": "Ur-Energy Inc",
+      "insider_name": "Walle Jade",
+      "title": "VP FINANCE",
+      "trade_type": "P - Purchase",
+      "price": "1.14",
+      "qty": "96556",
+      "owned": "424037",
+      "delta_own": "+29%",
+      "value": "110071",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-25",
+      "filing_time": "16:30",
+      "trade_date": "2026-09-23",
+      "ticker": "CRBG",
+      "company": "Corebridge Financial, Inc.",
+      "insider_name": "Nippon Life Insurance Co",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "34.13",
+      "qty": "219273",
+      "owned": "124336154",
+      "delta_own": "0%",
+      "value": "7484665",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-25",
+      "filing_time": "16:19",
+      "trade_date": "2026-09-23",
+      "ticker": "SKIL",
+      "company": "Skillsoft Corp.",
+      "insider_name": "Hovsepian Ronald W",
+      "title": "CEO, Exec Chair",
+      "trade_type": "P - Purchase",
+      "price": "5.93",
+      "qty": "11196",
+      "owned": "382267",
+      "delta_own": "+3%",
+      "value": "66415",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-25",
+      "filing_time": "16:15",
+      "trade_date": "2026-09-24",
+      "ticker": "ANNX",
+      "company": "Annexon, Inc.",
+      "insider_name": "Love Douglas",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.83",
+      "qty": "26065",
+      "owned": "390476",
+      "delta_own": "+7%",
+      "value": "99829",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-25",
+      "filing_time": "16:15",
+      "trade_date": "2026-09-23",
+      "ticker": "MX",
+      "company": "Magnachip Semiconductor Corp",
+      "insider_name": "Lee Chae",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.18",
+      "qty": "100000",
+      "owned": "388750",
+      "delta_own": "+35%",
+      "value": "318496",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-25",
+      "filing_time": "16:07",
+      "trade_date": "2026-09-23",
+      "ticker": "CLPR",
+      "company": "Clipper Realty Inc.",
+      "insider_name": "Levinson Sam",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "3.38",
+      "qty": "22923",
+      "owned": "9391480",
+      "delta_own": "0%",
+      "value": "77434",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-25",
+      "filing_time": "14:29",
+      "trade_date": "2026-09-24",
+      "ticker": "DFDV",
+      "company": "Defi Development Corp.",
+      "insider_name": "White Parker",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "8.96",
+      "qty": "10000",
+      "owned": "3117277",
+      "delta_own": "0%",
+      "value": "89568",
+      "cluster_buy": true
     }
   ]
 }
