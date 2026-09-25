@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-25T20:54:37Z",
-  "trade_count": 10760,
+  "last_updated": "2026-09-25T23:43:16Z",
+  "trade_count": 10762,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -172161,6 +172161,38 @@
       "delta_own": "0%",
       "value": "89568",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-25",
+      "filing_time": "18:47",
+      "trade_date": "2026-09-25",
+      "ticker": "CX",
+      "company": "Cemex Sab De Cv",
+      "insider_name": "Zambrano Lozano Rogelio",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "17.28",
+      "qty": "400800",
+      "owned": "10000000",
+      "delta_own": "+4%",
+      "value": "6926305",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-25",
+      "filing_time": "18:06",
+      "trade_date": "2026-09-25",
+      "ticker": "RSI",
+      "company": "Rush Street Interactive, Inc.",
+      "insider_name": "Markell Jack A.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "19.35",
+      "qty": "1500",
+      "owned": "18883",
+      "delta_own": "+9%",
+      "value": "29025",
+      "cluster_buy": false
     }
   ]
 }
