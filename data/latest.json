@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-24T22:50:44Z",
-  "trade_count": 10745,
+  "last_updated": "2026-09-25T01:02:12Z",
+  "trade_count": 10747,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -171921,6 +171921,38 @@
       "delta_own": "+2%",
       "value": "91500",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-24",
+      "filing_time": "19:15",
+      "trade_date": "2026-09-23",
+      "ticker": "HHH",
+      "company": "Howard Hughes Holdings Inc.",
+      "insider_name": "Grandisson Marc",
+      "title": "Exec COB, Vantage",
+      "trade_type": "P - Purchase",
+      "price": "64.12",
+      "qty": "25000",
+      "owned": "96943",
+      "delta_own": "+35%",
+      "value": "1602938",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-24",
+      "filing_time": "19:15",
+      "trade_date": "2026-09-23",
+      "ticker": "HHH",
+      "company": "Howard Hughes Holdings Inc.",
+      "insider_name": "Davis Andrew D.",
+      "title": "COO, HHC",
+      "trade_type": "P - Purchase",
+      "price": "64.49",
+      "qty": "1000",
+      "owned": "32530",
+      "delta_own": "+3%",
+      "value": "64490",
+      "cluster_buy": true
     }
   ]
 }
