@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-25T12:26:42Z",
-  "trade_count": 10749,
+  "last_updated": "2026-09-25T17:39:32Z",
+  "trade_count": 10753,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -171984,6 +171984,70 @@
       "owned": "464139192",
       "delta_own": "0%",
       "value": "206320",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-25",
+      "filing_time": "11:27",
+      "trade_date": "2026-09-23",
+      "ticker": "RGCO",
+      "company": "Rgc Resources Inc",
+      "insider_name": "Williamson John B III",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "20.93",
+      "qty": "2703",
+      "owned": "182634",
+      "delta_own": "+2%",
+      "value": "56571",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-25",
+      "filing_time": "10:51",
+      "trade_date": "2026-09-11",
+      "ticker": "HRGN",
+      "company": "Harvard Apparatus Regenerative Technology, Inc.",
+      "insider_name": "He Junli",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.07",
+      "qty": "368630",
+      "owned": "1332930",
+      "delta_own": "+38%",
+      "value": "394459",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-25",
+      "filing_time": "10:11",
+      "trade_date": "2026-09-24",
+      "ticker": "EDRY",
+      "company": "Eurodry Ltd.",
+      "insider_name": "Pittas Aristeidis P",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "51.33",
+      "qty": "900",
+      "owned": "76113",
+      "delta_own": "+1%",
+      "value": "46199",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-25",
+      "filing_time": "08:39",
+      "trade_date": "2026-09-23",
+      "ticker": "ANIX",
+      "company": "Anixa Biosciences Inc",
+      "insider_name": "Titterton Lewis H Jr",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.69",
+      "qty": "49036",
+      "owned": "1046003",
+      "delta_own": "+5%",
+      "value": "131907",
       "cluster_buy": false
     }
   ]
