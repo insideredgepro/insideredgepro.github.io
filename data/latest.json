@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-25T23:43:16Z",
-  "trade_count": 10762,
+  "last_updated": "2026-09-26T13:38:46Z",
+  "trade_count": 10763,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -172192,6 +172192,22 @@
       "owned": "18883",
       "delta_own": "+9%",
       "value": "29025",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-25",
+      "filing_time": "20:02",
+      "trade_date": "2026-09-23",
+      "ticker": "LEN",
+      "company": "Lennar Corp /New/",
+      "insider_name": "Berkshire Hathaway Inc",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "81.19",
+      "qty": "1679700",
+      "owned": "25927026",
+      "delta_own": "+7%",
+      "value": "136382789",
       "cluster_buy": false
     }
   ]
