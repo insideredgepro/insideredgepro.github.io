@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T09:09:26Z",
-  "trade_count": 10763,
+  "last_updated": "2026-09-28T17:53:49Z",
+  "trade_count": 10767,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -172208,6 +172208,70 @@
       "owned": "25927026",
       "delta_own": "+7%",
       "value": "136382789",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-28",
+      "filing_time": "12:18",
+      "trade_date": "2026-09-18",
+      "ticker": "ZUMZ",
+      "company": "Zumiez Inc",
+      "insider_name": "Ellis Adam Christopher",
+      "title": "Pres International",
+      "trade_type": "P - Purchase",
+      "price": "13.40",
+      "qty": "10000",
+      "owned": "83664",
+      "delta_own": "+14%",
+      "value": "134000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-28",
+      "filing_time": "08:43",
+      "trade_date": "2026-09-25",
+      "ticker": "DX",
+      "company": "Dynex Capital Inc",
+      "insider_name": "Connelly Terrence John Jr",
+      "title": "Chief Investment Officer",
+      "trade_type": "P - Purchase",
+      "price": "11.18",
+      "qty": "2500",
+      "owned": "58695",
+      "delta_own": "+4%",
+      "value": "27950",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-28",
+      "filing_time": "07:00",
+      "trade_date": "2026-09-25",
+      "ticker": "DMRA",
+      "company": "Damora Therapeutics, Inc.",
+      "insider_name": "Jarrett Jennifer",
+      "title": "Dir, Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "20.23",
+      "qty": "12500",
+      "owned": "512500",
+      "delta_own": "+3%",
+      "value": "252875",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-28",
+      "filing_time": "06:05",
+      "trade_date": "2026-09-24",
+      "ticker": "GPUS",
+      "company": "Hyperscale Data, Inc.",
+      "insider_name": "Ault Milton C III",
+      "title": "Exec COB, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.17",
+      "qty": "689600",
+      "owned": "4541941",
+      "delta_own": "+18%",
+      "value": "117459",
       "cluster_buy": false
     }
   ]
