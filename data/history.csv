@@ -10620,7 +10620,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-17,16:18,2026-09-15,JCTC,Jewett Cameron Trading Co Ltd,"Ajb Investment Fund Ii, LP",10%,P - Purchase,2.89,10000,501300,+2%,28948,False
 2026-09-17,16:15,2026-09-15,FGBI,"First Guaranty Bancshares, Inc.",Walker Robert W,Dir,P - Purchase,17.74,4000,11702,+52%,70960,False
 2026-09-17,16:15,2026-09-15,GPUS,"Hyperscale Data, Inc.",Ault Milton C III,"Exec COB, 10%",P - Purchase,0.18,164500,3723141,+5%,30159,True
-2026-09-17,16:13,2026-09-17,PLAY,"Dave & Buster'S Entertainment, Inc.",Lipman Nathaniel,Dir,P - Purchase,6.78,12000,30715,+64%,81300,False
+2026-09-17,16:13,2026-09-17,PLAY,"Dave & Buster'S Entertainment, Inc.",Lipman Nathaniel,Dir,P - Purchase,6.78,12000,30715,+64%,81300,True
 2026-09-17,16:09,2026-09-15,XBP,"Xbp Global Holdings, Inc.",Avenue Global Opportunities Master Fund LP,10%,P - Purchase,2.83,72394,218484,+50%,204875,True
 2026-09-17,16:05,2026-09-15,XBP,"Xbp Global Holdings, Inc.","Avenue Rp Opportunities Fund, L.P.",10%,P - Purchase,2.83,527606,610498,+636%,1493125,True
 2026-09-17,16:05,2026-08-05,NXH,"Neighborhood Intelligence, Inc.",Lemonis Marcus,"Exec COB, CEO",P - Purchase,4.67,21691,691447,+3%,101297,False
@@ -10728,8 +10728,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-23,17:29,2026-09-15,CV,"Capsovision, Inc",Shen Ching Hang,10%,P - Purchase,5.69,878734,7279261,+14%,4999996,True
 2026-09-23,17:22,2026-09-23,ALNT,Allient Inc,Winter Michael R,Dir,P - Purchase,108.97,457,40458,+1%,49799,False
 2026-09-23,17:03,2026-09-21,HDSN,Hudson Technologies Inc /Ny,"Hartree Partners, LP",10%,P - Purchase,5.10,13515,5229968,0%,68923,False
-2026-09-23,16:59,2026-09-23,INBX,"Inhibrx Biosciences, Inc.",Kayyem Jon Faiz,Dir,P - Purchase,100.00,5000,1074046,0%,500000,False
-2026-09-23,16:41,2026-09-21,INR,"Infinity Natural Resources, Inc.",Gieselman Scott,Dir,P - Purchase,12.78,28467,137396,+26%,363777,False
+2026-09-23,16:59,2026-09-23,INBX,"Inhibrx Biosciences, Inc.",Kayyem Jon Faiz,Dir,P - Purchase,100.00,5000,1074046,0%,500000,True
+2026-09-23,16:41,2026-09-21,INR,"Infinity Natural Resources, Inc.",Gieselman Scott,Dir,P - Purchase,12.78,28467,137396,+26%,363777,True
 2026-09-23,16:37,2026-09-22,ALP,Alpha Compute Corp,Villani Fiorenzo,See Remarks,P - Purchase,4.40,10000,72538,+16%,44047,True
 2026-09-23,16:30,2026-09-21,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,35.08,212828,123820013,0%,7465942,False
 2026-09-23,16:30,2026-09-22,DUOT,"Duos Technologies Group, Inc.",Recker Frank Douglas,CEO,P - Purchase,9.14,9250,409250,+2%,84557,True
@@ -10773,3 +10773,16 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-28,08:43,2026-09-25,DX,Dynex Capital Inc,Connelly Terrence John Jr,Chief Investment Officer,P - Purchase,11.18,2500,58695,+4%,27950,False
 2026-09-28,07:00,2026-09-25,DMRA,"Damora Therapeutics, Inc.",Jarrett Jennifer,"Dir, Pres, CEO",P - Purchase,20.23,12500,512500,+3%,252875,False
 2026-09-28,06:05,2026-09-24,GPUS,"Hyperscale Data, Inc.",Ault Milton C III,"Exec COB, 10%",P - Purchase,0.17,689600,4541941,+18%,117459,False
+2026-09-28,18:27,2026-09-24,LILA,Liberty Latin America Ltd.,Malone John C,"Director Emeritus, 10%",P - Purchase,20.44,22442,3822170,+1%,458654,False
+2026-09-28,18:01,2026-09-24,INR,"Infinity Natural Resources, Inc.",Baetz Cary D,"EVP, CFO",P - Purchase,13.44,22316,22316,New,299993,True
+2026-09-28,17:47,2026-09-25,INBX,"Inhibrx Biosciences, Inc.",Lappe Mark,CEO,P - Purchase,99.88,10000,960413,+1%,998784,True
+2026-09-28,17:24,2026-09-25,AOMR,"Angel Oak Mortgage Reit, Inc.",Fierman Michael,"Dir, 10%",P - Purchase,7.50,38726,420247,+10%,290511,False
+2026-09-28,17:01,2026-09-24,ATCH,"Atlasclear Holdings, Inc.",Hammond Thomas Jon,Dir,P - Purchase,0.20,500000,500706,>999%,99800,False
+2026-09-28,17:01,2026-09-24,QVCG,"Qvc Group, Inc.",Goldentree Asset Management LP,10%,P - Purchase,14.35,80000,11071975,+1%,1148000,False
+2026-09-28,16:57,2026-09-28,PLAY,"Dave & Buster'S Entertainment, Inc.",Hatton Cory,Interim CFO,P - Purchase,6.50,4000,104475,+4%,26000,True
+2026-09-28,16:32,2026-09-24,LLYVK,"Liberty Live Holdings, Inc.",Malone John C,10%,P - Purchase,102.53,28333,6224000,0%,2904982,False
+2026-09-28,16:30,2026-09-24,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,33.85,258878,124595032,0%,8763849,False
+2026-09-28,16:25,2026-09-24,HDSN,Hudson Technologies Inc /Ny,"Hartree Partners, LP",10%,P - Purchase,5.10,118549,5348517,+2%,604446,False
+2026-09-28,16:15,2026-09-25,CME,Cme Group Inc.,Shepard William R,Dir,P - Purchase,268.76,293,264356,0%,78626,False
+2026-09-28,16:05,2026-09-24,GPI,Group 1 Automotive Inc,"Conifer Management, L.L.C.",10%,P - Purchase,249.62,126288,1638578,+8%,31524452,False
+2026-09-28,14:18,2026-09-25,GOAI,Eva Live Inc,Boulette David,"CEO, 10%",P - Purchase,2.01,19800,23266225,0%,39798,False
