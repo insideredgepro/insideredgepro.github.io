@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T22:47:46Z",
-  "trade_count": 10780,
+  "last_updated": "2026-09-29T02:26:17Z",
+  "trade_count": 10781,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -172480,6 +172480,22 @@
       "owned": "23266225",
       "delta_own": "0%",
       "value": "39798",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-28",
+      "filing_time": "19:57",
+      "trade_date": "2026-09-24",
+      "ticker": "ACOG",
+      "company": "Alpha Cognition Inc.",
+      "insider_name": "Opaleye Management Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "8.53",
+      "qty": "31763",
+      "owned": "3303904",
+      "delta_own": "+1%",
+      "value": "270800",
       "cluster_buy": false
     }
   ]
