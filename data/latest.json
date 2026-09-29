@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-29T09:19:17Z",
-  "trade_count": 10781,
+  "last_updated": "2026-09-29T16:16:26Z",
+  "trade_count": 10782,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -172497,6 +172497,22 @@
       "delta_own": "+1%",
       "value": "270800",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-29",
+      "filing_time": "11:25",
+      "trade_date": "2026-09-22",
+      "ticker": "NYAX",
+      "company": "Nayax Ltd.",
+      "insider_name": "Ben-Avi David",
+      "title": "CTO, Co Founder",
+      "trade_type": "P - Purchase",
+      "price": "43.27",
+      "qty": "2854",
+      "owned": "6593002",
+      "delta_own": "0%",
+      "value": "123480",
+      "cluster_buy": true
     }
   ]
 }
