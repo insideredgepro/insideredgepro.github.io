@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-30T00:55:51Z",
-  "trade_count": 10791,
+  "last_updated": "2026-09-30T06:12:05Z",
+  "trade_count": 10793,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -172657,6 +172657,38 @@
       "delta_own": "+9%",
       "value": "11355072",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-29",
+      "filing_time": "21:45",
+      "trade_date": "2026-09-28",
+      "ticker": "ADRX",
+      "company": "Adarx Pharmaceuticals, Inc.",
+      "insider_name": "Sr One Capital Management, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "17.00",
+      "qty": "1600000",
+      "owned": "9936661",
+      "delta_own": "+19%",
+      "value": "27200000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-09-29",
+      "filing_time": "21:43",
+      "trade_date": "2026-09-28",
+      "ticker": "ADRX",
+      "company": "Adarx Pharmaceuticals, Inc.",
+      "insider_name": "George Simeon",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "17.00",
+      "qty": "1600000",
+      "owned": "9936661",
+      "delta_own": "+19%",
+      "value": "27200000",
+      "cluster_buy": true
     }
   ]
 }
