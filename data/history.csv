@@ -10599,7 +10599,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-16,17:33,2026-03-19,BMA,Macro Bank Inc.,Brito Marcos,Dir,P - Purchase,68.27,1500,2744,+121%,102399,False
 2026-09-16,17:27,2026-09-14,GLP,Global Partners LP,Global Gp LLC,General Partner,P - Purchase,51.21,15000,161584,+10%,768200,False
 2026-09-16,16:52,2026-09-14,HCAT,"Health Catalyst, Inc.",Kohl Simeon,CEO,P - Purchase,1.79,59000,2856385,+2%,105439,False
-2026-09-16,16:45,2026-09-14,CLPR,Clipper Realty Inc.,Levinson Sam,"Dir, 10%",P - Purchase,3.29,9084,9368557,0%,29879,False
+2026-09-16,16:45,2026-09-14,CLPR,Clipper Realty Inc.,Levinson Sam,"Dir, 10%",P - Purchase,3.29,9084,9368557,0%,29879,True
 2026-09-16,21:41,2026-09-15,WULF,Terawulf Inc.,Bucella Michael C.,Dir,P - Purchase,14.79,6085,350789,+2%,89967,False
 2026-09-16,21:16,2026-09-14,MNR,Mach Natural Resources LP,Ward Tom L.,"See Remarks, 10%",P - Purchase,11.60,172413,28353502,+1%,1999991,True
 2026-09-16,21:06,2026-09-14,FLNT,"Fluent, Inc.",Global Value Investment Corp.,10%,P - Purchase,3.38,12376,3238877,0%,41831,True
@@ -10764,7 +10764,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-25,16:19,2026-09-23,SKIL,Skillsoft Corp.,Hovsepian Ronald W,"CEO, Exec Chair",P - Purchase,5.93,11196,382267,+3%,66415,True
 2026-09-25,16:15,2026-09-24,ANNX,"Annexon, Inc.",Love Douglas,"Pres, CEO",P - Purchase,3.83,26065,390476,+7%,99829,False
 2026-09-25,16:15,2026-09-23,MX,Magnachip Semiconductor Corp,Lee Chae,CEO,P - Purchase,3.18,100000,388750,+35%,318496,False
-2026-09-25,16:07,2026-09-23,CLPR,Clipper Realty Inc.,Levinson Sam,"Dir, 10%",P - Purchase,3.38,22923,9391480,0%,77434,False
+2026-09-25,16:07,2026-09-23,CLPR,Clipper Realty Inc.,Levinson Sam,"Dir, 10%",P - Purchase,3.38,22923,9391480,0%,77434,True
 2026-09-25,14:29,2026-09-24,DFDV,Defi Development Corp.,White Parker,10%,P - Purchase,8.96,10000,3117277,0%,89568,True
 2026-09-25,18:47,2026-09-25,CX,Cemex Sab De Cv,Zambrano Lozano Rogelio,Dir,P - Purchase,17.28,400800,10000000,+4%,6926305,False
 2026-09-25,18:06,2026-09-25,RSI,"Rush Street Interactive, Inc.",Markell Jack A.,Dir,P - Purchase,19.35,1500,18883,+9%,29025,False
@@ -10922,3 +10922,15 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-30,11:15,2026-09-28,FUL,Fuller H B Co,Zaheer Srilata,Dir,P - Purchase,49.08,2040,3386,+152%,100119,True
 2026-09-30,11:03,2026-09-28,NYAX,Nayax Ltd.,Nechmad Yair,"CEO, Co Founder, COB",P - Purchase,44.90,46935,7480493,+1%,2107580,True
 2026-09-30,06:01,2026-09-29,MNSO,Miniso Group Holding Ltd,Zhang Jingjing Eason,"VP, CFO",P - Purchase,2.26,150600,394474,+62%,340100,False
+2026-09-30,17:51,2026-09-28,CLPR,Clipper Realty Inc.,Bistricer Jacob,COO,P - Purchase,3.35,73500,136500,+117%,246225,True
+2026-09-30,17:34,2026-09-28,KWY,Kingsway Corp,Horowitz Joshua,Dir,P - Purchase,9.26,3575,417178,+1%,33121,False
+2026-09-30,17:29,2026-09-28,ADRX,"Adarx Pharmaceuticals, Inc.",Chimovits Erez,Dir,P - Purchase,17.00,61516,9292025,+1%,1045772,True
+2026-09-30,17:25,2026-09-28,ADRX,"Adarx Pharmaceuticals, Inc.",Gordon Carl L,"Dir, 10%",P - Purchase,17.00,950000,588235,-263%,16150000,True
+2026-09-30,17:23,2026-09-28,ADRX,"Adarx Pharmaceuticals, Inc.",Orbimed Advisors LLC,"Dir, 10%",P - Purchase,17.00,950000,588235,-263%,16150000,True
+2026-09-30,17:10,2026-09-29,PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,8.68,162000,1328000,+14%,1405674,False
+2026-09-30,17:00,2026-09-28,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,34.15,805782,125579654,+1%,27519616,False
+2026-09-30,16:42,2026-09-28,BBD,Bank Bradesco,Di Marcello Francesco,Exec Officer,P - Purchase,17.65,57160,225708,+34%,1008844,True
+2026-09-30,16:31,2026-09-28,KOD,Kodiak Sciences Inc.,Baker Bros. Advisors LP,"Dir, 10%",P - Purchase,88.59,715592,20191214,+4%,63397609,False
+2026-09-30,16:30,2026-09-28,KOD,Kodiak Sciences Inc.,Baker Bros. Advisors LP,"Dir, 10%",P - Purchase,83.58,418323,19515907,+2%,34963077,False
+2026-09-30,16:29,2026-09-28,KOD,Kodiak Sciences Inc.,Baker Bros. Advisors LP,"Dir, 10%",P - Purchase,72.57,807840,19121134,+4%,58625708,False
+2026-09-30,16:03,2026-09-28,FLNA,"Filana Therapeutics, Inc.",Barry Richard,"Pres, CEO",P - Purchase,0.84,93091,1031151,+10%,78196,False
