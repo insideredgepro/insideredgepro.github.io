@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-29T21:12:24Z",
-  "trade_count": 10788,
+  "last_updated": "2026-09-30T00:55:51Z",
+  "trade_count": 10791,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -172608,6 +172608,54 @@
       "owned": "3646133",
       "delta_own": "+5%",
       "value": "119543",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-29",
+      "filing_time": "18:31",
+      "trade_date": "2022-03-10",
+      "ticker": "ASX",
+      "company": "Light & Wonder, Inc.",
+      "insider_name": "McLennan Hamish",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "58.97",
+      "qty": "5750",
+      "owned": "29500",
+      "delta_own": "+24%",
+      "value": "339078",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-29",
+      "filing_time": "17:37",
+      "trade_date": "2026-09-28",
+      "ticker": "PRTA",
+      "company": "Prothena Corp Public Ltd Co",
+      "insider_name": "Scully William P",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "8.60",
+      "qty": "103500",
+      "owned": "1166000",
+      "delta_own": "+10%",
+      "value": "889872",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-29",
+      "filing_time": "17:26",
+      "trade_date": "2026-09-25",
+      "ticker": "COUR",
+      "company": "Coursera, Inc.",
+      "insider_name": "Pale Fire Capital Se",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "4.87",
+      "qty": "2332742",
+      "owned": "28806415",
+      "delta_own": "+9%",
+      "value": "11355072",
       "cluster_buy": false
     }
   ]
