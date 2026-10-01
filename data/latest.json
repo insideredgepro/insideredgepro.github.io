@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-30T22:45:24Z",
-  "trade_count": 10928,
+  "last_updated": "2026-10-01T01:44:02Z",
+  "trade_count": 10931,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -174848,6 +174848,54 @@
       "owned": "1031151",
       "delta_own": "+10%",
       "value": "78196",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-30",
+      "filing_time": "20:46",
+      "trade_date": "2026-09-28",
+      "ticker": "GPI",
+      "company": "Group 1 Automotive Inc",
+      "insider_name": "Conifer Management, L.L.C.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "242.15",
+      "qty": "273712",
+      "owned": "1912290",
+      "delta_own": "+17%",
+      "value": "66278316",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-30",
+      "filing_time": "20:38",
+      "trade_date": "2026-09-28",
+      "ticker": "LPCN",
+      "company": "Lipocine Inc.",
+      "insider_name": "Higuchi John W.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.16",
+      "qty": "12561",
+      "owned": "216358",
+      "delta_own": "+6%",
+      "value": "27132",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-09-30",
+      "filing_time": "19:52",
+      "trade_date": "2026-09-28",
+      "ticker": "LEN",
+      "company": "Lennar Corp /New/",
+      "insider_name": "Berkshire Hathaway Inc",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "81.59",
+      "qty": "660410",
+      "owned": "26587436",
+      "delta_own": "+3%",
+      "value": "53882588",
       "cluster_buy": false
     }
   ]
