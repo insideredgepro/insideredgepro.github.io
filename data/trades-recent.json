@@ -413,7 +413,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA",
-    "scraped_at": "2026-10-01T03:55:02.769113+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934384+00:00"
   },
   {
     "id": "20003802865",
@@ -434,7 +434,49 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-01T03:55:02.769232+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934534+00:00"
+  },
+  {
+    "id": "20003802933",
+    "politician_name": "Suzan DelBene",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "CENTRAL VALLEY ENERGY AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-14",
+    "trade_published": "2026-10-01",
+    "filed_after_days": "16",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Joint",
+    "comment": "Central VY Energy Auth Calif Commodity 5.00% Due Aug 1, 2034 [GS]",
+    "scraped_at": "2026-10-01T16:10:02.934104+00:00"
+  },
+  {
+    "id": "20003802935",
+    "politician_name": "Suzan DelBene",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "SAN JOAQUIN VALLEY CLEAN ENERGY AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-14",
+    "trade_published": "2026-10-01",
+    "filed_after_days": "16",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Joint",
+    "comment": "San Joaquin VY Calif Clean Energy Auth 5.50% Due Jan 1, 2056 [GS]",
+    "scraped_at": "2026-10-01T16:10:02.934116+00:00"
   },
   {
     "id": "20003802840",
@@ -455,7 +497,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769104+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934372+00:00"
   },
   {
     "id": "20003802856",
@@ -476,7 +518,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769187+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934461+00:00"
   },
   {
     "id": "20003802861",
@@ -497,7 +539,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-01T03:55:02.769212+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934516+00:00"
   },
   {
     "id": "20003802862",
@@ -518,7 +560,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769217+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934520+00:00"
   },
   {
     "id": "20003802866",
@@ -539,7 +581,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769238+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934539+00:00"
   },
   {
     "id": "20003802868",
@@ -560,7 +602,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-01T03:55:02.769247+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934548+00:00"
   },
   {
     "id": "20003802878",
@@ -581,7 +623,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769298+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934598+00:00"
   },
   {
     "id": "20003802880",
@@ -602,7 +644,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-01T03:55:02.769307+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934607+00:00"
   },
   {
     "id": "20003802889",
@@ -686,7 +728,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Other One LLC",
-    "scraped_at": "2026-10-01T03:55:02.768862+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934127+00:00"
   },
   {
     "id": "10000066868",
@@ -707,7 +749,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Hedge Holdings LLC",
-    "scraped_at": "2026-10-01T03:55:02.768872+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934133+00:00"
   },
   {
     "id": "10000066869",
@@ -728,7 +770,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Summa I LLC",
-    "scraped_at": "2026-10-01T03:55:02.768878+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934139+00:00"
   },
   {
     "id": "10000066870",
@@ -749,7 +791,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Underlying Asset of LarryMae Partners LLC",
-    "scraped_at": "2026-10-01T03:55:02.768883+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934144+00:00"
   },
   {
     "id": "10000066871",
@@ -770,7 +812,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of 3M's Partners LLC",
-    "scraped_at": "2026-10-01T03:55:02.768888+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934149+00:00"
   },
   {
     "id": "10000066872",
@@ -791,7 +833,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-01T03:55:02.768892+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934154+00:00"
   },
   {
     "id": "10000066873",
@@ -812,7 +854,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-01T03:55:02.768898+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934160+00:00"
   },
   {
     "id": "10000066874",
@@ -833,7 +875,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-01T03:55:02.768903+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934164+00:00"
   },
   {
     "id": "20003802859",
@@ -854,7 +896,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA",
-    "scraped_at": "2026-10-01T03:55:02.769202+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934478+00:00"
   },
   {
     "id": "20003802867",
@@ -875,7 +917,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769243+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934544+00:00"
   },
   {
     "id": "20003802837",
@@ -896,7 +938,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-01T03:55:02.769087+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934354+00:00"
   },
   {
     "id": "20003802876",
@@ -917,7 +959,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-01T03:55:02.769289+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934589+00:00"
   },
   {
     "id": "20003802890",
@@ -959,7 +1001,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Kelby Austin Hern Trust",
-    "scraped_at": "2026-10-01T03:55:02.769049+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934312+00:00"
   },
   {
     "id": "20003802831",
@@ -980,7 +1022,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Kaden Everett Hern Trust",
-    "scraped_at": "2026-10-01T03:55:02.769054+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934319+00:00"
   },
   {
     "id": "20003802832",
@@ -1001,7 +1043,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-01T03:55:02.769059+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934323+00:00"
   },
   {
     "id": "20003802860",
@@ -1022,7 +1064,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Gabrielle Ashtyn Hern Trust",
-    "scraped_at": "2026-10-01T03:55:02.769207+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934483+00:00"
   },
   {
     "id": "20003802877",
@@ -1043,7 +1085,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Gabrielle Ashtyn Hern Trust",
-    "scraped_at": "2026-10-01T03:55:02.769294+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934593+00:00"
   },
   {
     "id": "20003802801",
@@ -1106,7 +1148,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 2012 Trust Description: Capital call of $3,014.00",
-    "scraped_at": "2026-10-01T03:55:02.769030+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934292+00:00"
   },
   {
     "id": "20003802833",
@@ -1127,7 +1169,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-01T03:55:02.769065+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934330+00:00"
   },
   {
     "id": "20003802855",
@@ -1148,7 +1190,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-01T03:55:02.769181+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934456+00:00"
   },
   {
     "id": "20003802875",
@@ -1169,7 +1211,70 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-01T03:55:02.769283+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934584+00:00"
+  },
+  {
+    "id": "20003802931",
+    "politician_name": "Suzan DelBene",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "BOULDER LARIMER AND WELD COUNTIES AND CITY AND COUNTY OF BROOMFIELD COLORADO",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-03",
+    "trade_published": "2026-10-01",
+    "filed_after_days": "27",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Joint",
+    "comment": "Boulder Larimer & Weld CNTYS Colo ST 05.00000% 12/15/2027 Vrain VY SCH Dist Gen Oblig [GS]",
+    "scraped_at": "2026-10-01T16:10:02.934064+00:00"
+  },
+  {
+    "id": "20003802932",
+    "politician_name": "Suzan DelBene",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "CALIFORNIA COMMUNITY CHOICE FINANCING AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-03",
+    "trade_published": "2026-10-01",
+    "filed_after_days": "27",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Joint",
+    "comment": "California CMNTY Choice Fing Auth 5.00% Due Oct 1, 2056 [GS]",
+    "scraped_at": "2026-10-01T16:10:02.934093+00:00"
+  },
+  {
+    "id": "20003802934",
+    "politician_name": "Suzan DelBene",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "SAN JOAQUIN VALLEY CLEAN ENERGY AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-03",
+    "trade_published": "2026-10-01",
+    "filed_after_days": "27",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Joint",
+    "comment": "San Joaquin VY Calif Clean Energy Auth 5.50 % Due Jan 1, 2056 [GS]",
+    "scraped_at": "2026-10-01T16:10:02.934111+00:00"
   },
   {
     "id": "20003802834",
@@ -1190,7 +1295,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Gabrielle Ashtyn Hern Trust",
-    "scraped_at": "2026-10-01T03:55:02.769070+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934336+00:00"
   },
   {
     "id": "20003802835",
@@ -1211,7 +1316,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Kelby Austin Hern Trust",
-    "scraped_at": "2026-10-01T03:55:02.769075+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934341+00:00"
   },
   {
     "id": "20003802836",
@@ -1232,7 +1337,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kaden Everett Hern Trust",
-    "scraped_at": "2026-10-01T03:55:02.769082+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934348+00:00"
   },
   {
     "id": "20003802879",
@@ -1253,7 +1358,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Kaden Everett Hern Trust",
-    "scraped_at": "2026-10-01T03:55:02.769303+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934603+00:00"
   },
   {
     "id": "20003802881",
@@ -1274,7 +1379,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-01T03:55:02.769312+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934612+00:00"
   },
   {
     "id": "20003802882",
@@ -1295,7 +1400,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-01T03:55:02.769317+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934660+00:00"
   },
   {
     "id": "20003802841",
@@ -1316,7 +1421,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769108+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934378+00:00"
   },
   {
     "id": "20003802847",
@@ -1337,7 +1442,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-01T03:55:02.769140+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934412+00:00"
   },
   {
     "id": "20003802853",
@@ -1358,7 +1463,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-01T03:55:02.769170+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934444+00:00"
   },
   {
     "id": "20003802854",
@@ -1379,7 +1484,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-01T03:55:02.769176+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934449+00:00"
   },
   {
     "id": "20003802869",
@@ -1400,7 +1505,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-01T03:55:02.769253+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934554+00:00"
   },
   {
     "id": "20003802874",
@@ -1421,7 +1526,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-01T03:55:02.769279+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934580+00:00"
   },
   {
     "id": "20003802883",
@@ -1442,7 +1547,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769321+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934665+00:00"
   },
   {
     "id": "20003802885",
@@ -1589,7 +1694,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769092+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934360+00:00"
   },
   {
     "id": "20003802839",
@@ -1610,7 +1715,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769099+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934365+00:00"
   },
   {
     "id": "20003802843",
@@ -1631,7 +1736,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769119+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934389+00:00"
   },
   {
     "id": "20003802844",
@@ -1652,7 +1757,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769124+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934394+00:00"
   },
   {
     "id": "20003802846",
@@ -1673,7 +1778,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA",
-    "scraped_at": "2026-10-01T03:55:02.769135+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934406+00:00"
   },
   {
     "id": "20003802848",
@@ -1694,7 +1799,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769145+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934417+00:00"
   },
   {
     "id": "20003802849",
@@ -1715,7 +1820,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769150+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934422+00:00"
   },
   {
     "id": "20003802850",
@@ -1736,7 +1841,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA",
-    "scraped_at": "2026-10-01T03:55:02.769154+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934427+00:00"
   },
   {
     "id": "20003802852",
@@ -1757,7 +1862,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769164+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934439+00:00"
   },
   {
     "id": "20003802857",
@@ -1778,7 +1883,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769192+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934466+00:00"
   },
   {
     "id": "20003802858",
@@ -1799,7 +1904,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA",
-    "scraped_at": "2026-10-01T03:55:02.769197+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934473+00:00"
   },
   {
     "id": "20003802863",
@@ -1820,7 +1925,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769221+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934525+00:00"
   },
   {
     "id": "20003802864",
@@ -1841,7 +1946,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA",
-    "scraped_at": "2026-10-01T03:55:02.769228+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934530+00:00"
   },
   {
     "id": "20003802870",
@@ -1862,7 +1967,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769258+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934560+00:00"
   },
   {
     "id": "20003802872",
@@ -1883,7 +1988,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769268+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934571+00:00"
   },
   {
     "id": "20003802873",
@@ -1904,7 +2009,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769273+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934575+00:00"
   },
   {
     "id": "20003802884",
@@ -1925,7 +2030,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-01T03:55:02.769326+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934672+00:00"
   },
   {
     "id": "20003802825",
@@ -2093,7 +2198,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of New Things Partners LLC",
-    "scraped_at": "2026-10-01T03:55:02.768908+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934169+00:00"
   },
   {
     "id": "10000066876",
@@ -2114,7 +2219,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Summa I LLC",
-    "scraped_at": "2026-10-01T03:55:02.768912+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934173+00:00"
   },
   {
     "id": "10000066877",
@@ -2135,7 +2240,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-01T03:55:02.768917+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934178+00:00"
   },
   {
     "id": "10000066878",
@@ -2156,7 +2261,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-01T03:55:02.768923+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934183+00:00"
   },
   {
     "id": "10000066879",
@@ -2177,7 +2282,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-01T03:55:02.768927+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934189+00:00"
   },
   {
     "id": "20003802845",
@@ -2198,7 +2303,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA",
-    "scraped_at": "2026-10-01T03:55:02.769129+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934401+00:00"
   },
   {
     "id": "20003802851",
@@ -2219,7 +2324,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA",
-    "scraped_at": "2026-10-01T03:55:02.769159+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934433+00:00"
   },
   {
     "id": "20003802871",
@@ -2240,7 +2345,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA",
-    "scraped_at": "2026-10-01T03:55:02.769264+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934566+00:00"
   },
   {
     "id": "20003802758",
@@ -3605,7 +3710,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of New Things Partners LLC",
-    "scraped_at": "2026-10-01T03:55:02.768932+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934195+00:00"
   },
   {
     "id": "10000066881",
@@ -3626,7 +3731,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Other One LLC",
-    "scraped_at": "2026-10-01T03:55:02.768936+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934199+00:00"
   },
   {
     "id": "10000066882",
@@ -3647,7 +3752,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Hedge Holdings LLC",
-    "scraped_at": "2026-10-01T03:55:02.768940+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934203+00:00"
   },
   {
     "id": "10000066883",
@@ -3668,7 +3773,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Summa I LLC",
-    "scraped_at": "2026-10-01T03:55:02.768945+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934209+00:00"
   },
   {
     "id": "10000066884",
@@ -3689,7 +3794,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of LarryMae Partners LLC",
-    "scraped_at": "2026-10-01T03:55:02.768950+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934214+00:00"
   },
   {
     "id": "10000066885",
@@ -3710,7 +3815,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying asset of 3M's Partners LLC",
-    "scraped_at": "2026-10-01T03:55:02.768954+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934218+00:00"
   },
   {
     "id": "10000066886",
@@ -3731,7 +3836,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-01T03:55:02.768958+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934223+00:00"
   },
   {
     "id": "10000066887",
@@ -3752,7 +3857,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-01T03:55:02.768962+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934228+00:00"
   },
   {
     "id": "10000066888",
@@ -3773,7 +3878,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-01T03:55:02.768967+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934232+00:00"
   },
   {
     "id": "10000066889",
@@ -3794,7 +3899,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-01T03:55:02.768972+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934237+00:00"
   },
   {
     "id": "10000066890",
@@ -3815,7 +3920,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-01T03:55:02.768976+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934241+00:00"
   },
   {
     "id": "20003802731",
@@ -4802,7 +4907,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of New Things Partners LLC",
-    "scraped_at": "2026-10-01T03:55:02.768981+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934246+00:00"
   },
   {
     "id": "10000066892",
@@ -4823,7 +4928,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Other One LLC",
-    "scraped_at": "2026-10-01T03:55:02.768991+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934250+00:00"
   },
   {
     "id": "10000066893",
@@ -4844,7 +4949,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Hedge Holdings LLC",
-    "scraped_at": "2026-10-01T03:55:02.768995+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934257+00:00"
   },
   {
     "id": "10000066894",
@@ -4865,7 +4970,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Summa I LLC",
-    "scraped_at": "2026-10-01T03:55:02.769000+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934262+00:00"
   },
   {
     "id": "10000066895",
@@ -4886,7 +4991,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Underlying Asset of LarryMae Partners LLC",
-    "scraped_at": "2026-10-01T03:55:02.769007+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934267+00:00"
   },
   {
     "id": "10000066896",
@@ -4907,7 +5012,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of 3M's Partners LLC",
-    "scraped_at": "2026-10-01T03:55:02.769011+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934273+00:00"
   },
   {
     "id": "10000066897",
@@ -4928,7 +5033,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-01T03:55:02.769015+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934278+00:00"
   },
   {
     "id": "10000066898",
@@ -4949,7 +5054,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-01T03:55:02.769021+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934282+00:00"
   },
   {
     "id": "10000066899",
@@ -4970,7 +5075,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-01T03:55:02.769025+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934287+00:00"
   },
   {
     "id": "20003802827",
@@ -6293,7 +6398,7 @@
     "amount": "$25M\u2013$50M",
     "owner": "Self",
     "comment": "Company: Greenbrier Hotel Corporation and Affiliates  (White Sulphur Springs, WV) Description: Hospitality",
-    "scraped_at": "2026-10-01T03:55:02.768836+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934122+00:00"
   },
   {
     "id": "10000066864",
@@ -10808,7 +10913,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Redeemed Electronic Arts",
-    "scraped_at": "2026-10-01T03:55:02.769035+00:00"
+    "scraped_at": "2026-10-01T16:10:02.934297+00:00"
   },
   {
     "id": "20003802813",
@@ -23894,27 +23999,6 @@
     "scraped_at": "2026-07-15T03:55:03.262137+00:00"
   },
   {
-    "id": "10000065268",
-    "politician_name": "Gary Peters",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "MI",
-    "company": "AT&T Inc",
-    "ticker": "T:US",
-    "sector": "communication-services",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-06-29",
-    "trade_published": "2026-07-02",
-    "filed_after_days": "3",
-    "price": "$21.82",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Self",
-    "comment": "",
-    "scraped_at": "2026-07-06T16:11:50.314856+00:00"
-  },
-  {
     "id": "20003801519",
     "politician_name": "Cleo Fields",
     "party": "Democrat",
@@ -28134,48 +28218,6 @@
     "owner": "Child",
     "comment": "Subholding Of: Schwab DM Brokerage Account",
     "scraped_at": "2026-07-09T03:55:03.466289+00:00"
-  },
-  {
-    "id": "20003800699",
-    "politician_name": "David Taylor",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "OH",
-    "company": "Chevron Corp",
-    "ticker": "CVX:US",
-    "sector": "energy",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-06-15",
-    "trade_published": "2026-07-02",
-    "filed_after_days": "16",
-    "price": "$180.40",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-07-06T16:11:50.314874+00:00"
-  },
-  {
-    "id": "20003800700",
-    "politician_name": "David Taylor",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "OH",
-    "company": "Installed Building Products Inc",
-    "ticker": "IBP:US",
-    "sector": "consumer-discretionary",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-06-15",
-    "trade_published": "2026-07-02",
-    "filed_after_days": "16",
-    "price": "$208.59",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-07-06T16:11:50.314878+00:00"
   },
   {
     "id": "20003801585",
@@ -33216,48 +33258,6 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
     "scraped_at": "2026-07-09T03:55:03.466237+00:00"
-  },
-  {
-    "id": "20003800697",
-    "politician_name": "Max Miller",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "OH",
-    "company": "CLIFFWATER CORPORATE LENDING FUND",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-05-29",
-    "trade_published": "2026-07-02",
-    "filed_after_days": "33",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: 2012 Trust Description: Sale of 3,791.421 units",
-    "scraped_at": "2026-07-06T16:11:50.314862+00:00"
-  },
-  {
-    "id": "20003800698",
-    "politician_name": "Max Miller",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "OH",
-    "company": "CLIFFWATER CORPORATE LENDING FUND",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-05-29",
-    "trade_published": "2026-07-02",
-    "filed_after_days": "33",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: 2009 Trust Description: Sale of 3,438.348 units",
-    "scraped_at": "2026-07-06T16:11:50.314868+00:00"
   },
   {
     "id": "20003800767",
