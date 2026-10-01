@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T08:03:39Z",
-  "trade_count": 10931,
+  "last_updated": "2026-10-01T15:53:27Z",
+  "trade_count": 10935,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -174896,6 +174896,70 @@
       "owned": "26587436",
       "delta_own": "+3%",
       "value": "53882588",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-01",
+      "filing_time": "09:20",
+      "trade_date": "2026-09-30",
+      "ticker": "XENE",
+      "company": "Xenon Pharmaceuticals Inc.",
+      "insider_name": "Kelly Thomas Patrick",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "37.32",
+      "qty": "15000",
+      "owned": "15000",
+      "delta_own": "New",
+      "value": "559740",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-01",
+      "filing_time": "09:19",
+      "trade_date": "2026-09-30",
+      "ticker": "XENE",
+      "company": "Xenon Pharmaceuticals Inc.",
+      "insider_name": "Mortimer Ian",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "37.38",
+      "qty": "30000",
+      "owned": "64223",
+      "delta_own": "+88%",
+      "value": "1121400",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-01",
+      "filing_time": "07:57",
+      "trade_date": "2026-09-29",
+      "ticker": "FLNA",
+      "company": "Filana Therapeutics, Inc.",
+      "insider_name": "Barry Richard",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.91",
+      "qty": "306813",
+      "owned": "1337964",
+      "delta_own": "+30%",
+      "value": "278132",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-01",
+      "filing_time": "06:29",
+      "trade_date": "2026-09-29",
+      "ticker": "GPUS",
+      "company": "Hyperscale Data, Inc.",
+      "insider_name": "Ault Milton C III",
+      "title": "Exec COB, 10%",
+      "trade_type": "P - Purchase",
+      "price": "0.49",
+      "qty": "10313474",
+      "owned": "14888415",
+      "delta_own": "+225%",
+      "value": "5051382",
       "cluster_buy": false
     }
   ]
