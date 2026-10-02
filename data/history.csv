@@ -6968,7 +6968,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-05-21,16:01,2026-05-20,WW,"Ww International, Inc.",Sjoqvist Nikolaj H,Dir,P - Purchase,9.55,10000,12385,+419%,95500,True
 2026-05-21,16:01,2026-05-20,WW,"Ww International, Inc.",Hawks Carney,Dir,P - Purchase,10.01,20000,51442,+64%,200256,True
 2026-05-21,15:38,2026-05-20,CRESY,Cresud Inc,Zang Saul,Dir,P - Purchase,10.63,17000,334720,+5%,180783,True
-2026-05-21,15:30,2026-05-18,LEEEF,Leef Brands Inc.,Anderson Micah Payne,"CEO, 10%",P - Purchase,0.25,135870,14667726,+1%,33968,False
+2026-05-21,15:30,2026-05-18,LEEEF,Leef Brands Inc.,Anderson Micah Payne,"CEO, 10%",P - Purchase,0.25,135870,14667726,+1%,33968,True
 2026-05-21,17:55,2026-05-19,STRR,"Star Equity Holdings, Inc.",Eberwein Jeffrey E.,"CEO, 10%",P - Purchase,10.28,18403,1824461,+1%,189123,False
 2026-05-21,17:49,2026-05-20,FBIN,"Fortune Brands Innovations, Inc.",Garden Edward P,Dir,P - Purchase,34.89,57400,3624932,+2%,2002686,False
 2026-05-21,17:40,2026-05-19,BETA,"Beta Technologies, Inc.",Stone Michael Robert,Dir,P - Purchase,14.59,17135,1937450,+1%,250000,False
@@ -10792,7 +10792,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-29,16:46,2026-09-25,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,34.52,178840,124773872,0%,6174129,False
 2026-09-29,16:07,2026-09-22,AMFN,"American Fusion, Inc.",Rossa Alexander William,Chief Revenue Officer,P - Purchase,0.10,842775,3000000,+39%,85963,False
 2026-09-29,16:00,2026-09-25,HGBL,Heritage Global Inc.,Burnham William L,Dir,P - Purchase,1.33,300000,370000,+429%,399000,False
-2026-09-29,15:37,2026-09-25,PAM,Pampa Energy Inc.,Mariani Gustavo,VicePres,P - Purchase,78.26,25000,1616184,+2%,1956500,False
+2026-09-29,15:37,2026-09-25,PAM,Pampa Energy Inc.,Mariani Gustavo,VicePres,P - Purchase,78.26,25000,1616184,+2%,1956500,True
 2026-09-29,13:49,2026-09-28,QTEX,Qtrex Quantum Ltd.,Ben-Noon Dagi Shahar,CEO,P - Purchase,0.71,168894,3646133,+5%,119543,False
 2026-09-29,18:31,2022-03-10,ASX,"Light & Wonder, Inc.",McLennan Hamish,Dir,P - Purchase,58.97,5750,29500,+24%,339078,False
 2026-09-29,17:37,2026-09-28,PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,8.60,103500,1166000,+10%,889872,False
@@ -10975,3 +10975,13 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-01,20:28,2026-09-29,LPCN,Lipocine Inc.,Higuchi John W.,Dir,P - Purchase,2.20,25007,241365,+12%,55043,False
 2026-10-02,08:36,2026-09-30,NYAX,Nayax Ltd.,Nechmad Yair,"CEO, Co Founder, COB",P - Purchase,47.84,44148,7524641,+1%,2112082,True
 2026-10-02,10:10,2026-10-01,DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,3.70,199099,2882004,+7%,736666,False
+2026-10-02,16:57,2026-10-02,GME,Gamestop Corp.,Cohen Ryan,"Pres, CEO, COB",P - Purchase,24.41,700000,41648522,+2%,17084270,True
+2026-10-02,16:57,2026-05-18,LEEEF,Leef Brands Inc.,Mendola Robert James Jr,Dir,P - Purchase,0.25,357553,357553,New,89388,True
+2026-10-02,16:36,2026-09-28,PAM,Pampa Energy Inc.,Mindlin Damian Miguel,VicePres,P - Purchase,3.89,1432197,14649960,+11%,5564817,True
+2026-10-02,16:30,2026-09-30,PORT.,Southport Acquisition Corp. II,Southport Acquisition Sponsor II LLC,10%,P - Purchase,10.00,500000,500000,New,5000000,True
+2026-10-02,16:30,2026-09-30,QVCG,"Qvc Group, Inc.",Goldentree Asset Management LP,10%,P - Purchase,13.62,5779,11077754,0%,78692,False
+2026-10-02,16:30,2026-09-30,PORT.,Southport Acquisition Corp. II,Spencer Jeb S.,"CEO, CFO, 10%",P - Purchase,10.00,500000,500000,New,5000000,True
+2026-10-02,16:30,2026-09-30,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,33.65,348215,126144687,0%,11716077,False
+2026-10-02,16:11,2026-09-30,FGBI,"First Guaranty Bancshares, Inc.",Smith Edgar R. III,"Dir, 10%",P - Purchase,8.28,99277,5612558,+2%,822014,False
+2026-10-02,16:05,2026-10-01,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,8.69,19050,3322954,+1%,165634,False
+2026-10-02,16:03,2026-10-01,BUKS,Butler National Corp,Daly Joseph Patrick,"Dir, 10%",P - Purchase,4.09,15000,8925000,0%,61387,False
