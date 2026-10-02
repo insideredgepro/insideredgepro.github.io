@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T00:23:00Z",
-  "trade_count": 10964,
+  "last_updated": "2026-10-02T06:29:14Z",
+  "trade_count": 10966,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -175424,6 +175424,38 @@
       "owned": "735080",
       "delta_own": "0%",
       "value": "124802",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-01",
+      "filing_time": "20:55",
+      "trade_date": "2026-10-01",
+      "ticker": "GME",
+      "company": "Gamestop Corp.",
+      "insider_name": "Turner Nat",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "24.33",
+      "qty": "10462",
+      "owned": "10462",
+      "delta_own": "New",
+      "value": "254540",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-01",
+      "filing_time": "20:28",
+      "trade_date": "2026-09-29",
+      "ticker": "LPCN",
+      "company": "Lipocine Inc.",
+      "insider_name": "Higuchi John W.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.20",
+      "qty": "25007",
+      "owned": "241365",
+      "delta_own": "+12%",
+      "value": "55043",
       "cluster_buy": false
     }
   ]
