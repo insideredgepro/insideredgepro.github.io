@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T06:29:14Z",
-  "trade_count": 10966,
+  "last_updated": "2026-10-02T13:23:53Z",
+  "trade_count": 10967,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -175457,6 +175457,22 @@
       "delta_own": "+12%",
       "value": "55043",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-02",
+      "filing_time": "08:36",
+      "trade_date": "2026-09-30",
+      "ticker": "NYAX",
+      "company": "Nayax Ltd.",
+      "insider_name": "Nechmad Yair",
+      "title": "CEO, Co Founder, COB",
+      "trade_type": "P - Purchase",
+      "price": "47.84",
+      "qty": "44148",
+      "owned": "7524641",
+      "delta_own": "+1%",
+      "value": "2112082",
+      "cluster_buy": true
     }
   ]
 }
