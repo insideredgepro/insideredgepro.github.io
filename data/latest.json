@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T13:23:53Z",
-  "trade_count": 10967,
+  "last_updated": "2026-10-02T18:50:53Z",
+  "trade_count": 10968,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -175473,6 +175473,22 @@
       "delta_own": "+1%",
       "value": "2112082",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-02",
+      "filing_time": "10:10",
+      "trade_date": "2026-10-01",
+      "ticker": "DLHC",
+      "company": "Dlh Holdings Corp.",
+      "insider_name": "Mink Brook Asset Management LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "3.70",
+      "qty": "199099",
+      "owned": "2882004",
+      "delta_own": "+7%",
+      "value": "736666",
+      "cluster_buy": false
     }
   ]
 }
