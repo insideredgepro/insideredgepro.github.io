@@ -10805,12 +10805,12 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-29,17:37,2026-09-28,PPRTA,,Scully William P,10% Owner,P - Purchase,8.60,103500,187000,+124%,889872,False
 2026-09-29,17:26,2026-09-29,CCOUR,,Pale Fire Capital Se,10% Owner,P - Purchase,4.61,1000000,28806415,+4%,4606200,False
 2026-09-29,17:26,2026-09-25,CCOUR,,Pale Fire Capital Se,10% Owner,P - Purchase,5.06,1332742,27806415,+5%,6748872,False
-2026-09-29,16:59,2026-09-29,GGME,Invesco Next Gen Media and Gaming ETF,Cohen Ryan,"President, CEO and Chairman",P - Purchase,23.48,450000,40948522,+1%,10563796,False
+2026-09-29,16:59,2026-09-29,GGME,Invesco Next Gen Media and Gaming ETF,Cohen Ryan,"President, CEO and Chairman",P - Purchase,23.48,450000,40948522,+1%,10563796,True
 2026-09-29,16:46,2026-09-25,CCRBG,,Nippon Life Insurance Co,10% Owner,P - Purchase,34.52,178840,124773872,+0%,6174129,False
 2026-09-29,16:05,2026-09-28,SSWZ,,Dakos Andrew,President and CEO,P - Purchase,5.77,10000,60000,+20%,57690,False
 2026-09-29,16:05,2026-09-25,SSWZ,,Dakos Andrew,President and CEO,P - Purchase,5.81,10000,50000,+25%,58124,False
 2026-09-29,16:00,2026-09-25,HHGBL,,Burnham William L,Director,P - Purchase,1.33,300000,300000,New,399000,False
-2026-09-29,15:37,2026-09-25,PPAM,,Mariani Gustavo,Vicepresident,P - Purchase,78.26,25000,1616184,+2%,1956500,False
+2026-09-29,15:37,2026-09-25,PPAM,,Mariani Gustavo,Vicepresident,P - Purchase,78.26,25000,1616184,+2%,1956500,True
 2026-09-29,13:49,2026-09-28,QQTEX,,Ben-Noon Dagi Shahar,Chief Executive Officer,P - Purchase,0.71,168894,3646133,+5%,119543,False
 2026-09-29,11:22,2026-09-28,FFTHY,,Housey William A Jr,"Officer of Advisor, Port. Mgr.",P - Purchase,12.87,2500,24341,+11%,32162,True
 2026-09-29,10:02,2026-09-28,MMXF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,20.74,4133,2347202,+0%,85718,False
@@ -10860,8 +10860,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-25,16:15,2026-09-24,AANNX,,Love Douglas,PRESIDENT AND CEO,P - Purchase,3.83,26065,390476,+7%,99829,False
 2026-09-25,16:15,2026-09-24,MMX,,Lee Chae,Chief Executive Officer,P - Purchase,3.22,20000,388750,+5%,64398,False
 2026-09-25,16:15,2026-09-23,MMX,,Lee Chae,Chief Executive Officer,P - Purchase,3.18,80000,368750,+28%,254098,False
-2026-09-25,16:07,2026-09-24,CCLPR,,Levinson Sam,Director,P - Purchase,3.38,9317,411021,+2%,31487,False
-2026-09-25,16:07,2026-09-23,CCLPR,,Levinson Sam,Director,P - Purchase,3.38,13606,401704,+4%,45947,False
+2026-09-25,16:07,2026-09-24,CCLPR,,Levinson Sam,Director,P - Purchase,3.38,9317,411021,+2%,31487,True
+2026-09-25,16:07,2026-09-23,CCLPR,,Levinson Sam,Director,P - Purchase,3.38,13606,401704,+4%,45947,True
 2026-09-25,14:58,2026-09-24,DDHF,,Dimartino Joseph S,Director,P - Purchase,2.22,20000,240000,+9%,44400,False
 2026-09-25,14:29,2026-09-24,DDFDV,,White Parker,10% Owner,P - Purchase,8.96,9462,9462,New,84780,True
 2026-09-25,11:33,2026-09-24,FFTHY,,Housey William A Jr,"Officer of Advisor, Port. Mgr.",P - Purchase,12.90,5000,21841,+30%,64500,True
@@ -10897,7 +10897,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-23,21:01,2026-09-18,CCV,,Harari Eliyahou Et Al,10% Owner,P - Purchase,5.69,1757469,1396494,New,9999999,False
 2026-09-23,20:58,2026-09-22,DDFDV,,Kang Daniel,Chief Strategy Officer,P - Purchase,8.81,3540,3540,New,31187,True
 2026-09-23,20:58,2026-09-22,DDFDV,,Kang Daniel,Chief Strategy Officer,P - Purchase,8.84,6900,6900,New,60996,True
-2026-09-23,20:21,2026-09-21,BBPRE,,Macdonald Ryan S,Director,P - Purchase,11.97,10400,35575,+41%,124522,False
+2026-09-23,20:21,2026-09-21,BBPRE,,Macdonald Ryan S,Director,P - Purchase,11.97,10400,35575,+41%,124522,True
 2026-09-23,18:02,2026-09-21,SSPRU,,Steel Partners Holdings L.P.,10% Owner,P - Purchase,2.04,52780,3482160,+2%,107671,False
 2026-09-23,17:48,2026-09-22,AAIAI,,Affeldt Eric,Director,P - Purchase,3.50,42857,47857,+857%,150000,False
 2026-09-23,17:35,2026-09-21,EETRA,,Gordon Carl L,Director,P - Purchase,15.00,1333333,5126891,+35%,19999995,True
@@ -10985,3 +10985,98 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-02,16:11,2026-09-30,FGBI,"First Guaranty Bancshares, Inc.",Smith Edgar R. III,"Dir, 10%",P - Purchase,8.28,99277,5612558,+2%,822014,False
 2026-10-02,16:05,2026-10-01,ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,8.69,19050,3322954,+1%,165634,False
 2026-10-02,16:03,2026-10-01,BUKS,Butler National Corp,Daly Joseph Patrick,"Dir, 10%",P - Purchase,4.09,15000,8925000,0%,61387,False
+2026-10-02,20:24,2026-10-01,XXAIR,,Lin Yi-Chien,10% Owner,P - Purchase,2.80,15393,145393,+12%,43100,False
+2026-10-02,16:57,2026-10-02,GGME,Invesco Next Gen Media and Gaming ETF,Cohen Ryan,"President, CEO and Chairman",P - Purchase,24.41,700000,41648522,+2%,17084270,True
+2026-10-02,16:36,2026-09-28,PPAM,,Mindlin Damian Miguel,Vicepresident,P - Purchase,3.89,1432197,13959067,+11%,5564817,True
+2026-10-02,16:30,2026-10-01,QQVCG,,Goldentree Asset Management Lp,10% Owner,P - Purchase,13.62,2872,11077754,+0%,39118,False
+2026-10-02,16:30,2026-09-30,QQVCG,,Goldentree Asset Management Lp,10% Owner,P - Purchase,13.61,2907,11074882,+0%,39574,False
+2026-10-02,16:30,2026-09-30,CCRBG,,Nippon Life Insurance Co,10% Owner,P - Purchase,33.65,348215,126144687,+0%,11716077,False
+2026-10-02,16:11,2026-09-30,FFGBI,,Smith Edgar R. Iii,Director,P - Purchase,8.28,99277,958523,+12%,822014,False
+2026-10-02,16:05,2026-10-01,AACOG,,Opaleye Management Inc.,10% Owner,P - Purchase,8.69,19050,3222954,+1%,165634,False
+2026-10-02,10:10,2026-10-01,DDLHC,,Mink Brook Asset Management Ll,10% Owner,P - Purchase,3.70,199099,893421,+29%,736666,False
+2026-10-02,08:36,2026-09-30,NNYAX,Nuveen NY Municipal Bond A,Nechmad Yair,"CEO, Co Founder & Chairman",P - Purchase,47.84,44148,7524641,+1%,2112082,True
+2026-10-01,20:55,2026-10-01,GGME,Invesco Next Gen Media and Gaming ETF,Turner Nat,Director,P - Purchase,24.33,10462,10462,New,254540,True
+2026-10-01,20:28,2026-09-30,LLPCN,,Higuchi John W.,Director,P - Purchase,2.23,15970,241365,+7%,35613,False
+2026-10-01,20:13,2026-09-29,HHELP,,Cavers Greg,Chief Financial Officer,P - Purchase,12.91,3000,3000,New,38730,False
+2026-10-01,20:09,2026-10-01,AAVR,,L1 Capital Pty Ltd,10% Owner,P - Purchase,7.60,322940,5200767,+7%,2454344,False
+2026-10-01,20:09,2026-09-30,AAVR,,L1 Capital Pty Ltd,10% Owner,P - Purchase,7.72,74286,4877827,+2%,573488,False
+2026-10-01,19:04,2026-10-01,CCSWC,,Thomas William R Iii,Director,P - Purchase,23.04,2170,22842,+10%,50005,False
+2026-10-01,18:58,2026-09-29,VVENU,,Finke Thomas M,Director,P - Purchase,1.52,50000,379605,+15%,75900,False
+2026-10-01,17:55,2026-09-29,FFUND,,George W Whitney,Senior Portfolio Manager,P - Purchase,10.05,122111,3375936,+4%,1227216,False
+2026-10-01,17:55,2026-09-29,FFUND,,George W Whitney,Senior Portfolio Manager,P - Purchase,10.05,59702,8160307,+1%,600005,False
+2026-10-01,17:52,2026-09-30,AASPI,,Ryan Robert John Andrew,Director,P - Purchase,2.68,15000,675222,+2%,40200,False
+2026-10-01,17:50,2026-09-30,PPRHI,,Sarafa Joseph D,Director,P - Purchase,6.75,11000,61000,+22%,74247,True
+2026-10-01,17:47,2026-09-30,PPRHI,,O'Hanlon Isolde,Director,P - Purchase,6.75,7250,7964,"+1,015%",48935,True
+2026-10-01,17:43,2026-09-30,PPRHI,,Smith James Grant,Director,P - Purchase,6.75,7250,15953,+83%,48935,True
+2026-10-01,17:42,2026-09-29,OORCL,,Rusckowski Stephen H,Director,P - Purchase,139.35,25000,25390,"+6,410%",3483800,False
+2026-10-01,17:37,2026-09-30,PPRHI,,Roney Brian J,Chief Executive Officer,P - Purchase,6.75,7500,80390,+10%,50623,True
+2026-10-01,17:33,2026-09-30,PPRHI,,Meloche Harold J,"CFO, Treasurer",P - Purchase,6.38,4100,14468,+40%,26138,True
+2026-10-01,17:30,2026-09-30,UUUU,Energy Fuels Inc.,Ault Milton C Iii,Director,P - Purchase,5.13,18000,1166096,+2%,92412,False
+2026-10-01,16:58,2026-09-30,DDKS,,Barnes Matthew,President - Foot Locker Intl,P - Purchase,136.39,3665,11965,+44%,499869,True
+2026-10-01,16:46,2026-09-30,GGTLB,,Staples William,Chief Executive Officer,P - Purchase,46.62,2677,735080,+0%,124802,False
+2026-10-01,16:30,2026-09-29,SSLBT,,Wang Ching-Dong,Chief Executive Officer,P - Purchase,0.50,4545306,333832129,+1%,2272653,False
+2026-10-01,16:16,2026-09-30,PPCG,,Larsen John O,Director,P - Purchase,12.20,7500,36685,+26%,91500,False
+2026-10-01,16:15,2026-09-29,CCRBG,,Nippon Life Insurance Co,10% Owner,P - Purchase,33.67,216818,125796472,+0%,7300934,False
+2026-10-01,16:06,2026-09-29,TTKLF,,Kanayama Mei,Representative Director (PEO),P - Purchase,0.27,1396755,8613191,+19%,382711,False
+2026-10-01,16:05,2026-09-30,LLILAK,,Malone John C,Director Emeritus,P - Purchase,8.98,21013,1412175,+2%,188728,False
+2026-10-01,16:05,2026-09-30,LLILA,,Malone John C,Director Emeritus,P - Purchase,8.98,21013,1412175,+2%,188728,False
+2026-10-01,15:54,2026-09-30,MMXF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,20.39,1238,2348440,+0%,25243,False
+2026-10-01,15:52,2026-09-30,GGF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,10.71,11059,3718533,+0%,118442,False
+2026-10-01,15:34,2026-09-29,GGBR,,Realty Advisors Inc,10% Owner,P - Purchase,1.00,2000000,2400000,+500%,2000000,False
+2026-10-01,15:31,2026-09-30,SSPG,,Stewart Marta R,Director,P - Purchase,202.78,199,18199,+1%,40353,True
+2026-10-01,15:28,2026-09-30,SSPG,,Smith Daniel C.,Director,P - Purchase,202.78,350,34830,+1%,70973,True
+2026-10-01,15:27,2026-09-30,SSPG,,Selig Stefan M,Director,P - Purchase,202.78,208,34020,+1%,42178,True
+2026-10-01,15:22,2026-09-30,SSPG,,Rodkin Gary M,Director,P - Purchase,202.78,232,21248,+1%,47045,True
+2026-10-01,15:17,2026-09-30,SSPG,,Leibowitz Reuben S,Director,P - Purchase,202.78,480,56277,+1%,97334,True
+2026-10-01,15:12,2026-09-30,SSPG,,Glasscock Larry C,Director,P - Purchase,202.78,367,46269,+1%,74420,True
+2026-10-01,15:09,2026-09-30,SSPG,,Aeppel Glyn,Director,P - Purchase,202.78,222,21289,+1%,45017,True
+2026-10-01,15:04,2026-10-01,CCRESY,,Elsztain Alejandro Gustavo,CEO,P - Purchase,11.37,8761,1243098,+1%,99578,False
+2026-10-01,15:04,2026-09-30,CCRESY,,Elsztain Alejandro Gustavo,CEO,P - Purchase,11.63,8573,1234337,+1%,99704,False
+2026-10-01,14:04,2026-09-29,FFUL,,Happe Michael J,Director,P - Purchase,49.62,2000,3343,+149%,99250,True
+2026-10-01,09:20,2026-09-30,XXENE,,Kelly Thomas Patrick,Chief Financial Officer,P - Purchase,37.32,15000,15000,New,559740,True
+2026-10-01,09:19,2026-09-30,XXENE,,Mortimer Ian,PRESIDENT & CEO,P - Purchase,37.38,30000,49923,+151%,1121400,True
+2026-10-01,07:57,2026-09-30,FFLNA,,Barry Richard,President & CEO,P - Purchase,0.92,100000,1337964,+8%,92000,False
+2026-10-01,07:57,2026-09-29,FFLNA,,Barry Richard,President & CEO,P - Purchase,0.90,206813,1237964,+20%,186132,False
+2026-10-01,06:29,2026-09-30,GGPUS,,Ault Milton C Iii,Executive Chairman,P - Purchase,0.49,10311874,13925566,+285%,5051116,False
+2026-09-30,20:46,2026-09-30,GGPI,,"Conifer Management, L.L.C.",10% Owner,P - Purchase,242.03,71592,1912290,+4%,17327669,False
+2026-09-30,20:46,2026-09-29,GGPI,,"Conifer Management, L.L.C.",10% Owner,P - Purchase,239.48,68648,1840698,+4%,16440111,False
+2026-09-30,20:46,2026-09-28,GGPI,,"Conifer Management, L.L.C.",10% Owner,P - Purchase,243.58,133472,1772050,+8%,32510537,False
+2026-09-30,20:38,2026-09-28,LLPCN,,Higuchi John W.,Director,P - Purchase,2.16,12561,216358,+6%,27132,False
+2026-09-30,20:33,2026-09-30,BBPRE,,Kamfar Ramin,Director,P - Purchase,12.61,154104,906360,+20%,1943544,True
+2026-09-30,20:33,2026-09-29,BBPRE,,Kamfar Ramin,Director,P - Purchase,12.60,135817,752256,+22%,1711688,True
+2026-09-30,20:33,2026-09-28,BBPRE,,Kamfar Ramin,Director,P - Purchase,12.50,135669,616439,+28%,1696012,True
+2026-09-30,20:30,2026-09-30,BBPRE,,Ruddy Jordan B.,President,P - Purchase,12.60,2380,16052,+17%,29988,True
+2026-09-30,20:30,2026-09-28,BBPRE,,Ruddy Jordan B.,President,P - Purchase,12.49,2400,13672,+21%,29975,True
+2026-09-30,19:52,2026-09-30,LLEN,,Berkshire Hathaway Inc,10% Owner,P - Purchase,81.58,642821,26034436,+3%,52441313,False
+2026-09-30,19:52,2026-09-29,LLEN,,Berkshire Hathaway Inc,10% Owner,P - Purchase,81.93,12389,25395623,+0%,1015084,False
+2026-09-30,19:52,2026-09-28,LLEN,,Berkshire Hathaway Inc,10% Owner,P - Purchase,81.96,5200,25383334,+0%,426192,False
+2026-09-30,19:52,2026-09-30,BBRK-B,,Berkshire Hathaway Inc,10% Owner,P - Purchase,81.58,642821,26034436,+3%,52441313,False
+2026-09-30,19:52,2026-09-29,BBRK-B,,Berkshire Hathaway Inc,10% Owner,P - Purchase,81.93,12389,25395623,+0%,1015084,False
+2026-09-30,19:52,2026-09-28,BBRK-B,,Berkshire Hathaway Inc,10% Owner,P - Purchase,81.96,5200,25383334,+0%,426192,False
+2026-09-30,19:52,2026-09-30,BBRK-A,,Berkshire Hathaway Inc,10% Owner,P - Purchase,81.58,642821,26034436,+3%,52441313,False
+2026-09-30,19:52,2026-09-29,BBRK-A,,Berkshire Hathaway Inc,10% Owner,P - Purchase,81.93,12389,25395623,+0%,1015084,False
+2026-09-30,19:52,2026-09-28,BBRK-A,,Berkshire Hathaway Inc,10% Owner,P - Purchase,81.96,5200,25383334,+0%,426192,False
+2026-09-30,17:51,2026-09-28,CCLPR,,Bistricer Jacob,Chief Operating Officer,P - Purchase,3.35,73500,73500,New,246225,True
+2026-09-30,17:34,2026-09-28,KKWY,,Horowitz Joshua,Director,P - Purchase,9.28,2717,383820,+1%,25202,False
+2026-09-30,17:29,2026-09-28,AADRX,Invesco Select Risk: Growth Investor R,Chimovits Erez,Director,P - Purchase,17.00,61516,9292025,+1%,1045772,True
+2026-09-30,17:25,2026-09-28,AADRX,Invesco Select Risk: Growth Investor R,Gordon Carl L,Director,P - Purchase,17.00,950000,14325529,+7%,16150000,True
+2026-09-30,17:23,2026-09-28,AADRX,Invesco Select Risk: Growth Investor R,Orbimed Advisors Llc,Director,P - Purchase,17.00,950000,14325529,+7%,16150000,True
+2026-09-30,17:10,2026-09-29,PPRTA,,Scully William P,10% Owner,P - Purchase,8.68,162000,214000,+312%,1405674,False
+2026-09-30,17:00,2026-09-28,CCRBG,,Nippon Life Insurance Co,10% Owner,P - Purchase,34.15,805782,125579654,+1%,27519616,False
+2026-09-30,16:42,2026-09-28,BBBD,,Di Marcello Francesco,Executive Officer,P - Purchase,17.65,56850,112694,+102%,1003403,False
+2026-09-30,16:33,2026-09-30,AAFCG,,Tannenbaum Leonard M,Director,P - Purchase,3.63,44643,7109614,+1%,162054,False
+2026-09-30,16:33,2026-09-29,AAFCG,,Tannenbaum Leonard M,Director,P - Purchase,3.59,40081,7064971,+1%,143891,False
+2026-09-30,16:33,2026-09-28,AAFCG,,Tannenbaum Leonard M,Director,P - Purchase,3.57,10673,7024890,+0%,38103,False
+2026-09-30,16:31,2026-09-29,KKOD,,Baker Bros. Advisors Lp,Director,P - Purchase,85.05,33726,20191214,+0%,2868255,False
+2026-09-30,16:31,2026-09-28,KKOD,,Baker Bros. Advisors Lp,Director,P - Purchase,88.77,681866,20159386,+4%,60529354,False
+2026-09-30,16:30,2026-09-28,KKOD,,Baker Bros. Advisors Lp,Director,P - Purchase,83.58,418323,19515907,+2%,34963077,False
+2026-09-30,16:29,2026-09-28,KKOD,,Baker Bros. Advisors Lp,Director,P - Purchase,72.57,807840,19121134,+4%,58625708,False
+2026-09-30,16:08,2026-09-28,KKBDC,,Robo James L,Director,P - Purchase,13.03,146755,766716,+24%,1912658,False
+2026-09-30,16:03,2026-09-28,FFLNA,,Barry Richard,President & CEO,P - Purchase,0.84,93091,1031151,+10%,78196,False
+2026-09-30,11:15,2026-09-28,FFUL,,Handley Thomas W,Director,P - Purchase,49.41,2000,2000,New,98820,True
+2026-09-30,11:15,2026-09-28,FFUL,,Rasmussen Trangsrud Teresa J,Director,P - Purchase,48.96,2042,4053,+102%,99984,True
+2026-09-30,11:15,2026-09-28,FFUL,,Florness Daniel L,Director,P - Purchase,49.34,2030,3381,+150%,100160,True
+2026-09-30,11:15,2026-09-29,FFUL,,Lauber Charles T,Director,P - Purchase,49.87,2005,3356,+148%,99985,True
+2026-09-30,11:15,2026-09-28,FFUL,,Zaheer Srilata,Director,P - Purchase,49.06,2000,3346,+149%,98120,True
+2026-09-30,11:03,2026-09-29,NNYAX,Nuveen NY Municipal Bond A,Nechmad Yair,"CEO, Co Founder & Chairman",P - Purchase,44.79,22789,7480493,+0%,1020735,True
+2026-09-30,11:03,2026-09-28,NNYAX,Nuveen NY Municipal Bond A,Nechmad Yair,"CEO, Co Founder & Chairman",P - Purchase,45.01,24146,7457704,+0%,1086845,True
