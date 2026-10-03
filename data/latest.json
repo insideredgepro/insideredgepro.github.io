@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T01:37:35Z",
-  "trade_count": 11073,
+  "last_updated": "2026-10-03T14:10:46Z",
+  "trade_count": 11074,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -177169,6 +177169,22 @@
       "delta_own": "+0%",
       "value": "1086845",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-02",
+      "filing_time": "20:24",
+      "trade_date": "2026-09-29",
+      "ticker": "XAIR",
+      "company": "Beyond Air, Inc.",
+      "insider_name": "Lin Yi-Chien",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.77",
+      "qty": "20393",
+      "owned": "145393",
+      "delta_own": "+16%",
+      "value": "56590",
+      "cluster_buy": false
     }
   ]
 }
