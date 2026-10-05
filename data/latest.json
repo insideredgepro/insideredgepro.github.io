@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-05T03:08:44Z",
-  "trade_count": 11074,
+  "last_updated": "2026-10-05T11:00:34Z",
+  "trade_count": 11075,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -177184,6 +177184,22 @@
       "owned": "145393",
       "delta_own": "+16%",
       "value": "56590",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-05",
+      "filing_time": "06:10",
+      "trade_date": "2026-09-30",
+      "ticker": "VCIG",
+      "company": "Vci Global Ltd",
+      "insider_name": "Hoo Voon Him",
+      "title": "CEO, Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.62",
+      "qty": "193349",
+      "owned": "341719",
+      "delta_own": "+130%",
+      "value": "313225",
       "cluster_buy": false
     }
   ]
