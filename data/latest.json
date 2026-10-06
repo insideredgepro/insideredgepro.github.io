@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-06T08:20:14Z",
-  "trade_count": 11097,
+  "last_updated": "2026-10-06T15:34:39Z",
+  "trade_count": 11099,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -177552,6 +177552,38 @@
       "owned": "29006073",
       "delta_own": "+9%",
       "value": "192634433",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-06",
+      "filing_time": "07:29",
+      "trade_date": "2026-10-05",
+      "ticker": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Troim Tor Olav",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.13",
+      "qty": "1500000",
+      "owned": "32117808",
+      "delta_own": "+5%",
+      "value": "6197100",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-06",
+      "filing_time": "06:18",
+      "trade_date": "2026-10-02",
+      "ticker": "AVR",
+      "company": "Anteris Technologies Global Corp.",
+      "insider_name": "L1 Capital Pty Ltd",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "7.58",
+      "qty": "884809",
+      "owned": "12778380",
+      "delta_own": "+7%",
+      "value": "6708731",
       "cluster_buy": false
     }
   ]
