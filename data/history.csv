@@ -10907,7 +10907,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-09-23,16:59,2026-09-23,IINBX,,Kayyem Jon Faiz,Director,P - Purchase,100.00,5000,434360,+1%,500000,True
 2026-09-23,16:41,2026-09-22,IINR,,Gieselman Scott,Director,P - Purchase,13.06,10000,123467,+9%,130650,True
 2026-09-23,16:41,2026-09-21,IINR,,Gieselman Scott,Director,P - Purchase,12.62,18467,113467,+19%,233127,True
-2026-09-23,16:37,2026-09-22,AALP,,Villani Fiorenzo,See Remarks,P - Purchase,4.40,10000,48886,+26%,44047,False
+2026-09-23,16:37,2026-09-22,AALP,,Villani Fiorenzo,See Remarks,P - Purchase,4.40,10000,48886,+26%,44047,True
 2026-09-23,16:32,2026-09-23,KKBDC,,Robo James L,Director,P - Purchase,13.08,94120,514961,+22%,1230995,False
 2026-09-23,16:32,2026-09-22,KKBDC,,Robo James L,Director,P - Purchase,13.13,20841,420841,+5%,273747,False
 2026-09-23,16:30,2026-09-21,CCRBG,,Nippon Life Insurance Co,10% Owner,P - Purchase,35.08,212828,123820013,+0%,7465942,False
@@ -11106,3 +11106,47 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-05,21:02,2026-10-01,LEN,Lennar Corp /New/,Berkshire Hathaway Inc,10%,P - Purchase,79.65,2418637,29006073,+9%,192634433,False
 2026-10-06,07:29,2026-10-05,BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,4.13,1500000,32117808,+5%,6197100,False
 2026-10-06,06:18,2026-10-02,AVR,Anteris Technologies Global Corp.,L1 Capital Pty Ltd,10%,P - Purchase,7.58,884809,12778380,+7%,6708731,False
+2026-10-06,16:32,2026-10-05,HHRL,,Newlands William A,Chairman of the Board,P - Purchase,20.10,10000,76375,+15%,201000,False
+2026-10-06,16:30,2026-10-02,QQVCG,,Goldentree Asset Management Lp,10% Owner,P - Purchase,13.85,250000,11327754,+2%,3462500,False
+2026-10-06,16:30,2026-10-02,CCRBG,,Nippon Life Insurance Co,10% Owner,P - Purchase,34.27,187155,126604050,+0%,6414045,False
+2026-10-06,16:15,2026-10-02,DDYN,,Posner Brian S,Director,P - Purchase,16.00,2500,27000,+10%,40000,False
+2026-10-06,16:02,2026-10-06,NNXH,,Lemonis Marcus,EXECUTIVE CHAIRMAN & CEO,P - Purchase,2.76,362319,1076860,+51%,1000000,False
+2026-10-06,14:39,2026-10-01,SSAH,,Rusnak Paul P.,10% Owner,P - Purchase,59.50,21645,5121645,+0%,1287878,False
+2026-10-06,13:53,2026-10-02,PPRTA,,Scully William P,10% Owner,P - Purchase,8.57,100000,314000,+47%,857240,False
+2026-10-06,07:29,2026-10-05,BBORR,,Troim Tor Olav,Director,P - Purchase,4.13,1500000,32035941,+5%,6197100,False
+2026-10-06,06:18,2026-10-05,AAVR,,L1 Capital Pty Ltd,10% Owner,P - Purchase,7.51,648455,12778380,+5%,4869897,False
+2026-10-06,06:18,2026-10-02,AAVR,,L1 Capital Pty Ltd,10% Owner,P - Purchase,7.78,236354,12129925,+2%,1838834,False
+2026-10-05,21:45,2026-10-01,AACCV,,Rubiera Michael,Chief Executive Officer,P - Purchase,18.00,3200,3200,New,57600,True
+2026-10-05,21:45,2026-10-01,AACCV,,Rubiera Michael,Chief Executive Officer,P - Purchase,18.00,200000,1424285,+16%,3600000,True
+2026-10-05,21:27,2026-10-01,AACCV,,Jones Ginger M,Director,P - Purchase,18.00,10000,10000,New,180000,True
+2026-10-05,21:27,2026-10-01,AACCV,,Heckes Howard C,Director,P - Purchase,18.00,5000,5000,New,90000,True
+2026-10-05,21:27,2026-10-01,AACCV,,Donahue Paul D,Director,P - Purchase,18.00,7000,7000,New,126000,True
+2026-10-05,21:27,2026-10-01,AACCV,,Jewell Brent C,Chief Operating Officer,P - Purchase,18.00,2500,304068,+1%,45000,True
+2026-10-05,21:02,2026-10-02,LLEN,,Berkshire Hathaway Inc,10% Owner,P - Purchase,79.44,1708095,28438045,+6%,135689427,False
+2026-10-05,21:02,2026-10-01,LLEN,,Berkshire Hathaway Inc,10% Owner,P - Purchase,80.14,710542,26740126,+3%,56945006,False
+2026-10-05,19:41,2026-10-05,NNXRT,,Mcgraner Matt,See Remarks,P - Purchase,18.42,5500,361605,+2%,101310,False
+2026-10-05,19:41,2026-10-01,NNXRT,,Mcgraner Matt,See Remarks,P - Purchase,18.89,5280,356105,+2%,99739,False
+2026-10-05,19:24,2026-10-02,OOM,,Leonard Braden Michael,10% Owner,P - Purchase,3.88,16575,2764610,+1%,64241,False
+2026-10-05,19:24,2026-10-01,OOM,,Leonard Braden Michael,10% Owner,P - Purchase,3.53,228334,2748035,+9%,806019,False
+2026-10-05,19:13,2026-09-14,AALP,,Mitin Yury,See Remarks,P - Purchase,4.29,9000,12657,+246%,38610,True
+2026-10-05,18:46,2026-10-02,GGRCE,,Opaleye Management Inc.,10% Owner,P - Purchase,2.07,20000,2856963,+1%,41368,False
+2026-10-05,18:46,2026-10-01,GGRCE,,Opaleye Management Inc.,10% Owner,P - Purchase,2.04,38796,2836963,+1%,78961,False
+2026-10-05,18:06,2026-10-05,BBPRE,,Kamfar Ramin,Director,P - Purchase,12.71,93744,1175524,+9%,1191308,True
+2026-10-05,18:06,2026-10-02,BBPRE,,Kamfar Ramin,Director,P - Purchase,12.69,50931,1081780,+5%,646207,True
+2026-10-05,18:06,2026-10-01,BBPRE,,Kamfar Ramin,Director,P - Purchase,12.62,124489,1030849,+14%,1570678,True
+2026-10-05,18:00,2026-10-02,BBPRE,,Macdonald Ryan S,Director,P - Purchase,12.70,6700,42275,+19%,85090,True
+2026-10-05,16:45,2026-10-01,CCRBG,,Nippon Life Insurance Co,10% Owner,P - Purchase,33.07,272208,126416895,+0%,9002473,False
+2026-10-05,16:27,2026-10-05,LLND,"Landmark Land Company, Inc.",Elsztain Alejandro Gustavo,Director,P - Purchase,3.73,11750,727120,+2%,43782,False
+2026-10-05,16:27,2026-10-02,LLND,"Landmark Land Company, Inc.",Elsztain Alejandro Gustavo,Director,P - Purchase,3.48,15000,715370,+2%,52148,False
+2026-10-05,16:27,2026-10-01,LLND,"Landmark Land Company, Inc.",Elsztain Alejandro Gustavo,Director,P - Purchase,3.43,15000,700370,+2%,51524,False
+2026-10-05,16:27,2026-09-30,LLND,"Landmark Land Company, Inc.",Elsztain Alejandro Gustavo,Director,P - Purchase,3.48,15000,685370,+2%,52244,False
+2026-10-05,16:24,2026-09-30,EEP,,Mulacek Phil E,Director,P - Purchase,2.25,11915,931727,+1%,26825,False
+2026-10-05,13:14,2026-10-02,MMKC,,Hattersley Gavin,Director,P - Purchase,44.61,1000,3906,+34%,44610,False
+2026-10-05,12:12,2026-08-25,BBBD,,Alvarez Denise Aguiar,Director,P - Purchase,16.69,345000,6394984,+6%,5757279,False
+2026-10-05,11:12,2026-10-02,MMXF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,19.74,1573,2367934,+0%,31051,False
+2026-10-05,11:12,2026-10-01,MMXF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,20.00,17921,2366361,+1%,358420,False
+2026-10-05,10:57,2026-10-01,GGRX,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,9.41,5720,2162272,+0%,53825,False
+2026-10-05,10:21,2026-08-31,BBBD,,Alvarez Denise Aguiar,Director,P - Purchase,17.22,1950000,8344984,+30%,33581299,False
+2026-10-05,09:08,2026-10-02,SSKYH,,Gonzalez Francisco,Chief Financial Officer,P - Purchase,9.25,3850,718538,+1%,35612,False
+2026-10-05,08:56,2026-10-02,EESEA,,Pittas Aristeidis P,Director,P - Purchase,71.07,1050,58950,+2%,74626,False
+2026-10-05,06:10,2026-09-30,VVCIG,,Hoo Voon Him,CEO and Director,P - Purchase,1.62,193349,341715,+130%,313225,False
