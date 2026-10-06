@@ -392,7 +392,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch SIMPLE Managed Account",
-    "scraped_at": "2026-10-06T03:55:02.713076+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555699+00:00"
   },
   {
     "id": "20003802936",
@@ -413,7 +413,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Stocks, Bonds, & Mutual Funds Description: 35,000 units",
-    "scraped_at": "2026-10-06T03:55:02.713154+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555766+00:00"
   },
   {
     "id": "20003802938",
@@ -434,7 +434,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Stocks, Bonds, & Mutual Funds Description: sale of 35,000 units",
-    "scraped_at": "2026-10-06T03:55:02.713163+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555774+00:00"
   },
   {
     "id": "20003802944",
@@ -455,7 +455,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-10-06T03:55:02.713100+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555715+00:00"
   },
   {
     "id": "20003802945",
@@ -476,7 +476,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-10-06T03:55:02.713106+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555720+00:00"
   },
   {
     "id": "20003802946",
@@ -497,7 +497,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-10-06T03:55:02.713111+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555725+00:00"
   },
   {
     "id": "20003802947",
@@ -518,7 +518,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-10-06T03:55:02.713117+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555731+00:00"
   },
   {
     "id": "20003802948",
@@ -539,7 +539,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-10-06T03:55:02.713122+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555735+00:00"
   },
   {
     "id": "20003802829",
@@ -563,6 +563,48 @@
     "scraped_at": "2026-09-26T03:55:03.120847+00:00"
   },
   {
+    "id": "20003802957",
+    "politician_name": "Vince Fong",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "CA",
+    "company": "US TREASURY BILLS",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-18",
+    "trade_published": "2026-10-06",
+    "filed_after_days": "17",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: 529 College Savings Plan DC1",
+    "scraped_at": "2026-10-06T16:10:02.555628+00:00"
+  },
+  {
+    "id": "20003802953",
+    "politician_name": "Lloyd Doggett",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "TX",
+    "company": "The Home Depot Inc",
+    "ticker": "HD:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-17",
+    "trade_published": "2026-10-06",
+    "filed_after_days": "18",
+    "price": "$302.51",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Description: Automatic reinvestment of dividends earned.",
+    "scraped_at": "2026-10-06T16:10:02.555662+00:00"
+  },
+  {
     "id": "20003802937",
     "politician_name": "Donald Beyer",
     "party": "Democrat",
@@ -581,7 +623,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "Subholding Of: Stocks, Bonds, & Mutual Funds Description: 65,000 units",
-    "scraped_at": "2026-10-06T03:55:02.713159+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555770+00:00"
   },
   {
     "id": "20003802842",
@@ -602,7 +644,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA",
-    "scraped_at": "2026-10-06T03:55:02.713455+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556055+00:00"
   },
   {
     "id": "20003802865",
@@ -644,7 +686,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
-    "scraped_at": "2026-10-06T03:55:02.713127+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555740+00:00"
   },
   {
     "id": "20003802943",
@@ -665,7 +707,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE #1",
-    "scraped_at": "2026-10-06T03:55:02.713149+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555760+00:00"
   },
   {
     "id": "20003802933",
@@ -686,7 +728,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "Central VY Energy Auth Calif Commodity 5.00% Due Aug 1, 2034 [GS]",
-    "scraped_at": "2026-10-06T03:55:02.713205+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555814+00:00"
   },
   {
     "id": "20003802935",
@@ -707,7 +749,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "San Joaquin VY Calif Clean Energy Auth 5.50% Due Jan 1, 2056 [GS]",
-    "scraped_at": "2026-10-06T03:55:02.713214+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555823+00:00"
   },
   {
     "id": "20003802840",
@@ -728,7 +770,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-06T03:55:02.713444+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556045+00:00"
   },
   {
     "id": "20003802856",
@@ -749,7 +791,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-06T03:55:02.713524+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556127+00:00"
   },
   {
     "id": "20003802861",
@@ -941,6 +983,27 @@
     "scraped_at": "2026-09-26T03:55:03.121011+00:00"
   },
   {
+    "id": "20003802956",
+    "politician_name": "Lloyd Doggett",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "TX",
+    "company": "PPG Industries Inc",
+    "ticker": "PPG:US",
+    "sector": "materials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-11",
+    "trade_published": "2026-10-06",
+    "filed_after_days": "24",
+    "price": "$105.50",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Description: Automatic reinvestment of dividends earned.",
+    "scraped_at": "2026-10-06T16:10:02.555687+00:00"
+  },
+  {
     "id": "10000066867",
     "politician_name": "Richard Blumenthal",
     "party": "Democrat",
@@ -959,7 +1022,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Other One LLC",
-    "scraped_at": "2026-10-06T03:55:02.713223+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555833+00:00"
   },
   {
     "id": "10000066868",
@@ -980,7 +1043,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Hedge Holdings LLC",
-    "scraped_at": "2026-10-06T03:55:02.713228+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555837+00:00"
   },
   {
     "id": "10000066869",
@@ -1001,7 +1064,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Summa I LLC",
-    "scraped_at": "2026-10-06T03:55:02.713232+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555843+00:00"
   },
   {
     "id": "10000066870",
@@ -1022,7 +1085,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Underlying Asset of LarryMae Partners LLC",
-    "scraped_at": "2026-10-06T03:55:02.713237+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555847+00:00"
   },
   {
     "id": "10000066871",
@@ -1043,7 +1106,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of 3M's Partners LLC",
-    "scraped_at": "2026-10-06T03:55:02.713244+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555851+00:00"
   },
   {
     "id": "10000066872",
@@ -1064,7 +1127,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-06T03:55:02.713248+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555855+00:00"
   },
   {
     "id": "10000066873",
@@ -1085,7 +1148,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-06T03:55:02.713257+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555859+00:00"
   },
   {
     "id": "10000066874",
@@ -1106,7 +1169,28 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-06T03:55:02.713262+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555865+00:00"
+  },
+  {
+    "id": "20003802954",
+    "politician_name": "Lloyd Doggett",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "TX",
+    "company": "International Business Machines Corp",
+    "ticker": "IBM:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-10",
+    "trade_published": "2026-10-06",
+    "filed_after_days": "25",
+    "price": "$234.02",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Description: Automatic reinvestment of dividends earned.",
+    "scraped_at": "2026-10-06T16:10:02.555674+00:00"
   },
   {
     "id": "20003802941",
@@ -1127,7 +1211,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
-    "scraped_at": "2026-10-06T03:55:02.713138+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555750+00:00"
   },
   {
     "id": "20003802942",
@@ -1148,7 +1232,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
-    "scraped_at": "2026-10-06T03:55:02.713144+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555755+00:00"
   },
   {
     "id": "20003802859",
@@ -1211,7 +1295,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-06T03:55:02.713428+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556029+00:00"
   },
   {
     "id": "20003802876",
@@ -1256,6 +1340,27 @@
     "scraped_at": "2026-09-30T03:55:02.833316+00:00"
   },
   {
+    "id": "20003802955",
+    "politician_name": "Lloyd Doggett",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Johnson & Johnson",
+    "ticker": "JNJ:US",
+    "sector": "health-care",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-08",
+    "trade_published": "2026-10-06",
+    "filed_after_days": "27",
+    "price": "$269.12",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Description: Automatic reinvestment of dividends earned.",
+    "scraped_at": "2026-10-06T16:10:02.555680+00:00"
+  },
+  {
     "id": "20003802949",
     "politician_name": "Nancy Pelosi",
     "party": "Democrat",
@@ -1274,7 +1379,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Description: Investment in LLC which is acquiring and managing a commercial office property at 225 Bush Street in San",
-    "scraped_at": "2026-10-06T03:55:02.713094+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555710+00:00"
   },
   {
     "id": "20003802940",
@@ -1295,7 +1400,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE IRA",
-    "scraped_at": "2026-10-06T03:55:02.713132+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555746+00:00"
   },
   {
     "id": "20003802830",
@@ -1316,7 +1421,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Kelby Austin Hern Trust",
-    "scraped_at": "2026-10-06T03:55:02.713394+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555994+00:00"
   },
   {
     "id": "20003802831",
@@ -1337,7 +1442,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Kaden Everett Hern Trust",
-    "scraped_at": "2026-10-06T03:55:02.713398+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556000+00:00"
   },
   {
     "id": "20003802832",
@@ -1358,7 +1463,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-06T03:55:02.713403+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556004+00:00"
   },
   {
     "id": "20003802860",
@@ -1463,7 +1568,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-10-06T03:55:02.713169+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555781+00:00"
   },
   {
     "id": "10000066902",
@@ -1484,7 +1589,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-10-06T03:55:02.713175+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555786+00:00"
   },
   {
     "id": "10000066903",
@@ -1505,7 +1610,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-10-06T03:55:02.713179+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555790+00:00"
   },
   {
     "id": "10000066904",
@@ -1526,7 +1631,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-10-06T03:55:02.713184+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555795+00:00"
   },
   {
     "id": "10000066905",
@@ -1547,7 +1652,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Self",
     "comment": "",
-    "scraped_at": "2026-10-06T03:55:02.713190+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555800+00:00"
   },
   {
     "id": "20003802929",
@@ -1568,7 +1673,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 2012 Trust Description: Capital call of $3,014.00",
-    "scraped_at": "2026-10-06T03:55:02.713381+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555985+00:00"
   },
   {
     "id": "20003802833",
@@ -1589,7 +1694,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-06T03:55:02.713408+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556009+00:00"
   },
   {
     "id": "20003802855",
@@ -1610,7 +1715,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-06T03:55:02.713520+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556123+00:00"
   },
   {
     "id": "20003802875",
@@ -1652,7 +1757,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch SIMPLE Managed Account",
-    "scraped_at": "2026-10-06T03:55:02.713047+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555694+00:00"
   },
   {
     "id": "20003802952",
@@ -1673,7 +1778,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch SIMPLE Managed Account",
-    "scraped_at": "2026-10-06T03:55:02.713087+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555704+00:00"
   },
   {
     "id": "20003802931",
@@ -1694,7 +1799,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "Boulder Larimer & Weld CNTYS Colo ST 05.00000% 12/15/2027 Vrain VY SCH Dist Gen Oblig [GS]",
-    "scraped_at": "2026-10-06T03:55:02.713196+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555805+00:00"
   },
   {
     "id": "20003802932",
@@ -1715,7 +1820,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "California CMNTY Choice Fing Auth 5.00% Due Oct 1, 2056 [GS]",
-    "scraped_at": "2026-10-06T03:55:02.713201+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555810+00:00"
   },
   {
     "id": "20003802934",
@@ -1736,7 +1841,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "San Joaquin VY Calif Clean Energy Auth 5.50 % Due Jan 1, 2056 [GS]",
-    "scraped_at": "2026-10-06T03:55:02.713210+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555819+00:00"
   },
   {
     "id": "20003802834",
@@ -1757,7 +1862,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Gabrielle Ashtyn Hern Trust",
-    "scraped_at": "2026-10-06T03:55:02.713413+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556015+00:00"
   },
   {
     "id": "20003802835",
@@ -1778,7 +1883,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Child",
     "comment": "Subholding Of: Kelby Austin Hern Trust",
-    "scraped_at": "2026-10-06T03:55:02.713419+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556020+00:00"
   },
   {
     "id": "20003802836",
@@ -1799,7 +1904,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kaden Everett Hern Trust",
-    "scraped_at": "2026-10-06T03:55:02.713423+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556024+00:00"
   },
   {
     "id": "20003802879",
@@ -1883,7 +1988,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-06T03:55:02.713450+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556050+00:00"
   },
   {
     "id": "20003802847",
@@ -1904,7 +2009,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-06T03:55:02.713480+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556080+00:00"
   },
   {
     "id": "20003802853",
@@ -1925,7 +2030,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-06T03:55:02.713511+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556109+00:00"
   },
   {
     "id": "20003802854",
@@ -1946,7 +2051,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
-    "scraped_at": "2026-10-06T03:55:02.713515+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556118+00:00"
   },
   {
     "id": "20003802869",
@@ -2156,7 +2261,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-06T03:55:02.713433+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556034+00:00"
   },
   {
     "id": "20003802839",
@@ -2177,7 +2282,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-06T03:55:02.713439+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556040+00:00"
   },
   {
     "id": "20003802843",
@@ -2198,7 +2303,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-06T03:55:02.713460+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556059+00:00"
   },
   {
     "id": "20003802844",
@@ -2219,7 +2324,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-06T03:55:02.713465+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556065+00:00"
   },
   {
     "id": "20003802846",
@@ -2240,7 +2345,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA",
-    "scraped_at": "2026-10-06T03:55:02.713475+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556075+00:00"
   },
   {
     "id": "20003802848",
@@ -2261,7 +2366,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-06T03:55:02.713484+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556085+00:00"
   },
   {
     "id": "20003802849",
@@ -2282,7 +2387,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-06T03:55:02.713490+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556089+00:00"
   },
   {
     "id": "20003802850",
@@ -2303,7 +2408,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA",
-    "scraped_at": "2026-10-06T03:55:02.713496+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556094+00:00"
   },
   {
     "id": "20003802852",
@@ -2324,7 +2429,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-06T03:55:02.713506+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556104+00:00"
   },
   {
     "id": "20003802857",
@@ -2345,7 +2450,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-06T03:55:02.713529+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556132+00:00"
   },
   {
     "id": "20003802858",
@@ -2660,7 +2765,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of New Things Partners LLC",
-    "scraped_at": "2026-10-06T03:55:02.713266+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555869+00:00"
   },
   {
     "id": "10000066876",
@@ -2681,7 +2786,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Summa I LLC",
-    "scraped_at": "2026-10-06T03:55:02.713270+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555874+00:00"
   },
   {
     "id": "10000066877",
@@ -2702,7 +2807,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-06T03:55:02.713274+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555878+00:00"
   },
   {
     "id": "10000066878",
@@ -2723,7 +2828,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-06T03:55:02.713278+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555883+00:00"
   },
   {
     "id": "10000066879",
@@ -2744,7 +2849,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-06T03:55:02.713283+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555887+00:00"
   },
   {
     "id": "20003802845",
@@ -2765,7 +2870,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA",
-    "scraped_at": "2026-10-06T03:55:02.713470+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556069+00:00"
   },
   {
     "id": "20003802851",
@@ -2786,7 +2891,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA",
-    "scraped_at": "2026-10-06T03:55:02.713501+00:00"
+    "scraped_at": "2026-10-06T16:10:02.556100+00:00"
   },
   {
     "id": "20003802871",
@@ -4172,7 +4277,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of New Things Partners LLC",
-    "scraped_at": "2026-10-06T03:55:02.713287+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555891+00:00"
   },
   {
     "id": "10000066881",
@@ -4193,7 +4298,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Other One LLC",
-    "scraped_at": "2026-10-06T03:55:02.713293+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555895+00:00"
   },
   {
     "id": "10000066882",
@@ -4214,7 +4319,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Hedge Holdings LLC",
-    "scraped_at": "2026-10-06T03:55:02.713298+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555899+00:00"
   },
   {
     "id": "10000066883",
@@ -4235,7 +4340,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Summa I LLC",
-    "scraped_at": "2026-10-06T03:55:02.713302+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555903+00:00"
   },
   {
     "id": "10000066884",
@@ -4256,7 +4361,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of LarryMae Partners LLC",
-    "scraped_at": "2026-10-06T03:55:02.713306+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555907+00:00"
   },
   {
     "id": "10000066885",
@@ -4277,7 +4382,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying asset of 3M's Partners LLC",
-    "scraped_at": "2026-10-06T03:55:02.713311+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555912+00:00"
   },
   {
     "id": "10000066886",
@@ -4298,7 +4403,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-06T03:55:02.713315+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555918+00:00"
   },
   {
     "id": "10000066887",
@@ -4319,7 +4424,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-06T03:55:02.713319+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555924+00:00"
   },
   {
     "id": "10000066888",
@@ -4340,7 +4445,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-06T03:55:02.713324+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555928+00:00"
   },
   {
     "id": "10000066889",
@@ -4361,7 +4466,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-06T03:55:02.713328+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555933+00:00"
   },
   {
     "id": "10000066890",
@@ -4382,7 +4487,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-06T03:55:02.713333+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555939+00:00"
   },
   {
     "id": "20003802731",
@@ -5369,7 +5474,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of New Things Partners LLC",
-    "scraped_at": "2026-10-06T03:55:02.713339+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555944+00:00"
   },
   {
     "id": "10000066892",
@@ -5390,7 +5495,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Other One LLC",
-    "scraped_at": "2026-10-06T03:55:02.713344+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555948+00:00"
   },
   {
     "id": "10000066893",
@@ -5411,7 +5516,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Hedge Holdings LLC",
-    "scraped_at": "2026-10-06T03:55:02.713348+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555952+00:00"
   },
   {
     "id": "10000066894",
@@ -5432,7 +5537,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Summa I LLC",
-    "scraped_at": "2026-10-06T03:55:02.713352+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555956+00:00"
   },
   {
     "id": "10000066895",
@@ -5453,7 +5558,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Underlying Asset of LarryMae Partners LLC",
-    "scraped_at": "2026-10-06T03:55:02.713357+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555961+00:00"
   },
   {
     "id": "10000066896",
@@ -5474,7 +5579,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of 3M's Partners LLC",
-    "scraped_at": "2026-10-06T03:55:02.713363+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555966+00:00"
   },
   {
     "id": "10000066897",
@@ -5495,7 +5600,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying asset of 3M's Partners LLC, owned through Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-06T03:55:02.713368+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555970+00:00"
   },
   {
     "id": "10000066898",
@@ -5516,7 +5621,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-06T03:55:02.713372+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555974+00:00"
   },
   {
     "id": "10000066899",
@@ -5537,7 +5642,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-06T03:55:02.713377+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555980+00:00"
   },
   {
     "id": "20003802827",
@@ -6860,7 +6965,7 @@
     "amount": "$25M\u2013$50M",
     "owner": "Self",
     "comment": "Company: Greenbrier Hotel Corporation and Affiliates  (White Sulphur Springs, WV) Description: Hospitality",
-    "scraped_at": "2026-10-06T03:55:02.713219+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555829+00:00"
   },
   {
     "id": "10000066864",
@@ -11375,7 +11480,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Redeemed Electronic Arts",
-    "scraped_at": "2026-10-06T03:55:02.713387+00:00"
+    "scraped_at": "2026-10-06T16:10:02.555989+00:00"
   },
   {
     "id": "20003802813",
@@ -26456,27 +26561,6 @@
     "scraped_at": "2026-07-14T03:55:03.496469+00:00"
   },
   {
-    "id": "20003800771",
-    "politician_name": "Lloyd Doggett",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "TX",
-    "company": "The Home Depot Inc",
-    "ticker": "HD:US",
-    "sector": "consumer-discretionary",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-06-18",
-    "trade_published": "2026-07-07",
-    "filed_after_days": "18",
-    "price": "$334.28",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Description: Automatic reinvestment of dividends earned.",
-    "scraped_at": "2026-07-09T03:55:03.466248+00:00"
-  },
-  {
     "id": "20003801800",
     "politician_name": "Diana Harshbarger",
     "party": "Republican",
@@ -28283,27 +28367,6 @@
     "scraped_at": "2026-07-09T03:55:03.466190+00:00"
   },
   {
-    "id": "20003800774",
-    "politician_name": "Lloyd Doggett",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "TX",
-    "company": "PPG Industries Inc",
-    "ticker": "PPG:US",
-    "sector": "materials",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-06-12",
-    "trade_published": "2026-07-07",
-    "filed_after_days": "24",
-    "price": "$119.34",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Description: Automatic reinvestment of dividends earned.",
-    "scraped_at": "2026-07-09T03:55:03.466265+00:00"
-  },
-  {
     "id": "10000065317",
     "politician_name": "Richard Blumenthal",
     "party": "Democrat",
@@ -28682,27 +28745,6 @@
     "scraped_at": "2026-07-09T03:55:03.466221+00:00"
   },
   {
-    "id": "20003800772",
-    "politician_name": "Lloyd Doggett",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "TX",
-    "company": "International Business Machines Corp",
-    "ticker": "IBM:US",
-    "sector": "information-technology",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-06-10",
-    "trade_published": "2026-07-07",
-    "filed_after_days": "26",
-    "price": "$272.36",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Description: Automatic reinvestment of dividends earned.",
-    "scraped_at": "2026-07-09T03:55:03.466253+00:00"
-  },
-  {
     "id": "20003801784",
     "politician_name": "Anthony Wied",
     "party": "Republican",
@@ -29037,27 +29079,6 @@
     "owner": "Child",
     "comment": "",
     "scraped_at": "2026-07-09T03:55:03.466132+00:00"
-  },
-  {
-    "id": "20003800773",
-    "politician_name": "Lloyd Doggett",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "TX",
-    "company": "Johnson & Johnson",
-    "ticker": "JNJ:US",
-    "sector": "health-care",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-06-09",
-    "trade_published": "2026-07-07",
-    "filed_after_days": "27",
-    "price": "$237.00",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Description: Automatic reinvestment of dividends earned.",
-    "scraped_at": "2026-07-09T03:55:03.466260+00:00"
   },
   {
     "id": "10000065300",
