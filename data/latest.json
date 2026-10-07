@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-06T20:44:17Z",
-  "trade_count": 11143,
+  "last_updated": "2026-10-07T00:17:22Z",
+  "trade_count": 11147,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -178288,6 +178288,70 @@
       "owned": "341715",
       "delta_own": "+130%",
       "value": "313225",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-06",
+      "filing_time": "19:03",
+      "trade_date": "2026-10-05",
+      "ticker": "SSAH",
+      "company": "",
+      "insider_name": "Rusnak Paul P.",
+      "title": "10% Owner",
+      "trade_type": "P - Purchase",
+      "price": "59.76",
+      "qty": "27756",
+      "owned": "5149401",
+      "delta_own": "+1%",
+      "value": "1658699",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-06",
+      "filing_time": "17:59",
+      "trade_date": "2026-10-06",
+      "ticker": "PPSUS",
+      "company": "",
+      "insider_name": "Israel Ryan",
+      "title": "Chief Investment Officer",
+      "trade_type": "P - Purchase",
+      "price": "37.87",
+      "qty": "57659",
+      "owned": "756613",
+      "delta_own": "+8%",
+      "value": "2183760",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-06",
+      "filing_time": "17:59",
+      "trade_date": "2026-10-05",
+      "ticker": "PPSUS",
+      "company": "",
+      "insider_name": "Israel Ryan",
+      "title": "Chief Investment Officer",
+      "trade_type": "P - Purchase",
+      "price": "37.45",
+      "qty": "120816",
+      "owned": "698954",
+      "delta_own": "+21%",
+      "value": "4524003",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-06",
+      "filing_time": "17:59",
+      "trade_date": "2026-10-02",
+      "ticker": "PPSUS",
+      "company": "",
+      "insider_name": "Israel Ryan",
+      "title": "Chief Investment Officer",
+      "trade_type": "P - Purchase",
+      "price": "37.21",
+      "qty": "78138",
+      "owned": "578138",
+      "delta_own": "+16%",
+      "value": "2907452",
       "cluster_buy": false
     }
   ]
