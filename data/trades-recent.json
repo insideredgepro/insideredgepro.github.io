@@ -392,7 +392,616 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch SIMPLE Managed Account",
-    "scraped_at": "2026-10-08T03:55:02.704633+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024463+00:00"
+  },
+  {
+    "id": "20003802996",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "McDonald's Corp",
+    "ticker": "MCD:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-25",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "12",
+    "price": "$236.50",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-10-08T16:10:03.024238+00:00"
+  },
+  {
+    "id": "20003802997",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Berkshire Hathaway Inc",
+    "ticker": "BRK/B:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$505.18",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.023981+00:00"
+  },
+  {
+    "id": "20003802998",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Biogen Inc",
+    "ticker": "BIIB:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$226.36",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024007+00:00"
+  },
+  {
+    "id": "20003802999",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Boeing Co",
+    "ticker": "BA:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$196.80",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024018+00:00"
+  },
+  {
+    "id": "20003803000",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Brookfield Renewable Partners LP",
+    "ticker": "BEP:US",
+    "sector": "utilities",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$28.27",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024026+00:00"
+  },
+  {
+    "id": "20003803002",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Chubb Ltd",
+    "ticker": "CB:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$334.84",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024036+00:00"
+  },
+  {
+    "id": "20003803004",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Cisco Systems Inc",
+    "ticker": "CSCO:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$106.97",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS Brokerage Account",
+    "scraped_at": "2026-10-08T16:10:03.024046+00:00"
+  },
+  {
+    "id": "20003803005",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Cisco Systems Inc",
+    "ticker": "CSCO:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$106.97",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024051+00:00"
+  },
+  {
+    "id": "20003803006",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Citigroup Inc",
+    "ticker": "C:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$132.10",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024056+00:00"
+  },
+  {
+    "id": "20003803010",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Corning Inc",
+    "ticker": "GLW:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$154.15",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024077+00:00"
+  },
+  {
+    "id": "20003803012",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Datadog Inc",
+    "ticker": "DDOG:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$256.92",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024089+00:00"
+  },
+  {
+    "id": "20003803013",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "FedEx Corp",
+    "ticker": "FDX:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$279.54",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024094+00:00"
+  },
+  {
+    "id": "20003803014",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "General Electric Co",
+    "ticker": "GE:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$319.78",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024098+00:00"
+  },
+  {
+    "id": "20003803015",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "The Goldman Sachs Group Inc",
+    "ticker": "GS:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$923.29",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024103+00:00"
+  },
+  {
+    "id": "20003803016",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "HONEYWELL AEROSPACE INC",
+    "ticker": "HONA:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$158.46",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024108+00:00"
+  },
+  {
+    "id": "20003803017",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Honeywell International Inc",
+    "ticker": "HON:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$211.79",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024113+00:00"
+  },
+  {
+    "id": "20003803020",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Marvell Technology Inc",
+    "ticker": "MRVL:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$258.95",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024129+00:00"
+  },
+  {
+    "id": "20003803021",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Merck & Co Inc",
+    "ticker": "MRK:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$147.98",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024134+00:00"
+  },
+  {
+    "id": "20003803022",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Meta Platforms Inc",
+    "ticker": "META:US",
+    "sector": "communication-services",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$777.59",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024139+00:00"
+  },
+  {
+    "id": "20003803025",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Microsoft Corp",
+    "ticker": "MSFT:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$497.93",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024155+00:00"
+  },
+  {
+    "id": "20003803026",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Moderna Inc",
+    "ticker": "MRNA:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$194.82",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024159+00:00"
+  },
+  {
+    "id": "20003803027",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "OKTA Inc",
+    "ticker": "OKTA:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$206.64",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024164+00:00"
+  },
+  {
+    "id": "20003803030",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Peloton Interactive Inc",
+    "ticker": "PTON:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$4.79",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024184+00:00"
+  },
+  {
+    "id": "20003803031",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "RH",
+    "ticker": "RH:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$121.19",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024189+00:00"
+  },
+  {
+    "id": "20003803032",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "salesforce.com Inc",
+    "ticker": "CRM:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$238.22",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024194+00:00"
+  },
+  {
+    "id": "20003803033",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Snowflake Inc",
+    "ticker": "SNOW:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$334.00",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024200+00:00"
+  },
+  {
+    "id": "20003803036",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "SPACE EXPLORATION TECHS CORP",
+    "ticker": "SPCX:US",
+    "sector": "communication-services",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$148.03",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024214+00:00"
+  },
+  {
+    "id": "20003803037",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "United Rentals Inc",
+    "ticker": "URI:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$1,021.67",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024221+00:00"
+  },
+  {
+    "id": "20003803038",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Unitedhealth Group Inc",
+    "ticker": "UNH:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "13",
+    "price": "$375.01",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024226+00:00"
   },
   {
     "id": "20003802936",
@@ -437,6 +1046,48 @@
     "scraped_at": "2026-10-08T03:55:02.704715+00:00"
   },
   {
+    "id": "20003803023",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Meta Platforms Inc",
+    "ticker": "META:US",
+    "sector": "communication-services",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-22",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "15",
+    "price": "$736.60",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS Brokerage Account",
+    "scraped_at": "2026-10-08T16:10:03.024144+00:00"
+  },
+  {
+    "id": "20003803024",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Meta Platforms Inc",
+    "ticker": "META:US",
+    "sector": "communication-services",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-22",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "15",
+    "price": "$736.60",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024150+00:00"
+  },
+  {
     "id": "20003802944",
     "politician_name": "David Taylor",
     "party": "Republican",
@@ -455,7 +1106,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-10-08T03:55:02.704648+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024481+00:00"
   },
   {
     "id": "20003802945",
@@ -476,7 +1127,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-10-08T03:55:02.704654+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024486+00:00"
   },
   {
     "id": "20003802946",
@@ -497,7 +1148,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-10-08T03:55:02.704660+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024491+00:00"
   },
   {
     "id": "20003802947",
@@ -518,7 +1169,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-10-08T03:55:02.704665+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024495+00:00"
   },
   {
     "id": "20003802948",
@@ -581,7 +1232,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 529 College Savings Plan DC1",
-    "scraped_at": "2026-10-08T03:55:02.704561+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024433+00:00"
   },
   {
     "id": "20003802958",
@@ -602,7 +1253,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704284+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024252+00:00"
   },
   {
     "id": "20003802959",
@@ -623,7 +1274,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704313+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024257+00:00"
   },
   {
     "id": "20003802960",
@@ -644,7 +1295,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704325+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024262+00:00"
   },
   {
     "id": "20003802961",
@@ -665,7 +1316,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704334+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024268+00:00"
   },
   {
     "id": "20003802953",
@@ -686,7 +1337,70 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Description: Automatic reinvestment of dividends earned.",
-    "scraped_at": "2026-10-08T03:55:02.704568+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024438+00:00"
+  },
+  {
+    "id": "10000066906",
+    "politician_name": "John Fetterman",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "Dell Technologies Inc",
+    "ticker": "DELL:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-16",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "21",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "Rate/Coupon: 5.6% Matures: 2033-09-15",
+    "scraped_at": "2026-10-08T16:10:03.024242+00:00"
+  },
+  {
+    "id": "20003802995",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Applied Materials Inc",
+    "ticker": "AMAT:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-15",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "22",
+    "price": "$421.17",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-10-08T16:10:03.024233+00:00"
+  },
+  {
+    "id": "10000066907",
+    "politician_name": "John Fetterman",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "Dell Technologies Inc",
+    "ticker": "DELL:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-15",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "22",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Child",
+    "comment": "Rate/Coupon: 5.6% Matures: 2033-09-15",
+    "scraped_at": "2026-10-08T16:10:03.024247+00:00"
   },
   {
     "id": "20003802937",
@@ -1085,7 +1799,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704395+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024321+00:00"
   },
   {
     "id": "20003802956",
@@ -1106,7 +1820,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Description: Automatic reinvestment of dividends earned.",
-    "scraped_at": "2026-10-08T03:55:02.704621+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024454+00:00"
   },
   {
     "id": "10000066867",
@@ -1295,7 +2009,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704390+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024317+00:00"
   },
   {
     "id": "20003802954",
@@ -1316,7 +2030,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Description: Automatic reinvestment of dividends earned.",
-    "scraped_at": "2026-10-08T03:55:02.704610+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024442+00:00"
   },
   {
     "id": "20003802941",
@@ -1466,6 +2180,69 @@
     "scraped_at": "2026-09-30T03:55:02.833316+00:00"
   },
   {
+    "id": "20003803003",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Cisco Systems Inc",
+    "ticker": "CSCO:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-08",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "29",
+    "price": "$109.17",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024041+00:00"
+  },
+  {
+    "id": "20003803007",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Corning Inc",
+    "ticker": "GLW:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-08",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "29",
+    "price": "$165.96",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024061+00:00"
+  },
+  {
+    "id": "20003803008",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Corning Inc",
+    "ticker": "GLW:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-08",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "29",
+    "price": "$165.96",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS Brokerage Account",
+    "scraped_at": "2026-10-08T16:10:03.024066+00:00"
+  },
+  {
     "id": "20003802970",
     "politician_name": "Diana Harshbarger",
     "party": "Republican",
@@ -1484,7 +2261,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704385+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024311+00:00"
   },
   {
     "id": "20003802955",
@@ -1505,7 +2282,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Description: Automatic reinvestment of dividends earned.",
-    "scraped_at": "2026-10-08T03:55:02.704615+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024449+00:00"
   },
   {
     "id": "20003802949",
@@ -1526,7 +2303,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Description: Investment in LLC which is acquiring and managing a commercial office property at 225 Bush Street in San",
-    "scraped_at": "2026-10-08T03:55:02.704643+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024474+00:00"
   },
   {
     "id": "20003802940",
@@ -1697,6 +2474,174 @@
     "scraped_at": "2026-09-26T03:55:03.121020+00:00"
   },
   {
+    "id": "20003803009",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Corning Inc",
+    "ticker": "GLW:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-04",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "33",
+    "price": "$154.30",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024073+00:00"
+  },
+  {
+    "id": "20003803011",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Corning Inc",
+    "ticker": "GLW:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-04",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "33",
+    "price": "$154.30",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS Brokerage Account",
+    "scraped_at": "2026-10-08T16:10:03.024082+00:00"
+  },
+  {
+    "id": "20003803018",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "International Business Machines Corp",
+    "ticker": "IBM:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-04",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "33",
+    "price": "$234.89",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024119+00:00"
+  },
+  {
+    "id": "20003803019",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "International Business Machines Corp",
+    "ticker": "IBM:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-04",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "33",
+    "price": "$234.89",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS Brokerage Account",
+    "scraped_at": "2026-10-08T16:10:03.024125+00:00"
+  },
+  {
+    "id": "20003803028",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "OKTA Inc",
+    "ticker": "OKTA:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-04",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "33",
+    "price": "$170.60",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024170+00:00"
+  },
+  {
+    "id": "20003803029",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "OKTA Inc",
+    "ticker": "OKTA:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-04",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "33",
+    "price": "$170.60",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS Brokerage Account",
+    "scraped_at": "2026-10-08T16:10:03.024179+00:00"
+  },
+  {
+    "id": "20003803034",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Snowflake Inc",
+    "ticker": "SNOW:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-04",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "33",
+    "price": "$337.18",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-10-08T16:10:03.024205+00:00"
+  },
+  {
+    "id": "20003803035",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Snowflake Inc",
+    "ticker": "SNOW:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-04",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "33",
+    "price": "$337.18",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS Brokerage Account",
+    "scraped_at": "2026-10-08T16:10:03.024209+00:00"
+  },
+  {
     "id": "20003802987",
     "politician_name": "Diana Harshbarger",
     "party": "Republican",
@@ -1715,7 +2660,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704513+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024393+00:00"
   },
   {
     "id": "20003802988",
@@ -1736,7 +2681,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704521+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024398+00:00"
   },
   {
     "id": "20003802989",
@@ -1757,7 +2702,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704527+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024404+00:00"
   },
   {
     "id": "20003802990",
@@ -1778,7 +2723,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704535+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024408+00:00"
   },
   {
     "id": "10000066901",
@@ -1988,7 +2933,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch SIMPLE Managed Account",
-    "scraped_at": "2026-10-08T03:55:02.704627+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024458+00:00"
   },
   {
     "id": "20003802952",
@@ -2009,7 +2954,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch SIMPLE Managed Account",
-    "scraped_at": "2026-10-08T03:55:02.704638+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024469+00:00"
   },
   {
     "id": "20003802931",
@@ -2201,6 +3146,27 @@
     "scraped_at": "2026-10-02T03:55:02.957535+00:00"
   },
   {
+    "id": "20003803001",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Chevron Corp",
+    "ticker": "CVX:US",
+    "sector": "energy",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-02",
+    "trade_published": "2026-10-08",
+    "filed_after_days": "35",
+    "price": "$211.78",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS Brokerage Account",
+    "scraped_at": "2026-10-08T16:10:03.024031+00:00"
+  },
+  {
     "id": "20003802966",
     "politician_name": "Diana Harshbarger",
     "party": "Republican",
@@ -2219,7 +3185,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704361+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024294+00:00"
   },
   {
     "id": "20003802967",
@@ -2240,7 +3206,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704368+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024298+00:00"
   },
   {
     "id": "20003802985",
@@ -2261,7 +3227,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704503+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024385+00:00"
   },
   {
     "id": "20003802986",
@@ -2282,7 +3248,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704509+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024389+00:00"
   },
   {
     "id": "20003802841",
@@ -2534,7 +3500,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704357+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024290+00:00"
   },
   {
     "id": "20003802984",
@@ -2555,7 +3521,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704464+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024380+00:00"
   },
   {
     "id": "20003802828",
@@ -2618,7 +3584,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704352+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024285+00:00"
   },
   {
     "id": "20003802982",
@@ -2639,7 +3605,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704455+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024369+00:00"
   },
   {
     "id": "20003802983",
@@ -2660,7 +3626,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704459+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024374+00:00"
   },
   {
     "id": "20003802838",
@@ -3101,7 +4067,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704439+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024354+00:00"
   },
   {
     "id": "20003802980",
@@ -3122,7 +4088,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704445+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024359+00:00"
   },
   {
     "id": "20003802981",
@@ -3143,7 +4109,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704450+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024364+00:00"
   },
   {
     "id": "20003802826",
@@ -3248,7 +4214,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704433+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024349+00:00"
   },
   {
     "id": "10000066875",
@@ -3668,7 +4634,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704400+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024326+00:00"
   },
   {
     "id": "20003802974",
@@ -3689,7 +4655,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704405+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024332+00:00"
   },
   {
     "id": "20003802991",
@@ -3710,7 +4676,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704540+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024413+00:00"
   },
   {
     "id": "20003802992",
@@ -3731,7 +4697,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704546+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024417+00:00"
   },
   {
     "id": "20003802789",
@@ -4172,7 +5138,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704428+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024345+00:00"
   },
   {
     "id": "20003802732",
@@ -5600,7 +6566,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704377+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024307+00:00"
   },
   {
     "id": "20003802807",
@@ -6104,7 +7070,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704341+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024274+00:00"
   },
   {
     "id": "20003802968",
@@ -6125,7 +7091,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704372+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024303+00:00"
   },
   {
     "id": "20003802975",
@@ -6146,7 +7112,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704410+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024336+00:00"
   },
   {
     "id": "20003802976",
@@ -6167,7 +7133,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704414+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024341+00:00"
   },
   {
     "id": "20003802993",
@@ -6188,7 +7154,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704551+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024421+00:00"
   },
   {
     "id": "20003802994",
@@ -6209,7 +7175,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704556+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024428+00:00"
   },
   {
     "id": "10000066891",
@@ -13475,7 +14441,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-08T03:55:02.704347+00:00"
+    "scraped_at": "2026-10-08T16:10:03.024279+00:00"
   },
   {
     "id": "20003802317",
@@ -23621,27 +24587,6 @@
     "scraped_at": "2026-08-06T03:55:02.469216+00:00"
   },
   {
-    "id": "20003801282",
-    "politician_name": "John McGuire",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "VA",
-    "company": "Blackrock Inc",
-    "ticker": "BLK:US",
-    "sector": "financials",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-07-07",
-    "trade_published": "2026-07-09",
-    "filed_after_days": "1",
-    "price": "$1,009.43",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "Subholding Of: Merrill Lynch SEP IRA",
-    "scraped_at": "2026-07-14T03:55:03.496614+00:00"
-  },
-  {
     "id": "20003801848",
     "politician_name": "Rohit Khanna",
     "party": "Democrat",
@@ -24270,27 +25215,6 @@
     "owner": "Not Disclosed",
     "comment": "Description: Automatic reinvestment of dividends earned.",
     "scraped_at": "2026-08-08T03:55:02.588780+00:00"
-  },
-  {
-    "id": "20003801281",
-    "politician_name": "Suzanne Lee",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "NV",
-    "company": "FULL HOUSE RESORTS INC",
-    "ticker": "FLL:US",
-    "sector": "consumer-discretionary",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-07-01",
-    "trade_published": "2026-07-09",
-    "filed_after_days": "7",
-    "price": "$2.84",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Fidelity Investments IRA",
-    "scraped_at": "2026-07-14T03:55:03.496609+00:00"
   },
   {
     "id": "20003802119",
@@ -25782,27 +26706,6 @@
     "owner": "Spouse",
     "comment": "",
     "scraped_at": "2026-07-14T03:55:03.496464+00:00"
-  },
-  {
-    "id": "10000065276",
-    "politician_name": "John Fetterman",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "PA",
-    "company": "Cheniere Energy Inc",
-    "ticker": "LNG:US",
-    "sector": "energy",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-06-24",
-    "trade_published": "2026-07-09",
-    "filed_after_days": "15",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Child",
-    "comment": "Rate/Coupon: 4.5% Matures: 2029-10-01",
-    "scraped_at": "2026-07-14T03:55:03.496583+00:00"
   },
   {
     "id": "10000065346",
@@ -27842,48 +28745,6 @@
     "scraped_at": "2026-07-16T03:55:02.384902+00:00"
   },
   {
-    "id": "10000065277",
-    "politician_name": "John Fetterman",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "PA",
-    "company": "NiSource Inc",
-    "ticker": "NI:US",
-    "sector": "utilities",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-06-16",
-    "trade_published": "2026-07-09",
-    "filed_after_days": "23",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Child",
-    "comment": "Rate/Coupon: 6.95% Matures: 2054-11-30",
-    "scraped_at": "2026-07-14T03:55:03.496588+00:00"
-  },
-  {
-    "id": "10000065278",
-    "politician_name": "John Fetterman",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "PA",
-    "company": "Eversource Energy",
-    "ticker": "ES:US",
-    "sector": "utilities",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-06-16",
-    "trade_published": "2026-07-09",
-    "filed_after_days": "23",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Child",
-    "comment": "Rate/Coupon: 6.1% Matures: 2056-08-15",
-    "scraped_at": "2026-07-14T03:55:03.496593+00:00"
-  },
-  {
     "id": "10000065306",
     "politician_name": "Richard Blumenthal",
     "party": "Democrat",
@@ -28155,27 +29016,6 @@
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
     "scraped_at": "2026-07-16T03:55:02.384857+00:00"
-  },
-  {
-    "id": "20003801283",
-    "politician_name": "John McGuire",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "VA",
-    "company": "SPACE EXPLORATION TECHS CORP",
-    "ticker": "",
-    "sector": "communication-services",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-06-15",
-    "trade_published": "2026-07-09",
-    "filed_after_days": "23",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "Subholding Of: Merrill Lynch Brokerage Account",
-    "scraped_at": "2026-07-14T03:55:03.496618+00:00"
   },
   {
     "id": "20003801585",
@@ -30549,48 +31389,6 @@
     "owner": "Spouse",
     "comment": "",
     "scraped_at": "2026-07-14T03:55:03.496492+00:00"
-  },
-  {
-    "id": "20003801280",
-    "politician_name": "Suzanne Lee",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "NV",
-    "company": "FULL HOUSE RESORTS INC",
-    "ticker": "FLL:US",
-    "sector": "consumer-discretionary",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-06-01",
-    "trade_published": "2026-07-09",
-    "filed_after_days": "37",
-    "price": "$2.57",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Fidelity Investments IRA",
-    "scraped_at": "2026-07-14T03:55:03.496603+00:00"
-  },
-  {
-    "id": "20003801279",
-    "politician_name": "George Kelly",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "PA",
-    "company": "STATE OF CALIFORNIA",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-06-01",
-    "trade_published": "2026-07-09",
-    "filed_after_days": "37",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "Subholding Of: Victoria Kelly Trust ICA",
-    "scraped_at": "2026-07-14T03:55:03.496623+00:00"
   },
   {
     "id": "20003801528",
@@ -35820,27 +36618,6 @@
     "owner": "Joint",
     "comment": "",
     "scraped_at": "2026-08-07T03:55:02.731755+00:00"
-  },
-  {
-    "id": "20003801284",
-    "politician_name": "Ritchie Torres",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "NY",
-    "company": "McKesson Corp",
-    "ticker": "MCK:US",
-    "sector": "health-care",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2025-01-07",
-    "trade_published": "2026-07-09",
-    "filed_after_days": "547",
-    "price": "$585.24",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "",
-    "scraped_at": "2026-07-14T03:55:03.496598+00:00"
   },
   {
     "id": "20003801775",
