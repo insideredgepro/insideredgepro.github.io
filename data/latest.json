@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-08T06:51:38Z",
-  "trade_count": 11167,
+  "last_updated": "2026-10-08T14:14:53Z",
+  "trade_count": 11168,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -178672,6 +178672,22 @@
       "owned": "126669761",
       "delta_own": "0%",
       "value": "2283648",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-08",
+      "filing_time": "06:32",
+      "trade_date": "2026-09-17",
+      "ticker": "COE",
+      "company": "51Talk Online Education Group",
+      "insider_name": "Huang Jack Jiajia",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "11.50",
+      "qty": "2812140",
+      "owned": "88621440",
+      "delta_own": "+3%",
+      "value": "32333530",
       "cluster_buy": false
     }
   ]
