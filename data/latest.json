@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-08T14:14:53Z",
-  "trade_count": 11168,
+  "last_updated": "2026-10-08T20:23:58Z",
+  "trade_count": 11172,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -178688,6 +178688,70 @@
       "owned": "88621440",
       "delta_own": "+3%",
       "value": "32333530",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-08",
+      "filing_time": "11:45",
+      "trade_date": "2026-09-25",
+      "ticker": "GOAI",
+      "company": "Eva Live Inc",
+      "insider_name": "Boulette David",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "2.01",
+      "qty": "19800",
+      "owned": "23284225",
+      "delta_own": "0%",
+      "value": "39798",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-08",
+      "filing_time": "11:43",
+      "trade_date": "2026-09-22",
+      "ticker": "GOAI",
+      "company": "Eva Live Inc",
+      "insider_name": "Boulette David",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "2.03",
+      "qty": "18478",
+      "owned": "23264425",
+      "delta_own": "0%",
+      "value": "37510",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-08",
+      "filing_time": "11:26",
+      "trade_date": "2026-10-07",
+      "ticker": "FUL",
+      "company": "Fuller H B Co",
+      "insider_name": "Bailly R Jeffrey",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "50.00",
+      "qty": "10000",
+      "owned": "10000",
+      "delta_own": "New",
+      "value": "500000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-08",
+      "filing_time": "11:11",
+      "trade_date": "2026-10-07",
+      "ticker": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Troim Tor Olav",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.31",
+      "qty": "1250000",
+      "owned": "34867808",
+      "delta_own": "+4%",
+      "value": "5390250",
       "cluster_buy": false
     }
   ]
