@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-07T20:21:14Z",
-  "trade_count": 11164,
+  "last_updated": "2026-10-08T00:37:30Z",
+  "trade_count": 11167,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -178624,6 +178624,54 @@
       "owned": "5150520",
       "delta_own": "0%",
       "value": "67028",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-07",
+      "filing_time": "19:57",
+      "trade_date": "2026-10-05",
+      "ticker": "STWI",
+      "company": "Stagewise Strategies Corp.",
+      "insider_name": "Tourism & Entertainment Group, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "0.14",
+      "qty": "1000000",
+      "owned": "4000000",
+      "delta_own": "+33%",
+      "value": "138000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-07",
+      "filing_time": "17:02",
+      "trade_date": "2026-10-06",
+      "ticker": "VRA",
+      "company": "Vera Bradley, Inc.",
+      "insider_name": "Brockman Ivan",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "5.02",
+      "qty": "10000",
+      "owned": "37574",
+      "delta_own": "+36%",
+      "value": "50200",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-07",
+      "filing_time": "16:30",
+      "trade_date": "2026-10-05",
+      "ticker": "CRBG",
+      "company": "Corebridge Financial, Inc.",
+      "insider_name": "Nippon Life Insurance Co",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "34.75",
+      "qty": "65711",
+      "owned": "126669761",
+      "delta_own": "0%",
+      "value": "2283648",
       "cluster_buy": false
     }
   ]
