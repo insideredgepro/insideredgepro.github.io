@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-09T14:14:16Z",
-  "trade_count": 11180,
+  "last_updated": "2026-10-09T19:57:06Z",
+  "trade_count": 11182,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -178880,6 +178880,38 @@
       "owned": "3960848",
       "delta_own": "-139%",
       "value": "35114298",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-09",
+      "filing_time": "15:02",
+      "trade_date": "2026-08-11",
+      "ticker": "VDTA",
+      "company": "Vertical Data Inc.",
+      "insider_name": "Leverton Jaime",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "3.00",
+      "qty": "85000",
+      "owned": "394113",
+      "delta_own": "+27%",
+      "value": "255000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-09",
+      "filing_time": "11:29",
+      "trade_date": "2026-10-09",
+      "ticker": "QTEX",
+      "company": "Qtrex Quantum Ltd.",
+      "insider_name": "Ben-Noon Dagi Shahar",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.67",
+      "qty": "18181",
+      "owned": "3664314",
+      "delta_own": "0%",
+      "value": "30362",
       "cluster_buy": false
     }
   ]
