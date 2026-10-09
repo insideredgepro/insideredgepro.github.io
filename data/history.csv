@@ -11142,11 +11142,11 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-05,16:27,2026-09-30,LLND,"Landmark Land Company, Inc.",Elsztain Alejandro Gustavo,Director,P - Purchase,3.48,15000,685370,+2%,52244,False
 2026-10-05,16:24,2026-09-30,EEP,,Mulacek Phil E,Director,P - Purchase,2.25,11915,931727,+1%,26825,False
 2026-10-05,13:14,2026-10-02,MMKC,,Hattersley Gavin,Director,P - Purchase,44.61,1000,3906,+34%,44610,False
-2026-10-05,12:12,2026-08-25,BBBD,,Alvarez Denise Aguiar,Director,P - Purchase,16.69,345000,6394984,+6%,5757279,False
+2026-10-05,12:12,2026-08-25,BBBD,,Alvarez Denise Aguiar,Director,P - Purchase,16.69,345000,6394984,+6%,5757279,True
 2026-10-05,11:12,2026-10-02,MMXF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,19.74,1573,2367934,+0%,31051,False
 2026-10-05,11:12,2026-10-01,MMXF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,20.00,17921,2366361,+1%,358420,False
 2026-10-05,10:57,2026-10-01,GGRX,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,9.41,5720,2162272,+0%,53825,False
-2026-10-05,10:21,2026-08-31,BBBD,,Alvarez Denise Aguiar,Director,P - Purchase,17.22,1950000,8344984,+30%,33581299,False
+2026-10-05,10:21,2026-08-31,BBBD,,Alvarez Denise Aguiar,Director,P - Purchase,17.22,1950000,8344984,+30%,33581299,True
 2026-10-05,09:08,2026-10-02,SSKYH,,Gonzalez Francisco,Chief Financial Officer,P - Purchase,9.25,3850,718538,+1%,35612,False
 2026-10-05,08:56,2026-10-02,EESEA,,Pittas Aristeidis P,Director,P - Purchase,71.07,1050,58950,+2%,74626,False
 2026-10-05,06:10,2026-09-30,VVCIG,,Hoo Voon Him,CEO and Director,P - Purchase,1.62,193349,341715,+130%,313225,False
@@ -11189,3 +11189,63 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-09,06:30,2026-10-07,GGR,Gogoro Inc.,Yin Chung-Yao,Dir,P - Purchase,2.48,14158991,3960848,-139%,35114298,False
 2026-10-09,15:02,2026-08-11,VDTA,Vertical Data Inc.,Leverton Jaime,Dir,P - Purchase,3.00,85000,394113,+27%,255000,False
 2026-10-09,11:29,2026-10-09,QTEX,Qtrex Quantum Ltd.,Ben-Noon Dagi Shahar,CEO,P - Purchase,1.67,18181,3664314,0%,30362,False
+2026-10-09,18:59,2026-10-07,SSKYA,,Bastion Trading Ltd,10% Owner,P - Purchase,1.78,44000,1429417,+3%,78263,False
+2026-10-09,17:34,2026-10-07,MMWA,,Healy Brian C.,Director,P - Purchase,21.75,1376,26322,+6%,29927,False
+2026-10-09,16:37,2026-10-08,CCRT,233529,Oliver Eric L,10% Owner,P - Purchase,11.99,6041,1013232,+1%,72432,False
+2026-10-09,16:33,2026-10-07,SSAH,,Rusnak Paul P.,10% Owner,P - Purchase,59.78,13701,5164221,+0%,819046,False
+2026-10-09,16:16,2026-10-07,CCRBG,,Nippon Life Insurance Co,10% Owner,P - Purchase,34.40,606912,127393018,+0%,20880079,False
+2026-10-09,15:51,2026-10-09,NNMCO,,Hamilton Michael S.,Portfolio Manager,P - Purchase,8.70,3000,3000,New,26106,False
+2026-10-09,11:29,2026-10-09,QQTEX,,Ben-Noon Dagi Shahar,Chief Executive Officer,P - Purchase,1.67,18181,3664314,+0%,30362,False
+2026-10-09,10:01,2026-10-07,GGRX,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,9.43,2955,2171941,+0%,27866,False
+2026-10-09,10:00,2026-09-01,BBBD,,Alvarez Rubens Aguiar,Director,P - Purchase,17.37,1845000,3690000,+100%,32042484,True
+2026-10-09,09:59,2026-10-07,EECF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,11.97,17548,1646010,+1%,210050,False
+2026-10-09,09:43,2026-10-08,PPRTA,,Scully William P,10% Owner,P - Purchase,8.57,90000,529000,+21%,770904,False
+2026-10-09,09:43,2026-10-07,PPRTA,,Scully William P,10% Owner,P - Purchase,8.40,125000,439000,+40%,1050150,False
+2026-10-09,08:01,2026-10-08,AAGMB,,Epstein David R,Director,P - Purchase,8.90,5000,15000,+50%,44500,True
+2026-10-09,06:30,2026-10-07,GGGR,,Yin Chung-Yao,Director,P - Purchase,2.48,14158991,20254338,+232%,35114298,False
+2026-10-08,19:12,2026-10-06,AAVR,,L1 Capital Pty Ltd,10% Owner,P - Purchase,7.18,272695,6358271,+4%,1957950,False
+2026-10-08,18:07,2026-10-07,IIMMR,,Singer Eric,President and CEO,P - Purchase,7.14,41000,2230664,+2%,292800,False
+2026-10-08,17:56,2026-10-07,CCINT,,Martins Fernando Matt Borges,Director,P - Purchase,3.12,9116,20,New,28442,False
+2026-10-08,16:30,2026-10-06,CCRBG,,Nippon Life Insurance Co,10% Owner,P - Purchase,35.23,116345,126786106,+0%,4099102,False
+2026-10-08,16:05,2026-10-06,PPHK,,Flattum David C,Director,P - Purchase,4.14,60204,60204,New,249245,False
+2026-10-08,16:05,2026-10-06,PPDI,,Flattum David C,Director,P - Purchase,14.30,17448,17448,New,249508,True
+2026-10-08,11:34,2026-10-06,CCET,,Hill John C,CEO & President,P - Purchase,56.37,500,78101,+1%,28185,False
+2026-10-08,11:26,2026-10-07,FFUL,,Bailly R Jeffrey,Director,P - Purchase,50.00,10000,10000,New,500000,True
+2026-10-08,11:11,2026-10-07,BBORR,,Troim Tor Olav,Director,P - Purchase,4.31,1250000,34785941,+4%,5390250,False
+2026-10-08,10:39,2026-10-06,GGF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,10.47,5497,3749174,+0%,57554,False
+2026-10-08,10:38,2026-10-06,GGRX,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,9.41,4439,2168986,+0%,41771,False
+2026-10-08,06:32,2026-09-25,CCOE,,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,11.50,1227600,38427300,+3%,14117400,False
+2026-10-08,06:32,2026-09-24,CCOE,,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,11.50,2880,37199700,+0%,33120,False
+2026-10-08,06:32,2026-09-23,CCOE,,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,11.50,897300,37196820,+2%,10318950,False
+2026-10-08,06:32,2026-09-22,CCOE,,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,11.50,378420,36299520,+1%,4351830,False
+2026-10-08,06:32,2026-09-17,CCOE,,Huang Jack Jiajia,Chief Executive Officer,P - Purchase,11.48,304020,35919180,+1%,3490150,False
+2026-10-07,17:02,2026-10-06,VVRA,,Brockman Ivan,Director,P - Purchase,5.02,10000,12500,+400%,50200,False
+2026-10-07,16:30,2026-10-05,CCRBG,,Nippon Life Insurance Co,10% Owner,P - Purchase,34.75,65711,126669761,+0%,2283648,False
+2026-10-07,14:45,2026-10-06,SSAH,,Rusnak Paul P.,10% Owner,P - Purchase,59.90,1119,5150520,+0%,67028,False
+2026-10-07,13:58,2026-10-05,GGF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,10.51,25144,3743677,+1%,264263,False
+2026-10-07,13:56,2026-10-05,MMXF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,20.09,25900,2393834,+1%,520331,False
+2026-10-07,08:57,2026-10-06,AAGMB,,Epstein David R,Director,P - Purchase,8.70,5000,10000,+100%,43500,True
+2026-10-07,08:57,2026-10-05,AAGMB,,Epstein David R,Director,P - Purchase,8.57,5000,5000,New,42850,True
+2026-10-07,08:47,2026-10-06,AAGMB,,Kemula Pierre Thadee Victor,Chief Financial Officer,P - Purchase,8.59,10000,10000,New,85940,True
+2026-10-07,08:06,2026-10-06,AAGMB,,Knotnerus Tim Jasper,Chief Executive Officer,P - Purchase,8.70,5000,21823,+30%,43500,True
+2026-10-07,08:06,2026-10-05,AAGMB,,Knotnerus Tim Jasper,Chief Executive Officer,P - Purchase,8.48,6000,16823,+55%,50880,True
+2026-10-07,07:57,2026-10-06,BBORR,,Troim Tor Olav,Director,P - Purchase,4.24,1500000,33535941,+5%,6364200,False
+2026-10-07,06:10,2026-03-17,IIRIX,,Lin Shih-Yao David,10% Owner,P - Purchase,1.31,22805,1157363,+2%,29872,False
+2026-10-07,06:10,2026-02-05,IIRIX,,Lin Shih-Yao David,10% Owner,P - Purchase,1.45,40535,1098858,+4%,58755,False
+2026-10-07,06:10,2026-02-04,IIRIX,,Lin Shih-Yao David,10% Owner,P - Purchase,1.41,19324,1058323,+2%,27247,False
+2026-10-07,06:10,2026-01-27,IIRIX,,Lin Shih-Yao David,10% Owner,P - Purchase,1.48,33013,1034312,+3%,49014,False
+2026-10-07,06:10,2026-01-23,IIRIX,,Lin Shih-Yao David,10% Owner,P - Purchase,1.48,30000,1001299,+3%,44394,False
+2026-10-07,06:08,2025-07-29,IIRIX,,Lin Shih-Yao David,10% Owner,P - Purchase,1.52,20000,725461,+3%,30400,False
+2026-10-07,06:08,2025-07-18,IIRIX,,Lin Shih-Yao David,10% Owner,P - Purchase,1.28,20000,705461,+3%,25564,False
+2026-10-07,06:08,2025-06-27,IIRIX,,Lin Shih-Yao David,10% Owner,P - Purchase,0.89,50000,675667,+8%,44370,False
+2026-10-07,06:04,2025-06-05,IIRIX,,Lin Shih-Yao David,10% Owner,P - Purchase,0.99,50000,570184,+10%,49330,False
+2026-10-07,06:04,2025-06-02,IIRIX,,Lin Shih-Yao David,10% Owner,P - Purchase,1.00,40114,520184,+8%,40114,False
+2026-10-07,06:04,2025-05-23,IIRIX,,Lin Shih-Yao David,10% Owner,P - Purchase,1.00,80000,452825,+21%,79984,False
+2026-10-07,06:04,2025-05-15,IIRIX,,Lin Shih-Yao David,10% Owner,P - Purchase,1.00,39937,338285,+13%,39937,False
+2026-10-07,06:04,2025-05-14,IIRIX,,Lin Shih-Yao David,10% Owner,P - Purchase,1.10,50000,298348,+20%,55000,False
+2026-10-07,06:04,2025-05-12,IIRIX,,Lin Shih-Yao David,10% Owner,P - Purchase,1.16,50000,248348,+25%,57975,False
+2026-10-07,06:04,2025-05-07,IIRIX,,Lin Shih-Yao David,10% Owner,P - Purchase,1.16,26581,177497,+18%,30815,False
+2026-10-07,06:04,2025-04-24,IIRIX,,Lin Shih-Yao David,10% Owner,P - Purchase,1.20,50000,128858,+63%,60000,False
+2026-10-06,20:35,2026-10-06,LLWAY,,Divisadero Street Capital Mana,10% Owner,P - Purchase,20.80,50000,2451792,+2%,1040190,False
+2026-10-06,20:35,2026-10-05,LLWAY,,Divisadero Street Capital Mana,10% Owner,P - Purchase,21.01,36202,2401792,+2%,760535,False
+2026-10-06,20:35,2026-10-02,LLWAY,,Divisadero Street Capital Mana,10% Owner,P - Purchase,21.09,17482,2365590,+1%,368669,False
