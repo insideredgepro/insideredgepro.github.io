@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-09T07:00:50Z",
-  "trade_count": 11176,
+  "last_updated": "2026-10-09T14:14:16Z",
+  "trade_count": 11180,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -177408,7 +177408,7 @@
       "owned": "13017855",
       "delta_own": "+3%",
       "value": "5757279",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-10-05",
@@ -177424,7 +177424,7 @@
       "owned": "14967855",
       "delta_own": "+15%",
       "value": "33581299",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-10-05",
@@ -178816,6 +178816,70 @@
       "owned": "126786106",
       "delta_own": "0%",
       "value": "4099102",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-09",
+      "filing_time": "10:00",
+      "trade_date": "2026-09-01",
+      "ticker": "BBD",
+      "company": "Bank Bradesco",
+      "insider_name": "Alvarez Rubens Aguiar",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "17.37",
+      "qty": "1845000",
+      "owned": "3954605",
+      "delta_own": "+87%",
+      "value": "32042484",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-09",
+      "filing_time": "09:43",
+      "trade_date": "2026-10-07",
+      "ticker": "PRTA",
+      "company": "Prothena Corp Public Ltd Co",
+      "insider_name": "Scully William P",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "8.47",
+      "qty": "215000",
+      "owned": "1643000",
+      "delta_own": "+15%",
+      "value": "1821054",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-09",
+      "filing_time": "08:01",
+      "trade_date": "2026-10-08",
+      "ticker": "AGMB",
+      "company": "Agomab Therapeutics Nv",
+      "insider_name": "Epstein David R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "8.90",
+      "qty": "5000",
+      "owned": "15000",
+      "delta_own": "+50%",
+      "value": "44500",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-09",
+      "filing_time": "06:30",
+      "trade_date": "2026-10-07",
+      "ticker": "GGR",
+      "company": "Gogoro Inc.",
+      "insider_name": "Yin Chung-Yao",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.48",
+      "qty": "14158991",
+      "owned": "3960848",
+      "delta_own": "-139%",
+      "value": "35114298",
       "cluster_buy": false
     }
   ]

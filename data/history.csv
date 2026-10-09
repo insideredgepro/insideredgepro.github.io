@@ -11094,8 +11094,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-05,16:27,2026-09-30,LND,Brasilagro - Brazilian Agricultural Real Estate Co,Elsztain Alejandro Gustavo,Dir,P - Purchase,3.52,56750,727120,+8%,199696,False
 2026-10-05,16:24,2026-09-30,EP,Empire Petroleum Corp,Mulacek Phil E,"Dir, 10%",P - Purchase,2.25,11915,11558395,0%,26825,False
 2026-10-05,13:14,2026-10-02,MKC,McCormick & Co Inc,Hattersley Gavin,Dir,P - Purchase,44.61,1000,4312,+30%,44610,False
-2026-10-05,12:12,2026-08-25,BBD,Bank Bradesco,Alvarez Denise Aguiar,Dir,P - Purchase,16.69,345000,13017855,+3%,5757279,False
-2026-10-05,10:21,2026-08-31,BBD,Bank Bradesco,Alvarez Denise Aguiar,Dir,P - Purchase,17.22,1950000,14967855,+15%,33581299,False
+2026-10-05,12:12,2026-08-25,BBD,Bank Bradesco,Alvarez Denise Aguiar,Dir,P - Purchase,16.69,345000,13017855,+3%,5757279,True
+2026-10-05,10:21,2026-08-31,BBD,Bank Bradesco,Alvarez Denise Aguiar,Dir,P - Purchase,17.22,1950000,14967855,+15%,33581299,True
 2026-10-05,09:08,2026-10-02,SKYH,Sky Harbour Group Corp,Gonzalez Francisco,CFO,P - Purchase,9.25,3850,718538,+1%,35613,False
 2026-10-05,08:56,2026-10-02,ESEA,Euroseas Ltd.,Pittas Aristeidis P,Dir,P - Purchase,71.07,1050,58950,+2%,74626,False
 2026-10-05,21:45,2026-10-01,ACCV,Accelevation Holdings Corp.,Rubiera Michael,CEO,P - Purchase,18.00,203200,1496308,+16%,3657600,True
@@ -11183,3 +11183,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-08,18:07,2026-10-07,IMMR,Immersion Corp,Singer Eric,"Pres, CEO",P - Purchase,7.14,41000,2230664,+2%,292800,False
 2026-10-08,17:56,2026-10-06,CINT,Ci&T Inc,Martins Fernando Matt Borges,"Dir, 10%",P - Purchase,3.13,15745,82216,+24%,49323,False
 2026-10-08,16:30,2026-10-06,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,35.23,116345,126786106,0%,4099102,False
+2026-10-09,10:00,2026-09-01,BBD,Bank Bradesco,Alvarez Rubens Aguiar,Dir,P - Purchase,17.37,1845000,3954605,+87%,32042484,True
+2026-10-09,09:43,2026-10-07,PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,8.47,215000,1643000,+15%,1821054,False
+2026-10-09,08:01,2026-10-08,AGMB,Agomab Therapeutics Nv,Epstein David R,Dir,P - Purchase,8.90,5000,15000,+50%,44500,True
+2026-10-09,06:30,2026-10-07,GGR,Gogoro Inc.,Yin Chung-Yao,Dir,P - Purchase,2.48,14158991,3960848,-139%,35114298,False
