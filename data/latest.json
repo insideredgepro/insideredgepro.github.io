@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-08T20:23:58Z",
-  "trade_count": 11172,
+  "last_updated": "2026-10-09T00:52:51Z",
+  "trade_count": 11176,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -178752,6 +178752,70 @@
       "owned": "34867808",
       "delta_own": "+4%",
       "value": "5390250",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-08",
+      "filing_time": "19:12",
+      "trade_date": "2026-10-06",
+      "ticker": "AVR",
+      "company": "Anteris Technologies Global Corp.",
+      "insider_name": "L1 Capital Pty Ltd",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "7.18",
+      "qty": "272695",
+      "owned": "6358271",
+      "delta_own": "+4%",
+      "value": "1957950",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-08",
+      "filing_time": "18:07",
+      "trade_date": "2026-10-07",
+      "ticker": "IMMR",
+      "company": "Immersion Corp",
+      "insider_name": "Singer Eric",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "7.14",
+      "qty": "41000",
+      "owned": "2230664",
+      "delta_own": "+2%",
+      "value": "292800",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-08",
+      "filing_time": "17:56",
+      "trade_date": "2026-10-06",
+      "ticker": "CINT",
+      "company": "Ci&T Inc",
+      "insider_name": "Martins Fernando Matt Borges",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "3.13",
+      "qty": "15745",
+      "owned": "82216",
+      "delta_own": "+24%",
+      "value": "49323",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-08",
+      "filing_time": "16:30",
+      "trade_date": "2026-10-06",
+      "ticker": "CRBG",
+      "company": "Corebridge Financial, Inc.",
+      "insider_name": "Nippon Life Insurance Co",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "35.23",
+      "qty": "116345",
+      "owned": "126786106",
+      "delta_own": "0%",
+      "value": "4099102",
       "cluster_buy": false
     }
   ]
