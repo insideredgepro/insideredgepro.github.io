@@ -11181,7 +11181,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-08,11:11,2026-10-07,BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,4.31,1250000,34867808,+4%,5390250,False
 2026-10-08,19:12,2026-10-06,AVR,Anteris Technologies Global Corp.,L1 Capital Pty Ltd,10%,P - Purchase,7.18,272695,6358271,+4%,1957950,False
 2026-10-08,18:07,2026-10-07,IMMR,Immersion Corp,Singer Eric,"Pres, CEO",P - Purchase,7.14,41000,2230664,+2%,292800,False
-2026-10-08,17:56,2026-10-06,CINT,Ci&T Inc,Martins Fernando Matt Borges,"Dir, 10%",P - Purchase,3.13,15745,82216,+24%,49323,False
+2026-10-08,17:56,2026-10-06,CINT,Ci&T Inc,Martins Fernando Matt Borges,"Dir, 10%",P - Purchase,3.13,15745,82216,+24%,49323,True
 2026-10-08,16:30,2026-10-06,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,35.23,116345,126786106,0%,4099102,False
 2026-10-09,10:00,2026-09-01,BBD,Bank Bradesco,Alvarez Rubens Aguiar,Dir,P - Purchase,17.37,1845000,3954605,+87%,32042484,True
 2026-10-09,09:43,2026-10-07,PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,8.47,215000,1643000,+15%,1821054,False
@@ -11249,3 +11249,12 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-06,20:35,2026-10-06,LLWAY,,Divisadero Street Capital Mana,10% Owner,P - Purchase,20.80,50000,2451792,+2%,1040190,False
 2026-10-06,20:35,2026-10-05,LLWAY,,Divisadero Street Capital Mana,10% Owner,P - Purchase,21.01,36202,2401792,+2%,760535,False
 2026-10-06,20:35,2026-10-02,LLWAY,,Divisadero Street Capital Mana,10% Owner,P - Purchase,21.09,17482,2365590,+1%,368669,False
+2026-10-09,21:20,2026-07-31,REF,Reformation Inc.,Allen Zipporah,Dir,P - Purchase,15.00,3500,12833,+38%,52500,True
+2026-10-09,21:18,2026-07-31,REF,Reformation Inc.,Coyle John Joseph,Dir,P - Purchase,15.00,200000,266313,+302%,3000000,True
+2026-10-09,18:59,2026-10-07,SKYA,"Skyai, Inc.",Bastion Trading Ltd,10%,P - Purchase,1.78,44000,4369492,+1%,78263,False
+2026-10-09,17:34,2026-10-07,MWA,"Mueller Water Products, Inc.",Healy Brian C.,Dir,P - Purchase,21.75,1376,26322,+6%,29927,False
+2026-10-09,17:16,2026-09-25,CINT,Ci&T Inc,Gon Cesar Nivaldo,"CEO, 10%",P - Purchase,2.90,8816,75208,+13%,25531,True
+2026-10-09,16:37,2026-07-29,OPTU,"Optimum Communications, Inc.",Subin Neil S,10%,P - Purchase,0.81,3032354,19549309,+18%,2454822,False
+2026-10-09,16:37,2026-10-07,CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,11.90,7359,1013232,+1%,87575,False
+2026-10-09,16:33,2026-10-07,SAH,Sonic Automotive Inc,Rusnak Paul P.,10%,P - Purchase,59.78,13701,5164221,0%,819046,False
+2026-10-09,16:16,2026-10-07,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,34.40,606912,127393018,0%,20880079,False
