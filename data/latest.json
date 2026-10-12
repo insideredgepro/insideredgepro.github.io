@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T11:29:45Z",
-  "trade_count": 11251,
+  "last_updated": "2026-10-12T20:40:16Z",
+  "trade_count": 11255,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -180017,6 +180017,70 @@
       "delta_own": "0%",
       "value": "20880079",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-09",
+      "filing_time": "21:07",
+      "trade_date": "2026-10-09",
+      "ticker": "BBPRE",
+      "company": "",
+      "insider_name": "Kamfar Ramin",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "13.17",
+      "qty": "171094",
+      "owned": "1827031",
+      "delta_own": "+10%",
+      "value": "2253171",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-09",
+      "filing_time": "21:07",
+      "trade_date": "2026-10-08",
+      "ticker": "BBPRE",
+      "company": "",
+      "insider_name": "Kamfar Ramin",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "13.05",
+      "qty": "150937",
+      "owned": "1655937",
+      "delta_own": "+10%",
+      "value": "1969441",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-09",
+      "filing_time": "21:07",
+      "trade_date": "2026-10-07",
+      "ticker": "BBPRE",
+      "company": "",
+      "insider_name": "Kamfar Ramin",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "12.99",
+      "qty": "186612",
+      "owned": "1504574",
+      "delta_own": "+14%",
+      "value": "2424165",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-09",
+      "filing_time": "21:07",
+      "trade_date": "2026-10-06",
+      "ticker": "BBPRE",
+      "company": "",
+      "insider_name": "Kamfar Ramin",
+      "title": "Director",
+      "trade_type": "P - Purchase",
+      "price": "13.02",
+      "qty": "142420",
+      "owned": "1317962",
+      "delta_own": "+12%",
+      "value": "1854750",
+      "cluster_buy": true
     }
   ]
 }
