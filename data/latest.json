@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T17:42:50Z",
-  "trade_count": 11290,
+  "last_updated": "2026-10-14T21:08:53Z",
+  "trade_count": 11291,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -180641,6 +180641,22 @@
       "delta_own": "0%",
       "value": "50818",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-14",
+      "filing_time": "16:30",
+      "trade_date": "2026-10-09",
+      "ticker": "CRBG",
+      "company": "Corebridge Financial, Inc.",
+      "insider_name": "Nippon Life Insurance Co",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "34.20",
+      "qty": "479940",
+      "owned": "128134156",
+      "delta_own": "0%",
+      "value": "16412297",
+      "cluster_buy": false
     }
   ]
 }
