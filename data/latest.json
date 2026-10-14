@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T12:35:44Z",
-  "trade_count": 11287,
+  "last_updated": "2026-10-14T17:42:50Z",
+  "trade_count": 11290,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -180112,7 +180112,7 @@
       "owned": "33599",
       "delta_own": "+56%",
       "value": "39336",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-10-13",
@@ -180593,6 +180593,54 @@
       "delta_own": "+1%",
       "value": "40166",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-14",
+      "filing_time": "12:22",
+      "trade_date": "2026-10-13",
+      "ticker": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Troim Tor Olav",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.93",
+      "qty": "1500000",
+      "owned": "38867808",
+      "delta_own": "+4%",
+      "value": "7401600",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-14",
+      "filing_time": "10:57",
+      "trade_date": "2026-10-09",
+      "ticker": "TDIC",
+      "company": "Dreamland Ltd",
+      "insider_name": "Seto Wai Yue",
+      "title": "CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "2.00",
+      "qty": "300000",
+      "owned": "2569890",
+      "delta_own": "+13%",
+      "value": "600000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-14",
+      "filing_time": "09:15",
+      "trade_date": "2026-10-13",
+      "ticker": "IMSR",
+      "company": "Terrestrial Energy Inc. /De/",
+      "insider_name": "Irish Simon",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.01",
+      "qty": "16900",
+      "owned": "5183609",
+      "delta_own": "0%",
+      "value": "50818",
+      "cluster_buy": true
     }
   ]
 }

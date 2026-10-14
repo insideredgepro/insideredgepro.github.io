@@ -11263,7 +11263,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-09,21:07,2026-10-07,BBPRE,,Kamfar Ramin,Director,P - Purchase,12.99,186612,1504574,+14%,2424165,True
 2026-10-09,21:07,2026-10-06,BBPRE,,Kamfar Ramin,Director,P - Purchase,13.02,142420,1317962,+12%,1854750,True
 2026-10-13,13:10,2026-10-09,LCU,Lion Copper Corp.,Sharman Mark Brady,Dir,P - Purchase,3.98,7285,351881,+2%,28997,False
-2026-10-13,11:06,2026-10-09,IMSR,Terrestrial Energy Inc. /De/,Buckman Frederick W,Dir,P - Purchase,3.28,12000,33599,+56%,39336,False
+2026-10-13,11:06,2026-10-09,IMSR,Terrestrial Energy Inc. /De/,Buckman Frederick W,Dir,P - Purchase,3.28,12000,33599,+56%,39336,True
 2026-10-13,10:30,2026-10-08,IIPR,Innovative Industrial Properties Inc,Gold Alan D,Exec COB,P - Purchase,25.00,40000,40000,New,1000000,False
 2026-10-13,10:19,2026-10-09,HBIA,Hills Bancorporation,Slattery Thomas M.,Dir,P - Purchase,47.00,1000,1000,New,47000,False
 2026-10-13,10:13,2026-10-07,GOLD,"Gold.Com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A.",10%,P - Purchase,39.87,32118,3702905,+1%,1280535,False
@@ -11294,3 +11294,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-13,18:10,2026-10-13,RTSN,"Retension Pharmaceuticals, Inc.",Berger Franklin M,Dir,P - Purchase,12.00,10000,22517,+80%,120000,True
 2026-10-14,08:28,2026-10-13,EDRY,Eurodry Ltd.,Pittas Aristeidis P,Dir,P - Purchase,51.18,700,76788,+1%,35826,False
 2026-10-14,06:20,2026-10-12,BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,3.40,11800,1678572,+1%,40166,False
+2026-10-14,12:22,2026-10-13,BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,4.93,1500000,38867808,+4%,7401600,False
+2026-10-14,10:57,2026-10-09,TDIC,Dreamland Ltd,Seto Wai Yue,"CEO, 10%",P - Purchase,2.00,300000,2569890,+13%,600000,False
+2026-10-14,09:15,2026-10-13,IMSR,Terrestrial Energy Inc. /De/,Irish Simon,CEO,P - Purchase,3.01,16900,5183609,0%,50818,True
