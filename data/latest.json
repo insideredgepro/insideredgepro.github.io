@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T06:56:07Z",
-  "trade_count": 11285,
+  "last_updated": "2026-10-14T12:35:44Z",
+  "trade_count": 11287,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -180561,6 +180561,38 @@
       "delta_own": "+80%",
       "value": "120000",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-14",
+      "filing_time": "08:28",
+      "trade_date": "2026-10-13",
+      "ticker": "EDRY",
+      "company": "Eurodry Ltd.",
+      "insider_name": "Pittas Aristeidis P",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "51.18",
+      "qty": "700",
+      "owned": "76788",
+      "delta_own": "+1%",
+      "value": "35826",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-14",
+      "filing_time": "06:20",
+      "trade_date": "2026-10-12",
+      "ticker": "BZUN",
+      "company": "Baozun Inc.",
+      "insider_name": "Qiu Wenbin",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "3.40",
+      "qty": "11800",
+      "owned": "1678572",
+      "delta_own": "+1%",
+      "value": "40166",
+      "cluster_buy": false
     }
   ]
 }
