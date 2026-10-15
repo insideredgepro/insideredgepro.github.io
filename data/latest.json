@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T15:25:40Z",
-  "trade_count": 11302,
+  "last_updated": "2026-10-15T19:35:27Z",
+  "trade_count": 11303,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -180832,6 +180832,22 @@
       "owned": "85596090",
       "delta_own": "0%",
       "value": "101521",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-15",
+      "filing_time": "11:29",
+      "trade_date": "2026-10-15",
+      "ticker": "CRESY",
+      "company": "Cresud Inc",
+      "insider_name": "Elsztain Alejandro Gustavo",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "11.18",
+      "qty": "8295",
+      "owned": "1251393",
+      "delta_own": "+1%",
+      "value": "92738",
       "cluster_buy": false
     }
   ]
