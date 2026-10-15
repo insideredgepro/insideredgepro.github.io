@@ -11273,7 +11273,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-13,07:06,2026-09-16,API,"Agora, Inc.",Zhao Bin,CEO,P - Purchase,4.16,167385,85571958,0%,695747,False
 2026-10-13,17:45,2026-10-08,GRCE,"Grace Therapeutics, Inc.",Opaleye Management Inc.,10%,P - Purchase,2.03,14632,2873289,+1%,29683,False
 2026-10-13,16:30,2026-10-08,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,34.30,261198,127654216,0%,8958804,False
-2026-10-13,16:30,2026-10-08,TRXB,"Trex Bio, Inc.","Svlsf Vi, LLC",10%,P - Purchase,14.00,92857,3011818,+3%,1299998,False
+2026-10-13,16:30,2026-10-08,TRXB,"Trex Bio, Inc.","Svlsf Vi, LLC",10%,P - Purchase,14.00,92857,3011818,+3%,1299998,True
 2026-10-13,16:24,2026-10-09,AVO,"Mission Produce, Inc.",Gonzalez Luis A,Dir,P - Purchase,11.43,52022,8077916,+1%,594785,False
 2026-10-13,16:06,2026-10-13,GME,Gamestop Corp.,Cohen Ryan,"Pres, CEO, COB",P - Purchase,26.98,844130,42492652,+2%,22774728,True
 2026-10-13,15:33,2026-10-08,HEI,Heico Corp,Mendelson Victor H,"Co-COB, Co-CEO",P - Purchase,220.30,795,2821355,0%,175142,True
@@ -11310,3 +11310,10 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-15,09:00,2026-09-30,NEOV,Neovolta Inc.,Hass John A,Dir,P - Purchase,2.61,25000,126190,+25%,65250,False
 2026-10-15,06:56,2026-10-12,API,"Agora, Inc.",Zhao Bin,CEO,P - Purchase,4.21,24132,85596090,0%,101521,False
 2026-10-15,11:29,2026-10-15,CRESY,Cresud Inc,Elsztain Alejandro Gustavo,Dir,P - Purchase,11.18,8295,1251393,+1%,92738,False
+2026-10-15,16:40,2026-10-15,FLSC,Frazier Life Sciences Acquisition Corp. II,Cha Albert,"CEO, 10%",P - Purchase,10.00,300000,300000,New,3000000,False
+2026-10-15,16:33,2026-10-13,TRXB,"Trex Bio, Inc.","Alexandria Venture Investments, LLC",10%,P - Purchase,14.00,178571,1346501,+15%,2499994,True
+2026-10-15,16:30,2026-10-13,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,34.68,253776,128387932,0%,8801941,False
+2026-10-15,16:21,2026-10-13,PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,8.36,110000,1753000,+7%,920049,False
+2026-10-15,16:16,2026-09-22,DUOT,"Duos Technologies Group, Inc.",Recker Frank Douglas,CEO,P - Purchase,9.14,9250,1289250,+1%,84557,True
+2026-10-15,16:15,2026-10-13,CXM,"Sprinklr, Inc.",Ward Jr Stephen M,Dir,P - Purchase,5.67,150000,237088,+172%,850500,False
+2026-10-15,16:05,2026-10-14,DGXX,Digi Power X Inc.,Amar Michel,"CEO, 10%",P - Purchase,2.76,20000,6005480,0%,55256,False
