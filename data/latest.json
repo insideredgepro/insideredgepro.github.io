@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T10:23:03Z",
-  "trade_count": 11310,
+  "last_updated": "2026-10-16T15:05:58Z",
+  "trade_count": 11313,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -177568,7 +177568,7 @@
       "owned": "32117808",
       "delta_own": "+5%",
       "value": "6197100",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-10-06",
@@ -178560,7 +178560,7 @@
       "owned": "33617808",
       "delta_own": "+5%",
       "value": "6364200",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-10-07",
@@ -178752,7 +178752,7 @@
       "owned": "34867808",
       "delta_own": "+4%",
       "value": "5390250",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-10-08",
@@ -180176,7 +180176,7 @@
       "owned": "37367808",
       "delta_own": "+7%",
       "value": "11843500",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-10-13",
@@ -180608,7 +180608,7 @@
       "owned": "38867808",
       "delta_own": "+4%",
       "value": "7401600",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-10-14",
@@ -180800,7 +180800,7 @@
       "owned": "39617808",
       "delta_own": "+2%",
       "value": "3542550",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-10-15",
@@ -180960,6 +180960,54 @@
       "owned": "6005480",
       "delta_own": "0%",
       "value": "55256",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-16",
+      "filing_time": "10:23",
+      "trade_date": "2026-10-14",
+      "ticker": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Snowling Harvey Edward",
+      "title": "COO",
+      "trade_type": "P - Purchase",
+      "price": "4.91",
+      "qty": "300000",
+      "owned": "198444",
+      "delta_own": "-295%",
+      "value": "1473000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-16",
+      "filing_time": "07:30",
+      "trade_date": "2026-10-15",
+      "ticker": "BORR",
+      "company": "Borr Drilling Ltd",
+      "insider_name": "Troim Tor Olav",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "4.60",
+      "qty": "500000",
+      "owned": "40117808",
+      "delta_own": "+1%",
+      "value": "2299150",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-16",
+      "filing_time": "06:30",
+      "trade_date": "2026-10-15",
+      "ticker": "EDRY",
+      "company": "Eurodry Ltd.",
+      "insider_name": "Pittas Aristeidis P",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "48.17",
+      "qty": "600",
+      "owned": "77088",
+      "delta_own": "+1%",
+      "value": "28901",
       "cluster_buy": false
     }
   ]
