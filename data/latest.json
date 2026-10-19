@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T16:02:57Z",
-  "trade_count": 11328,
+  "last_updated": "2026-10-19T21:19:03Z",
+  "trade_count": 11331,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -181249,6 +181249,54 @@
       "delta_own": "+3%",
       "value": "25980",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-19",
+      "filing_time": "16:46",
+      "trade_date": "2026-10-15",
+      "ticker": "CNXU",
+      "company": "Conexeu Sciences Inc.",
+      "insider_name": "Purcell Lynn Sebastian",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "3.00",
+      "qty": "166666",
+      "owned": "3118514",
+      "delta_own": "+6%",
+      "value": "499998",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-19",
+      "filing_time": "16:30",
+      "trade_date": "2026-10-15",
+      "ticker": "CRBG",
+      "company": "Corebridge Financial, Inc.",
+      "insider_name": "Nippon Life Insurance Co",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "33.43",
+      "qty": "510873",
+      "owned": "129500908",
+      "delta_own": "0%",
+      "value": "17076202",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-19",
+      "filing_time": "13:11",
+      "trade_date": "2025-05-29",
+      "ticker": "MAGN",
+      "company": "Magnera Corp",
+      "insider_name": "Brown Bruce",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "11.81",
+      "qty": "4235",
+      "owned": "16555",
+      "delta_own": "+34%",
+      "value": "49996",
+      "cluster_buy": true
     }
   ]
 }
