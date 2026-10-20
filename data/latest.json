@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T19:46:16Z",
-  "trade_count": 11339,
+  "last_updated": "2026-10-20T22:51:43Z",
+  "trade_count": 11342,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -181424,6 +181424,54 @@
       "owned": "2618540",
       "delta_own": "+1%",
       "value": "104440",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-20",
+      "filing_time": "17:49",
+      "trade_date": "2026-10-16",
+      "ticker": "BOLD",
+      "company": "Boundless Bio, Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.34",
+      "qty": "149474",
+      "owned": "2990109",
+      "delta_own": "+5%",
+      "value": "349593",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-20",
+      "filing_time": "17:49",
+      "trade_date": "2026-10-20",
+      "ticker": "DX",
+      "company": "Dynex Capital Inc",
+      "insider_name": "Popenoe Smriti Laxman",
+      "title": "Co-CEO, Pres",
+      "trade_type": "P - Purchase",
+      "price": "13.05",
+      "qty": "12000",
+      "owned": "548203",
+      "delta_own": "+2%",
+      "value": "156560",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-20",
+      "filing_time": "17:24",
+      "trade_date": "2026-10-16",
+      "ticker": "CRBG",
+      "company": "Corebridge Financial, Inc.",
+      "insider_name": "Nippon Life Insurance Co",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "34.71",
+      "qty": "347195",
+      "owned": "129848103",
+      "delta_own": "0%",
+      "value": "12052562",
       "cluster_buy": false
     }
   ]
