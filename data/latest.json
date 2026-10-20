@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T05:34:51Z",
-  "trade_count": 11337,
+  "last_updated": "2026-10-20T10:42:07Z",
+  "trade_count": 11338,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -181392,6 +181392,22 @@
       "owned": "3359894",
       "delta_own": "+1%",
       "value": "308576",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-20",
+      "filing_time": "06:35",
+      "trade_date": "2026-10-19",
+      "ticker": "NBIS",
+      "company": "Nebius Group N.V.",
+      "insider_name": "Grimme Arne",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "169.99",
+      "qty": "148",
+      "owned": "6329",
+      "delta_own": "+2%",
+      "value": "25159",
       "cluster_buy": false
     }
   ]

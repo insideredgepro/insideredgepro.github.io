@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-10-20",
-  "entry_count": 1457,
+  "entry_count": 1458,
   "entries": [
     {
       "id": "US|KEEL|2026-08-21|gagnon benjamin|3.33",
@@ -864,7 +864,7 @@
         "2026-10-19": 19.0,
         "2026-10-20": 19.0
       },
-      "latest_price": 19.0,
+      "latest_price": 18.0,
       "return_pct": -99.98,
       "last_snapshot": "2026-10-20"
     },
@@ -44571,8 +44571,8 @@
         "2026-10-19": 0.073,
         "2026-10-20": 0.073
       },
-      "latest_price": 0.073,
-      "return_pct": -27.0,
+      "latest_price": 0.0734,
+      "return_pct": -26.6,
       "last_snapshot": "2026-10-20"
     },
     {
@@ -49192,8 +49192,8 @@
         "2026-10-19": 0.049,
         "2026-10-20": 0.049
       },
-      "latest_price": 0.049,
-      "return_pct": -90.2,
+      "latest_price": 0.0478,
+      "return_pct": -90.44,
       "last_snapshot": "2026-10-20"
     },
     {
@@ -57307,6 +57307,26 @@
       },
       "latest_price": 8.5,
       "return_pct": 1.8,
+      "last_snapshot": "2026-10-20"
+    },
+    {
+      "id": "US|NBIS|2026-10-19|grimme arne|169.99",
+      "market": "US",
+      "ticker": "NBIS",
+      "yf_symbol": "NBIS",
+      "company": "Nebius Group N.V.",
+      "insider_name": "Grimme Arne",
+      "title": "Dir",
+      "trade_date": "2026-10-19",
+      "trade_price": 169.99,
+      "value": 25159.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-10-20": 170.24
+      },
+      "latest_price": 170.24,
+      "return_pct": 0.15,
       "last_snapshot": "2026-10-20"
     }
   ]
