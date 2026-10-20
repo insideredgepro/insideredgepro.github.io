@@ -1728,6 +1728,48 @@
     "scraped_at": "2026-03-03T06:07:47.231168"
   },
   {
+    "id": "20003803709",
+    "politician_name": "Michael Rulli",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Alphabet Inc",
+    "ticker": "GOOGL:US",
+    "sector": "communication-services",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-16",
+    "trade_published": "2026-10-20",
+    "filed_after_days": "3",
+    "price": "$336.91",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Merrill Lynch Roth IRA",
+    "scraped_at": "2026-10-20T16:10:04.132288+00:00"
+  },
+  {
+    "id": "20003803710",
+    "politician_name": "Michael Rulli",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "WesBanco Inc",
+    "ticker": "WSBC:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-16",
+    "trade_published": "2026-10-20",
+    "filed_after_days": "3",
+    "price": "$37.22",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Merrill Lynch Roth IRA",
+    "scraped_at": "2026-10-20T16:10:04.132344+00:00"
+  },
+  {
     "id": "20003803608",
     "politician_name": "David Taylor",
     "party": "Republican",
@@ -1746,7 +1788,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-10-20T03:55:03.799487+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132525+00:00"
   },
   {
     "id": "20003803606",
@@ -1767,7 +1809,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-10-20T03:55:03.799473+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132492+00:00"
   },
   {
     "id": "20003803607",
@@ -1788,7 +1830,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-10-20T03:55:03.799481+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132509+00:00"
   },
   {
     "id": "20003803609",
@@ -1809,7 +1851,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-10-20T03:55:03.799493+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132539+00:00"
   },
   {
     "id": "20003803555",
@@ -2400,6 +2442,111 @@
     "scraped_at": "2026-10-14T22:10:04.087284+00:00"
   },
   {
+    "id": "20003803703",
+    "politician_name": "Jonathan Jackson",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "IL",
+    "company": "Datadog Inc",
+    "ticker": "DDOG:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-28",
+    "trade_published": "2026-10-20",
+    "filed_after_days": "21",
+    "price": "$268.70",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley Trust Account",
+    "scraped_at": "2026-10-20T16:10:04.132373+00:00"
+  },
+  {
+    "id": "20003803704",
+    "politician_name": "Jonathan Jackson",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "IL",
+    "company": "The Estee Lauder Cos Inc",
+    "ticker": "EL:US",
+    "sector": "consumer-staples",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-28",
+    "trade_published": "2026-10-20",
+    "filed_after_days": "21",
+    "price": "$95.57",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley Trust Account",
+    "scraped_at": "2026-10-20T16:10:04.132391+00:00"
+  },
+  {
+    "id": "20003803705",
+    "politician_name": "Jonathan Jackson",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "IL",
+    "company": "Guardant Health Inc",
+    "ticker": "GH:US",
+    "sector": "health-care",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-28",
+    "trade_published": "2026-10-20",
+    "filed_after_days": "21",
+    "price": "$177.33",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley Trust Account",
+    "scraped_at": "2026-10-20T16:10:04.132406+00:00"
+  },
+  {
+    "id": "20003803707",
+    "politician_name": "Jonathan Jackson",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "IL",
+    "company": "ViaSat Inc",
+    "ticker": "VSAT:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-28",
+    "trade_published": "2026-10-20",
+    "filed_after_days": "21",
+    "price": "$71.65",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley Trust Account",
+    "scraped_at": "2026-10-20T16:10:04.132434+00:00"
+  },
+  {
+    "id": "20003803708",
+    "politician_name": "Jonathan Jackson",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "IL",
+    "company": "Walmart Inc",
+    "ticker": "WMT:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-28",
+    "trade_published": "2026-10-20",
+    "filed_after_days": "21",
+    "price": "$108.73",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley Trust Account",
+    "scraped_at": "2026-10-20T16:10:04.132447+00:00"
+  },
+  {
     "id": "20003803560",
     "politician_name": "Lisa McClain",
     "party": "Republican",
@@ -2502,7 +2649,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-10-20T03:55:03.799510+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132576+00:00"
   },
   {
     "id": "20003802996",
@@ -2544,7 +2691,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-10-20T03:55:03.799516+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132588+00:00"
   },
   {
     "id": "20003803597",
@@ -3930,7 +4077,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-10-20T03:55:03.799458+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132478+00:00"
   },
   {
     "id": "20003803601",
@@ -8028,6 +8175,27 @@
     "scraped_at": "2026-09-26T03:55:03.121020+00:00"
   },
   {
+    "id": "20003803706",
+    "politician_name": "Jonathan Jackson",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "IL",
+    "company": "Tortoise Energy Infrastructure Corp",
+    "ticker": "TYG:US",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-04",
+    "trade_published": "2026-10-20",
+    "filed_after_days": "45",
+    "price": "$42.46",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Morgan Stanley - Rollover IRA",
+    "scraped_at": "2026-10-20T16:10:04.132421+00:00"
+  },
+  {
     "id": "20003803540",
     "politician_name": "Gilbert Cisneros",
     "party": "Democrat",
@@ -8550,7 +8718,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-10-20T03:55:03.799499+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132552+00:00"
   },
   {
     "id": "20003803603",
@@ -8571,7 +8739,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-10-20T03:55:03.799505+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132564+00:00"
   },
   {
     "id": "20003803520",
@@ -9285,7 +9453,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799713+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133081+00:00"
   },
   {
     "id": "20003803671",
@@ -9306,7 +9474,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799900+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133527+00:00"
   },
   {
     "id": "20003803592",
@@ -9831,7 +9999,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799521+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132603+00:00"
   },
   {
     "id": "20003803635",
@@ -9852,7 +10020,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799663+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132994+00:00"
   },
   {
     "id": "20003803674",
@@ -9873,7 +10041,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799920+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133572+00:00"
   },
   {
     "id": "20003803697",
@@ -10062,7 +10230,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799729+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133108+00:00"
   },
   {
     "id": "20003803644",
@@ -10083,7 +10251,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799736+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133129+00:00"
   },
   {
     "id": "20003803648",
@@ -10104,7 +10272,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799756+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133182+00:00"
   },
   {
     "id": "20003803651",
@@ -10125,7 +10293,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799773+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133224+00:00"
   },
   {
     "id": "20003803673",
@@ -10146,7 +10314,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799914+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133556+00:00"
   },
   {
     "id": "20003802978",
@@ -10587,7 +10755,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799575+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132732+00:00"
   },
   {
     "id": "20003803623",
@@ -10608,7 +10776,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799592+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132772+00:00"
   },
   {
     "id": "20003803665",
@@ -10629,7 +10797,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799862+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133443+00:00"
   },
   {
     "id": "20003802973",
@@ -11154,7 +11322,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799587+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132760+00:00"
   },
   {
     "id": "20003803646",
@@ -11175,7 +11343,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799746+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133156+00:00"
   },
   {
     "id": "20003803653",
@@ -11196,7 +11364,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799786+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133253+00:00"
   },
   {
     "id": "20003803660",
@@ -11217,7 +11385,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799828+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133346+00:00"
   },
   {
     "id": "20003803661",
@@ -11238,7 +11406,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799834+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133377+00:00"
   },
   {
     "id": "20003803662",
@@ -11259,7 +11427,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799842+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133392+00:00"
   },
   {
     "id": "20003803667",
@@ -11280,7 +11448,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799873+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133470+00:00"
   },
   {
     "id": "20003803696",
@@ -12036,7 +12204,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-10-20T03:55:03.799425+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132464+00:00"
   },
   {
     "id": "20003803617",
@@ -12057,7 +12225,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799561+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132692+00:00"
   },
   {
     "id": "20003803628",
@@ -12078,7 +12246,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799622+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132877+00:00"
   },
   {
     "id": "20003803650",
@@ -12099,7 +12267,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799768+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133211+00:00"
   },
   {
     "id": "20003803664",
@@ -12120,7 +12288,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799853+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133426+00:00"
   },
   {
     "id": "10000066880",
@@ -12729,7 +12897,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799536+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132629+00:00"
   },
   {
     "id": "20003803629",
@@ -12750,7 +12918,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799628+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132898+00:00"
   },
   {
     "id": "20003803649",
@@ -12771,7 +12939,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799762+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133195+00:00"
   },
   {
     "id": "20003803654",
@@ -12792,7 +12960,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799793+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133269+00:00"
   },
   {
     "id": "20003803670",
@@ -12813,7 +12981,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799891+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133513+00:00"
   },
   {
     "id": "20003803685",
@@ -12834,7 +13002,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799987+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133736+00:00"
   },
   {
     "id": "20003802762",
@@ -12981,7 +13149,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799528+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132617+00:00"
   },
   {
     "id": "20003803626",
@@ -13002,7 +13170,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799609+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132836+00:00"
   },
   {
     "id": "20003803627",
@@ -13023,7 +13191,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799617+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132856+00:00"
   },
   {
     "id": "20003803652",
@@ -13044,7 +13212,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799781+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133240+00:00"
   },
   {
     "id": "20003803659",
@@ -13065,7 +13233,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799822+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133333+00:00"
   },
   {
     "id": "20003803683",
@@ -13086,7 +13254,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799975+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133700+00:00"
   },
   {
     "id": "20003803691",
@@ -13632,7 +13800,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799580+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132748+00:00"
   },
   {
     "id": "20003803636",
@@ -13653,7 +13821,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799669+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133010+00:00"
   },
   {
     "id": "20003803645",
@@ -13674,7 +13842,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799741+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133142+00:00"
   },
   {
     "id": "20003803647",
@@ -13695,7 +13863,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799751+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133168+00:00"
   },
   {
     "id": "20003803669",
@@ -13716,7 +13884,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799885+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133499+00:00"
   },
   {
     "id": "20003803686",
@@ -13737,7 +13905,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799995+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133767+00:00"
   },
   {
     "id": "20003802962",
@@ -14661,7 +14829,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799551+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132668+00:00"
   },
   {
     "id": "20003803668",
@@ -14682,7 +14850,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799879+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133484+00:00"
   },
   {
     "id": "20003803677",
@@ -14703,7 +14871,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799942+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133612+00:00"
   },
   {
     "id": "20003803689",
@@ -15438,7 +15606,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799847+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133409+00:00"
   },
   {
     "id": "20003802648",
@@ -15564,7 +15732,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799674+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133023+00:00"
   },
   {
     "id": "20003803640",
@@ -15585,7 +15753,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799707+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133064+00:00"
   },
   {
     "id": "20003803658",
@@ -15606,7 +15774,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799817+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133321+00:00"
   },
   {
     "id": "20003803678",
@@ -15627,7 +15795,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799948+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133625+00:00"
   },
   {
     "id": "10000066900",
@@ -16131,7 +16299,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799565+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132704+00:00"
   },
   {
     "id": "20003803633",
@@ -16152,7 +16320,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799653+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132966+00:00"
   },
   {
     "id": "20003803657",
@@ -16173,7 +16341,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799811+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133308+00:00"
   },
   {
     "id": "20003803672",
@@ -16194,7 +16362,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799907+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133540+00:00"
   },
   {
     "id": "20003803675",
@@ -16215,7 +16383,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799930+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133586+00:00"
   },
   {
     "id": "20003802805",
@@ -16635,7 +16803,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799598+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132794+00:00"
   },
   {
     "id": "20003803656",
@@ -16656,7 +16824,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799805+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133292+00:00"
   },
   {
     "id": "20003802822",
@@ -17706,7 +17874,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799546+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132656+00:00"
   },
   {
     "id": "20003803619",
@@ -17727,7 +17895,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799570+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132716+00:00"
   },
   {
     "id": "20003803625",
@@ -17748,7 +17916,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799604+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132816+00:00"
   },
   {
     "id": "20003802814",
@@ -19323,7 +19491,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799634+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132919+00:00"
   },
   {
     "id": "20003803631",
@@ -19344,7 +19512,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799639+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132938+00:00"
   },
   {
     "id": "20003803632",
@@ -19365,7 +19533,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799646+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132952+00:00"
   },
   {
     "id": "20003803666",
@@ -19386,7 +19554,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799867+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133457+00:00"
   },
   {
     "id": "20003803679",
@@ -19407,7 +19575,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799953+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133643+00:00"
   },
   {
     "id": "20003803681",
@@ -19428,7 +19596,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799963+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133671+00:00"
   },
   {
     "id": "20003803682",
@@ -19449,7 +19617,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799970+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133686+00:00"
   },
   {
     "id": "20003802715",
@@ -20079,7 +20247,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799658+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132982+00:00"
   },
   {
     "id": "20003802821",
@@ -20541,7 +20709,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799542+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132640+00:00"
   },
   {
     "id": "20003803638",
@@ -20562,7 +20730,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799679+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133036+00:00"
   },
   {
     "id": "20003803642",
@@ -20583,7 +20751,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799722+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133094+00:00"
   },
   {
     "id": "20003803676",
@@ -20604,7 +20772,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799936+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133599+00:00"
   },
   {
     "id": "20003802930",
@@ -21192,7 +21360,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799701+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133053+00:00"
   },
   {
     "id": "20003803680",
@@ -21213,7 +21381,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799958+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133657+00:00"
   },
   {
     "id": "20003803684",
@@ -21234,7 +21402,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799981+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133721+00:00"
   },
   {
     "id": "20003803687",
@@ -21255,7 +21423,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.800000+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133779+00:00"
   },
   {
     "id": "20003803688",
@@ -21549,7 +21717,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799556+00:00"
+    "scraped_at": "2026-10-20T16:10:04.132680+00:00"
   },
   {
     "id": "20003803655",
@@ -21570,7 +21738,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "LLM FAMILY INVESTMENTS LP",
-    "scraped_at": "2026-10-20T03:55:03.799798+00:00"
+    "scraped_at": "2026-10-20T16:10:04.133281+00:00"
   },
   {
     "id": "20003803690",
