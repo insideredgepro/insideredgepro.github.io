@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T10:42:07Z",
-  "trade_count": 11338,
+  "last_updated": "2026-10-20T15:30:55Z",
+  "trade_count": 11339,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -181408,6 +181408,22 @@
       "owned": "6329",
       "delta_own": "+2%",
       "value": "25159",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-20",
+      "filing_time": "08:00",
+      "trade_date": "2026-10-19",
+      "ticker": "XGN",
+      "company": "Exagen Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "7.46",
+      "qty": "14000",
+      "owned": "2618540",
+      "delta_own": "+1%",
+      "value": "104440",
       "cluster_buy": false
     }
   ]
