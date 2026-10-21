@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-21T12:36:37Z",
-  "trade_count": 11343,
+  "last_updated": "2026-10-21T17:48:53Z",
+  "trade_count": 11346,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -181488,6 +181488,54 @@
       "owned": "3137000",
       "delta_own": "0%",
       "value": "52037",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-21",
+      "filing_time": "10:58",
+      "trade_date": "2026-10-20",
+      "ticker": "SKAS",
+      "company": "Saker Aviation Services, Inc.",
+      "insider_name": "Eriksen Howard Timothy",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "5.52",
+      "qty": "12700",
+      "owned": "195181",
+      "delta_own": "+7%",
+      "value": "70104",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-21",
+      "filing_time": "10:33",
+      "trade_date": "2026-10-20",
+      "ticker": "YORW",
+      "company": "York Water Co",
+      "insider_name": "Velazquez David M",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "31.07",
+      "qty": "1288",
+      "owned": "1288",
+      "delta_own": "New",
+      "value": "40000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-21",
+      "filing_time": "08:46",
+      "trade_date": "2026-10-19",
+      "ticker": "MHH",
+      "company": "Mastech Digital, Inc.",
+      "insider_name": "Shaw Steven A",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "6.39",
+      "qty": "4700",
+      "owned": "1369800",
+      "delta_own": "0%",
+      "value": "30026",
       "cluster_buy": false
     }
   ]
