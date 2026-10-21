@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-10-21",
-  "entry_count": 1391,
+  "entry_count": 1392,
   "entries": [
     {
       "id": "US|BBABA|2026-08-24|wu yongming|14.24",
@@ -54985,6 +54985,26 @@
       },
       "latest_price": 34.95,
       "return_pct": 0.69,
+      "last_snapshot": "2026-10-21"
+    },
+    {
+      "id": "US|OWLS|2026-10-19|wang chun kai|4.27",
+      "market": "US",
+      "ticker": "OWLS",
+      "yf_symbol": "OWLS",
+      "company": "Obook Holdings Inc.",
+      "insider_name": "Wang Chun Kai",
+      "title": "CEO",
+      "trade_date": "2026-10-19",
+      "trade_price": 4.27,
+      "value": 52037.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-10-21": 4.29
+      },
+      "latest_price": 4.29,
+      "return_pct": 0.47,
       "last_snapshot": "2026-10-21"
     }
   ]
