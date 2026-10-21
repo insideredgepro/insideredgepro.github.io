@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-21T17:48:53Z",
-  "trade_count": 11346,
+  "last_updated": "2026-10-21T21:04:08Z",
+  "trade_count": 11352,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -181456,7 +181456,7 @@
       "owned": "548203",
       "delta_own": "+2%",
       "value": "156560",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-10-20",
@@ -181537,6 +181537,102 @@
       "delta_own": "0%",
       "value": "30026",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-21",
+      "filing_time": "16:52",
+      "trade_date": "2026-10-19",
+      "ticker": "CRBG",
+      "company": "Corebridge Financial, Inc.",
+      "insider_name": "Nippon Life Insurance Co",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "34.51",
+      "qty": "162024",
+      "owned": "130010127",
+      "delta_own": "0%",
+      "value": "5591238",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-21",
+      "filing_time": "16:49",
+      "trade_date": "2026-10-19",
+      "ticker": "TENX",
+      "company": "Tenax Therapeutics, Inc.",
+      "insider_name": "Adar1 Capital Management, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "1.59",
+      "qty": "922849",
+      "owned": "7447000",
+      "delta_own": "+14%",
+      "value": "1463426",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-21",
+      "filing_time": "16:23",
+      "trade_date": "2026-10-13",
+      "ticker": "PETV",
+      "company": "Petvivo Holdings, Inc.",
+      "insider_name": "A.L. Sarroff Fund, LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "0.71",
+      "qty": "78855",
+      "owned": "21125803",
+      "delta_own": "0%",
+      "value": "56127",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-21",
+      "filing_time": "16:12",
+      "trade_date": "2026-10-20",
+      "ticker": "NBIS",
+      "company": "Nebius Group N.V.",
+      "insider_name": "Grimme Arne",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "166.26",
+      "qty": "299",
+      "owned": "6628",
+      "delta_own": "+5%",
+      "value": "49713",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-21",
+      "filing_time": "16:10",
+      "trade_date": "2026-10-20",
+      "ticker": "VRXA",
+      "company": "Veraxa Biotech AG - Post De-Spac",
+      "insider_name": "Ziegler Christoph Samuel",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.09",
+      "qty": "30000",
+      "owned": "37932",
+      "delta_own": "+378%",
+      "value": "32700",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-21",
+      "filing_time": "16:07",
+      "trade_date": "2026-10-20",
+      "ticker": "DX",
+      "company": "Dynex Capital Inc",
+      "insider_name": "Boston Byron L",
+      "title": "Co-CEO, COB",
+      "trade_type": "P - Purchase",
+      "price": "10.89",
+      "qty": "9180",
+      "owned": "898842",
+      "delta_own": "+1%",
+      "value": "99970",
+      "cluster_buy": true
     }
   ]
 }
