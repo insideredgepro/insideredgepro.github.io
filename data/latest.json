@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T10:53:42Z",
-  "trade_count": 11354,
+  "last_updated": "2026-10-22T15:45:45Z",
+  "trade_count": 11355,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -181664,6 +181664,22 @@
       "owned": "15500",
       "delta_own": "+55%",
       "value": "143550",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-22",
+      "filing_time": "08:14",
+      "trade_date": "2026-10-21",
+      "ticker": "AGMB",
+      "company": "Agomab Therapeutics Nv",
+      "insider_name": "Epstein David R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "8.88",
+      "qty": "10000",
+      "owned": "25000",
+      "delta_own": "+67%",
+      "value": "88800",
       "cluster_buy": false
     }
   ]
