@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T15:45:45Z",
-  "trade_count": 11355,
+  "last_updated": "2026-10-22T19:39:57Z",
+  "trade_count": 11356,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -181680,6 +181680,22 @@
       "owned": "25000",
       "delta_own": "+67%",
       "value": "88800",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-22",
+      "filing_time": "14:50",
+      "trade_date": "2026-10-22",
+      "ticker": "LOAN",
+      "company": "Manhattan Bridge Capital, Inc",
+      "insider_name": "Ran Assaf",
+      "title": "Pres, CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "3.47",
+      "qty": "10000",
+      "owned": "2628000",
+      "delta_own": "0%",
+      "value": "34693",
       "cluster_buy": false
     }
   ]
