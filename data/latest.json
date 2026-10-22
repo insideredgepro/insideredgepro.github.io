@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-21T21:04:08Z",
-  "trade_count": 11352,
+  "last_updated": "2026-10-22T00:21:16Z",
+  "trade_count": 11354,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -181633,6 +181633,38 @@
       "delta_own": "+1%",
       "value": "99970",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-21",
+      "filing_time": "19:24",
+      "trade_date": "2026-10-20",
+      "ticker": "FBK",
+      "company": "Fb Financial Corp",
+      "insider_name": "Ingram Orrin H II",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "52.88",
+      "qty": "29081",
+      "owned": "124391",
+      "delta_own": "+31%",
+      "value": "1537788",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-21",
+      "filing_time": "17:46",
+      "trade_date": "2026-10-21",
+      "ticker": "RAPP",
+      "company": "Rapport Therapeutics, Inc.",
+      "insider_name": "Ignelzi Troy A.",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "26.10",
+      "qty": "5500",
+      "owned": "15500",
+      "delta_own": "+55%",
+      "value": "143550",
+      "cluster_buy": false
     }
   ]
 }
