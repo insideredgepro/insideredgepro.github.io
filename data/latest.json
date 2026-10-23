@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T22:53:24Z",
-  "trade_count": 11364,
+  "last_updated": "2026-10-23T01:07:56Z",
+  "trade_count": 11366,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -181824,6 +181824,38 @@
       "owned": "9411",
       "delta_own": "New",
       "value": "248891",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-22",
+      "filing_time": "20:56",
+      "trade_date": "2026-10-19",
+      "ticker": "API",
+      "company": "Agora, Inc.",
+      "insider_name": "Zhao Bin",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "4.40",
+      "qty": "38267",
+      "owned": "85651702",
+      "delta_own": "0%",
+      "value": "168305",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-22",
+      "filing_time": "19:37",
+      "trade_date": "2026-06-05",
+      "ticker": "LIQT",
+      "company": "Liqtech International Inc",
+      "insider_name": "Boswell Peyton",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.00",
+      "qty": "50000",
+      "owned": "171305",
+      "delta_own": "+41%",
+      "value": "50000",
       "cluster_buy": true
     }
   ]
