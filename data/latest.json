@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T12:18:38Z",
-  "trade_count": 11367,
+  "last_updated": "2026-10-23T17:37:47Z",
+  "trade_count": 11368,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -181872,6 +181872,22 @@
       "owned": "1695772",
       "delta_own": "+1%",
       "value": "39900",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-23",
+      "filing_time": "09:29",
+      "trade_date": "2026-10-22",
+      "ticker": "CLF",
+      "company": "Cleveland-Cliffs Inc.",
+      "insider_name": "Camara Edilson",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "13.49",
+      "qty": "7400",
+      "owned": "64717",
+      "delta_own": "+13%",
+      "value": "99826",
       "cluster_buy": false
     }
   ]
