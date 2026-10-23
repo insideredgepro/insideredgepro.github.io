@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-10-23",
-  "entry_count": 1421,
+  "entry_count": 1423,
   "entries": [
     {
       "id": "US|BBABA|2026-08-24|wu yongming|14.24",
@@ -47962,8 +47962,8 @@
         "2026-10-22": 0.0463,
         "2026-10-23": 0.0465
       },
-      "latest_price": 0.042,
-      "return_pct": -91.6,
+      "latest_price": 0.0461,
+      "return_pct": -90.78,
       "last_snapshot": "2026-10-23"
     },
     {
@@ -57315,6 +57315,46 @@
       },
       "latest_price": 25.93,
       "return_pct": -5.19,
+      "last_snapshot": "2026-10-23"
+    },
+    {
+      "id": "US|PNI|2026-10-21|bank of america corp /de/|6.33",
+      "market": "US",
+      "ticker": "PNI",
+      "yf_symbol": "PNI",
+      "company": "Pimco New York Municipal Income Fund II",
+      "insider_name": "Bank of America Corp /de/",
+      "title": "10%",
+      "trade_date": "2026-10-21",
+      "trade_price": 6.33,
+      "value": 77085.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-10-23": 6.33
+      },
+      "latest_price": 6.33,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-10-23"
+    },
+    {
+      "id": "US|SAMG|2026-10-15|equinox partners investment management llc|10.33",
+      "market": "US",
+      "ticker": "SAMG",
+      "yf_symbol": "SAMG",
+      "company": "Silvercrest Asset Management Group Inc.",
+      "insider_name": "Equinox Partners Investment Management LLC",
+      "title": "10%",
+      "trade_date": "2026-10-15",
+      "trade_price": 10.33,
+      "value": 352684.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-10-23": 10.12
+      },
+      "latest_price": 10.12,
+      "return_pct": -2.03,
       "last_snapshot": "2026-10-23"
     }
   ]

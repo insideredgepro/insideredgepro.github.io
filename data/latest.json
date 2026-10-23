@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T20:49:54Z",
-  "trade_count": 11374,
+  "last_updated": "2026-10-23T23:42:10Z",
+  "trade_count": 11376,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -181985,6 +181985,38 @@
       "delta_own": "New",
       "value": "98478",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-23",
+      "filing_time": "18:11",
+      "trade_date": "2026-10-21",
+      "ticker": "PNI",
+      "company": "Pimco New York Municipal Income Fund II",
+      "insider_name": "Bank of America Corp /de/",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "6.33",
+      "qty": "12170",
+      "owned": "7324",
+      "delta_own": "-251%",
+      "value": "77085",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-23",
+      "filing_time": "17:25",
+      "trade_date": "2026-10-15",
+      "ticker": "SAMG",
+      "company": "Silvercrest Asset Management Group Inc.",
+      "insider_name": "Equinox Partners Investment Management LLC",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "10.33",
+      "qty": "34126",
+      "owned": "833799",
+      "delta_own": "+4%",
+      "value": "352684",
+      "cluster_buy": false
     }
   ]
 }
