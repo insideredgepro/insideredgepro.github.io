@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T15:40:03Z",
-  "trade_count": 11376,
+  "last_updated": "2026-10-26T20:50:40Z",
+  "trade_count": 11380,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -182016,6 +182016,70 @@
       "owned": "833799",
       "delta_own": "+4%",
       "value": "352684",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-26",
+      "filing_time": "16:30",
+      "trade_date": "2026-10-22",
+      "ticker": "CITR",
+      "company": "Citrotech Inc.",
+      "insider_name": "Huff Craig A",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "2.50",
+      "qty": "200000",
+      "owned": "3599134",
+      "delta_own": "+6%",
+      "value": "500000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-26",
+      "filing_time": "16:30",
+      "trade_date": "2026-10-26",
+      "ticker": "TCBX",
+      "company": "Third Coast Bancshares, Inc.",
+      "insider_name": "Bobbora William",
+      "title": "See Remarks",
+      "trade_type": "P - Purchase",
+      "price": "40.34",
+      "qty": "1000",
+      "owned": "66915",
+      "delta_own": "+2%",
+      "value": "40340",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-26",
+      "filing_time": "16:20",
+      "trade_date": "2026-10-22",
+      "ticker": "PRTA",
+      "company": "Prothena Corp Public Ltd Co",
+      "insider_name": "Scully William P",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "8.15",
+      "qty": "150000",
+      "owned": "1903000",
+      "delta_own": "+9%",
+      "value": "1222045",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-26",
+      "filing_time": "15:30",
+      "trade_date": "2026-10-26",
+      "ticker": "BBT",
+      "company": "Beacon Financial Corp",
+      "insider_name": "Hollister Thomas J",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "30.43",
+      "qty": "3450",
+      "owned": "36352",
+      "delta_own": "+10%",
+      "value": "104984",
       "cluster_buy": false
     }
   ]
