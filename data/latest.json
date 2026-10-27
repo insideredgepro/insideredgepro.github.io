@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-27T00:09:20Z",
-  "trade_count": 11394,
+  "last_updated": "2026-10-27T05:49:39Z",
+  "trade_count": 11395,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -182304,6 +182304,22 @@
       "owned": "3011749",
       "delta_own": "+1%",
       "value": "51619",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-26",
+      "filing_time": "21:00",
+      "trade_date": "2026-10-22",
+      "ticker": "GPI",
+      "company": "Group 1 Automotive Inc",
+      "insider_name": "Conifer Management, L.L.C.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "242.32",
+      "qty": "100000",
+      "owned": "2012290",
+      "delta_own": "+5%",
+      "value": "24232209",
       "cluster_buy": false
     }
   ]
