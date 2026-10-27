@@ -11376,7 +11376,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-23,06:35,2026-10-21,BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,3.50,11400,1695772,+1%,39900,False
 2026-10-23,09:29,2026-10-22,CLF,Cleveland-Cliffs Inc.,Camara Edilson,Dir,P - Purchase,13.49,7400,64717,+13%,99826,False
 2026-10-23,16:30,2026-10-21,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,35.38,217182,130420666,0%,7684334,False
-2026-10-23,16:17,2026-10-23,MSM,Msc Industrial Direct Co Inc,Slone Reuben E,Dir,P - Purchase,115.77,433,433,New,50129,False
+2026-10-23,16:17,2026-10-23,MSM,Msc Industrial Direct Co Inc,Slone Reuben E,Dir,P - Purchase,115.77,433,433,New,50129,True
 2026-10-23,16:11,2026-10-21,RENT,"Rent the Runway, Inc.","Story3 Capital Partners, LLC","Dir, 10%",P - Purchase,3.55,632922,4907316,+15%,2246873,True
 2026-10-23,16:08,2026-10-21,RENT,"Rent the Runway, Inc.",Nexus Capital Management LP,"Dir, 10%",P - Purchase,3.55,632922,4907316,+15%,2246873,True
 2026-10-23,16:07,2026-10-21,RENT,"Rent the Runway, Inc.",Chs Us Investments LLC,10%,P - Purchase,3.55,458245,22937292,+2%,1626770,True
@@ -11404,3 +11404,13 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-26,21:00,2026-10-22,GPI,Group 1 Automotive Inc,"Conifer Management, L.L.C.",10%,P - Purchase,242.32,100000,2012290,+5%,24232209,False
 2026-10-27,06:06,2026-10-23,PLUR,Pluri Inc.,Manieu Alexandre Weinstein,"Dir, 10%",P - Purchase,1.50,833334,2090900,+66%,1250001,False
 2026-10-27,07:32,2026-10-23,API,"Agora, Inc.",Zhao Bin,CEO,P - Purchase,4.44,17598,85669300,0%,78084,False
+2026-10-27,17:32,2026-10-20,DAIO,Data I/O Corp,"Red Oak Partners, LLC",10%,P - Purchase,2.68,373133,373133,New,999996,False
+2026-10-27,17:21,2026-10-23,MSM,Msc Industrial Direct Co Inc,Jacobson Mitchell,"Dir, 10%",P - Purchase,115.94,250000,8331520,+3%,28984170,True
+2026-10-27,16:35,2026-10-23,STC,Stewart Information Services Corp,Matz Deborah Jane,Dir,P - Purchase,43.91,1000,12569,+9%,43910,True
+2026-10-27,16:33,2026-10-26,STC,Stewart Information Services Corp,Eppinger Frederick H,CEO,P - Purchase,44.45,3000,173675,+2%,133350,True
+2026-10-27,16:31,2026-10-23,CTEV,Claritev Corp,Ares Management LLC,10%,P - Purchase,23.69,70834,1933939,+4%,1678106,False
+2026-10-27,16:30,2026-10-23,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,33.97,595609,131262715,0%,20230673,False
+2026-10-27,16:11,2026-10-23,NPB,Northpointe Bancshares Inc,Long Joseph B,COO,P - Purchase,15.37,3240,3240,New,49800,True
+2026-10-27,16:10,2026-10-23,NPB,Northpointe Bancshares Inc,Boer Carrie L,Dir,P - Purchase,15.40,12000,12000,New,184762,True
+2026-10-27,16:09,2026-10-23,NPB,Northpointe Bancshares Inc,Williams Charles Alan,"COB, CEO",P - Purchase,15.37,100000,3410180,+3%,1537390,True
+2026-10-27,16:05,2026-10-23,TIPT,Tiptree Inc.,Barnes Michael Gene,"COB, CEO, 10%",P - Purchase,16.24,30930,10116358,0%,502303,False
