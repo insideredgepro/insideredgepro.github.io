@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T13:41:32Z",
-  "trade_count": 11414,
+  "last_updated": "2026-10-28T19:13:03Z",
+  "trade_count": 11416,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -182625,6 +182625,38 @@
       "delta_own": "+9%",
       "value": "199848",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-28",
+      "filing_time": "14:37",
+      "trade_date": "2026-10-26",
+      "ticker": "XBIT",
+      "company": "Xbiotech Inc.",
+      "insider_name": "Simard John",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1.93",
+      "qty": "368524",
+      "owned": "4191690",
+      "delta_own": "+10%",
+      "value": "711251",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-28",
+      "filing_time": "14:00",
+      "trade_date": "2026-10-27",
+      "ticker": "FLG",
+      "company": "Flagstar Bank, National Association",
+      "insider_name": "Frank Alan L",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "10.14",
+      "qty": "10000",
+      "owned": "76463",
+      "delta_own": "+15%",
+      "value": "101400",
+      "cluster_buy": false
     }
   ]
 }
