@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T06:28:25Z",
-  "trade_count": 11412,
+  "last_updated": "2026-10-28T13:41:32Z",
+  "trade_count": 11414,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -182593,6 +182593,38 @@
       "delta_own": "+4%",
       "value": "1059604",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-28",
+      "filing_time": "06:45",
+      "trade_date": "2026-10-26",
+      "ticker": "ACN",
+      "company": "Accenture Plc",
+      "insider_name": "Sweet Julie Spellman",
+      "title": "Chair, CEO",
+      "trade_type": "P - Purchase",
+      "price": "245.99",
+      "qty": "12200",
+      "owned": "48910",
+      "delta_own": "+33%",
+      "value": "3001041",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-28",
+      "filing_time": "06:45",
+      "trade_date": "2026-10-26",
+      "ticker": "ACN",
+      "company": "Accenture Plc",
+      "insider_name": "Price Paula A",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "249.81",
+      "qty": "800",
+      "owned": "9361",
+      "delta_own": "+9%",
+      "value": "199848",
+      "cluster_buy": true
     }
   ]
 }
