@@ -11386,7 +11386,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-26,16:30,2026-10-22,CITR,Citrotech Inc.,Huff Craig A,"Dir, 10%",P - Purchase,2.50,200000,3599134,+6%,500000,False
 2026-10-26,16:30,2026-10-26,TCBX,"Third Coast Bancshares, Inc.",Bobbora William,See Remarks,P - Purchase,40.34,1000,66915,+2%,40340,False
 2026-10-26,16:20,2026-10-22,PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,8.15,150000,1903000,+9%,1222045,False
-2026-10-26,15:30,2026-10-26,BBT,Beacon Financial Corp,Hollister Thomas J,Dir,P - Purchase,30.43,3450,36352,+10%,104984,False
+2026-10-26,15:30,2026-10-26,BBT,Beacon Financial Corp,Hollister Thomas J,Dir,P - Purchase,30.43,3450,36352,+10%,104984,True
 2026-10-26,19:42,2026-10-22,OPTU,"Optimum Communications, Inc.",Subin Neil S,10%,P - Purchase,0.52,2228007,21777316,+11%,1163551,False
 2026-10-26,18:51,2026-10-22,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,35.15,246440,130667106,0%,8662933,False
 2026-10-26,18:51,2026-10-23,STC,Stewart Information Services Corp,Apel Thomas G,Dir,P - Purchase,47.74,2000,46182,+5%,95470,True
@@ -11423,3 +11423,12 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-28,06:45,2026-10-26,ACN,Accenture Plc,Price Paula A,Dir,P - Purchase,249.81,800,9361,+9%,199848,True
 2026-10-28,14:37,2026-10-26,XBIT,Xbiotech Inc.,Simard John,"Dir, 10%",P - Purchase,1.93,368524,4191690,+10%,711251,False
 2026-10-28,14:00,2026-10-27,FLG,"Flagstar Bank, National Association",Frank Alan L,Dir,P - Purchase,10.14,10000,76463,+15%,101400,False
+2026-10-28,17:39,2026-10-26,GOLD,"Gold.Com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A.",10%,P - Purchase,39.27,100000,3870787,+3%,3927258,False
+2026-10-28,17:30,2026-10-26,HXL,Hexcel Corp /De/,Keating Neal J.,Dir,P - Purchase,80.67,3000,3254,>999%,242010,False
+2026-10-28,17:11,2026-10-26,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,34.95,182826,131445541,0%,6390299,False
+2026-10-28,16:44,2026-10-26,BBT,Beacon Financial Corp,Polito Karyn,Dir,P - Purchase,30.68,1000,8958,+13%,30680,True
+2026-10-28,16:40,2026-10-15,WS,"Worthington Steel, Inc.",Ganem George John III,CEO Americas Kloeckner Metals,P - Purchase,39.37,800,800,New,31492,False
+2026-10-28,16:24,2026-10-26,LBRT,Liberty Energy Inc.,Babcock Ken,Dir,P - Purchase,15.40,14500,92824,+19%,223300,False
+2026-10-28,16:02,2026-10-26,HBAN,Huntington Bancshares Inc /Md/,Rollins James D III,Dir,P - Purchase,18.12,14000,37500,+60%,253720,False
+2026-10-28,15:56,2026-10-28,HYMC,Hycroft Mining Holding Corp,Rhodes Blake,Dir,P - Purchase,16.69,3000,7068,+74%,50075,False
+2026-10-28,15:52,2026-10-28,RCT,Redcloud Holdings Plc,Senn Nikolaus Beat,"Dir, 10%",P - Purchase,0.25,1700000,11986524,+17%,425000,False
