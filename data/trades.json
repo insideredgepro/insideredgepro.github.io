@@ -1728,6 +1728,174 @@
     "scraped_at": "2026-03-03T06:07:47.231168"
   },
   {
+    "id": "20003803756",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "The Walt Disney Co",
+    "ticker": "DIS:US",
+    "sector": "communication-services",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-28",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: ET IRA",
+    "scraped_at": "2026-10-28T16:10:03.729403+00:00"
+  },
+  {
+    "id": "20003803728",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Amazon.com Inc",
+    "ticker": "AMZN:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-27",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "",
+    "price": "$253.10",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-28T16:10:03.729262+00:00"
+  },
+  {
+    "id": "20003803742",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "McDonald's Corp",
+    "ticker": "MCD:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-27",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "",
+    "price": "$249.47",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: IRA Two",
+    "scraped_at": "2026-10-28T16:10:03.729337+00:00"
+  },
+  {
+    "id": "20003803736",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "The Home Depot Inc",
+    "ticker": "HD:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-22",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "5",
+    "price": "$327.73",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: ET IRA",
+    "scraped_at": "2026-10-28T16:10:03.729306+00:00"
+  },
+  {
+    "id": "20003803739",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Lowe's Cos Inc",
+    "ticker": "LOW:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-22",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "5",
+    "price": "$204.37",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-28T16:10:03.729321+00:00"
+  },
+  {
+    "id": "20003803745",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "PepsiCo Inc",
+    "ticker": "PEP:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-21",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "6",
+    "price": "$134.70",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: ET IRA",
+    "scraped_at": "2026-10-28T16:10:03.729352+00:00"
+  },
+  {
+    "id": "20003803748",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "SOLSTICE ADVANCED MTRILS INC",
+    "ticker": "SOLS:US",
+    "sector": "materials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-21",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "6",
+    "price": "$64.99",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: ET IRA",
+    "scraped_at": "2026-10-28T16:10:03.729362+00:00"
+  },
+  {
+    "id": "20003803738",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "International Business Machines Corp",
+    "ticker": "IBM:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-20",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "7",
+    "price": "$241.92",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: ET IRA",
+    "scraped_at": "2026-10-28T16:10:03.729317+00:00"
+  },
+  {
     "id": "20003803712",
     "politician_name": "Rudolph Yakym",
     "party": "Republican",
@@ -1746,7 +1914,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "6-Week, Matures 12/3/2026 Subholding Of: Schwab (formerly TD Ameritrade)",
-    "scraped_at": "2026-10-28T03:55:03.897050+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729709+00:00"
   },
   {
     "id": "20003803709",
@@ -1767,7 +1935,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Merrill Lynch Roth IRA",
-    "scraped_at": "2026-10-28T03:55:03.897062+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729718+00:00"
   },
   {
     "id": "20003803710",
@@ -1791,6 +1959,111 @@
     "scraped_at": "2026-10-28T03:55:03.897068+00:00"
   },
   {
+    "id": "20003803730",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Berkshire Hathaway Inc",
+    "ticker": "BRK/B:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-15",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "12",
+    "price": "$525.68",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: ET Invest",
+    "scraped_at": "2026-10-28T16:10:03.729273+00:00"
+  },
+  {
+    "id": "20003803731",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Chevron Corp",
+    "ticker": "CVX:US",
+    "sector": "energy",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-14",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "13",
+    "price": "$222.04",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: ET IRA",
+    "scraped_at": "2026-10-28T16:10:03.729279+00:00"
+  },
+  {
+    "id": "20003803735",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Exxon Mobil Corp",
+    "ticker": "XOM:US",
+    "sector": "energy",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-14",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "13",
+    "price": "$177.01",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-28T16:10:03.729301+00:00"
+  },
+  {
+    "id": "20003803721",
+    "politician_name": "Suzan DelBene",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "BLACK BELT ENERGY GAS DISTRICT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-14",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "14",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Joint",
+    "comment": "Black Belt Energy Gas Dist Ala Gas 05.00% 12/01/2035 Proj Rev BDS Ser. 2025 F [GS]",
+    "scraped_at": "2026-10-28T16:10:03.729423+00:00"
+  },
+  {
+    "id": "20003803722",
+    "politician_name": "Suzan DelBene",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "WA",
+    "company": "TENNESSEE ENERGY ACQUISITION CORPORATION",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-14",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "14",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Joint",
+    "comment": "Tennessee Energy Ac 5% Edr Idr Due 12/01/35 [GS]",
+    "scraped_at": "2026-10-28T16:10:03.729427+00:00"
+  },
+  {
     "id": "20003803718",
     "politician_name": "Darrell Issa",
     "party": "Republican",
@@ -1809,7 +2082,28 @@
     "amount": "$5M\u2013$25M",
     "owner": "Not Disclosed",
     "comment": "US Treasury Note 3.375% due 09/15/28 CUSIP 91282CNY3 [GS] Subholding Of: Account 1-Investment account-496 Description: Sale of US Treasury Note before Maturity. Face Value $10 million",
-    "scraped_at": "2026-10-28T03:55:03.896872+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729591+00:00"
+  },
+  {
+    "id": "20003803734",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Costco Wholesale Corp",
+    "ticker": "COST:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-13",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "14",
+    "price": "$954.63",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: ET Invest",
+    "scraped_at": "2026-10-28T16:10:03.729295+00:00"
   },
   {
     "id": "20003803608",
@@ -1851,7 +2145,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
-    "scraped_at": "2026-10-28T03:55:03.896917+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729611+00:00"
   },
   {
     "id": "20003803606",
@@ -1917,6 +2211,27 @@
     "scraped_at": "2026-10-28T03:55:03.897150+00:00"
   },
   {
+    "id": "20003803746",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "The Procter & Gamble Co",
+    "ticker": "PG:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-08",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "19",
+    "price": "$150.59",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: ET IRA",
+    "scraped_at": "2026-10-28T16:10:03.729356+00:00"
+  },
+  {
     "id": "20003803717",
     "politician_name": "Darrell Issa",
     "party": "Republican",
@@ -1935,7 +2250,7 @@
     "amount": "$5M\u2013$25M",
     "owner": "Not Disclosed",
     "comment": "US Treasury Note 3.375% due 09/15/28 CUSIP 91282CNY3 [GS] Subholding Of: Account 1-Investment account-496 Description: Purchase of US Treasury Bond with $10 million face value",
-    "scraped_at": "2026-10-28T03:55:03.896866+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729586+00:00"
   },
   {
     "id": "20003803555",
@@ -2040,7 +2355,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of 3M\u2019s Partners LLC",
-    "scraped_at": "2026-10-28T03:55:03.896627+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729442+00:00"
   },
   {
     "id": "10000066939",
@@ -2061,7 +2376,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying asset of 3M\u2019s Partners LLC, owned through Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-28T03:55:03.896653+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729451+00:00"
   },
   {
     "id": "10000066948",
@@ -2082,7 +2397,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-28T03:55:03.896747+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729492+00:00"
   },
   {
     "id": "10000066952",
@@ -2103,7 +2418,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-28T03:55:03.896768+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729513+00:00"
   },
   {
     "id": "10000066957",
@@ -2124,7 +2439,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Hedge Holdings LLC",
-    "scraped_at": "2026-10-28T03:55:03.896799+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729536+00:00"
   },
   {
     "id": "10000066961",
@@ -2145,7 +2460,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of LarryMae Partners LLC",
-    "scraped_at": "2026-10-28T03:55:03.896822+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729555+00:00"
   },
   {
     "id": "10000066964",
@@ -2166,7 +2481,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of New Things Partners LLC",
-    "scraped_at": "2026-10-28T03:55:03.896839+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729568+00:00"
   },
   {
     "id": "10000066965",
@@ -2187,7 +2502,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Other One LLC",
-    "scraped_at": "2026-10-28T03:55:03.896844+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729572+00:00"
   },
   {
     "id": "10000066967",
@@ -2208,7 +2523,364 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Summa I LLC",
-    "scraped_at": "2026-10-28T03:55:03.896857+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729581+00:00"
+  },
+  {
+    "id": "20003803725",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Abbott Laboratories",
+    "ticker": "ABT:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "25",
+    "price": "$97.50",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust One",
+    "scraped_at": "2026-10-28T16:10:03.729219+00:00"
+  },
+  {
+    "id": "20003803726",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Alphabet Inc",
+    "ticker": "GOOGL:US",
+    "sector": "communication-services",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "25",
+    "price": "$340.35",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust One",
+    "scraped_at": "2026-10-28T16:10:03.729244+00:00"
+  },
+  {
+    "id": "20003803727",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Amazon.com Inc",
+    "ticker": "AMZN:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "25",
+    "price": "$251.52",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust One",
+    "scraped_at": "2026-10-28T16:10:03.729256+00:00"
+  },
+  {
+    "id": "20003803729",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Apple Inc",
+    "ticker": "AAPL:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "25",
+    "price": "$333.69",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust One",
+    "scraped_at": "2026-10-28T16:10:03.729268+00:00"
+  },
+  {
+    "id": "20003803732",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Chipotle Mexican Grill Inc",
+    "ticker": "CMG:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "25",
+    "price": "$32.36",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust One",
+    "scraped_at": "2026-10-28T16:10:03.729284+00:00"
+  },
+  {
+    "id": "20003803733",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Costco Wholesale Corp",
+    "ticker": "COST:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "25",
+    "price": "$920.65",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust One",
+    "scraped_at": "2026-10-28T16:10:03.729290+00:00"
+  },
+  {
+    "id": "20003803740",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Mastercard Inc",
+    "ticker": "MA:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "25",
+    "price": "$552.26",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust One",
+    "scraped_at": "2026-10-28T16:10:03.729326+00:00"
+  },
+  {
+    "id": "20003803741",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "McDonald's Corp",
+    "ticker": "MCD:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "25",
+    "price": "$231.89",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust One",
+    "scraped_at": "2026-10-28T16:10:03.729332+00:00"
+  },
+  {
+    "id": "20003803743",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Microsoft Corp",
+    "ticker": "MSFT:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "25",
+    "price": "$517.53",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust One",
+    "scraped_at": "2026-10-28T16:10:03.729342+00:00"
+  },
+  {
+    "id": "20003803744",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "NVIDIA Corporation",
+    "ticker": "NVDA:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "25",
+    "price": "$233.95",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: IRA One",
+    "scraped_at": "2026-10-28T16:10:03.729347+00:00"
+  },
+  {
+    "id": "20003803749",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Starbucks Corp",
+    "ticker": "SBUX:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "25",
+    "price": "$94.71",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust One",
+    "scraped_at": "2026-10-28T16:10:03.729367+00:00"
+  },
+  {
+    "id": "20003803750",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Tesla Inc",
+    "ticker": "TSLA:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "25",
+    "price": "$370.59",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust One",
+    "scraped_at": "2026-10-28T16:10:03.729372+00:00"
+  },
+  {
+    "id": "20003803751",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "The TJX Companies Inc",
+    "ticker": "TJX:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "25",
+    "price": "$132.68",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust One",
+    "scraped_at": "2026-10-28T16:10:03.729377+00:00"
+  },
+  {
+    "id": "20003803752",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "The TJX Companies Inc",
+    "ticker": "TJX:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "25",
+    "price": "$132.68",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust One",
+    "scraped_at": "2026-10-28T16:10:03.729384+00:00"
+  },
+  {
+    "id": "20003803753",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Verizon Communications Inc",
+    "ticker": "VZ:US",
+    "sector": "communication-services",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "25",
+    "price": "$45.92",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust One",
+    "scraped_at": "2026-10-28T16:10:03.729389+00:00"
+  },
+  {
+    "id": "20003803754",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Visa Inc",
+    "ticker": "V:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "25",
+    "price": "$360.66",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust One",
+    "scraped_at": "2026-10-28T16:10:03.729394+00:00"
+  },
+  {
+    "id": "20003803755",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Walmart Inc",
+    "ticker": "WMT:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "25",
+    "price": "$104.26",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Trust One",
+    "scraped_at": "2026-10-28T16:10:03.729399+00:00"
   },
   {
     "id": "20003803584",
@@ -2232,6 +2904,48 @@
     "scraped_at": "2026-10-16T03:55:03.772604+00:00"
   },
   {
+    "id": "20003803737",
+    "politician_name": "Peter Sessions",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Honeywell International Inc",
+    "ticker": "HON:US",
+    "sector": "industrials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-01",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "26",
+    "price": "$213.80",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: ET IRA",
+    "scraped_at": "2026-10-28T16:10:03.729312+00:00"
+  },
+  {
+    "id": "20003803723",
+    "politician_name": "Max Miller",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "AIX VENTURES FUND II LP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-01",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "26",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: 2012 Trust Description: Distribution of $6,923.58",
+    "scraped_at": "2026-10-28T16:10:03.729408+00:00"
+  },
+  {
     "id": "20003803713",
     "politician_name": "Cleo Fields",
     "party": "Democrat",
@@ -2250,7 +2964,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE #2",
-    "scraped_at": "2026-10-28T03:55:03.896895+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729596+00:00"
   },
   {
     "id": "20003803714",
@@ -2271,7 +2985,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
-    "scraped_at": "2026-10-28T03:55:03.896904+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729601+00:00"
   },
   {
     "id": "20003803715",
@@ -2292,7 +3006,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Morgan Stanley - E*TRADE IRA",
-    "scraped_at": "2026-10-28T03:55:03.896911+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729606+00:00"
   },
   {
     "id": "20003803505",
@@ -2335,6 +3049,48 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America Description: Exchange of Thermon Group Holdings, Inc. (THR) for Ceco Environmental Corp (CECO) following merger.",
     "scraped_at": "2026-10-14T22:10:04.087256+00:00"
+  },
+  {
+    "id": "20003803724",
+    "politician_name": "Max Miller",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "MERCATO PARTNERS TRAVERSE IV QP LP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-30",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "27",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: 2012 Trust Description: Distribution of $2,375.01",
+    "scraped_at": "2026-10-28T16:10:03.729414+00:00"
+  },
+  {
+    "id": "20003803720",
+    "politician_name": "Sheri Biggs",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "SC",
+    "company": "OAKTREE STRATEGIC CREDIT FUND A (CAYMAN) LP",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-30",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "27",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: W.S.B Trust > Rockefeller Cap. Mgmt 3 Description: Dividend reinvestment within a professionally managed account - Business Development Company.",
+    "scraped_at": "2026-10-28T16:10:03.729418+00:00"
   },
   {
     "id": "20003803561",
@@ -2418,7 +3174,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Joint",
     "comment": "Description: Mandatorily convertible SAFE (Simple Agreement for Future Equity)",
-    "scraped_at": "2026-10-28T03:55:03.897056+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729713+00:00"
   },
   {
     "id": "20003803499",
@@ -3006,7 +3762,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.896994+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729673+00:00"
   },
   {
     "id": "20003803604",
@@ -3069,7 +3825,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-28T03:55:03.896739+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729488+00:00"
   },
   {
     "id": "10000066915",
@@ -3090,7 +3846,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.896932+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729621+00:00"
   },
   {
     "id": "10000066916",
@@ -3111,7 +3867,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.896937+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729627+00:00"
   },
   {
     "id": "10000066909",
@@ -3132,7 +3888,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.897005+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729678+00:00"
   },
   {
     "id": "20003803605",
@@ -3804,7 +4560,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of 3M\u2019s Partners LLC",
-    "scraped_at": "2026-10-28T03:55:03.896578+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729437+00:00"
   },
   {
     "id": "10000066938",
@@ -3825,7 +4581,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying asset of 3M\u2019s Partners LLC, owned through Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-28T03:55:03.896643+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729446+00:00"
   },
   {
     "id": "10000066946",
@@ -3846,7 +4602,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-28T03:55:03.896699+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729484+00:00"
   },
   {
     "id": "10000066956",
@@ -3867,7 +4623,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Hedge Holdings LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-28T03:55:03.896794+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729530+00:00"
   },
   {
     "id": "20003803568",
@@ -4203,7 +4959,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-28T03:55:03.896694+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729478+00:00"
   },
   {
     "id": "10000066951",
@@ -4224,7 +4980,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-28T03:55:03.896763+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729509+00:00"
   },
   {
     "id": "10000066955",
@@ -4245,7 +5001,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Hedge Holdings LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-28T03:55:03.896788+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729526+00:00"
   },
   {
     "id": "10000066960",
@@ -4266,7 +5022,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of LarryMae Partners LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-28T03:55:03.896816+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729550+00:00"
   },
   {
     "id": "10000066963",
@@ -4287,7 +5043,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Magnifique LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-28T03:55:03.896833+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729563+00:00"
   },
   {
     "id": "20003803593",
@@ -4560,7 +5316,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying asset of 3M\u2019s Partners LLC, owned through Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-28T03:55:03.896659+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729455+00:00"
   },
   {
     "id": "10000066943",
@@ -4581,7 +5337,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-28T03:55:03.896680+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729470+00:00"
   },
   {
     "id": "10000066944",
@@ -4602,7 +5358,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-28T03:55:03.896688+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729474+00:00"
   },
   {
     "id": "10000066950",
@@ -4623,7 +5379,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-28T03:55:03.896757+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729503+00:00"
   },
   {
     "id": "10000066954",
@@ -4644,7 +5400,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Hedge Holdings LLC",
-    "scraped_at": "2026-10-28T03:55:03.896781+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729522+00:00"
   },
   {
     "id": "10000066959",
@@ -4665,7 +5421,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of LarryMae Partners LLC",
-    "scraped_at": "2026-10-28T03:55:03.896811+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729544+00:00"
   },
   {
     "id": "10000066966",
@@ -4686,7 +5442,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Summa I LLC",
-    "scraped_at": "2026-10-28T03:55:03.896851+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729576+00:00"
   },
   {
     "id": "10000066917",
@@ -4707,7 +5463,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.896945+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729634+00:00"
   },
   {
     "id": "10000066910",
@@ -4728,7 +5484,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.897010+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729683+00:00"
   },
   {
     "id": "20003803585",
@@ -4917,7 +5673,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-28T03:55:03.896673+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729466+00:00"
   },
   {
     "id": "10000066949",
@@ -4938,7 +5694,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-28T03:55:03.896752+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729497+00:00"
   },
   {
     "id": "10000066953",
@@ -4959,7 +5715,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Hedge Holdings LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-28T03:55:03.896775+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729517+00:00"
   },
   {
     "id": "10000066958",
@@ -4980,7 +5736,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of LarryMae Partners LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-28T03:55:03.896805+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729540+00:00"
   },
   {
     "id": "10000066962",
@@ -5001,7 +5757,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Magnifique LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-28T03:55:03.896828+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729559+00:00"
   },
   {
     "id": "20003803702",
@@ -5547,7 +6303,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-28T03:55:03.896667+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729460+00:00"
   },
   {
     "id": "20003803572",
@@ -8718,7 +9474,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.896951+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729638+00:00"
   },
   {
     "id": "10000066919",
@@ -8739,7 +9495,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.896957+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729643+00:00"
   },
   {
     "id": "10000066920",
@@ -8760,7 +9516,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.896965+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729648+00:00"
   },
   {
     "id": "10000066921",
@@ -8781,7 +9537,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.896971+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729654+00:00"
   },
   {
     "id": "10000066922",
@@ -8802,7 +9558,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.896977+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729659+00:00"
   },
   {
     "id": "10000066923",
@@ -8823,7 +9579,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.896982+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729663+00:00"
   },
   {
     "id": "10000066924",
@@ -8844,7 +9600,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.896988+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729668+00:00"
   },
   {
     "id": "10000066911",
@@ -8865,7 +9621,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.897018+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729688+00:00"
   },
   {
     "id": "10000066912",
@@ -8886,7 +9642,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.897024+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729693+00:00"
   },
   {
     "id": "10000066913",
@@ -8907,7 +9663,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.897030+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729697+00:00"
   },
   {
     "id": "10000066914",
@@ -8928,7 +9684,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.897036+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729704+00:00"
   },
   {
     "id": "20003803532",
@@ -9096,7 +9852,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-10-28T03:55:03.896923+00:00"
+    "scraped_at": "2026-10-28T16:10:03.729616+00:00"
   },
   {
     "id": "20003803003",
@@ -253348,6 +254104,27 @@
     "owner": "Child",
     "comment": "",
     "scraped_at": "2026-04-18T23:46:56.741601+00:00"
+  },
+  {
+    "id": "20003803719",
+    "politician_name": "Jodey Arrington",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TX",
+    "company": "Montego",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2025-07-10",
+    "trade_published": "2026-10-28",
+    "filed_after_days": "474",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Description: The land we owned in an investment fund that purchased land for oil leases was sold. We owned a small",
+    "scraped_at": "2026-10-28T16:10:03.729433+00:00"
   },
   {
     "id": "20003792130",
