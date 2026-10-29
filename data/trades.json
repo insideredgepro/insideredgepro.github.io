@@ -1746,7 +1746,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-10-29T16:10:03.487487+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524339+00:00"
   },
   {
     "id": "20003803728",
@@ -1767,7 +1767,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487345+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524199+00:00"
   },
   {
     "id": "20003803742",
@@ -1788,7 +1788,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: IRA Two",
-    "scraped_at": "2026-10-29T16:10:03.487420+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524272+00:00"
   },
   {
     "id": "20003803757",
@@ -1809,7 +1809,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-29T16:10:03.487137+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524034+00:00"
   },
   {
     "id": "20003803758",
@@ -1830,7 +1830,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA",
-    "scraped_at": "2026-10-29T16:10:03.487168+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524042+00:00"
   },
   {
     "id": "20003803736",
@@ -1851,7 +1851,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-10-29T16:10:03.487385+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524241+00:00"
   },
   {
     "id": "20003803739",
@@ -1872,7 +1872,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487404+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524257+00:00"
   },
   {
     "id": "20003803745",
@@ -1893,7 +1893,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-10-29T16:10:03.487435+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524288+00:00"
   },
   {
     "id": "20003803748",
@@ -1914,7 +1914,28 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-10-29T16:10:03.487449+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524298+00:00"
+  },
+  {
+    "id": "10000066972",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "The Goldman Sachs Group Inc",
+    "ticker": "GS:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-20",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "9",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-10-29T22:10:03.523953+00:00"
   },
   {
     "id": "20003803738",
@@ -1935,7 +1956,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-10-29T16:10:03.487399+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524252+00:00"
   },
   {
     "id": "20003803712",
@@ -1957,6 +1978,69 @@
     "owner": "Not Disclosed",
     "comment": "6-Week, Matures 12/3/2026 Subholding Of: Schwab (formerly TD Ameritrade)",
     "scraped_at": "2026-10-29T03:55:03.608988+00:00"
+  },
+  {
+    "id": "10000066984",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "SPORTS & EXHIBITION AUTHORITY OF PITTSBURGH AND ALLEGHENY COUNTY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-19",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "10",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5% Matures: 2031-02-01",
+    "scraped_at": "2026-10-29T22:10:03.524011+00:00"
+  },
+  {
+    "id": "10000066985",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "PHILADELPHIA PARKING AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-19",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "10",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5% Matures: 2036-05-01",
+    "scraped_at": "2026-10-29T22:10:03.524015+00:00"
+  },
+  {
+    "id": "10000066986",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "FOX CHAPEL AREA SCHOOL DISTRICT ALLEGHENY COUNTY PENNSYLVANIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-19",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "10",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5% Matures: 2042-02-01",
+    "scraped_at": "2026-10-29T22:10:03.524020+00:00"
   },
   {
     "id": "20003803709",
@@ -2019,7 +2103,28 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET Invest",
-    "scraped_at": "2026-10-29T16:10:03.487356+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524211+00:00"
+  },
+  {
+    "id": "10000066971",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "The Goldman Sachs Group Inc",
+    "ticker": "GS:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-14",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "15",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-10-29T22:10:03.523949+00:00"
   },
   {
     "id": "20003803759",
@@ -2040,7 +2145,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-10-29T16:10:03.487183+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524047+00:00"
   },
   {
     "id": "20003803731",
@@ -2061,7 +2166,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-10-29T16:10:03.487360+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524216+00:00"
   },
   {
     "id": "20003803735",
@@ -2082,7 +2187,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487380+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524237+00:00"
   },
   {
     "id": "20003803721",
@@ -2103,7 +2208,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "Black Belt Energy Gas Dist Ala Gas 05.00% 12/01/2035 Proj Rev BDS Ser. 2025 F [GS]",
-    "scraped_at": "2026-10-29T16:10:03.487509+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524357+00:00"
   },
   {
     "id": "20003803722",
@@ -2124,7 +2229,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "Tennessee Energy Ac 5% Edr Idr Due 12/01/35 [GS]",
-    "scraped_at": "2026-10-29T16:10:03.487514+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524362+00:00"
   },
   {
     "id": "20003803718",
@@ -2148,6 +2253,48 @@
     "scraped_at": "2026-10-29T03:55:03.608771+00:00"
   },
   {
+    "id": "10000066982",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "VERMONT EDUCATIONAL AND HEALTH BUILDINGS FINANCING AGENCY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-13",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "16",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5% Matures: 2049-11-01",
+    "scraped_at": "2026-10-29T22:10:03.524002+00:00"
+  },
+  {
+    "id": "10000066983",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "TOWNSHIP OF DERRY DAUPHIN COUNTY PENNSYLVANIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-13",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "16",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5% Matures: 2044-11-15",
+    "scraped_at": "2026-10-29T22:10:03.524006+00:00"
+  },
+  {
     "id": "20003803734",
     "politician_name": "Peter Sessions",
     "party": "Republican",
@@ -2166,7 +2313,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET Invest",
-    "scraped_at": "2026-10-29T16:10:03.487374+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524231+00:00"
   },
   {
     "id": "20003803608",
@@ -2208,7 +2355,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487294+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524149+00:00"
   },
   {
     "id": "20003803716",
@@ -2295,6 +2442,153 @@
     "scraped_at": "2026-10-28T03:55:03.897150+00:00"
   },
   {
+    "id": "10000066974",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "UNIVERSITY OF CONNECTICUT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-08",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "21",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5% Matures: 2032-05-01",
+    "scraped_at": "2026-10-29T22:10:03.523963+00:00"
+  },
+  {
+    "id": "10000066976",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "DORMITORY AUTHORITY OF THE STATE OF NEW YORK",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-08",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "21",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5% Matures: 2036-03-15",
+    "scraped_at": "2026-10-29T22:10:03.523972+00:00"
+  },
+  {
+    "id": "10000066977",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "MILFORD CONNECTICUT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-08",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "21",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5% Matures: 2031-11-01",
+    "scraped_at": "2026-10-29T22:10:03.523977+00:00"
+  },
+  {
+    "id": "10000066978",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "HEMPFIELD PA AREA SCHOOL DIST",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-08",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "21",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5% Matures: 2051-04-15",
+    "scraped_at": "2026-10-29T22:10:03.523983+00:00"
+  },
+  {
+    "id": "10000066979",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "COUNTY OF ESSEX",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-08",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "21",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 3% Matures: 2029-09-15",
+    "scraped_at": "2026-10-29T22:10:03.523987+00:00"
+  },
+  {
+    "id": "10000066980",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "TOWN OF DARIEN CONNECTICUT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-08",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "21",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5% Matures: 2028-08-01",
+    "scraped_at": "2026-10-29T22:10:03.523992+00:00"
+  },
+  {
+    "id": "10000066981",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "HOSPITAL AUTHORITY OF ST JOSEPH COUNTY INDIANA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-08",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "21",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5% Matures: 2036-08-15",
+    "scraped_at": "2026-10-29T22:10:03.523997+00:00"
+  },
+  {
     "id": "20003803746",
     "politician_name": "Peter Sessions",
     "party": "Republican",
@@ -2313,7 +2607,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-10-29T16:10:03.487441+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524293+00:00"
   },
   {
     "id": "20003803717",
@@ -2421,6 +2715,48 @@
     "scraped_at": "2026-10-16T03:55:03.772742+00:00"
   },
   {
+    "id": "10000066970",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "The Goldman Sachs Group Inc",
+    "ticker": "GS:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-07",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "22",
+    "price": "N/A",
+    "value": 375000,
+    "amount": "$250K\u2013$500K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-10-29T22:10:03.523943+00:00"
+  },
+  {
+    "id": "10000066973",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "PENNSYLVANIA TURNPIKE COMMISSION",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-07",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "22",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5% Matures: 2053-12-01",
+    "scraped_at": "2026-10-29T22:10:03.523959+00:00"
+  },
+  {
     "id": "20003803762",
     "politician_name": "Diana Harshbarger",
     "party": "Republican",
@@ -2437,9 +2773,9 @@
     "price": "N/A",
     "value": 32500,
     "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed ",
+    "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487201+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524064+00:00"
   },
   {
     "id": "10000066937",
@@ -2460,7 +2796,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of 3M\u2019s Partners LLC",
-    "scraped_at": "2026-10-29T16:10:03.487529+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524376+00:00"
   },
   {
     "id": "10000066939",
@@ -2481,7 +2817,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying asset of 3M\u2019s Partners LLC, owned through Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-29T16:10:03.487538+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524386+00:00"
   },
   {
     "id": "10000066948",
@@ -2631,6 +2967,27 @@
     "scraped_at": "2026-10-29T03:55:03.608761+00:00"
   },
   {
+    "id": "10000066969",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "UNIVERSITY OF PITTSBURGH",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-06",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "23",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2036-02-15",
+    "scraped_at": "2026-10-29T22:10:03.523932+00:00"
+  },
+  {
     "id": "20003803761",
     "politician_name": "Diana Harshbarger",
     "party": "Republican",
@@ -2647,9 +3004,9 @@
     "price": "N/A",
     "value": 32500,
     "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed ",
+    "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487194+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524059+00:00"
   },
   {
     "id": "20003803779",
@@ -2670,7 +3027,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487289+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524144+00:00"
   },
   {
     "id": "20003803778",
@@ -2691,7 +3048,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487283+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524140+00:00"
   },
   {
     "id": "20003803725",
@@ -2712,7 +3069,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T16:10:03.487327+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524182+00:00"
   },
   {
     "id": "20003803726",
@@ -2733,7 +3090,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T16:10:03.487332+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524188+00:00"
   },
   {
     "id": "20003803727",
@@ -2754,7 +3111,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T16:10:03.487339+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524193+00:00"
   },
   {
     "id": "20003803729",
@@ -2775,7 +3132,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T16:10:03.487350+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524206+00:00"
   },
   {
     "id": "20003803732",
@@ -2796,7 +3153,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T16:10:03.487365+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524220+00:00"
   },
   {
     "id": "20003803733",
@@ -2817,7 +3174,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T16:10:03.487370+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524225+00:00"
   },
   {
     "id": "20003803740",
@@ -2838,7 +3195,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T16:10:03.487408+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524262+00:00"
   },
   {
     "id": "20003803741",
@@ -2859,7 +3216,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T16:10:03.487413+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524267+00:00"
   },
   {
     "id": "20003803743",
@@ -2880,7 +3237,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T16:10:03.487425+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524277+00:00"
   },
   {
     "id": "20003803744",
@@ -2901,7 +3258,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: IRA One",
-    "scraped_at": "2026-10-29T16:10:03.487430+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524283+00:00"
   },
   {
     "id": "20003803749",
@@ -2922,7 +3279,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T16:10:03.487454+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524305+00:00"
   },
   {
     "id": "20003803750",
@@ -2943,7 +3300,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T16:10:03.487459+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524310+00:00"
   },
   {
     "id": "20003803751",
@@ -2964,7 +3321,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T16:10:03.487464+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524315+00:00"
   },
   {
     "id": "20003803752",
@@ -2985,7 +3342,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T16:10:03.487469+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524319+00:00"
   },
   {
     "id": "20003803753",
@@ -3006,7 +3363,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T16:10:03.487474+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524324+00:00"
   },
   {
     "id": "20003803754",
@@ -3027,7 +3384,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T16:10:03.487478+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524329+00:00"
   },
   {
     "id": "20003803755",
@@ -3048,7 +3405,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T16:10:03.487483+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524335+00:00"
   },
   {
     "id": "20003803584",
@@ -3072,6 +3429,27 @@
     "scraped_at": "2026-10-16T03:55:03.772604+00:00"
   },
   {
+    "id": "10000066975",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "COMMONWEALTH OF PENNSYLVANIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-01",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "28",
+    "price": "N/A",
+    "value": 750000,
+    "amount": "$500K\u2013$1M",
+    "owner": "Self",
+    "comment": "Rate/Coupon: 5% Matures: 2044-05-15",
+    "scraped_at": "2026-10-29T22:10:03.523967+00:00"
+  },
+  {
     "id": "20003803737",
     "politician_name": "Peter Sessions",
     "party": "Republican",
@@ -3090,7 +3468,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-10-29T16:10:03.487392+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524247+00:00"
   },
   {
     "id": "20003803723",
@@ -3111,7 +3489,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 2012 Trust Description: Distribution of $6,923.58",
-    "scraped_at": "2026-10-29T16:10:03.487492+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524343+00:00"
   },
   {
     "id": "20003803713",
@@ -3219,6 +3597,27 @@
     "scraped_at": "2026-10-14T22:10:04.087256+00:00"
   },
   {
+    "id": "10000066968",
+    "politician_name": "David McCormick",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "PA",
+    "company": "POTTSVILLE HOSPITAL AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-30",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "29",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Spouse",
+    "comment": "Rate/Coupon: 5% Matures: 2041-07-01",
+    "scraped_at": "2026-10-29T22:10:03.523909+00:00"
+  },
+  {
     "id": "20003803724",
     "politician_name": "Max Miller",
     "party": "Republican",
@@ -3237,7 +3636,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 2012 Trust Description: Distribution of $2,375.01",
-    "scraped_at": "2026-10-29T16:10:03.487499+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524348+00:00"
   },
   {
     "id": "20003803720",
@@ -3258,7 +3657,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > Rockefeller Cap. Mgmt 3 Description: Dividend reinvestment within a professionally managed account - Business Development Company.",
-    "scraped_at": "2026-10-29T16:10:03.487503+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524353+00:00"
   },
   {
     "id": "20003803561",
@@ -3739,9 +4138,9 @@
     "price": "N/A",
     "value": 32500,
     "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed ",
+    "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487189+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524055+00:00"
   },
   {
     "id": "20003803772",
@@ -3762,7 +4161,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487256+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524112+00:00"
   },
   {
     "id": "20003803703",
@@ -3972,7 +4371,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487251+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524107+00:00"
   },
   {
     "id": "10000066908",
@@ -4056,7 +4455,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487279+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524135+00:00"
   },
   {
     "id": "10000066947",
@@ -4812,7 +5211,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of 3M\u2019s Partners LLC",
-    "scraped_at": "2026-10-29T16:10:03.487523+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524372+00:00"
   },
   {
     "id": "10000066938",
@@ -4833,7 +5232,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying asset of 3M\u2019s Partners LLC, owned through Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-29T16:10:03.487533+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524381+00:00"
   },
   {
     "id": "10000066946",
@@ -5209,9 +5608,9 @@
     "price": "N/A",
     "value": 32500,
     "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed ",
+    "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487209+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524073+00:00"
   },
   {
     "id": "20003803769",
@@ -5232,7 +5631,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487240+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524096+00:00"
   },
   {
     "id": "20003803770",
@@ -5253,7 +5652,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487245+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524102+00:00"
   },
   {
     "id": "20003803775",
@@ -5274,7 +5673,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487270+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524125+00:00"
   },
   {
     "id": "20003803776",
@@ -5295,7 +5694,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487274+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524129+00:00"
   },
   {
     "id": "20003803786",
@@ -5316,7 +5715,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487321+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524177+00:00"
   },
   {
     "id": "10000066945",
@@ -5337,7 +5736,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-29T16:10:03.487566+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524414+00:00"
   },
   {
     "id": "10000066951",
@@ -5694,7 +6093,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying asset of 3M\u2019s Partners LLC, owned through Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-29T16:10:03.487542+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524391+00:00"
   },
   {
     "id": "10000066943",
@@ -5715,7 +6114,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-29T16:10:03.487557+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524405+00:00"
   },
   {
     "id": "10000066944",
@@ -5736,7 +6135,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-29T16:10:03.487562+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524409+00:00"
   },
   {
     "id": "10000066950",
@@ -6051,7 +6450,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-29T16:10:03.487553+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524400+00:00"
   },
   {
     "id": "10000066949",
@@ -6681,7 +7080,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487230+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524087+00:00"
   },
   {
     "id": "20003803768",
@@ -6702,7 +7101,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487236+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524092+00:00"
   },
   {
     "id": "20003803774",
@@ -6723,7 +7122,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487266+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524121+00:00"
   },
   {
     "id": "10000066941",
@@ -6744,7 +7143,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-29T16:10:03.487547+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524395+00:00"
   },
   {
     "id": "20003803572",
@@ -7206,7 +7605,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487317+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524171+00:00"
   },
   {
     "id": "20003803600",
@@ -7311,7 +7710,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487223+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524082+00:00"
   },
   {
     "id": "20003803784",
@@ -7332,7 +7731,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487312+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524167+00:00"
   },
   {
     "id": "20003803041",
@@ -7519,9 +7918,9 @@
     "price": "N/A",
     "value": 32500,
     "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed ",
+    "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487205+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524068+00:00"
   },
   {
     "id": "20003803765",
@@ -7542,7 +7941,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487215+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524077+00:00"
   },
   {
     "id": "20003803773",
@@ -7563,7 +7962,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487261+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524116+00:00"
   },
   {
     "id": "20003803781",
@@ -7584,7 +7983,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487299+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524154+00:00"
   },
   {
     "id": "20003803782",
@@ -7605,7 +8004,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487304+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524158+00:00"
   },
   {
     "id": "20003803783",
@@ -7626,7 +8025,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T16:10:03.487308+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524163+00:00"
   },
   {
     "id": "20003803559",
@@ -254754,7 +255153,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Description: The land we owned in an investment fund that purchased land for oil leases was sold. We owned a small",
-    "scraped_at": "2026-10-29T16:10:03.487518+00:00"
+    "scraped_at": "2026-10-29T22:10:03.524367+00:00"
   },
   {
     "id": "20003792130",
