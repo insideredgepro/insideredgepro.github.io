@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T23:45:05Z",
-  "trade_count": 11425,
+  "last_updated": "2026-10-29T03:36:33Z",
+  "trade_count": 11427,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -182801,6 +182801,38 @@
       "delta_own": "+17%",
       "value": "425000",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-28",
+      "filing_time": "20:54",
+      "trade_date": "2026-10-28",
+      "ticker": "TTMI",
+      "company": "Ttm Technologies Inc",
+      "insider_name": "Roks Edwin",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "88.07",
+      "qty": "5000",
+      "owned": "64483",
+      "delta_own": "+8%",
+      "value": "440350",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-10-28",
+      "filing_time": "20:52",
+      "trade_date": "2026-10-28",
+      "ticker": "TTMI",
+      "company": "Ttm Technologies Inc",
+      "insider_name": "Ali Wajid",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "90.25",
+      "qty": "10000",
+      "owned": "35835",
+      "delta_own": "+39%",
+      "value": "902461",
+      "cluster_buy": true
     }
   ]
 }
