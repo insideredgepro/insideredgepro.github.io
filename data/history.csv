@@ -11429,7 +11429,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-28,16:44,2026-10-26,BBT,Beacon Financial Corp,Polito Karyn,Dir,P - Purchase,30.68,1000,8958,+13%,30680,True
 2026-10-28,16:40,2026-10-15,WS,"Worthington Steel, Inc.",Ganem George John III,CEO Americas Kloeckner Metals,P - Purchase,39.37,800,800,New,31492,False
 2026-10-28,16:24,2026-10-26,LBRT,Liberty Energy Inc.,Babcock Ken,Dir,P - Purchase,15.40,14500,92824,+19%,223300,False
-2026-10-28,16:02,2026-10-26,HBAN,Huntington Bancshares Inc /Md/,Rollins James D III,Dir,P - Purchase,18.12,14000,37500,+60%,253720,False
+2026-10-28,16:02,2026-10-26,HBAN,Huntington Bancshares Inc /Md/,Rollins James D III,Dir,P - Purchase,18.12,14000,37500,+60%,253720,True
 2026-10-28,15:56,2026-10-28,HYMC,Hycroft Mining Holding Corp,Rhodes Blake,Dir,P - Purchase,16.69,3000,7068,+74%,50075,False
 2026-10-28,15:52,2026-10-28,RCT,Redcloud Holdings Plc,Senn Nikolaus Beat,"Dir, 10%",P - Purchase,0.25,1700000,11986524,+17%,425000,False
 2026-10-28,20:54,2026-10-28,TTMI,Ttm Technologies Inc,Roks Edwin,"Pres, CEO",P - Purchase,88.07,5000,64483,+8%,440350,True
@@ -11440,3 +11440,16 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-29,09:08,2026-10-28,BBT,Beacon Financial Corp,Callahan Mary Anne,Dir,P - Purchase,30.21,3200,39083,+9%,96672,True
 2026-10-29,09:06,2026-10-27,NBIS,Nebius Group N.V.,Grimme Arne,Dir,P - Purchase,163.57,353,7751,+5%,57740,False
 2026-10-29,08:16,2026-10-27,API,"Agora, Inc.",Zhao Bin,CEO,P - Purchase,4.47,12549,85681849,0%,56081,False
+2026-10-29,17:25,2026-10-29,DINO,Hf Sinclair Corp,Myers Franklin,CEO,P - Purchase,110.80,10000,207723,+5%,1108000,False
+2026-10-29,17:07,2026-10-28,SCQCU,Spaccircle Acquisition Corp.,Das Soumen,"Dir, 10%",P - Purchase,10.00,266590,266590,New,2665900,False
+2026-10-29,16:50,2026-10-27,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,35.14,178129,131623670,0%,6259186,False
+2026-10-29,16:46,2026-10-29,UTMD,Utah Medical Products Inc,Cornwell Kevin L,"COB, CEO",P - Purchase,66.75,1000,189472,+1%,66750,False
+2026-10-29,16:44,2026-10-29,AEYE,Audioeye Inc,Hawkins James B,Dir,P - Purchase,12.34,3000,221684,+1%,37010,False
+2026-10-29,16:41,2026-10-28,PNFP,"Pinnacle Financial Partners, Inc.",Ingram David B,Dir,P - Purchase,99.16,10000,283210,+4%,991600,False
+2026-10-29,16:38,2026-10-27,SAMG,Silvercrest Asset Management Group Inc.,Equinox Partners Investment Management LLC,10%,P - Purchase,10.44,33398,867197,+4%,348694,False
+2026-10-29,16:34,2026-10-27,HBAN,Huntington Bancshares Inc /Md/,Torgow Gary,Dir,P - Purchase,15.74,12700,961716,+1%,199835,True
+2026-10-29,16:30,2026-10-27,UPBD,"Upbound Group, Inc.",Brown Jeffrey J,Dir,P - Purchase,17.01,2764,123298,+2%,47016,False
+2026-10-29,16:15,2026-10-29,XYL,Xylem Inc.,Koch D Christian,Dir,P - Purchase,89.60,11000,12247,+882%,985600,False
+2026-10-29,16:05,2026-10-28,NPB,Northpointe Bancshares Inc,Chaudhary Rajeev Kumar,Dir,P - Purchase,15.80,3000,3000,New,47398,True
+2026-10-29,16:05,2026-10-28,ELVR,Elevra Lithium Ltd,Cortes Vargas Christian Mauricio,CFO,P - Purchase,2.67,16000,11431,-350%,42720,False
+2026-10-29,15:53,2026-10-27,BMN,Blackrock 2037 Municipal Target Term Trust,Bank of America Corp /de/,10%,P - Purchase,22.98,3070,0,-100%,70549,False
