@@ -1746,7 +1746,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-10-29T03:55:03.608577+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487487+00:00"
   },
   {
     "id": "20003803728",
@@ -1767,7 +1767,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T03:55:03.608435+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487345+00:00"
   },
   {
     "id": "20003803742",
@@ -1788,7 +1788,49 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: IRA Two",
-    "scraped_at": "2026-10-29T03:55:03.608510+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487420+00:00"
+  },
+  {
+    "id": "20003803757",
+    "politician_name": "Kevin Hern",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OK",
+    "company": "ASML Holding NV",
+    "ticker": "ASML:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-23",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "5",
+    "price": "$1,571.80",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Hern Family Foundation",
+    "scraped_at": "2026-10-29T16:10:03.487137+00:00"
+  },
+  {
+    "id": "20003803758",
+    "politician_name": "Kevin Hern",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OK",
+    "company": "Seagate Technology Holdings PLC",
+    "ticker": "STX:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-23",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "5",
+    "price": "$630.49",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: Kevin Hern Traditional IRA",
+    "scraped_at": "2026-10-29T16:10:03.487168+00:00"
   },
   {
     "id": "20003803736",
@@ -1809,7 +1851,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-10-29T03:55:03.608479+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487385+00:00"
   },
   {
     "id": "20003803739",
@@ -1830,7 +1872,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T03:55:03.608495+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487404+00:00"
   },
   {
     "id": "20003803745",
@@ -1851,7 +1893,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-10-29T03:55:03.608525+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487435+00:00"
   },
   {
     "id": "20003803748",
@@ -1872,7 +1914,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-10-29T03:55:03.608535+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487449+00:00"
   },
   {
     "id": "20003803738",
@@ -1893,7 +1935,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-10-29T03:55:03.608490+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487399+00:00"
   },
   {
     "id": "20003803712",
@@ -1977,7 +2019,28 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET Invest",
-    "scraped_at": "2026-10-29T03:55:03.608446+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487356+00:00"
+  },
+  {
+    "id": "20003803759",
+    "politician_name": "Kevin Hern",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OK",
+    "company": "Texas Instruments Inc",
+    "ticker": "TXN:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-14",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "14",
+    "price": "$280.65",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Hern Family Foundation",
+    "scraped_at": "2026-10-29T16:10:03.487183+00:00"
   },
   {
     "id": "20003803731",
@@ -1998,7 +2061,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-10-29T03:55:03.608452+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487360+00:00"
   },
   {
     "id": "20003803735",
@@ -2019,7 +2082,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-10-29T03:55:03.608475+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487380+00:00"
   },
   {
     "id": "20003803721",
@@ -2040,7 +2103,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "Black Belt Energy Gas Dist Ala Gas 05.00% 12/01/2035 Proj Rev BDS Ser. 2025 F [GS]",
-    "scraped_at": "2026-10-29T03:55:03.608598+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487509+00:00"
   },
   {
     "id": "20003803722",
@@ -2061,7 +2124,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Joint",
     "comment": "Tennessee Energy Ac 5% Edr Idr Due 12/01/35 [GS]",
-    "scraped_at": "2026-10-29T03:55:03.608602+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487514+00:00"
   },
   {
     "id": "20003803718",
@@ -2103,7 +2166,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET Invest",
-    "scraped_at": "2026-10-29T03:55:03.608469+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487374+00:00"
   },
   {
     "id": "20003803608",
@@ -2125,6 +2188,27 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
     "scraped_at": "2026-10-28T03:55:03.897144+00:00"
+  },
+  {
+    "id": "20003803780",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "CITY OF NEW YORK",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-09",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "18",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487294+00:00"
   },
   {
     "id": "20003803716",
@@ -2229,7 +2313,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-10-29T03:55:03.608530+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487441+00:00"
   },
   {
     "id": "20003803717",
@@ -2337,6 +2421,27 @@
     "scraped_at": "2026-10-16T03:55:03.772742+00:00"
   },
   {
+    "id": "20003803762",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "STATE OF MASSACHUSETTS",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-07",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "20",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed ",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487201+00:00"
+  },
+  {
     "id": "10000066937",
     "politician_name": "Richard Blumenthal",
     "party": "Democrat",
@@ -2355,7 +2460,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of 3M\u2019s Partners LLC",
-    "scraped_at": "2026-10-29T03:55:03.608618+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487529+00:00"
   },
   {
     "id": "10000066939",
@@ -2376,7 +2481,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying asset of 3M\u2019s Partners LLC, owned through Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-29T03:55:03.608626+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487538+00:00"
   },
   {
     "id": "10000066948",
@@ -2397,7 +2502,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-29T03:55:03.608668+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487580+00:00"
   },
   {
     "id": "10000066952",
@@ -2418,7 +2523,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-29T03:55:03.608690+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487598+00:00"
   },
   {
     "id": "10000066957",
@@ -2439,7 +2544,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Hedge Holdings LLC",
-    "scraped_at": "2026-10-29T03:55:03.608713+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487624+00:00"
   },
   {
     "id": "10000066961",
@@ -2460,7 +2565,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of LarryMae Partners LLC",
-    "scraped_at": "2026-10-29T03:55:03.608732+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487642+00:00"
   },
   {
     "id": "10000066964",
@@ -2481,7 +2586,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of New Things Partners LLC",
-    "scraped_at": "2026-10-29T03:55:03.608745+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487657+00:00"
   },
   {
     "id": "10000066965",
@@ -2526,6 +2631,69 @@
     "scraped_at": "2026-10-29T03:55:03.608761+00:00"
   },
   {
+    "id": "20003803761",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "STATE OF WASHINGTON",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-06",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "21",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed ",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487194+00:00"
+  },
+  {
+    "id": "20003803779",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "GREAT LAKES WATER AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-05",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "22",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487289+00:00"
+  },
+  {
+    "id": "20003803778",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "CITY OF NEW YORK",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-02",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "25",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487283+00:00"
+  },
+  {
     "id": "20003803725",
     "politician_name": "Peter Sessions",
     "party": "Republican",
@@ -2544,7 +2712,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T03:55:03.608356+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487327+00:00"
   },
   {
     "id": "20003803726",
@@ -2565,7 +2733,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T03:55:03.608415+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487332+00:00"
   },
   {
     "id": "20003803727",
@@ -2586,7 +2754,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T03:55:03.608427+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487339+00:00"
   },
   {
     "id": "20003803729",
@@ -2607,7 +2775,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T03:55:03.608441+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487350+00:00"
   },
   {
     "id": "20003803732",
@@ -2628,7 +2796,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T03:55:03.608457+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487365+00:00"
   },
   {
     "id": "20003803733",
@@ -2649,7 +2817,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T03:55:03.608462+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487370+00:00"
   },
   {
     "id": "20003803740",
@@ -2670,7 +2838,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T03:55:03.608499+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487408+00:00"
   },
   {
     "id": "20003803741",
@@ -2691,7 +2859,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T03:55:03.608505+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487413+00:00"
   },
   {
     "id": "20003803743",
@@ -2712,7 +2880,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T03:55:03.608515+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487425+00:00"
   },
   {
     "id": "20003803744",
@@ -2733,7 +2901,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: IRA One",
-    "scraped_at": "2026-10-29T03:55:03.608520+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487430+00:00"
   },
   {
     "id": "20003803749",
@@ -2754,7 +2922,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T03:55:03.608540+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487454+00:00"
   },
   {
     "id": "20003803750",
@@ -2775,7 +2943,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T03:55:03.608545+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487459+00:00"
   },
   {
     "id": "20003803751",
@@ -2796,7 +2964,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T03:55:03.608551+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487464+00:00"
   },
   {
     "id": "20003803752",
@@ -2817,7 +2985,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T03:55:03.608557+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487469+00:00"
   },
   {
     "id": "20003803753",
@@ -2838,7 +3006,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T03:55:03.608562+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487474+00:00"
   },
   {
     "id": "20003803754",
@@ -2859,7 +3027,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T03:55:03.608567+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487478+00:00"
   },
   {
     "id": "20003803755",
@@ -2880,7 +3048,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-10-29T03:55:03.608572+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487483+00:00"
   },
   {
     "id": "20003803584",
@@ -2922,7 +3090,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-10-29T03:55:03.608486+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487392+00:00"
   },
   {
     "id": "20003803723",
@@ -2943,7 +3111,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 2012 Trust Description: Distribution of $6,923.58",
-    "scraped_at": "2026-10-29T03:55:03.608582+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487492+00:00"
   },
   {
     "id": "20003803713",
@@ -3069,7 +3237,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 2012 Trust Description: Distribution of $2,375.01",
-    "scraped_at": "2026-10-29T03:55:03.608588+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487499+00:00"
   },
   {
     "id": "20003803720",
@@ -3090,7 +3258,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: W.S.B Trust > Rockefeller Cap. Mgmt 3 Description: Dividend reinvestment within a professionally managed account - Business Development Company.",
-    "scraped_at": "2026-10-29T03:55:03.608593+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487503+00:00"
   },
   {
     "id": "20003803561",
@@ -3555,6 +3723,48 @@
     "scraped_at": "2026-10-14T22:10:04.087284+00:00"
   },
   {
+    "id": "20003803760",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "STATE OF KANSAS",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-28",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "29",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed ",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487189+00:00"
+  },
+  {
+    "id": "20003803772",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "BLACK BELT ENERGY GAS DISTRICT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-28",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "29",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487256+00:00"
+  },
+  {
     "id": "20003803703",
     "politician_name": "Jonathan Jackson",
     "party": "Democrat",
@@ -3744,6 +3954,27 @@
     "scraped_at": "2026-10-10T03:55:02.615196+00:00"
   },
   {
+    "id": "20003803771",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "BLACK BELT ENERGY GAS DISTRICT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-25",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "32",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487251+00:00"
+  },
+  {
     "id": "10000066908",
     "politician_name": "John Boozman",
     "party": "Republican",
@@ -3807,6 +4038,27 @@
     "scraped_at": "2026-10-10T03:55:02.614976+00:00"
   },
   {
+    "id": "20003803777",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "CITY OF AUSTIN TEXAS",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-24",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "33",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487279+00:00"
+  },
+  {
     "id": "10000066947",
     "politician_name": "Richard Blumenthal",
     "party": "Democrat",
@@ -3825,7 +4077,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-29T03:55:03.608664+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487576+00:00"
   },
   {
     "id": "10000066915",
@@ -4560,7 +4812,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of 3M\u2019s Partners LLC",
-    "scraped_at": "2026-10-29T03:55:03.608613+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487523+00:00"
   },
   {
     "id": "10000066938",
@@ -4581,7 +4833,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying asset of 3M\u2019s Partners LLC, owned through Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-29T03:55:03.608622+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487533+00:00"
   },
   {
     "id": "10000066946",
@@ -4602,7 +4854,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-29T03:55:03.608660+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487571+00:00"
   },
   {
     "id": "10000066956",
@@ -4623,7 +4875,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Hedge Holdings LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-29T03:55:03.608707+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487619+00:00"
   },
   {
     "id": "20003803568",
@@ -4941,6 +5193,132 @@
     "scraped_at": "2026-10-08T03:55:02.704715+00:00"
   },
   {
+    "id": "20003803764",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "HARTSFIELD JACKSON INTERNATIONAL AIRPORT CITY OF ATLANTA GEORGIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-22",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "35",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed ",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487209+00:00"
+  },
+  {
+    "id": "20003803769",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "ILLINOIS STATE TOLL HIGHWAY AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-22",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "35",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487240+00:00"
+  },
+  {
+    "id": "20003803770",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "ILLINOIS STATE TOLL HIGHWAY AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-22",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "35",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487245+00:00"
+  },
+  {
+    "id": "20003803775",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "ILLINOIS STATE TOLL HIGHWAY AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-22",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "35",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487270+00:00"
+  },
+  {
+    "id": "20003803776",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "ILLINOIS STATE TOLL HIGHWAY AUTHORITY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-22",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "35",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487274+00:00"
+  },
+  {
+    "id": "20003803786",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "CITY AND COUNTY OF SAN FRANCISCO",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-22",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "35",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487321+00:00"
+  },
+  {
     "id": "10000066945",
     "politician_name": "Richard Blumenthal",
     "party": "Democrat",
@@ -4959,7 +5337,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-29T03:55:03.608654+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487566+00:00"
   },
   {
     "id": "10000066951",
@@ -4980,7 +5358,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-29T03:55:03.608685+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487594+00:00"
   },
   {
     "id": "10000066955",
@@ -5001,7 +5379,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Hedge Holdings LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-29T03:55:03.608702+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487615+00:00"
   },
   {
     "id": "10000066960",
@@ -5022,7 +5400,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of LarryMae Partners LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-29T03:55:03.608726+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487636+00:00"
   },
   {
     "id": "10000066963",
@@ -5043,7 +5421,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Magnifique LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-29T03:55:03.608740+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487652+00:00"
   },
   {
     "id": "20003803593",
@@ -5316,7 +5694,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying asset of 3M\u2019s Partners LLC, owned through Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-29T03:55:03.608632+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487542+00:00"
   },
   {
     "id": "10000066943",
@@ -5337,7 +5715,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-29T03:55:03.608646+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487557+00:00"
   },
   {
     "id": "10000066944",
@@ -5358,7 +5736,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-29T03:55:03.608650+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487562+00:00"
   },
   {
     "id": "10000066950",
@@ -5379,7 +5757,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC",
-    "scraped_at": "2026-10-29T03:55:03.608679+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487588+00:00"
   },
   {
     "id": "10000066954",
@@ -5400,7 +5778,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Hedge Holdings LLC",
-    "scraped_at": "2026-10-29T03:55:03.608698+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487609+00:00"
   },
   {
     "id": "10000066959",
@@ -5421,7 +5799,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of LarryMae Partners LLC",
-    "scraped_at": "2026-10-29T03:55:03.608722+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487632+00:00"
   },
   {
     "id": "10000066966",
@@ -5673,7 +6051,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-29T03:55:03.608641+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487553+00:00"
   },
   {
     "id": "10000066949",
@@ -5694,7 +6072,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 9 LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-29T03:55:03.608673+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487584+00:00"
   },
   {
     "id": "10000066953",
@@ -5715,7 +6093,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Hedge Holdings LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-29T03:55:03.608694+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487604+00:00"
   },
   {
     "id": "10000066958",
@@ -5736,7 +6114,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Underlying Asset of LarryMae Partners LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-29T03:55:03.608718+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487628+00:00"
   },
   {
     "id": "10000066962",
@@ -5757,7 +6135,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Magnifique LLC. Name change \u2013 previously reported as Oncology Institute, Inc. (TOI)",
-    "scraped_at": "2026-10-29T03:55:03.608736+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487647+00:00"
   },
   {
     "id": "20003803702",
@@ -6285,6 +6663,69 @@
     "scraped_at": "2026-10-10T03:55:02.615166+00:00"
   },
   {
+    "id": "20003803767",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "RICHARDSON INDEPENDENT SCHOOL DISTRICT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-17",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "40",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487230+00:00"
+  },
+  {
+    "id": "20003803768",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "GREGORY PORTLAND TEXAS INDEPENDENT SCHOOL DISTRICT SCHOOL BUILDING SERIES A",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-17",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "40",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487236+00:00"
+  },
+  {
+    "id": "20003803774",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "GREGORY PORTLAND TEXAS INDEPENDENT SCHOOL DISTRICT SCHOOL BUILDING SERIES A",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-17",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "40",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487266+00:00"
+  },
+  {
     "id": "10000066941",
     "politician_name": "Richard Blumenthal",
     "party": "Democrat",
@@ -6303,7 +6744,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Underlying Asset of Peter L. Malkin Family 2000 LLC",
-    "scraped_at": "2026-10-29T03:55:03.608637+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487547+00:00"
   },
   {
     "id": "20003803572",
@@ -6747,6 +7188,27 @@
     "scraped_at": "2026-10-10T03:55:02.615171+00:00"
   },
   {
+    "id": "20003803785",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "STATE OF MASSACHUSETTS",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-16",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "41",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487317+00:00"
+  },
+  {
     "id": "20003803600",
     "politician_name": "George Kelly",
     "party": "Republican",
@@ -6829,6 +7291,48 @@
     "owner": "Child",
     "comment": "Rate/Coupon: 5.6% Matures: 2033-09-15",
     "scraped_at": "2026-10-10T03:55:02.614981+00:00"
+  },
+  {
+    "id": "20003803766",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "ROUND ROCK INDEPENDENT SCHOOL DISTRICT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-15",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "42",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487223+00:00"
+  },
+  {
+    "id": "20003803784",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "TRINITY RIVER AUTHORITY OF TEXAS",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-15",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "42",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487312+00:00"
   },
   {
     "id": "20003803041",
@@ -6997,6 +7501,132 @@
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Revocable Trust",
     "scraped_at": "2026-10-03T03:55:03.218263+00:00"
+  },
+  {
+    "id": "20003803763",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "US TREASURY NOTE",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-14",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "43",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed ",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487205+00:00"
+  },
+  {
+    "id": "20003803765",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "US TREASURY NOTE",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-14",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "43",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487215+00:00"
+  },
+  {
+    "id": "20003803773",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "US TREASURY NOTE",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-14",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "43",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487261+00:00"
+  },
+  {
+    "id": "20003803781",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "CITY OF CHARLOTTE NORTH CAROLINA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-14",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "43",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487299+00:00"
+  },
+  {
+    "id": "20003803782",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "US TREASURY NOTE",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-14",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "43",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487304+00:00"
+  },
+  {
+    "id": "20003803783",
+    "politician_name": "Diana Harshbarger",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "TN",
+    "company": "PORTLAND INTERNATIONAL AIRPORT",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-14",
+    "trade_published": "2026-10-29",
+    "filed_after_days": "43",
+    "price": "N/A",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Not Disclosed",
+    "comment": "",
+    "scraped_at": "2026-10-29T16:10:03.487308+00:00"
   },
   {
     "id": "20003803559",
@@ -254124,7 +254754,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Description: The land we owned in an investment fund that purchased land for oil leases was sold. We owned a small",
-    "scraped_at": "2026-10-29T03:55:03.608608+00:00"
+    "scraped_at": "2026-10-29T16:10:03.487518+00:00"
   },
   {
     "id": "20003792130",
