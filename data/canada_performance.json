@@ -1,629 +1,7 @@
 {
-  "last_updated": "2026-10-24",
-  "entry_count": 186,
+  "last_updated": "2026-10-29",
+  "entry_count": 200,
   "entries": [
-    {
-      "id": "CA|CGD|2026-08-25|everett, calvin clovis|1.2962",
-      "market": "CA",
-      "ticker": "CGD",
-      "yf_symbol": "CGD.V",
-      "company": "Carlin Gold Corporation",
-      "insider_name": "Everett, Calvin Clovis",
-      "title": "10% Holder",
-      "trade_date": "2026-08-25",
-      "trade_price": 1.2962,
-      "value": 25924.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-25": 1.33,
-        "2026-08-26": 1.3,
-        "2026-08-27": 1.3,
-        "2026-08-28": 1.33,
-        "2026-08-31": 1.3,
-        "2026-09-01": 1.29,
-        "2026-09-02": 1.38,
-        "2026-09-03": 1.5,
-        "2026-09-04": 1.55,
-        "2026-09-07": 1.51,
-        "2026-09-08": 1.51,
-        "2026-09-10": 1.75,
-        "2026-09-11": 1.74,
-        "2026-09-14": 1.75,
-        "2026-10-24": 1.3
-      },
-      "latest_price": 1.3,
-      "return_pct": 0.29,
-      "last_snapshot": "2026-10-24"
-    },
-    {
-      "id": "CA|CHLT|2026-08-25|knight, kevin george|7.31",
-      "market": "CA",
-      "ticker": "CHLT",
-      "yf_symbol": "CHLT.TO",
-      "company": "Custom Health Holdings Inc.",
-      "insider_name": "Knight, Kevin George",
-      "title": "10% Holder",
-      "trade_date": "2026-08-25",
-      "trade_price": 7.31,
-      "value": 25585.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-25": 7.2,
-        "2026-08-26": 7.2,
-        "2026-08-27": 7.195,
-        "2026-08-28": 7.2,
-        "2026-08-31": 7.2,
-        "2026-09-01": 7.25,
-        "2026-09-02": 7.2,
-        "2026-09-03": 7.2,
-        "2026-09-04": 7.0,
-        "2026-09-07": 7.5,
-        "2026-09-08": 7.35,
-        "2026-09-10": 7.51,
-        "2026-09-11": 7.5,
-        "2026-09-14": 7.0,
-        "2026-10-24": 6.21
-      },
-      "latest_price": 6.21,
-      "return_pct": -15.05,
-      "last_snapshot": "2026-10-24"
-    },
-    {
-      "id": "CA|JCTC|2026-08-25|bradley, adam|2.9",
-      "market": "CA",
-      "ticker": "JCTC",
-      "yf_symbol": "JCTC.TO",
-      "company": "Jewett-Cameron Trading Company Ltd.",
-      "insider_name": "Bradley, Adam",
-      "title": "Director & Senior Officer",
-      "trade_date": "2026-08-25",
-      "trade_price": 2.9,
-      "value": 17373.0,
-      "cluster_buy": true,
-      "currency": "CAD",
-      "snapshots": {},
-      "latest_price": null,
-      "return_pct": null,
-      "last_snapshot": null
-    },
-    {
-      "id": "CA|JCTC|2026-08-25|bradley, melinda|2.9",
-      "market": "CA",
-      "ticker": "JCTC",
-      "yf_symbol": "JCTC.TO",
-      "company": "Jewett-Cameron Trading Company Ltd.",
-      "insider_name": "Bradley, Melinda",
-      "title": "Director & Senior Officer",
-      "trade_date": "2026-08-25",
-      "trade_price": 2.9,
-      "value": 17373.0,
-      "cluster_buy": true,
-      "currency": "CAD",
-      "snapshots": {},
-      "latest_price": null,
-      "return_pct": null,
-      "last_snapshot": null
-    },
-    {
-      "id": "CA|SCRI|2026-08-25|bures, peter|32.0",
-      "market": "CA",
-      "ticker": "SCRI",
-      "yf_symbol": "SCRI.NE",
-      "company": "Silver Crown Royalties Inc.",
-      "insider_name": "Bures, Peter",
-      "title": "Director & Senior Officer",
-      "trade_date": "2026-08-25",
-      "trade_price": 32.0,
-      "value": 16000.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-25": 31.63,
-        "2026-08-26": 32.74,
-        "2026-08-27": 32.49,
-        "2026-08-28": 32.5,
-        "2026-08-31": 34.55,
-        "2026-09-01": 35.15,
-        "2026-09-02": 38.7,
-        "2026-09-03": 41.74,
-        "2026-09-04": 39.9,
-        "2026-09-07": 39.75,
-        "2026-09-08": 40.55,
-        "2026-09-10": 37.05,
-        "2026-09-11": 35.25,
-        "2026-09-14": 35.35,
-        "2026-10-24": 35.0
-      },
-      "latest_price": 35.0,
-      "return_pct": 9.38,
-      "last_snapshot": "2026-10-24"
-    },
-    {
-      "id": "CA|TOT|2026-08-25|halyk, daniel kim|30.25",
-      "market": "CA",
-      "ticker": "TOT",
-      "yf_symbol": "TOT.TO",
-      "company": "Total Energy Services Inc.",
-      "insider_name": "Halyk, Daniel Kim",
-      "title": "Director & Senior Officer",
-      "trade_date": "2026-08-25",
-      "trade_price": 30.25,
-      "value": 87906.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-25": 30.46,
-        "2026-08-26": 30.69,
-        "2026-08-27": 30.7,
-        "2026-08-28": 31.28,
-        "2026-08-31": 31.54,
-        "2026-09-01": 31.85,
-        "2026-09-02": 32.52,
-        "2026-09-03": 32.62,
-        "2026-09-04": 32.74,
-        "2026-09-07": 32.88,
-        "2026-09-08": 34.12,
-        "2026-09-10": 34.81,
-        "2026-09-11": 35.21,
-        "2026-09-14": 35.04,
-        "2026-10-24": 38.29
-      },
-      "latest_price": 38.29,
-      "return_pct": 26.58,
-      "last_snapshot": "2026-10-24"
-    },
-    {
-      "id": "CA|BYD|2026-08-26|espey, robert berthold|118.0",
-      "market": "CA",
-      "ticker": "BYD",
-      "yf_symbol": "BYD.TO",
-      "company": "Boyd Group Services Inc.",
-      "insider_name": "Espey, Robert Berthold",
-      "title": "Director",
-      "trade_date": "2026-08-26",
-      "trade_price": 118.0,
-      "value": 59000.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-26": 120.08,
-        "2026-08-27": 121.06,
-        "2026-08-28": 119.95,
-        "2026-08-31": 119.25,
-        "2026-09-01": 116.38,
-        "2026-09-02": 117.13,
-        "2026-09-03": 124.39,
-        "2026-09-04": 125.88,
-        "2026-09-07": 125.26,
-        "2026-09-08": 121.41,
-        "2026-09-10": 115.52,
-        "2026-09-11": 121.835,
-        "2026-09-14": 126.68,
-        "2026-10-24": 114.39
-      },
-      "latest_price": 114.39,
-      "return_pct": -3.06,
-      "last_snapshot": "2026-10-24"
-    },
-    {
-      "id": "CA|GIB-A|2026-08-26|reed, alison clare|103.14",
-      "market": "CA",
-      "ticker": "GIB-A",
-      "yf_symbol": "GIB-A.TO",
-      "company": "CGI Inc.",
-      "insider_name": "Reed, Alison Clare",
-      "title": "Director",
-      "trade_date": "2026-08-26",
-      "trade_price": 103.14,
-      "value": 82512.0,
-      "cluster_buy": true,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-26": 101.55,
-        "2026-08-27": 103.9,
-        "2026-08-28": 103.85,
-        "2026-08-31": 103.67,
-        "2026-09-01": 102.645,
-        "2026-09-02": 101.39,
-        "2026-09-03": 103.24,
-        "2026-09-04": 102.34,
-        "2026-09-07": 102.02,
-        "2026-09-08": 97.5,
-        "2026-09-10": 96.0,
-        "2026-09-11": 96.81,
-        "2026-09-14": 101.47,
-        "2026-10-24": 114.81
-      },
-      "latest_price": 114.81,
-      "return_pct": 11.31,
-      "last_snapshot": "2026-10-24"
-    },
-    {
-      "id": "CA|CHLT|2026-08-26|knight, kevin george|7.3611",
-      "market": "CA",
-      "ticker": "CHLT",
-      "yf_symbol": "CHLT.TO",
-      "company": "Custom Health Holdings Inc.",
-      "insider_name": "Knight, Kevin George",
-      "title": "10% Holder",
-      "trade_date": "2026-08-26",
-      "trade_price": 7.3611,
-      "value": 19874.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-26": 7.17,
-        "2026-08-27": 7.195,
-        "2026-08-28": 7.2,
-        "2026-08-31": 7.2,
-        "2026-09-01": 7.25,
-        "2026-09-02": 7.2,
-        "2026-09-03": 7.2,
-        "2026-09-04": 7.0,
-        "2026-09-07": 7.5,
-        "2026-09-08": 7.35,
-        "2026-09-10": 7.51,
-        "2026-09-11": 7.5,
-        "2026-09-14": 7.0,
-        "2026-10-24": 6.21
-      },
-      "latest_price": 6.21,
-      "return_pct": -15.64,
-      "last_snapshot": "2026-10-24"
-    },
-    {
-      "id": "CA|MMA|2026-08-26|richards, brett allan|0.773",
-      "market": "CA",
-      "ticker": "MMA",
-      "yf_symbol": "MMA.V",
-      "company": "Midnight Sun Mining Corp.",
-      "insider_name": "Richards, Brett Allan",
-      "title": "Senior Officer",
-      "trade_date": "2026-08-26",
-      "trade_price": 0.773,
-      "value": 100490.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-26": 0.75,
-        "2026-08-27": 0.745,
-        "2026-08-28": 0.7,
-        "2026-08-31": 0.705,
-        "2026-09-01": 0.7,
-        "2026-09-02": 0.7,
-        "2026-09-03": 0.695,
-        "2026-09-04": 0.7,
-        "2026-09-07": 0.72,
-        "2026-09-08": 0.74,
-        "2026-09-10": 0.66,
-        "2026-09-11": 0.63,
-        "2026-09-14": 0.62,
-        "2026-10-24": 0.385
-      },
-      "latest_price": 0.385,
-      "return_pct": -50.19,
-      "last_snapshot": "2026-10-24"
-    },
-    {
-      "id": "CA|TAL|2026-08-26|wilson, gavin hugh lothian|0.278",
-      "market": "CA",
-      "ticker": "TAL",
-      "yf_symbol": "TAL.TO",
-      "company": "PetroTal Corp.",
-      "insider_name": "Wilson, Gavin Hugh Lothian",
-      "title": "Director",
-      "trade_date": "2026-08-26",
-      "trade_price": 0.278,
-      "value": 55322.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-26": 0.51,
-        "2026-08-27": 0.52,
-        "2026-08-28": 0.51,
-        "2026-08-31": 0.52,
-        "2026-09-01": 0.54,
-        "2026-09-02": 0.56,
-        "2026-09-03": 0.54,
-        "2026-09-04": 0.545,
-        "2026-09-07": 0.55,
-        "2026-09-08": 0.565,
-        "2026-09-10": 0.555,
-        "2026-09-11": 0.555,
-        "2026-09-14": 0.56,
-        "2026-10-24": 0.59
-      },
-      "latest_price": 0.59,
-      "return_pct": 112.23,
-      "last_snapshot": "2026-10-24"
-    },
-    {
-      "id": "CA|ZAU|2026-08-26|richards, brett allan|0.329",
-      "market": "CA",
-      "ticker": "ZAU",
-      "yf_symbol": "ZAU.V",
-      "company": "Zodiac Gold Inc. (formerly 1329306 B.C. Ltd.)",
-      "insider_name": "Richards, Brett Allan",
-      "title": "6 Months before becoming Insider",
-      "trade_date": "2026-08-26",
-      "trade_price": 0.329,
-      "value": 102648.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-26": 0.31,
-        "2026-08-27": 0.315,
-        "2026-08-28": 0.305,
-        "2026-08-31": 0.295,
-        "2026-09-01": 0.29,
-        "2026-09-02": 0.29,
-        "2026-09-03": 0.3,
-        "2026-09-04": 0.3,
-        "2026-09-07": 0.3,
-        "2026-09-08": 0.33,
-        "2026-09-10": 0.31,
-        "2026-09-11": 0.31,
-        "2026-09-14": 0.305,
-        "2026-10-24": 0.3
-      },
-      "latest_price": 0.3,
-      "return_pct": -8.81,
-      "last_snapshot": "2026-10-24"
-    },
-    {
-      "id": "CA|PSIL.CN|2026-08-27|anthony, todd|1.18",
-      "market": "CA",
-      "ticker": "PSIL.CN",
-      "yf_symbol": "PSIL.CN",
-      "company": "Pacifica Silver Corp.",
-      "insider_name": "Anthony, Todd",
-      "title": "Senior Officer",
-      "trade_date": "2026-08-27",
-      "trade_price": 1.18,
-      "value": 59000.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-27": 1.18,
-        "2026-08-28": 1.23,
-        "2026-08-31": 1.2,
-        "2026-09-01": 1.14,
-        "2026-09-02": 1.16,
-        "2026-09-03": 1.25,
-        "2026-09-04": 1.23,
-        "2026-09-07": 1.21,
-        "2026-09-08": 1.2,
-        "2026-09-10": 1.22,
-        "2026-09-11": 1.2,
-        "2026-09-14": 1.12,
-        "2026-10-24": 0.8
-      },
-      "latest_price": 0.8,
-      "return_pct": -32.2,
-      "last_snapshot": "2026-10-24"
-    },
-    {
-      "id": "CA|BRO|2026-08-27|medalist capital ltd.|0.1358",
-      "market": "CA",
-      "ticker": "BRO",
-      "yf_symbol": "BRO.V",
-      "company": "Barksdale Resources Corp.",
-      "insider_name": "Medalist Capital Ltd.",
-      "title": "10% Holder",
-      "trade_date": "2026-08-27",
-      "trade_price": 0.1358,
-      "value": 88405.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-27": 0.185,
-        "2026-08-28": 0.17,
-        "2026-08-31": 0.175,
-        "2026-09-01": 0.16,
-        "2026-09-02": 0.16,
-        "2026-09-03": 0.165,
-        "2026-09-04": 0.165,
-        "2026-09-07": 0.16,
-        "2026-09-08": 0.16,
-        "2026-09-10": 0.175,
-        "2026-09-11": 0.16,
-        "2026-09-14": 0.16,
-        "2026-10-24": 0.25
-      },
-      "latest_price": 0.25,
-      "return_pct": 84.09,
-      "last_snapshot": "2026-10-24"
-    },
-    {
-      "id": "CA|MRZ|2026-08-27|pountney, glenn|0.34",
-      "market": "CA",
-      "ticker": "MRZ",
-      "yf_symbol": "MRZ.V",
-      "company": "Mirasol Resources Ltd.",
-      "insider_name": "Pountney, Glenn",
-      "title": "10% Holder",
-      "trade_date": "2026-08-27",
-      "trade_price": 0.34,
-      "value": 18020.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-27": 0.34,
-        "2026-08-28": 0.34,
-        "2026-08-31": 0.335,
-        "2026-09-01": 0.34,
-        "2026-09-02": 0.34,
-        "2026-09-03": 0.335,
-        "2026-09-04": 0.335,
-        "2026-09-07": 0.34,
-        "2026-09-08": 0.335,
-        "2026-09-10": 0.315,
-        "2026-09-11": 0.32,
-        "2026-09-14": 0.31,
-        "2026-10-24": 0.3
-      },
-      "latest_price": 0.3,
-      "return_pct": -11.76,
-      "last_snapshot": "2026-10-24"
-    },
-    {
-      "id": "CA|LMCU|2026-08-27|pandoff, jordan|10.6621",
-      "market": "CA",
-      "ticker": "LMCU",
-      "yf_symbol": "LMCU.TO",
-      "company": "Lumina Metals Corp.",
-      "insider_name": "Pandoff, Jordan",
-      "title": "Director & Senior Officer",
-      "trade_date": "2026-08-27",
-      "trade_price": 10.6621,
-      "value": 90627.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-27": 10.78,
-        "2026-08-28": 10.99,
-        "2026-08-31": 10.9,
-        "2026-09-01": 10.75,
-        "2026-09-02": 10.6,
-        "2026-09-03": 10.96,
-        "2026-09-04": 10.73,
-        "2026-09-07": 10.91,
-        "2026-09-08": 10.96,
-        "2026-09-10": 11.02,
-        "2026-09-11": 10.62,
-        "2026-09-14": 10.135,
-        "2026-10-24": 7.72
-      },
-      "latest_price": 7.72,
-      "return_pct": -27.59,
-      "last_snapshot": "2026-10-24"
-    },
-    {
-      "id": "CA|DGX|2026-08-28|dunn, robert|0.475",
-      "market": "CA",
-      "ticker": "DGX",
-      "yf_symbol": "DGX.NE",
-      "company": "Diagnos Inc",
-      "insider_name": "Dunn, Robert",
-      "title": "Director",
-      "trade_date": "2026-08-28",
-      "trade_price": 0.475,
-      "value": 49875.0,
-      "cluster_buy": true,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-28": 5.23,
-        "2026-08-31": 5.06,
-        "2026-09-01": 4.84,
-        "2026-09-02": 4.62,
-        "2026-09-03": 5.16,
-        "2026-09-04": 5.05,
-        "2026-09-07": 5.05,
-        "2026-09-08": 5.58,
-        "2026-09-10": 5.07,
-        "2026-09-11": 5.38,
-        "2026-09-14": 5.19,
-        "2026-10-24": 3.155
-      },
-      "latest_price": 3.155,
-      "return_pct": 564.21,
-      "last_snapshot": "2026-10-24"
-    },
-    {
-      "id": "CA|FRX|2026-08-28|andrade, robert christopher|5.1",
-      "market": "CA",
-      "ticker": "FRX",
-      "yf_symbol": "FRX.TO",
-      "company": "Fennec Pharmaceuticals Inc.",
-      "insider_name": "Andrade, Robert Christopher",
-      "title": "Senior Officer",
-      "trade_date": "2026-08-28",
-      "trade_price": 5.1,
-      "value": 111832.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-28": 17.0,
-        "2026-08-31": 17.0,
-        "2026-09-01": 17.0,
-        "2026-09-02": 17.0,
-        "2026-09-03": 17.29,
-        "2026-09-04": 17.29,
-        "2026-09-07": 17.42,
-        "2026-09-08": 17.1,
-        "2026-09-10": 17.1,
-        "2026-09-11": 17.1,
-        "2026-09-14": 17.1,
-        "2026-10-24": 14.76
-      },
-      "latest_price": 14.76,
-      "return_pct": 189.41,
-      "last_snapshot": "2026-10-24"
-    },
-    {
-      "id": "CA|APGO|2026-08-28|sutherland, colin|3.42",
-      "market": "CA",
-      "ticker": "APGO",
-      "yf_symbol": "APGO.V",
-      "company": "Apollo Silver Corp. formerly, Apollo Gold and Silver Corp.",
-      "insider_name": "Sutherland, Colin",
-      "title": "Senior Officer",
-      "trade_date": "2026-08-28",
-      "trade_price": 3.42,
-      "value": 34200.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-28": 3.28,
-        "2026-08-31": 3.15,
-        "2026-09-01": 3.18,
-        "2026-09-02": 3.22,
-        "2026-09-03": 3.24,
-        "2026-09-04": 3.16,
-        "2026-09-07": 3.18,
-        "2026-09-08": 3.16,
-        "2026-09-10": 3.15,
-        "2026-09-11": 3.74,
-        "2026-09-14": 3.65,
-        "2026-10-24": 1.95
-      },
-      "latest_price": 1.95,
-      "return_pct": -42.98,
-      "last_snapshot": "2026-10-24"
-    },
-    {
-      "id": "CA|NFI|2026-08-28|gray, adam l.|22.5452",
-      "market": "CA",
-      "ticker": "NFI",
-      "yf_symbol": "NFI.TO",
-      "company": "NFI Group Inc.",
-      "insider_name": "Gray, Adam L.",
-      "title": "Director",
-      "trade_date": "2026-08-28",
-      "trade_price": 22.5452,
-      "value": 922098.0,
-      "cluster_buy": false,
-      "currency": "CAD",
-      "snapshots": {
-        "2026-08-28": 22.55,
-        "2026-08-31": 23.35,
-        "2026-09-01": 23.275,
-        "2026-09-02": 23.17,
-        "2026-09-03": 23.92,
-        "2026-09-04": 24.34,
-        "2026-09-07": 24.3,
-        "2026-09-08": 23.745,
-        "2026-09-10": 23.51,
-        "2026-09-11": 23.78,
-        "2026-09-14": 23.37,
-        "2026-10-24": 25.0
-      },
-      "latest_price": 25.0,
-      "return_pct": 10.89,
-      "last_snapshot": "2026-10-24"
-    },
     {
       "id": "CA|AUMB|2026-08-31|heinrichs, shaun perin|0.88",
       "market": "CA",
@@ -648,11 +26,12 @@
         "2026-09-10": 0.81,
         "2026-09-11": 0.79,
         "2026-09-14": 0.75,
-        "2026-10-24": 0.58
+        "2026-10-24": 0.58,
+        "2026-10-29": 0.57
       },
-      "latest_price": 0.58,
-      "return_pct": -34.09,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.57,
+      "return_pct": -35.23,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|BMO|2026-08-31|cooper, diane louise|170.829",
@@ -678,11 +57,12 @@
         "2026-09-10": 239.01,
         "2026-09-11": 241.47,
         "2026-09-14": 244.13,
-        "2026-10-24": 236.87
+        "2026-10-24": 236.87,
+        "2026-10-29": 246.28
       },
-      "latest_price": 236.87,
-      "return_pct": 38.66,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 246.28,
+      "return_pct": 44.17,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|CLCH|2026-08-31|losito, david john|0.76",
@@ -708,11 +88,12 @@
         "2026-09-10": 1.075,
         "2026-09-11": 1.065,
         "2026-09-14": 1.04,
-        "2026-10-24": 1.02
+        "2026-10-24": 1.02,
+        "2026-10-29": 1.09
       },
-      "latest_price": 1.02,
-      "return_pct": 34.21,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 1.09,
+      "return_pct": 43.42,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|AFCG|2026-08-31|lobo, vernon|0.89",
@@ -756,11 +137,12 @@
         "2026-09-10": 0.77,
         "2026-09-11": 0.77,
         "2026-09-14": 0.77,
-        "2026-10-24": 0.62
+        "2026-10-24": 0.62,
+        "2026-10-29": 0.58
       },
-      "latest_price": 0.62,
-      "return_pct": -30.01,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.58,
+      "return_pct": -34.53,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|GHRT|2026-08-31|fennell, david|0.9",
@@ -786,11 +168,12 @@
         "2026-09-10": 0.77,
         "2026-09-11": 0.77,
         "2026-09-14": 0.77,
-        "2026-10-24": 0.62
+        "2026-10-24": 0.62,
+        "2026-10-29": 0.58
       },
-      "latest_price": 0.62,
-      "return_pct": -31.11,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.58,
+      "return_pct": -35.56,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SWP|2026-08-31|spur point capital inc.|7.37",
@@ -816,11 +199,12 @@
         "2026-09-10": 9.2,
         "2026-09-11": 9.16,
         "2026-09-14": 9.42,
-        "2026-10-24": 8.5
+        "2026-10-24": 8.5,
+        "2026-10-29": 8.72
       },
-      "latest_price": 8.5,
-      "return_pct": 15.33,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 8.72,
+      "return_pct": 18.32,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|UPPR|2026-09-01|dao, derrick|0.2",
@@ -845,11 +229,12 @@
         "2026-09-10": 0.15,
         "2026-09-11": 0.165,
         "2026-09-14": 0.16,
-        "2026-10-24": 0.12
+        "2026-10-24": 0.12,
+        "2026-10-29": 0.12
       },
       "latest_price": 0.12,
       "return_pct": -40.0,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|AUMB|2026-09-01|heinrichs, shaun perin|0.83",
@@ -874,11 +259,12 @@
         "2026-09-10": 0.81,
         "2026-09-11": 0.79,
         "2026-09-14": 0.75,
-        "2026-10-24": 0.58
+        "2026-10-24": 0.58,
+        "2026-10-29": 0.57
       },
-      "latest_price": 0.58,
-      "return_pct": -30.12,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.57,
+      "return_pct": -31.33,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|ARIC|2026-09-01|keshishian, ardem|0.78",
@@ -903,11 +289,12 @@
         "2026-09-10": 0.74,
         "2026-09-11": 0.76,
         "2026-09-14": 0.77,
-        "2026-10-24": 0.64
+        "2026-10-24": 0.64,
+        "2026-10-29": 0.67
       },
-      "latest_price": 0.64,
-      "return_pct": -17.95,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.67,
+      "return_pct": -14.1,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|EIT-UN|2026-09-01|lake, darcy|17.85",
@@ -932,11 +319,12 @@
         "2026-09-10": 17.59,
         "2026-09-11": 17.61,
         "2026-09-14": 17.66,
-        "2026-10-24": 17.72
+        "2026-10-24": 17.72,
+        "2026-10-29": 17.82
       },
-      "latest_price": 17.72,
-      "return_pct": -0.73,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 17.82,
+      "return_pct": -0.17,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|GHL|2026-09-01|sangha, steven|0.04",
@@ -961,11 +349,12 @@
         "2026-09-10": 0.05,
         "2026-09-11": 0.05,
         "2026-09-14": 0.05,
-        "2026-10-24": 0.06
+        "2026-10-24": 0.06,
+        "2026-10-29": 0.06
       },
       "latest_price": 0.06,
       "return_pct": 50.0,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|GHRT|2026-09-01|fennell, david|0.94",
@@ -990,11 +379,12 @@
         "2026-09-10": 0.77,
         "2026-09-11": 0.77,
         "2026-09-14": 0.77,
-        "2026-10-24": 0.62
+        "2026-10-24": 0.62,
+        "2026-10-29": 0.58
       },
-      "latest_price": 0.62,
-      "return_pct": -34.04,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.58,
+      "return_pct": -38.3,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|OM|2026-09-01|zaritsky, blair david|1.58",
@@ -1019,11 +409,12 @@
         "2026-09-10": 1.625,
         "2026-09-11": 1.75,
         "2026-09-14": 1.685,
-        "2026-10-24": 1.47
+        "2026-10-24": 1.47,
+        "2026-10-29": 1.46
       },
-      "latest_price": 1.47,
-      "return_pct": -6.96,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 1.46,
+      "return_pct": -7.59,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|STCK|2026-09-01|stack capital group inc.|17.42",
@@ -1048,11 +439,12 @@
         "2026-09-10": 17.86,
         "2026-09-11": 17.7,
         "2026-09-14": 17.6,
-        "2026-10-24": 15.4
+        "2026-10-24": 15.4,
+        "2026-10-29": 16.24
       },
-      "latest_price": 15.4,
-      "return_pct": -11.6,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 16.24,
+      "return_pct": -6.77,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|ZEN|2026-09-01|wallman, eric|0.72",
@@ -1077,11 +469,12 @@
         "2026-09-10": 0.71,
         "2026-09-11": 0.71,
         "2026-09-14": 0.74,
-        "2026-10-24": 0.57
+        "2026-10-24": 0.57,
+        "2026-10-29": 0.55
       },
-      "latest_price": 0.57,
-      "return_pct": -20.83,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.55,
+      "return_pct": -23.61,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|ARIC|2026-09-02|moreau, anthony|0.79",
@@ -1105,11 +498,12 @@
         "2026-09-10": 0.74,
         "2026-09-11": 0.76,
         "2026-09-14": 0.77,
-        "2026-10-24": 0.64
+        "2026-10-24": 0.64,
+        "2026-10-29": 0.67
       },
-      "latest_price": 0.64,
-      "return_pct": -18.99,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.67,
+      "return_pct": -15.19,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|EIF|2026-09-03|pyle, michael|116.927",
@@ -1132,11 +526,12 @@
         "2026-09-10": 119.48,
         "2026-09-11": 116.75,
         "2026-09-14": 116.64,
-        "2026-10-24": 112.6
+        "2026-10-24": 112.6,
+        "2026-10-29": 116.51
       },
-      "latest_price": 112.6,
-      "return_pct": -3.7,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 116.51,
+      "return_pct": -0.36,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|IGO|2026-09-03|gestion bouca inc|0.2",
@@ -1159,11 +554,12 @@
         "2026-09-10": 0.21,
         "2026-09-11": 0.19,
         "2026-09-14": 0.18,
-        "2026-10-24": 0.125
+        "2026-10-24": 0.125,
+        "2026-10-29": 0.125
       },
       "latest_price": 0.125,
       "return_pct": -37.5,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|OOR|2026-09-03|moore, jean-david|0.05",
@@ -1186,11 +582,12 @@
         "2026-09-10": 0.05,
         "2026-09-11": 0.05,
         "2026-09-14": 0.05,
-        "2026-10-24": 0.05
+        "2026-10-24": 0.05,
+        "2026-10-29": 0.05
       },
       "latest_price": 0.05,
       "return_pct": 0.0,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|OOR|2026-09-03|moore, jean-david|0.055",
@@ -1213,11 +610,12 @@
         "2026-09-10": 0.05,
         "2026-09-11": 0.05,
         "2026-09-14": 0.05,
-        "2026-10-24": 0.05
+        "2026-10-24": 0.05,
+        "2026-10-29": 0.05
       },
       "latest_price": 0.05,
       "return_pct": -9.09,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|RMES|2026-09-03|chow, andy tsz kong|0.0912",
@@ -1240,11 +638,12 @@
         "2026-09-10": 0.1,
         "2026-09-11": 0.12,
         "2026-09-14": 0.14,
-        "2026-10-24": 0.07
+        "2026-10-24": 0.07,
+        "2026-10-29": 0.08
       },
-      "latest_price": 0.07,
-      "return_pct": -23.25,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.08,
+      "return_pct": -12.28,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|RIO|2026-09-03|johnson, kathryn|3.52",
@@ -1267,11 +666,12 @@
         "2026-09-10": 3.56,
         "2026-09-11": 3.6,
         "2026-09-14": 3.575,
-        "2026-10-24": 2.63
+        "2026-10-24": 2.63,
+        "2026-10-29": 2.66
       },
-      "latest_price": 2.63,
-      "return_pct": -25.28,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 2.66,
+      "return_pct": -24.43,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|TCEC|2026-09-03|wonnacott, anthony john|0.135",
@@ -1294,11 +694,12 @@
         "2026-09-10": 0.125,
         "2026-09-11": 0.14,
         "2026-09-14": 0.14,
-        "2026-10-24": 0.13
+        "2026-10-24": 0.13,
+        "2026-10-29": 0.135
       },
-      "latest_price": 0.13,
-      "return_pct": -3.7,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.135,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SOIL|2026-09-03|jeffrey, john|6.4985",
@@ -1321,11 +722,12 @@
         "2026-09-10": 7.06,
         "2026-09-11": 7.02,
         "2026-09-14": 7.16,
-        "2026-10-24": 9.77
+        "2026-10-24": 9.77,
+        "2026-10-29": 9.36
       },
-      "latest_price": 9.77,
-      "return_pct": 50.34,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 9.36,
+      "return_pct": 44.03,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|MFI|2026-09-04|macdonald, andrew gordon|26.7819",
@@ -1347,11 +749,12 @@
         "2026-09-10": 26.41,
         "2026-09-11": 26.24,
         "2026-09-14": 26.61,
-        "2026-10-24": 26.29
+        "2026-10-24": 26.29,
+        "2026-10-29": 27.0
       },
-      "latest_price": 26.29,
-      "return_pct": -1.84,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 27.0,
+      "return_pct": 0.81,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SWP|2026-09-08|spur point capital inc.|8.26",
@@ -1371,11 +774,12 @@
         "2026-09-10": 9.2,
         "2026-09-11": 9.16,
         "2026-09-14": 9.42,
-        "2026-10-24": 8.5
+        "2026-10-24": 8.5,
+        "2026-10-29": 8.72
       },
-      "latest_price": 8.5,
-      "return_pct": 2.91,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 8.72,
+      "return_pct": 5.57,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|ATD|2026-09-08|boyko, \u00e9ric|80.335",
@@ -1395,11 +799,12 @@
         "2026-09-10": 80.08,
         "2026-09-11": 80.51,
         "2026-09-14": 82.22,
-        "2026-10-24": 83.33
+        "2026-10-24": 83.33,
+        "2026-10-29": 80.47
       },
-      "latest_price": 83.33,
-      "return_pct": 3.73,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 80.47,
+      "return_pct": 0.17,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SGML|2026-09-08|freire de paiva, marcelo|10.78",
@@ -1419,11 +824,12 @@
         "2026-09-10": 14.0,
         "2026-09-11": 13.69,
         "2026-09-14": 12.7,
-        "2026-10-24": 10.71
+        "2026-10-24": 10.71,
+        "2026-10-29": 10.66
       },
-      "latest_price": 10.71,
-      "return_pct": -0.65,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 10.66,
+      "return_pct": -1.11,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SGML|2026-09-08|freire de paiva, marcelo|10.85",
@@ -1443,11 +849,12 @@
         "2026-09-10": 14.0,
         "2026-09-11": 13.69,
         "2026-09-14": 12.7,
-        "2026-10-24": 10.71
+        "2026-10-24": 10.71,
+        "2026-10-29": 10.66
       },
-      "latest_price": 10.71,
-      "return_pct": -1.29,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 10.66,
+      "return_pct": -1.75,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SCRI|2026-09-08|bures, peter|39.5",
@@ -1467,11 +874,12 @@
         "2026-09-10": 37.05,
         "2026-09-11": 35.25,
         "2026-09-14": 35.35,
-        "2026-10-24": 35.0
+        "2026-10-24": 35.0,
+        "2026-10-29": 40.5
       },
-      "latest_price": 35.0,
-      "return_pct": -11.39,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 40.5,
+      "return_pct": 2.53,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SWP|2026-09-08|vendramin, mark stephen|8.26",
@@ -1491,11 +899,12 @@
         "2026-09-10": 9.2,
         "2026-09-11": 9.16,
         "2026-09-14": 9.42,
-        "2026-10-24": 8.5
+        "2026-10-24": 8.5,
+        "2026-10-29": 8.72
       },
-      "latest_price": 8.5,
-      "return_pct": 2.91,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 8.72,
+      "return_pct": 5.57,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|ZAU|2026-09-08|richards, brett allan|0.3117",
@@ -1515,11 +924,12 @@
         "2026-09-10": 0.31,
         "2026-09-11": 0.31,
         "2026-09-14": 0.305,
-        "2026-10-24": 0.3
+        "2026-10-24": 0.3,
+        "2026-10-29": 0.27
       },
-      "latest_price": 0.3,
-      "return_pct": -3.75,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.27,
+      "return_pct": -13.38,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|AIF|2026-09-08|brennan, william|46.8835",
@@ -1539,11 +949,12 @@
         "2026-09-10": 44.6,
         "2026-09-11": 45.305,
         "2026-09-14": 45.99,
-        "2026-10-24": 50.35
+        "2026-10-24": 50.35,
+        "2026-10-29": 50.26
       },
-      "latest_price": 50.35,
-      "return_pct": 7.39,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 50.26,
+      "return_pct": 7.2,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|AIF|2026-09-09|brennan, william|45.7943",
@@ -1562,11 +973,12 @@
         "2026-09-10": 44.6,
         "2026-09-11": 45.305,
         "2026-09-14": 45.99,
-        "2026-10-24": 50.35
+        "2026-10-24": 50.35,
+        "2026-10-29": 50.26
       },
-      "latest_price": 50.35,
-      "return_pct": 9.95,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 50.26,
+      "return_pct": 9.75,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|CGD|2026-09-09|everett, calvin clovis|1.61",
@@ -1585,11 +997,12 @@
         "2026-09-10": 1.75,
         "2026-09-11": 1.74,
         "2026-09-14": 1.75,
-        "2026-10-24": 1.3
+        "2026-10-24": 1.3,
+        "2026-10-29": 1.26
       },
-      "latest_price": 1.3,
-      "return_pct": -19.25,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 1.26,
+      "return_pct": -21.74,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|OC|2026-09-09|lotan holdings inc.|0.12",
@@ -1608,11 +1021,12 @@
         "2026-09-10": 0.125,
         "2026-09-11": 0.12,
         "2026-09-14": 0.12,
-        "2026-10-24": 0.11
+        "2026-10-24": 0.11,
+        "2026-10-29": 0.105
       },
-      "latest_price": 0.11,
-      "return_pct": -8.33,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.105,
+      "return_pct": -12.5,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|PSIL.CN|2026-09-09|anthony, todd|1.21",
@@ -1631,11 +1045,12 @@
         "2026-09-10": 1.22,
         "2026-09-11": 1.2,
         "2026-09-14": 1.12,
-        "2026-10-24": 0.8
+        "2026-10-24": 0.8,
+        "2026-10-29": 0.8
       },
       "latest_price": 0.8,
       "return_pct": -33.88,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|AP-UN|2026-09-09|parkit enterprise inc.|6.65",
@@ -1654,11 +1069,12 @@
         "2026-09-10": 8.1,
         "2026-09-11": 8.03,
         "2026-09-14": 8.11,
-        "2026-10-24": 5.61
+        "2026-10-24": 5.61,
+        "2026-10-29": 4.32
       },
-      "latest_price": 5.61,
-      "return_pct": -15.64,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 4.32,
+      "return_pct": -35.04,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|STCK|2026-09-09|stack capital group inc.|17.315",
@@ -1677,11 +1093,12 @@
         "2026-09-10": 17.86,
         "2026-09-11": 17.7,
         "2026-09-14": 17.6,
-        "2026-10-24": 15.4
+        "2026-10-24": 15.4,
+        "2026-10-29": 16.24
       },
-      "latest_price": 15.4,
-      "return_pct": -11.06,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 16.24,
+      "return_pct": -6.21,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SUGR|2026-09-09|beta san miguel, s.a. de c.v.|9.63",
@@ -1700,11 +1117,12 @@
         "2026-09-10": 10.25,
         "2026-09-11": 9.37,
         "2026-09-14": 9.07,
-        "2026-10-24": 10.55
+        "2026-10-24": 10.55,
+        "2026-10-29": 8.99
       },
-      "latest_price": 10.55,
-      "return_pct": 9.55,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 8.99,
+      "return_pct": -6.65,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|VITL-UN|2026-09-09|kolter capital nwh llc|5.1974",
@@ -1723,11 +1141,12 @@
         "2026-09-10": 5.2,
         "2026-09-11": 5.2,
         "2026-09-14": 5.275,
-        "2026-10-24": 5.17
+        "2026-10-24": 5.17,
+        "2026-10-29": 4.71
       },
-      "latest_price": 5.17,
-      "return_pct": -0.53,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 4.71,
+      "return_pct": -9.38,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|AGF-B|2026-09-10|agf employee benefit plan trust|19.93",
@@ -1746,11 +1165,12 @@
         "2026-09-10": 19.89,
         "2026-09-11": 20.225,
         "2026-09-14": 19.98,
-        "2026-10-24": 14.75
+        "2026-10-24": 14.75,
+        "2026-10-29": 14.65
       },
-      "latest_price": 14.75,
-      "return_pct": -25.99,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 14.65,
+      "return_pct": -26.49,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|APGO|2026-09-10|bowering, andrew william|3.51",
@@ -1769,11 +1189,12 @@
         "2026-09-10": 3.55,
         "2026-09-11": 3.74,
         "2026-09-14": 3.65,
-        "2026-10-24": 1.95
+        "2026-10-24": 1.95,
+        "2026-10-29": 1.85
       },
-      "latest_price": 1.95,
-      "return_pct": -44.44,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 1.85,
+      "return_pct": -47.29,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|KRY|2026-09-10|daun, heye edmund|3.7074",
@@ -1792,11 +1213,12 @@
         "2026-09-10": 3.53,
         "2026-09-11": 3.57,
         "2026-09-14": 3.405,
-        "2026-10-24": 2.97
+        "2026-10-24": 2.97,
+        "2026-10-29": 3.09
       },
-      "latest_price": 2.97,
-      "return_pct": -19.89,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 3.09,
+      "return_pct": -16.65,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|LIFT|2026-09-10|langer, alexander|2.3",
@@ -1815,11 +1237,12 @@
         "2026-09-10": 2.32,
         "2026-09-11": 2.55,
         "2026-09-14": 2.37,
-        "2026-10-24": 1.47
+        "2026-10-24": 1.47,
+        "2026-10-29": 1.56
       },
-      "latest_price": 1.47,
-      "return_pct": -36.09,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 1.56,
+      "return_pct": -32.17,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|NCF|2026-09-10|ing, andrew ga-yee|0.39",
@@ -1838,11 +1261,12 @@
         "2026-09-10": 0.405,
         "2026-09-11": 0.4,
         "2026-09-14": 0.43,
-        "2026-10-24": 0.28
+        "2026-10-24": 0.28,
+        "2026-10-29": 0.285
       },
-      "latest_price": 0.28,
-      "return_pct": -28.21,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.285,
+      "return_pct": -26.92,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|PCU|2026-09-10|matysek, paul frank|1.6",
@@ -1861,11 +1285,12 @@
         "2026-09-10": 1.58,
         "2026-09-11": 1.61,
         "2026-09-14": 1.57,
-        "2026-10-24": 1.85
+        "2026-10-24": 1.85,
+        "2026-10-29": 1.83
       },
-      "latest_price": 1.85,
-      "return_pct": 15.62,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 1.83,
+      "return_pct": 14.37,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|AIF|2026-09-10|brennan, william|43.8035",
@@ -1884,11 +1309,12 @@
         "2026-09-10": 44.07,
         "2026-09-11": 45.305,
         "2026-09-14": 45.99,
-        "2026-10-24": 50.35
+        "2026-10-24": 50.35,
+        "2026-10-29": 50.26
       },
-      "latest_price": 50.35,
-      "return_pct": 14.95,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 50.26,
+      "return_pct": 14.74,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|OC|2026-09-10|lotan holdings inc.|0.12",
@@ -1907,11 +1333,12 @@
         "2026-09-10": 0.12,
         "2026-09-11": 0.12,
         "2026-09-14": 0.12,
-        "2026-10-24": 0.11
+        "2026-10-24": 0.11,
+        "2026-10-29": 0.105
       },
-      "latest_price": 0.11,
-      "return_pct": -8.33,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.105,
+      "return_pct": -12.5,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SEND|2026-09-10|gillis, jeremy|0.74",
@@ -1930,11 +1357,12 @@
         "2026-09-10": 0.7,
         "2026-09-11": 0.72,
         "2026-09-14": 0.77,
-        "2026-10-24": 0.6
+        "2026-10-24": 0.6,
+        "2026-10-29": 0.61
       },
-      "latest_price": 0.6,
-      "return_pct": -18.92,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.61,
+      "return_pct": -17.57,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|LTH|2026-09-11|westendorf, michael thomas|0.66",
@@ -1952,11 +1380,12 @@
       "snapshots": {
         "2026-09-11": 0.65,
         "2026-09-14": 0.62,
-        "2026-10-24": 0.44
+        "2026-10-24": 0.44,
+        "2026-10-29": 0.4
       },
-      "latest_price": 0.44,
-      "return_pct": -33.33,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.4,
+      "return_pct": -39.39,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|TOU|2026-09-11|rose, mike|61.4548",
@@ -1974,11 +1403,12 @@
       "snapshots": {
         "2026-09-11": 61.19,
         "2026-09-14": 63.18,
-        "2026-10-24": 66.5
+        "2026-10-24": 66.5,
+        "2026-10-29": 68.0
       },
-      "latest_price": 66.5,
-      "return_pct": 8.21,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 68.0,
+      "return_pct": 10.65,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|AVU|2026-09-11|brown, mark thomas|0.04",
@@ -1996,11 +1426,12 @@
       "snapshots": {
         "2026-09-11": 0.04,
         "2026-09-14": 0.04,
-        "2026-10-24": 0.02
+        "2026-10-24": 0.02,
+        "2026-10-29": 0.025
       },
-      "latest_price": 0.02,
-      "return_pct": -50.0,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.025,
+      "return_pct": -37.5,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|GAU|2026-09-11|wright, paul nicholas|3.0",
@@ -2018,11 +1449,12 @@
       "snapshots": {
         "2026-09-11": 2.99,
         "2026-09-14": 2.88,
-        "2026-10-24": 2.82
+        "2026-10-24": 2.82,
+        "2026-10-29": 2.87
       },
-      "latest_price": 2.82,
-      "return_pct": -6.0,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 2.87,
+      "return_pct": -4.33,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|LTNG|2026-09-11|carpenter, robert leslie|0.4",
@@ -2040,11 +1472,12 @@
       "snapshots": {
         "2026-09-11": 0.38,
         "2026-09-14": 0.38,
-        "2026-10-24": 0.255
+        "2026-10-24": 0.255,
+        "2026-10-29": 0.25
       },
-      "latest_price": 0.255,
-      "return_pct": -36.25,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.25,
+      "return_pct": -37.5,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|MRZ|2026-09-11|pountney, glenn|0.32",
@@ -2062,11 +1495,12 @@
       "snapshots": {
         "2026-09-11": 0.32,
         "2026-09-14": 0.31,
-        "2026-10-24": 0.3
+        "2026-10-24": 0.3,
+        "2026-10-29": 0.3
       },
       "latest_price": 0.3,
       "return_pct": -6.25,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|AP-UN|2026-09-11|parkit enterprise inc.|6.6348",
@@ -2084,11 +1518,12 @@
       "snapshots": {
         "2026-09-11": 8.08,
         "2026-09-14": 8.11,
-        "2026-10-24": 5.61
+        "2026-10-24": 5.61,
+        "2026-10-29": 4.32
       },
-      "latest_price": 5.61,
-      "return_pct": -15.45,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 4.32,
+      "return_pct": -34.89,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SCRI|2026-09-11|bures, peter|36.0",
@@ -2106,11 +1541,12 @@
       "snapshots": {
         "2026-09-11": 35.0,
         "2026-09-14": 35.35,
-        "2026-10-24": 35.0
+        "2026-10-24": 35.0,
+        "2026-10-29": 40.5
       },
-      "latest_price": 35.0,
-      "return_pct": -2.78,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 40.5,
+      "return_pct": 12.5,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SWP|2026-09-11|spur point capital inc.|9.03",
@@ -2128,11 +1564,12 @@
       "snapshots": {
         "2026-09-11": 9.49,
         "2026-09-14": 9.42,
-        "2026-10-24": 8.5
+        "2026-10-24": 8.5,
+        "2026-10-29": 8.72
       },
-      "latest_price": 8.5,
-      "return_pct": -5.87,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 8.72,
+      "return_pct": -3.43,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|TLA|2026-09-11|morrison, robert john|0.52",
@@ -2150,11 +1587,12 @@
       "snapshots": {
         "2026-09-11": 0.52,
         "2026-09-14": 0.52,
-        "2026-10-24": 0.46
+        "2026-10-24": 0.46,
+        "2026-10-29": 0.46
       },
       "latest_price": 0.46,
       "return_pct": -11.54,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|BYD|2026-09-14|brown, david g.|126.2357",
@@ -2171,11 +1609,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-09-14": 126.92,
-        "2026-10-24": 114.39
+        "2026-10-24": 114.39,
+        "2026-10-29": 116.36
       },
-      "latest_price": 114.39,
-      "return_pct": -9.38,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 116.36,
+      "return_pct": -7.82,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|GTC|2026-09-14|funk, charles walter|1.0",
@@ -2192,11 +1631,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-09-14": 1.01,
-        "2026-10-24": 0.59
+        "2026-10-24": 0.59,
+        "2026-10-29": 0.54
       },
-      "latest_price": 0.59,
-      "return_pct": -41.0,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.54,
+      "return_pct": -46.0,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|PSIL.CN|2026-09-14|anthony, todd|1.13",
@@ -2213,11 +1653,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-09-14": 1.12,
-        "2026-10-24": 0.8
+        "2026-10-24": 0.8,
+        "2026-10-29": 0.8
       },
       "latest_price": 0.8,
       "return_pct": -29.2,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SWP|2026-09-14|spur point capital inc.|9.1",
@@ -2234,11 +1675,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-09-14": 9.52,
-        "2026-10-24": 8.5
+        "2026-10-24": 8.5,
+        "2026-10-29": 8.72
       },
-      "latest_price": 8.5,
-      "return_pct": -6.59,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 8.72,
+      "return_pct": -4.18,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SWP|2026-09-14|spur point capital inc.|9.52",
@@ -2255,11 +1697,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-09-14": 9.52,
-        "2026-10-24": 8.5
+        "2026-10-24": 8.5,
+        "2026-10-29": 8.72
       },
-      "latest_price": 8.5,
-      "return_pct": -10.71,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 8.72,
+      "return_pct": -8.4,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SWP|2026-09-14|vendramin, mark stephen|9.1",
@@ -2276,11 +1719,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-09-14": 9.52,
-        "2026-10-24": 8.5
+        "2026-10-24": 8.5,
+        "2026-10-29": 8.72
       },
-      "latest_price": 8.5,
-      "return_pct": -6.59,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 8.72,
+      "return_pct": -4.18,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SWP|2026-09-14|vendramin, mark stephen|9.52",
@@ -2297,11 +1741,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-09-14": 9.52,
-        "2026-10-24": 8.5
+        "2026-10-24": 8.5,
+        "2026-10-29": 8.72
       },
-      "latest_price": 8.5,
-      "return_pct": -10.71,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 8.72,
+      "return_pct": -8.4,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SOU|2026-09-14|swanberg, dean sylvan|0.07",
@@ -2318,11 +1763,12 @@
       "currency": "CAD",
       "snapshots": {
         "2026-09-14": 0.07,
-        "2026-10-24": 0.08
+        "2026-10-24": 0.08,
+        "2026-10-29": 0.07
       },
-      "latest_price": 0.08,
-      "return_pct": 14.29,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.07,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|AZS|2026-10-19|stark, michael|0.52",
@@ -2338,11 +1784,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.51
+        "2026-10-24": 0.51,
+        "2026-10-29": 0.55
       },
-      "latest_price": 0.51,
-      "return_pct": -1.92,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.55,
+      "return_pct": 5.77,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|ACQ|2026-10-19|antony, paul|27.1294",
@@ -2358,11 +1805,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 28.81
+        "2026-10-24": 28.81,
+        "2026-10-29": 29.74
       },
-      "latest_price": 28.81,
-      "return_pct": 6.19,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 29.74,
+      "return_pct": 9.62,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|NBRK|2026-10-19|quigley, ross|0.2",
@@ -2378,11 +1826,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.195
+        "2026-10-24": 0.195,
+        "2026-10-29": 0.185
       },
-      "latest_price": 0.195,
-      "return_pct": -2.5,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.185,
+      "return_pct": -7.5,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|GASX|2026-10-19|hill, keith charles|0.7257",
@@ -2398,11 +1847,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 1.01
+        "2026-10-24": 1.01,
+        "2026-10-29": 0.96
       },
-      "latest_price": 1.01,
-      "return_pct": 39.18,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.96,
+      "return_pct": 32.29,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|GASX|2026-10-19|hill, keith charles|0.7192",
@@ -2418,11 +1868,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 1.01
+        "2026-10-24": 1.01,
+        "2026-10-29": 0.96
       },
-      "latest_price": 1.01,
-      "return_pct": 40.43,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.96,
+      "return_pct": 33.48,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|PPP|2026-10-19|b2gold corp.|0.7709",
@@ -2438,11 +1889,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.65
+        "2026-10-24": 0.65,
+        "2026-10-29": 0.66
       },
-      "latest_price": 0.65,
-      "return_pct": -15.68,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.66,
+      "return_pct": -14.39,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SICO|2026-10-19|sorensen, timothy gerald|8.5672",
@@ -2458,11 +1910,12 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 7.83
+        "2026-10-24": 7.83,
+        "2026-10-29": 7.83
       },
       "latest_price": 7.83,
       "return_pct": -8.6,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|STCK|2026-10-19|stack capital group inc.|16.0193",
@@ -2478,11 +1931,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 15.4
+        "2026-10-24": 15.4,
+        "2026-10-29": 16.24
       },
-      "latest_price": 15.4,
-      "return_pct": -3.87,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 16.24,
+      "return_pct": 1.38,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|TAO|2026-10-19|urch, douglas charles|0.044",
@@ -2498,11 +1952,12 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.04
+        "2026-10-24": 0.04,
+        "2026-10-29": 0.045
       },
-      "latest_price": 0.04,
-      "return_pct": -9.09,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.045,
+      "return_pct": 2.27,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|TLO|2026-10-19|lundin, jack oliver|8.0495",
@@ -2518,11 +1973,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 7.4
+        "2026-10-24": 7.4,
+        "2026-10-29": 7.75
       },
-      "latest_price": 7.4,
-      "return_pct": -8.07,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 7.75,
+      "return_pct": -3.72,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|VMET|2026-10-19|tether international, s.a. de c.v.|8.4668",
@@ -2538,11 +1994,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 11.53
+        "2026-10-24": 11.53,
+        "2026-10-29": 12.22
       },
-      "latest_price": 11.53,
-      "return_pct": 36.18,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 12.22,
+      "return_pct": 44.33,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|YTY|2026-10-19|amarin, souheir|0.1155",
@@ -2558,11 +2015,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.115
+        "2026-10-24": 0.115,
+        "2026-10-29": 0.125
       },
-      "latest_price": 0.115,
-      "return_pct": -0.43,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.125,
+      "return_pct": 8.23,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|CBR|2026-10-20|gendall, ian|1.33",
@@ -2578,11 +2036,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 1.15
+        "2026-10-24": 1.15,
+        "2026-10-29": 1.15
       },
       "latest_price": 1.15,
       "return_pct": -13.53,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|CGM|2026-10-20|booth, john geoffrey|0.15",
@@ -2598,11 +2057,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.18
+        "2026-10-24": 0.18,
+        "2026-10-29": 0.18
       },
       "latest_price": 0.18,
       "return_pct": 20.0,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|CDA|2026-10-20|berlet, christopher james|0.895",
@@ -2618,11 +2078,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.8
+        "2026-10-24": 0.8,
+        "2026-10-29": 0.87
       },
-      "latest_price": 0.8,
-      "return_pct": -10.61,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.87,
+      "return_pct": -2.79,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|CHLT|2026-10-20|castanho, michael|5.9",
@@ -2638,11 +2099,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 6.21
+        "2026-10-24": 6.21,
+        "2026-10-29": 6.4
       },
-      "latest_price": 6.21,
-      "return_pct": 5.25,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 6.4,
+      "return_pct": 8.47,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|AUXX|2026-10-20|hickey, kyle jonathan|6.05",
@@ -2658,11 +2120,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 5.69
+        "2026-10-24": 5.69,
+        "2026-10-29": 5.59
       },
-      "latest_price": 5.69,
-      "return_pct": -5.95,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 5.59,
+      "return_pct": -7.6,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|KLDC|2026-10-20|sklepowicz, stefan marek|0.315",
@@ -2678,11 +2141,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.285
+        "2026-10-24": 0.285,
+        "2026-10-29": 0.3
       },
-      "latest_price": 0.285,
-      "return_pct": -9.52,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.3,
+      "return_pct": -4.76,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|MTA|2026-10-20|heath, brett|7.84",
@@ -2698,11 +2162,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 10.15
+        "2026-10-24": 10.15,
+        "2026-10-29": 10.82
       },
-      "latest_price": 10.15,
-      "return_pct": 29.46,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 10.82,
+      "return_pct": 38.01,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|MSV|2026-10-20|tang, meng (maria)|0.23",
@@ -2718,11 +2183,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.52
+        "2026-10-24": 0.52,
+        "2026-10-29": 0.54
       },
-      "latest_price": 0.52,
-      "return_pct": 126.09,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.54,
+      "return_pct": 134.78,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|GASX|2026-10-20|hill, keith charles|0.7457",
@@ -2738,11 +2204,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 1.01
+        "2026-10-24": 1.01,
+        "2026-10-29": 0.96
       },
-      "latest_price": 1.01,
-      "return_pct": 35.44,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.96,
+      "return_pct": 28.74,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|OBUL|2026-10-20|rab capital holdings limited|0.44",
@@ -2758,11 +2225,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.42
+        "2026-10-24": 0.42,
+        "2026-10-29": 0.38
       },
-      "latest_price": 0.42,
-      "return_pct": -4.55,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.38,
+      "return_pct": -13.64,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|PCRX|2026-10-20|brownell, kenneth alva|0.4189",
@@ -2778,11 +2246,12 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.4
+        "2026-10-24": 0.4,
+        "2026-10-29": 0.41
       },
-      "latest_price": 0.4,
-      "return_pct": -4.51,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.41,
+      "return_pct": -2.12,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|PCRX|2026-10-20|simpson, alan arthur|0.4144",
@@ -2798,11 +2267,12 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.4
+        "2026-10-24": 0.4,
+        "2026-10-29": 0.41
       },
-      "latest_price": 0.4,
-      "return_pct": -3.47,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.41,
+      "return_pct": -1.06,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|PINN|2026-10-20|michael kott|0.09",
@@ -2818,11 +2288,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.08
+        "2026-10-24": 0.08,
+        "2026-10-29": 0.085
       },
-      "latest_price": 0.08,
-      "return_pct": -11.11,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.085,
+      "return_pct": -5.56,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|STCK|2026-10-20|stack capital group inc.|16.21",
@@ -2838,11 +2309,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 15.4
+        "2026-10-24": 15.4,
+        "2026-10-29": 16.24
       },
-      "latest_price": 15.4,
-      "return_pct": -5.0,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 16.24,
+      "return_pct": 0.19,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|VMET|2026-10-20|tether international, s.a. de c.v.|8.4564",
@@ -2858,11 +2330,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 11.53
+        "2026-10-24": 11.53,
+        "2026-10-29": 12.22
       },
-      "latest_price": 11.53,
-      "return_pct": 36.35,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 12.22,
+      "return_pct": 44.51,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|VCG|2026-10-20|jennings, ross|1.1014",
@@ -2878,11 +2351,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 1.21
+        "2026-10-24": 1.21,
+        "2026-10-29": 1.2
       },
-      "latest_price": 1.21,
-      "return_pct": 9.86,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 1.2,
+      "return_pct": 8.95,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|XGC|2026-10-20|freeze, joanne|0.195",
@@ -2898,11 +2372,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.2
+        "2026-10-24": 0.2,
+        "2026-10-29": 0.19
       },
-      "latest_price": 0.2,
-      "return_pct": 2.56,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.19,
+      "return_pct": -2.56,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|YRB|2026-10-20|kocisko, terry|0.05",
@@ -2918,11 +2393,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.05
+        "2026-10-24": 0.05,
+        "2026-10-29": 0.045
       },
-      "latest_price": 0.05,
-      "return_pct": 0.0,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.045,
+      "return_pct": -10.0,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|CGD|2026-10-21|everett, calvin clovis|1.3",
@@ -2938,11 +2414,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 1.3
+        "2026-10-24": 1.3,
+        "2026-10-29": 1.26
       },
-      "latest_price": 1.3,
-      "return_pct": 0.0,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 1.26,
+      "return_pct": -3.08,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|EVR|2026-10-21|cardin-tremblay, vincent|2.78",
@@ -2958,11 +2435,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 2.8
+        "2026-10-24": 2.8,
+        "2026-10-29": 2.95
       },
-      "latest_price": 2.8,
-      "return_pct": 0.72,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 2.95,
+      "return_pct": 6.12,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|AUXX|2026-10-21|hickey, kyle jonathan|6.05",
@@ -2978,11 +2456,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 5.69
+        "2026-10-24": 5.69,
+        "2026-10-29": 5.59
       },
-      "latest_price": 5.69,
-      "return_pct": -5.95,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 5.59,
+      "return_pct": -7.6,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|GRB|2026-10-21|sutherland, william robert|0.5662",
@@ -2998,11 +2477,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.6
+        "2026-10-24": 0.6,
+        "2026-10-29": 0.59
       },
-      "latest_price": 0.6,
-      "return_pct": 5.97,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.59,
+      "return_pct": 4.2,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|HPL|2026-10-21|williams, trevor|0.3",
@@ -3018,11 +2498,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.29
+        "2026-10-24": 0.29,
+        "2026-10-29": 0.29
       },
       "latest_price": 0.29,
       "return_pct": -3.33,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|OC|2026-10-21|lotan holdings inc.|0.11",
@@ -3038,11 +2519,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.11
+        "2026-10-24": 0.11,
+        "2026-10-29": 0.105
       },
-      "latest_price": 0.11,
-      "return_pct": 0.0,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.105,
+      "return_pct": -4.55,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SICO|2026-10-21|harvey, nicolas|8.45",
@@ -3058,11 +2540,12 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 7.83
+        "2026-10-24": 7.83,
+        "2026-10-29": 7.83
       },
       "latest_price": 7.83,
       "return_pct": -7.34,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|STCK|2026-10-21|stack capital group inc.|16.2",
@@ -3078,11 +2561,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 15.4
+        "2026-10-24": 15.4,
+        "2026-10-29": 16.24
       },
-      "latest_price": 15.4,
-      "return_pct": -4.94,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 16.24,
+      "return_pct": 0.25,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|TGOL|2026-10-21|strashin, elliot|0.13",
@@ -3098,11 +2582,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.13
+        "2026-10-24": 0.13,
+        "2026-10-29": 0.14
       },
-      "latest_price": 0.13,
-      "return_pct": 0.0,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.14,
+      "return_pct": 7.69,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|TTS|2026-10-21|dufresne, claude|2.29",
@@ -3118,11 +2603,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 2.17
+        "2026-10-24": 2.17,
+        "2026-10-29": 1.99
       },
-      "latest_price": 2.17,
-      "return_pct": -5.24,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 1.99,
+      "return_pct": -13.1,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|VMET|2026-10-21|tether international, s.a. de c.v.|8.4522",
@@ -3138,11 +2624,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 11.53
+        "2026-10-24": 11.53,
+        "2026-10-29": 12.22
       },
-      "latest_price": 11.53,
-      "return_pct": 36.41,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 12.22,
+      "return_pct": 44.58,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|GMIN|2026-10-22|lafleur, julie|40.5",
@@ -3158,11 +2645,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 41.55
+        "2026-10-24": 41.55,
+        "2026-10-29": 41.11
       },
-      "latest_price": 41.55,
-      "return_pct": 2.59,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 41.11,
+      "return_pct": 1.51,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|HC|2026-10-22|moncrief, kyle|0.092",
@@ -3178,11 +2666,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.095
+        "2026-10-24": 0.095,
+        "2026-10-29": 0.09
       },
-      "latest_price": 0.095,
-      "return_pct": 3.26,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.09,
+      "return_pct": -2.17,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|JUNO|2026-10-22|scharfe, hunter nixon|0.8",
@@ -3198,11 +2687,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.83
+        "2026-10-24": 0.83,
+        "2026-10-29": 0.9
       },
-      "latest_price": 0.83,
-      "return_pct": 3.75,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.9,
+      "return_pct": 12.5,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|JUNO|2026-10-22|scharfe, hunter nixon|0.83",
@@ -3218,11 +2708,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.83
+        "2026-10-24": 0.83,
+        "2026-10-29": 0.9
       },
-      "latest_price": 0.83,
-      "return_pct": 0.0,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.9,
+      "return_pct": 8.43,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|JUNO|2026-10-22|scharfe, hunter nixon|0.825",
@@ -3238,11 +2729,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.83
+        "2026-10-24": 0.83,
+        "2026-10-29": 0.9
       },
-      "latest_price": 0.83,
-      "return_pct": 0.61,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.9,
+      "return_pct": 9.09,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|MKO|2026-10-22|leisman, akiba jacob issachar|11.35",
@@ -3258,11 +2750,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 11.2
+        "2026-10-24": 11.2,
+        "2026-10-29": 10.95
       },
-      "latest_price": 11.2,
-      "return_pct": -1.32,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 10.95,
+      "return_pct": -3.52,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|NAU|2026-10-22|hay, morgan|0.6",
@@ -3278,11 +2771,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.64
+        "2026-10-24": 0.64,
+        "2026-10-29": 0.6
       },
-      "latest_price": 0.64,
-      "return_pct": 6.67,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.6,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|STCK|2026-10-22|stack capital group inc.|15.8625",
@@ -3298,11 +2792,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 15.4
+        "2026-10-24": 15.4,
+        "2026-10-29": 16.24
       },
-      "latest_price": 15.4,
-      "return_pct": -2.92,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 16.24,
+      "return_pct": 2.38,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|PEAK|2026-10-22|awram, david|0.36",
@@ -3318,11 +2813,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.345
+        "2026-10-24": 0.345,
+        "2026-10-29": 0.345
       },
       "latest_price": 0.345,
       "return_pct": -4.17,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|TAO|2026-10-22|badwi, abdel fattah|0.045",
@@ -3338,11 +2834,12 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.04
+        "2026-10-24": 0.04,
+        "2026-10-29": 0.045
       },
-      "latest_price": 0.04,
-      "return_pct": -11.11,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.045,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|TLO|2026-10-22|lundin, jack oliver|7.53",
@@ -3358,11 +2855,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 7.4
+        "2026-10-24": 7.4,
+        "2026-10-29": 7.75
       },
-      "latest_price": 7.4,
-      "return_pct": -1.73,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 7.75,
+      "return_pct": 2.92,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|VMET|2026-10-22|tether international, s.a. de c.v.|8.1522",
@@ -3378,11 +2876,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 11.53
+        "2026-10-24": 11.53,
+        "2026-10-29": 12.22
       },
-      "latest_price": 11.53,
-      "return_pct": 41.43,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 12.22,
+      "return_pct": 49.9,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|ZAU|2026-10-22|richards, brett allan|0.3351",
@@ -3398,11 +2897,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.3
+        "2026-10-24": 0.3,
+        "2026-10-29": 0.27
       },
-      "latest_price": 0.3,
-      "return_pct": -10.47,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.27,
+      "return_pct": -19.43,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|ONE|2026-10-23|kilborn, jeffrey keith|0.49",
@@ -3418,11 +2918,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.5
+        "2026-10-24": 0.5,
+        "2026-10-29": 0.49
       },
-      "latest_price": 0.5,
-      "return_pct": 2.04,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.49,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|AZEM|2026-10-23|reid, paul gregory|0.68",
@@ -3438,11 +2939,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.73
+        "2026-10-24": 0.73,
+        "2026-10-29": 0.66
       },
-      "latest_price": 0.73,
-      "return_pct": 7.35,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.66,
+      "return_pct": -2.94,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|CAMB|2026-10-23|mcleod, robert john|0.669",
@@ -3458,11 +2960,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.68
+        "2026-10-24": 0.68,
+        "2026-10-29": 0.68
       },
       "latest_price": 0.68,
       "return_pct": 1.64,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|EIT-UN|2026-10-23|chernoff, m. bruce|17.7356",
@@ -3478,11 +2981,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 17.72
+        "2026-10-24": 17.72,
+        "2026-10-29": 17.82
       },
-      "latest_price": 17.72,
-      "return_pct": -0.09,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 17.82,
+      "return_pct": 0.48,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|GRGD|2026-10-23|janowski, andy|3.74",
@@ -3498,11 +3002,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 58.85
+        "2026-10-24": 58.85,
+        "2026-10-29": 59.29
       },
-      "latest_price": 58.85,
-      "return_pct": 1473.53,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 59.29,
+      "return_pct": 1485.29,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|STCK|2026-10-23|stack capital group inc.|15.4825",
@@ -3518,11 +3023,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 15.4
+        "2026-10-24": 15.4,
+        "2026-10-29": 16.24
       },
-      "latest_price": 15.4,
-      "return_pct": -0.53,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 16.24,
+      "return_pct": 4.89,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|TLO|2026-10-23|lundin, jack oliver|7.45",
@@ -3538,11 +3044,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 7.4
+        "2026-10-24": 7.4,
+        "2026-10-29": 7.75
       },
-      "latest_price": 7.4,
-      "return_pct": -0.67,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 7.75,
+      "return_pct": 4.03,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|VMET|2026-10-23|tether international, s.a. de c.v.|8.2545",
@@ -3558,11 +3065,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 11.53
+        "2026-10-24": 11.53,
+        "2026-10-29": 12.22
       },
-      "latest_price": 11.53,
-      "return_pct": 39.68,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 12.22,
+      "return_pct": 48.04,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|ALEX|2026-10-15|soquar, berhane|0.35",
@@ -3578,11 +3086,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.32
+        "2026-10-24": 0.32,
+        "2026-10-29": 0.32
       },
       "latest_price": 0.32,
       "return_pct": -8.57,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|AHR|2026-10-15|thomas, trevor|1.0",
@@ -3598,11 +3107,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.95
+        "2026-10-24": 0.95,
+        "2026-10-29": 0.94
       },
-      "latest_price": 0.95,
-      "return_pct": -5.0,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.94,
+      "return_pct": -6.0,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|BEX|2026-10-15|house, stephen|0.08",
@@ -3618,11 +3128,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.08
+        "2026-10-24": 0.08,
+        "2026-10-29": 0.07
       },
-      "latest_price": 0.08,
-      "return_pct": 0.0,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.07,
+      "return_pct": -12.5,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|CGM|2026-10-15|booth, john geoffrey|0.15",
@@ -3638,11 +3149,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.18
+        "2026-10-24": 0.18,
+        "2026-10-29": 0.18
       },
       "latest_price": 0.18,
       "return_pct": 20.0,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|MRT-UN|2026-10-15|morguard corporation|7.1477",
@@ -3658,11 +3170,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 6.86
+        "2026-10-24": 6.86,
+        "2026-10-29": 7.0
       },
-      "latest_price": 6.86,
-      "return_pct": -4.03,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 7.0,
+      "return_pct": -2.07,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|ORCL|2026-10-15|lee, john|0.03",
@@ -3678,11 +3191,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.03
+        "2026-10-24": 0.03,
+        "2026-10-29": 0.03
       },
       "latest_price": 0.03,
       "return_pct": 0.0,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|QZM|2026-10-15|dickinson, matthew robert|0.4",
@@ -3698,11 +3212,12 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.39
+        "2026-10-24": 0.39,
+        "2026-10-29": 0.4
       },
-      "latest_price": 0.39,
-      "return_pct": -2.5,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.4,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|QZM|2026-10-15|dickinson, robert allan|0.4",
@@ -3718,11 +3233,12 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.39
+        "2026-10-24": 0.39,
+        "2026-10-29": 0.4
       },
-      "latest_price": 0.39,
-      "return_pct": -2.5,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.4,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|RML|2026-10-15|agapov, andre vladimir|1.02",
@@ -3738,11 +3254,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 1.15
+        "2026-10-24": 1.15,
+        "2026-10-29": 1.1
       },
-      "latest_price": 1.15,
-      "return_pct": 12.75,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 1.1,
+      "return_pct": 7.84,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SRR|2026-10-15|rideout, scott earl|1.0868",
@@ -3758,11 +3275,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 1.13
+        "2026-10-24": 1.13,
+        "2026-10-29": 1.18
       },
-      "latest_price": 1.13,
-      "return_pct": 3.97,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 1.18,
+      "return_pct": 8.58,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|ACQ|2026-10-16|antony, paul|26.1233",
@@ -3778,11 +3296,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 28.81
+        "2026-10-24": 28.81,
+        "2026-10-29": 29.74
       },
-      "latest_price": 28.81,
-      "return_pct": 10.28,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 29.74,
+      "return_pct": 13.84,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|NETZ|2026-10-16|katusa, marin|0.96",
@@ -3798,11 +3317,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 1.02
+        "2026-10-24": 1.02,
+        "2026-10-29": 1.0
       },
-      "latest_price": 1.02,
-      "return_pct": 6.25,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 1.0,
+      "return_pct": 4.17,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|HART|2026-10-16|maresky, isaac benjamin|0.2",
@@ -3818,11 +3338,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.18
+        "2026-10-24": 0.18,
+        "2026-10-29": 0.17
       },
-      "latest_price": 0.18,
-      "return_pct": -10.0,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.17,
+      "return_pct": -15.0,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|HPL|2026-10-16|williams, trevor|0.32",
@@ -3838,11 +3359,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.29
+        "2026-10-24": 0.29,
+        "2026-10-29": 0.29
       },
       "latest_price": 0.29,
       "return_pct": -9.38,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|KITS|2026-10-16|hardy, roger|15.499",
@@ -3858,11 +3380,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 17.12
+        "2026-10-24": 17.12,
+        "2026-10-29": 17.78
       },
-      "latest_price": 17.12,
-      "return_pct": 10.46,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 17.78,
+      "return_pct": 14.72,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|LUCA|2026-10-16|munoz abrego, israel fernando|1.17",
@@ -3878,11 +3401,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 1.06
+        "2026-10-24": 1.06,
+        "2026-10-29": 1.01
       },
-      "latest_price": 1.06,
-      "return_pct": -9.4,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 1.01,
+      "return_pct": -13.68,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|MLP|2026-10-16|jennings, ross|2.007",
@@ -3898,11 +3422,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 1.87
+        "2026-10-24": 1.87,
+        "2026-10-29": 1.9
       },
-      "latest_price": 1.87,
-      "return_pct": -6.83,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 1.9,
+      "return_pct": -5.33,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|NP|2026-10-16|proska, daniel|0.115",
@@ -3918,11 +3443,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.125
+        "2026-10-24": 0.125,
+        "2026-10-29": 0.15
       },
-      "latest_price": 0.125,
-      "return_pct": 8.7,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.15,
+      "return_pct": 30.43,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|PEL|2026-10-16|di teodoro, nino|0.16",
@@ -3938,11 +3464,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.165
+        "2026-10-24": 0.165,
+        "2026-10-29": 0.22
       },
-      "latest_price": 0.165,
-      "return_pct": 3.13,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.22,
+      "return_pct": 37.5,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|PCRX|2026-10-16|simpson, alan arthur|0.4132",
@@ -3958,11 +3485,12 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 0.4
+        "2026-10-24": 0.4,
+        "2026-10-29": 0.41
       },
-      "latest_price": 0.4,
-      "return_pct": -3.19,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 0.41,
+      "return_pct": -0.77,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SICO|2026-10-16|2176423 ontario ltd.|8.6",
@@ -3978,11 +3506,12 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 7.83
+        "2026-10-24": 7.83,
+        "2026-10-29": 7.83
       },
       "latest_price": 7.83,
       "return_pct": -8.95,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SICO|2026-10-16|ayranto, mark|8.25",
@@ -3998,11 +3527,12 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 7.83
+        "2026-10-24": 7.83,
+        "2026-10-29": 7.83
       },
       "latest_price": 7.83,
       "return_pct": -5.09,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SICO|2026-10-16|sprott, eric|8.6",
@@ -4018,11 +3548,12 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 7.83
+        "2026-10-24": 7.83,
+        "2026-10-29": 7.83
       },
       "latest_price": 7.83,
       "return_pct": -8.95,
-      "last_snapshot": "2026-10-24"
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|STCK|2026-10-16|stack capital group inc.|16.4008",
@@ -4038,11 +3569,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 15.4
+        "2026-10-24": 15.4,
+        "2026-10-29": 16.24
       },
-      "latest_price": 15.4,
-      "return_pct": -6.1,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 16.24,
+      "return_pct": -0.98,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|SLI|2026-10-16|robinson, james andrew charles|2.01",
@@ -4058,11 +3590,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 2.02
+        "2026-10-24": 2.02,
+        "2026-10-29": 2.05
       },
-      "latest_price": 2.02,
-      "return_pct": 0.5,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 2.05,
+      "return_pct": 1.99,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|TI|2026-10-16|pozzebon, richard|1.99",
@@ -4078,11 +3611,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 2.69
+        "2026-10-24": 2.69,
+        "2026-10-29": 2.89
       },
-      "latest_price": 2.69,
-      "return_pct": 35.18,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 2.89,
+      "return_pct": 45.23,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|TGB|2026-10-16|hallbauer, russell edward|11.15",
@@ -4134,11 +3668,12 @@
       "cluster_buy": false,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 11.53
+        "2026-10-24": 11.53,
+        "2026-10-29": 12.22
       },
-      "latest_price": 11.53,
-      "return_pct": 36.93,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 12.22,
+      "return_pct": 45.13,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|WEF|2026-10-16|kernaghan, edward hume|14.0",
@@ -4154,11 +3689,12 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 15.66
+        "2026-10-24": 15.66,
+        "2026-10-29": 15.64
       },
-      "latest_price": 15.66,
-      "return_pct": 11.86,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 15.64,
+      "return_pct": 11.71,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|WEF|2026-10-16|kernaghan, edward hume|13.95",
@@ -4174,11 +3710,12 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 15.66
+        "2026-10-24": 15.66,
+        "2026-10-29": 15.64
       },
-      "latest_price": 15.66,
-      "return_pct": 12.26,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 15.64,
+      "return_pct": 12.11,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|WEF|2026-10-16|kernaghan, elizabeth|14.0",
@@ -4194,11 +3731,12 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 15.66
+        "2026-10-24": 15.66,
+        "2026-10-29": 15.64
       },
-      "latest_price": 15.66,
-      "return_pct": 11.86,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 15.64,
+      "return_pct": 11.71,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|WEF|2026-10-16|kernaghan, elizabeth|13.95",
@@ -4214,11 +3752,12 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 15.66
+        "2026-10-24": 15.66,
+        "2026-10-29": 15.64
       },
-      "latest_price": 15.66,
-      "return_pct": 12.26,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 15.64,
+      "return_pct": 12.11,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|WEF|2026-10-16|kernwood limited|14.0",
@@ -4234,11 +3773,12 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 15.66
+        "2026-10-24": 15.66,
+        "2026-10-29": 15.64
       },
-      "latest_price": 15.66,
-      "return_pct": 11.86,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 15.64,
+      "return_pct": 11.71,
+      "last_snapshot": "2026-10-29"
     },
     {
       "id": "CA|WEF|2026-10-16|kernwood limited|13.95",
@@ -4254,11 +3794,692 @@
       "cluster_buy": true,
       "currency": "CAD",
       "snapshots": {
-        "2026-10-24": 15.66
+        "2026-10-24": 15.66,
+        "2026-10-29": 15.64
       },
-      "latest_price": 15.66,
-      "return_pct": 12.26,
-      "last_snapshot": "2026-10-24"
+      "latest_price": 15.64,
+      "return_pct": 12.11,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|BOGO|2026-10-26|malcolm, kelly james|0.75",
+      "market": "CA",
+      "ticker": "BOGO",
+      "yf_symbol": "BOGO.V",
+      "company": "Borealis Mining Company Limited (formerly, 1329300 B.C. Ltd.)",
+      "insider_name": "Malcolm, Kelly James",
+      "title": "Director",
+      "trade_date": "2026-10-26",
+      "trade_price": 0.75,
+      "value": 18750.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.74
+      },
+      "latest_price": 0.74,
+      "return_pct": -1.33,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|CAMB|2026-10-26|morrison, alexander|0.4928",
+      "market": "CA",
+      "ticker": "CAMB",
+      "yf_symbol": "CAMB.V",
+      "company": "Cambria Gold Mines Inc.",
+      "insider_name": "Morrison, Alexander",
+      "title": "Director",
+      "trade_date": "2026-10-26",
+      "trade_price": 0.4928,
+      "value": 99792.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.68
+      },
+      "latest_price": 0.68,
+      "return_pct": 37.99,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|EIT-UN|2026-10-26|chernoff, m. bruce|17.7854",
+      "market": "CA",
+      "ticker": "EIT-UN",
+      "yf_symbol": "EIT-UN.TO",
+      "company": "Canoe EIT Income Fund",
+      "insider_name": "Chernoff, M. Bruce",
+      "title": "Director",
+      "trade_date": "2026-10-26",
+      "trade_price": 17.7854,
+      "value": 1778540.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 17.82
+      },
+      "latest_price": 17.82,
+      "return_pct": 0.19,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|COCO|2026-10-26|kosowan, michael|0.34",
+      "market": "CA",
+      "ticker": "COCO",
+      "yf_symbol": "COCO.V",
+      "company": "Coast Copper Corp.",
+      "insider_name": "Kosowan, Michael",
+      "title": "10% Holder",
+      "trade_date": "2026-10-26",
+      "trade_price": 0.34,
+      "value": 51000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.31
+      },
+      "latest_price": 0.31,
+      "return_pct": -8.82,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|GTRE|2026-10-26|wagenaar, jacqueline|1.0",
+      "market": "CA",
+      "ticker": "GTRE",
+      "yf_symbol": "GTRE.CN",
+      "company": "G3 Goldfields Inc.",
+      "insider_name": "Wagenaar, Jacqueline",
+      "title": "Senior Officer",
+      "trade_date": "2026-10-26",
+      "trade_price": 1.0,
+      "value": 200000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 1.32
+      },
+      "latest_price": 1.32,
+      "return_pct": 32.0,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|GAL|2026-10-26|alpayana s.a.c.|0.37",
+      "market": "CA",
+      "ticker": "GAL",
+      "yf_symbol": "GAL.V",
+      "company": "Galantas Gold Corporation",
+      "insider_name": "Alpayana S.A.C.",
+      "title": "10% Holder",
+      "trade_date": "2026-10-26",
+      "trade_price": 0.37,
+      "value": 2134302.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.37
+      },
+      "latest_price": 0.37,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|HC|2026-10-26|moncrief, kyle|0.1",
+      "market": "CA",
+      "ticker": "HC",
+      "yf_symbol": "HC.V",
+      "company": "Hypercharge Networks Corp.",
+      "insider_name": "Moncrief, Kyle",
+      "title": "Senior Officer",
+      "trade_date": "2026-10-26",
+      "trade_price": 0.1,
+      "value": 30700.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.09
+      },
+      "latest_price": 0.09,
+      "return_pct": -10.0,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|INEO|2026-10-26|lawrence, cameron|0.1188",
+      "market": "CA",
+      "ticker": "INEO",
+      "yf_symbol": "INEO.V",
+      "company": "INEO Tech Corp.",
+      "insider_name": "Lawrence, Cameron",
+      "title": "Director",
+      "trade_date": "2026-10-26",
+      "trade_price": 0.1188,
+      "value": 20790.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.125
+      },
+      "latest_price": 0.125,
+      "return_pct": 5.22,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|KOG|2026-10-26|anderson, john|0.11",
+      "market": "CA",
+      "ticker": "KOG",
+      "yf_symbol": "KOG.CN",
+      "company": "KO Gold Inc.",
+      "insider_name": "ANDERSON, JOHN",
+      "title": "Director",
+      "trade_date": "2026-10-26",
+      "trade_price": 0.11,
+      "value": 20570.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.125
+      },
+      "latest_price": 0.125,
+      "return_pct": 13.64,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|RVG|2026-10-26|agro, hugh|0.64",
+      "market": "CA",
+      "ticker": "RVG",
+      "yf_symbol": "RVG.V",
+      "company": "Revival Gold Inc.",
+      "insider_name": "Agro, Hugh",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-10-26",
+      "trade_price": 0.64,
+      "value": 16000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.71
+      },
+      "latest_price": 0.71,
+      "return_pct": 10.94,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|RVG|2026-10-26|agro, hugh|0.65",
+      "market": "CA",
+      "ticker": "RVG",
+      "yf_symbol": "RVG.V",
+      "company": "Revival Gold Inc.",
+      "insider_name": "Agro, Hugh",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-10-26",
+      "trade_price": 0.65,
+      "value": 16250.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.71
+      },
+      "latest_price": 0.71,
+      "return_pct": 9.23,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|SCZ|2026-10-26|pr\u00e9stamo elizondo, arturo|6.94",
+      "market": "CA",
+      "ticker": "SCZ",
+      "yf_symbol": "SCZ.TO",
+      "company": "Santacruz Silver Mining Ltd.",
+      "insider_name": "Pr\u00e9stamo Elizondo, Arturo",
+      "title": "Director & Senior Officer",
+      "trade_date": "2026-10-26",
+      "trade_price": 6.94,
+      "value": 298420.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 10.09
+      },
+      "latest_price": 10.09,
+      "return_pct": 45.39,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|SICO|2026-10-26|ayranto, mark|7.8976",
+      "market": "CA",
+      "ticker": "SICO",
+      "yf_symbol": "SICO.V",
+      "company": "Silverco Mining Ltd.",
+      "insider_name": "Ayranto, Mark",
+      "title": "Director",
+      "trade_date": "2026-10-26",
+      "trade_price": 7.8976,
+      "value": 19744.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 7.83
+      },
+      "latest_price": 7.83,
+      "return_pct": -0.86,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|STCK|2026-10-26|stack capital group inc.|15.43",
+      "market": "CA",
+      "ticker": "STCK",
+      "yf_symbol": "STCK.TO",
+      "company": "Stack Capital Group Inc.",
+      "insider_name": "Stack Capital Group Inc.",
+      "title": "Issuer",
+      "trade_date": "2026-10-26",
+      "trade_price": 15.43,
+      "value": 30860.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 16.24
+      },
+      "latest_price": 16.24,
+      "return_pct": 5.25,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|TRR|2026-10-26|halvorson, michael henreid|0.27",
+      "market": "CA",
+      "ticker": "TRR",
+      "yf_symbol": "TRR.V",
+      "company": "Terra Rossa Gold Ltd. - formerly, 0749116 B.C. Ltd.",
+      "insider_name": "Halvorson, Michael Henreid",
+      "title": "Director",
+      "trade_date": "2026-10-26",
+      "trade_price": 0.27,
+      "value": 54000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.3
+      },
+      "latest_price": 0.3,
+      "return_pct": 11.11,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|MATE|2026-10-27|carosa, domenico|0.03",
+      "market": "CA",
+      "ticker": "MATE",
+      "yf_symbol": "MATE.V",
+      "company": "Blockmate Ventures Inc.",
+      "insider_name": "Carosa, Domenico",
+      "title": "Director",
+      "trade_date": "2026-10-27",
+      "trade_price": 0.03,
+      "value": 15000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.03
+      },
+      "latest_price": 0.03,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|EIT-UN|2026-10-27|chernoff, m. bruce|17.7962",
+      "market": "CA",
+      "ticker": "EIT-UN",
+      "yf_symbol": "EIT-UN.TO",
+      "company": "Canoe EIT Income Fund",
+      "insider_name": "Chernoff, M. Bruce",
+      "title": "Director",
+      "trade_date": "2026-10-27",
+      "trade_price": 17.7962,
+      "value": 949462.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 17.82
+      },
+      "latest_price": 17.82,
+      "return_pct": 0.13,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|KOG|2026-10-27|anderson, john|0.11",
+      "market": "CA",
+      "ticker": "KOG",
+      "yf_symbol": "KOG.CN",
+      "company": "KO Gold Inc.",
+      "insider_name": "ANDERSON, JOHN",
+      "title": "Director",
+      "trade_date": "2026-10-27",
+      "trade_price": 0.11,
+      "value": 24860.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.125
+      },
+      "latest_price": 0.125,
+      "return_pct": 13.64,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|LIFT|2026-10-27|reinson, jeffery|1.4",
+      "market": "CA",
+      "ticker": "LIFT",
+      "yf_symbol": "LIFT.V",
+      "company": "Li-FT Power Ltd.",
+      "insider_name": "Reinson, Jeffery",
+      "title": "Senior Officer",
+      "trade_date": "2026-10-27",
+      "trade_price": 1.4,
+      "value": 28000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 1.56
+      },
+      "latest_price": 1.56,
+      "return_pct": 11.43,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|LTC|2026-10-27|hartree partners, lp|4.4986",
+      "market": "CA",
+      "ticker": "LTC",
+      "yf_symbol": "LTC.V",
+      "company": "Lotus Creek Exploration Inc.",
+      "insider_name": "Hartree Partners, LP",
+      "title": "10% Holder",
+      "trade_date": "2026-10-27",
+      "trade_price": 4.4986,
+      "value": 3708195.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 4.78
+      },
+      "latest_price": 4.78,
+      "return_pct": 6.26,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|NAU|2026-10-27|bensing, jeffrey scott|0.65",
+      "market": "CA",
+      "ticker": "NAU",
+      "yf_symbol": "NAU.V",
+      "company": "NevGold Corp.",
+      "insider_name": "Bensing, Jeffrey Scott",
+      "title": "Director",
+      "trade_date": "2026-10-27",
+      "trade_price": 0.65,
+      "value": 68250.0,
+      "cluster_buy": true,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.6
+      },
+      "latest_price": 0.6,
+      "return_pct": -7.69,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|RSG.CN|2026-10-27|hodgson, christopher douglas|0.105",
+      "market": "CA",
+      "ticker": "RSG.CN",
+      "yf_symbol": "RSG.CN",
+      "company": "Rocky Shore Gold Ltd.",
+      "insider_name": "Hodgson, Christopher Douglas",
+      "title": "Director",
+      "trade_date": "2026-10-27",
+      "trade_price": 0.105,
+      "value": 31500.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.1
+      },
+      "latest_price": 0.1,
+      "return_pct": -4.76,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|SCMI|2026-10-27|morrison, alexander|0.7986",
+      "market": "CA",
+      "ticker": "SCMI",
+      "yf_symbol": "SCMI.V",
+      "company": "Selkirk Copper Mines Inc.",
+      "insider_name": "Morrison, Alexander",
+      "title": "Director",
+      "trade_date": "2026-10-27",
+      "trade_price": 0.7986,
+      "value": 114199.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 1.03
+      },
+      "latest_price": 1.03,
+      "return_pct": 28.98,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|STCK|2026-10-27|stack capital group inc.|15.733",
+      "market": "CA",
+      "ticker": "STCK",
+      "yf_symbol": "STCK.TO",
+      "company": "Stack Capital Group Inc.",
+      "insider_name": "Stack Capital Group Inc.",
+      "title": "Issuer",
+      "trade_date": "2026-10-27",
+      "trade_price": 15.733,
+      "value": 31466.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 16.24
+      },
+      "latest_price": 16.24,
+      "return_pct": 3.22,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|SNDY|2026-10-27|penny, brian w.|1.59",
+      "market": "CA",
+      "ticker": "SNDY",
+      "yf_symbol": "SNDY.TO",
+      "company": "Sunday Lake Gold Corp. (formerly known as Wallbridge Mining Company Limited)",
+      "insider_name": "Penny, Brian W.",
+      "title": "Senior Officer",
+      "trade_date": "2026-10-27",
+      "trade_price": 1.59,
+      "value": 15900.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 1.44
+      },
+      "latest_price": 1.44,
+      "return_pct": -9.43,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|EIT-UN|2026-10-28|chernoff, m. bruce|17.8",
+      "market": "CA",
+      "ticker": "EIT-UN",
+      "yf_symbol": "EIT-UN.TO",
+      "company": "Canoe EIT Income Fund",
+      "insider_name": "Chernoff, M. Bruce",
+      "title": "Director",
+      "trade_date": "2026-10-28",
+      "trade_price": 17.8,
+      "value": 128160.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 17.82
+      },
+      "latest_price": 17.82,
+      "return_pct": 0.11,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|DEFN|2026-10-28|wallster, dale|0.1",
+      "market": "CA",
+      "ticker": "DEFN",
+      "yf_symbol": "DEFN.V",
+      "company": "Defense Metals Corp.",
+      "insider_name": "Wallster, Dale",
+      "title": "Director",
+      "trade_date": "2026-10-28",
+      "trade_price": 0.1,
+      "value": 15000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.1
+      },
+      "latest_price": 0.1,
+      "return_pct": 0.0,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|MLP|2026-10-28|jennings, ross|1.95",
+      "market": "CA",
+      "ticker": "MLP",
+      "yf_symbol": "MLP.V",
+      "company": "Millennial Potash Corp.",
+      "insider_name": "Jennings, Ross",
+      "title": "10% Holder",
+      "trade_date": "2026-10-28",
+      "trade_price": 1.95,
+      "value": 142350.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 1.9
+      },
+      "latest_price": 1.9,
+      "return_pct": -2.56,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|PSIL.CN|2026-10-28|anthony, todd|0.84",
+      "market": "CA",
+      "ticker": "PSIL.CN",
+      "yf_symbol": "PSIL.CN",
+      "company": "Pacifica Silver Corp.",
+      "insider_name": "Anthony, Todd",
+      "title": "Senior Officer",
+      "trade_date": "2026-10-28",
+      "trade_price": 0.84,
+      "value": 42000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.8
+      },
+      "latest_price": 0.8,
+      "return_pct": -4.76,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|PSIL.CN|2026-10-28|anthony, todd|0.82",
+      "market": "CA",
+      "ticker": "PSIL.CN",
+      "yf_symbol": "PSIL.CN",
+      "company": "Pacifica Silver Corp.",
+      "insider_name": "Anthony, Todd",
+      "title": "Senior Officer",
+      "trade_date": "2026-10-28",
+      "trade_price": 0.82,
+      "value": 41000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.8
+      },
+      "latest_price": 0.8,
+      "return_pct": -2.44,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|STCK|2026-10-28|stack capital group inc.|16.09",
+      "market": "CA",
+      "ticker": "STCK",
+      "yf_symbol": "STCK.TO",
+      "company": "Stack Capital Group Inc.",
+      "insider_name": "Stack Capital Group Inc.",
+      "title": "Issuer",
+      "trade_date": "2026-10-28",
+      "trade_price": 16.09,
+      "value": 32180.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 16.24
+      },
+      "latest_price": 16.24,
+      "return_pct": 0.93,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|WGO|2026-10-28|pollitt, donovan|1.58",
+      "market": "CA",
+      "ticker": "WGO",
+      "yf_symbol": "WGO.V",
+      "company": "White Gold Corp.",
+      "insider_name": "Pollitt, Donovan",
+      "title": "Senior Officer",
+      "trade_date": "2026-10-28",
+      "trade_price": 1.58,
+      "value": 47400.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 1.55
+      },
+      "latest_price": 1.55,
+      "return_pct": -1.9,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|LTNG|2026-10-29|brown, andrew bruce|0.2736",
+      "market": "CA",
+      "ticker": "LTNG",
+      "yf_symbol": "LTNG.V",
+      "company": "Lightning Resource Corp.",
+      "insider_name": "Brown, Andrew Bruce",
+      "title": "Director",
+      "trade_date": "2026-10-29",
+      "trade_price": 0.2736,
+      "value": 20266.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 0.25
+      },
+      "latest_price": 0.25,
+      "return_pct": -8.63,
+      "last_snapshot": "2026-10-29"
+    },
+    {
+      "id": "CA|STCK|2026-10-29|stack capital group inc.|16.035",
+      "market": "CA",
+      "ticker": "STCK",
+      "yf_symbol": "STCK.TO",
+      "company": "Stack Capital Group Inc.",
+      "insider_name": "Stack Capital Group Inc.",
+      "title": "Issuer",
+      "trade_date": "2026-10-29",
+      "trade_price": 16.035,
+      "value": 32070.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-10-29": 16.24
+      },
+      "latest_price": 16.24,
+      "return_pct": 1.28,
+      "last_snapshot": "2026-10-29"
     }
   ]
 }
