@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T22:13:37Z",
-  "trade_count": 11446,
+  "last_updated": "2026-10-30T02:18:28Z",
+  "trade_count": 11448,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -183136,6 +183136,38 @@
       "owned": "0",
       "delta_own": "-100%",
       "value": "70549",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-29",
+      "filing_time": "20:51",
+      "trade_date": "2026-10-27",
+      "ticker": "LRN",
+      "company": "Stride, Inc.",
+      "insider_name": "Haggart Dylan G.",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "78.52",
+      "qty": "792",
+      "owned": "1899703",
+      "delta_own": "0%",
+      "value": "62188",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-29",
+      "filing_time": "18:20",
+      "trade_date": "2026-10-27",
+      "ticker": "BOLD",
+      "company": "Boundless Bio, Inc.",
+      "insider_name": "Tang Kevin",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "2.40",
+      "qty": "10707",
+      "owned": "3022456",
+      "delta_own": "0%",
+      "value": "25697",
       "cluster_buy": false
     }
   ]
