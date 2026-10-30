@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T09:19:25Z",
-  "trade_count": 11448,
+  "last_updated": "2026-10-30T16:23:51Z",
+  "trade_count": 11449,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -183168,6 +183168,22 @@
       "owned": "3022456",
       "delta_own": "0%",
       "value": "25697",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-10-30",
+      "filing_time": "11:32",
+      "trade_date": "2026-10-29",
+      "ticker": "BHRB",
+      "company": "Burke & Herbert Financial Services Corp.",
+      "insider_name": "McLaughlin Shawn Patrick",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "71.00",
+      "qty": "500",
+      "owned": "72500",
+      "delta_own": "+1%",
+      "value": "35500",
       "cluster_buy": false
     }
   ]
