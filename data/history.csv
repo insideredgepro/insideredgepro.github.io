@@ -11457,7 +11457,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-29,18:20,2026-10-27,BOLD,"Boundless Bio, Inc.",Tang Kevin,10%,P - Purchase,2.40,10707,3022456,0%,25697,False
 2026-10-30,11:32,2026-10-29,BHRB,Burke & Herbert Financial Services Corp.,McLaughlin Shawn Patrick,Dir,P - Purchase,71.00,500,72500,+1%,35500,False
 2026-10-30,14:46,2026-10-28,BFH,"Bread Financial Holdings, Inc.",Fawcett John J.,Dir,P - Purchase,24.70,5000,5000,New,123490,False
-2026-10-30,14:35,2026-10-30,OCFC,Oceanfirst Financial Corp,Barrett Patrick Sean,"Senior EVP, CFO",P - Purchase,17.90,5000,153560,+3%,89500,False
+2026-10-30,14:35,2026-10-30,OCFC,Oceanfirst Financial Corp,Barrett Patrick Sean,"Senior EVP, CFO",P - Purchase,17.90,5000,153560,+3%,89500,True
 2026-10-30,14:30,2026-10-29,PKBK,"Parke Bancorp, Inc.",Pantilione Vito S,"Pres, CEO",P - Purchase,32.86,1300,321094,0%,42718,False
 2026-10-30,14:22,2026-10-29,FFIN,First Financial Bankshares Inc,Denny Michael B.,Dir,P - Purchase,30.76,3245,117095,+3%,99816,False
 2026-10-30,12:56,2026-10-28,MED,Medifast Inc,Kiai Parsa,Dir,P - Purchase,12.24,5557,20428,+37%,68027,False
@@ -11468,3 +11468,10 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-30,18:04,2026-10-28,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,35.26,245898,131869568,0%,8671495,False
 2026-11-02,06:39,2026-10-29,STKH,Steakholder Foods Ltd.,Kaufman Arik,CEO,P - Purchase,0.39,96826,112623,+613%,38167,False
 2026-11-02,06:18,2026-10-29,API,"Agora, Inc.",Zhao Bin,CEO,P - Purchase,4.41,18524,85700373,0%,81722,False
+2026-11-02,12:23,2026-10-30,ATEC,"Alphatec Holdings, Inc.",Demski David M,Dir,P - Purchase,6.81,60000,491635,+14%,408600,False
+2026-11-02,11:49,2026-10-30,OCFC,Oceanfirst Financial Corp,Katsoulis Nicos,Dir,P - Purchase,17.83,10000,44118,+29%,178277,True
+2026-11-02,10:31,2026-10-30,RBBN,Ribbon Communications Inc.,McClelland Bruce William,"Pres, CEO",P - Purchase,1.60,60000,2969454,+2%,96240,False
+2026-11-02,10:24,2026-10-30,BLX,"Bladex, Inc.",Diaz Adriana Lizzeth,Chief Audit Officer,P - Purchase,52.39,1792,15090,+13%,93883,False
+2026-11-02,08:49,2026-10-30,STIM,"Neuronetics, Inc.",Chernett Jorey,10%,P - Purchase,2.27,18000,10620988,0%,40860,False
+2026-11-02,08:04,2026-10-29,CLH,Clean Harbors Inc,Polito Karyn,Dir,P - Purchase,314.83,125,4252,+3%,39354,False
+2026-11-02,07:54,2026-10-30,LSTR,Landstar System Inc,Lonegro Frank A,"Pres, CEO",P - Purchase,142.92,5000,28110,+22%,714619,False
