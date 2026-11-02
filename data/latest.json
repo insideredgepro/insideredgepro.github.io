@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-02T03:32:40Z",
-  "trade_count": 11459,
+  "last_updated": "2026-11-02T11:52:37Z",
+  "trade_count": 11461,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -183344,6 +183344,38 @@
       "owned": "131869568",
       "delta_own": "0%",
       "value": "8671495",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-02",
+      "filing_time": "06:39",
+      "trade_date": "2026-10-29",
+      "ticker": "STKH",
+      "company": "Steakholder Foods Ltd.",
+      "insider_name": "Kaufman Arik",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.39",
+      "qty": "96826",
+      "owned": "112623",
+      "delta_own": "+613%",
+      "value": "38167",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-02",
+      "filing_time": "06:18",
+      "trade_date": "2026-10-29",
+      "ticker": "API",
+      "company": "Agora, Inc.",
+      "insider_name": "Zhao Bin",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "4.41",
+      "qty": "18524",
+      "owned": "85700373",
+      "delta_own": "0%",
+      "value": "81722",
       "cluster_buy": false
     }
   ]
