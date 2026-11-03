@@ -1767,7 +1767,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522770+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124474+00:00"
   },
   {
     "id": "20003803742",
@@ -1788,7 +1788,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: IRA Two",
-    "scraped_at": "2026-11-03T04:55:03.522845+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124726+00:00"
   },
   {
     "id": "20003803757",
@@ -1809,7 +1809,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-11-03T04:55:03.522612+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123880+00:00"
   },
   {
     "id": "20003803758",
@@ -1830,7 +1830,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA",
-    "scraped_at": "2026-11-03T04:55:03.522617+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123902+00:00"
   },
   {
     "id": "20003803736",
@@ -1851,7 +1851,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-11-03T04:55:03.522812+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124621+00:00"
   },
   {
     "id": "20003803739",
@@ -1872,7 +1872,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522828+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124676+00:00"
   },
   {
     "id": "20003803745",
@@ -1893,7 +1893,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-11-03T04:55:03.522859+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124778+00:00"
   },
   {
     "id": "20003803748",
@@ -1914,7 +1914,28 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-11-03T04:55:03.522869+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124817+00:00"
+  },
+  {
+    "id": "20003803808",
+    "politician_name": "Ann Wagner",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "MO",
+    "company": "AMERICAN EXPRESS NATIONAL BANK",
+    "ticker": "3733Z:US",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-20",
+    "trade_published": "2026-11-03",
+    "filed_after_days": "13",
+    "price": "N/A",
+    "value": 175000,
+    "amount": "$100K\u2013$250K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Fidelity Trust",
+    "scraped_at": "2026-11-03T17:10:06.123028+00:00"
   },
   {
     "id": "10000066972",
@@ -1935,7 +1956,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522539+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123634+00:00"
   },
   {
     "id": "20003803738",
@@ -1956,7 +1977,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-11-03T04:55:03.522822+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124655+00:00"
   },
   {
     "id": "20003803712",
@@ -1998,7 +2019,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2031-02-01",
-    "scraped_at": "2026-11-03T04:55:03.522596+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123826+00:00"
   },
   {
     "id": "10000066985",
@@ -2019,7 +2040,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2036-05-01",
-    "scraped_at": "2026-11-03T04:55:03.522600+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123846+00:00"
   },
   {
     "id": "10000066986",
@@ -2040,7 +2061,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2042-02-01",
-    "scraped_at": "2026-11-03T04:55:03.522605+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123861+00:00"
   },
   {
     "id": "20003803709",
@@ -2085,6 +2106,48 @@
     "scraped_at": "2026-10-28T03:55:03.897068+00:00"
   },
   {
+    "id": "10000066987",
+    "politician_name": "Sheldon Whitehouse",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "RI",
+    "company": "Amgen Inc",
+    "ticker": "AMGN:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-15",
+    "trade_published": "2026-11-03",
+    "filed_after_days": "18",
+    "price": "$434.03",
+    "value": 32500,
+    "amount": "$15K\u2013$50K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-11-03T17:10:06.123118+00:00"
+  },
+  {
+    "id": "10000066988",
+    "politician_name": "Sheldon Whitehouse",
+    "party": "Democrat",
+    "chamber": "Senate",
+    "state": "RI",
+    "company": "Microsoft Corp",
+    "ticker": "MSFT:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-15",
+    "trade_published": "2026-11-03",
+    "filed_after_days": "18",
+    "price": "$539.44",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-11-03T17:10:06.123156+00:00"
+  },
+  {
     "id": "20003803788",
     "politician_name": "David Taylor",
     "party": "Republican",
@@ -2103,7 +2166,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-11-03T04:55:03.522473+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123390+00:00"
   },
   {
     "id": "20003803789",
@@ -2124,7 +2187,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-11-03T04:55:03.522479+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123412+00:00"
   },
   {
     "id": "20003803790",
@@ -2145,7 +2208,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-11-03T04:55:03.522484+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123431+00:00"
   },
   {
     "id": "20003803791",
@@ -2166,7 +2229,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-11-03T04:55:03.522489+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123449+00:00"
   },
   {
     "id": "20003803792",
@@ -2187,7 +2250,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-11-03T04:55:03.522495+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123466+00:00"
   },
   {
     "id": "20003803793",
@@ -2208,7 +2271,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-11-03T04:55:03.522500+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123484+00:00"
   },
   {
     "id": "20003803794",
@@ -2229,7 +2292,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-11-03T04:55:03.522505+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123510+00:00"
   },
   {
     "id": "20003803795",
@@ -2250,7 +2313,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-11-03T04:55:03.522510+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123527+00:00"
   },
   {
     "id": "20003803730",
@@ -2271,7 +2334,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET Invest",
-    "scraped_at": "2026-11-03T04:55:03.522780+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124508+00:00"
   },
   {
     "id": "10000066971",
@@ -2292,7 +2355,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522534+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123618+00:00"
   },
   {
     "id": "20003803759",
@@ -2313,7 +2376,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-11-03T04:55:03.522622+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123919+00:00"
   },
   {
     "id": "20003803731",
@@ -2334,7 +2397,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-11-03T04:55:03.522786+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124527+00:00"
   },
   {
     "id": "20003803735",
@@ -2355,7 +2418,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522807+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124600+00:00"
   },
   {
     "id": "20003803721",
@@ -2439,7 +2502,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2049-11-01",
-    "scraped_at": "2026-11-03T04:55:03.522585+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123796+00:00"
   },
   {
     "id": "10000066983",
@@ -2460,7 +2523,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2044-11-15",
-    "scraped_at": "2026-11-03T04:55:03.522590+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123811+00:00"
   },
   {
     "id": "20003803734",
@@ -2481,7 +2544,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET Invest",
-    "scraped_at": "2026-11-03T04:55:03.522803+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124583+00:00"
   },
   {
     "id": "20003803608",
@@ -2523,7 +2586,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522721+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124264+00:00"
   },
   {
     "id": "20003803716",
@@ -2628,7 +2691,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2032-05-01",
-    "scraped_at": "2026-11-03T04:55:03.522549+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123667+00:00"
   },
   {
     "id": "10000066976",
@@ -2649,7 +2712,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2036-03-15",
-    "scraped_at": "2026-11-03T04:55:03.522557+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123697+00:00"
   },
   {
     "id": "10000066977",
@@ -2670,7 +2733,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2031-11-01",
-    "scraped_at": "2026-11-03T04:55:03.522562+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123712+00:00"
   },
   {
     "id": "10000066978",
@@ -2691,7 +2754,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2051-04-15",
-    "scraped_at": "2026-11-03T04:55:03.522566+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123732+00:00"
   },
   {
     "id": "10000066979",
@@ -2712,7 +2775,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Self",
     "comment": "Rate/Coupon: 3% Matures: 2029-09-15",
-    "scraped_at": "2026-11-03T04:55:03.522571+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123747+00:00"
   },
   {
     "id": "10000066980",
@@ -2733,7 +2796,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2028-08-01",
-    "scraped_at": "2026-11-03T04:55:03.522575+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123763+00:00"
   },
   {
     "id": "10000066981",
@@ -2754,7 +2817,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2036-08-15",
-    "scraped_at": "2026-11-03T04:55:03.522581+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123778+00:00"
   },
   {
     "id": "20003803746",
@@ -2775,7 +2838,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-11-03T04:55:03.522864+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124799+00:00"
   },
   {
     "id": "20003803717",
@@ -2901,7 +2964,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Stocks, Bonds, & Mutual Funds Description: 30,000 units of California CMNTY VAR 11/01/54",
-    "scraped_at": "2026-11-03T04:55:03.522468+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123372+00:00"
   },
   {
     "id": "10000066970",
@@ -2922,7 +2985,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522528+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123597+00:00"
   },
   {
     "id": "10000066973",
@@ -2943,7 +3006,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2053-12-01",
-    "scraped_at": "2026-11-03T04:55:03.522543+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123651+00:00"
   },
   {
     "id": "20003803762",
@@ -2964,7 +3027,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522636+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123968+00:00"
   },
   {
     "id": "10000066937",
@@ -3174,7 +3237,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2036-02-15",
-    "scraped_at": "2026-11-03T04:55:03.522520+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123568+00:00"
   },
   {
     "id": "20003803761",
@@ -3195,7 +3258,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522632+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123953+00:00"
   },
   {
     "id": "20003803779",
@@ -3216,7 +3279,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522717+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124246+00:00"
   },
   {
     "id": "20003803778",
@@ -3237,7 +3300,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522712+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124231+00:00"
   },
   {
     "id": "20003803725",
@@ -3258,7 +3321,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-11-03T04:55:03.522754+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124373+00:00"
   },
   {
     "id": "20003803726",
@@ -3279,7 +3342,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-11-03T04:55:03.522759+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124430+00:00"
   },
   {
     "id": "20003803727",
@@ -3300,7 +3363,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-11-03T04:55:03.522765+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124452+00:00"
   },
   {
     "id": "20003803729",
@@ -3321,7 +3384,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-11-03T04:55:03.522776+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124491+00:00"
   },
   {
     "id": "20003803732",
@@ -3342,7 +3405,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-11-03T04:55:03.522791+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124549+00:00"
   },
   {
     "id": "20003803733",
@@ -3363,7 +3426,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-11-03T04:55:03.522797+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124566+00:00"
   },
   {
     "id": "20003803740",
@@ -3384,7 +3447,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-11-03T04:55:03.522833+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124693+00:00"
   },
   {
     "id": "20003803741",
@@ -3405,7 +3468,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-11-03T04:55:03.522840+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124710+00:00"
   },
   {
     "id": "20003803743",
@@ -3426,7 +3489,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-11-03T04:55:03.522850+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124744+00:00"
   },
   {
     "id": "20003803744",
@@ -3447,7 +3510,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: IRA One",
-    "scraped_at": "2026-11-03T04:55:03.522854+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124760+00:00"
   },
   {
     "id": "20003803749",
@@ -3468,7 +3531,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-11-03T04:55:03.522874+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124837+00:00"
   },
   {
     "id": "20003803750",
@@ -3489,7 +3552,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-11-03T04:55:03.522881+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124858+00:00"
   },
   {
     "id": "20003803751",
@@ -3636,7 +3699,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Merrill Lynch SEP IRA",
-    "scraped_at": "2026-11-03T04:55:03.522430+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123244+00:00"
   },
   {
     "id": "10000066975",
@@ -3657,7 +3720,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2044-05-15",
-    "scraped_at": "2026-11-03T04:55:03.522553+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123682+00:00"
   },
   {
     "id": "20003803737",
@@ -3678,7 +3741,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-11-03T04:55:03.522817+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124638+00:00"
   },
   {
     "id": "20003803723",
@@ -3825,7 +3888,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-11-03T04:55:03.522448+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123298+00:00"
   },
   {
     "id": "20003803801",
@@ -3846,7 +3909,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-11-03T04:55:03.522458+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123334+00:00"
   },
   {
     "id": "10000066968",
@@ -3867,7 +3930,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2041-07-01",
-    "scraped_at": "2026-11-03T04:55:03.522515+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123551+00:00"
   },
   {
     "id": "20003803724",
@@ -3993,7 +4056,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-11-03T04:55:03.522443+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123281+00:00"
   },
   {
     "id": "20003803711",
@@ -4413,7 +4476,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522626+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123934+00:00"
   },
   {
     "id": "20003803772",
@@ -4434,7 +4497,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522683+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124131+00:00"
   },
   {
     "id": "20003803703",
@@ -4644,7 +4707,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Merrill Lynch SEP IRA",
-    "scraped_at": "2026-11-03T04:55:03.522423+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123222+00:00"
   },
   {
     "id": "20003803771",
@@ -4665,7 +4728,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522678+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124115+00:00"
   },
   {
     "id": "10000066908",
@@ -4749,7 +4812,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Merrill Lynch SEP IRA",
-    "scraped_at": "2026-11-03T04:55:03.522385+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123180+00:00"
   },
   {
     "id": "20003803804",
@@ -4770,7 +4833,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Merrill Lynch SEP IRA",
-    "scraped_at": "2026-11-03T04:55:03.522412+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123201+00:00"
   },
   {
     "id": "20003803777",
@@ -4791,7 +4854,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522708+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124212+00:00"
   },
   {
     "id": "10000066947",
@@ -5547,7 +5610,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-11-03T04:55:03.522453+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123317+00:00"
   },
   {
     "id": "10000066936",
@@ -5967,7 +6030,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522646+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123998+00:00"
   },
   {
     "id": "20003803769",
@@ -5988,7 +6051,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522668+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124080+00:00"
   },
   {
     "id": "20003803770",
@@ -6009,7 +6072,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522672+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124095+00:00"
   },
   {
     "id": "20003803775",
@@ -6030,7 +6093,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522698+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124181+00:00"
   },
   {
     "id": "20003803776",
@@ -6051,7 +6114,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522702+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124196+00:00"
   },
   {
     "id": "20003803786",
@@ -6072,7 +6135,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522749+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124355+00:00"
   },
   {
     "id": "10000066945",
@@ -7437,7 +7500,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-11-03T04:55:03.522437+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123264+00:00"
   },
   {
     "id": "20003803802",
@@ -7458,7 +7521,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-11-03T04:55:03.522463+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123355+00:00"
   },
   {
     "id": "20003803767",
@@ -7479,7 +7542,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522659+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124045+00:00"
   },
   {
     "id": "20003803768",
@@ -7500,7 +7563,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522664+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124064+00:00"
   },
   {
     "id": "20003803774",
@@ -7521,7 +7584,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522693+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124162+00:00"
   },
   {
     "id": "10000066941",
@@ -8004,7 +8067,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522745+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124340+00:00"
   },
   {
     "id": "20003803600",
@@ -8109,7 +8172,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522655+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124030+00:00"
   },
   {
     "id": "20003803784",
@@ -8130,7 +8193,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522740+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124325+00:00"
   },
   {
     "id": "20003803041",
@@ -8319,7 +8382,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522640+00:00"
+    "scraped_at": "2026-11-03T17:10:06.123984+00:00"
   },
   {
     "id": "20003803765",
@@ -8340,7 +8403,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522651+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124014+00:00"
   },
   {
     "id": "20003803773",
@@ -8361,7 +8424,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522688+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124147+00:00"
   },
   {
     "id": "20003803781",
@@ -8382,7 +8445,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522726+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124281+00:00"
   },
   {
     "id": "20003803782",
@@ -8403,7 +8466,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522732+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124296+00:00"
   },
   {
     "id": "20003803783",
@@ -8424,7 +8487,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T04:55:03.522736+00:00"
+    "scraped_at": "2026-11-03T17:10:06.124311+00:00"
   },
   {
     "id": "20003803559",
