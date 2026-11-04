@@ -11483,7 +11483,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-02,17:45,2026-10-29,ROL,Rollins Inc,Lor Inc,10%,P - Purchase,34.59,1444402,153654277,+1%,49956665,True
 2026-11-02,17:22,2026-10-29,JBLU,Jetblue Airways Corp,Boneparth Peter,Dir,P - Purchase,3.00,100000,232492,+75%,300000,False
 2026-11-02,17:20,2026-11-02,FCPT,"Four Corners Property Trust, Inc.",Lenehan William H,"Pres, CEO",P - Purchase,22.61,10000,789857,+1%,226072,False
-2026-11-02,16:59,2026-11-02,ENPH,"Enphase Energy, Inc.",Kothandaraman Badrinarayanan,"Pres, CEO",P - Purchase,26.75,10000,1760619,+1%,267514,False
+2026-11-02,16:59,2026-11-02,ENPH,"Enphase Energy, Inc.",Kothandaraman Badrinarayanan,"Pres, CEO",P - Purchase,26.75,10000,1760619,+1%,267514,True
 2026-11-02,16:37,2026-10-29,HDSN,Hudson Technologies Inc /Ny,"Hartree Partners, LP",10%,P - Purchase,4.38,300000,5648517,+6%,1313588,False
 2026-11-02,16:37,2026-10-30,AEYE,Audioeye Inc,Hawkins James B,Dir,P - Purchase,13.15,4000,225684,+2%,52600,False
 2026-11-02,16:22,2026-10-30,BANC,"Banc of California, Inc.",Wolff Jared M,"COB, CEO",P - Purchase,18.18,5487,546324,+1%,99754,False
@@ -11496,7 +11496,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-03,09:34,2026-11-02,CSTM,Constellium Se,Deslarzes Jean-Christophe,Dir,P - Purchase,23.41,1800,45315,+4%,42138,False
 2026-11-03,09:00,2026-10-30,TRTX,"Tpg Re Finance Trust, Inc.",Silverstein Wendy,Dir,P - Purchase,6.51,38900,139123,+39%,253239,True
 2026-11-03,09:00,2026-10-30,TRTX,"Tpg Re Finance Trust, Inc.",Smith Michael Bradley,Dir,P - Purchase,6.52,5000,105223,+5%,32600,True
-2026-11-03,08:40,2026-11-02,STRZ,Starz Entertainment Corp /Cn/,Hirsch Jeffrey,"Pres, CEO",P - Purchase,22.13,5000,561111,+1%,110650,False
+2026-11-03,08:40,2026-11-02,STRZ,Starz Entertainment Corp /Cn/,Hirsch Jeffrey,"Pres, CEO",P - Purchase,22.13,5000,561111,+1%,110650,True
 2026-11-03,08:26,2026-11-02,PMN,Promis Neurosciences Inc.,Cashman Neil,Chief Scientific Officer,P - Purchase,3.86,10000,19318,+107%,38600,False
 2026-11-03,08:07,2026-11-01,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Yuan Lipen,VP,P - Purchase,71.49,1000,11341,+10%,71490,False
 2026-11-03,18:09,2026-11-02,BBBTX,,"Ra Capital Management, L.P.",Director,P - Purchase,16.00,2500000,5933787,+73%,40000000,True
@@ -11628,3 +11628,25 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-10-27,18:38,2026-10-26,LLYCA,,Venrock Healthcare Capital Par,10% Owner,P - Purchase,18.04,1952705,6785437,+40%,35222791,False
 2026-10-27,18:38,2026-10-23,LLYCA,,Venrock Healthcare Capital Par,10% Owner,P - Purchase,25.91,52939,52939,New,1371676,False
 2026-10-27,18:30,2026-10-23,AAIOK,,Panagiotidis Petros Panagiotis,Chief Executive Officer,P - Purchase,8.15,130000,3336185,+4%,1059604,False
+2026-11-03,21:30,2026-10-30,SIRI,Sirius Xm Holdings Inc.,Berkshire Hathaway Inc,10%,P - Purchase,29.10,924281,125731398,+1%,26894245,False
+2026-11-03,20:34,2026-10-30,LRN,"Stride, Inc.",Haggart Dylan G.,Dir,P - Purchase,77.06,228057,2127760,+12%,17573121,False
+2026-11-03,19:55,2026-11-02,NPKI,Npk International Inc.,Minge John C,Dir,P - Purchase,9.24,15000,268942,+6%,138600,False
+2026-11-03,19:37,2026-10-30,BA,Boeing Co,Buckley Mortimer J,Dir,P - Purchase,171.55,5820,10250,+131%,998421,True
+2026-11-03,19:37,2026-10-30,BA,Boeing Co,Mollenkopf Steven M,Dir,P - Purchase,173.03,2950,6717,+78%,510427,True
+2026-11-03,18:49,2026-10-30,SITE,"Siteone Landscape Supply, Inc.",Black Doug,CEO,P - Purchase,110.30,9100,611527,+2%,1003685,False
+2026-11-03,18:09,2026-10-30,BBTX,"Bambusa Therapeutics, Inc.","Ra Capital Management, L.P.","Dir, 10%",P - Purchase,15.79,2953820,1495971,-203%,46639957,True
+2026-11-03,17:41,2026-10-30,PLBY,"Playboy, Inc.",Docler Holding S.A R.L.,"Dir, 10%",P - Purchase,1.05,4761905,19871723,+32%,5000000,False
+2026-11-03,17:19,2026-10-30,AWRE,Aware Inc /Ma/,Amlani Ajay K,"Pres, CEO",P - Purchase,0.93,31300,996909,+3%,28965,False
+2026-11-03,17:09,2026-10-30,CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,34.62,227773,132343862,0%,7886207,False
+2026-11-03,17:04,2026-11-03,ENPH,"Enphase Energy, Inc.",Trivedi Shanker,Dir,P - Purchase,30.59,1000,6551,+18%,30590,True
+2026-11-03,16:54,2026-11-02,RNST,Renasant Corp,Levy Jonathan A,Dir,P - Purchase,41.06,2000,26371,+8%,82120,False
+2026-11-03,16:41,2026-10-30,FINW,Finwise Bancorp,Noone James,CEO,P - Purchase,13.36,4000,470365,+1%,53440,False
+2026-11-03,16:35,2026-10-30,MGM,Mgm Resorts International,Meister Keith A.,Dir,P - Purchase,29.64,1745592,7093570,+33%,51740827,False
+2026-11-03,16:33,2026-11-02,STRZ,Starz Entertainment Corp /Cn/,Macdonald Scott D,"CFO, Treasurer",P - Purchase,22.22,2500,79287,+3%,55550,True
+2026-11-03,16:30,2026-11-02,LKQ,Lkq Corp,Powell Michael Scott,Dir,P - Purchase,19.15,10000,20998,+91%,191500,True
+2026-11-03,16:30,2026-10-30,LKQ,Lkq Corp,Clarke Andrew C,Dir,P - Purchase,18.35,21800,56850,+62%,400030,True
+2026-11-03,16:30,2026-10-29,SYNX,Silynxcom Ltd.,Klein Nir,CEO,P - Purchase,0.90,50149,2802794,+2%,45036,True
+2026-11-03,16:30,2026-10-29,SYNX,Silynxcom Ltd.,Klein Gal Nir,"VP Marketing, Israel Sales",P - Purchase,0.90,50149,50149,New,45036,True
+2026-11-03,16:30,2026-10-29,SYNX,Silynxcom Ltd.,Klein Ron,Dir,P - Purchase,0.84,33353,191442,+21%,27944,True
+2026-11-03,16:27,2026-10-30,MAA,Mid America Apartment Communities Inc.,Hill Adrian,"EVP, Chief Investment Officer",P - Purchase,118.35,844,66307,+1%,99887,False
+2026-11-03,16:05,2026-11-02,FISI,Financial Institutions Inc,Dorn Andrew W Jr,Dir,P - Purchase,40.11,1575,40641,+4%,63173,False
