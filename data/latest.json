@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-04T11:56:21Z",
-  "trade_count": 11643,
+  "last_updated": "2026-11-04T19:08:07Z",
+  "trade_count": 11646,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -186288,6 +186288,54 @@
       "owned": "40641",
       "delta_own": "+4%",
       "value": "63173",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-04",
+      "filing_time": "12:19",
+      "trade_date": "2026-11-02",
+      "ticker": "INTC",
+      "company": "Intel Corp",
+      "insider_name": "Tan Lip Bu",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "64.73",
+      "qty": "150000",
+      "owned": "1481640",
+      "delta_own": "+11%",
+      "value": "9709680",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-04",
+      "filing_time": "09:00",
+      "trade_date": "2026-11-02",
+      "ticker": "API",
+      "company": "Agora, Inc.",
+      "insider_name": "Zhao Bin",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "4.26",
+      "qty": "19478",
+      "owned": "85719851",
+      "delta_own": "0%",
+      "value": "83006",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-04",
+      "filing_time": "07:30",
+      "trade_date": "2026-11-03",
+      "ticker": "SPTX",
+      "company": "Seaport Therapeutics, Inc.",
+      "insider_name": "Torres Denice",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "19.87",
+      "qty": "5000",
+      "owned": "18406",
+      "delta_own": "+37%",
+      "value": "99325",
       "cluster_buy": false
     }
   ]
