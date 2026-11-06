@@ -11676,7 +11676,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-04,16:26,2026-11-04,AEYE,Audioeye Inc,Hawkins James B,Dir,P - Purchase,12.77,3000,228684,+1%,38300,False
 2026-11-04,16:24,2026-11-02,UMBF,Umb Financial Corp,Peterman Tamara,Dir,P - Purchase,137.02,201,10922,+2%,27500,True
 2026-11-04,16:22,2026-11-02,UMBF,Umb Financial Corp,Graves Greg M,Dir,P - Purchase,137.02,292,40893,+1%,40000,True
-2026-11-04,16:17,2026-11-03,TBBK,"Bancorp, Inc.",Cohn Matthew,Dir,P - Purchase,45.54,1000,237719,0%,45540,False
+2026-11-04,16:17,2026-11-03,TBBK,"Bancorp, Inc.",Cohn Matthew,Dir,P - Purchase,45.54,1000,237719,0%,45540,True
 2026-11-04,16:15,2026-11-03,KNOP,Knot Offshore Partners LP,Seglem Trygve,Dir,P - Purchase,20.88,2083333,13545694,+18%,43499993,False
 2026-11-04,16:14,2026-11-03,AN,"Autonation, Inc.",Edmunds C Coleman,"EVP, GC, Corp Sec",P - Purchase,183.36,550,31071,+2%,100850,True
 2026-11-04,16:13,2026-11-02,AN,"Autonation, Inc.",Szlosek Thomas A,"EVP, CFO",P - Purchase,182.03,1648,20085,+9%,299990,True
@@ -11732,3 +11732,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-06,07:30,2026-11-05,MTDR,Matador Resources Co,Erman Bryan A,Pres,P - Purchase,50.79,915,86443,+1%,46473,True
 2026-11-06,06:39,2026-11-05,AGMB,Agomab Therapeutics Nv,Epstein David R,Dir,P - Purchase,6.90,15000,40000,+60%,103500,False
 2026-11-06,06:19,2026-04-03,VISM,"Visium Technologies, Inc.",Adler Bo Niclas,10%,P - Purchase,0.00,500000000,500000000,New,350000,False
+2026-11-06,16:41,2026-11-06,CVS,Cvs Health Corp,Shah Prem S,"EVP, Group Pres",P - Purchase,83.90,23855,88516,+37%,2001315,False
+2026-11-06,16:30,2026-11-06,ANVS,"Annovis Bio, Inc.",Hoffman Michael B,Dir,P - Purchase,1.00,5000000,8588240,+139%,5000000,False
+2026-11-06,16:30,2026-11-05,TRNS,Transcat Inc,Irick Jaime A,"Pres, CEO",P - Purchase,101.26,2275,2275,New,230367,False
+2026-11-06,16:06,2026-11-04,TBBK,"Bancorp, Inc.",Mudick Stephanie B,Dir,P - Purchase,47.50,1000,45150,+2%,47495,True
+2026-11-06,12:57,2026-11-05,KMT,Kennametal Inc,Chowbey Sanjay,"Pres, CEO",P - Purchase,23.62,7000,280957,+3%,165368,False

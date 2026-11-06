@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-06T16:31:12Z",
-  "trade_count": 11725,
+  "last_updated": "2026-11-06T21:55:13Z",
+  "trade_count": 11730,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -186720,7 +186720,7 @@
       "owned": "237719",
       "delta_own": "0%",
       "value": "45540",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-11-04",
@@ -187600,6 +187600,86 @@
       "owned": "500000000",
       "delta_own": "New",
       "value": "350000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-06",
+      "filing_time": "16:41",
+      "trade_date": "2026-11-06",
+      "ticker": "CVS",
+      "company": "Cvs Health Corp",
+      "insider_name": "Shah Prem S",
+      "title": "EVP, Group Pres",
+      "trade_type": "P - Purchase",
+      "price": "83.90",
+      "qty": "23855",
+      "owned": "88516",
+      "delta_own": "+37%",
+      "value": "2001315",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-06",
+      "filing_time": "16:30",
+      "trade_date": "2026-11-06",
+      "ticker": "ANVS",
+      "company": "Annovis Bio, Inc.",
+      "insider_name": "Hoffman Michael B",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.00",
+      "qty": "5000000",
+      "owned": "8588240",
+      "delta_own": "+139%",
+      "value": "5000000",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-06",
+      "filing_time": "16:30",
+      "trade_date": "2026-11-05",
+      "ticker": "TRNS",
+      "company": "Transcat Inc",
+      "insider_name": "Irick Jaime A",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "101.26",
+      "qty": "2275",
+      "owned": "2275",
+      "delta_own": "New",
+      "value": "230367",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-06",
+      "filing_time": "16:06",
+      "trade_date": "2026-11-04",
+      "ticker": "TBBK",
+      "company": "Bancorp, Inc.",
+      "insider_name": "Mudick Stephanie B",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "47.50",
+      "qty": "1000",
+      "owned": "45150",
+      "delta_own": "+2%",
+      "value": "47495",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-11-06",
+      "filing_time": "12:57",
+      "trade_date": "2026-11-05",
+      "ticker": "KMT",
+      "company": "Kennametal Inc",
+      "insider_name": "Chowbey Sanjay",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "23.62",
+      "qty": "7000",
+      "owned": "280957",
+      "delta_own": "+3%",
+      "value": "165368",
       "cluster_buy": false
     }
   ]
