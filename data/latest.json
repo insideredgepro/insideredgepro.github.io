@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-06T01:57:04Z",
-  "trade_count": 11714,
+  "last_updated": "2026-11-06T08:49:09Z",
+  "trade_count": 11716,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -187424,6 +187424,38 @@
       "owned": "1200338",
       "delta_own": "+173%",
       "value": "9864346",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-05",
+      "filing_time": "21:05",
+      "trade_date": "2026-11-03",
+      "ticker": "GRCE",
+      "company": "Grace Therapeutics, Inc.",
+      "insider_name": "Opaleye Management Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "1.79",
+      "qty": "18442",
+      "owned": "3054853",
+      "delta_own": "+1%",
+      "value": "33019",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-05",
+      "filing_time": "21:00",
+      "trade_date": "2026-11-05",
+      "ticker": "MTUS",
+      "company": "Metallus Inc.",
+      "insider_name": "Rice Ronald A",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "16.61",
+      "qty": "10000",
+      "owned": "161818",
+      "delta_own": "+7%",
+      "value": "166100",
       "cluster_buy": false
     }
   ]
