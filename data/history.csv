@@ -11497,7 +11497,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-03,09:00,2026-10-30,TRTX,"Tpg Re Finance Trust, Inc.",Silverstein Wendy,Dir,P - Purchase,6.51,38900,139123,+39%,253239,True
 2026-11-03,09:00,2026-10-30,TRTX,"Tpg Re Finance Trust, Inc.",Smith Michael Bradley,Dir,P - Purchase,6.52,5000,105223,+5%,32600,True
 2026-11-03,08:40,2026-11-02,STRZ,Starz Entertainment Corp /Cn/,Hirsch Jeffrey,"Pres, CEO",P - Purchase,22.13,5000,561111,+1%,110650,True
-2026-11-03,08:26,2026-11-02,PMN,Promis Neurosciences Inc.,Cashman Neil,Chief Scientific Officer,P - Purchase,3.86,10000,19318,+107%,38600,False
+2026-11-03,08:26,2026-11-02,PMN,Promis Neurosciences Inc.,Cashman Neil,Chief Scientific Officer,P - Purchase,3.86,10000,19318,+107%,38600,True
 2026-11-03,08:07,2026-11-01,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Yuan Lipen,VP,P - Purchase,71.49,1000,11341,+10%,71490,False
 2026-11-03,18:09,2026-11-02,BBBTX,,"Ra Capital Management, L.P.",Director,P - Purchase,16.00,2500000,5933787,+73%,40000000,True
 2026-11-03,18:09,2026-10-30,BBBTX,,"Ra Capital Management, L.P.",Director,P - Purchase,14.63,453820,453820,New,6639957,True
@@ -11723,3 +11723,12 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-05,16:46,2026-11-05,GLXY,Galaxy Digital Inc.,Novogratz Michael,"CEO, 10%",P - Purchase,12.98,760000,1200338,+173%,9864346,False
 2026-11-05,21:05,2026-11-03,GRCE,"Grace Therapeutics, Inc.",Opaleye Management Inc.,10%,P - Purchase,1.79,18442,3054853,+1%,33019,False
 2026-11-05,21:00,2026-11-05,MTUS,Metallus Inc.,Rice Ronald A,Dir,P - Purchase,16.61,10000,161818,+7%,166100,False
+2026-11-06,11:22,2026-11-04,CLST,"Catalyst Bancorp, Inc.",Kleiser Kirk E.,Dir,P - Purchase,17.76,1704,72690,+2%,30255,False
+2026-11-06,10:07,2026-08-20,VISM,"Visium Technologies, Inc.",Adler Bo Niclas,10%,P - Purchase,0.00,120000000,620000000,+24%,108000,False
+2026-11-06,10:05,2026-07-26,YPF,Ypf Sociedad Anonima,Francos Guillermo Alberto,Dir,P - Purchase,51.42,6930,31860,+28%,356341,False
+2026-11-06,09:48,2026-11-04,LKQ,Lkq Corp,Gove Sue,Dir,P - Purchase,20.53,9795,20793,+89%,201085,True
+2026-11-06,08:15,2026-11-04,PMN,Promis Neurosciences Inc.,Williams Eugene,Dir,P - Purchase,3.43,26500,40213,+193%,90895,True
+2026-11-06,07:31,2026-11-05,MTDR,Matador Resources Co,Elsener William Thomas,"EVP, Reservoir Engineering",P - Purchase,51.48,900,115779,+1%,46332,True
+2026-11-06,07:30,2026-11-05,MTDR,Matador Resources Co,Erman Bryan A,Pres,P - Purchase,50.79,915,86443,+1%,46473,True
+2026-11-06,06:39,2026-11-05,AGMB,Agomab Therapeutics Nv,Epstein David R,Dir,P - Purchase,6.90,15000,40000,+60%,103500,False
+2026-11-06,06:19,2026-04-03,VISM,"Visium Technologies, Inc.",Adler Bo Niclas,10%,P - Purchase,0.00,500000000,500000000,New,350000,False
