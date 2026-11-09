@@ -11705,7 +11705,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-05,07:37,2026-11-03,CRH,Crh Public Ltd Co,Talbot Siobhan,Dir,P - Purchase,94.63,2000,10507,+24%,189260,False
 2026-11-05,20:37,2026-04-15,TRAD,Apex Tech Acquisition Inc.,Liu Shaoren,"CEO, CFO, 10%",P - Purchase,10.00,3029,3087000,0%,30290,False
 2026-11-05,20:37,2026-02-27,TRAD,Apex Tech Acquisition Inc.,Liu Shaoren,"CEO, CFO, 10%",P - Purchase,10.00,208971,3083971,+7%,2089710,False
-2026-11-05,20:30,2026-11-04,FLOC,Flowco Holdings Inc.,Fairbanks Jonathan B.,"See Remarks, 10%",P - Purchase,19.35,15140,722833,+2%,292924,False
+2026-11-05,20:30,2026-11-04,FLOC,Flowco Holdings Inc.,Fairbanks Jonathan B.,"See Remarks, 10%",P - Purchase,19.35,15140,722833,+2%,292924,True
 2026-11-05,18:59,2026-11-05,MTDR,Matador Resources Co,Colodney Benjamin T,"SVP, Chief Accounting Officer",P - Purchase,51.52,500,16229,+3%,25760,True
 2026-11-05,18:58,2026-11-05,MTDR,Matador Resources Co,Calvert Christopher P,"EVP, CFO",P - Purchase,52.57,2000,131624,+2%,105140,True
 2026-11-05,18:14,2026-11-03,BOLD,"Boundless Bio, Inc.",Tang Kevin,10%,P - Purchase,2.40,11162,3033618,0%,26789,False
@@ -11736,10 +11736,52 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-06,16:30,2026-11-06,ANVS,"Annovis Bio, Inc.",Hoffman Michael B,Dir,P - Purchase,1.00,5000000,8588240,+139%,5000000,False
 2026-11-06,16:30,2026-11-05,TRNS,Transcat Inc,Irick Jaime A,"Pres, CEO",P - Purchase,101.26,2275,2275,New,230367,False
 2026-11-06,16:06,2026-11-04,TBBK,"Bancorp, Inc.",Mudick Stephanie B,Dir,P - Purchase,47.50,1000,45150,+2%,47495,True
-2026-11-06,12:57,2026-11-05,KMT,Kennametal Inc,Chowbey Sanjay,"Pres, CEO",P - Purchase,23.62,7000,280957,+3%,165368,False
+2026-11-06,12:57,2026-11-05,KMT,Kennametal Inc,Chowbey Sanjay,"Pres, CEO",P - Purchase,23.62,7000,280957,+3%,165368,True
 2026-11-06,18:43,2026-11-06,KMI,"Kinder Morgan, Inc.",Kinder Richard D,"Exec COB, 10%",P - Purchase,29.99,500000,258586579,0%,14994200,False
-2026-11-06,18:05,2026-11-05,GFS,Globalfoundries Inc.,Moorthy Ganesh,Dir,P - Purchase,37.48,2500,5500,+83%,93688,False
+2026-11-06,18:05,2026-11-05,GFS,Globalfoundries Inc.,Moorthy Ganesh,Dir,P - Purchase,37.48,2500,5500,+83%,93688,True
 2026-11-06,17:30,2026-11-04,MDGL,"Madrigal Pharmaceuticals, Inc.",Baker Bros. Advisors LP,Dir,P - Purchase,381.49,91806,2244403,+4%,35023032,False
 2026-11-06,16:55,2026-11-04,KOD,Kodiak Sciences Inc.,Baker Bros. Advisors LP,"Dir, 10%",P - Purchase,98.51,247090,20424859,+1%,24340836,False
 2026-11-09,06:15,2026-11-05,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Splinter Michael R,Dir,P - Purchase,357.00,840,10425,+9%,299880,True
 2026-11-09,06:00,2026-11-05,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"CEO, Pres, 10%",P - Purchase,3.29,70000,7773140,+1%,230510,False
+2026-11-09,17:38,2026-11-05,LRN,"Stride, Inc.",Haggart Dylan G.,Dir,P - Purchase,74.83,108273,2236033,+5%,8102077,True
+2026-11-09,17:21,2026-11-06,GFS,Globalfoundries Inc.,Lazar Jack R,Dir,P - Purchase,38.00,10000,38094,+36%,380000,True
+2026-11-09,17:21,2026-11-05,NATR,Natures Sunshine Products Inc,"Prescott Group Capital Management, L.L.C.",10%,P - Purchase,9.77,291666,2236152,+15%,2849811,False
+2026-11-09,17:15,2026-11-06,MTDR,Matador Resources Co,Stetson Glenn W,"EVP, COO",P - Purchase,50.80,1000,96769,+1%,50800,True
+2026-11-09,17:14,2026-11-06,MTDR,Matador Resources Co,Appel Shelley F,Dir,P - Purchase,50.02,1350,1752434,0%,67521,True
+2026-11-09,17:07,2026-11-06,WCC,Wesco International Inc,Marino Anthony S,"EVP, CHRO",P - Purchase,292.97,341,1363,+33%,99903,True
+2026-11-09,17:05,2026-11-05,ADM,Archer-Daniels-Midland Co,McAtee David R II,Dir,P - Purchase,70.27,2800,10300,+37%,196756,False
+2026-11-09,17:02,2026-11-05,WCC,Wesco International Inc,Dev Indraneel,"EVP, CFO",P - Purchase,291.90,1725,18621,+10%,503528,True
+2026-11-09,17:01,2026-11-05,MTCH,"Match Group, Inc.",Schiffman Glenn,Dir,P - Purchase,38.83,2500,72059,+4%,97085,False
+2026-11-09,16:34,2026-11-06,FGBI,"First Guaranty Bancshares, Inc.",Smith Edgar R. III,"Dir, 10%",P - Purchase,11.80,5000,5617558,0%,59000,False
+2026-11-09,16:32,2026-11-06,FUN,Six Flags Entertainment Corporation/New,Bennett Christopher Lawrence,GC,P - Purchase,9.32,5000,51697,+11%,46600,False
+2026-11-09,16:32,2026-11-09,OBIO,"Orchestra Biomed Holdings, Inc.",Fain Eric S,Dir,P - Purchase,5.00,20000,119630,+20%,100000,True
+2026-11-09,16:31,2026-11-09,OBIO,"Orchestra Biomed Holdings, Inc.",Pacitti David,Dir,P - Purchase,5.00,20000,74750,+37%,100000,True
+2026-11-09,16:31,2026-11-09,OBIO,"Orchestra Biomed Holdings, Inc.",Hochman David P,See Remarks,P - Purchase,5.00,5000,1514519,0%,25000,True
+2026-11-09,16:30,2026-11-05,FLOC,Flowco Holdings Inc.,Edwards Joseph R,"Pres, CEO",P - Purchase,19.47,41000,25500,-265%,798213,True
+2026-11-09,16:30,2026-11-06,MCY,Mercury General Corp,Little Joshua Eric,Dir,P - Purchase,82.69,750,4000,+23%,62014,False
+2026-11-09,16:30,2026-11-05,UPBD,"Upbound Group, Inc.",Karam Fahmi,CEO,P - Purchase,24.66,12165,271077,+5%,299989,True
+2026-11-09,16:20,2026-11-06,LUMN,"Lumen Technologies, Inc.",Johnson Kathleen E,CEO,P - Purchase,3.97,100000,12315666,+1%,396890,True
+2026-11-09,16:18,2026-11-06,LUMN,"Lumen Technologies, Inc.",Goldberg Michelle J,Dir,P - Purchase,3.91,25000,101591,+33%,97715,True
+2026-11-09,16:15,2026-11-06,NLY,Annaly Capital Management Inc,Wede Scott,Dir,P - Purchase,18.80,50000,50000,New,940000,False
+2026-11-09,16:12,2026-11-09,DKNG,Draftkings Inc.,Ellingson Alan Wayne,CFO,P - Purchase,18.51,18908,214692,+10%,349987,False
+2026-11-09,16:09,2026-11-05,AN,"Autonation, Inc.",Szlosek Thomas A,"EVP, CFO",P - Purchase,184.83,1081,21166,+5%,199800,True
+2026-11-09,16:09,2026-11-05,AN,"Autonation, Inc.",Travisano Jacqueline A,Dir,P - Purchase,185.29,530,9419,+6%,98204,True
+2026-11-09,16:06,2026-11-06,SOPH,Sophia Genetics Sa,Cardoza George,CFO,P - Purchase,7.06,20000,326726,+7%,141200,True
+2026-11-09,16:05,2026-11-06,SOPH,Sophia Genetics Sa,Muken Ross,CEO,P - Purchase,6.86,20000,680391,+3%,137188,True
+2026-11-09,15:54,2026-11-05,CMCO,Columbus McKinnon Corp,Wilson David J.,"Pres, CEO",P - Purchase,16.90,32631,300633,+12%,551349,False
+2026-11-09,15:01,2026-11-05,PAM,Pampa Energy Inc.,Mindlin Damian Miguel,VicePres,P - Purchase,64.37,20000,749545,+3%,1287400,True
+2026-11-09,14:45,2026-11-05,VDTA,Vertical Data Inc.,Hamble International Inc.,10%,P - Purchase,3.00,333294,4136758,+9%,999882,False
+2026-11-09,14:40,2026-11-06,GOOD,Gladstone Commercial Corp,Cooper Arthur S.,"CEO, Pres",P - Purchase,10.15,9853,46893,+27%,99999,False
+2026-11-09,14:37,2026-11-06,GROW,U S Global Investors Inc,Pilecki Derek Steven,Control Person,P - Purchase,2.50,33034,1162333,+3%,82691,False
+2026-11-09,14:29,2026-11-09,EAF,Graftech International Ltd,Shivaram Sachin M,Dir,P - Purchase,10.00,5000,10000,+100%,50000,False
+2026-11-09,13:22,2026-11-06,KMT,Kennametal Inc,Watson Patrick S,"VP, CFO",P - Purchase,23.50,2000,98523,+2%,47000,True
+2026-11-09,12:16,2026-02-05,ADM,Archer-Daniels-Midland Co,McAtee David R II,Dir,P - Purchase,64.90,7500,7500,New,486720,False
+2026-11-09,11:36,2026-11-06,LKFN,Lakeland Financial Corp,Bartels Robert E Jr,Dir,P - Purchase,61.09,1918,30376,+7%,117177,False
+2026-11-09,10:52,2026-11-05,TTMI,Ttm Technologies Inc,Franklin Philip G,Dir,P - Purchase,61.92,5000,161725,+3%,309600,True
+2026-11-09,09:06,2026-11-06,CRC,California Resources Corp,Leon Francisco,"Pres, CEO",P - Purchase,46.63,800,333177,0%,37308,False
+2026-11-09,08:18,2026-11-05,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,18.83,33000,19187102,0%,621506,False
+2026-11-09,08:13,2026-11-06,LXRX,"Lexicon Pharmaceuticals, Inc.",Exton Michael,CEO,P - Purchase,1.66,30064,328496,+10%,49999,False
+2026-11-09,07:57,2026-11-04,API,"Agora, Inc.",Zhao Bin,CEO,P - Purchase,4.29,28665,85748516,0%,123109,False
+2026-11-09,07:55,2026-11-05,AUDC,Audiocodes Ltd,Adlersberg Shabtai,"Pres, CEO",P - Purchase,7.91,15939,4968192,0%,126140,False
+2026-11-09,07:43,2026-11-05,MTDR,Matador Resources Co,Harvey Paul W,Dir,P - Purchase,52.72,500,48563,+1%,26360,True
+2026-11-09,07:41,2026-11-05,MTDR,Matador Resources Co,Foran Joseph Wm,"COB, CEO",P - Purchase,51.36,5000,5485230,0%,256800,True
