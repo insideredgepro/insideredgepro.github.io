@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T03:46:59Z",
-  "trade_count": 11734,
+  "last_updated": "2026-11-09T12:21:34Z",
+  "trade_count": 11736,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -183872,7 +183872,7 @@
       "owned": "11341",
       "delta_own": "+10%",
       "value": "71490",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-11-03",
@@ -187744,6 +187744,38 @@
       "owned": "20424859",
       "delta_own": "+1%",
       "value": "24340836",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-09",
+      "filing_time": "06:15",
+      "trade_date": "2026-11-05",
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider_name": "Splinter Michael R",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "357.00",
+      "qty": "840",
+      "owned": "10425",
+      "delta_own": "+9%",
+      "value": "299880",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-11-09",
+      "filing_time": "06:00",
+      "trade_date": "2026-11-05",
+      "ticker": "NTHI",
+      "company": "Neonc Technologies Holdings, Inc.",
+      "insider_name": "Heshmatpour Amir F",
+      "title": "CEO, Pres, 10%",
+      "trade_type": "P - Purchase",
+      "price": "3.29",
+      "qty": "70000",
+      "owned": "7773140",
+      "delta_own": "+1%",
+      "value": "230510",
       "cluster_buy": false
     }
   ]

@@ -11498,7 +11498,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-03,09:00,2026-10-30,TRTX,"Tpg Re Finance Trust, Inc.",Smith Michael Bradley,Dir,P - Purchase,6.52,5000,105223,+5%,32600,True
 2026-11-03,08:40,2026-11-02,STRZ,Starz Entertainment Corp /Cn/,Hirsch Jeffrey,"Pres, CEO",P - Purchase,22.13,5000,561111,+1%,110650,True
 2026-11-03,08:26,2026-11-02,PMN,Promis Neurosciences Inc.,Cashman Neil,Chief Scientific Officer,P - Purchase,3.86,10000,19318,+107%,38600,True
-2026-11-03,08:07,2026-11-01,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Yuan Lipen,VP,P - Purchase,71.49,1000,11341,+10%,71490,False
+2026-11-03,08:07,2026-11-01,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Yuan Lipen,VP,P - Purchase,71.49,1000,11341,+10%,71490,True
 2026-11-03,18:09,2026-11-02,BBBTX,,"Ra Capital Management, L.P.",Director,P - Purchase,16.00,2500000,5933787,+73%,40000000,True
 2026-11-03,18:09,2026-10-30,BBBTX,,"Ra Capital Management, L.P.",Director,P - Purchase,14.63,453820,453820,New,6639957,True
 2026-11-03,17:44,2026-11-02,JJOF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,11.00,2720,2824832,+0%,29920,False
@@ -11741,3 +11741,5 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-06,18:05,2026-11-05,GFS,Globalfoundries Inc.,Moorthy Ganesh,Dir,P - Purchase,37.48,2500,5500,+83%,93688,False
 2026-11-06,17:30,2026-11-04,MDGL,"Madrigal Pharmaceuticals, Inc.",Baker Bros. Advisors LP,Dir,P - Purchase,381.49,91806,2244403,+4%,35023032,False
 2026-11-06,16:55,2026-11-04,KOD,Kodiak Sciences Inc.,Baker Bros. Advisors LP,"Dir, 10%",P - Purchase,98.51,247090,20424859,+1%,24340836,False
+2026-11-09,06:15,2026-11-05,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Splinter Michael R,Dir,P - Purchase,357.00,840,10425,+9%,299880,True
+2026-11-09,06:00,2026-11-05,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"CEO, Pres, 10%",P - Purchase,3.29,70000,7773140,+1%,230510,False
