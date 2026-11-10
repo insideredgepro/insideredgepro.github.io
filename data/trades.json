@@ -1767,7 +1767,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124474+00:00"
+    "scraped_at": "2026-11-10T04:55:02.792043+00:00"
   },
   {
     "id": "20003803742",
@@ -1791,6 +1791,132 @@
     "scraped_at": "2026-11-03T17:10:06.124726+00:00"
   },
   {
+    "id": "20003803818",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "Applied Materials Inc",
+    "ticker": "AMAT:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-26",
+    "trade_published": "2026-11-06",
+    "filed_after_days": "10",
+    "price": "$387.59",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-11-10T04:55:02.791510+00:00"
+  },
+  {
+    "id": "20003803813",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "Cisco Systems Inc",
+    "ticker": "CSCO:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-23",
+    "trade_published": "2026-11-05",
+    "filed_after_days": "13",
+    "price": "$106.50",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-11-10T04:55:02.791555+00:00"
+  },
+  {
+    "id": "20003803814",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "NVIDIA Corporation",
+    "ticker": "NVDA:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-23",
+    "trade_published": "2026-11-05",
+    "filed_after_days": "13",
+    "price": "$210.96",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-11-10T04:55:02.791560+00:00"
+  },
+  {
+    "id": "20003803815",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "NVIDIA Corporation",
+    "ticker": "NVDA:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-23",
+    "trade_published": "2026-11-05",
+    "filed_after_days": "13",
+    "price": "$210.96",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS Brokerage Account",
+    "scraped_at": "2026-11-10T04:55:02.791567+00:00"
+  },
+  {
+    "id": "20003803816",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "The Procter & Gamble Co",
+    "ticker": "PG:US",
+    "sector": "consumer-staples",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-23",
+    "trade_published": "2026-11-05",
+    "filed_after_days": "13",
+    "price": "$161.02",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS Brokerage Account",
+    "scraped_at": "2026-11-10T04:55:02.791572+00:00"
+  },
+  {
+    "id": "20003803817",
+    "politician_name": "Maria Elvira Salazar",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "FL",
+    "company": "The Procter & Gamble Co",
+    "ticker": "PG:US",
+    "sector": "consumer-staples",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-23",
+    "trade_published": "2026-11-05",
+    "filed_after_days": "13",
+    "price": "$161.02",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: UBS IRA Account",
+    "scraped_at": "2026-11-10T04:55:02.791576+00:00"
+  },
+  {
     "id": "20003803757",
     "politician_name": "Kevin Hern",
     "party": "Republican",
@@ -1809,7 +1935,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-11-03T17:10:06.123880+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791807+00:00"
   },
   {
     "id": "20003803758",
@@ -1830,7 +1956,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kevin Hern Traditional IRA",
-    "scraped_at": "2026-11-03T17:10:06.123902+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791813+00:00"
   },
   {
     "id": "20003803736",
@@ -1875,6 +2001,90 @@
     "scraped_at": "2026-11-03T17:10:06.124676+00:00"
   },
   {
+    "id": "10000066989",
+    "politician_name": "Shelley Moore Capito",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "WV",
+    "company": "Apple Inc",
+    "ticker": "AAPL:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-21",
+    "trade_published": "2026-11-05",
+    "filed_after_days": "14",
+    "price": "$343.99",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-11-10T04:55:02.791526+00:00"
+  },
+  {
+    "id": "10000066990",
+    "politician_name": "Shelley Moore Capito",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "WV",
+    "company": "Meta Platforms Inc",
+    "ticker": "META:US",
+    "sector": "communication-services",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-21",
+    "trade_published": "2026-11-05",
+    "filed_after_days": "14",
+    "price": "$697.52",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-11-10T04:55:02.791533+00:00"
+  },
+  {
+    "id": "10000066991",
+    "politician_name": "Shelley Moore Capito",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "WV",
+    "company": "Microsoft Corp",
+    "ticker": "MSFT:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-21",
+    "trade_published": "2026-11-05",
+    "filed_after_days": "14",
+    "price": "$532.95",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-11-10T04:55:02.791538+00:00"
+  },
+  {
+    "id": "10000066992",
+    "politician_name": "Shelley Moore Capito",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "WV",
+    "company": "Zoetis Inc",
+    "ticker": "ZTS:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-21",
+    "trade_published": "2026-11-05",
+    "filed_after_days": "14",
+    "price": "$79.62",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "",
+    "scraped_at": "2026-11-10T04:55:02.791543+00:00"
+  },
+  {
     "id": "20003803745",
     "politician_name": "Peter Sessions",
     "party": "Republican",
@@ -1917,6 +2127,27 @@
     "scraped_at": "2026-11-03T17:10:06.124817+00:00"
   },
   {
+    "id": "20003803809",
+    "politician_name": "Robert Latta",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Farmers & Merchants Bancorp Inc",
+    "ticker": "FMAO:US",
+    "sector": "financials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-20",
+    "trade_published": "2026-11-04",
+    "filed_after_days": "14",
+    "price": "$35.55",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Description: Dividend reinvestment",
+    "scraped_at": "2026-11-10T04:55:02.791590+00:00"
+  },
+  {
     "id": "20003803808",
     "politician_name": "Ann Wagner",
     "party": "Republican",
@@ -1935,7 +2166,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Joint",
     "comment": "Subholding Of: Fidelity Trust",
-    "scraped_at": "2026-11-03T17:10:06.123028+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791595+00:00"
   },
   {
     "id": "10000066972",
@@ -1956,7 +2187,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.123634+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791735+00:00"
   },
   {
     "id": "20003803738",
@@ -2019,7 +2250,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2031-02-01",
-    "scraped_at": "2026-11-03T17:10:06.123826+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791793+00:00"
   },
   {
     "id": "10000066985",
@@ -2040,7 +2271,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2036-05-01",
-    "scraped_at": "2026-11-03T17:10:06.123846+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791797+00:00"
   },
   {
     "id": "10000066986",
@@ -2061,7 +2292,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2042-02-01",
-    "scraped_at": "2026-11-03T17:10:06.123861+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791802+00:00"
   },
   {
     "id": "20003803709",
@@ -2106,6 +2337,69 @@
     "scraped_at": "2026-10-28T03:55:03.897068+00:00"
   },
   {
+    "id": "20003803821",
+    "politician_name": "John McGuire",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "VA",
+    "company": "Western Digital Corp",
+    "ticker": "WDC:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-15",
+    "trade_published": "2026-11-09",
+    "filed_after_days": "22",
+    "price": "$356.45",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Merrill Lynch SEP IRA",
+    "scraped_at": "2026-11-10T04:55:02.791498+00:00"
+  },
+  {
+    "id": "20003803820",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "PT Telekomunikasi Indonesia (Persero) TBK",
+    "ticker": "TLK:US",
+    "sector": "communication-services",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-15",
+    "trade_published": "2026-11-06",
+    "filed_after_days": "21",
+    "price": "$12.78",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-11-10T04:55:02.791521+00:00"
+  },
+  {
+    "id": "20003803810",
+    "politician_name": "George Kelly",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "PA",
+    "company": "FAIRFAX COUNTY OF VIRGINIA",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-15",
+    "trade_published": "2026-11-05",
+    "filed_after_days": "20",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Victoria Kelly Trust ICA",
+    "scraped_at": "2026-11-10T04:55:02.791581+00:00"
+  },
+  {
     "id": "10000066987",
     "politician_name": "Sheldon Whitehouse",
     "party": "Democrat",
@@ -2124,7 +2418,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.123118+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791601+00:00"
   },
   {
     "id": "10000066988",
@@ -2145,7 +2439,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.123156+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791609+00:00"
   },
   {
     "id": "20003803788",
@@ -2166,7 +2460,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-11-03T17:10:06.123390+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791673+00:00"
   },
   {
     "id": "20003803789",
@@ -2187,7 +2481,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-11-03T17:10:06.123412+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791678+00:00"
   },
   {
     "id": "20003803790",
@@ -2208,7 +2502,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-11-03T17:10:06.123431+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791683+00:00"
   },
   {
     "id": "20003803791",
@@ -2229,7 +2523,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-11-03T17:10:06.123449+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791688+00:00"
   },
   {
     "id": "20003803792",
@@ -2250,7 +2544,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-    "scraped_at": "2026-11-03T17:10:06.123466+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791693+00:00"
   },
   {
     "id": "20003803793",
@@ -2271,7 +2565,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-11-03T17:10:06.123484+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791697+00:00"
   },
   {
     "id": "20003803794",
@@ -2292,7 +2586,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-11-03T17:10:06.123510+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791702+00:00"
   },
   {
     "id": "20003803795",
@@ -2313,7 +2607,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-    "scraped_at": "2026-11-03T17:10:06.123527+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791710+00:00"
   },
   {
     "id": "20003803730",
@@ -2334,7 +2628,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET Invest",
-    "scraped_at": "2026-11-03T17:10:06.124508+00:00"
+    "scraped_at": "2026-11-10T04:55:02.792055+00:00"
   },
   {
     "id": "10000066971",
@@ -2355,7 +2649,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.123618+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791730+00:00"
   },
   {
     "id": "20003803759",
@@ -2376,7 +2670,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Hern Family Foundation",
-    "scraped_at": "2026-11-03T17:10:06.123919+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791818+00:00"
   },
   {
     "id": "20003803731",
@@ -2397,7 +2691,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET IRA",
-    "scraped_at": "2026-11-03T17:10:06.124527+00:00"
+    "scraped_at": "2026-11-10T04:55:02.792059+00:00"
   },
   {
     "id": "20003803735",
@@ -2502,7 +2796,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2049-11-01",
-    "scraped_at": "2026-11-03T17:10:06.123796+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791782+00:00"
   },
   {
     "id": "10000066983",
@@ -2523,7 +2817,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2044-11-15",
-    "scraped_at": "2026-11-03T17:10:06.123811+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791788+00:00"
   },
   {
     "id": "20003803734",
@@ -2545,6 +2839,27 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: ET Invest",
     "scraped_at": "2026-11-03T17:10:06.124583+00:00"
+  },
+  {
+    "id": "20003803819",
+    "politician_name": "Joshua Gottheimer",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "NJ",
+    "company": "BENCHMARK ELECTRONICS INC",
+    "ticker": "",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-12",
+    "trade_published": "2026-11-06",
+    "filed_after_days": "24",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Joint",
+    "comment": "Subholding Of: Morgan Stanley - Select UMA Account # 1",
+    "scraped_at": "2026-11-10T04:55:02.791515+00:00"
   },
   {
     "id": "20003803608",
@@ -2586,7 +2901,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124264+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791994+00:00"
   },
   {
     "id": "20003803716",
@@ -2691,7 +3006,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2032-05-01",
-    "scraped_at": "2026-11-03T17:10:06.123667+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791744+00:00"
   },
   {
     "id": "10000066976",
@@ -2712,7 +3027,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2036-03-15",
-    "scraped_at": "2026-11-03T17:10:06.123697+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791753+00:00"
   },
   {
     "id": "10000066977",
@@ -2733,7 +3048,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2031-11-01",
-    "scraped_at": "2026-11-03T17:10:06.123712+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791759+00:00"
   },
   {
     "id": "10000066978",
@@ -2754,7 +3069,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2051-04-15",
-    "scraped_at": "2026-11-03T17:10:06.123732+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791763+00:00"
   },
   {
     "id": "10000066979",
@@ -2775,7 +3090,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Self",
     "comment": "Rate/Coupon: 3% Matures: 2029-09-15",
-    "scraped_at": "2026-11-03T17:10:06.123747+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791768+00:00"
   },
   {
     "id": "10000066980",
@@ -2796,7 +3111,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2028-08-01",
-    "scraped_at": "2026-11-03T17:10:06.123763+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791774+00:00"
   },
   {
     "id": "10000066981",
@@ -2817,7 +3132,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2036-08-15",
-    "scraped_at": "2026-11-03T17:10:06.123778+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791778+00:00"
   },
   {
     "id": "20003803746",
@@ -2946,6 +3261,27 @@
     "scraped_at": "2026-10-16T03:55:03.772742+00:00"
   },
   {
+    "id": "20003803822",
+    "politician_name": "Nancy Pelosi",
+    "party": "Democrat",
+    "chamber": "House",
+    "state": "CA",
+    "company": "Warner Bros Discover Inc",
+    "ticker": "WBD:US",
+    "sector": "communication-services",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-07",
+    "trade_published": "2026-11-09",
+    "filed_after_days": "30",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "Description: Cash proceeds from Warner Bros Discovery merger with Paramount Skydance.",
+    "scraped_at": "2026-11-10T04:55:02.791465+00:00"
+  },
+  {
     "id": "20003803796",
     "politician_name": "Donald Beyer",
     "party": "Democrat",
@@ -2964,7 +3300,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Joint",
     "comment": "Subholding Of: Stocks, Bonds, & Mutual Funds Description: 30,000 units of California CMNTY VAR 11/01/54",
-    "scraped_at": "2026-11-03T17:10:06.123372+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791666+00:00"
   },
   {
     "id": "10000066970",
@@ -2985,7 +3321,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.123597+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791726+00:00"
   },
   {
     "id": "10000066973",
@@ -3006,7 +3342,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2053-12-01",
-    "scraped_at": "2026-11-03T17:10:06.123651+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791739+00:00"
   },
   {
     "id": "20003803762",
@@ -3027,7 +3363,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.123968+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791868+00:00"
   },
   {
     "id": "10000066937",
@@ -3237,7 +3573,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2036-02-15",
-    "scraped_at": "2026-11-03T17:10:06.123568+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791720+00:00"
   },
   {
     "id": "20003803761",
@@ -3258,7 +3594,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.123953+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791863+00:00"
   },
   {
     "id": "20003803779",
@@ -3279,7 +3615,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124246+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791989+00:00"
   },
   {
     "id": "20003803778",
@@ -3300,7 +3636,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124231+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791984+00:00"
   },
   {
     "id": "20003803725",
@@ -3321,7 +3657,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-11-03T17:10:06.124373+00:00"
+    "scraped_at": "2026-11-10T04:55:02.792026+00:00"
   },
   {
     "id": "20003803726",
@@ -3342,7 +3678,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-11-03T17:10:06.124430+00:00"
+    "scraped_at": "2026-11-10T04:55:02.792031+00:00"
   },
   {
     "id": "20003803727",
@@ -3363,7 +3699,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-11-03T17:10:06.124452+00:00"
+    "scraped_at": "2026-11-10T04:55:02.792036+00:00"
   },
   {
     "id": "20003803729",
@@ -3384,7 +3720,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Spouse",
     "comment": "Subholding Of: Trust One",
-    "scraped_at": "2026-11-03T17:10:06.124491+00:00"
+    "scraped_at": "2026-11-10T04:55:02.792048+00:00"
   },
   {
     "id": "20003803732",
@@ -3681,6 +4017,27 @@
     "scraped_at": "2026-10-16T03:55:03.772604+00:00"
   },
   {
+    "id": "20003803811",
+    "politician_name": "George Kelly",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "PA",
+    "company": "NORTH CAROLINA HOUSING FINANCE AGENCY",
+    "ticker": "",
+    "sector": "",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-10-01",
+    "trade_published": "2026-11-05",
+    "filed_after_days": "34",
+    "price": "N/A",
+    "value": 75000,
+    "amount": "$50K\u2013$100K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Victoria Kelly Trust ICA",
+    "scraped_at": "2026-11-10T04:55:02.791586+00:00"
+  },
+  {
     "id": "20003803806",
     "politician_name": "John McGuire",
     "party": "Republican",
@@ -3699,7 +4056,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Merrill Lynch SEP IRA",
-    "scraped_at": "2026-11-03T17:10:06.123244+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791632+00:00"
   },
   {
     "id": "10000066975",
@@ -3720,7 +4077,7 @@
     "amount": "$500K\u2013$1M",
     "owner": "Self",
     "comment": "Rate/Coupon: 5% Matures: 2044-05-15",
-    "scraped_at": "2026-11-03T17:10:06.123682+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791748+00:00"
   },
   {
     "id": "20003803737",
@@ -3888,7 +4245,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-11-03T17:10:06.123298+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791646+00:00"
   },
   {
     "id": "20003803801",
@@ -3909,7 +4266,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: State Street Bank & Trust Co.",
-    "scraped_at": "2026-11-03T17:10:06.123334+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791657+00:00"
   },
   {
     "id": "10000066968",
@@ -3930,7 +4287,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Spouse",
     "comment": "Rate/Coupon: 5% Matures: 2041-07-01",
-    "scraped_at": "2026-11-03T17:10:06.123551+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791715+00:00"
   },
   {
     "id": "20003803724",
@@ -4056,7 +4413,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-11-03T17:10:06.123281+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791642+00:00"
   },
   {
     "id": "20003803711",
@@ -4476,7 +4833,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.123934+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791858+00:00"
   },
   {
     "id": "20003803772",
@@ -4497,7 +4854,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124131+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791921+00:00"
   },
   {
     "id": "20003803703",
@@ -4689,6 +5046,27 @@
     "scraped_at": "2026-10-10T03:55:02.615196+00:00"
   },
   {
+    "id": "20003803812",
+    "politician_name": "Daniel Meuser",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "PA",
+    "company": "NVIDIA Corporation",
+    "ticker": "NVDA:US",
+    "sector": "information-technology",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-09-25",
+    "trade_published": "2026-11-05",
+    "filed_after_days": "41",
+    "price": "$225.07",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Spouse",
+    "comment": "Subholding Of: Schwab Brokerage Account",
+    "scraped_at": "2026-11-10T04:55:02.791548+00:00"
+  },
+  {
     "id": "20003803805",
     "politician_name": "John McGuire",
     "party": "Republican",
@@ -4707,7 +5085,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Merrill Lynch SEP IRA",
-    "scraped_at": "2026-11-03T17:10:06.123222+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791627+00:00"
   },
   {
     "id": "20003803771",
@@ -4728,7 +5106,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124115+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791916+00:00"
   },
   {
     "id": "10000066908",
@@ -4812,7 +5190,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Merrill Lynch SEP IRA",
-    "scraped_at": "2026-11-03T17:10:06.123180+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791615+00:00"
   },
   {
     "id": "20003803804",
@@ -4833,7 +5211,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: Merrill Lynch SEP IRA",
-    "scraped_at": "2026-11-03T17:10:06.123201+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791622+00:00"
   },
   {
     "id": "20003803777",
@@ -4854,7 +5232,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124212+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791980+00:00"
   },
   {
     "id": "10000066947",
@@ -5610,7 +5988,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-11-03T17:10:06.123317+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791651+00:00"
   },
   {
     "id": "10000066936",
@@ -6030,7 +6408,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.123998+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791878+00:00"
   },
   {
     "id": "20003803769",
@@ -6051,7 +6429,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124080+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791905+00:00"
   },
   {
     "id": "20003803770",
@@ -6072,7 +6450,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124095+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791912+00:00"
   },
   {
     "id": "20003803775",
@@ -6093,7 +6471,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124181+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791969+00:00"
   },
   {
     "id": "20003803776",
@@ -6114,7 +6492,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124196+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791975+00:00"
   },
   {
     "id": "20003803786",
@@ -6135,7 +6513,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124355+00:00"
+    "scraped_at": "2026-11-10T04:55:02.792021+00:00"
   },
   {
     "id": "10000066945",
@@ -7500,7 +7878,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-11-03T17:10:06.123264+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791637+00:00"
   },
   {
     "id": "20003803802",
@@ -7521,7 +7899,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Kean Family Partnership",
-    "scraped_at": "2026-11-03T17:10:06.123355+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791662+00:00"
   },
   {
     "id": "20003803767",
@@ -7542,7 +7920,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124045+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791895+00:00"
   },
   {
     "id": "20003803768",
@@ -7563,7 +7941,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124064+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791900+00:00"
   },
   {
     "id": "20003803774",
@@ -7584,7 +7962,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124162+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791964+00:00"
   },
   {
     "id": "10000066941",
@@ -8067,7 +8445,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124340+00:00"
+    "scraped_at": "2026-11-10T04:55:02.792015+00:00"
   },
   {
     "id": "20003803600",
@@ -8172,7 +8550,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124030+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791887+00:00"
   },
   {
     "id": "20003803784",
@@ -8193,7 +8571,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124325+00:00"
+    "scraped_at": "2026-11-10T04:55:02.792011+00:00"
   },
   {
     "id": "20003803041",
@@ -8382,7 +8760,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.123984+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791873+00:00"
   },
   {
     "id": "20003803765",
@@ -8403,7 +8781,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124014+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791882+00:00"
   },
   {
     "id": "20003803773",
@@ -8424,7 +8802,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124147+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791960+00:00"
   },
   {
     "id": "20003803781",
@@ -8445,7 +8823,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124281+00:00"
+    "scraped_at": "2026-11-10T04:55:02.791999+00:00"
   },
   {
     "id": "20003803782",
@@ -8466,7 +8844,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124296+00:00"
+    "scraped_at": "2026-11-10T04:55:02.792003+00:00"
   },
   {
     "id": "20003803783",
@@ -8487,7 +8865,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "",
-    "scraped_at": "2026-11-03T17:10:06.124311+00:00"
+    "scraped_at": "2026-11-10T04:55:02.792007+00:00"
   },
   {
     "id": "20003803559",
