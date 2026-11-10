@@ -11702,7 +11702,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-05,09:20,2026-11-04,LBTY,Liberty Global Ltd.,Fries Michael T,"Pres, CEO",P - Purchase,9.37,110000,1277959,+9%,1030172,True
 2026-11-05,08:33,2026-11-04,RRBI,Red River Bancshares Inc,Price Teddy Ray,Dir,P - Purchase,107.76,1045,451044,0%,112606,False
 2026-11-05,08:20,2026-11-03,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,18.81,15000,19154102,0%,282214,False
-2026-11-05,07:37,2026-11-03,CRH,Crh Public Ltd Co,Talbot Siobhan,Dir,P - Purchase,94.63,2000,10507,+24%,189260,False
+2026-11-05,07:37,2026-11-03,CRH,Crh Public Ltd Co,Talbot Siobhan,Dir,P - Purchase,94.63,2000,10507,+24%,189260,True
 2026-11-05,20:37,2026-04-15,TRAD,Apex Tech Acquisition Inc.,Liu Shaoren,"CEO, CFO, 10%",P - Purchase,10.00,3029,3087000,0%,30290,False
 2026-11-05,20:37,2026-02-27,TRAD,Apex Tech Acquisition Inc.,Liu Shaoren,"CEO, CFO, 10%",P - Purchase,10.00,208971,3083971,+7%,2089710,False
 2026-11-05,20:30,2026-11-04,FLOC,Flowco Holdings Inc.,Fairbanks Jonathan B.,"See Remarks, 10%",P - Purchase,19.35,15140,722833,+2%,292924,True
@@ -11796,3 +11796,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-09,18:08,2026-11-05,ECHO,Echostar Corp,Wall William P,Dir,P - Purchase,90.41,1000,3500,+40%,90410,False
 2026-11-09,17:58,2026-11-06,UFCS,United Fire Group Inc,Milligan George D,Dir,P - Purchase,47.41,5000,95034,+6%,237050,False
 2026-11-09,17:48,2026-11-09,ROK,"Rockwell Automation, Inc",Moret Blake D.,"Pres, CEO",P - Purchase,386.36,4000,99450,+4%,1545450,False
+2026-11-10,07:42,2026-11-06,CRH,Crh Public Ltd Co,Fearon Richard H,Dir,P - Purchase,94.95,6000,150842,+4%,569700,True
+2026-11-10,07:31,2026-11-09,TROX,Tronox Holdings Plc,Johnston Peter,Dir,P - Purchase,2.63,20000,224461,+10%,52600,False
+2026-11-10,06:15,2026-11-06,MX,Magnachip Semiconductor Corp,Lee Chae,CEO,P - Purchase,2.22,70000,458750,+18%,155360,False
+2026-11-10,06:01,2026-11-06,LBTY,Liberty Global Ltd.,Malone John C,10%,P - Purchase,9.73,150000,16773559,+1%,1460150,True

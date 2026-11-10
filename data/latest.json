@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T04:26:37Z",
-  "trade_count": 11789,
+  "last_updated": "2026-11-10T13:10:07Z",
+  "trade_count": 11793,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -187136,7 +187136,7 @@
       "owned": "10507",
       "delta_own": "+24%",
       "value": "189260",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-11-05",
@@ -188625,6 +188625,70 @@
       "delta_own": "+4%",
       "value": "1545450",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-10",
+      "filing_time": "07:42",
+      "trade_date": "2026-11-06",
+      "ticker": "CRH",
+      "company": "Crh Public Ltd Co",
+      "insider_name": "Fearon Richard H",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "94.95",
+      "qty": "6000",
+      "owned": "150842",
+      "delta_own": "+4%",
+      "value": "569700",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-11-10",
+      "filing_time": "07:31",
+      "trade_date": "2026-11-09",
+      "ticker": "TROX",
+      "company": "Tronox Holdings Plc",
+      "insider_name": "Johnston Peter",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.63",
+      "qty": "20000",
+      "owned": "224461",
+      "delta_own": "+10%",
+      "value": "52600",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-10",
+      "filing_time": "06:15",
+      "trade_date": "2026-11-06",
+      "ticker": "MX",
+      "company": "Magnachip Semiconductor Corp",
+      "insider_name": "Lee Chae",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "2.22",
+      "qty": "70000",
+      "owned": "458750",
+      "delta_own": "+18%",
+      "value": "155360",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-10",
+      "filing_time": "06:01",
+      "trade_date": "2026-11-06",
+      "ticker": "LBTY",
+      "company": "Liberty Global Ltd.",
+      "insider_name": "Malone John C",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "9.73",
+      "qty": "150000",
+      "owned": "16773559",
+      "delta_own": "+1%",
+      "value": "1460150",
+      "cluster_buy": true
     }
   ]
 }
