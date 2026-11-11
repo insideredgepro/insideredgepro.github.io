@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-11T00:59:25Z",
-  "trade_count": 11835,
+  "last_updated": "2026-11-11T07:29:16Z",
+  "trade_count": 11840,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -188672,7 +188672,7 @@
       "owned": "458750",
       "delta_own": "+18%",
       "value": "155360",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-11-10",
@@ -189360,6 +189360,86 @@
       "owned": "3154262",
       "delta_own": "+1%",
       "value": "46700",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-10",
+      "filing_time": "20:30",
+      "trade_date": "2026-11-06",
+      "ticker": "MX",
+      "company": "Magnachip Semiconductor Corp",
+      "insider_name": "Amoruso Cristiano",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "2.41",
+      "qty": "568009",
+      "owned": "3337593",
+      "delta_own": "+21%",
+      "value": "1371146",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-11-10",
+      "filing_time": "20:14",
+      "trade_date": "2026-11-06",
+      "ticker": "ETRA",
+      "company": "Electra Therapeutics, Inc.",
+      "insider_name": "Gordon Carl L",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "8.08",
+      "qty": "92116",
+      "owned": "2194579",
+      "delta_own": "+4%",
+      "value": "744531",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-11-10",
+      "filing_time": "20:09",
+      "trade_date": "2026-11-06",
+      "ticker": "ETRA",
+      "company": "Electra Therapeutics, Inc.",
+      "insider_name": "Orbimed Advisors LLC",
+      "title": "Dir, 10%",
+      "trade_type": "P - Purchase",
+      "price": "8.08",
+      "qty": "92116",
+      "owned": "2194579",
+      "delta_own": "+4%",
+      "value": "744531",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-11-10",
+      "filing_time": "20:04",
+      "trade_date": "2026-11-09",
+      "ticker": "XGN",
+      "company": "Exagen Inc.",
+      "insider_name": "Chernett Jorey",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "5.85",
+      "qty": "15585",
+      "owned": "2625625",
+      "delta_own": "+1%",
+      "value": "91242",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-10",
+      "filing_time": "20:00",
+      "trade_date": "2026-11-06",
+      "ticker": "ENOV",
+      "company": "Enovis Corp",
+      "insider_name": "Wienbar Sharon L",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "27.26",
+      "qty": "1831",
+      "owned": "43777",
+      "delta_own": "+4%",
+      "value": "49917",
       "cluster_buy": false
     }
   ]

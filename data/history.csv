@@ -11798,7 +11798,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-09,17:48,2026-11-09,ROK,"Rockwell Automation, Inc",Moret Blake D.,"Pres, CEO",P - Purchase,386.36,4000,99450,+4%,1545450,False
 2026-11-10,07:42,2026-11-06,CRH,Crh Public Ltd Co,Fearon Richard H,Dir,P - Purchase,94.95,6000,150842,+4%,569700,True
 2026-11-10,07:31,2026-11-09,TROX,Tronox Holdings Plc,Johnston Peter,Dir,P - Purchase,2.63,20000,224461,+10%,52600,False
-2026-11-10,06:15,2026-11-06,MX,Magnachip Semiconductor Corp,Lee Chae,CEO,P - Purchase,2.22,70000,458750,+18%,155360,False
+2026-11-10,06:15,2026-11-06,MX,Magnachip Semiconductor Corp,Lee Chae,CEO,P - Purchase,2.22,70000,458750,+18%,155360,True
 2026-11-10,06:01,2026-11-06,LBTY,Liberty Global Ltd.,Malone John C,10%,P - Purchase,9.73,150000,16773559,+1%,1460150,True
 2026-11-10,14:57,2026-11-09,BOLT,"Bolt Biotherapeutics, Inc.",Coastlands Capital LP,10%,P - Purchase,6.38,50000,462416,+12%,319000,False
 2026-11-10,14:45,2026-11-09,PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,8.53,140000,1693000,+9%,1194158,False
@@ -11842,3 +11842,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-10,16:10,2026-11-09,CNXN,Pc Connection Inc,Zafirovski Matthew David,"Pres, COO",P - Purchase,80.20,2490,2490,New,199698,False
 2026-11-10,16:03,2026-11-06,EMN,Eastman Chemical Co,McAlindon Julie A.,"SVP, Regions, Chf SupChn Ofcr",P - Purchase,65.28,2451,21572,+13%,159989,False
 2026-11-10,15:38,2026-11-09,KLNG,"Koil Energy Solutions, Inc.",Intelligent Fanatics Capital Management LLC,10%,P - Purchase,2.34,20000,3154262,+1%,46700,False
+2026-11-10,20:30,2026-11-06,MX,Magnachip Semiconductor Corp,Amoruso Cristiano,Dir,P - Purchase,2.41,568009,3337593,+21%,1371146,True
+2026-11-10,20:14,2026-11-06,ETRA,"Electra Therapeutics, Inc.",Gordon Carl L,"Dir, 10%",P - Purchase,8.08,92116,2194579,+4%,744531,True
+2026-11-10,20:09,2026-11-06,ETRA,"Electra Therapeutics, Inc.",Orbimed Advisors LLC,"Dir, 10%",P - Purchase,8.08,92116,2194579,+4%,744531,True
+2026-11-10,20:04,2026-11-09,XGN,Exagen Inc.,Chernett Jorey,10%,P - Purchase,5.85,15585,2625625,+1%,91242,False
+2026-11-10,20:00,2026-11-06,ENOV,Enovis Corp,Wienbar Sharon L,Dir,P - Purchase,27.26,1831,43777,+4%,49917,False
