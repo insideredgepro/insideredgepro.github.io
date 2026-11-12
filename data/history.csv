@@ -11763,7 +11763,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-09,16:20,2026-11-06,LUMN,"Lumen Technologies, Inc.",Johnson Kathleen E,CEO,P - Purchase,3.97,100000,12315666,+1%,396890,True
 2026-11-09,16:18,2026-11-06,LUMN,"Lumen Technologies, Inc.",Goldberg Michelle J,Dir,P - Purchase,3.91,25000,101591,+33%,97715,True
 2026-11-09,16:15,2026-11-06,NLY,Annaly Capital Management Inc,Wede Scott,Dir,P - Purchase,18.80,50000,50000,New,940000,False
-2026-11-09,16:12,2026-11-09,DKNG,Draftkings Inc.,Ellingson Alan Wayne,CFO,P - Purchase,18.51,18908,214692,+10%,349987,False
+2026-11-09,16:12,2026-11-09,DKNG,Draftkings Inc.,Ellingson Alan Wayne,CFO,P - Purchase,18.51,18908,214692,+10%,349987,True
 2026-11-09,16:09,2026-11-05,AN,"Autonation, Inc.",Szlosek Thomas A,"EVP, CFO",P - Purchase,184.83,1081,21166,+5%,199800,True
 2026-11-09,16:09,2026-11-05,AN,"Autonation, Inc.",Travisano Jacqueline A,Dir,P - Purchase,185.29,530,9419,+6%,98204,True
 2026-11-09,16:06,2026-11-06,SOPH,Sophia Genetics Sa,Cardoza George,CFO,P - Purchase,7.06,20000,326726,+7%,141200,True
@@ -11819,7 +11819,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-10,17:16,2026-11-09,BSM,"Black Stone Minerals, L.P.",Carter Thomas L Jr,Exec COB,P - Purchase,13.73,50000,15507747,0%,686290,False
 2026-11-10,17:16,2026-11-09,NVT,Nvent Electric Plc,Parker Herbert K,Dir,P - Purchase,113.15,3000,20832,+17%,339435,False
 2026-11-10,17:12,2026-11-09,DTI,Drilling Tools International Corp,Green IRA Harris Jr,Dir,P - Purchase,1.63,25000,42207,+145%,40636,True
-2026-11-10,17:09,2026-11-10,EGBN,Eagle Bancorp Inc,Newell Eric R,"Senior EVP, CFO",P - Purchase,33.91,1470,9303,+19%,49848,False
+2026-11-10,17:09,2026-11-10,EGBN,Eagle Bancorp Inc,Newell Eric R,"Senior EVP, CFO",P - Purchase,33.91,1470,9303,+19%,49848,True
 2026-11-10,17:06,2026-11-09,DTI,Drilling Tools International Corp,Prejean Robert Wayne,CEO,P - Purchase,1.64,100000,591076,+20%,164300,True
 2026-11-10,16:57,2026-11-06,TXO,"Txo Partners, L.P.",Simpson Bob R,"Dir, 10%",P - Purchase,13.22,232839,9732839,+2%,3078749,False
 2026-11-10,16:42,2026-11-06,FUN,Six Flags Entertainment Corporation/New,Haddrill Richard M,Exec Chair,P - Purchase,10.08,9000,239117,+4%,90720,True
@@ -11994,3 +11994,25 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-12,06:02,2026-11-06,GSM,Ferroglobe Plc,Levi Marco,CEO,P - Purchase,2.53,20000,943818,+2%,50600,True
 2026-11-12,06:01,2026-11-11,CSQR,"Csquare, Inc.",Mullee Spencer Edward,CEO,P - Purchase,18.20,13573,3585000,0%,247029,False
 2026-11-12,06:01,2026-11-10,COHR,Coherent Corp.,Digirolomo Enrico,Dir,P - Purchase,222.89,1000,11644,+9%,222885,True
+2026-11-12,14:29,2026-11-10,EGBN,Eagle Bancorp Inc,Curley Stephen Russell,"Pres, CEO",P - Purchase,34.05,4393,54682,+9%,149582,True
+2026-11-12,13:56,2026-11-09,PAM,Pampa Energy Inc.,Mindlin Damian Miguel,VicePres,P - Purchase,64.22,20243,769788,+3%,1300012,True
+2026-11-12,13:15,2026-11-12,ABCL,Abcellera Biologics Inc.,Thermopylae Holdings Ltd.,10%,P - Purchase,11.54,60565,56194662,0%,698920,False
+2026-11-12,11:59,2026-11-10,AQST,"Aquestive Therapeutics, Inc.",Daly Richard J,Dir,P - Purchase,3.54,28025,28025,New,99331,False
+2026-11-12,11:37,2026-11-11,RM,Regional Management Corp.,"Basswood Capital Management, L.L.C.","Director-by-Deputization, 10%",P - Purchase,34.46,10421,582558,+2%,359108,False
+2026-11-12,11:31,2026-11-10,BFH,"Bread Financial Holdings, Inc.",Fawcett John J.,Dir,P - Purchase,22.60,10000,15000,+200%,226000,False
+2026-11-12,11:09,2026-11-09,DOX,Amdocs Ltd,Kanouff Yvette,Dir,P - Purchase,42.00,2400,32658,+8%,100800,True
+2026-11-12,10:59,2026-11-09,DOX,Amdocs Ltd,Genish Amos,Dir,P - Purchase,42.00,3565,20976,+20%,149730,True
+2026-11-12,10:57,2026-11-09,DOX,Amdocs Ltd,Davis Sarah R.,Dir,P - Purchase,42.73,822,23368,+4%,35127,True
+2026-11-12,10:54,2026-11-10,DOX,Amdocs Ltd,Macdonald John Anthony,Dir,P - Purchase,41.63,1000,31247,+3%,41630,True
+2026-11-12,09:29,2026-11-10,BDSX,Biodesix Inc,Schuler Jack W,"Emeritus Director, 10%",P - Purchase,10.02,100000,2455810,+4%,1001990,False
+2026-11-12,09:24,2026-11-11,ITIC,Investors Title Co,"Parker, Jr. Elton C.",Dir,P - Purchase,266.00,500,4250,+13%,133000,False
+2026-11-12,09:23,2026-11-11,CLIK,Click Holdings Ltd.,Chan Chun Sing,"CEO, 10%",P - Purchase,0.71,40000,4686200,+1%,28568,False
+2026-11-12,09:18,2026-11-09,KLXE,"Klx Energy Services Holdings, Inc.",Bouthillette Max,See Remarks,P - Purchase,1.02,30000,255697,+13%,30600,False
+2026-11-12,08:55,2026-11-11,DKNG,Draftkings Inc.,Wendt Gregory Westin,Dir,P - Purchase,19.76,5000,22920,+28%,98800,True
+2026-11-12,08:38,2026-11-09,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,18.87,22500,19209602,0%,424497,False
+2026-11-12,08:30,2026-11-11,CATX,"Perspective Therapeutics, Inc.",Spoor Johan M.,CEO,P - Purchase,0.81,47000,134683,+54%,37943,False
+2026-11-12,08:15,2026-11-11,XGN,Exagen Inc.,Chernett Jorey,10%,P - Purchase,5.23,71315,2696940,+3%,372977,False
+2026-11-12,08:02,2026-11-10,HOS,"Hornbeck Offshore Services, Inc.",Hornbeck Todd M,"Pres, CEO",P - Purchase,5.34,280866,5950514,+5%,1500009,False
+2026-11-12,07:47,2026-11-09,AUDC,Audiocodes Ltd,Adlersberg Shabtai,"Pres, CEO",P - Purchase,8.44,17000,4985192,0%,143409,False
+2026-11-12,07:06,2026-11-10,FIP,Ftai Infrastructure Inc.,Nicholson Kenneth J.,"CEO, Pres",P - Purchase,3.83,400000,2575539,+18%,1530000,False
+2026-11-12,07:01,2026-11-11,BW,"Babcock & Wilcox Enterprises, Inc.","Brc Group Holdings, Inc.",10%,P - Purchase,4.98,130000,27794353,0%,647593,False
