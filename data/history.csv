@@ -11846,7 +11846,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-10,20:14,2026-11-06,ETRA,"Electra Therapeutics, Inc.",Gordon Carl L,"Dir, 10%",P - Purchase,8.08,92116,2194579,+4%,744531,True
 2026-11-10,20:09,2026-11-06,ETRA,"Electra Therapeutics, Inc.",Orbimed Advisors LLC,"Dir, 10%",P - Purchase,8.08,92116,2194579,+4%,744531,True
 2026-11-10,20:04,2026-11-09,XGN,Exagen Inc.,Chernett Jorey,10%,P - Purchase,5.85,15585,2625625,+1%,91242,False
-2026-11-10,20:00,2026-11-06,ENOV,Enovis Corp,Wienbar Sharon L,Dir,P - Purchase,27.26,1831,43777,+4%,49917,False
+2026-11-10,20:00,2026-11-06,ENOV,Enovis Corp,Wienbar Sharon L,Dir,P - Purchase,27.26,1831,43777,+4%,49917,True
 2026-11-10,20:30,2026-11-09,MMX,,Amoruso Cristiano,Director,P - Purchase,2.46,300000,3262536,+10%,739020,True
 2026-11-10,20:30,2026-11-06,MMX,,Amoruso Cristiano,Director,P - Purchase,2.36,268009,2962536,+10%,632126,True
 2026-11-10,20:14,2026-11-10,EETRA,,Gordon Carl L,Director,P - Purchase,8.45,22700,5255278,+0%,191815,True
@@ -12057,3 +12057,11 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-12,16:05,2026-11-10,ALNY,"Alnylam Pharmaceuticals, Inc.",Sigal Charles Elliott,Dir,P - Purchase,152.25,1600,5046,+46%,243600,True
 2026-11-12,16:03,2026-11-09,ADTN,"Adtran Holdings, Inc.",Stanton Thomas R,"COB, CEO",P - Purchase,4.30,40000,1450890,+3%,171920,True
 2026-11-12,16:01,2026-11-09,ALNY,"Alnylam Pharmaceuticals, Inc.",Schulman Amy W,Dir,P - Purchase,156.82,1910,25959,+8%,299526,True
+2026-11-12,21:36,2026-11-09,ASR,Southeast Airport Group,Perez Anton Jose Antonio,Dir,P - Purchase,265.41,1875,2369,+380%,497650,False
+2026-11-12,21:32,2026-11-12,LRMR,"Larimar Therapeutics, Inc.",Hamilton Thomas Edward,Dir,P - Purchase,2.67,70000,944231,+8%,187082,True
+2026-11-12,20:43,2026-11-09,HPP,"Hudson Pacific Properties, Inc.",Bortz Jon E,Dir,P - Purchase,9.07,75000,110394,+212%,680112,True
+2026-11-12,20:43,2026-11-10,HPP,"Hudson Pacific Properties, Inc.",Coleman Victor J,CEO,P - Purchase,9.10,20000,140412,+17%,182000,True
+2026-11-12,20:17,2026-11-10,VISN,"Vistance Networks, Inc.",Watts Claudius E. IV,Dir,P - Purchase,3.96,50000,1607729,+3%,198195,False
+2026-11-12,20:14,2026-11-09,VISN,"Vistance Networks, Inc.",Watts Claudius E. IV,Dir,P - Purchase,4.16,200000,1557729,+15%,831060,False
+2026-11-12,20:00,2026-11-10,ENOV,Enovis Corp,Wienbar Sharon L,Dir,P - Purchase,28.09,1774,45551,+4%,49832,True
+2026-11-12,20:00,2026-11-10,ENOV,Enovis Corp,Lalor Angela S,Dir,P - Purchase,28.57,1757,33243,+6%,50193,True
