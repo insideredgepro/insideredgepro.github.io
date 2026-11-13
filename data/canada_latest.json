@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T23:02:14Z",
-  "trade_count": 4080,
+  "last_updated": "2026-11-13T04:45:35Z",
+  "trade_count": 4081,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -62829,6 +62829,22 @@
       "qty": "222000",
       "price": "0.2700",
       "value": "59940",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4801971",
+      "trade_date": "2026-11-12",
+      "filing_date": "2026-11-12",
+      "company": "Western Copper and Gold Corporation",
+      "ticker": "WRN",
+      "insider_name": "Smith, Mark Elliot",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "52100",
+      "price": "1.4800",
+      "value": "77108",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false

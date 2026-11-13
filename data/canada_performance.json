@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-12",
-  "entry_count": 321,
+  "entry_count": 322,
   "entries": [
     {
       "id": "CA|BYD|2026-09-14|brown, david g.|126.2357",
@@ -7450,6 +7450,26 @@
       },
       "latest_price": 0.27,
       "return_pct": 0.0,
+      "last_snapshot": "2026-11-12"
+    },
+    {
+      "id": "CA|WRN|2026-11-12|smith, mark elliot|1.48",
+      "market": "CA",
+      "ticker": "WRN",
+      "yf_symbol": "WRN.TO",
+      "company": "Western Copper and Gold Corporation",
+      "insider_name": "Smith, Mark Elliot",
+      "title": "Director",
+      "trade_date": "2026-11-12",
+      "trade_price": 1.48,
+      "value": 77108.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-11-12": 2.07
+      },
+      "latest_price": 2.07,
+      "return_pct": 39.86,
       "last_snapshot": "2026-11-12"
     }
   ]
