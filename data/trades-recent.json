@@ -374,6 +374,90 @@
     "scraped_at": "2026-03-03T06:07:47.231168"
   },
   {
+    "id": "20003804200",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Broadcom Inc",
+    "ticker": "AVGO:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-05",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "7",
+    "price": "$291.53",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+    "scraped_at": "2026-11-13T17:10:03.356368+00:00"
+  },
+  {
+    "id": "20003804205",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "The Home Depot Inc",
+    "ticker": "HD:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-05",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "7",
+    "price": "$349.94",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+    "scraped_at": "2026-11-13T17:10:03.356394+00:00"
+  },
+  {
+    "id": "20003804209",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Lam Research Corp",
+    "ticker": "LRCX:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-05",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "7",
+    "price": "$185.20",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+    "scraped_at": "2026-11-13T17:10:03.356417+00:00"
+  },
+  {
+    "id": "20003804210",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "The Procter & Gamble Co",
+    "ticker": "PG:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-05",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "7",
+    "price": "$167.10",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+    "scraped_at": "2026-11-13T17:10:03.356423+00:00"
+  },
+  {
     "id": "20003804165",
     "politician_name": "Gilbert Cisneros",
     "party": "Democrat",
@@ -392,7 +476,322 @@
     "amount": "$250K\u2013$500K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America - municipal securities",
-    "scraped_at": "2026-11-13T04:55:03.863965+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356763+00:00"
+  },
+  {
+    "id": "20003804194",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Alphabet Inc",
+    "ticker": "GOOGL:US",
+    "sector": "communication-services",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-03",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "9",
+    "price": "$280.03",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-11-13T17:10:03.356310+00:00"
+  },
+  {
+    "id": "20003804195",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Alphabet Inc",
+    "ticker": "GOOGL:US",
+    "sector": "communication-services",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-03",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "9",
+    "price": "$280.03",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+    "scraped_at": "2026-11-13T17:10:03.356334+00:00"
+  },
+  {
+    "id": "20003804196",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Amgen Inc",
+    "ticker": "AMGN:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-03",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "9",
+    "price": "$461.26",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+    "scraped_at": "2026-11-13T17:10:03.356344+00:00"
+  },
+  {
+    "id": "20003804197",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Amgen Inc",
+    "ticker": "AMGN:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-03",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "9",
+    "price": "$461.26",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-11-13T17:10:03.356350+00:00"
+  },
+  {
+    "id": "20003804198",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "AT&T Inc",
+    "ticker": "T:US",
+    "sector": "communication-services",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-03",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "9",
+    "price": "$21.39",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-11-13T17:10:03.356356+00:00"
+  },
+  {
+    "id": "20003804199",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "AT&T Inc",
+    "ticker": "T:US",
+    "sector": "communication-services",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-03",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "9",
+    "price": "$21.39",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+    "scraped_at": "2026-11-13T17:10:03.356363+00:00"
+  },
+  {
+    "id": "20003804201",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Eaton Corp PLC",
+    "ticker": "ETN:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-03",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "9",
+    "price": "$391.70",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-11-13T17:10:03.356374+00:00"
+  },
+  {
+    "id": "20003804202",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Eaton Corp PLC",
+    "ticker": "ETN:US",
+    "sector": "industrials",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-03",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "9",
+    "price": "$391.70",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+    "scraped_at": "2026-11-13T17:10:03.356379+00:00"
+  },
+  {
+    "id": "20003804203",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Eli Lilly and Co",
+    "ticker": "LLY:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-03",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "9",
+    "price": "$1,409.38",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+    "scraped_at": "2026-11-13T17:10:03.356384+00:00"
+  },
+  {
+    "id": "20003804204",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Eli Lilly and Co",
+    "ticker": "LLY:US",
+    "sector": "health-care",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-03",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "9",
+    "price": "$1,409.38",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-11-13T17:10:03.356389+00:00"
+  },
+  {
+    "id": "20003804206",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Installed Building Products Inc",
+    "ticker": "IBP:US",
+    "sector": "consumer-discretionary",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-03",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "9",
+    "price": "$212.46",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+    "scraped_at": "2026-11-13T17:10:03.356402+00:00"
+  },
+  {
+    "id": "20003804207",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "The Kroger Co",
+    "ticker": "KR:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-03",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "9",
+    "price": "$66.81",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+    "scraped_at": "2026-11-13T17:10:03.356407+00:00"
+  },
+  {
+    "id": "20003804208",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "The Kroger Co",
+    "ticker": "KR:US",
+    "sector": "consumer-staples",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-03",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "9",
+    "price": "$66.81",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-11-13T17:10:03.356412+00:00"
+  },
+  {
+    "id": "20003804211",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Visa Inc",
+    "ticker": "V:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-03",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "9",
+    "price": "$420.42",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+    "scraped_at": "2026-11-13T17:10:03.356428+00:00"
+  },
+  {
+    "id": "20003804212",
+    "politician_name": "David Taylor",
+    "party": "Republican",
+    "chamber": "House",
+    "state": "OH",
+    "company": "Visa Inc",
+    "ticker": "V:US",
+    "sector": "financials",
+    "transaction_type": "SELL",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-03",
+    "trade_published": "2026-11-13",
+    "filed_after_days": "9",
+    "price": "$420.42",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Not Disclosed",
+    "comment": "Subholding Of: David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+    "scraped_at": "2026-11-13T17:10:03.356432+00:00"
   },
   {
     "id": "20003804127",
@@ -413,7 +812,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863774+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356553+00:00"
   },
   {
     "id": "20003804177",
@@ -434,7 +833,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America Description: Ticker 8035 JP",
-    "scraped_at": "2026-11-13T04:55:03.864029+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356824+00:00"
   },
   {
     "id": "20003803845",
@@ -518,7 +917,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863752+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356531+00:00"
   },
   {
     "id": "20003804126",
@@ -539,7 +938,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863765+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356547+00:00"
   },
   {
     "id": "20003804145",
@@ -560,7 +959,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863866+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356655+00:00"
   },
   {
     "id": "20003804150",
@@ -581,7 +980,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863891+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356682+00:00"
   },
   {
     "id": "20003804161",
@@ -602,7 +1001,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863946+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356744+00:00"
   },
   {
     "id": "20003804163",
@@ -623,7 +1022,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863957+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356754+00:00"
   },
   {
     "id": "20003804164",
@@ -644,7 +1043,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America - municipal securities",
-    "scraped_at": "2026-11-13T04:55:03.863961+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356758+00:00"
   },
   {
     "id": "20003803847",
@@ -770,7 +1169,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America - municipal securities",
-    "scraped_at": "2026-11-13T04:55:03.863783+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356564+00:00"
   },
   {
     "id": "20003804176",
@@ -791,7 +1190,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America Description: Ticker 8035 JP",
-    "scraped_at": "2026-11-13T04:55:03.864023+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356819+00:00"
   },
   {
     "id": "20003803813",
@@ -959,7 +1358,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-11-13T04:55:03.863683+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356465+00:00"
   },
   {
     "id": "20003804184",
@@ -980,7 +1379,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-11-13T04:55:03.863688+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356470+00:00"
   },
   {
     "id": "20003804185",
@@ -1001,7 +1400,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-11-13T04:55:03.863693+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356476+00:00"
   },
   {
     "id": "20003804186",
@@ -1022,7 +1421,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-11-13T04:55:03.863698+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356481+00:00"
   },
   {
     "id": "20003804187",
@@ -1043,7 +1442,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-11-13T04:55:03.863702+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356485+00:00"
   },
   {
     "id": "20003804188",
@@ -1064,7 +1463,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-11-13T04:55:03.863707+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356490+00:00"
   },
   {
     "id": "20003804189",
@@ -1085,7 +1484,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "",
-    "scraped_at": "2026-11-13T04:55:03.863712+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356495+00:00"
   },
   {
     "id": "20003803846",
@@ -1169,7 +1568,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863798+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356585+00:00"
   },
   {
     "id": "20003804152",
@@ -1190,7 +1589,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863900+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356692+00:00"
   },
   {
     "id": "20003804166",
@@ -1211,7 +1610,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863970+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356767+00:00"
   },
   {
     "id": "20003803831",
@@ -1421,7 +1820,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863718+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356500+00:00"
   },
   {
     "id": "20003804118",
@@ -1442,7 +1841,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863724+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356506+00:00"
   },
   {
     "id": "20003804120",
@@ -1463,7 +1862,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863734+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356515+00:00"
   },
   {
     "id": "20003804130",
@@ -1484,7 +1883,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863788+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356574+00:00"
   },
   {
     "id": "20003804131",
@@ -1505,7 +1904,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863793+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356580+00:00"
   },
   {
     "id": "20003804133",
@@ -1526,7 +1925,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863803+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356591+00:00"
   },
   {
     "id": "20003804134",
@@ -1547,7 +1946,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863808+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356596+00:00"
   },
   {
     "id": "20003804135",
@@ -1568,7 +1967,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863812+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356601+00:00"
   },
   {
     "id": "20003804136",
@@ -1589,7 +1988,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863818+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356606+00:00"
   },
   {
     "id": "20003804138",
@@ -1610,7 +2009,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863829+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356616+00:00"
   },
   {
     "id": "20003804139",
@@ -1631,7 +2030,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863835+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356622+00:00"
   },
   {
     "id": "20003804141",
@@ -1652,7 +2051,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863844+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356633+00:00"
   },
   {
     "id": "20003804142",
@@ -1673,7 +2072,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863850+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356639+00:00"
   },
   {
     "id": "20003804143",
@@ -1694,7 +2093,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863855+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356645+00:00"
   },
   {
     "id": "20003804146",
@@ -1715,7 +2114,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863871+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356660+00:00"
   },
   {
     "id": "20003804149",
@@ -1736,7 +2135,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863886+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356677+00:00"
   },
   {
     "id": "20003804155",
@@ -1757,7 +2156,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863915+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356707+00:00"
   },
   {
     "id": "20003804158",
@@ -1778,7 +2177,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863932+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356723+00:00"
   },
   {
     "id": "20003804159",
@@ -1799,7 +2198,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863936+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356728+00:00"
   },
   {
     "id": "20003804162",
@@ -1820,7 +2219,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863951+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356749+00:00"
   },
   {
     "id": "20003804172",
@@ -1841,7 +2240,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.864001+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356799+00:00"
   },
   {
     "id": "20003804174",
@@ -1862,7 +2261,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.864013+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356808+00:00"
   },
   {
     "id": "20003804178",
@@ -1883,7 +2282,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.864033+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356832+00:00"
   },
   {
     "id": "20003804180",
@@ -1904,7 +2303,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.864042+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356841+00:00"
   },
   {
     "id": "20003803809",
@@ -2030,7 +2429,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America - municipal securities",
-    "scraped_at": "2026-11-13T04:55:03.863779+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356559+00:00"
   },
   {
     "id": "20003803830",
@@ -2156,7 +2555,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863995+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356794+00:00"
   },
   {
     "id": "20003803709",
@@ -2219,7 +2618,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863742+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356520+00:00"
   },
   {
     "id": "20003804147",
@@ -2240,7 +2639,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863877+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356665+00:00"
   },
   {
     "id": "20003804154",
@@ -2261,7 +2660,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Wells Fargo Advisors",
-    "scraped_at": "2026-11-13T04:55:03.863910+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356702+00:00"
   },
   {
     "id": "20003804170",
@@ -2282,7 +2681,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Wells Fargo Advisors",
-    "scraped_at": "2026-11-13T04:55:03.863990+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356789+00:00"
   },
   {
     "id": "20003804116",
@@ -2660,7 +3059,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863729+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356511+00:00"
   },
   {
     "id": "20003804122",
@@ -2681,7 +3080,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863747+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356527+00:00"
   },
   {
     "id": "20003804137",
@@ -2702,7 +3101,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863824+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356610+00:00"
   },
   {
     "id": "20003804148",
@@ -2723,7 +3122,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863882+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356671+00:00"
   },
   {
     "id": "20003804160",
@@ -2744,7 +3143,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863941+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356733+00:00"
   },
   {
     "id": "20003804167",
@@ -2765,7 +3164,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America Description: Ticker 6758 JP",
-    "scraped_at": "2026-11-13T04:55:03.863976+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356774+00:00"
   },
   {
     "id": "20003804168",
@@ -2786,7 +3185,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863980+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356779+00:00"
   },
   {
     "id": "20003804173",
@@ -2807,7 +3206,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.864007+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356803+00:00"
   },
   {
     "id": "20003803825",
@@ -3017,7 +3416,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America Description: Ticker BNP FP",
-    "scraped_at": "2026-11-13T04:55:03.863761+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356542+00:00"
   },
   {
     "id": "20003804140",
@@ -3038,7 +3437,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America Description: Ticker ENGI FP",
-    "scraped_at": "2026-11-13T04:55:03.863840+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356628+00:00"
   },
   {
     "id": "20003804153",
@@ -3059,7 +3458,7 @@
     "amount": "$100K\u2013$250K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America - municipal securities",
-    "scraped_at": "2026-11-13T04:55:03.863905+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356697+00:00"
   },
   {
     "id": "20003804157",
@@ -3080,7 +3479,7 @@
     "amount": "$50K\u2013$100K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America - municipal securities",
-    "scraped_at": "2026-11-13T04:55:03.863927+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356716+00:00"
   },
   {
     "id": "20003804115",
@@ -4487,7 +4886,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Spouse",
     "comment": "Subholding Of: R.W. Allen & Associates, Inc. > RWA&A - Securities",
-    "scraped_at": "2026-11-13T04:55:03.863655+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356442+00:00"
   },
   {
     "id": "20003804124",
@@ -4508,7 +4907,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America Description: Ticker BNS CN",
-    "scraped_at": "2026-11-13T04:55:03.863756+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356537+00:00"
   },
   {
     "id": "20003804151",
@@ -4529,7 +4928,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863896+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356687+00:00"
   },
   {
     "id": "20003804181",
@@ -4550,7 +4949,7 @@
     "amount": "$250K\u2013$500K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America - municipal securities",
-    "scraped_at": "2026-11-13T04:55:03.864048+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356846+00:00"
   },
   {
     "id": "20003803780",
@@ -4676,7 +5075,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America Description: Ticker 6981 JP",
-    "scraped_at": "2026-11-13T04:55:03.863921+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356712+00:00"
   },
   {
     "id": "20003803823",
@@ -5033,7 +5432,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Joint",
     "comment": "Subholding Of: Merrill Lynch Tax Efficient Core",
-    "scraped_at": "2026-11-13T04:55:03.863678+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356460+00:00"
   },
   {
     "id": "20003804179",
@@ -5054,7 +5453,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.864038+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356837+00:00"
   },
   {
     "id": "20003804114",
@@ -5390,7 +5789,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.863860+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356651+00:00"
   },
   {
     "id": "20003804175",
@@ -5411,7 +5810,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Bank of America",
-    "scraped_at": "2026-11-13T04:55:03.864018+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356813+00:00"
   },
   {
     "id": "10000066969",
@@ -5495,7 +5894,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: SCH1",
-    "scraped_at": "2026-11-13T04:55:03.863666+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356447+00:00"
   },
   {
     "id": "20003804192",
@@ -5516,7 +5915,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: SCH1",
-    "scraped_at": "2026-11-13T04:55:03.863672+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356454+00:00"
   },
   {
     "id": "20003803826",
@@ -6230,7 +6629,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Description: Automatic reinvestment of dividends earned.",
-    "scraped_at": "2026-11-13T04:55:03.863628+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356438+00:00"
   },
   {
     "id": "20003803811",
@@ -30110,237 +30509,6 @@
     "scraped_at": "2026-08-27T03:55:03.550902+00:00"
   },
   {
-    "id": "20003802128",
-    "politician_name": "Charles Fleischmann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "TN",
-    "company": "GLOBAL X DEFENSE TECH ETF",
-    "ticker": "SHLD:US",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-07-28",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "15",
-    "price": "$63.91",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Joint",
-    "comment": "",
-    "scraped_at": "2026-08-20T03:55:03.262607+00:00"
-  },
-  {
-    "id": "20003802129",
-    "politician_name": "Charles Fleischmann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "TN",
-    "company": "INVESCO S&P SMALLCAP QUALITY ETF",
-    "ticker": "XSHQ:US",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-07-28",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "15",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Joint",
-    "comment": "",
-    "scraped_at": "2026-08-20T03:55:03.262611+00:00"
-  },
-  {
-    "id": "20003802130",
-    "politician_name": "Charles Fleischmann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "TN",
-    "company": "iShares 10-20 Year Treasury Bond ETF",
-    "ticker": "TLH:US",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-07-28",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "15",
-    "price": "$98.28",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Joint",
-    "comment": "",
-    "scraped_at": "2026-08-19T03:55:03.167981+00:00"
-  },
-  {
-    "id": "20003802131",
-    "politician_name": "Charles Fleischmann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "TN",
-    "company": "iShares Core MSCI Europe ETF",
-    "ticker": "IEUR:US",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-07-28",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "15",
-    "price": "$75.48",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Joint",
-    "comment": "",
-    "scraped_at": "2026-08-19T03:55:03.167993+00:00"
-  },
-  {
-    "id": "20003802132",
-    "politician_name": "Charles Fleischmann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "TN",
-    "company": "Proshares Trust - ProShares S&P MidCap 400 Dividend Aristocrats ETF",
-    "ticker": "REGL:US",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-07-28",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "15",
-    "price": "$95.56",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Joint",
-    "comment": "",
-    "scraped_at": "2026-08-19T03:55:03.168002+00:00"
-  },
-  {
-    "id": "20003802133",
-    "politician_name": "Charles Fleischmann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "TN",
-    "company": "SPDR Portfolio S&P 500 Growth ETF",
-    "ticker": "SPYG:US",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-07-28",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "15",
-    "price": "$114.21",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Joint",
-    "comment": "",
-    "scraped_at": "2026-08-19T03:55:03.168011+00:00"
-  },
-  {
-    "id": "20003802134",
-    "politician_name": "Charles Fleischmann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "TN",
-    "company": "SPDR S&P Aerospace & Defense ETF",
-    "ticker": "XAR:US",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-07-28",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "15",
-    "price": "$271.92",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Joint",
-    "comment": "",
-    "scraped_at": "2026-08-19T03:55:03.168019+00:00"
-  },
-  {
-    "id": "20003802135",
-    "politician_name": "Charles Fleischmann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "TN",
-    "company": "SPDR Bloomberg Barclays Intermediate Term Treasury ETF",
-    "ticker": "SPTI:US",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-07-28",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "15",
-    "price": "$28.18",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Joint",
-    "comment": "",
-    "scraped_at": "2026-08-19T03:55:03.168028+00:00"
-  },
-  {
-    "id": "20003802136",
-    "politician_name": "Charles Fleischmann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "TN",
-    "company": "VanEck Vectors ETF Trust VanEck Vectors Gold Miners ETF",
-    "ticker": "GDX:US",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-07-28",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "15",
-    "price": "$74.21",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Joint",
-    "comment": "",
-    "scraped_at": "2026-08-19T03:55:03.168036+00:00"
-  },
-  {
-    "id": "20003802137",
-    "politician_name": "Charles Fleischmann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "TN",
-    "company": "VANGUARD FTSE PACIFIC ETF",
-    "ticker": "VPL:US",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-07-28",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "15",
-    "price": "$106.53",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Joint",
-    "comment": "",
-    "scraped_at": "2026-08-19T03:55:03.168044+00:00"
-  },
-  {
-    "id": "20003802138",
-    "politician_name": "Charles Fleischmann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "TN",
-    "company": "SPDR GOLD MINISHARES TR",
-    "ticker": "GLDM:US",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-07-28",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "15",
-    "price": "$79.66",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Joint",
-    "comment": "",
-    "scraped_at": "2026-08-19T03:55:03.168055+00:00"
-  },
-  {
     "id": "20003802226",
     "politician_name": "Nancy Pelosi",
     "party": "Democrat",
@@ -33302,27 +33470,6 @@
     "scraped_at": "2026-08-28T03:55:04.108549+00:00"
   },
   {
-    "id": "10000066601",
-    "politician_name": "Mark Warner",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "VA",
-    "company": "CITY OF MANASSAS VIRGINIA",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-07-07",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "38",
-    "price": "N/A",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Self",
-    "comment": "Rate/Coupon: 4.0% Matures: 2032-01-01",
-    "scraped_at": "2026-08-22T03:55:03.246895+00:00"
-  },
-  {
     "id": "20003802282",
     "politician_name": "Gilbert Cisneros",
     "party": "Democrat",
@@ -33491,48 +33638,6 @@
     "scraped_at": "2026-08-22T03:55:03.246879+00:00"
   },
   {
-    "id": "10000066602",
-    "politician_name": "Mark Warner",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "VA",
-    "company": "CITY OF ALEXANDRIA VIRGINIA",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-07-02",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "43",
-    "price": "N/A",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Self",
-    "comment": "Rate/Coupon: 5.0% Matures: 2031-12-15",
-    "scraped_at": "2026-08-22T03:55:03.246908+00:00"
-  },
-  {
-    "id": "10000066603",
-    "politician_name": "Mark Warner",
-    "party": "Democrat",
-    "chamber": "Senate",
-    "state": "VA",
-    "company": "CITY OF VIRGINIA BEACH VIRGINIA",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-07-02",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "43",
-    "price": "N/A",
-    "value": 175000,
-    "amount": "$100K\u2013$250K",
-    "owner": "Self",
-    "comment": "Rate/Coupon: 5.0% Matures: 2031-02-01",
-    "scraped_at": "2026-08-22T03:55:03.246919+00:00"
-  },
-  {
     "id": "20003802187",
     "politician_name": "Scott Peters",
     "party": "Democrat",
@@ -33554,48 +33659,6 @@
     "scraped_at": "2026-08-27T03:55:03.550864+00:00"
   },
   {
-    "id": "20003802119",
-    "politician_name": "William Keating",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "MA",
-    "company": "Capital One Financial Corp",
-    "ticker": "COF:US",
-    "sector": "financials",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-06-30",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "44",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Focus Partners IRA Description: 14040HDC6",
-    "scraped_at": "2026-08-20T03:55:03.262597+00:00"
-  },
-  {
-    "id": "20003802120",
-    "politician_name": "William Keating",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "MA",
-    "company": "HCA Healthcare Inc",
-    "ticker": "HCA:US",
-    "sector": "health-care",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2026-06-30",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "44",
-    "price": "N/A",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Focus Partners IRA Description: 404121AJ4",
-    "scraped_at": "2026-08-20T03:55:03.262602+00:00"
-  },
-  {
     "id": "20003804169",
     "politician_name": "Gilbert Cisneros",
     "party": "Democrat",
@@ -33614,28 +33677,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: 150 Main Street Trust > Wells Fargo Advisors",
-    "scraped_at": "2026-11-13T04:55:03.863985+00:00"
-  },
-  {
-    "id": "20003802125",
-    "politician_name": "Shri Thanedar",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "MI",
-    "company": "Apple Inc",
-    "ticker": "AAPL:US",
-    "sector": "information-technology",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2026-01-09",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "216",
-    "price": "$259.37",
-    "value": 175000,
-    "amount": "$100K\u2013$250K",
-    "owner": "Not Disclosed",
-    "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246934+00:00"
+    "scraped_at": "2026-11-13T17:10:03.356784+00:00"
   },
   {
     "id": "20003802149",
@@ -33995,69 +34037,6 @@
     "scraped_at": "2026-08-28T03:55:04.108310+00:00"
   },
   {
-    "id": "10000066597",
-    "politician_name": "Timothy Sheehy",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "MT",
-    "company": "MAX VENTURES NEW WORLD OPPORTUNITIES FUND LP",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2025-11-04",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "282",
-    "price": "N/A",
-    "value": 75000,
-    "amount": "$50K\u2013$100K",
-    "owner": "Self",
-    "comment": "Asset of, and sale made at the direction of, Max Ventures New World Opportunities Fund LP. It is unclear whether filer's indirect interest through multiple layers of ownership requires reporting the transaction. Filer is reporting in the interest of public disclosure. Company: Sana Labs AB  (Stockholm, Sweden) Description: Education/Training",
-    "scraped_at": "2026-08-19T03:55:03.168071+00:00"
-  },
-  {
-    "id": "10000066598",
-    "politician_name": "Timothy Sheehy",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "MT",
-    "company": "WCAS XIV CO INVESTORS LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2025-11-03",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "283",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Self",
-    "comment": "Asset of, and investment made at the direction of, WCAS XIV Co-Investors LLC subsidiary. It is unclear whether filer's indirect interest through multiple layers of ownership requires reporting the transaction. Filer is reporting in the interest of public disclosure. Company: Grant Street Group  (Pittsburgh, PA) Description: Software Company",
-    "scraped_at": "2026-08-19T03:55:03.168081+00:00"
-  },
-  {
-    "id": "20003802126",
-    "politician_name": "Shri Thanedar",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "MI",
-    "company": "MicroStrategy Inc",
-    "ticker": "MSTR:US",
-    "sector": "information-technology",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2025-10-21",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "296",
-    "price": "$301.91",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Not Disclosed",
-    "comment": "",
-    "scraped_at": "2026-08-22T03:55:03.246947+00:00"
-  },
-  {
     "id": "20003803077",
     "politician_name": "Rohit Khanna",
     "party": "Democrat",
@@ -34079,27 +34058,6 @@
     "scraped_at": "2026-10-12T22:10:01.967672+00:00"
   },
   {
-    "id": "20003802127",
-    "politician_name": "Derek Tran",
-    "party": "Democrat",
-    "chamber": "House",
-    "state": "CA",
-    "company": "LITECOIN",
-    "ticker": "$$LTC",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2025-07-28",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "381",
-    "price": "$108.59",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Not Disclosed",
-    "comment": "Subholding Of: Coinbase cryptocurrency wallet",
-    "scraped_at": "2026-08-22T03:55:03.246964+00:00"
-  },
-  {
     "id": "20003803719",
     "politician_name": "Jodey Arrington",
     "party": "Republican",
@@ -34119,69 +34077,6 @@
     "owner": "Joint",
     "comment": "Description: The land we owned in an investment fund that purchased land for oil leases was sold. We owned a small",
     "scraped_at": "2026-10-31T03:55:03.107152+00:00"
-  },
-  {
-    "id": "10000066599",
-    "politician_name": "Timothy Sheehy",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "MT",
-    "company": "WCAS XIV CO INVESTORS LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2025-07-08",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "401",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Self",
-    "comment": "Asset of, and investment made at the direction of, WCAS XIV Co-Investors LLC subsidiary. It is unclear whether filer's indirect interest through multiple layers of ownership requires reporting the transaction. Filer is reporting in the interest of public disclosure. Company: AIA Contract Documents  (Washington, DC) Description: Construction Contract Software",
-    "scraped_at": "2026-08-19T03:55:03.168089+00:00"
-  },
-  {
-    "id": "10000066596",
-    "politician_name": "Timothy Sheehy",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "MT",
-    "company": "ANSETT AEROSPACE HOLDINGS LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2025-06-28",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "411",
-    "price": "N/A",
-    "value": 750000,
-    "amount": "$500K\u2013$1M",
-    "owner": "Self",
-    "comment": "Asset of, and sale made at the direction of, Ansett Aerospace Holdings LLC. It is unclear whether filer's indirect interest through multiple layers of ownership requires reporting the transaction. Filer is reporting in the interest of public disclosure. Company: Regaero Holdings Pty Ltd  (Melbourne, Australia) Description: Aviation Training Facilities",
-    "scraped_at": "2026-08-19T03:55:03.168063+00:00"
-  },
-  {
-    "id": "10000066600",
-    "politician_name": "Timothy Sheehy",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "MT",
-    "company": "WCAS XIV CO INVESTORS LLC",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2025-06-16",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "423",
-    "price": "N/A",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Self",
-    "comment": "Asset of, and investment made at the direction of, WCAS XIV Co-Investors LLC subsidiary. It is unclear whether filer's indirect interest through multiple layers of ownership requires reporting the transaction. Filer is reporting in the interest of public disclosure. Company: Constitution Surgery Alliance  (Avon, CT) Description: Healthcare Company",
-    "scraped_at": "2026-08-19T03:55:03.168097+00:00"
   },
   {
     "id": "20003802765",
@@ -34413,426 +34308,6 @@
     "owner": "Joint",
     "comment": "",
     "scraped_at": "2026-08-28T03:55:04.108499+00:00"
-  },
-  {
-    "id": "20003802121",
-    "politician_name": "Carol Miller",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "WV",
-    "company": "Pfizer Inc",
-    "ticker": "PFE:US",
-    "sector": "health-care",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2025-03-10",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "521",
-    "price": "$26.64",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "Subholding Of: United Bank Brokerage Account",
-    "scraped_at": "2026-08-22T03:55:03.246978+00:00"
-  },
-  {
-    "id": "20003802122",
-    "politician_name": "Carol Miller",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "WV",
-    "company": "Quest Diagnostics Inc",
-    "ticker": "DGX:US",
-    "sector": "health-care",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2025-03-10",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "521",
-    "price": "$173.12",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "Subholding Of: United Bank Brokerage Account",
-    "scraped_at": "2026-08-22T03:55:03.246991+00:00"
-  },
-  {
-    "id": "20003802123",
-    "politician_name": "Carol Miller",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "WV",
-    "company": "Target Corp",
-    "ticker": "TGT:US",
-    "sector": "consumer-staples",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2025-03-10",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "521",
-    "price": "$113.85",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "Subholding Of: United Bank Brokerage Account",
-    "scraped_at": "2026-08-22T03:55:03.247004+00:00"
-  },
-  {
-    "id": "20003802124",
-    "politician_name": "Carol Miller",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "WV",
-    "company": "U.S. Bancorp",
-    "ticker": "USB:US",
-    "sector": "financials",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2025-03-10",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "521",
-    "price": "$42.37",
-    "value": 32500,
-    "amount": "$15K\u2013$50K",
-    "owner": "Spouse",
-    "comment": "Subholding Of: United Bank Brokerage Account",
-    "scraped_at": "2026-08-21T03:55:03.276539+00:00"
-  },
-  {
-    "id": "10000066590",
-    "politician_name": "Richard Scott",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "FL",
-    "company": "CENTRAL TEXAS REGIONAL MOBILITY AUTHORITY",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2025-02-07",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "552",
-    "price": "N/A",
-    "value": 750000,
-    "amount": "$500K\u2013$1M",
-    "owner": "Self",
-    "comment": "Rate/Coupon: 5.0% Matures: 2040-01-01",
-    "scraped_at": "2026-08-18T03:55:03.261844+00:00"
-  },
-  {
-    "id": "10000066591",
-    "politician_name": "Richard Scott",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "FL",
-    "company": "PORT OF SEATTLE WASHINGTON",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2025-02-07",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "552",
-    "price": "N/A",
-    "value": 175000,
-    "amount": "$100K\u2013$250K",
-    "owner": "Self",
-    "comment": "Rate/Coupon: 5.0% Matures: 05/01/2026",
-    "scraped_at": "2026-08-18T03:55:03.261850+00:00"
-  },
-  {
-    "id": "10000066592",
-    "politician_name": "Richard Scott",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "FL",
-    "company": "PORT OF SEATTLE WASHINGTON",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2025-02-07",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "552",
-    "price": "N/A",
-    "value": 375000,
-    "amount": "$250K\u2013$500K",
-    "owner": "Spouse",
-    "comment": "Rate/Coupon: 5.0% Matures: 05/01/2026",
-    "scraped_at": "2026-08-18T03:55:03.261856+00:00"
-  },
-  {
-    "id": "10000066593",
-    "politician_name": "Richard Scott",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "FL",
-    "company": "CITY OF CHARLOTTE NORTH CAROLINA",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2025-02-07",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "552",
-    "price": "N/A",
-    "value": 175000,
-    "amount": "$100K\u2013$250K",
-    "owner": "Self",
-    "comment": "Rate/Coupon: 5.0% Matures: 07/01/2054",
-    "scraped_at": "2026-08-18T03:55:03.261865+00:00"
-  },
-  {
-    "id": "10000066594",
-    "politician_name": "Richard Scott",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "FL",
-    "company": "CITY OF CHARLOTTE NORTH CAROLINA",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2025-02-07",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "552",
-    "price": "N/A",
-    "value": 750000,
-    "amount": "$500K\u2013$1M",
-    "owner": "Self",
-    "comment": "Rate/Coupon: 5.0% Matures: 07/01/2054",
-    "scraped_at": "2026-08-18T03:55:03.261870+00:00"
-  },
-  {
-    "id": "10000066595",
-    "politician_name": "Richard Scott",
-    "party": "Republican",
-    "chamber": "Senate",
-    "state": "FL",
-    "company": "CITY OF CHARLOTTE NORTH CAROLINA",
-    "ticker": "",
-    "sector": "",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2025-02-07",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "552",
-    "price": "N/A",
-    "value": 375000,
-    "amount": "$250K\u2013$500K",
-    "owner": "Spouse",
-    "comment": "Rate/Coupon: 5.0% Matures: 07/01/2054",
-    "scraped_at": "2026-08-18T03:55:03.261874+00:00"
-  },
-  {
-    "id": "20003802144",
-    "politician_name": "Tracey Mann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "KS",
-    "company": "Apple Inc",
-    "ticker": "AAPL:US",
-    "sector": "information-technology",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2024-09-09",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "703",
-    "price": "$220.91",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-08-20T03:55:03.262573+00:00"
-  },
-  {
-    "id": "20003802145",
-    "politician_name": "Tracey Mann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "KS",
-    "company": "Alphabet Inc",
-    "ticker": "GOOGL:US",
-    "sector": "communication-services",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2024-09-09",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "703",
-    "price": "$148.71",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-08-20T03:55:03.262578+00:00"
-  },
-  {
-    "id": "20003802146",
-    "politician_name": "Tracey Mann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "KS",
-    "company": "Microsoft Corp",
-    "ticker": "MSFT:US",
-    "sector": "information-technology",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2024-09-09",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "703",
-    "price": "$405.72",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-08-20T03:55:03.262583+00:00"
-  },
-  {
-    "id": "20003802147",
-    "politician_name": "Tracey Mann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "KS",
-    "company": "Meta Platforms Inc",
-    "ticker": "META:US",
-    "sector": "communication-services",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2024-09-09",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "703",
-    "price": "$504.79",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-08-20T03:55:03.262587+00:00"
-  },
-  {
-    "id": "20003802148",
-    "politician_name": "Tracey Mann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "KS",
-    "company": "NVIDIA Corporation",
-    "ticker": "NVDA:US",
-    "sector": "information-technology",
-    "transaction_type": "SELL",
-    "tx_type_extended": "",
-    "traded_on": "2024-09-09",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "703",
-    "price": "$106.47",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-08-20T03:55:03.262592+00:00"
-  },
-  {
-    "id": "20003802139",
-    "politician_name": "Tracey Mann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "KS",
-    "company": "Apple Inc",
-    "ticker": "AAPL:US",
-    "sector": "information-technology",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2024-08-20",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "723",
-    "price": "$226.51",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-08-21T03:55:03.276544+00:00"
-  },
-  {
-    "id": "20003802140",
-    "politician_name": "Tracey Mann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "KS",
-    "company": "Alphabet Inc",
-    "ticker": "GOOGL:US",
-    "sector": "communication-services",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2024-08-20",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "723",
-    "price": "$167.18",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-08-21T03:55:03.276551+00:00"
-  },
-  {
-    "id": "20003802141",
-    "politician_name": "Tracey Mann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "KS",
-    "company": "Microsoft Corp",
-    "ticker": "MSFT:US",
-    "sector": "information-technology",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2024-08-20",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "723",
-    "price": "$424.80",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-08-21T03:55:03.276559+00:00"
-  },
-  {
-    "id": "20003802142",
-    "politician_name": "Tracey Mann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "KS",
-    "company": "Meta Platforms Inc",
-    "ticker": "META:US",
-    "sector": "communication-services",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2024-08-20",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "723",
-    "price": "$526.73",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-08-21T03:55:03.276566+00:00"
-  },
-  {
-    "id": "20003802143",
-    "politician_name": "Tracey Mann",
-    "party": "Republican",
-    "chamber": "House",
-    "state": "KS",
-    "company": "NVIDIA Corporation",
-    "ticker": "NVDA:US",
-    "sector": "information-technology",
-    "transaction_type": "BUY",
-    "tx_type_extended": "",
-    "traded_on": "2024-08-20",
-    "trade_published": "2026-08-14",
-    "filed_after_days": "723",
-    "price": "$127.25",
-    "value": 8000,
-    "amount": "$1K\u2013$15K",
-    "owner": "Spouse",
-    "comment": "",
-    "scraped_at": "2026-08-21T03:55:03.276572+00:00"
   },
   {
     "politician_name": "Steve Cohen",
