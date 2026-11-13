@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T07:29:55Z",
-  "trade_count": 12058,
+  "last_updated": "2026-11-13T15:49:14Z",
+  "trade_count": 12064,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -192064,7 +192064,7 @@
       "owned": "134683",
       "delta_own": "+54%",
       "value": "37943",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-11-12",
@@ -192929,6 +192929,102 @@
       "delta_own": "+6%",
       "value": "50193",
       "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-11-13",
+      "filing_time": "09:20",
+      "trade_date": "2026-11-10",
+      "ticker": "CTRI",
+      "company": "Centuri Holdings, Inc.",
+      "insider_name": "Mariucci Anne L",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "22.00",
+      "qty": "4545",
+      "owned": "94254",
+      "delta_own": "+5%",
+      "value": "99990",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-13",
+      "filing_time": "09:06",
+      "trade_date": "2026-11-11",
+      "ticker": "BH",
+      "company": "Biglari Holdings Inc.",
+      "insider_name": "Biglari, Sardar",
+      "title": "COB, CEO, 10%",
+      "trade_type": "P - Purchase",
+      "price": "1514.12",
+      "qty": "3657",
+      "owned": "1630370",
+      "delta_own": "0%",
+      "value": "5537125",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-13",
+      "filing_time": "09:05",
+      "trade_date": "2026-11-12",
+      "ticker": "EOSE",
+      "company": "Eos Energy Enterprises, Inc.",
+      "insider_name": "Dimitrief Alexander",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.86",
+      "qty": "25000",
+      "owned": "305673",
+      "delta_own": "+9%",
+      "value": "46500",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-13",
+      "filing_time": "08:30",
+      "trade_date": "2026-11-11",
+      "ticker": "CATX",
+      "company": "Perspective Therapeutics, Inc.",
+      "insider_name": "Puhlmann Markus",
+      "title": "Chief Medical Officer",
+      "trade_type": "P - Purchase",
+      "price": "0.84",
+      "qty": "41000",
+      "owned": "178542",
+      "delta_own": "+30%",
+      "value": "34545",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-11-13",
+      "filing_time": "07:56",
+      "trade_date": "2026-11-11",
+      "ticker": "CSQR",
+      "company": "Csquare, Inc.",
+      "insider_name": "Cook Steven R. E.",
+      "title": "CFO",
+      "trade_type": "P - Purchase",
+      "price": "17.26",
+      "qty": "2028",
+      "owned": "382980",
+      "delta_own": "+1%",
+      "value": "35000",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-11-13",
+      "filing_time": "06:25",
+      "trade_date": "2026-11-11",
+      "ticker": "ECX",
+      "company": "Ecarx Holdings Inc.",
+      "insider_name": "Shen Ziyu",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.78",
+      "qty": "300000",
+      "owned": "3300000",
+      "delta_own": "+10%",
+      "value": "233670",
+      "cluster_buy": false
     }
   ]
 }
