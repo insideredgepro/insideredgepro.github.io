@@ -12042,7 +12042,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-12,16:47,2026-11-12,BOOT,"Boot Barn Holdings, Inc.",Watkins James M,"CFO, SECRETARY",P - Purchase,135.37,2000,37939,+6%,270740,False
 2026-11-12,16:40,2026-11-12,ECL,Ecolab Inc.,Maclennan David,Dir,P - Purchase,308.13,600,30434,+2%,184875,False
 2026-11-12,16:33,2026-11-10,FRPH,"Frp Holdings, Inc.",Baker John D. III,CEO,P - Purchase,18.84,5263,361604,+1%,99141,False
-2026-11-12,16:30,2026-11-09,CTEV,Claritev Corp,Ares Management LLC,10%,P - Purchase,25.40,115579,2049518,+6%,2935629,False
+2026-11-12,16:30,2026-11-09,CTEV,Claritev Corp,Ares Management LLC,10%,P - Purchase,25.40,115579,2049518,+6%,2935629,True
 2026-11-12,16:30,2026-11-10,LEE,"Lee Enterprises, Inc",Hoffmann David Henry,"Dir, 10%",P - Purchase,7.07,14056,11544637,0%,99306,False
 2026-11-12,16:30,2026-11-09,STVN,Stevanato Group S.P.A.,Federici William J,Dir,P - Purchase,13.72,20000,78580,+34%,274400,True
 2026-11-12,16:28,2026-11-09,SEI,"Solaris Energy Infrastructure, Inc.",Teague Aj,Dir,P - Purchase,60.77,670,132495,+1%,40717,False
@@ -12065,7 +12065,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-12,20:14,2026-11-09,VISN,"Vistance Networks, Inc.",Watts Claudius E. IV,Dir,P - Purchase,4.16,200000,1557729,+15%,831060,True
 2026-11-12,20:00,2026-11-10,ENOV,Enovis Corp,Wienbar Sharon L,Dir,P - Purchase,28.09,1774,45551,+4%,49832,True
 2026-11-12,20:00,2026-11-10,ENOV,Enovis Corp,Lalor Angela S,Dir,P - Purchase,28.57,1757,33243,+6%,50193,True
-2026-11-13,09:20,2026-11-10,CTRI,"Centuri Holdings, Inc.",Mariucci Anne L,Dir,P - Purchase,22.00,4545,94254,+5%,99990,False
+2026-11-13,09:20,2026-11-10,CTRI,"Centuri Holdings, Inc.",Mariucci Anne L,Dir,P - Purchase,22.00,4545,94254,+5%,99990,True
 2026-11-13,09:06,2026-11-11,BH,Biglari Holdings Inc.,"Biglari, Sardar","COB, CEO, 10%",P - Purchase,1514.12,3657,1630370,0%,5537125,False
 2026-11-13,09:05,2026-11-12,EOSE,"Eos Energy Enterprises, Inc.",Dimitrief Alexander,Dir,P - Purchase,1.86,25000,305673,+9%,46500,False
 2026-11-13,08:30,2026-11-11,CATX,"Perspective Therapeutics, Inc.",Puhlmann Markus,Chief Medical Officer,P - Purchase,0.84,41000,178542,+30%,34545,True
@@ -12104,3 +12104,13 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-13,14:07,2026-11-13,BW,"Babcock & Wilcox Enterprises, Inc.",Young Kenneth M,CEO,P - Purchase,4.35,10000,1992021,+1%,43500,True
 2026-11-13,13:45,2026-11-12,CRESY,Cresud Inc,Elsztain Alejandro Gustavo,Dir,P - Purchase,0.89,100000,7519918,+1%,89000,False
 2026-11-13,12:41,2026-11-13,ABCL,Abcellera Biologics Inc.,Booth Andrew,CFO,P - Purchase,11.33,8600,622359,+1%,97438,True
+2026-11-13,20:13,2026-11-11,INDI,"Indie Semiconductor, Inc.",Aldrich David J,Dir,P - Purchase,2.30,130000,393392,+49%,299000,False
+2026-11-13,19:17,2026-11-11,CTRI,"Centuri Holdings, Inc.",Patton Charles R.,Dir,P - Purchase,22.72,11000,40309,+38%,249920,True
+2026-11-13,18:59,2026-11-11,IOND,Ionic Digital Inc.,Abbate Michael,Dir,P - Purchase,65.76,19642,57017,+53%,1291579,False
+2026-11-13,17:54,2026-11-11,CRVS,"Corvus Pharmaceuticals, Inc.",Arcara Jeffrey,Chief Business Officer,P - Purchase,11.22,4500,4500,New,50475,False
+2026-11-13,17:48,2026-11-10,ZLAB,Zai Lab Ltd,Gaynor Richard,Dir,P - Purchase,27.19,1228,81965,+2%,33389,False
+2026-11-13,17:45,2026-11-11,CTEV,Claritev Corp,Dalton Travis,"Pres, CEO, Exec Chair",P - Purchase,29.34,5110,555785,+1%,149927,True
+2026-11-13,17:38,2026-11-11,UPST,"Upstart Holdings, Inc.",Gu Paul,CEO,P - Purchase,20.57,50000,1397546,+4%,1028400,False
+2026-11-13,17:33,2026-11-13,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"CEO, Pres, 10%",P - Purchase,5.02,30000,7873140,0%,150501,False
+2026-11-13,17:32,2026-11-11,GLP,Global Partners LP,Global Gp LLC,General Partner,P - Purchase,44.25,10000,181584,+6%,442475,False
+2026-11-13,16:43,2026-11-11,FUN,Six Flags Entertainment Corporation/New,Jaffer Rehan,Dir,P - Purchase,11.21,825000,7175000,+13%,9246000,True
