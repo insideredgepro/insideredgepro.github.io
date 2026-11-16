@@ -11681,7 +11681,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-04,16:14,2026-11-03,AN,"Autonation, Inc.",Edmunds C Coleman,"EVP, GC, Corp Sec",P - Purchase,183.36,550,31071,+2%,100850,True
 2026-11-04,16:13,2026-11-02,AN,"Autonation, Inc.",Szlosek Thomas A,"EVP, CFO",P - Purchase,182.03,1648,20085,+9%,299990,True
 2026-11-04,16:11,2026-11-02,AN,"Autonation, Inc.",Manley Michael Mark,"CEO, Dir",P - Purchase,184.11,5600,157186,+4%,1031024,True
-2026-11-04,16:02,2026-11-02,CACC,Credit Acceptance Corp,Tryforos Thomas N,Dir,P - Purchase,485.20,3000,405268,+1%,1455600,False
+2026-11-04,16:02,2026-11-02,CACC,Credit Acceptance Corp,Tryforos Thomas N,Dir,P - Purchase,485.20,3000,405268,+1%,1455600,True
 2026-11-04,14:35,2026-11-04,LSCC,Lattice Semiconductor Corp,Tamer Ford,"Pres, CEO",P - Purchase,102.52,9790,335467,+3%,1003689,False
 2026-11-05,16:30,2026-11-03,BB,Blackberry Ltd,Chaikof David,Dir,P - Purchase,8.18,5000,5000,New,40900,False
 2026-11-05,16:30,2026-11-03,FBRT,"Franklin Bsp Realty Trust, Inc.",Byrne Richard J,"COB, CEO",P - Purchase,6.14,162600,639325,+34%,998364,True
@@ -12128,3 +12128,38 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-16,06:05,2026-11-12,ECOR,"Electrocore, Inc.",Errico Thomas J.,Dir,P - Purchase,5.44,10000,373904,+3%,54400,False
 2026-11-16,06:05,2026-11-12,MSC,Studio City International Holdings Ltd,Ho Lawrence Yau Lung,Dir,P - Purchase,0.28,111832,464323272,0%,30904,False
 2026-11-16,06:02,2026-11-09,DOX,Amdocs Ltd,Gelman Eliahu Meir,Dir,P - Purchase,41.72,2500,353446,+1%,104301,True
+2026-11-16,16:56,2026-11-12,OIG,Orion180 Insurance Group Inc.,Gregg Kenneth,"CEO, 10%",P - Purchase,10.66,96150,60031410,0%,1024690,False
+2026-11-16,16:51,2026-11-13,CTVA,"Corteva, Inc.",Page Gregory R,Dir,P - Purchase,9.27,20000,89340,+29%,185400,True
+2026-11-16,16:47,2026-11-13,CTVA,"Corteva, Inc.",Kissam Luther C IV,CEO,P - Purchase,9.30,32292,185379,+21%,300312,True
+2026-11-16,16:45,2026-11-13,SELF,"Global Self Storage, Inc.",Winmill Mark Campbell,"COB, CEO",P - Purchase,4.90,6500,379082,+2%,31850,False
+2026-11-16,16:41,2026-11-12,SUNS,"Sunrise Realty Trust, Inc.",Tannenbaum Robyn,Pres,P - Purchase,6.85,5000,6382410,0%,34250,False
+2026-11-16,16:41,2026-11-16,KEEL,Keel Infrastructure Corp.,Wilson Liam Daniel,COO,P - Purchase,1.73,28942,129920,+29%,50070,True
+2026-11-16,16:35,2026-11-13,REI,"Ring Energy, Inc.",Johl Sundip Singh,"EVP, CFO",P - Purchase,1.21,57923,606383,+11%,70087,False
+2026-11-16,16:34,2026-11-13,THM,International Tower Hill Mines Ltd,Wiens David Victor,CEO,P - Purchase,1.31,30000,116682,+35%,39300,False
+2026-11-16,16:32,2026-11-13,PED,Pedevco Corp,Kukes Simon G,10%,P - Purchase,13.26,8138,4551928,0%,107942,False
+2026-11-16,16:30,2026-11-13,GERN,Geron Corp,Semerjian Harout,"Pres, CEO",P - Purchase,0.95,53500,53500,New,50825,False
+2026-11-16,16:23,2026-11-13,EVLV,"Evolv Technologies Holdings, Inc.",Charlton Kevin M.,Dir,P - Purchase,4.00,10000,345591,+3%,40000,False
+2026-11-16,16:19,2026-11-04,CVSI,"Cv Sciences, Inc.",Cheever Charlie E III,10%,P - Purchase,0.01,5440926,32089637,+20%,54409,False
+2026-11-16,16:15,2026-11-13,SENS,"Senseonics Holdings, Inc.",Roeder Douglas A,Dir,P - Purchase,10.32,17041,189712,+10%,175860,False
+2026-11-16,16:11,2026-11-12,PAM,Pampa Energy Inc.,Mindlin Damian Miguel,VicePres,P - Purchase,63.29,22700,792488,+3%,1436636,True
+2026-11-16,16:11,2026-11-12,SEI,"Solaris Energy Infrastructure, Inc.",Teague Aj,Dir,P - Purchase,63.50,555,133050,0%,35242,False
+2026-11-16,16:02,2026-11-13,OPAL,Opal Fuels Inc.,Sutton Scott McDougald,Dir,P - Purchase,1.23,50000,100000,+100%,61500,False
+2026-11-16,16:02,2026-11-12,CACC,Credit Acceptance Corp,Quinn Sean Edward,Dir,P - Purchase,505.00,500,2044,+32%,252500,True
+2026-11-16,15:56,2026-11-12,DOX,Amdocs Ltd,Gardner Adrian,Dir,P - Purchase,43.02,5000,64580,+8%,215091,True
+2026-11-16,15:04,2026-11-12,EMO,Clearbridge Energy Midstream Opportunity Fund Inc.,Prudential Financial Inc,10%,P - Purchase,35.00,1000000,1000000,New,35000000,False
+2026-11-16,14:29,2026-11-16,BW,"Babcock & Wilcox Enterprises, Inc.",Frymyer Cameron M,CFO,P - Purchase,4.21,10000,383081,+3%,42100,True
+2026-11-16,13:43,2026-11-13,SPCB,Supercom Ltd,Trabelsi Arie,Dir,P - Purchase,6.48,19600,37475,+110%,126940,False
+2026-11-16,11:12,2026-11-13,GOOD,Gladstone Commercial Corp,Cooper Arthur S.,"CEO, Pres",P - Purchase,9.93,10070,56964,+21%,100000,True
+2026-11-16,09:09,2026-11-12,SONO,Sonos Inc,Kennedy Joseph Jude,Dir,P - Purchase,18.72,100000,114364,+696%,1871497,False
+2026-11-16,08:40,2026-11-12,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,18.98,15000,19224602,0%,284629,False
+2026-11-16,08:28,2026-11-13,PCT,"Purecycle Technologies, Inc.",Musa Fernando,Exec COB,P - Purchase,1.71,57600,386957,+17%,98496,False
+2026-11-16,08:17,2026-11-13,DX,Dynex Capital Inc,Boston Byron L,"Co-CEO, COB",P - Purchase,10.07,4965,903807,+1%,49998,True
+2026-11-16,08:16,2026-11-12,TLSI,"Trisalus Life Sciences, Inc.",Wahlstrom Mats,Dir,P - Purchase,2.24,50000,3012030,+2%,112000,False
+2026-11-16,08:16,2026-11-13,DX,Dynex Capital Inc,Popenoe Smriti Laxman,"Co-CEO, Pres",P - Purchase,9.90,2600,548803,0%,25740,True
+2026-11-16,08:08,2026-11-13,CSQR,"Csquare, Inc.",Pizzuto Terri,Dir,P - Purchase,16.96,2000,5600,+56%,33920,True
+2026-11-16,08:07,2026-11-11,CSQR,"Csquare, Inc.",Kelley Philip M,Dir,P - Purchase,17.24,10000,20000,+100%,172400,True
+2026-11-16,08:00,2026-11-13,ABEO,Abeona Therapeutics Inc.,Charles Faith L.,Dir,P - Purchase,2.29,15000,191407,+9%,34349,False
+2026-11-16,08:00,2026-11-13,VANI,"Vivani Medical, Inc.",Williams Gregg,"Dir, 10%",P - Purchase,0.99,48100,41760036,0%,47763,False
+2026-11-16,08:00,2026-11-13,HUBS,Hubspot Inc,Halligan Brian,CEO,P - Purchase,217.44,22985,436139,+6%,4997858,False
+2026-11-16,07:30,2026-11-13,CRMD,Cormedix Inc.,Todisco Joseph,CEO,P - Purchase,4.89,80000,854749,+10%,391200,False
+2026-11-16,07:16,2026-11-12,DOX,Amdocs Ltd,De La Vega Rafael,Dir,P - Purchase,44.51,2297,38191,+6%,102228,True
