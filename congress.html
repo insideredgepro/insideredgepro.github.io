@@ -2418,5 +2418,25 @@
 </script>
 
   <script src="upgrade.js?v=1" defer></script>
+
+<script>
+/* Link politician names to their dedicated tracker pages (manifest from generator) */
+(function(){
+  var manifest = null;
+  function slug(n){ return (n||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,''); }
+  function linkify(){
+    if(!manifest) return;
+    document.querySelectorAll('.pol-name-text:not([data-linked])').forEach(function(sp){
+      var s = slug(sp.textContent);
+      if(manifest[s]){
+        sp.setAttribute('data-linked','1');
+        sp.innerHTML = '<a href="/politician/'+s+'.html" title="View all '+sp.textContent+' trades" style="color:inherit;border-bottom:1px dotted rgba(26,188,219,.55)">'+sp.innerHTML+'</a>';
+      }
+    });
+  }
+  fetch('/politician/index.json').then(function(r){return r.json();}).then(function(m){ manifest=m; linkify(); }).catch(function(){});
+  new MutationObserver(function(){ linkify(); }).observe(document.body,{childList:true,subtree:true});
+})();
+</script>
 </body>
 </html>
