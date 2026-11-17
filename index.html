@@ -124,6 +124,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;600;700;800;900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="upgrade.css?v=1" />
 
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -956,6 +957,11 @@
   </div>
 </section>
 
+<!-- Live trades marquee -->
+<div class="iep-marquee-wrap" style="display:none" aria-hidden="true">
+  <div class="iep-marquee" id="iep-marquee"></div>
+</div>
+
 <!-- ═══════════════ STATS ═══════════════ -->
 <div class="stats-bar">
   <div class="stats-row">
@@ -1365,6 +1371,7 @@
     countUp(document.getElementById('st-clusters'),clusters,900);
     document.getElementById('st-value').textContent=fmt(totalVal);
     countUp(document.getElementById('st-tickers'),tickers,900);
+    if(window.IEP&&IEP.fillMarquee)IEP.fillMarquee(all);
     const te=document.getElementById('term-total');if(te)te.textContent=all.length;
 
     /* Terminal rows */
@@ -1416,5 +1423,6 @@
   }
 })();
 </script>
+  <script src="upgrade.js?v=1" defer></script>
 </body>
 </html>
