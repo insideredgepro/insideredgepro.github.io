@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BM57ZCD9G3"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-BM57ZCD9G3');</script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#04080f" />
+  <title>Methodology & Data Sources | InsiderEdgePro</title>
+  <meta name="description" content="How InsiderEdgePro collects, filters, and presents insider trading data from SEC EDGAR Form 4, STOCK Act congressional disclosures, and Canadian SEDI filings." />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://insideredgepro.github.io/methodology.html" />
+  <link rel="icon" href="/favicon.ico" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Inter', sans-serif; background: #04080f; color: #e2eaf4; line-height: 1.7; }
+    a { color: #1abcdb; }
+    header {
+      position: sticky; top: 0; z-index: 100; height: 58px;
+      background: rgba(4,8,15,.94); backdrop-filter: blur(20px);
+      border-bottom: 1px solid rgba(255,255,255,.08);
+      display: flex; align-items: center;
+    }
+    .hinner { max-width: 1160px; margin: 0 auto; padding: 0 24px; width: 100%; display: flex; align-items: center; justify-content: space-between; }
+    .brand { display: flex; align-items: center; gap: 9px; text-decoration: none; }
+    .brand img { width: 26px; height: 26px; object-fit: contain; }
+    .brand-name { font-family: 'Geist', sans-serif; font-size: 15px; font-weight: 800; letter-spacing: -.04em; color: #1abcdb; }
+    .hnav a { font-size: 13px; color: #7a97b8; margin-left: 18px; text-decoration: none; }
+    .hnav a:hover { color: #e2eaf4; }
+    main { max-width: 780px; margin: 0 auto; padding: 64px 24px 96px; }
+    h1 { font-family: 'Geist', sans-serif; font-size: clamp(28px, 4vw, 40px); font-weight: 800; letter-spacing: -.04em; margin-bottom: 10px; }
+    .updated { font-size: 12px; color: #3d5470; margin-bottom: 40px; }
+    h2 { font-family: 'Geist', sans-serif; font-size: 20px; font-weight: 700; letter-spacing: -.02em; margin: 36px 0 10px; color: #e2eaf4; }
+    p, li { font-size: 15px; color: #b8c8d8; margin-bottom: 12px; }
+    ul { padding-left: 22px; margin-bottom: 12px; }
+    li { margin-bottom: 6px; }
+    strong { color: #e2eaf4; }
+    footer { border-top: 1px solid rgba(255,255,255,.08); padding: 32px 24px; text-align: center; }
+    footer nav { margin-bottom: 10px; }
+    footer a { font-size: 12px; color: #7a97b8; text-decoration: none; margin: 0 10px; }
+    footer a:hover { color: #1abcdb; }
+    .copy { font-size: 12px; color: #3d5470; }
+  </style>
+</head>
+<body>
+<header>
+  <div class="hinner">
+    <a href="/" class="brand">
+      <img src="insideredge_logo_cyan_v2.png" alt="InsiderEdgePro" onerror="this.style.display='none'" />
+      <span class="brand-name">InsiderEdgePro</span>
+    </a>
+    <nav class="hnav">
+      <a href="/us.html">US Trades</a>
+      <a href="/congress.html">Congress</a>
+      <a href="/canada.html">Canada</a>
+    </nav>
+  </div>
+</header>
+<main>
+<h1>Methodology &amp; Data Sources</h1>
+<p class="updated">Last updated: November 2026</p>
+
+<p>This page explains exactly where InsiderEdgePro's data comes from, how it is filtered, and how metrics like cluster buys and performance returns are calculated — so you can judge the data for yourself.</p>
+
+<h2>Data sources</h2>
+<ul>
+  <li><strong>US insider trades:</strong> <a href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&type=4" rel="noopener">SEC EDGAR Form 4</a> filings. Corporate insiders (officers, directors, and 10%+ shareholders) must file Form 4 within two business days of a trade. We track open-market purchases (transaction code "P").</li>
+  <li><strong>Congressional trades:</strong> disclosures filed under the <strong>STOCK Act of 2012</strong>, which requires members of Congress to report trades within 45 days. Filings are sourced from the official House and Senate public disclosure portals.</li>
+  <li><strong>Canadian insider trades:</strong> <a href="https://www.sedi.ca" rel="noopener">SEDI</a> (System for Electronic Disclosure by Insiders), Canada's mandatory insider reporting system covering TSX and TSX-V issuers.</li>
+</ul>
+
+<h2>Update frequency</h2>
+<p>US and Canadian data is refreshed approximately <strong>every 30 minutes</strong> during market hours. Congressional disclosures are surfaced shortly after they appear in the public record. Each dashboard shows a "last updated" timestamp.</p>
+
+<h2>Filtering thresholds</h2>
+<ul>
+  <li>US dashboard: open-market purchases of <strong>$25,000 or more</strong>.</li>
+  <li>Canada dashboard: purchases of <strong>CAD$15,000 or more</strong>.</li>
+</ul>
+<p>Smaller trades are excluded deliberately. Large, voluntary, open-market purchases by executives are a higher-conviction signal than routine small transactions, option exercises, or grants.</p>
+
+<h2>Cluster buy detection</h2>
+<p>A <strong>cluster buy</strong> is flagged when <strong>two or more distinct insiders at the same company</strong> file open-market purchases within a short rolling window. Academic research on insider trading has found multi-insider buying to be a stronger signal than single-insider purchases. Cluster detection runs across all three markets we cover.</p>
+
+<h2>Performance tracking</h2>
+<p>The performance views measure the simple price return from each insider's disclosed purchase price (or filing-date price where noted) to the latest available closing price. Price snapshots are refreshed hourly on weekdays for US listings and daily for TSX/TSX-V listings. Returns do not account for dividends, splits beyond price adjustment, or transaction costs, and past performance does not indicate future results.</p>
+
+<h2>Limitations</h2>
+<ul>
+  <li>Form 4 data reflects what insiders report; occasional filing errors or amendments originate at the source.</li>
+  <li>Congressional disclosure amounts are reported in ranges (e.g. $15K–$50K), not exact figures.</li>
+  <li>STOCK Act filings can lag the trade date by up to 45 days by law.</li>
+  <li>We display buys prominently because open-market purchases carry the clearest signal; sales can happen for many non-informational reasons (diversification, taxes, planned sales).</li>
+</ul>
+
+<h2>Contact & corrections</h2>
+<p>Spotted a data issue? Reach us through the <a href="https://discord.gg/k6Q5rtEPe">Discord community</a> or via <a href="https://github.com/insideredgepro">GitHub</a>.</p>
+</main>
+<footer>
+  <nav>
+    <a href="/">Home</a>
+    <a href="/about.html">About</a>
+    <a href="/methodology.html">Methodology</a>
+    <a href="/privacy.html">Privacy</a>
+    <a href="/terms.html">Terms</a>
+  </nav>
+  <p class="copy">© 2026 InsiderEdgePro. Not financial advice. Data sourced from public SEC EDGAR, STOCK Act, and SEDI filings.</p>
+</footer>
+</body>
+</html>
