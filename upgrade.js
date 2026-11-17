@@ -9,14 +9,6 @@
 
   var reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-  /* ---------- Ticker chip color (deterministic) ---------- */
-  function chipColor(sym) {
-    var h = 0;
-    for (var i = 0; i < sym.length; i++) h = (h * 31 + sym.charCodeAt(i)) >>> 0;
-    var hue = h % 360;
-    return { bg: 'hsla(' + hue + ', 60%, 60%, 0.16)', fg: 'hsl(' + hue + ', 75%, 68%)' };
-  }
-
   /* ---------- 1 + 2. Tbody observer: row entrance + ticker chips ---------- */
   function enhanceTbody(tbody) {
     var rows = tbody.querySelectorAll('tr');
@@ -27,21 +19,6 @@
         r.classList.add('iep-row-in');
         r.style.animationDelay = (Math.min(i, 20) * 0.03) + 's';
       }
-    }
-    // Ticker chips
-    var cells = tbody.querySelectorAll('td.td-ticker:not([data-chipped])');
-    for (var j = 0; j < cells.length; j++) {
-      var td = cells[j];
-      td.setAttribute('data-chipped', '1');
-      var m = td.textContent.trim().match(/[A-Z][A-Z0-9.\-]{0,9}/);
-      if (!m) continue;
-      var chip = document.createElement('span');
-      chip.className = 'iep-chip';
-      chip.textContent = m[0].slice(0, 2);
-      var col = chipColor(m[0]);
-      chip.style.background = col.bg;
-      chip.style.color = col.fg;
-      td.insertBefore(chip, td.firstChild);
     }
   }
 
