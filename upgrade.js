@@ -13,7 +13,8 @@
   function chipColor(sym) {
     var h = 0;
     for (var i = 0; i < sym.length; i++) h = (h * 31 + sym.charCodeAt(i)) >>> 0;
-    return 'hsl(' + (h % 360) + ' 55% 38%)';
+    var hue = h % 360;
+    return { bg: 'hsla(' + hue + ', 60%, 60%, 0.16)', fg: 'hsl(' + hue + ', 75%, 68%)' };
   }
 
   /* ---------- 1 + 2. Tbody observer: row entrance + ticker chips ---------- */
@@ -37,7 +38,9 @@
       var chip = document.createElement('span');
       chip.className = 'iep-chip';
       chip.textContent = m[0].slice(0, 2);
-      chip.style.background = chipColor(m[0]);
+      var col = chipColor(m[0]);
+      chip.style.background = col.bg;
+      chip.style.color = col.fg;
       td.insertBefore(chip, td.firstChild);
     }
   }
