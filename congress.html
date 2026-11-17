@@ -136,11 +136,35 @@
   </script>
 
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
-  <style id="auth-hide">body{visibility:hidden;pointer-events:none}</style>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css?v=12" />
   <style>
+
+    /* ── Preview gate (anonymous visitors) ── */
+    #gate-lock, #gate-lock-perf, .tab-gate {
+      display: none; margin: 14px 16px 18px; padding: 26px 20px;
+      background: linear-gradient(180deg, rgba(26,188,219,.07), rgba(26,188,219,.02));
+      border: 1px solid rgba(26,188,219,.25); border-radius: 10px; text-align: center;
+      position: relative; z-index: 1;
+    }
+    #gate-lock .gl-text, #gate-lock-perf .gl-text, .tab-gate .gl-text {
+      font-size: 13px; color: var(--muted2, #b0bec8); margin-bottom: 12px; line-height: 1.6;
+    }
+    #gate-lock .gl-text strong, #gate-lock-perf .gl-text strong, .tab-gate .gl-text strong { color: var(--text, #fff); }
+    .gl-btn {
+      display: inline-flex; align-items: center; gap: 7px; padding: 10px 22px;
+      border-radius: 8px; background: var(--gold, #1abcdb); color: #04080f;
+      font-size: 13px; font-weight: 800; text-decoration: none; transition: opacity .15s;
+    }
+    .gl-btn:hover { opacity: .88; }
+    .auth-signin-btn {
+      display: inline-flex; align-items: center; padding: 7px 14px; border-radius: 7px;
+      background: var(--gold, #1abcdb); color: #04080f; font-size: 12px; font-weight: 700;
+      text-decoration: none; white-space: nowrap; cursor: pointer;
+    }
+    .auth-signin-btn:hover { opacity: .88; }
+
     /* Party badges */
     .badge-party {
       display: inline-flex; align-items: center; gap: 3px;
@@ -950,6 +974,12 @@
   </button>
 </div>
 
+<!-- Preview gate for Portfolio / Stock Intel / Performance tabs (anonymous visitors) -->
+<div class="tab-gate" id="tab-gate">
+  <p class="gl-text"><strong>Portfolios, Stock Intel and Performance tracking</strong> are available to signed-in users.<br/>Sign in free to unlock every member's full trade history, per-stock Congress sentiment, and return tracking.</p>
+  <a href="/login.html" class="gl-btn">🔓 Sign In Free — Unlock Everything</a>
+</div>
+
 <!-- ================================================================== -->
 <!-- LIVE FEED VIEW                                                       -->
 <!-- ================================================================== -->
@@ -1008,6 +1038,11 @@
       </select>
     </div>
   </div>
+    <!-- Preview gate: shown to anonymous visitors when more rows exist -->
+    <div id="gate-lock">
+      <p class="gl-text">Showing the first <strong class="gl-count">25</strong> of <strong class="gl-total">—</strong> trades matching your filters.<br/>Sign in free to unlock the full live feed.</p>
+      <a href="/login.html" class="gl-btn">🔓 Unlock All Trades — Free</a>
+    </div>
 </div><!-- /.table-section -->
 </div><!-- /#view-feed -->
 
@@ -1226,6 +1261,24 @@
 <script>
 (function () {
   'use strict';
+
+  /* ── Preview gate: anonymous visitors see the first 25 rows ── */
+  const PREVIEW_ROWS = 25;
+  let isAuthed = false;
+  window.addEventListener('iep:auth', () => {
+    isAuthed = true;
+    renderTable();
+    if (typeof activeView !== 'undefined' && activeView !== 'feed') switchView(activeView);
+  });
+
+  function updateGateLock(elId, total) {
+    const el = document.getElementById(elId);
+    if (!el) return;
+    if (isAuthed || !total || total <= PREVIEW_ROWS) { el.style.display = 'none'; return; }
+    el.style.display = 'block';
+    el.querySelector('.gl-count').textContent = PREVIEW_ROWS.toLocaleString();
+    el.querySelector('.gl-total').textContent = total.toLocaleString();
+  }
 
   const DATA_URL      = 'data/trades-recent.json';
   const FULL_DATA_URL = 'data/trades.json';
@@ -1564,13 +1617,16 @@
   function renderTable() {
     const filtered = applyFilters(allTrades);
     const sorted   = sortTrades(filtered);
-    const page     = sorted.slice((currentPage - 1) * pageSize, currentPage * pageSize);
+    const gated    = !isAuthed && sorted.length > PREVIEW_ROWS;
+    const page     = gated ? sorted.slice(0, PREVIEW_ROWS)
+                           : sorted.slice((currentPage - 1) * pageSize, currentPage * pageSize);
 
     noResultsEl.style.display = sorted.length === 0 ? 'flex' : 'none';
     tableBodyEl.innerHTML = page.map(buildRow).join('');
     updateStats(filtered, allTrades);
     updateSortArrows();
-    renderPagination(sorted.length);
+    renderPagination(gated ? 0 : sorted.length);
+    updateGateLock('gate-lock', gated ? sorted.length : 0);
   }
 
   pgPrev.addEventListener('click', () => { currentPage--; renderTable(); window.scrollTo({ top: 0, behavior: 'smooth' }); });
@@ -1760,6 +1816,8 @@
 
   let activeView = 'feed';
 
+  const tabGateEl = document.getElementById('tab-gate');
+
   function switchView(view) {
     activeView = view;
     history.replaceState(null, '', '#' + view);
@@ -1768,6 +1826,16 @@
     viewStocks.style.display     = 'none';
     viewPerf.style.display       = 'none';
     [tabFeed, tabPortfolios, tabStocks, tabPerf].forEach(t => t.classList.remove('active'));
+
+    // Anonymous visitors: Portfolios / Stock Intel / Performance show the sign-in gate
+    const gatedTab = !isAuthed && view !== 'feed';
+    if (tabGateEl) tabGateEl.style.display = gatedTab ? 'block' : 'none';
+    if (gatedTab) {
+      ({ portfolios: tabPortfolios, stocks: tabStocks, perf: tabPerf })[view]?.classList.add('active');
+      ['h-trades-stats','m-trades-stats'].forEach(id => { const el = document.getElementById(id); if (el) el.style.display = ''; });
+      ['h-perf-stats','m-perf-stats'].forEach(id => { const el = document.getElementById(id); if (el) el.style.display = 'none'; });
+      return;
+    }
     const isPerf = view === 'perf';
     ['h-trades-stats','m-trades-stats'].forEach(id => { const el = document.getElementById(id); if (el) el.style.display = isPerf ? 'none' : ''; });
     ['h-perf-stats','m-perf-stats'].forEach(id => { const el = document.getElementById(id); if (el) el.style.display = isPerf ? '' : 'none'; });
@@ -2306,14 +2374,21 @@
     'sb_publishable_0lX_Wpsn1t2lnmJj55WTyg_xSQHuY5C'
   );
   const { data: { session } } = await _sb.auth.getSession();
-  if (!session) { window.location.replace('/login.html'); return; }
+  const authEl = document.getElementById('auth-ui');
 
-  document.getElementById('auth-hide').remove();
+  if (!session) {
+    // Preview mode — stay on page, show sign-in button. Table rows are gated
+    // to the first PREVIEW_ROWS by the main script until 'iep:auth' fires.
+    authEl.innerHTML = `<a href="/login.html" class="auth-signin-btn">Sign In Free</a>`;
+    return;
+  }
+
+  // Logged in — lift the preview gate and show the user badge.
+  window.dispatchEvent(new Event('iep:auth'));
 
   const u = session.user;
   const name = u.user_metadata?.full_name || u.user_metadata?.name || u.email.split('@')[0];
   const av = u.user_metadata?.avatar_url;
-  const authEl = document.getElementById('auth-ui');
   authEl.innerHTML = `<div class="auth-user">
     ${av ? `<img src="${av}" class="auth-avatar" referrerpolicy="no-referrer" alt=""/>` : ''}
     <span class="auth-name">${name}</span>
