@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-17T04:54:22Z",
-  "trade_count": 12175,
+  "last_updated": "2026-11-17T14:00:20Z",
+  "trade_count": 12180,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -194336,7 +194336,7 @@
       "owned": "386957",
       "delta_own": "+17%",
       "value": "98496",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "filing_date": "2026-11-16",
@@ -194801,6 +194801,86 @@
       "delta_own": "+112%",
       "value": "244956",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-17",
+      "filing_time": "08:45",
+      "trade_date": "2026-11-16",
+      "ticker": "LCTX",
+      "company": "Lineage Cell Therapeutics, Inc.",
+      "insider_name": "Culley Brian M",
+      "title": "Pres, CEO",
+      "trade_type": "P - Purchase",
+      "price": "0.92",
+      "qty": "40500",
+      "owned": "296016",
+      "delta_own": "+16%",
+      "value": "37098",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-17",
+      "filing_time": "08:38",
+      "trade_date": "2026-11-16",
+      "ticker": "DAVI",
+      "company": "Davion Healthcare Plc",
+      "insider_name": "Sluyters Julian",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "1.06",
+      "qty": "25000",
+      "owned": "30000",
+      "delta_own": "+500%",
+      "value": "26490",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-17",
+      "filing_time": "07:59",
+      "trade_date": "2026-11-16",
+      "ticker": "PCT",
+      "company": "Purecycle Technologies, Inc.",
+      "insider_name": "Olson Dustin",
+      "title": "CEO",
+      "trade_type": "P - Purchase",
+      "price": "1.69",
+      "qty": "220000",
+      "owned": "1529960",
+      "delta_own": "+17%",
+      "value": "371800",
+      "cluster_buy": true
+    },
+    {
+      "filing_date": "2026-11-17",
+      "filing_time": "06:30",
+      "trade_date": "2026-11-16",
+      "ticker": "RNXT",
+      "company": "Renovorx, Inc.",
+      "insider_name": "Agah Ramtin",
+      "title": "Exec COB, CMO",
+      "trade_type": "P - Purchase",
+      "price": "0.93",
+      "qty": "50000",
+      "owned": "848460",
+      "delta_own": "+6%",
+      "value": "46485",
+      "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-17",
+      "filing_time": "06:23",
+      "trade_date": "2026-11-16",
+      "ticker": "BW",
+      "company": "Babcock & Wilcox Enterprises, Inc.",
+      "insider_name": "Brc Group Holdings, Inc.",
+      "title": "10%",
+      "trade_type": "P - Purchase",
+      "price": "4.24",
+      "qty": "50000",
+      "owned": "27844353",
+      "delta_own": "0%",
+      "value": "212000",
+      "cluster_buy": true
     }
   ]
 }

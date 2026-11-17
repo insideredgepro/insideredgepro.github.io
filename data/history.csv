@@ -12152,7 +12152,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-16,11:12,2026-11-13,GOOD,Gladstone Commercial Corp,Cooper Arthur S.,"CEO, Pres",P - Purchase,9.93,10070,56964,+21%,100000,True
 2026-11-16,09:09,2026-11-12,SONO,Sonos Inc,Kennedy Joseph Jude,Dir,P - Purchase,18.72,100000,114364,+696%,1871497,False
 2026-11-16,08:40,2026-11-12,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,18.98,15000,19224602,0%,284629,False
-2026-11-16,08:28,2026-11-13,PCT,"Purecycle Technologies, Inc.",Musa Fernando,Exec COB,P - Purchase,1.71,57600,386957,+17%,98496,False
+2026-11-16,08:28,2026-11-13,PCT,"Purecycle Technologies, Inc.",Musa Fernando,Exec COB,P - Purchase,1.71,57600,386957,+17%,98496,True
 2026-11-16,08:17,2026-11-13,DX,Dynex Capital Inc,Boston Byron L,"Co-CEO, COB",P - Purchase,10.07,4965,903807,+1%,49998,True
 2026-11-16,08:16,2026-11-12,TLSI,"Trisalus Life Sciences, Inc.",Wahlstrom Mats,Dir,P - Purchase,2.24,50000,3012030,+2%,112000,False
 2026-11-16,08:16,2026-11-13,DX,Dynex Capital Inc,Popenoe Smriti Laxman,"Co-CEO, Pres",P - Purchase,9.90,2600,548803,0%,25740,True
@@ -12182,3 +12182,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-16,18:10,2026-11-16,HL,Hecla Mining Co/De/,Andres Dale,Dir,P - Purchase,12.50,10000,15000,+200%,125000,False
 2026-11-16,18:09,2026-11-13,ADIG,Adi Global Distribution Inc.,Copeland Alicia Crispin,"EVP, COO",P - Purchase,10.11,5000,5000,New,50550,True
 2026-11-16,18:03,2026-11-16,FPS,"Forgent Power Solutions, Inc.",Hottinger Tyson,GC,P - Purchase,20.76,11800,22364,+112%,244956,False
+2026-11-17,08:45,2026-11-16,LCTX,"Lineage Cell Therapeutics, Inc.",Culley Brian M,"Pres, CEO",P - Purchase,0.92,40500,296016,+16%,37098,False
+2026-11-17,08:38,2026-11-16,DAVI,Davion Healthcare Plc,Sluyters Julian,Dir,P - Purchase,1.06,25000,30000,+500%,26490,False
+2026-11-17,07:59,2026-11-16,PCT,"Purecycle Technologies, Inc.",Olson Dustin,CEO,P - Purchase,1.69,220000,1529960,+17%,371800,True
+2026-11-17,06:30,2026-11-16,RNXT,"Renovorx, Inc.",Agah Ramtin,"Exec COB, CMO",P - Purchase,0.93,50000,848460,+6%,46485,False
+2026-11-17,06:23,2026-11-16,BW,"Babcock & Wilcox Enterprises, Inc.","Brc Group Holdings, Inc.",10%,P - Purchase,4.24,50000,27844353,0%,212000,True
