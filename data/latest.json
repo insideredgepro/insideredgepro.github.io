@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-18T03:59:19Z",
-  "trade_count": 12240,
+  "last_updated": "2026-11-18T12:40:45Z",
+  "trade_count": 12241,
   "trades": [
     {
       "filing_date": "2026-02-26",
@@ -195841,6 +195841,22 @@
       "delta_own": "+8%",
       "value": "470502",
       "cluster_buy": false
+    },
+    {
+      "filing_date": "2026-11-18",
+      "filing_time": "06:03",
+      "trade_date": "2026-11-17",
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider_name": "Burns Ursula M",
+      "title": "Dir",
+      "trade_type": "P - Purchase",
+      "price": "363.67",
+      "qty": "1375",
+      "owned": "4992",
+      "delta_own": "+38%",
+      "value": "500039",
+      "cluster_buy": true
     }
   ]
 }
