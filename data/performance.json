@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-18",
-  "entry_count": 1472,
+  "entry_count": 1478,
   "entries": [
     {
       "id": "US|CYBN|2026-09-21|halstead michael|13.47",
@@ -44971,8 +44971,8 @@
         "2026-11-17": 1.56,
         "2026-11-18": 1.53
       },
-      "latest_price": 1.53,
-      "return_pct": -5.56,
+      "latest_price": 1.56,
+      "return_pct": -3.7,
       "last_snapshot": "2026-11-18"
     },
     {
@@ -48743,6 +48743,126 @@
       },
       "latest_price": 359.69,
       "return_pct": -1.09,
+      "last_snapshot": "2026-11-18"
+    },
+    {
+      "id": "US|DGICA|2026-11-16|donegal mutual insurance co|19.13",
+      "market": "US",
+      "ticker": "DGICA",
+      "yf_symbol": "DGICA",
+      "company": "Donegal Group Inc",
+      "insider_name": "Donegal Mutual Insurance Co",
+      "title": "10%",
+      "trade_date": "2026-11-16",
+      "trade_price": 19.13,
+      "value": 263297.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-11-18": 18.97
+      },
+      "latest_price": 18.97,
+      "return_pct": -0.84,
+      "last_snapshot": "2026-11-18"
+    },
+    {
+      "id": "US|PAL|2026-11-16|lal rohit|2.56",
+      "market": "US",
+      "ticker": "PAL",
+      "yf_symbol": "PAL",
+      "company": "Proficient Auto Logistics, Inc",
+      "insider_name": "Lal Rohit",
+      "title": "Dir",
+      "trade_date": "2026-11-16",
+      "trade_price": 2.56,
+      "value": 179200.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-11-18": 2.49
+      },
+      "latest_price": 2.49,
+      "return_pct": -2.73,
+      "last_snapshot": "2026-11-18"
+    },
+    {
+      "id": "US|PAL|2026-11-16|gattoni james b|2.6",
+      "market": "US",
+      "ticker": "PAL",
+      "yf_symbol": "PAL",
+      "company": "Proficient Auto Logistics, Inc",
+      "insider_name": "Gattoni James B",
+      "title": "Dir",
+      "trade_date": "2026-11-16",
+      "trade_price": 2.6,
+      "value": 65000.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-11-18": 2.49
+      },
+      "latest_price": 2.49,
+      "return_pct": -4.23,
+      "last_snapshot": "2026-11-18"
+    },
+    {
+      "id": "US|AUDC|2026-11-17|adlersberg shabtai|8.41",
+      "market": "US",
+      "ticker": "AUDC",
+      "yf_symbol": "AUDC",
+      "company": "Audiocodes Ltd",
+      "insider_name": "Adlersberg Shabtai",
+      "title": "Pres, CEO",
+      "trade_date": "2026-11-17",
+      "trade_price": 8.41,
+      "value": 25229.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-11-18": 8.77
+      },
+      "latest_price": 8.77,
+      "return_pct": 4.28,
+      "last_snapshot": "2026-11-18"
+    },
+    {
+      "id": "US|NHI|2026-11-17|mendelsohn d. eric|60.53",
+      "market": "US",
+      "ticker": "NHI",
+      "yf_symbol": "NHI",
+      "company": "National Health Investors Inc",
+      "insider_name": "Mendelsohn D. Eric",
+      "title": "CEO, Pres",
+      "trade_date": "2026-11-17",
+      "trade_price": 60.53,
+      "value": 90795.0,
+      "cluster_buy": false,
+      "currency": "USD",
+      "snapshots": {
+        "2026-11-18": 59.98
+      },
+      "latest_price": 59.98,
+      "return_pct": -0.91,
+      "last_snapshot": "2026-11-18"
+    },
+    {
+      "id": "US|TRTX|2026-11-16|schuster todd|6.56",
+      "market": "US",
+      "ticker": "TRTX",
+      "yf_symbol": "TRTX",
+      "company": "Tpg Re Finance Trust, Inc.",
+      "insider_name": "Schuster Todd",
+      "title": "Dir",
+      "trade_date": "2026-11-16",
+      "trade_price": 6.56,
+      "value": 224824.0,
+      "cluster_buy": true,
+      "currency": "USD",
+      "snapshots": {
+        "2026-11-18": 6.41
+      },
+      "latest_price": 6.41,
+      "return_pct": -2.29,
       "last_snapshot": "2026-11-18"
     }
   ]
