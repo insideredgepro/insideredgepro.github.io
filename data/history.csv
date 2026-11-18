@@ -11694,7 +11694,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-05,16:16,2026-11-04,CLX,Clorox Co /De/,Breber Pierre R,Dir,P - Purchase,100.06,4000,22000,+22%,400251,False
 2026-11-05,16:15,2026-11-03,SPXC,"Spx Technologies, Inc.",Deck Brian A,Dir,P - Purchase,164.34,3000,3742,+404%,493020,False
 2026-11-05,16:09,2026-11-03,BKR,Baker Hughes Co,Rice John G,Dir,P - Purchase,53.10,10000,77315,+15%,531000,False
-2026-11-05,16:06,2026-11-05,AOMR,"Angel Oak Mortgage Reit, Inc.",Parsons Landon,Dir,P - Purchase,6.28,7400,57232,+15%,46472,False
+2026-11-05,16:06,2026-11-05,AOMR,"Angel Oak Mortgage Reit, Inc.",Parsons Landon,Dir,P - Purchase,6.28,7400,57232,+15%,46472,True
 2026-11-05,13:59,2026-11-05,TTMI,Ttm Technologies Inc,Ali Wajid,Dir,P - Purchase,63.15,10000,45835,+28%,631541,True
 2026-11-05,13:10,2026-11-03,PAM,Pampa Energy Inc.,Mindlin Damian Miguel,VicePres,P - Purchase,67.68,38652,729545,+6%,2616098,True
 2026-11-05,12:10,2026-10-31,SCND,Scientific Industries Inc,Moore John A,COB,P - Purchase,0.65,51200,1001841,+5%,33280,False
@@ -12227,3 +12227,23 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-17,13:55,2026-11-13,HRNG,Hallador Energy Co,Wesley Charles Ray IV,Dir,P - Purchase,10.70,100000,532331,+23%,1069710,False
 2026-11-17,11:02,2026-11-16,NGS,Natural Gas Services Group Inc,Jacobs Justin,CEO,P - Purchase,28.60,3000,29756,+11%,85806,True
 2026-11-17,10:25,2026-11-13,NGS,Natural Gas Services Group Inc,Tringali Donald J,Dir,P - Purchase,29.04,1700,21477,+9%,49366,True
+2026-11-17,21:51,2026-11-13,CLRO,Clearone Inc,First Finance Ltd.,10%,P - Purchase,4.00,188885,2141161,+10%,755540,False
+2026-11-17,20:42,2026-11-16,BOLT,"Bolt Biotherapeutics, Inc.",Coastlands Capital LP,10%,P - Purchase,5.84,53094,515510,+11%,309922,False
+2026-11-17,20:42,2026-11-13,KTTA,Pasithea Therapeutics Corp.,Coastlands Capital LP,10%,P - Purchase,0.48,1667514,5502549,+43%,805944,False
+2026-11-17,20:08,2026-11-17,MP,Mp Materials Corp. / De,Corbett Ryan,CFO,P - Purchase,34.86,2627,120620,+2%,91577,True
+2026-11-17,19:09,2026-11-13,GROV,"Grove Collaborative Holdings, Inc.",Karp Jason H.,Dir,P - Purchase,0.95,40499,1741809,+2%,38382,False
+2026-11-17,19:00,2026-11-13,PLBY,"Playboy, Inc.",Docler Holding S.A R.L.,"Dir, 10%",P - Purchase,1.26,292347,20164070,+1%,368463,False
+2026-11-17,18:49,2026-11-17,RMIX,"Suncrete, Inc.",Fleming Ned N III,"Dir, 10%",P - Purchase,5.95,40000,40000,New,238000,False
+2026-11-17,18:35,2026-11-13,STUB,"Stubhub Holdings, Inc.",Bhargava Sameer,Dir,P - Purchase,5.31,282500,870190,+48%,1499171,True
+2026-11-17,18:33,2026-11-13,STUB,"Stubhub Holdings, Inc.",Raab Andrew John,Dir,P - Purchase,5.12,400000,614350,+187%,2048600,True
+2026-11-17,18:24,2026-11-13,FISN,"Deep Fission, Inc.",Muller Richard,CTO,P - Purchase,2.11,15000,5211423,0%,31697,False
+2026-11-17,17:50,2026-11-13,AOMR,"Angel Oak Mortgage Reit, Inc.",Jones Craig B,Dir,P - Purchase,5.94,5000,56308,+10%,29706,True
+2026-11-17,17:49,2026-11-13,OPEN,Opendoor Technologies Inc.,Hamilton Dana,Dir,P - Purchase,1.21,200000,546844,+58%,241990,False
+2026-11-17,17:33,2026-11-16,ATEC,"Alphatec Holdings, Inc.",Koning John Todd,CFO,P - Purchase,6.79,14602,615323,+2%,99146,True
+2026-11-17,17:28,2026-11-16,TEAM,Atlassian Corp,Cannon-Brookes Michael,"CEO, Co-Founder, 10%",P - Purchase,149.16,13400,329540,+4%,1998767,False
+2026-11-17,17:20,2026-11-13,PRAA,Pra Group Inc,Fredrickson Steven D,Chairman,P - Purchase,11.80,25000,266201,+10%,295000,False
+2026-11-17,17:18,2026-11-13,BOLD,"Boundless Bio, Inc.",Tang Kevin,10%,P - Purchase,2.40,13812,3049379,0%,33149,False
+2026-11-17,17:16,2026-11-16,RDW,Redwire Corp,Cannito Peter Anthony Jr,"COB, CEO",P - Purchase,7.07,14144,824140,+2%,99997,False
+2026-11-17,17:10,2026-11-17,NPCE,Neuropace Inc,Williams Patrick F.,CFO,P - Purchase,8.34,11891,79399,+18%,99148,True
+2026-11-17,17:08,2026-11-17,NPCE,Neuropace Inc,Becker Joel,CEO,P - Purchase,8.35,11891,149891,+9%,99293,True
+2026-11-17,17:05,2026-11-13,CVV,Cvd Equipment Corp,Africk Andrew,"Dir, 10%",P - Purchase,4.33,108573,1437288,+8%,470502,False
