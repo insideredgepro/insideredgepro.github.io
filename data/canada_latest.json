@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-17T04:45:23Z",
-  "trade_count": 4105,
+  "last_updated": "2026-11-18T04:45:39Z",
+  "trade_count": 4121,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -60559,7 +60559,7 @@
       "value": "30800",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4797701",
@@ -60895,7 +60895,7 @@
       "value": "30780",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4799884",
@@ -61471,7 +61471,7 @@
       "value": "26999",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4799532",
@@ -62127,7 +62127,7 @@
       "value": "205627",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4799620",
@@ -62367,7 +62367,7 @@
       "value": "35434",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4800936",
@@ -62607,7 +62607,7 @@
       "value": "273976",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4801259",
@@ -62687,7 +62687,7 @@
       "value": "28935",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4801723",
@@ -62815,7 +62815,7 @@
       "value": "138187",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4801898",
@@ -63183,7 +63183,7 @@
       "value": "65370",
       "currency": "CAD",
       "amendment": "",
-      "cluster_buy": false
+      "cluster_buy": true
     },
     {
       "transaction_id": "4803398",
@@ -63229,6 +63229,262 @@
       "qty": "39000",
       "price": "1.2200",
       "value": "47580",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4804038",
+      "trade_date": "2026-11-17",
+      "filing_date": "2026-11-17",
+      "company": "Almonty Industries Inc.",
+      "ticker": "ALM",
+      "insider_name": "Black, Michael Lewis",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "100000",
+      "price": "8.3109",
+      "value": "831090",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4803967",
+      "trade_date": "2026-11-17",
+      "filing_date": "2026-11-17",
+      "company": "Canoe EIT Income Fund",
+      "ticker": "EIT-UN",
+      "insider_name": "Chernoff, M. Bruce",
+      "title": "Director",
+      "security": "Trust Units",
+      "qty": "14800",
+      "price": "18.0397",
+      "value": "266987",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4803897",
+      "trade_date": "2026-11-17",
+      "filing_date": "2026-11-17",
+      "company": "Element Fleet Management Corp. (formerly Element Financial Corporation)",
+      "ticker": "EFN",
+      "insider_name": "Dottori-Attanasio, Laura Lee",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "7400",
+      "price": "19.5700",
+      "value": "144818",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4803933",
+      "trade_date": "2026-11-17",
+      "filing_date": "2026-11-17",
+      "company": "Freehold Royalties Ltd.",
+      "ticker": "FRU",
+      "insider_name": "Monaco, Bradley Robert",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "5850",
+      "price": "17.0871",
+      "value": "99959",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4803726",
+      "trade_date": "2026-11-17",
+      "filing_date": "2026-11-17",
+      "company": "Freehold Royalties Ltd.",
+      "ticker": "FRU",
+      "insider_name": "Nagy, Susan",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "875",
+      "price": "17.1777",
+      "value": "15030",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4803728",
+      "trade_date": "2026-11-17",
+      "filing_date": "2026-11-17",
+      "company": "Freehold Royalties Ltd.",
+      "ticker": "FRU",
+      "insider_name": "Nagy, Susan",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "875",
+      "price": "17.1743",
+      "value": "15027",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4803898",
+      "trade_date": "2026-11-17",
+      "filing_date": "2026-11-17",
+      "company": "Gunnison Copper Corp.",
+      "ticker": "GCU",
+      "insider_name": "Hallworth, Craig James",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "0.3225",
+      "value": "16125",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4803899",
+      "trade_date": "2026-11-17",
+      "filing_date": "2026-11-17",
+      "company": "Oroco Resource Corp.",
+      "ticker": "OCO",
+      "insider_name": "Dalziel, Craig James",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "100000",
+      "price": "0.2800",
+      "value": "28000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4803960",
+      "trade_date": "2026-11-17",
+      "filing_date": "2026-11-17",
+      "company": "Pacifica Silver Corp.",
+      "ticker": "PSIL.CN",
+      "insider_name": "Anthony, Todd",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "50000",
+      "price": "0.7000",
+      "value": "35000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4803944",
+      "trade_date": "2026-11-17",
+      "filing_date": "2026-11-17",
+      "company": "Pro Real Estate Investment Trust",
+      "ticker": "AP-UN",
+      "insider_name": "Lawlor, Gordon G.",
+      "title": "Director & Senior Officer",
+      "security": "Units",
+      "qty": "10000",
+      "price": "7.0400",
+      "value": "70400",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4803826",
+      "trade_date": "2026-11-17",
+      "filing_date": "2026-11-17",
+      "company": "SEVA Mining Corp.",
+      "ticker": "SEVA",
+      "insider_name": "Brown, Ryan",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "80000",
+      "price": "0.2700",
+      "value": "21600",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4804045",
+      "trade_date": "2026-11-17",
+      "filing_date": "2026-11-17",
+      "company": "Sigma Lithium Corporation",
+      "ticker": "SGML",
+      "insider_name": "Freire de Paiva, Marcelo",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "21800",
+      "price": "4.5635",
+      "value": "99484",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4803747",
+      "trade_date": "2026-11-17",
+      "filing_date": "2026-11-17",
+      "company": "Silver Crown Royalties Inc.",
+      "ticker": "SCRI",
+      "insider_name": "Bures, Peter",
+      "title": "Director & Senior Officer",
+      "security": "Common Shares",
+      "qty": "500",
+      "price": "34.0000",
+      "value": "17000",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4804026",
+      "trade_date": "2026-11-17",
+      "filing_date": "2026-11-17",
+      "company": "Stack Capital Group Inc.",
+      "ticker": "STCK",
+      "insider_name": "Stack Capital Group Inc.",
+      "title": "Issuer",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "12.9717",
+      "value": "259434",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4803989",
+      "trade_date": "2026-11-17",
+      "filing_date": "2026-11-17",
+      "company": "Stack Capital Group Inc.",
+      "ticker": "STCK",
+      "insider_name": "Vaiopoulos, Demetrios",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "11540",
+      "price": "12.9520",
+      "value": "149466",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": true
+    },
+    {
+      "transaction_id": "4803691",
+      "trade_date": "2026-11-17",
+      "filing_date": "2026-11-17",
+      "company": "StrikePoint Gold Inc.",
+      "ticker": "SKP",
+      "insider_name": "Hicks, Scott Victor Andrew",
+      "title": "Senior Officer",
+      "security": "Common Shares",
+      "qty": "20000",
+      "price": "1.2500",
+      "value": "25000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
