@@ -11802,7 +11802,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-10,06:01,2026-11-06,LBTY,Liberty Global Ltd.,Malone John C,10%,P - Purchase,9.73,150000,16773559,+1%,1460150,True
 2026-11-10,14:57,2026-11-09,BOLT,"Bolt Biotherapeutics, Inc.",Coastlands Capital LP,10%,P - Purchase,6.38,50000,462416,+12%,319000,False
 2026-11-10,14:45,2026-11-09,PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,8.53,140000,1693000,+9%,1194158,False
-2026-11-10,14:18,2026-11-06,OBK,"Origin Bancorp, Inc.",Crotwell Jim,Chief Risk Officer,P - Purchase,53.58,2000,54261,+4%,107160,False
+2026-11-10,14:18,2026-11-06,OBK,"Origin Bancorp, Inc.",Crotwell Jim,Chief Risk Officer,P - Purchase,53.58,2000,54261,+4%,107160,True
 2026-11-10,13:15,2026-11-06,STRA,"Strategic Education, Inc.",Slocum William J,Dir,P - Purchase,51.80,1250,9065,+16%,64750,True
 2026-11-10,13:15,2026-11-06,STRA,"Strategic Education, Inc.",Thawley Michael,Dir,P - Purchase,52.05,1890,14044,+16%,98368,True
 2026-11-10,12:09,2026-11-09,ARLO,"Arlo Technologies, Inc.",Faison Ralph E,Dir,P - Purchase,12.17,8250,419300,+2%,100402,False
@@ -12254,3 +12254,15 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-18,08:18,2026-11-17,AUDC,Audiocodes Ltd,Adlersberg Shabtai,"Pres, CEO",P - Purchase,8.41,3000,4988192,0%,25229,False
 2026-11-18,08:15,2026-11-17,NHI,National Health Investors Inc,Mendelsohn D. Eric,"CEO, Pres",P - Purchase,60.53,1500,134816,+1%,90795,False
 2026-11-18,08:00,2026-11-16,TRTX,"Tpg Re Finance Trust, Inc.",Schuster Todd,Dir,P - Purchase,6.56,34272,98460,+53%,224824,True
+2026-11-18,15:14,2026-11-18,OBK,"Origin Bancorp, Inc.",Jones Cecil W.,Dir,P - Purchase,52.55,3800,21447,+22%,199690,True
+2026-11-18,14:55,2026-11-16,RAIL,"Freightcar America, Inc.",Gil Benavides Jesus Salvador,Dir,P - Purchase,4.65,49000,1391237,+4%,227790,False
+2026-11-18,14:49,2026-11-16,PAM,Pampa Energy Inc.,Mariani Gustavo,VP,P - Purchase,63.07,22960,114209,+25%,1448196,True
+2026-11-18,14:43,2026-11-16,PAM,Pampa Energy Inc.,Mindlin Damian Miguel,VicePres,P - Purchase,63.08,23086,815574,+3%,1456232,True
+2026-11-18,14:28,2026-11-16,PAM,Pampa Energy Inc.,Mindlin Marcos Marcelo,"Dir, 10%",P - Purchase,63.14,63548,7263351,+1%,4012172,True
+2026-11-18,14:05,2026-11-17,FFIN,First Financial Bankshares Inc,Davis Sally Pope,Dir,P - Purchase,29.88,1700,14213,+14%,50796,False
+2026-11-18,12:31,2026-11-16,TISI,Team Inc,Hill Gary L.,CEO,P - Purchase,22.88,4200,55887,+8%,96096,False
+2026-11-18,11:40,2026-11-18,NTB,Bank of N.T. Butterfield & Son Ltd,Lynch Mark T,Dir,P - Purchase,54.95,3000,238972,+1%,164850,False
+2026-11-18,10:45,2026-11-17,VIVO,Vivopower Plc,Chin Kevin,"COB, CEO, 10%",P - Purchase,1.93,287000,4684828,+7%,553910,False
+2026-11-18,10:31,2026-11-16,EDRY,Eurodry Ltd.,Pittas Aristeidis P,Dir,P - Purchase,37.45,1150,77663,+2%,43068,False
+2026-11-18,10:04,2026-11-17,EFC,Ellington Financial Inc.,Penn Laurence,"CEO, Pres",P - Purchase,10.65,10000,638406,+2%,106540,False
+2026-11-18,10:02,2026-11-17,RILY,"Brc Group Holdings, Inc.",Riley Bryant R,"COB, Co-CEO, 10%",P - Purchase,3.07,38000,6793767,+1%,116767,False
