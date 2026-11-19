@@ -9,17 +9,76 @@
 
   var reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-  /* ---------- 1 + 2. Tbody observer: row entrance + ticker chips ---------- */
+  /* ---------- 1 + 2. Tbody observer: row entrance + live trade flash ---------- */
+  var lastInteraction = 0;
+  ['pointerdown', 'keydown', 'touchstart'].forEach(function (ev) {
+    document.addEventListener(ev, function () { lastInteraction = Date.now(); }, { passive: true, capture: true });
+  });
+
+  function rowKey(row) {
+    var cells = row.querySelectorAll('td');
+    var parts = [];
+    for (var i = 0; i < Math.min(cells.length, 3); i++) parts.push(cells[i].textContent.trim());
+    return parts.join('|');
+  }
+  function isSkelRow(row) {
+    return row.querySelector('.iep-skel, .skeleton-cell, .skeleton, .skeleton-row') !== null;
+  }
+  function flashRow(row) {
+    if (reduced) return;
+    var cls = row.className || '';
+    var kind = /row-buy|buy/i.test(cls) ? 'buy' : /row-sell|sell/i.test(cls) ? 'sell' : null;
+    if (!kind) {
+      var txt = row.textContent;
+      kind = /\bBUY\b/i.test(txt) ? 'buy' : /\bSELL\b/i.test(txt) ? 'sell' : null;
+    }
+    if (!kind) return;
+    var flashCls = kind === 'buy' ? 'iep-flash-buy' : 'iep-flash-sell';
+    row.classList.add(flashCls);
+    row.addEventListener('animationend', function h() {
+      row.classList.remove(flashCls);
+      row.removeEventListener('animationend', h);
+    });
+  }
+
   function enhanceTbody(tbody) {
-    var rows = tbody.querySelectorAll('tr');
+    var allRows = tbody.querySelectorAll('tr');
+    var rows = [];
+    for (var i = 0; i < allRows.length; i++) {
+      if (!isSkelRow(allRows[i])) rows.push(allRows[i]);
+    }
+
+    // entrance animation (first 24 rows)
     var n = Math.min(rows.length, 24);
-    for (var i = 0; i < n; i++) {
-      var r = rows[i];
+    for (var j = 0; j < n; j++) {
+      var r = rows[j];
       if (!r.classList.contains('iep-row-in') && !reduced) {
         r.classList.add('iep-row-in');
-        r.style.animationDelay = (Math.min(i, 20) * 0.03) + 's';
+        r.style.animationDelay = (Math.min(j, 20) * 0.03) + 's';
       }
     }
+
+    // live trade flash: only for auto-refresh renders, never user-driven ones
+    if (!rows.length) { tbody.__iepPrevHead = null; return; }
+    var headKey = rowKey(rows[0]);
+    var canFlash = tbody.__iepPrevHead &&
+      tbody.__iepPrevHead !== headKey &&
+      (Date.now() - lastInteraction > 2500) &&
+      document.visibilityState === 'visible';
+    if (canFlash) {
+      var seen = tbody.__iepSeen || {};
+      var flashed = 0;
+      for (var k = 0; k < Math.min(rows.length, 10) && flashed < 6; k++) {
+        var key = rowKey(rows[k]);
+        if (key === tbody.__iepPrevHead) break;      // reached old head: rows above are new
+        if (!seen[key]) { flashRow(rows[k]); flashed++; }
+      }
+    }
+    // refresh seen-set (recreate to stay bounded)
+    var ns = {};
+    for (var m = 0; m < Math.min(rows.length, 300); m++) ns[rowKey(rows[m])] = 1;
+    tbody.__iepSeen = ns;
+    tbody.__iepPrevHead = headKey;
   }
 
   function wireTbodys() {
@@ -84,6 +143,38 @@
     });
   }
 
+  /* ---------- 6. Ambient mesh background ---------- */
+  function wireAmbient() {
+    if (reduced || document.getElementById('iep-ambient')) return;
+    var a = document.createElement('div');
+    a.id = 'iep-ambient';
+    a.setAttribute('aria-hidden', 'true');
+    document.body.appendChild(a);
+  }
+
+  /* ---------- 7. Cursor glow (desktop only) ---------- */
+  function wireCursorGlow() {
+    if (reduced || document.getElementById('iep-cursor')) return;
+    if (!window.matchMedia('(pointer: fine)').matches) return;
+    if (window.innerWidth < 900) return;
+    var c = document.createElement('div');
+    c.id = 'iep-cursor';
+    c.setAttribute('aria-hidden', 'true');
+    document.body.appendChild(c);
+    var tx = window.innerWidth / 2, ty = window.innerHeight / 3;
+    var x = tx, y = ty, shown = false;
+    document.addEventListener('mousemove', function (e) {
+      tx = e.clientX; ty = e.clientY;
+      if (!shown) { shown = true; c.style.opacity = '1'; }
+    }, { passive: true });
+    (function loop() {
+      x += (tx - x) * 0.12;
+      y += (ty - y) * 0.12;
+      c.style.transform = 'translate3d(' + x + 'px,' + y + 'px,0)';
+      requestAnimationFrame(loop);
+    })();
+  }
+
   window.IEP = window.IEP || {};
   window.IEP.fillMarquee = fillMarquee;
 
@@ -91,6 +182,8 @@
   function boot() {
     wireTbodys();
     wireLiveDots();
+    wireAmbient();
+    wireCursorGlow();
     // late-added tables
     new MutationObserver(function () { wireTbodys(); wireLiveDots(); })
       .observe(document.body, { childList: true, subtree: true });

@@ -146,3 +146,105 @@ a, button, .btn, [role="button"] {
 @media (prefers-reduced-motion: reduce) {
   tr.iep-row-in, .iep-skel, .iep-live-dot, .iep-marquee { animation: none !important; }
 }
+
+/* ---------- 11. Display typography (Space Grotesk) ---------- */
+h1, h2, h3,
+.hero h1, .hero-sub,
+.stat-val, .stat-value,
+.si-detail-ticker, .poli-detail-name, .poli-name,
+.hls-num, .hls-num-lg {
+  font-family: 'Space Grotesk', 'DM Sans', 'Inter', system-ui, sans-serif;
+}
+h1, .hero h1 { letter-spacing: -.03em; }
+h2, h3 { letter-spacing: -.015em; }
+.stat-val, .stat-value, .si-detail-ticker { letter-spacing: -.02em; font-weight: 700; }
+.poli-detail-name, .poli-name { letter-spacing: -.01em; }
+
+/* ---------- 12. Ambient mesh background ---------- */
+#iep-ambient {
+  position: fixed;
+  inset: -25%;
+  z-index: 9997;
+  pointer-events: none;
+  mix-blend-mode: screen;
+  opacity: .55;
+  background:
+    radial-gradient(38% 32% at 22% 28%, rgba(26,188,219,.10), transparent 70%),
+    radial-gradient(34% 30% at 78% 20%, rgba(16,217,138,.07), transparent 70%),
+    radial-gradient(42% 38% at 55% 85%, rgba(165,124,255,.06), transparent 70%);
+  animation: iepMeshDrift 36s ease-in-out infinite alternate;
+  will-change: transform;
+}
+@keyframes iepMeshDrift {
+  from { transform: translate3d(-2.5%, -1.5%, 0) scale(1); }
+  50%  { transform: translate3d(2%, 1.5%, 0) scale(1.06); }
+  to   { transform: translate3d(-1%, 2.5%, 0) scale(1.03); }
+}
+@media (max-width: 900px) { #iep-ambient { opacity: .3; } }
+
+/* Hero glow breathing (homepage) */
+.hero-glow { animation: iepHeroPulse 9s ease-in-out infinite alternate; }
+@keyframes iepHeroPulse {
+  from { opacity: .75; transform: scale(1); }
+  to   { opacity: 1;   transform: scale(1.07); }
+}
+
+/* ---------- 13. Cursor glow (desktop, fine pointers only) ---------- */
+#iep-cursor {
+  position: fixed;
+  left: 0; top: 0;
+  width: 520px; height: 520px;
+  margin: -260px 0 0 -260px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(26,188,219,.09), rgba(26,188,219,.03) 40%, transparent 65%);
+  mix-blend-mode: screen;
+  pointer-events: none;
+  z-index: 9998;
+  opacity: 0;
+  transition: opacity .6s ease;
+  will-change: transform;
+}
+
+/* ---------- 14. Live trade flash ---------- */
+@keyframes iepFlashBuy {
+  0%   { background: rgba(16,217,138,.30); }
+  100% { background: transparent; }
+}
+@keyframes iepFlashSell {
+  0%   { background: rgba(239,68,68,.30); }
+  100% { background: transparent; }
+}
+tr.iep-flash-buy  { animation: iepFlashBuy  2.4s ease-out 1; }
+tr.iep-flash-sell { animation: iepFlashSell 2.4s ease-out 1; }
+
+/* ---------- 15. Hero live stats (homepage) ---------- */
+.hero-live-stats {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  margin-top: 34px;
+  flex-wrap: wrap;
+}
+.hls-item { display: flex; flex-direction: column; align-items: center; gap: 2px; min-width: 92px; }
+.hls-num {
+  font-size: 26px; font-weight: 700; letter-spacing: -.02em;
+  color: #e2eaf4; font-variant-numeric: tabular-nums;
+  text-shadow: 0 0 24px rgba(26,188,219,.25);
+}
+.hls-lbl {
+  font-size: 10px; font-weight: 600; letter-spacing: .14em; text-transform: uppercase;
+  color: #7a97b8;
+}
+.hls-sep { width: 1px; height: 30px; background: linear-gradient(180deg, transparent, rgba(26,188,219,.35), transparent); }
+@media (max-width: 640px) {
+  .hls-sep { display: none; }
+  .hero-live-stats { gap: 14px 26px; }
+  .hls-num { font-size: 22px; }
+}
+
+/* ---------- reduced motion addendum ---------- */
+@media (prefers-reduced-motion: reduce) {
+  #iep-ambient, .hero-glow { animation: none !important; }
+  tr.iep-flash-buy, tr.iep-flash-sell { animation: none !important; }
+}

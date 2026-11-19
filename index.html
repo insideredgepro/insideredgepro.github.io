@@ -123,8 +123,8 @@
   </script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;600;700;800;900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="upgrade.css?v=1" />
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;600;700;800;900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="upgrade.css?v=2" />
 
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -929,6 +929,28 @@
         See Live Trades
       </a>
     </div>
+
+    <div class="hero-live-stats" id="hero-live-stats">
+      <div class="hls-item">
+        <span class="hls-num" id="hls-trades">—</span>
+        <span class="hls-lbl">Trades Tracked</span>
+      </div>
+      <div class="hls-sep"></div>
+      <div class="hls-item">
+        <span class="hls-num" id="hls-insiders">—</span>
+        <span class="hls-lbl">Insiders</span>
+      </div>
+      <div class="hls-sep"></div>
+      <div class="hls-item">
+        <span class="hls-num" id="hls-polis">—</span>
+        <span class="hls-lbl">Politicians</span>
+      </div>
+      <div class="hls-sep"></div>
+      <div class="hls-item">
+        <span class="hls-num">3</span>
+        <span class="hls-lbl">Gov Sources</span>
+      </div>
+    </div>
   </div>
 
   <!-- Terminal widget: z-index 10, below hero text but inside hero section -->
@@ -1371,6 +1393,29 @@
     countUp(document.getElementById('st-clusters'),clusters,900);
     document.getElementById('st-value').textContent=fmt(totalVal);
     countUp(document.getElementById('st-tickers'),tickers,900);
+
+    /* Hero live counters: US trades + insiders now; congress + canada lazily */
+    const usInsiders=new Set(all.map(t=>t.insider_name).filter(Boolean));
+    let totalTrades=all.length, totalInsiders=usInsiders.size, totalPolis=0;
+    const hlsUpd=()=>{
+      const el1=document.getElementById('hls-trades');  if(el1)countUp(el1,totalTrades,1100);
+      const el2=document.getElementById('hls-insiders');if(el2)countUp(el2,totalInsiders,1100);
+      const el3=document.getElementById('hls-polis');   if(el3)countUp(el3,totalPolis,1100);
+    };
+    hlsUpd();
+    setTimeout(()=>{
+      const pull=(url)=>fetch(url+'?_='+Date.now()).then(r=>r.json()).catch(()=>null);
+      Promise.all([pull('data/trades-recent.json'),pull('data/canada_latest.json')]).then(([cong,can])=>{
+        const ct=Array.isArray(cong)?cong:(cong&&cong.trades)||[];
+        const ca=Array.isArray(can)?can:(can&&(can.trades||can.entries))||[];
+        ct.forEach(t=>{ if(t.politician_name) totalPolis++; });
+        totalPolis=new Set(ct.map(t=>t.politician_name).filter(Boolean)).size;
+        ca.forEach(t=>{ if(t.insider_name) usInsiders.add(t.insider_name); });
+        totalTrades=all.length+ct.length+ca.length;
+        totalInsiders=usInsiders.size;
+        hlsUpd();
+      });
+    },1200);
     if(window.IEP&&IEP.fillMarquee)IEP.fillMarquee(all);
     const te=document.getElementById('term-total');if(te)te.textContent=all.length;
 
@@ -1423,6 +1468,6 @@
   }
 })();
 </script>
-  <script src="upgrade.js?v=1" defer></script>
+  <script src="upgrade.js?v=2" defer></script>
 </body>
 </html>
