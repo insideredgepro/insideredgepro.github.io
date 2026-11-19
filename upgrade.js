@@ -123,16 +123,24 @@
   }
 
   /* ---------- 5. Homepage marquee ---------- */
+  function fmtVal(v) {
+    var n = parseFloat(String(v == null ? '' : v).replace(/[^0-9.-]/g, ''));
+    if (isNaN(n) || !n) return '';
+    if (n >= 1e9) return '$' + (n / 1e9).toFixed(1) + 'B';
+    if (n >= 1e6) return '$' + (n / 1e6).toFixed(1) + 'M';
+    if (n >= 1e3) return '$' + (n / 1e3).toFixed(0) + 'K';
+    return '$' + n.toFixed(0);
+  }
   function fillMarquee(trades) {
     var wrap = document.getElementById('iep-marquee');
     if (!wrap || !trades || !trades.length) return;
     var items = trades.filter(function (t) { return t.ticker; }).slice(0, 24);
     if (!items.length) return;
     var html = items.map(function (t) {
-      var val = t.value ? String(t.value) : '';
+      var val = fmtVal(t.value);
       return '<span class="iep-mq-item"><span class="mq-t">' + esc(t.ticker) + '</span>' +
         (t.cluster_buy ? '<span class="mq-c">&#9889; CLUSTER</span>' : '') +
-        '<span class="mq-v">' + esc(val) + '</span></span>';
+        (val ? '<span class="mq-v">' + esc(val) + '</span>' : '') + '</span>';
     }).join('');
     wrap.innerHTML = html + html; // duplicate for seamless loop
     wrap.parentElement.style.display = '';

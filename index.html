@@ -124,7 +124,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;600;700;800;900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="upgrade.css?v=2" />
+  <link rel="stylesheet" href="upgrade.css?v=3" />
 
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -969,7 +969,7 @@
         <div class="tskel" style="opacity:.2"></div>
       </div>
       <div class="term-footer">
-        <span class="term-ftxt">Showing 5 of <span id="term-total">—</span> trades today</span>
+        <span class="term-ftxt">Showing 5 of <span id="term-total">—</span> trades tracked</span>
         <a href="login.html" class="term-unlock">
           <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
           Unlock All
@@ -989,7 +989,7 @@
   <div class="stats-row">
     <div class="stat-cell">
       <span class="stat-val" id="st-trades">—</span>
-      <span class="stat-lbl">Trades Today</span>
+      <span class="stat-lbl">Trades Tracked</span>
     </div>
     <div class="stat-cell">
       <span class="stat-val" id="st-clusters">—</span>
@@ -1336,7 +1336,7 @@
 <script>
 (function(){
   /* ── Helpers ── */
-  function fmt(v){const n=parseFloat((''+v).replace(/[^0-9.-]/g,''));if(isNaN(n))return'—';if(n>=1e6)return'$'+(n/1e6).toFixed(1)+'M';if(n>=1e3)return'$'+(n/1e3).toFixed(0)+'K';return'$'+n.toFixed(0)}
+  function fmt(v){const n=parseFloat((''+v).replace(/[^0-9.-]/g,''));if(isNaN(n))return'—';if(n>=1e9)return'$'+(n/1e9).toFixed(1)+'B';if(n>=1e6)return'$'+(n/1e6).toFixed(1)+'M';if(n>=1e3)return'$'+(n/1e3).toFixed(0)+'K';return'$'+n.toFixed(0)}
   function fmtDate(d){if(!d)return'—';const dt=new Date(d);return isNaN(dt)?d:dt.toLocaleDateString('en-US',{month:'short',day:'numeric'})}
   function roleBadge(title,cls){
     const t=(title||'').toLowerCase();let code='other',label=title?title.slice(0,10):'Insider';
@@ -1471,6 +1471,6 @@
   };
 })();
 </script>
-  <script src="upgrade.js?v=2" defer></script>
+  <script src="upgrade.js?v=3" defer></script>
 </body>
 </html>
