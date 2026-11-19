@@ -954,7 +954,7 @@
   </div>
 
   <!-- Terminal widget: z-index 10, below hero text but inside hero section -->
-  <div class="hero-term-wrap">
+  <div class="hero-term-wrap" id="live-preview">
     <div class="terminal">
       <div class="term-header">
         <div class="term-dots"><div class="td r"></div><div class="td y"></div><div class="td g"></div></div>
@@ -1417,6 +1417,7 @@
       });
     },1200);
     if(window.IEP&&IEP.fillMarquee)IEP.fillMarquee(all);
+    if(window.__iepFloats)window.__iepFloats(all);
     const te=document.getElementById('term-total');if(te)te.textContent=all.length;
 
     /* Terminal rows */
@@ -1447,25 +1448,27 @@
   document.querySelectorAll('.reveal,.stagger').forEach(el=>io.observe(el));
 
   /* ── Ticker floats: decorative background, z-index 1, max opacity .13 ── */
-  if(!window.matchMedia('(prefers-reduced-motion: reduce)').matches){
-    const tickers=[
-      'AAPL $2.1M','MSFT CEO','NVDA $850K','TSLA Dir','AMZN $1.4M','META CFO',
-      'GOOG $3.2M','JPM CEO','⚡ CLUSTER BUY','FORM 4','SEC Filing','SEDI Buy',
-      'BRK.B $5M','AMD Dir','INTC CFO','ORCL $1.8M','CRM CEO','UBER $740K',
-      'NFLX Dir','WMT $2.3M','DIS CEO','BA CFO','GS $4.1M','PLTR CEO',
-      '⚡ CLUSTER BUY','COIN $1.1M','SOFI Dir','SMCI $3.8M','MU CEO','MSTR $9M'
-    ];
+  /* Floats are built from REAL fetched trades (see data fetch above). */
+  window.__iepFloats=function(trades){
+    if(window.matchMedia('(prefers-reduced-motion: reduce)').matches)return;
     const hero=document.querySelector('.hero');
-    if(hero){
-      tickers.forEach(txt=>{
-        const el=document.createElement('div');
-        el.className='tf';
-        el.textContent=txt;
-        el.style.cssText=`left:${3+Math.random()*90}%;top:${5+Math.random()*85}%;--d:${12+Math.random()*10}s;--dl:-${Math.random()*14}s`;
-        hero.appendChild(el);
-      });
+    if(!hero||!trades||!trades.length)return;
+    hero.querySelectorAll('.tf').forEach(el=>el.remove());
+    const role=t=>{const x=(t.title||'').toLowerCase();if(x.includes('ceo'))return'CEO';if(x.includes('cfo'))return'CFO';if(x.includes('dir'))return'Dir';if(x.includes('10%'))return'10%';if(x.includes('officer'))return'Officer';return'';};
+    const items=trades.filter(t=>t.ticker).slice(0,60);
+    const picked=[];
+    for(let i=0;i<30&&items.length;i++){
+      const t=items.splice(Math.floor(Math.random()*items.length),1)[0];
+      picked.push(t.cluster_buy?'⚡ '+t.ticker+' CLUSTER':(t.value?t.ticker+' '+fmt(t.value):t.ticker+(role(t)?' '+role(t):'')));
     }
-  }
+    picked.forEach(txt=>{
+      const el=document.createElement('div');
+      el.className='tf';
+      el.textContent=txt;
+      el.style.cssText=`left:${3+Math.random()*90}%;top:${5+Math.random()*85}%;--d:${12+Math.random()*10}s;--dl:-${Math.random()*14}s`;
+      hero.appendChild(el);
+    });
+  };
 })();
 </script>
   <script src="upgrade.js?v=2" defer></script>
