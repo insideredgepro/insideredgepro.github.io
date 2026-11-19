@@ -1104,6 +1104,15 @@
               <tbody id="poli-trades-body"></tbody>
             </table>
           </div>
+          <!-- Portfolio trades pagination -->
+          <div id="pt-pagination-bar" style="display:none">
+            <div class="pg-info" id="pt-pg-info"></div>
+            <div class="pg-controls">
+              <button class="pg-btn" id="pt-pg-prev">&#8592; Prev</button>
+              <span class="pg-pages" id="pt-pg-pages"></span>
+              <button class="pg-btn" id="pt-pg-next">Next &#8594;</button>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -2166,6 +2175,68 @@
     });
   }
 
+  const POLI_PAGE_SIZE = 100;
+  let poliPage = 1;
+  let poliTradesCache = [];
+
+  function renderPoliTrades() {
+    const total      = poliTradesCache.length;
+    const totalPages = Math.max(1, Math.ceil(total / POLI_PAGE_SIZE));
+    poliPage         = Math.min(Math.max(1, poliPage), totalPages);
+    const slice      = poliTradesCache.slice((poliPage - 1) * POLI_PAGE_SIZE, poliPage * POLI_PAGE_SIZE);
+
+    document.getElementById('poli-trades-body').innerHTML = slice.map(t => {
+      const txType = (t.transaction_type||'').toUpperCase();
+      const rowCls = txType==='BUY'?'row-buy':txType==='SELL'?'row-sell':'';
+      const pubI = parsePublishedDate(t); const trdI = parseTradeDate(t);
+      const pe = (t.id != null) ? cpReturnById[t.id] : null;
+      const rr = pe && pe.return_pct != null ? pe.return_pct : null;
+      const retHTML = rr == null
+        ? '<span class="pt-ret-na">—</span>'
+        : `<span class="pt-ret ${rr >= 0 ? 'pos' : 'neg'}">${rr >= 0 ? '+' : ''}${rr.toFixed(1)}%</span>`;
+      return `<tr class="${rowCls}">
+  <td class="td-pt-date">${pubI ? formatDateDisplay(pubI) : escHtml(t.trade_published||'—')}</td>
+  <td class="td-pt-traded">${trdI ? formatDateDisplay(trdI) : escHtml(t.traded_on||'—')}</td>
+  <td class="td-pt-ticker">${escHtml(t.ticker&&t.ticker!=='N/A'?t.ticker:'—')}</td>
+  <td class="td-pt-company">${escHtml(t.company||'—')}</td>
+  <td class="td-pt-type"><span class="badge-tx ${txClass(txType)}">${escHtml(txType||'—')}</span></td>
+  <td class="td-pt-amount">${escHtml(normaliseAmount(t))}</td>
+  <td class="td-pt-ret">${retHTML}</td>
+  <td class="td-pt-price">${escHtml(t.price && t.price !== 'N/A' ? t.price : '—')}</td>
+  <td class="td-pt-filed">${t.filed_after_days?t.filed_after_days+'d':'—'}</td>
+</tr>`;
+    }).join('');
+
+    // Pagination bar
+    const bar   = document.getElementById('pt-pagination-bar');
+    const info  = document.getElementById('pt-pg-info');
+    const prev  = document.getElementById('pt-pg-prev');
+    const next  = document.getElementById('pt-pg-next');
+    const pages = document.getElementById('pt-pg-pages');
+    bar.style.display = total === 0 ? 'none' : 'flex';
+    const start = (poliPage - 1) * POLI_PAGE_SIZE + 1;
+    const end   = Math.min(poliPage * POLI_PAGE_SIZE, total);
+    info.textContent = total === 0 ? '' : `${start.toLocaleString()}–${end.toLocaleString()} of ${total.toLocaleString()}`;
+    prev.disabled = poliPage === 1;
+    next.disabled = poliPage === totalPages;
+    const nums = [];
+    for (let i = 1; i <= totalPages; i++) {
+      if (i === 1 || i === totalPages || (i >= poliPage - 2 && i <= poliPage + 2)) nums.push(i);
+      else if (nums[nums.length - 1] !== '…') nums.push('…');
+    }
+    pages.innerHTML = nums.map(p =>
+      p === '…'
+        ? '<span class="pg-page ellipsis">…</span>'
+        : `<span class="pg-page${p === poliPage ? ' active' : ''}" data-p="${p}">${p}</span>`
+    ).join('');
+    pages.querySelectorAll('.pg-page[data-p]').forEach(el => {
+      el.addEventListener('click', () => { poliPage = +el.dataset.p; renderPoliTrades(); });
+    });
+  }
+
+  document.getElementById('pt-pg-prev').addEventListener('click', () => { poliPage--; renderPoliTrades(); });
+  document.getElementById('pt-pg-next').addEventListener('click', () => { poliPage++; renderPoliTrades(); });
+
   function openPortfolio(name, refresh) {
     ensureCpData();
     const map = buildPortfolios();
@@ -2192,33 +2263,15 @@
     document.getElementById('poli-sent-pct').textContent = sentPct + '% Buy';
     document.getElementById('poli-sentiment-fill').style.width = sentPct + '%';
 
-    // All trades
+    // All trades — paginated, 100 per page
     const sorted = [...p.trades].sort((a,b) => {
       const da = a.trade_published||a.traded_on||'';
       const db = b.trade_published||b.traded_on||'';
       return db < da ? -1 : db > da ? 1 : 0;
     });
-    document.getElementById('poli-trades-body').innerHTML = sorted.map(t => {
-      const txType = (t.transaction_type||'').toUpperCase();
-      const rowCls = txType==='BUY'?'row-buy':txType==='SELL'?'row-sell':'';
-      const pubI = parsePublishedDate(t); const trdI = parseTradeDate(t);
-      const pe = (t.id != null) ? cpReturnById[t.id] : null;
-      const rr = pe && pe.return_pct != null ? pe.return_pct : null;
-      const retHTML = rr == null
-        ? '<span class="pt-ret-na">—</span>'
-        : `<span class="pt-ret ${rr >= 0 ? 'pos' : 'neg'}">${rr >= 0 ? '+' : ''}${rr.toFixed(1)}%</span>`;
-      return `<tr class="${rowCls}">
-  <td class="td-pt-date">${pubI ? formatDateDisplay(pubI) : escHtml(t.trade_published||'—')}</td>
-  <td class="td-pt-traded">${trdI ? formatDateDisplay(trdI) : escHtml(t.traded_on||'—')}</td>
-  <td class="td-pt-ticker">${escHtml(t.ticker&&t.ticker!=='N/A'?t.ticker:'—')}</td>
-  <td class="td-pt-company">${escHtml(t.company||'—')}</td>
-  <td class="td-pt-type"><span class="badge-tx ${txClass(txType)}">${escHtml(txType||'—')}</span></td>
-  <td class="td-pt-amount">${escHtml(normaliseAmount(t))}</td>
-  <td class="td-pt-ret">${retHTML}</td>
-  <td class="td-pt-price">${escHtml(t.price && t.price !== 'N/A' ? t.price : '—')}</td>
-  <td class="td-pt-filed">${t.filed_after_days?t.filed_after_days+'d':'—'}</td>
-</tr>`;
-    }).join('');
+    poliTradesCache = sorted;
+    poliPage = 1;
+    renderPoliTrades();
 
     currentPoliName = name;
     if (!refresh) {
