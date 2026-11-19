@@ -1175,6 +1175,15 @@
               <tbody id="si-trades-body"></tbody>
             </table>
           </div>
+          <!-- Stock trades pagination -->
+          <div id="si-pagination-bar" style="display:none">
+            <div class="pg-info" id="si-pg-info"></div>
+            <div class="pg-controls">
+              <button class="pg-btn" id="si-pg-prev">&#8592; Prev</button>
+              <span class="pg-pages" id="si-pg-pages"></span>
+              <button class="pg-btn" id="si-pg-next">Next &#8594;</button>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -1243,6 +1252,15 @@
           <tr class="skeleton-row"><td colspan="9"><div class="skeleton-cell" style="width:85%"></div></td></tr>
         </tbody>
       </table>
+    </div>
+    <!-- Performance pagination -->
+    <div id="cp-pagination-bar" style="display:none">
+      <div class="pg-info" id="cp-pg-info"></div>
+      <div class="pg-controls">
+        <button class="pg-btn" id="cp-pg-prev">&#8592; Prev</button>
+        <span class="pg-pages" id="cp-pg-pages"></span>
+        <button class="pg-btn" id="cp-pg-next">Next &#8594;</button>
+      </div>
     </div>
     <div class="cp-note">Returns measured from each politician's <strong>disclosed buy price</strong> to the latest close. <span id="cp-last-updated"></span></div>
   </div>
@@ -1890,6 +1908,8 @@
   let cpInited = false, cpEntries = [];
   let cpSort = 'return_pct', cpDir = 'desc', cpStatus = 'all', cpSearch = '';
   const cpExpanded = new Set();
+  const CP_PAGE_SIZE = 100;
+  let cpPage = 1;
 
   // Per-trade return lookup (trade id -> performance entry), shared by the
   // Performance tab and the Portfolio trade table.
@@ -1927,24 +1947,24 @@
 
     document.getElementById('cp-search-input').addEventListener('input', () => {
       cpSearch = document.getElementById('cp-search-input').value.trim().toLowerCase();
-      cpRender();
+      cpPage = 1; cpRender();
     });
     document.querySelectorAll('#cp-sort-group .btn-range').forEach(btn => {
       btn.addEventListener('click', () => {
         cpSort = btn.dataset.sort; cpDir = 'desc';
         document.querySelectorAll('#cp-sort-group .btn-range').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active'); cpRender();
+        btn.classList.add('active'); cpPage = 1; cpRender();
       });
     });
     document.querySelectorAll('#cp-status-group .btn-range').forEach(btn => {
       btn.addEventListener('click', () => {
         cpStatus = btn.dataset.status;
         document.querySelectorAll('#cp-status-group .btn-range').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active'); cpRender();
+        btn.classList.add('active'); cpPage = 1; cpRender();
       });
     });
     document.getElementById('cp-btn-reset').addEventListener('click', () => {
-      cpSearch = ''; cpStatus = 'all'; cpSort = 'return_pct'; cpDir = 'desc';
+      cpSearch = ''; cpStatus = 'all'; cpSort = 'return_pct'; cpDir = 'desc'; cpPage = 1;
       document.getElementById('cp-search-input').value = '';
       document.querySelectorAll('#cp-status-group .btn-range').forEach(b => b.classList.toggle('active', b.dataset.status === 'all'));
       document.querySelectorAll('#cp-sort-group .btn-range').forEach(b => b.classList.toggle('active', b.dataset.sort === 'return_pct'));
@@ -2043,21 +2063,28 @@
 
     const body = document.getElementById('cp-table-body');
     const noRes = document.getElementById('cp-no-results');
-    if (!groups.length) { body.innerHTML = ''; noRes.style.display = 'flex'; return; }
+    if (!groups.length) { body.innerHTML = ''; noRes.style.display = 'flex'; document.getElementById('cp-pagination-bar').style.display = 'none'; return; }
     noRes.style.display = 'none';
 
     const retCell = r => r == null ? '<span class="badge-pending">Pending</span>'
       : `<span class="td-return ${r > 0 ? 'positive' : 'negative'}">${r > 0 ? '▲' : '▼'} ${cpRet(r)}</span>`;
 
+    // Paginate ticker groups
+    const cpTotalPages = Math.max(1, Math.ceil(groups.length / CP_PAGE_SIZE));
+    cpPage = Math.min(Math.max(1, cpPage), cpTotalPages);
+    const rankOffset = (cpPage - 1) * CP_PAGE_SIZE;
+    const pageGroups = groups.slice(rankOffset, rankOffset + CP_PAGE_SIZE);
+
     const rows = [];
-    groups.forEach((g, i) => {
+    pageGroups.forEach((g, i) => {
+      const rank = rankOffset + i + 1;
       const multi = g.entries.length > 1;
       const open = cpExpanded.has(g.ticker);
       const curHTML = g.latest != null ? cpPrice(g.latest) : '<span class="badge-pending">Pending</span>';
       if (multi) {
         const arrow = open ? '&#9660;' : '&#9654;';
         rows.push(`<tr class="cp-group" data-ticker="${cpEsc(g.ticker)}" style="cursor:pointer">
-          <td class="td-rank">${i+1}</td>
+          <td class="td-rank">${rank}</td>
           <td class="td-ticker"><span class="expand-arrow">${arrow}</span>${cpEsc(g.ticker)}</td>
           <td class="td-company" title="${cpEsc(g.company)}">${cpEsc(g.company)}</td>
           <td class="td-pol"><span style="color:var(--muted2)">${g.entries.length} politicians</span></td>
@@ -2069,7 +2096,7 @@
         </tr>`);
         if (open) g.entries.forEach(e => rows.push(cpRow(e, true)));
       } else {
-        rows.push(cpRow(g.entries[0], false, i+1));
+        rows.push(cpRow(g.entries[0], false, rank));
       }
     });
     body.innerHTML = rows.join('');
@@ -2078,7 +2105,36 @@
       cpExpanded.has(tk) ? cpExpanded.delete(tk) : cpExpanded.add(tk);
       cpRender();
     }));
+
+    // Pagination bar
+    const cpBar   = document.getElementById('cp-pagination-bar');
+    const cpInfo  = document.getElementById('cp-pg-info');
+    const cpPrev  = document.getElementById('cp-pg-prev');
+    const cpNext  = document.getElementById('cp-pg-next');
+    const cpPages = document.getElementById('cp-pg-pages');
+    cpBar.style.display = 'flex';
+    const cpStart = rankOffset + 1;
+    const cpEnd   = Math.min(rankOffset + CP_PAGE_SIZE, groups.length);
+    cpInfo.textContent = `${cpStart.toLocaleString()}–${cpEnd.toLocaleString()} of ${groups.length.toLocaleString()} stocks`;
+    cpPrev.disabled = cpPage === 1;
+    cpNext.disabled = cpPage === cpTotalPages;
+    const cpNums = [];
+    for (let i = 1; i <= cpTotalPages; i++) {
+      if (i === 1 || i === cpTotalPages || (i >= cpPage - 2 && i <= cpPage + 2)) cpNums.push(i);
+      else if (cpNums[cpNums.length - 1] !== '…') cpNums.push('…');
+    }
+    cpPages.innerHTML = cpNums.map(p =>
+      p === '…'
+        ? '<span class="pg-page ellipsis">…</span>'
+        : `<span class="pg-page${p === cpPage ? ' active' : ''}" data-p="${p}">${p}</span>`
+    ).join('');
+    cpPages.querySelectorAll('.pg-page[data-p]').forEach(el => {
+      el.addEventListener('click', () => { cpPage = +el.dataset.p; cpRender(); });
+    });
   }
+
+  document.getElementById('cp-pg-prev').addEventListener('click', () => { cpPage--; cpRender(); });
+  document.getElementById('cp-pg-next').addEventListener('click', () => { cpPage++; cpRender(); });
 
   function cpRow(e, child, rank) {
     const r = e.return_pct;
@@ -2361,6 +2417,62 @@
     });
   }
 
+  const SI_PAGE_SIZE = 100;
+  let siPage = 1;
+  let siTradesCache = [];
+
+  function renderSiTrades() {
+    const total      = siTradesCache.length;
+    const totalPages = Math.max(1, Math.ceil(total / SI_PAGE_SIZE));
+    siPage           = Math.min(Math.max(1, siPage), totalPages);
+    const slice      = siTradesCache.slice((siPage - 1) * SI_PAGE_SIZE, siPage * SI_PAGE_SIZE);
+
+    document.getElementById('si-trades-body').innerHTML = slice.map(t => {
+      const txType = (t.transaction_type||'').toUpperCase();
+      const rowCls = txType==='BUY'?'row-buy':txType==='SELL'?'row-sell':'';
+      const pubI = parsePublishedDate(t); const trdI = parseTradeDate(t);
+      return `<tr class="${rowCls}">
+  <td class="td-si-pub">${pubI ? formatDateDisplay(pubI) : escHtml(t.trade_published||'—')}</td>
+  <td class="td-si-traded">${trdI ? formatDateDisplay(trdI) : escHtml(t.traded_on||'—')}</td>
+  <td class="td-si-pol">${escHtml(t.politician_name||'—')}</td>
+  <td class="td-si-party"><span class="badge-party ${partyClass(t.party)}">${escHtml(partyShort(t.party))}</span></td>
+  <td class="td-si-type"><span class="badge-tx ${txClass(txType)}">${escHtml(txType||'—')}</span></td>
+  <td class="td-si-amount">${escHtml(normaliseAmount(t))}</td>
+  <td class="td-si-price">${escHtml(t.price && t.price !== 'N/A' ? t.price : '—')}</td>
+  <td class="td-si-filed">${t.filed_after_days?t.filed_after_days+'d':'—'}</td>
+</tr>`;
+    }).join('');
+
+    // Pagination bar
+    const bar   = document.getElementById('si-pagination-bar');
+    const info  = document.getElementById('si-pg-info');
+    const prev  = document.getElementById('si-pg-prev');
+    const next  = document.getElementById('si-pg-next');
+    const pages = document.getElementById('si-pg-pages');
+    bar.style.display = total === 0 ? 'none' : 'flex';
+    const start = (siPage - 1) * SI_PAGE_SIZE + 1;
+    const end   = Math.min(siPage * SI_PAGE_SIZE, total);
+    info.textContent = total === 0 ? '' : `${start.toLocaleString()}–${end.toLocaleString()} of ${total.toLocaleString()}`;
+    prev.disabled = siPage === 1;
+    next.disabled = siPage === totalPages;
+    const nums = [];
+    for (let i = 1; i <= totalPages; i++) {
+      if (i === 1 || i === totalPages || (i >= siPage - 2 && i <= siPage + 2)) nums.push(i);
+      else if (nums[nums.length - 1] !== '…') nums.push('…');
+    }
+    pages.innerHTML = nums.map(p =>
+      p === '…'
+        ? '<span class="pg-page ellipsis">…</span>'
+        : `<span class="pg-page${p === siPage ? ' active' : ''}" data-p="${p}">${p}</span>`
+    ).join('');
+    pages.querySelectorAll('.pg-page[data-p]').forEach(el => {
+      el.addEventListener('click', () => { siPage = +el.dataset.p; renderSiTrades(); });
+    });
+  }
+
+  document.getElementById('si-pg-prev').addEventListener('click', () => { siPage--; renderSiTrades(); });
+  document.getElementById('si-pg-next').addEventListener('click', () => { siPage++; renderSiTrades(); });
+
   function openStockDetail(ticker) {
     const trades = siFilteredTrades();
     const map    = buildStockMap(trades);
@@ -2395,21 +2507,9 @@
     document.getElementById('si-sentiment-fill').style.width = buyPct + '%';
 
     const sorted = [...s.trades].sort((a,b) => { const da=a.trade_published||a.traded_on||''; const db=b.trade_published||b.traded_on||''; return db<da?-1:db>da?1:0; });
-    document.getElementById('si-trades-body').innerHTML = sorted.map(t => {
-      const txType = (t.transaction_type||'').toUpperCase();
-      const rowCls = txType==='BUY'?'row-buy':txType==='SELL'?'row-sell':'';
-      const pubI = parsePublishedDate(t); const trdI = parseTradeDate(t);
-      return `<tr class="${rowCls}">
-  <td class="td-si-pub">${pubI ? formatDateDisplay(pubI) : escHtml(t.trade_published||'—')}</td>
-  <td class="td-si-traded">${trdI ? formatDateDisplay(trdI) : escHtml(t.traded_on||'—')}</td>
-  <td class="td-si-pol">${escHtml(t.politician_name||'—')}</td>
-  <td class="td-si-party"><span class="badge-party ${partyClass(t.party)}">${escHtml(partyShort(t.party))}</span></td>
-  <td class="td-si-type"><span class="badge-tx ${txClass(txType)}">${escHtml(txType||'—')}</span></td>
-  <td class="td-si-amount">${escHtml(normaliseAmount(t))}</td>
-  <td class="td-si-price">${escHtml(t.price && t.price !== 'N/A' ? t.price : '—')}</td>
-  <td class="td-si-filed">${t.filed_after_days?t.filed_after_days+'d':'—'}</td>
-</tr>`;
-    }).join('');
+    siTradesCache = sorted;
+    siPage = 1;
+    renderSiTrades();
 
     currentStockTicker = ticker;
     document.getElementById('si-list-view').style.display = 'none';
