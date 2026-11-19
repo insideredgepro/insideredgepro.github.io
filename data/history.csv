@@ -12194,7 +12194,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-17,16:34,2026-11-13,ITG,"Itg, Inc./De/",Laperch William G,Dir,P - Purchase,5.68,8810,16310,+117%,50040,True
 2026-11-17,16:31,2026-11-13,TH,Target Hospitality Corp.,Patenaude Pamela H.,Dir,P - Purchase,11.39,4000,73375,+6%,45560,True
 2026-11-17,16:30,2026-11-13,UPBD,"Upbound Group, Inc.",Jain Charu,Dir,P - Purchase,24.60,2000,2000,New,49200,True
-2026-11-17,16:27,2026-11-16,SRTS,"Sensus Healthcare, Inc.",Sardano Joseph C,CEO,P - Purchase,2.40,30000,1250293,+2%,72108,False
+2026-11-17,16:27,2026-11-16,SRTS,"Sensus Healthcare, Inc.",Sardano Joseph C,CEO,P - Purchase,2.40,30000,1250293,+2%,72108,True
 2026-11-17,16:23,2026-11-13,FRPH,"Frp Holdings, Inc.",Baker John D II,"Dir, 10%",P - Purchase,18.45,5606,3350613,0%,103431,True
 2026-11-17,16:15,2026-11-17,DKNG,Draftkings Inc.,Kalish Matthew,Dir,P - Purchase,18.22,55000,5886154,+1%,1002100,True
 2026-11-17,16:15,2026-11-16,ETN,Eaton Corp Plc,Johnson Gerald,Dir,P - Purchase,338.82,300,2129,+16%,101646,True
@@ -12264,7 +12264,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-18,11:40,2026-11-18,NTB,Bank of N.T. Butterfield & Son Ltd,Lynch Mark T,Dir,P - Purchase,54.95,3000,238972,+1%,164850,False
 2026-11-18,10:45,2026-11-17,VIVO,Vivopower Plc,Chin Kevin,"COB, CEO, 10%",P - Purchase,1.93,287000,4684828,+7%,553910,False
 2026-11-18,10:31,2026-11-16,EDRY,Eurodry Ltd.,Pittas Aristeidis P,Dir,P - Purchase,37.45,1150,77663,+2%,43068,False
-2026-11-18,10:04,2026-11-17,EFC,Ellington Financial Inc.,Penn Laurence,"CEO, Pres",P - Purchase,10.65,10000,638406,+2%,106540,False
+2026-11-18,10:04,2026-11-17,EFC,Ellington Financial Inc.,Penn Laurence,"CEO, Pres",P - Purchase,10.65,10000,638406,+2%,106540,True
 2026-11-18,10:02,2026-11-17,RILY,"Brc Group Holdings, Inc.",Riley Bryant R,"COB, Co-CEO, 10%",P - Purchase,3.07,38000,6793767,+1%,116767,False
 2026-11-18,20:51,2026-11-17,XTIA,"Xti Aerospace, Inc.",Evans Allan Thomas,Dir,P - Purchase,0.87,100000,100000,New,86874,False
 2026-11-18,20:35,2026-11-16,GRCE,"Grace Therapeutics, Inc.",Opaleye Management Inc.,10%,P - Purchase,1.74,48060,3102904,+2%,83435,False
@@ -12319,3 +12319,23 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-18,16:01,2026-11-17,DTI,Drilling Tools International Corp,Rodriguez Aldo,VP of Sales,P - Purchase,1.60,28500,156926,+22%,45640,True
 2026-11-18,16:01,2026-11-18,LWLG,"Lightwave Logic, Inc.",Graffam Fred,CFO,P - Purchase,2.87,10000,406694,+3%,28700,False
 2026-11-18,21:45,2026-11-17,STXS,"Stereotaxis, Inc.",Menawat Arun Swarup,Dir,P - Purchase,0.82,121561,1157121,+12%,99984,False
+2026-11-19,14:02,2026-11-17,PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,8.09,50000,1743000,+3%,404680,False
+2026-11-19,13:44,2026-11-18,HMH,Hmh Holding Inc,Bergsvik Eirik,CEO,P - Purchase,11.01,8000,152234,+6%,88080,True
+2026-11-19,13:04,2026-10-06,ELTK,Eltek Ltd,Nissan Yitzhak,Dir,P - Purchase,6.74,20163,4240252,0%,135834,False
+2026-11-19,13:01,2026-08-12,ELTK,Eltek Ltd,Nissan Yitzhak,Dir,P - Purchase,8.92,258982,4220089,+7%,2311090,False
+2026-11-19,12:59,2026-03-30,ELTK,Eltek Ltd,Nissan Yitzhak,Dir,P - Purchase,8.66,18645,3961107,0%,161502,False
+2026-11-19,12:35,2026-11-18,CLNN,Clene Inc.,Wilcox Reed N,Dir,P - Purchase,3.42,10000,38756,+35%,34240,False
+2026-11-19,12:29,2026-11-18,CWBC,Community West Bancshares,Gill Jagroop,Dir,P - Purchase,24.50,12000,600067,+2%,293988,False
+2026-11-19,12:26,2026-11-18,OBK,"Origin Bancorp, Inc.",Jones Michael Aubrey,Dir,P - Purchase,52.44,1500,212174,+1%,78660,True
+2026-11-19,12:02,2026-11-18,CCB,Coastal Financial Corp,Hovde Steven D,"Dir, 10%",P - Purchase,37.50,5000,1748793,0%,187500,False
+2026-11-19,11:56,2026-11-17,HMH,Hmh Holding Inc,McGee Thomas W.,CFO,P - Purchase,11.77,140000,294995,+90%,1647972,True
+2026-11-19,09:59,2026-11-17,SRTS,"Sensus Healthcare, Inc.",Sachetta Eric,Dir,P - Purchase,2.24,81575,378452,+27%,182973,True
+2026-11-19,09:25,2026-11-18,EFC,Ellington Financial Inc.,Vranos Michael W,Co-Chief Investment Officer,P - Purchase,10.81,192000,2274446,+9%,2075344,True
+2026-11-19,08:34,2026-11-18,DX,Dynex Capital Inc,Boston Byron L,"Co-CEO, COB",P - Purchase,9.64,5187,908994,+1%,50003,True
+2026-11-19,08:00,2026-11-17,CTGO,Contango Silver & Gold Inc.,Van Nieuwenhuyse Rick,CEO,P - Purchase,10.92,9258,564509,+2%,101097,True
+2026-11-19,07:24,2026-11-17,API,"Agora, Inc.",Zhao Bin,CEO,P - Purchase,3.68,8584,85803423,0%,31628,False
+2026-11-19,07:19,2026-11-17,MTDR,Matador Resources Co,Foran Joseph Wm,"COB, CEO",P - Purchase,50.98,2500,5490230,0%,127450,True
+2026-11-19,07:11,2026-11-18,DRD,Drdgold Ltd,Hoffman Mark C A,Dir,P - Purchase,2.21,15923,15923,New,35152,False
+2026-11-19,07:00,2026-11-17,CTGO,Contango Silver & Gold Inc.,Juneau John B,Dir,P - Purchase,10.86,18300,724702,+3%,198738,True
+2026-11-19,06:32,2026-11-17,AGMB,Agomab Therapeutics Nv,Epstein David R,Dir,P - Purchase,5.57,5000,59980,+9%,27850,False
+2026-11-19,06:02,2026-11-17,MSC,Studio City International Holdings Ltd,Ho Lawrence Yau Lung,Dir,P - Purchase,0.26,100948,464424220,0%,26196,False
