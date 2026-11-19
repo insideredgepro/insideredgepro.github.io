@@ -43,6 +43,7 @@ TEMPLATE = '''<!DOCTYPE html>
   <meta name="theme-color" content="#04080f" />
   <title>{title}</title>
   <meta name="description" content="{desc}" />
+  <meta name="keywords" content="{keywords}" />
   <link rel="canonical" href="{url}" />
   <meta property="og:type" content="profile" />
   <meta property="og:title" content="{title}" />
@@ -122,13 +123,19 @@ TEMPLATE = '''<!DOCTYPE html>
   <div class="crumbs"><a href="/">Home</a> &rsaquo; <a href="/congress.html">Congress Trades</a> &rsaquo; {name}</div>
   <div class="pol-head">
     <div>
-      <h1>{name} Stock Trades</h1>
+      <h1>{name} Trading Activity &amp; Stock Trades</h1>
       <p class="sub">{party} &middot; {chamber}{state_part} &middot; {trade_count} disclosed trades tracked</p>
     </div>
     <div>
       <span class="tag tag-party">{party}</span><span class="tag tag-chamber">{chamber}</span>
     </div>
   </div>
+
+  <p class="sub" style="margin-top:14px;max-width:760px">
+    Follow <strong>{name}&rsquo;s trading activity</strong> with the free InsiderEdgePro {name} stock trade tracker.
+    Every stock purchase and sale disclosed by {name} under the STOCK Act is listed below &mdash;
+    including tickers, amounts, filing dates, and who made the trade &mdash; updated daily as new filings appear.
+  </p>
 
   <div class="stats">
     <div class="stat"><div class="stat-v">{trade_count}</div><div class="stat-l">Disclosed Trades</div></div>
@@ -138,7 +145,7 @@ TEMPLATE = '''<!DOCTYPE html>
     <div class="stat"><div class="stat-v">{latest}</div><div class="stat-l">Latest Filing</div></div>
   </div>
 
-  <h2>Recent STOCK Act Disclosures</h2>
+  <h2>{name}&rsquo;s Recent STOCK Act Disclosures</h2>
   <div class="table-wrap">
     <table>
       <thead><tr><th>Published</th><th>Ticker</th><th>Asset</th><th>Type</th><th>Amount</th><th>Owner</th><th>Filed After</th></tr></thead>
@@ -261,13 +268,19 @@ def main():
             )
 
         url = f'{SITE}/politician/{slug}.html'
-        title = f'{name} Stock Trades — STOCK Act Tracker | InsiderEdgePro'
-        desc = (f'Track {name}\'s disclosed stock trades — {len(rows)} trades, {buys} purchases and {sells} sales '
-                f'across {tickers} tickers, filed under the STOCK Act. Free, updated daily.')
+        title = f'{name} Trading Activity & Stock Trade Tracker | InsiderEdgePro'
+        desc = (f'Track {name}\'s trading activity in real time — {name} stock trades, purchases and sales '
+                f'disclosed under the STOCK Act. {len(rows)} recent trades across {tickers} tickers '
+                f'({buys} buys, {sells} sells). Free {name} trade tracker, updated daily.')
+        keywords = (f'{name} trading activity, {name} stock trades, {name} trade tracker, '
+                    f'{name} stock tracker, {name} STOCK Act, {name} insider trades, '
+                    f'{name} portfolio, {name} congress trades, politician stock tracker, '
+                    f'congressional stock trades')
 
         person_ld = json.dumps({
             '@context': 'https://schema.org', '@type': 'Person', 'name': name,
             'jobTitle': f'U.S. {chamber}'.strip(), 'affiliation': party,
+            'description': f'{name} trading activity and stock trade tracker — STOCK Act disclosures.',
         })
         breadcrumb_ld = json.dumps({
             '@context': 'https://schema.org', '@type': 'BreadcrumbList',
@@ -278,7 +291,7 @@ def main():
             ]})
 
         page = TEMPLATE.format(
-            title=esc(title), desc=esc(desc), url=url, name=esc(name),
+            title=esc(title), desc=esc(desc), keywords=esc(keywords), url=url, name=esc(name),
             party=esc(party), chamber=esc(chamber), state_part=state_part,
             trade_count=len(rows), buys=buys, sells=sells, tickers=tickers,
             latest=esc(latest), rows='\n'.join(trs), year=year,
