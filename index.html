@@ -838,6 +838,41 @@
       .stat-val { font-size: 16px; }
       .mcard h3 { font-size: 15px; }
     }
+    /* ── LATEST FILINGS ── */
+    .lf-wrap {
+      margin-top: 36px; border: 1px solid var(--borderS); border-radius: 14px;
+      background: var(--bg2); overflow: hidden;
+    }
+    .lf-table { width: 100%; border-collapse: collapse; }
+    .lf-table th {
+      text-align: left; font-size: 10px; font-weight: 700; letter-spacing: .12em;
+      text-transform: uppercase; color: var(--muted); padding: 13px 18px;
+      border-bottom: 1px solid var(--borderS); background: rgba(255,255,255,.015);
+    }
+    .lf-table td { padding: 12px 18px; border-bottom: 1px solid var(--borderS); font-size: 13px; vertical-align: middle; }
+    .lf-table tr:last-child td { border-bottom: none; }
+    .lf-table tbody tr { transition: background .15s; }
+    .lf-table tbody tr:hover { background: rgba(26,188,219,.04); }
+    .lf-date { font-family: var(--fm); font-size: 12px; color: var(--muted); white-space: nowrap; }
+    .lf-nm { font-weight: 600; color: var(--text2); font-size: 13px; }
+    .lf-rl { font-size: 11px; color: var(--muted); margin-top: 1px; }
+    .lf-co { color: var(--muted); max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .lf-tk { font-family: var(--fm); font-weight: 700; color: var(--cyan); letter-spacing: .04em; }
+    .lf-type {
+      display: inline-block; padding: 3px 10px; border-radius: 6px;
+      font-family: var(--fm); font-size: 10px; font-weight: 700; letter-spacing: .06em;
+    }
+    .lf-type.buy  { background: rgba(16,217,138,.12); color: var(--green); border: 1px solid rgba(16,217,138,.25); }
+    .lf-type.sell { background: rgba(239,68,68,.12); color: #ef4444; border: 1px solid rgba(239,68,68,.25); }
+    .lf-val { font-family: var(--fm); font-weight: 700; color: var(--text2); text-align: right; white-space: nowrap; }
+    .lf-delta { font-family: var(--fm); font-size: 12px; color: var(--muted); text-align: right; }
+    .lf-more { text-align: center; margin-top: 26px; }
+    .lf-skel td { color: var(--muted); font-size: 13px; text-align: center; padding: 30px 18px; }
+    #lc-more { margin-top: 14px; font-size: 12px; color: var(--muted); line-height: 1.6; }
+    @media (max-width: 720px) {
+      .lf-co, .lf-delta { display: none; }
+      .lf-table th:nth-child(3), .lf-table th:nth-child(7) { display: none; }
+    }
   </style>
 </head>
 <body>
@@ -1031,6 +1066,31 @@
   </div>
 </div>
 
+<!-- ═══════════════ LATEST FILINGS ═══════════════ -->
+<section class="section" id="latest-filings">
+  <div class="wrap">
+    <div class="section-eyebrow">Fresh Off the Wire</div>
+    <h2 class="section-title">Latest Insider Filings</h2>
+    <p class="section-sub">The most recent SEC Form 4 disclosures parsed by InsiderEdgePro — refreshed every 30 minutes.</p>
+    <div class="lf-wrap reveal">
+      <table class="lf-table">
+        <thead>
+          <tr><th>Filed</th><th>Insider</th><th class="lf-co">Company</th><th>Ticker</th><th>Type</th><th style="text-align:right">Value</th><th class="lf-delta" style="text-align:right">Δ Own</th></tr>
+        </thead>
+        <tbody id="lf-body">
+          <tr class="lf-skel"><td colspan="7">Loading live filings…</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="lf-more">
+      <a href="us.html" class="cta-s">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        Open Full Live Feed
+      </a>
+    </div>
+  </div>
+</section>
+
 <!-- ═══════════════ FEATURED TRACKERS ═══════════════ -->
 <section class="section section-alt">
   <div class="wrap">
@@ -1207,33 +1267,23 @@
         <p>A single insider buy is notable. Two or more insiders at the same company buying simultaneously is one of the highest-conviction signals in quantitative finance.</p>
         <p>InsiderEdgePro automatically detects cluster buys in real time — flagging the exact moment multiple executives purchase shares in the same window, across all three markets.</p>
       </div>
-      <div class="ccard reveal">
+      <div class="ccard reveal" id="live-cluster-card">
         <div class="ccard-hdr">
           <div>
-            <div class="ccard-ticker">ACME</div>
-            <div class="ccard-ticker-sub">Acme Technologies Inc.</div>
+            <div class="ccard-ticker" id="lc-ticker">—</div>
+            <div class="ccard-ticker-sub" id="lc-company">Scanning live filings…</div>
           </div>
           <div class="ccard-tag">
             <svg width="7" height="7" viewBox="0 0 8 8"><circle cx="4" cy="4" r="4" fill="#10d98a"/></svg>
             Cluster Buy
           </div>
         </div>
-        <div class="crow">
-          <div><div class="crow-nm">Michael Chen</div><div class="crow-role">Chief Executive Officer</div></div>
-          <div class="crow-val">$482,000</div>
-        </div>
-        <div class="crow">
-          <div><div class="crow-nm">Sarah Williams</div><div class="crow-role">Chief Financial Officer</div></div>
-          <div class="crow-val">$218,500</div>
-        </div>
-        <div class="crow">
-          <div><div class="crow-nm">James Patel</div><div class="crow-role">Director</div></div>
-          <div class="crow-val">$95,000</div>
-        </div>
+        <div id="lc-rows"></div>
         <div class="ccard-total">
           <span class="ccard-total-lbl">Total insider purchases</span>
-          <span class="ccard-total-val">$795,500</span>
+          <span class="ccard-total-val" id="lc-total">—</span>
         </div>
+        <div id="lc-more"></div>
       </div>
     </div>
   </div>
@@ -1419,6 +1469,48 @@
     if(window.IEP&&IEP.fillMarquee)IEP.fillMarquee(all);
     if(window.__iepFloats)window.__iepFloats(all);
     const te=document.getElementById('term-total');if(te)te.textContent=all.length;
+
+    const escH=s=>String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+    /* Latest filings mini-feed */
+    const lfBody=document.getElementById('lf-body');
+    if(lfBody){
+      const recent=[...all].sort((a,b)=>((b.filing_date||'')+(b.filing_time||'')).localeCompare((a.filing_date||'')+(a.filing_time||''))).slice(0,8);
+      lfBody.innerHTML=recent.length?recent.map(t=>{
+        const isBuy=(t.trade_type||'').toUpperCase().startsWith('P');
+        return `<tr>
+          <td class="lf-date">${fmtDate(t.filing_date)}</td>
+          <td><div class="lf-nm">${escH(t.insider_name)}</div><div class="lf-rl">${escH(t.title||'')}</div></td>
+          <td class="lf-co">${escH(t.company||'')}</td>
+          <td class="lf-tk">${escH(t.ticker)}</td>
+          <td><span class="lf-type ${isBuy?'buy':'sell'}">${isBuy?'BUY':'SELL'}</span></td>
+          <td class="lf-val">${fmt(t.value)}</td>
+          <td class="lf-delta">${escH(t.delta_own||'—')}</td>
+        </tr>`;
+      }).join(''):'<tr class="lf-skel"><td colspan="7">No filings available yet.</td></tr>';
+    }
+
+    /* Live cluster card — real biggest active cluster */
+    const cm={};
+    all.filter(t=>t.cluster_buy&&t.ticker).forEach(t=>{
+      const c=cm[t.ticker]||(cm[t.ticker]={ticker:t.ticker,company:t.company,ins:{},value:0});
+      if(!c.ins[t.insider_name]||parseFloat(t.value)>parseFloat(c.ins[t.insider_name].value))c.ins[t.insider_name]=t;
+      c.value+=parseFloat(t.value)||0;
+    });
+    const cl=Object.values(cm).filter(c=>Object.keys(c.ins).length>=2)
+      .sort((a,b)=>Object.keys(b.ins).length-Object.keys(a.ins).length||b.value-a.value);
+    const top=cl[0];
+    if(top&&document.getElementById('lc-ticker')){
+      document.getElementById('lc-ticker').textContent=top.ticker;
+      document.getElementById('lc-company').textContent=top.company||'';
+      document.getElementById('lc-rows').innerHTML=Object.values(top.ins).slice(0,4).map(t=>
+        `<div class="crow"><div><div class="crow-nm">${escH(t.insider_name)}</div><div class="crow-role">${escH(t.title||'')}</div></div><div class="crow-val">${fmt(t.value)}</div></div>`
+      ).join('');
+      document.getElementById('lc-total').textContent=fmt(top.value);
+      const others=cl.slice(1,4).map(c=>`${escH(c.ticker)} (${Object.keys(c.ins).length} insiders)`).join(' &middot; ');
+      const moreEl=document.getElementById('lc-more');
+      if(moreEl&&others)moreEl.innerHTML='Also clustering right now: '+others;
+    }
 
     /* Terminal rows */
     const tb=document.getElementById('terminal-body');
