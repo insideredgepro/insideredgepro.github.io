@@ -150,7 +150,7 @@
       --orange:   #f97316;
       --text:     #e2eaf4;
       --text2:    #7a97b8;
-      --muted:    #3d5470;
+      --muted:    #7d94ad;
       --fh: 'Geist', sans-serif;
       --fb: 'Inter', sans-serif;
       --fm: 'JetBrains Mono', monospace;
@@ -697,7 +697,7 @@
       display: inline-block; margin-bottom: 10px;
     }
     .footer-brand p { font-size: 13px; color: var(--text2); line-height: 1.68; max-width: 240px; }
-    .footer-col h4 { font-family: var(--fm); font-size: 10px; font-weight: 700; color: var(--muted); letter-spacing: .1em; text-transform: uppercase; margin-bottom: 16px; }
+    .footer-col h4, .footer-col .fh4 { font-family: var(--fm); font-size: 10px; font-weight: 700; color: var(--muted); letter-spacing: .1em; text-transform: uppercase; margin-bottom: 16px; }
     .footer-col a { display: block; font-size: 13px; color: var(--text2); margin-bottom: 10px; transition: color .15s; }
     .footer-col a:hover { color: var(--cyan); }
     .footer-bottom { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
@@ -908,7 +908,7 @@
 <header class="header">
   <div class="header-inner">
     <a href="/" class="brand">
-      <img src="insideredge_logo_cyan_v2.png" alt="InsiderEdgePro" onerror="this.style.display='none'" />
+      <img src="logo-96.webp" srcset="logo-96.webp 1x, logo-192.webp 2x" width="46" height="46" alt="InsiderEdgePro" onerror="this.style.display='none'" />
       <span class="brand-name">InsiderEdgePro</span>
     </a>
     <nav class="hnav" aria-label="Main navigation">
@@ -1345,14 +1345,14 @@
         <p>The only free dashboard tracking SEC Form 4 insider trades, congressional STOCK Act disclosures, and Canadian SEDI filings — with real-time cluster buy detection.</p>
       </div>
       <div class="footer-col">
-        <h4>Markets</h4>
+        <div class="fh4">Markets</div>
         <a href="us.html">US Insider Trades</a>
         <a href="congress.html">Congress Trades</a>
         <a href="canada.html">Canada SEDI</a>
         <a href="nancy-pelosi-stock-tracker.html">Nancy Pelosi</a>
       </div>
       <div class="footer-col">
-        <h4>Product</h4>
+        <div class="fh4">Product</div>
         <a href="login.html">Sign In Free</a>
         <a href="us.html">Live Dashboard</a>
         <a href="congress.html">Discord Alerts</a>
@@ -1360,7 +1360,7 @@
         <a href="methodology.html">Methodology</a>
       </div>
       <div class="footer-col">
-        <h4>Data Sources</h4>
+        <div class="fh4">Data Sources</div>
         <a href="us.html">SEC EDGAR</a>
         <a href="congress.html">STOCK Act</a>
         <a href="canada.html">SEDI Canada</a>

@@ -135,7 +135,7 @@
   }
   </script>
 
-  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css?v=12" />
@@ -802,7 +802,7 @@
 
 <header>
   <div class="brand">
-    <img src="insideredge_logo_cyan_v2.png" alt="InsiderEdge Pro logo" class="brand-logo" />
+    <img src="logo-96.webp" srcset="logo-96.webp 1x, logo-192.webp 2x" width="46" height="46" alt="InsiderEdge Pro logo" class="brand-logo" />
     <div class="brand-text">
       <a href="index.html" class="brand-name" style="-webkit-text-fill-color:unset;background:unset;color:var(--gold)">InsiderEdgePro</a>
       <div class="brand-tagline">Institutional Buying Intelligence</div>
@@ -2577,7 +2577,7 @@
 })();
 </script>
 
-<script>
+<script type="module">
 (async function() {
   const _sb = supabase.createClient(
     'https://etkvznyuxjrypxsuomsm.supabase.co',

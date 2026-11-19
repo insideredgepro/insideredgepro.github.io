@@ -111,7 +111,7 @@ TEMPLATE = '''<!DOCTYPE html>
 </head>
 <body>
 <header>
-  <a class="brand" href="/"><img src="/insideredge_logo_cyan_v2.png" alt="" />InsiderEdgePro</a>
+  <a class="brand" href="/"><img src="/logo-96.webp" srcset="/logo-96.webp 1x, /logo-192.webp 2x" width="46" height="46" alt="" />InsiderEdgePro</a>
   <nav>
     <a href="/us.html">US Insiders</a>
     <a href="/congress.html">Congress</a>
@@ -207,7 +207,7 @@ INDEX_TEMPLATE = '''<!DOCTYPE html>
 </head>
 <body>
 <header>
-  <a class="brand" href="/"><img src="/insideredge_logo_cyan_v2.png" alt="" />InsiderEdgePro</a>
+  <a class="brand" href="/"><img src="/logo-96.webp" srcset="/logo-96.webp 1x, /logo-192.webp 2x" width="46" height="46" alt="" />InsiderEdgePro</a>
   <nav><a href="/us.html">US Insiders</a><a href="/congress.html">Congress</a><a href="/canada.html">Canada</a></nav>
 </header>
 <div class="wrap">
