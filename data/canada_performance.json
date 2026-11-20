@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-11-19",
-  "entry_count": 385,
+  "entry_count": 386,
   "entries": [
     {
       "id": "CA|AZS|2026-10-19|stark, michael|0.52",
@@ -10365,6 +10365,26 @@
       },
       "latest_price": 1.62,
       "return_pct": -2.99,
+      "last_snapshot": "2026-11-19"
+    },
+    {
+      "id": "CA|PDN|2026-11-19|williams, melanie|5.8",
+      "market": "CA",
+      "ticker": "PDN",
+      "yf_symbol": "PDN.TO",
+      "company": "Paladin Energy Ltd.",
+      "insider_name": "Williams, Melanie",
+      "title": "Senior Officer",
+      "trade_date": "2026-11-19",
+      "trade_price": 5.8,
+      "value": 58000.0,
+      "cluster_buy": false,
+      "currency": "CAD",
+      "snapshots": {
+        "2026-11-19": 5.8
+      },
+      "latest_price": 5.8,
+      "return_pct": 0.0,
       "last_snapshot": "2026-11-19"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-19T23:47:19Z",
-  "trade_count": 4153,
+  "last_updated": "2026-11-20T04:45:50Z",
+  "trade_count": 4154,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -63997,6 +63997,22 @@
       "qty": "35000",
       "price": "1.6699",
       "value": "58446",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4805197",
+      "trade_date": "2026-11-19",
+      "filing_date": "2026-11-19",
+      "company": "Paladin Energy Ltd.",
+      "ticker": "PDN",
+      "insider_name": "Williams, Melanie",
+      "title": "Senior Officer",
+      "security": "Ordinary Shares",
+      "qty": "10000",
+      "price": "5.8000",
+      "value": "58000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
