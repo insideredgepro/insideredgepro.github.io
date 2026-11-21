@@ -12110,7 +12110,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-13,17:54,2026-11-11,CRVS,"Corvus Pharmaceuticals, Inc.",Arcara Jeffrey,Chief Business Officer,P - Purchase,11.22,4500,4500,New,50475,False
 2026-11-13,17:48,2026-11-10,ZLAB,Zai Lab Ltd,Gaynor Richard,Dir,P - Purchase,27.19,1228,81965,+2%,33389,False
 2026-11-13,17:45,2026-11-11,CTEV,Claritev Corp,Dalton Travis,"Pres, CEO, Exec Chair",P - Purchase,29.34,5110,555785,+1%,149927,True
-2026-11-13,17:38,2026-11-11,UPST,"Upstart Holdings, Inc.",Gu Paul,CEO,P - Purchase,20.57,50000,1397546,+4%,1028400,False
+2026-11-13,17:38,2026-11-11,UPST,"Upstart Holdings, Inc.",Gu Paul,CEO,P - Purchase,20.57,50000,1397546,+4%,1028400,True
 2026-11-13,17:33,2026-11-13,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"CEO, Pres, 10%",P - Purchase,5.02,30000,7873140,0%,150501,False
 2026-11-13,17:32,2026-11-11,GLP,Global Partners LP,Global Gp LLC,General Partner,P - Purchase,44.25,10000,181584,+6%,442475,False
 2026-11-13,16:43,2026-11-11,FUN,Six Flags Entertainment Corporation/New,Jaffer Rehan,Dir,P - Purchase,11.21,825000,7175000,+13%,9246000,True
@@ -12187,7 +12187,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-17,07:59,2026-11-16,PCT,"Purecycle Technologies, Inc.",Olson Dustin,CEO,P - Purchase,1.69,220000,1529960,+17%,371800,True
 2026-11-17,06:30,2026-11-16,RNXT,"Renovorx, Inc.",Agah Ramtin,"Exec COB, CMO",P - Purchase,0.93,50000,848460,+6%,46485,False
 2026-11-17,06:23,2026-11-16,BW,"Babcock & Wilcox Enterprises, Inc.","Brc Group Holdings, Inc.",10%,P - Purchase,4.24,50000,27844353,0%,212000,True
-2026-11-17,17:00,2026-11-16,UPST,"Upstart Holdings, Inc.",Gu Paul,CEO,P - Purchase,19.00,50000,1447546,+4%,950000,False
+2026-11-17,17:00,2026-11-16,UPST,"Upstart Holdings, Inc.",Gu Paul,CEO,P - Purchase,19.00,50000,1447546,+4%,950000,True
 2026-11-17,16:58,2026-11-13,ITG,"Itg, Inc./De/",Brooks Michael George,Dir,P - Purchase,5.62,90000,90000,New,505800,True
 2026-11-17,16:52,2026-11-13,ITG,"Itg, Inc./De/",Parrott Andrew,CEO,P - Purchase,5.62,17500,27343,+178%,98350,True
 2026-11-17,16:41,2026-11-13,ITG,"Itg, Inc./De/",Giacalone Peter,Dir,P - Purchase,5.65,90000,90000,New,508500,True
@@ -12556,3 +12556,6 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-20,06:06,2026-11-20,TSM,Taiwan Semiconductor Manufacturing Co Ltd,Lu Lee-Chung,VP,P - Purchase,60.57,5000,318514,+2%,302850,True
 2026-11-20,06:00,2026-11-18,UAMY,United States Antimony Corp,Bardswich Lloyd,"Dir, EVP, Chief Mining Eng",P - Purchase,2.53,10000,947881,+1%,25300,False
 2026-11-20,06:00,2026-11-18,PDYN,Palladyne Ai Corp.,Wolff Benjamin G,"Pres, CEO",P - Purchase,2.82,15000,7832013,0%,42251,False
+2026-11-20,20:59,2026-11-18,BOLD,"Boundless Bio, Inc.",Tang Kevin,10%,P - Purchase,2.36,103612,3152991,+3%,244231,False
+2026-11-20,20:22,2026-11-19,UPST,"Upstart Holdings, Inc.",Gu Paul,CEO,P - Purchase,17.20,50000,1497546,+3%,860065,True
+2026-11-20,20:21,2026-11-20,UPST,"Upstart Holdings, Inc.",Girouard Dave,"Dir, 10%",P - Purchase,15.85,60000,10805746,+1%,950988,True
