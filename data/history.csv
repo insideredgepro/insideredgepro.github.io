@@ -12075,7 +12075,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-13,16:37,2026-11-11,SJT,San Juan Basin Royalty Trust,Oliver Eric L,10%,P - Purchase,4.42,455189,5397983,+9%,2012408,False
 2026-11-13,16:30,2026-11-11,BW,"Babcock & Wilcox Enterprises, Inc.",Tato Joseph A,Dir,P - Purchase,5.27,10000,217338,+5%,52692,True
 2026-11-13,16:30,2026-11-13,FCPT,"Four Corners Property Trust, Inc.",Lenehan William H,"Pres, CEO",P - Purchase,23.19,6468,796325,+1%,149992,False
-2026-11-13,16:26,2026-11-11,ALDX,"Aldeyra Therapeutics, Inc.",Douglas Richard,Dir,P - Purchase,0.64,200000,395000,+103%,128900,False
+2026-11-13,16:26,2026-11-11,ALDX,"Aldeyra Therapeutics, Inc.",Douglas Richard,Dir,P - Purchase,0.64,200000,395000,+103%,128900,True
 2026-11-13,16:25,2026-11-13,ALT,"Altimmune, Inc.",Durso Jerome Benedict,"Pres, CEO",P - Purchase,1.62,30700,93200,+49%,49694,False
 2026-11-13,16:23,2026-11-13,AKAM,Akamai Technologies Inc,Leighton F Thomson,CEO,P - Purchase,85.08,30000,2766296,+1%,2552400,False
 2026-11-13,16:21,2026-11-12,CAT,Caterpillar Inc,Maclennan David,Dir,P - Purchase,596.10,350,8773,+4%,208635,True
@@ -12634,3 +12634,11 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-23,12:00,2026-11-18,SLSN,"Solesence, Inc.",Whitmore R Janet,Dir,P - Purchase,1.54,59195,4232591,+1%,90890,False
 2026-11-23,11:50,2026-11-19,BG,Bunge Global Sa,Mahoney Christopher,Dir,P - Purchase,92.93,12500,27330,+84%,1161650,False
 2026-11-23,10:47,2026-11-20,KMT,Kennametal Inc,Chowbey Sanjay,"Pres, CEO",P - Purchase,21.48,3000,283957,+1%,64440,True
+2026-11-24,07:04,2026-11-20,VANI,"Vivani Medical, Inc.",Williams Gregg,"Dir, 10%",P - Purchase,1.02,5208902,47119401,+12%,5295331,False
+2026-11-24,06:58,2026-11-20,ALDX,"Aldeyra Therapeutics, Inc.",Brady Todd C,"Pres, CEO",P - Purchase,0.81,300000,2021298,+17%,243060,True
+2026-11-24,06:26,2026-11-23,HSHP,Himalaya Shipping Ltd.,Svensen Lars-Christian,Contracted CEO,P - Purchase,15.16,6800,29986,+29%,103088,False
+2026-11-24,06:18,2026-11-20,OWLS,Obook Holdings Inc.,Wang Chun Kai,CEO,P - Purchase,2.04,23908,3192967,+1%,48703,False
+2026-11-24,06:06,2026-11-20,XGPU,"Reliance Global Group, Inc.",Korman Judah,"COO, 10%",P - Purchase,2.60,51737,62957,+461%,134516,True
+2026-11-24,06:05,2026-11-20,XGPU,"Reliance Global Group, Inc.",Beyman Mordechai Menachem,"VP, 10%",P - Purchase,2.60,28783,32500,+774%,74836,True
+2026-11-24,06:03,2026-11-20,XGPU,"Reliance Global Group, Inc.",Beyman Ezra,"COB, CEO, 10%",P - Purchase,2.60,117385,228525,+106%,305201,True
+2026-11-23,21:51,2026-10-28,FRMI,Fermi Inc.,Wentz George R. Jr.,GC,P - Purchase,2.90,2223624,25331950,+10%,6448510,False
