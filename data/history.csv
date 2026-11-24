@@ -11984,7 +11984,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-12,06:37,2026-11-10,MP,Mp Materials Corp. / De,Corbett Ryan,CFO,P - Purchase,36.25,5476,114493,+5%,198516,True
 2026-11-12,06:17,2026-11-10,CMRE,Costamare Inc.,Zacharatos Konstantinos,Dir,P - Purchase,25.50,1218,53506,+2%,31059,False
 2026-11-12,06:15,2026-07-08,NORD,Nordicus Partners Corp,Ac Nordic Aps,"Dir, 10%",P - Purchase,2.00,20000,3139335,+1%,40000,False
-2026-11-12,06:14,2026-11-09,MNR,Mach Natural Resources LP,Ward Tom L.,"See Remarks, 10%",P - Purchase,9.17,110000,28557346,0%,1008700,False
+2026-11-12,06:14,2026-11-09,MNR,Mach Natural Resources LP,Ward Tom L.,"See Remarks, 10%",P - Purchase,9.17,110000,28557346,0%,1008700,True
 2026-11-12,06:10,2026-11-10,NTHI,"Neonc Technologies Holdings, Inc.",Heshmatpour Amir F,"CEO, Pres, 10%",P - Purchase,4.21,70000,12373280,+1%,294500,False
 2026-11-12,06:08,2026-11-09,SJT,San Juan Basin Royalty Trust,Oliver Eric L,10%,P - Purchase,3.99,352364,4942794,+8%,1404987,False
 2026-11-12,06:06,2026-11-06,GSM,Ferroglobe Plc,"Girardeau David Marie, Gabriel",SEE REMARKS,P - Purchase,2.62,15500,70664,+28%,40610,True
@@ -12198,7 +12198,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-17,16:23,2026-11-13,FRPH,"Frp Holdings, Inc.",Baker John D II,"Dir, 10%",P - Purchase,18.45,5606,3350613,0%,103431,True
 2026-11-17,16:15,2026-11-17,DKNG,Draftkings Inc.,Kalish Matthew,Dir,P - Purchase,18.22,55000,5886154,+1%,1002100,True
 2026-11-17,16:15,2026-11-16,ETN,Eaton Corp Plc,Johnson Gerald,Dir,P - Purchase,338.82,300,2129,+16%,101646,True
-2026-11-17,16:15,2026-11-13,USEA,United Maritime Corp,Kostopoulos Dimitrios,Dir,P - Purchase,2.99,15000,350000,+4%,44886,False
+2026-11-17,16:15,2026-11-13,USEA,United Maritime Corp,Kostopoulos Dimitrios,Dir,P - Purchase,2.99,15000,350000,+4%,44886,True
 2026-11-17,16:15,2026-11-16,ETN,Eaton Corp Plc,Foster David B,See Remarks below.,P - Purchase,346.24,200,6725,+3%,69248,True
 2026-11-17,16:15,2026-11-13,LPG,Dorian Lpg Ltd.,Hadjipateras John C,"Pres, CEO, 10%",P - Purchase,48.07,20000,2036867,+1%,961460,False
 2026-11-17,16:11,2026-11-16,GLXY,Galaxy Digital Inc.,Deason Douglas R,Dir,P - Purchase,13.39,15000,122348,+14%,200850,True
@@ -12642,3 +12642,51 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-24,06:05,2026-11-20,XGPU,"Reliance Global Group, Inc.",Beyman Mordechai Menachem,"VP, 10%",P - Purchase,2.60,28783,32500,+774%,74836,True
 2026-11-24,06:03,2026-11-20,XGPU,"Reliance Global Group, Inc.",Beyman Ezra,"COB, CEO, 10%",P - Purchase,2.60,117385,228525,+106%,305201,True
 2026-11-23,21:51,2026-10-28,FRMI,Fermi Inc.,Wentz George R. Jr.,GC,P - Purchase,2.90,2223624,25331950,+10%,6448510,False
+2026-11-24,18:14,2026-11-20,CTSO,Cytosorbents Corp,Sobel Alan D.,Dir,P - Purchase,5.18,5791,15678,+59%,29997,True
+2026-11-24,18:13,2026-11-20,CTSO,Cytosorbents Corp,Mariani Peter J,CFO,P - Purchase,5.18,6757,38663,+21%,35001,True
+2026-11-24,18:10,2026-11-20,CTSO,Cytosorbents Corp,Chan Phillip P.,CEO,P - Purchase,5.18,68533,169529,+68%,355001,True
+2026-11-24,18:08,2026-11-20,CTSO,Cytosorbents Corp,Bator Michael G.,Dir,P - Purchase,5.18,9652,17216,+128%,49997,True
+2026-11-24,18:00,2026-11-23,ALG,Alamo Group Inc,Bauer Robert P,Dir,P - Purchase,132.58,1000,13455,+8%,132580,False
+2026-11-24,17:37,2026-11-20,SCOR,"Comscore, Inc.",McLaughlin Matthew F.,CEO,P - Purchase,3.23,43882,309832,+17%,141884,False
+2026-11-24,17:24,2026-11-20,RMIX,"Suncrete, Inc.",Fleming Ned N III,"Dir, 10%",P - Purchase,5.75,5000,45000,+13%,28750,True
+2026-11-24,17:00,2026-11-23,PED,Pedevco Corp,"Juniper Capital IV Gp, L.P.",10%,P - Purchase,10.57,22000,1717432,+1%,232540,True
+2026-11-24,17:00,2026-11-23,PED,Pedevco Corp,Geiser Edward,"Dir, 10%",P - Purchase,10.57,22000,6900668,0%,232540,True
+2026-11-24,16:53,2026-11-23,MKL,Markel Group Inc.,Harris Greta J,Dir,P - Purchase,1945.60,95,740,+15%,184832,False
+2026-11-24,16:52,2026-11-16,SID,National Steel Co,Daher Filho Tufi,Exec Officer,P - Purchase,0.66,40000,40000,New,26486,False
+2026-11-24,16:50,2026-11-24,NPCE,Neuropace Inc,Kumar Rakhi,Dir,P - Purchase,8.56,11361,34400,+49%,97229,True
+2026-11-24,16:43,2026-11-23,TEAM,Atlassian Corp,Cannon-Brookes Michael,"CEO, Co-Founder, 10%",P - Purchase,139.62,13400,396540,+3%,1870871,False
+2026-11-24,16:37,2026-11-23,MTDR,Matador Resources Co,Foran Joseph Wm,"COB, CEO",P - Purchase,47.83,3000,5497730,0%,143490,False
+2026-11-24,16:31,2026-11-20,COHR,Coherent Corp.,Pagliuca Stephen G,Dir,P - Purchase,185.59,82000,82000,New,15218684,True
+2026-11-24,16:31,2026-11-20,USEA,United Maritime Corp,Tsantanis Stamatios,"Dir, CEO",P - Purchase,2.92,45000,1453587,+3%,131274,True
+2026-11-24,16:30,2026-11-24,SNEX,Stonex Group Inc.,Thamodaran Dhamu R.,Dir,P - Purchase,38.30,2500,84109,+3%,95750,True
+2026-11-24,16:29,2026-11-23,SNEX,Stonex Group Inc.,Lyon Charles M,Pres,P - Purchase,38.56,10418,334660,+3%,401718,True
+2026-11-24,16:26,2026-11-20,JUSH,Jushi Holdings Inc.,Arsenault Denis J.,10%,P - Purchase,0.37,267500,8174633,+3%,98665,False
+2026-11-24,16:25,2026-11-20,AMCI,Amc Robotics Corp,Da Shengwei (Sean),"CEO, 10%",P - Purchase,1.02,342383,17392383,+2%,349969,False
+2026-11-24,16:20,2026-11-20,MPB,Mid Penn Bancorp Inc,Noone John E,Dir,P - Purchase,34.03,2000,83476,+2%,68058,False
+2026-11-24,16:17,2026-11-23,CBK,"Commercial Bancgroup, Inc.",Yates Charles L.,Dir,P - Purchase,31.99,2757,82878,+3%,88196,False
+2026-11-24,16:15,2026-11-20,LFT,"Lument Finance Trust, Inc.",Hunt James Christopher,Dir,P - Purchase,3.37,9646,84355,+13%,32524,False
+2026-11-24,16:15,2026-11-20,TEN,Tsakos Energy Navigation Ltd,Tsakos Nikolaos,CEO,P - Purchase,42.70,20000,5093802,0%,853966,False
+2026-11-24,16:11,2026-11-20,MNR,Mach Natural Resources LP,McMullen William Wallace,"See Remarks, 10%",P - Purchase,8.03,24800,149838462,0%,199243,True
+2026-11-24,16:10,2026-11-20,MNR,Mach Natural Resources LP,Ward Tom L.,"See Remarks, 10%",P - Purchase,7.98,247000,29051346,+1%,1970866,True
+2026-11-24,16:05,2026-11-24,DTM,"Dt Midstream, Inc.",Baker Stephen W,Dir,P - Purchase,113.28,500,3308,+18%,56640,False
+2026-11-24,16:05,2026-11-20,MOBI,"Mobia Medical, Inc.",Foust Richard J.,"Pres, CEO",P - Purchase,12.40,3500,5166,+210%,43401,False
+2026-11-24,16:05,2026-11-20,RNA,"Atrium Therapeutics, Inc.",Winslow Brendan R.,CFO,P - Purchase,7.13,35000,71859,+95%,249417,False
+2026-11-24,16:05,2026-11-23,FISI,Financial Institutions Inc,Holliday Susan R,Dir,P - Purchase,38.78,1000,43678,+2%,38775,False
+2026-11-24,16:03,2026-11-20,FLYX,Flyexclusive Inc.,Garner Bradley G,CFO,P - Purchase,0.91,27600,66180,+72%,25058,False
+2026-11-24,16:02,2024-11-04,IRTC,"Irhythm Holdings, Inc.",Talwalkar Abhijit Y,Dir,P - Purchase,75.16,6664,21872,+44%,500866,False
+2026-11-24,16:02,2026-11-20,FLNA,"Filana Therapeutics, Inc.",Barry Richard,"Pres, CEO",P - Purchase,0.62,86796,2050244,+4%,53814,True
+2026-11-24,16:01,2026-11-20,EVAX,Evaxion A/S,Mattsson Andreas Holm,"CAIO ,  Chief AI Officer",P - Purchase,0.05,620050,2002445,+45%,29322,True
+2026-11-24,16:01,2026-11-20,ASTS,"Ast Spacemobile, Inc.",Cisneros Adriana,Dir,P - Purchase,23.54,43564,2498383,+2%,1025401,False
+2026-11-24,16:01,2026-11-20,EVAX,Evaxion A/S,Soegaard Marianne,Dir,P - Purchase,0.05,955000,4316687,+28%,43930,True
+2026-11-24,15:04,2026-11-20,LND,Brasilagro - Brazilian Agricultural Real Estate Co,Elsztain Alejandro Gustavo,Dir,P - Purchase,2.88,11800,738920,+2%,33946,False
+2026-11-24,14:18,2026-11-23,KMT,Kennametal Inc,Alvarado Joseph,Dir,P - Purchase,22.85,2000,38257,+6%,45700,True
+2026-11-24,13:46,2026-11-20,IBIO,"Ibio, Inc.",Coastlands Capital LP,10%,P - Purchase,0.81,500000,9169697,+6%,406000,False
+2026-11-24,12:08,2026-11-23,NRGV,"Energy Vault Holdings, Inc.",Piconi Robert,"CEO, 10%",P - Purchase,2.61,15000,16299929,0%,39119,False
+2026-11-24,10:39,2026-11-23,GRNT,"Granite Ridge Resources, Inc.",Kettler Ronald Kyle,CFO,P - Purchase,5.49,5000,140276,+4%,27450,False
+2026-11-24,10:20,2026-11-20,FRD,Friedman Industries Inc,Taylor Mike J,"Pres ,  CEO ,  Dir",P - Purchase,33.75,5000,258166,+2%,168730,False
+2026-11-24,09:32,2026-11-23,CSBA,Csb Financial Inc.,Dyer Richard E,Dir,P - Purchase,14.74,2400,2400,New,35387,False
+2026-11-24,09:27,2026-11-20,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,18.98,17500,19269915,0%,332212,False
+2026-11-24,09:07,2026-11-20,CTEV,Claritev Corp,Dalton Travis,"Pres, CEO, Exec Chair",P - Purchase,19.82,2520,558305,0%,49944,True
+2026-11-24,08:53,2026-11-20,EOSE,"Eos Energy Enterprises, Inc.",Dimitrief Alexander,Dir,P - Purchase,1.45,25000,330673,+8%,36250,False
+2026-11-24,08:06,2026-11-20,PRE,Prenetics Global Ltd,Rosin Brian J,CFO of IM8 (US) LLC,P - Purchase,10.11,40000,63100,+173%,404200,False
+2026-11-24,08:05,2026-11-20,TRTX,"Tpg Re Finance Trust, Inc.",Smith Michael Bradley,Dir,P - Purchase,6.40,10000,125223,+9%,64000,True
