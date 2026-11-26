@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-25T22:41:55Z",
-  "trade_count": 4218,
+  "last_updated": "2026-11-26T05:11:01Z",
+  "trade_count": 4220,
   "currency": "CAD",
   "source": "SEDI",
   "trades": [
@@ -65037,6 +65037,38 @@
       "qty": "11000",
       "price": "27.6600",
       "value": "304260",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4807790",
+      "trade_date": "2026-11-25",
+      "filing_date": "2026-11-25",
+      "company": "Decibel Cannabis Company Inc.",
+      "ticker": "DB",
+      "insider_name": "Dym, Shawn Lawrence",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "10700",
+      "price": "1.7503",
+      "value": "18728",
+      "currency": "CAD",
+      "amendment": "",
+      "cluster_buy": false
+    },
+    {
+      "transaction_id": "4807732",
+      "trade_date": "2026-11-25",
+      "filing_date": "2026-11-25",
+      "company": "Tribeca Resources Corporation",
+      "ticker": "TRBC",
+      "insider_name": "Schmidt, Thomas",
+      "title": "Director",
+      "security": "Common Shares",
+      "qty": "200000",
+      "price": "0.1600",
+      "value": "32000",
       "currency": "CAD",
       "amendment": "",
       "cluster_buy": false
