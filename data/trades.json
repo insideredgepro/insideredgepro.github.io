@@ -84,6 +84,27 @@
     "scraped_at": "2026-11-24T04:55:02.261299+00:00"
   },
   {
+    "id": "10000067056",
+    "politician_name": "Randal Paul",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "KY",
+    "company": "NVIDIA Corporation",
+    "ticker": "NVDA:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-09",
+    "trade_published": "2026-11-26",
+    "filed_after_days": "16",
+    "price": "$178.67",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Self",
+    "comment": "",
+    "scraped_at": "2026-11-26T17:10:02.432744+00:00"
+  },
+  {
     "id": "20003804219",
     "politician_name": "James Hill",
     "party": "Republican",
@@ -103,6 +124,48 @@
     "owner": "Not Disclosed",
     "comment": "Subholding Of: HILL 1998 TRUST Description: FULL-LIQUIDATION.",
     "scraped_at": "2026-11-19T23:10:03.402940+00:00"
+  },
+  {
+    "id": "10000067055",
+    "politician_name": "Randal Paul",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "KY",
+    "company": "NVIDIA Corporation",
+    "ticker": "NVDA:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-07",
+    "trade_published": "2026-11-26",
+    "filed_after_days": "18",
+    "price": "N/A",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Self",
+    "comment": "",
+    "scraped_at": "2026-11-26T17:10:02.432730+00:00"
+  },
+  {
+    "id": "10000067054",
+    "politician_name": "Randal Paul",
+    "party": "Republican",
+    "chamber": "Senate",
+    "state": "KY",
+    "company": "NVIDIA Corporation",
+    "ticker": "NVDA:US",
+    "sector": "information-technology",
+    "transaction_type": "BUY",
+    "tx_type_extended": "",
+    "traded_on": "2026-11-05",
+    "trade_published": "2026-11-26",
+    "filed_after_days": "20",
+    "price": "$181.60",
+    "value": 8000,
+    "amount": "$1K\u2013$15K",
+    "owner": "Self",
+    "comment": "",
+    "scraped_at": "2026-11-26T17:10:02.432705+00:00"
   },
   {
     "id": "20003804200",
@@ -732,7 +795,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Edward Jones Acct",
-    "scraped_at": "2026-11-26T04:55:02.112044+00:00"
+    "scraped_at": "2026-11-26T17:10:02.432751+00:00"
   },
   {
     "id": "20003804446",
@@ -753,7 +816,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Edward Jones Acct",
-    "scraped_at": "2026-11-26T04:55:02.112068+00:00"
+    "scraped_at": "2026-11-26T17:10:02.432761+00:00"
   },
   {
     "id": "20003804447",
@@ -774,7 +837,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Edward Jones Acct",
-    "scraped_at": "2026-11-26T04:55:02.112079+00:00"
+    "scraped_at": "2026-11-26T17:10:02.432767+00:00"
   },
   {
     "id": "20003804448",
@@ -795,7 +858,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Edward Jones Acct",
-    "scraped_at": "2026-11-26T04:55:02.112087+00:00"
+    "scraped_at": "2026-11-26T17:10:02.432773+00:00"
   },
   {
     "id": "20003804449",
@@ -816,7 +879,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Edward Jones Acct",
-    "scraped_at": "2026-11-26T04:55:02.112100+00:00"
+    "scraped_at": "2026-11-26T17:10:02.432778+00:00"
   },
   {
     "id": "20003804450",
@@ -837,7 +900,7 @@
     "amount": "$1K\u2013$15K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Edward Jones Acct",
-    "scraped_at": "2026-11-26T04:55:02.112106+00:00"
+    "scraped_at": "2026-11-26T17:10:02.432784+00:00"
   },
   {
     "id": "20003804451",
@@ -858,7 +921,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Edward Jones Acct",
-    "scraped_at": "2026-11-26T04:55:02.112112+00:00"
+    "scraped_at": "2026-11-26T17:10:02.432790+00:00"
   },
   {
     "id": "20003804452",
@@ -879,7 +942,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Edward Jones Acct",
-    "scraped_at": "2026-11-26T04:55:02.112118+00:00"
+    "scraped_at": "2026-11-26T17:10:02.432796+00:00"
   },
   {
     "id": "20003804453",
@@ -900,7 +963,7 @@
     "amount": "$15K\u2013$50K",
     "owner": "Not Disclosed",
     "comment": "Subholding Of: Edward Jones Acct",
-    "scraped_at": "2026-11-26T04:55:02.112126+00:00"
+    "scraped_at": "2026-11-26T17:10:02.432804+00:00"
   },
   {
     "id": "20003804454",
