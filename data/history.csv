@@ -12870,7 +12870,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-25,08:41,2026-11-24,BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,3.94,1000000,50162517,+2%,3937300,False
 2026-11-25,08:30,2026-11-24,KDK,"Kodiak Ai, Inc.",Burnette Donald L.,"CEO, 10%",P - Purchase,1.11,2000000,30469583,+7%,2213400,False
 2026-11-25,08:20,2026-11-23,VIVO,Vivopower Plc,Chin Kevin,"COB, CEO, 10%",P - Purchase,1.76,264693,4949521,+6%,465860,False
-2026-11-25,08:19,2026-11-24,TMC,Tmc the Metals Co Inc.,Karkar Andrei,"Dir, 10%",P - Purchase,1.61,500000,61913491,+1%,805000,False
+2026-11-25,08:19,2026-11-24,TMC,Tmc the Metals Co Inc.,Karkar Andrei,"Dir, 10%",P - Purchase,1.61,500000,61913491,+1%,805000,True
 2026-11-25,08:15,2026-11-23,DX,Dynex Capital Inc,Popenoe Smriti Laxman,"Co-CEO, Pres",P - Purchase,9.74,5167,553970,+1%,50327,True
 2026-11-25,07:49,2026-11-24,SCOR,"Comscore, Inc.",McLaughlin Matthew F.,CEO,P - Purchase,3.43,25907,335739,+8%,88861,False
 2026-11-25,07:26,2006-11-25,SHMD,Schmid Group N.V.,Schuetz Arthur Josef Hermann,CFO Schmid Group N.V.,P - Purchase,1731430.00,60000,102118,+142%,2147483647,False
@@ -12935,3 +12935,17 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-25,14:03,2026-11-23,BBBT,"Black Bird Biotech, Inc.",Pustake Sumant S,Chief Operating Officer,P - Purchase,29.80,1679,4873,+53%,50034,False
 2026-11-25,13:33,2026-11-24,YYPF,,Ottino Eduardo Alberto,Director,P - Purchase,3.59,13400,13400,New,48106,False
 2026-11-27,06:02,2026-11-24,SPCB,Supercom Ltd,Trabelsi Arie,Dir,P - Purchase,6.64,10519,51223,+26%,69843,False
+2026-11-27,15:00,2026-11-24,QTRX,Quanterix Corp,Donnelly William P,Dir,P - Purchase,2.17,250000,349400,+252%,542500,False
+2026-11-27,13:30,2026-11-25,OM,"Outset Medical, Inc.",Leonard Braden Michael,10%,P - Purchase,2.83,19087,2783697,+1%,53998,False
+2026-11-27,13:22,2026-11-24,LENZ,"Lenz Therapeutics, Inc.",Leonard Braden Michael,10%,P - Purchase,2.85,138620,3328888,+4%,395577,False
+2026-11-27,13:01,2026-11-24,PRFX,Prf Technologies Ltd.,Shavit Asaf,Dir,P - Purchase,0.70,37879,37879,New,26515,False
+2026-11-27,13:01,2026-11-04,PRFX,Prf Technologies Ltd.,Cohen-Arazi Efraim,Interim CEO,P - Purchase,0.76,50000,50000,New,37774,False
+2026-11-27,12:38,2026-11-26,CMCL,Caledonia Mining Corp Plc,Wildeschutt Geralda,Dir,P - Purchase,17.69,4988,4988,New,88238,False
+2026-11-27,11:10,2026-11-25,THFF,First Financial Corp /In/,Brighton William Curtis,Dir,P - Purchase,73.24,1000,25000,+4%,73239,False
+2026-11-27,10:00,2026-11-25,PCYO,Pure Cycle Corp,Fink Christopher,Dir,P - Purchase,10.01,2500,3623,+223%,25025,False
+2026-11-27,09:55,2026-11-24,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,10%,P - Purchase,19.04,20000,19289915,0%,380819,False
+2026-11-27,09:42,2026-11-24,GLBS,Globus Maritime Ltd,Feidakis Georgios,Dir,P - Purchase,2.45,90000,6668633,+1%,220500,False
+2026-11-27,09:05,2026-11-24,WRD,Weride Inc.,Han Tony Xu,"COB, CEO",P - Purchase,0.99,597918,1091352,+121%,593912,False
+2026-11-27,09:04,2026-11-25,TMC,Tmc the Metals Co Inc.,Barron Gerard,"COB, CEO",P - Purchase,1.67,20000,41823445,0%,33400,True
+2026-11-27,08:34,2026-11-24,AMCI,Amc Robotics Corp,Da Shengwei (Sean),"CEO, 10%",P - Purchase,0.98,50132,17442015,0%,49199,False
+2026-11-27,06:44,2026-11-24,API,"Agora, Inc.",Zhao Bin,CEO,P - Purchase,3.19,72608,85876031,0%,231673,False
