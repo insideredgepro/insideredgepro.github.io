@@ -12384,7 +12384,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-19,21:40,2026-11-18,RMIX,"Suncrete, Inc.",Heyer Andrew R,Dir,P - Purchase,7.31,25000,1425924,+2%,182800,True
 2026-11-19,21:03,2026-11-18,CRVO,Cervomed Inc.,Alam John J,"CEO, Pres, 10%",P - Purchase,1.53,100000,1596578,+7%,152621,False
 2026-11-20,12:01,2026-11-19,BBOTJ,,Foster Watt R Jr,Director,P - Purchase,25.15,2000,128360,+2%,50300,False
-2026-11-20,11:57,2026-11-13,BBHRB,,Poillon Diane,Director,P - Purchase,70.75,1500,5628,+36%,106131,False
+2026-11-20,11:57,2026-11-13,BBHRB,,Poillon Diane,Director,P - Purchase,70.75,1500,5628,+36%,106131,True
 2026-11-20,10:32,2026-11-19,TTISI,,Hill Gary L.,Chief Executive Officer,P - Purchase,25.00,6000,61887,+11%,150000,False
 2026-11-20,10:09,2026-11-19,CCION,,Bresner Gregg A.,President & CIO,P - Purchase,5.66,8500,73099,+13%,48110,False
 2026-11-20,09:38,2026-11-19,EESEA,,Pittas Aristeidis P,Director,P - Purchase,62.08,950,59675,+2%,58976,False
@@ -12415,8 +12415,8 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-19,21:03,2026-11-18,CCRVO,,Alam John J,CEO & President,P - Purchase,1.53,100000,1584078,+7%,152621,False
 2026-11-19,20:07,2026-11-19,VVTIX,,Mcginnis Thomas Lynn,Chief Financial Officer,P - Purchase,0.40,100000,262539,+62%,40420,True
 2026-11-19,20:07,2026-11-19,VVTIX,,Goetgeluk Jan Roger,Chief Executive Officer,P - Purchase,0.40,100000,4132915,+2%,40450,True
-2026-11-19,20:02,2026-11-17,SSCA,,Ladd Robert T.,President and CEO,P - Purchase,6.57,30000,699731,+4%,197100,False
-2026-11-19,20:02,2026-11-17,SSCM,,Ladd Robert T.,President and CEO,P - Purchase,6.57,30000,699731,+4%,197100,False
+2026-11-19,20:02,2026-11-17,SSCA,,Ladd Robert T.,President and CEO,P - Purchase,6.57,30000,699731,+4%,197100,True
+2026-11-19,20:02,2026-11-17,SSCM,,Ladd Robert T.,President and CEO,P - Purchase,6.57,30000,699731,+4%,197100,True
 2026-11-19,20:02,2026-11-18,AAIRJ,,Murphy Thomas Edward,Director,P - Purchase,1.77,28400,85837,+49%,50183,False
 2026-11-19,18:47,2026-11-18,LLEO,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,5.72,75318,6853727,+1%,430819,False
 2026-11-19,18:44,2026-11-19,LLIDR,,Husby Jonathon B.,Director,P - Purchase,0.70,35860,130468,+38%,25059,False
@@ -12439,7 +12439,7 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-19,17:45,2026-11-18,JJYNT,,Jobson Charles E,10% Owner,P - Purchase,6.65,10396,2046467,+1%,69133,False
 2026-11-19,17:45,2026-11-19,JJYNT,,Jobson Charles E,10% Owner,P - Purchase,6.65,44963,2091430,+2%,299004,False
 2026-11-19,17:44,2026-11-19,CCCB,,Hovde Steven D,Director,P - Purchase,36.67,15000,46500,+48%,550000,False
-2026-11-19,17:36,2026-11-18,BBSM,,Carter Thomas L Jr,Executive Chairman,P - Purchase,13.51,23233,3755957,+1%,313848,False
+2026-11-19,17:36,2026-11-18,BBSM,,Carter Thomas L Jr,Executive Chairman,P - Purchase,13.51,23233,3755957,+1%,313848,True
 2026-11-19,17:32,2026-11-19,IIRTC,,Talwalkar Abhijit Y,Director,P - Purchase,96.67,7900,7900,New,763706,False
 2026-11-19,17:25,2026-11-17,AAFCG,,Tannenbaum Leonard M,Director,P - Purchase,3.49,48013,7206109,+1%,167565,True
 2026-11-19,17:25,2026-11-18,AAFCG,,Tannenbaum Leonard M,Director,P - Purchase,3.49,37491,217891,+21%,130844,True
@@ -12877,3 +12877,60 @@ filing_date,filing_time,trade_date,ticker,company,insider_name,title,trade_type,
 2026-11-25,07:00,2026-11-24,VANI,"Vivani Medical, Inc.",Williams Gregg,"Dir, 10%",P - Purchase,1.29,124285,47243686,0%,160079,False
 2026-11-25,06:30,2026-11-24,MX,Magnachip Semiconductor Corp,Lee Chae,CEO,P - Purchase,2.16,40000,588750,+7%,86366,False
 2026-11-25,06:05,2026-11-23,NTES,"Netease, Inc.",Tang Grace Hui,Dir,P - Purchase,102.73,300,300,New,30820,False
+2026-11-25,19:07,2026-11-24,DDXYZ,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,24.25,208774,5018210,+4%,5062770,False
+2026-11-25,18:50,2026-11-24,MMXF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,19.94,7517,2700762,+0%,149889,False
+2026-11-25,18:36,2026-11-24,TTMS,,Moore Evan Charles,Director,P - Purchase,4.40,29104,150159,+24%,128058,False
+2026-11-25,18:36,2026-11-23,TTMS,,Moore Evan Charles,Director,P - Purchase,4.41,29104,121055,+32%,128349,False
+2026-11-25,18:20,2026-11-25,TTEAM,,Cannon-Brookes Michael,"CEO, Co-Founder",P - Purchase,138.85,13400,423340,+3%,1860561,False
+2026-11-25,18:15,2026-11-24,GGRX,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,10.24,5289,2210360,+0%,54159,False
+2026-11-25,17:53,2026-11-24,EECF,,"Saba Capital Management, L.P.",10% Owner,P - Purchase,9.98,7036,1923622,+0%,70219,False
+2026-11-25,17:45,2026-11-24,BBG,215105,Zenuk Mark N,Director,P - Purchase,91.98,2500,9000,+38%,229956,False
+2026-11-25,17:41,2026-11-23,HHBCP,,Rader Chris P,Director,P - Purchase,61.25,500,18882,+3%,30625,False
+2026-11-25,17:22,2026-11-24,AAVD,,Gottschalk Patrick E,Director,P - Purchase,0.77,127400,413577,+45%,98098,False
+2026-11-25,17:20,2026-11-24,CCLW,,Toeldte Alexander,Director,P - Purchase,16.50,7617,7617,New,125688,False
+2026-11-25,17:20,2026-11-23,SSCM,,Bilger Bruce R,Director,P - Purchase,6.24,30606,258661,+13%,191119,True
+2026-11-25,17:20,2026-11-23,SSCA,,Bilger Bruce R,Director,P - Purchase,6.24,30606,258661,+13%,191119,True
+2026-11-25,17:14,2026-11-25,GGLXY,,Novogratz Michael,Chief Executive Officer,P - Purchase,10.99,86913,1261913,+7%,955522,True
+2026-11-25,17:14,2026-11-25,HHL,,Andres Dale,Director,P - Purchase,10.55,5000,25000,+25%,52750,False
+2026-11-25,17:14,2026-11-24,HHL,,Andres Dale,Director,P - Purchase,10.90,5000,20000,+33%,54500,False
+2026-11-25,17:13,2026-11-25,GGLXY,,Paquette Anthony,Chief Financial Officer,P - Purchase,10.74,25000,530777,+5%,268450,True
+2026-11-25,17:06,2026-11-24,BBSM,,Dewalch D Mark,Director,P - Purchase,13.29,22222,456368,+5%,295259,True
+2026-11-25,16:48,2026-11-24,NNANO,,Smith Shane,"Pres. of Forge Battery, Inc.",P - Purchase,3.07,71580,81580,+716%,219607,False
+2026-11-25,16:48,2026-11-23,NNANO,,Smith Shane,"Pres. of Forge Battery, Inc.",P - Purchase,3.10,10000,10000,New,31040,False
+2026-11-25,16:44,2026-11-24,CCOHR,,Pagliuca Stephen G,Director,P - Purchase,195.40,102040,251910,+68%,19938415,False
+2026-11-25,16:44,2026-11-23,CCOHR,,Pagliuca Stephen G,Director,P - Purchase,216.80,67870,149870,+83%,14714475,False
+2026-11-25,16:40,2026-11-25,PPATK,,Welch M Scott,Director,P - Purchase,83.36,5000,161000,+3%,416812,False
+2026-11-25,16:33,2026-11-24,AAFCG,,Tannenbaum Leonard M,Director,P - Purchase,3.49,29451,7310960,+0%,102784,False
+2026-11-25,16:33,2026-11-23,AAFCG,,Tannenbaum Leonard M,Director,P - Purchase,3.37,75400,7281509,+1%,254098,False
+2026-11-25,16:30,2026-11-25,PPLBY,,Docler Holding S.A R.L.,Director,P - Purchase,1.15,886000,22054554,+4%,1018634,False
+2026-11-25,16:30,2026-11-24,PPLBY,,Docler Holding S.A R.L.,Director,P - Purchase,1.15,298000,21168554,+1%,342611,False
+2026-11-25,16:30,2026-11-23,PPLBY,,Docler Holding S.A R.L.,Director,P - Purchase,1.14,298000,20870554,+1%,340912,False
+2026-11-25,16:30,2026-11-23,SSUNS,,Tannenbaum Leonard M,Executive Chairman,P - Purchase,6.57,24017,661299,+4%,157792,False
+2026-11-25,16:24,2026-11-23,BBGDE,,"Endeavor Blockchain, Llc",10% Owner,P - Purchase,2.16,30000,2162899,+1%,64900,False
+2026-11-25,16:15,2026-11-23,RROAD,,Fleming Ned N Iii,Director,P - Purchase,72.13,2500,2500,New,180331,False
+2026-11-25,16:15,2026-11-23,AADV,,Peacock David A,Chief Executive Officer,P - Purchase,25.00,2000,219164,+1%,50000,False
+2026-11-25,16:15,2026-11-23,AAVEX,,Wells Charles Roger Iv,Chief Executive Officer,P - Purchase,11.77,10614,104614,+11%,124927,False
+2026-11-25,16:07,2026-11-24,GGLP,,Global Gp Llc,General Partner,P - Purchase,41.08,2455,201094,+1%,100851,False
+2026-11-25,16:06,2026-11-24,NNOVT,,Wilson Frank Anders,Director,P - Purchase,104.40,500,500,New,52200,False
+2026-11-25,16:05,2026-11-23,DDRIO,,Raphael Erez,Chief Executive Officer,P - Purchase,1.46,20000,474432,+4%,29250,False
+2026-11-25,16:05,2026-11-19,EEMPD,,Read Ian C,Director,P - Purchase,2.29,123000,255000,+93%,281670,False
+2026-11-25,16:05,2026-11-18,EEMPD,,Read Ian C,Director,P - Purchase,1.92,132000,132000,New,253440,False
+2026-11-25,16:05,2026-11-20,AASPS,,Benefit Street Partners Llc,10% Owner,P - Purchase,5.65,4862,1922748,+0%,27456,False
+2026-11-25,16:05,2026-11-17,AASPS,,Benefit Street Partners Llc,10% Owner,P - Purchase,5.78,13662,1910426,+1%,78980,False
+2026-11-25,16:05,2026-11-16,AASPS,,Benefit Street Partners Llc,10% Owner,P - Purchase,5.63,14742,1896764,+1%,83012,False
+2026-11-25,16:05,2026-11-13,AASPS,,Benefit Street Partners Llc,10% Owner,P - Purchase,5.54,5861,1882022,+0%,32482,False
+2026-11-25,16:05,2026-11-09,AASPS,,Benefit Street Partners Llc,10% Owner,P - Purchase,5.80,18692,1874050,+1%,108470,False
+2026-11-25,16:05,2026-11-06,AASPS,,Benefit Street Partners Llc,10% Owner,P - Purchase,5.85,8610,1855358,+0%,50351,False
+2026-11-25,16:05,2026-11-05,AASPS,,Benefit Street Partners Llc,10% Owner,P - Purchase,5.73,5451,1846748,+0%,31240,False
+2026-11-25,16:05,2026-11-04,AASPS,,Benefit Street Partners Llc,10% Owner,P - Purchase,5.79,4734,1841297,+0%,27434,False
+2026-11-25,16:05,2026-10-30,AASPS,,Benefit Street Partners Llc,10% Owner,P - Purchase,5.50,17026,1833480,+1%,93558,False
+2026-11-25,16:05,2026-09-29,AASPS,,Benefit Street Partners Llc,10% Owner,P - Purchase,5.83,10013,1813069,+1%,58386,False
+2026-11-25,16:05,2026-11-24,TTEAM,,Cannon-Brookes Michael,"CEO, Co-Founder",P - Purchase,142.38,13400,409940,+3%,1907858,False
+2026-11-25,16:04,2026-11-23,EEP,,"Energy Evolution Master Fund,",10% Owner,P - Purchase,2.58,13998,11879679,+0%,36066,False
+2026-11-25,16:01,2026-11-24,SSANM,,Loparco Michael J,Director,P - Purchase,139.48,1066,6566,+19%,148686,False
+2026-11-25,15:54,2026-11-25,GGRWG,,Lampert Darren,CEO,P - Purchase,1.01,98033,1913833,+5%,99013,False
+2026-11-25,15:31,2026-11-24,BBPRE,,Macdonald Ryan S,Director,P - Purchase,11.36,9600,51995,+23%,109056,False
+2026-11-25,15:03,2026-11-23,EEXE,,Teunissen Marcel,EVP & CFO,P - Purchase,81.56,1000,12144,+9%,81560,False
+2026-11-25,14:23,2026-11-25,BBHRB,,Mclaughlin Shawn Patrick,Director,P - Purchase,68.75,500,72000,+1%,34375,True
+2026-11-25,14:03,2026-11-23,BBBT,"Black Bird Biotech, Inc.",Pustake Sumant S,Chief Operating Officer,P - Purchase,29.80,1679,4873,+53%,50034,False
+2026-11-25,13:33,2026-11-24,YYPF,,Ottino Eduardo Alberto,Director,P - Purchase,3.59,13400,13400,New,48106,False
